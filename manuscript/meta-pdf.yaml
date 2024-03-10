@@ -1,0 +1,24 @@
+---
+title: "Lovecraft's Short Stories"
+subtitle: "A Collection of Short Stories by H.P. Lovecraft"
+docversion: 1.0.0-DRAFT
+author: [H.P. Lovecraft]
+book: true
+toc: true
+version: "1.0.0-DRAFT"
+subject: "Cosmic Horror"
+keywords: [Lovecraft, Cosmic Horror]
+lang: "en"
+toc-own-page: true
+titlepage: true
+titlepage-text-color: "08142B"
+titlepage-rule-color: "f39200"
+titlepage-rule-height: 4
+logo-width: 128
+header-left: "\\hspace{1cm}"
+header-center: "\\textbf{\\tiny \\thetitle}"
+header-right: "\\leftmark"
+footer-left: "\\tiny \\thedate \\hspace{0.3cm}| \\hspace{0.3cm} DRAFT VERSION"
+footer-center: "\\thepage"
+footer-right: "\\tiny \\textcolor{black!60!blue}{\\textbf{Lovecraft's short stories}} - \\theauthor"
+...

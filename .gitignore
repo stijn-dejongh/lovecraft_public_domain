@@ -1,0 +1,61 @@
+# Compiled class file
+*.class
+target
+out
+node_modules
+
+.vscode
+**/.vscode/*
+.idea
+.attach
+**/.idea/*
+.fleet
+**/.fleet/*
+
+gradle
+.gradle
+gradlew
+gradlew.*
+
+*.iml
+
+# Compiled book intermediary output
+output/*-*-*-*.pdf
+output/*-*-*-*.epub
+src/cover.png
+
+# Image source files
+*.xcf
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+node_modules/**
+package-lock.json
+out/**
+
+# Custom ignores
+old_source
+
+public/
+resources/_gen/
+
+/ops/images/branding/it_depends_cover.pdf
