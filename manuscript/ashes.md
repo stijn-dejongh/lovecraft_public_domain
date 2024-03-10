@@ -1,4 +1,4 @@
-# Ashes
+# Ashes (1923)
 
 > written by: C. M. Eddy, Jr. with H. P. Lovecraft
 
