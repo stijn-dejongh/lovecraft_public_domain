@@ -1,4 +1,4 @@
-# Ashes (1923)
+## Ashes (1923)
 
 > written by: C. M. Eddy, Jr. with H. P. Lovecraft
 
@@ -271,7 +271,7 @@ jar were the ashes of Marjorie Purdy?"
 
 "Then you're not sure. You saw the girl's hat and coat
 in that chair, and in your state of mind you jumped at conclusions. &lsquo;The ashes must be those
-of the missing girl. .&nbsp;.&nbsp;. The Professor must have made away with her.&nbsp;.&nbsp;.&nbsp;.'
+of the missing girl. . . . The Professor must have made away with her. . . .'
 and all that. Come now, did Van Allister tell you anything-"
 
 "I don't know what he said. I tell you I went berserk -mad!"
@@ -340,3 +340,5 @@ her voice sank to a hoarse, nervous whisper. "Where-where is the Professor?"
 Bruce silently led her into the workshop. She shivered as the coffin of glass
 came within her range of vision. Still silently, he crossed directly to the casket, and, taking
 up a handful of the soft, white ashes, let them sift slowly through his fingers!  
+
+\pagebreak

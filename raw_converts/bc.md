@@ -129,7 +129,7 @@ of where he had last spoken to me, locating my whereabouts after a quest of abou
 
   By the time he had related this to me, I, emboldened by his torch and his company,
 began to reflect upon the strange beast which I had wounded but a short distance back in the
-darkness, and suggested that we ascertain, by the rushlight&rsquo;s aid, what manner of creature
+darkness, and suggested that we ascertain, by the rushlight's aid, what manner of creature
 was my victim. Accordingly I retraced my steps, this time with a courage born of companionship,
 to the scene of my terrible experience. Soon we descried a white object upon the floor, an object
 whiter even than the gleaming limestone itself. Cautiously advancing, we gave vent to a simultaneous

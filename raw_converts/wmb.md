@@ -5,7 +5,7 @@
 
   
 
-I hate the moon&mdash;I am afraid of it&mdash;for when it shines on certain scenes familiar
+I hate the moon--I am afraid of it--for when it shines on certain scenes familiar
 and loved it sometimes makes them unfamiliar and hideous.  
 
   It was in the spectral summer when the moon shone down on the old garden where
@@ -42,7 +42,7 @@ far, and could not be seen at all when he drew nigh that gigantic reef.
 
   So I watched the tide go out under that sinking moon, and saw gleaming the
 spires, the towers, and the roofs of that dead, dripping city. And as I watched, my nostrils
-tried to close against the perfume-conquering stench of the world&rsquo;s dead; for truly, in
+tried to close against the perfume-conquering stench of the world's dead; for truly, in
 this unplaced and forgotten spot had all the flesh of the churchyards gathered for puffy sea-worms
 to gnaw and glut upon.  
 
@@ -60,4 +60,4 @@ eyes look at me after the slinking away of that leering and treacherous yellow m
 
   And to escape this relentless thing I plunged gladly and unhesitatingly into
 the stinking shallows where amidst weedy walls and sunken streets fat sea-worms feast upon the
-world&rsquo;s dead.  
+world's dead.  

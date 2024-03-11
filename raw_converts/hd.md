@@ -9,10 +9,10 @@
 
           
 I have seen the dark universe yawning  
-  Where the black planets roll without aim&mdash;  
+  Where the black planets roll without aim--  
 Where they roll in their horror unheeded,  
   Without knowledge or lustre or name.  
-    &mdash;Nemesis.                
+    --Nemesis.                
 
 Cautious investigators will hesitate to challenge the common belief that Robert Blake was killed
 by lightning, or by some profound nervous shock derived from an electrical discharge. It is
@@ -20,39 +20,39 @@ true that the window he faced was unbroken, but Nature has shewn herself capable
 performances. The expression on his face may easily have arisen from some obscure muscular source
 unrelated to anything he saw, while the entries in his diary are clearly the result of a fantastic
 imagination aroused by certain local superstitions and by certain old matters he had uncovered.
-As for the anomalous conditions at the deserted church on Federal Hill&mdash;the shrewd analyst
+As for the anomalous conditions at the deserted church on Federal Hill--the shrewd analyst
 is not slow in attributing them to some charlatanry, conscious or unconscious, with at least
 some of which Blake was secretly connected.  
 
   For after all, the victim was a writer and painter wholly devoted to the field
 of myth, dream, terror, and superstition, and avid in his quest for scenes and effects of a
-bizarre, spectral sort. His earlier stay in the city&mdash;a visit to a strange old man as deeply
-given to occult and forbidden lore as he&mdash;had ended amidst death and flame, and it must
+bizarre, spectral sort. His earlier stay in the city--a visit to a strange old man as deeply
+given to occult and forbidden lore as he--had ended amidst death and flame, and it must
 have been some morbid instinct which drew him back from his home in Milwaukee. He may have known
 of the old stories despite his statements to the contrary in the diary, and his death may have
 nipped in the bud some stupendous hoax destined to have a literary reflection.  
 
   Among those, however, who have examined and correlated all this evidence, there
 remain several who cling to less rational and commonplace theories. They are inclined to take
-much of Blake&rsquo;s diary at its face value, and point significantly to certain facts such
+much of Blake's diary at its face value, and point significantly to certain facts such
 as the undoubted genuineness of the old church record, the verified existence of the disliked
 and unorthodox Starry Wisdom sect prior to 1877, the recorded disappearance of an inquisitive
-reporter named Edwin M. Lillibridge in 1893, and&mdash;above all&mdash;the look of monstrous,
+reporter named Edwin M. Lillibridge in 1893, and--above all--the look of monstrous,
 transfiguring fear on the face of the young writer when he died. It was one of these believers
 who, moved to fanatical extremes, threw into the bay the curiously angled stone and its strangely
-adorned metal box found in the old church steeple&mdash;the black windowless steeple, and not
-the tower where Blake&rsquo;s diary said those things originally were. Though widely censured
-both officially and unofficially, this man&mdash;a reputable physician with a taste for odd
-folklore&mdash;averred that he had rid the earth of something too dangerous to rest upon it.  
+adorned metal box found in the old church steeple--the black windowless steeple, and not
+the tower where Blake's diary said those things originally were. Though widely censured
+both officially and unofficially, this man--a reputable physician with a taste for odd
+folklore--averred that he had rid the earth of something too dangerous to rest upon it.  
 
   Between these two schools of opinion the reader must judge for himself. The
 papers have given the tangible details from a sceptical angle, leaving for others the drawing
-of the picture as Robert Blake saw it&mdash;or thought he saw it&mdash;or pretended to see it.
+of the picture as Robert Blake saw it--or thought he saw it--or pretended to see it.
 Now, studying the diary closely, dispassionately, and at leisure, let us summarise the dark
 chain of events from the expressed point of view of their chief actor.  
 
   Young Blake returned to Providence in the winter of 1934&ndash;5, taking the
-upper floor of a venerable dwelling in a grassy court off College Street&mdash;on the crest
+upper floor of a venerable dwelling in a grassy court off College Street--on the crest
 of the great eastward hill near the Brown University campus and behind the marble John Hay Library.
 It was a cosy and fascinating place, in a little garden oasis of village-like antiquity where
 huge, friendly cats sunned themselves atop a convenient shed. The square Georgian house had
@@ -61,27 +61,27 @@ of early nineteenth-century workmanship. Inside were six-panelled doors, wide fl
 a curving colonial staircase, white Adam-period mantels, and a rear set of rooms three steps
 below the general level.  
 
-  Blake&rsquo;s study, a large southwest chamber, overlooked the front garden
-on one side, while its west windows&mdash;before one of which he had his desk&mdash;faced off
-from the brow of the hill and commanded a splendid view of the lower town&rsquo;s outspread
+  Blake's study, a large southwest chamber, overlooked the front garden
+on one side, while its west windows--before one of which he had his desk--faced off
+from the brow of the hill and commanded a splendid view of the lower town's outspread
 roofs and of the mystical sunsets that flamed behind them. On the far horizon were the open
-countryside&rsquo;s purple slopes. Against these, some two miles away, rose the spectral hump
+countryside's purple slopes. Against these, some two miles away, rose the spectral hump
 of Federal Hill, bristling with huddled roofs and steeples whose remote outlines wavered mysteriously,
 taking fantastic forms as the smoke of the city swirled up and enmeshed them. Blake had a curious
 sense that he was looking upon some unknown, ethereal world which might or might not vanish
 in dream if ever he tried to seek it out and enter it in person.  
 
   Having sent home for most of his books, Blake bought some antique furniture
-suitable to his quarters and settled down to write and paint&mdash;living alone, and attending
+suitable to his quarters and settled down to write and paint--living alone, and attending
 to the simple housework himself. His studio was in a north attic room, where the panes of the
 monitor roof furnished admirable lighting. During that first winter he produced five of his
-best-known short stories&mdash;&ldquo;The Burrower Beneath&rdquo;, &ldquo;The Stairs in the
-Crypt&rdquo;, &ldquo;Shaggai&rdquo;, &ldquo;In the Vale of Pnath&rdquo;, and &ldquo;The Feaster
-from the Stars&rdquo;&mdash;and painted seven canvases; studies of nameless, unhuman monsters,
+best-known short stories-- "The Burrower Beneath ",  "The Stairs in the
+Crypt ",  "Shaggai ",  "In the Vale of Pnath ", and  "The Feaster
+from the Stars "--and painted seven canvases; studies of nameless, unhuman monsters,
 and profoundly alien, non-terrestrial landscapes.  
 
   At sunset he would often sit at his desk and gaze dreamily off at the outspread
-west&mdash;the dark towers of Memorial Hall just below, the Georgian court-house belfry, the
+west--the dark towers of Memorial Hall just below, the Georgian court-house belfry, the
 lofty pinnacles of the downtown section, and that shimmering, spire-crowned mound in the distance
 whose unknown streets and labyrinthine gables so potently provoked his fancy. From his few local
 acquaintances he learned that the far-off slope was a vast Italian quarter, though most of the
@@ -89,7 +89,7 @@ houses were remnants of older Yankee and Irish days. Now and then he would train
 on that spectral, unreachable world beyond the curling smoke; picking out individual roofs and
 chimneys and steeples, and speculating upon the bizarre and curious mysteries they might house.
 Even with optical aid Federal Hill seemed somehow alien, half fabulous, and linked to the unreal,
-intangible marvels of Blake&rsquo;s own tales and pictures. The feeling would persist long after
+intangible marvels of Blake's own tales and pictures. The feeling would persist long after
 the hill had faded into the violet, lamp-starred twilight, and the court-house floodlights and
 the red Industrial Trust beacon had blazed up to make the night grotesque.  
 
@@ -115,10 +115,10 @@ of them had even been on Federal Hill or possessed the faintest notion of what t
 or had been.  
 
   In the spring a deep restlessness gripped Blake. He had begun his long-planned
-novel&mdash;based on a supposed survival of the witch-cult in Maine&mdash;but was strangely
+novel--based on a supposed survival of the witch-cult in Maine--but was strangely
 unable to make progress with it. More and more he would sit at his westward window and gaze
 at the distant hill and the black, frowning steeple shunned by the birds. When the delicate
-leaves came out on the garden boughs the world was filled with a new beauty, but Blake&rsquo;s
+leaves came out on the garden boughs the world was filled with a new beauty, but Blake's
 restlessness was merely increased. It was then that he first thought of crossing the city and
 climbing bodily up that fabulous slope into the smoke-wreathed world of dream.  
 
@@ -138,7 +138,7 @@ the man smiled and shook his head, though he spoke English freely. As Blake clim
 the region seemed stranger and stranger, with bewildering mazes of brooding brown alleys leading
 eternally off to the south. He crossed two or three broad avenues, and once thought he glimpsed
 a familiar tower. Again he asked a merchant about the massive church of stone, and this time
-he could have sworn that the plea of ignorance was feigned. The dark man&rsquo;s face had a
+he could have sworn that the plea of ignorance was feigned. The dark man's face had a
 look of fear which he tried to hide, and Blake saw him make a curious sign with his right hand.  
 
   Then suddenly a black spire stood out against the cloudy sky on his left, above
@@ -150,9 +150,9 @@ their doorsteps, or any of the children who shouted and played in the mud of the
   At last he saw the tower plain against the southwest, and a huge stone bulk
 rose darkly at the end of an alley. Presently he stood in a windswept open square, quaintly
 cobblestoned, with a high bank wall on the farther side. This was the end of his quest; for
-upon the wide, iron-railed, weed-grown plateau which the wall supported&mdash;a separate, lesser
-world raised fully six feet above the surrounding streets&mdash;there stood a grim, titan bulk
-whose identity, despite Blake&rsquo;s new perspective, was beyond dispute.  
+upon the wide, iron-railed, weed-grown plateau which the wall supported--a separate, lesser
+world raised fully six feet above the surrounding streets--there stood a grim, titan bulk
+whose identity, despite Blake's new perspective, was beyond dispute.  
 
   The vacant church was in a state of great decrepitude. Some of the high stone
 buttresses had fallen, and several delicate finials lay half lost among the brown, neglected
@@ -160,7 +160,7 @@ weeds and grasses. The sooty Gothic windows were largely unbroken, though many o
 mullions were missing. Blake wondered how the obscurely painted panes could have survived so
 well, in view of the known habits of small boys the world over. The massive doors were intact
 and tightly closed. Around the top of the bank wall, fully enclosing the grounds, was a rusty
-iron fence whose gate&mdash;at the head of a flight of steps from the square&mdash;was visibly
+iron fence whose gate--at the head of a flight of steps from the square--was visibly
 padlocked. The path from the gate to the building was completely overgrown. Desolation and decay
 hung like a pall above the place, and in the birdless eaves and black, ivyless walls Blake felt
 a touch of the dimly sinister beyond his power to define.  
@@ -173,14 +173,14 @@ Italian priests warned everybody against it, vowing that a monstrous evil had on
 and left its mark. He himself had heard dark whispers of it from his father, who recalled certain
 sounds and rumours from his boyhood.  
 
-  There had been a bad sect there in the ould days&mdash;an outlaw sect that
+  There had been a bad sect there in the ould days--an outlaw sect that
 called up awful things from some unknown gulf of night. It had taken a good priest to exorcise
 what had come, though there did be those who said that merely the light could do it. If Father
-O&rsquo;Malley were alive there would be many the thing he could tell. But now there was nothing
+O'Malley were alive there would be many the thing he could tell. But now there was nothing
 to do but let it alone. It hurt nobody now, and those that owned it were dead or far away. They
-had run away like rats after the threatening talk in &rsquo;77, when people began to mind the
+had run away like rats after the threatening talk in '77, when people began to mind the
 way folks vanished now and then in the neighbourhood. Some day the city would step in and take
-the property for lack of heirs, but little good would come of anybody&rsquo;s touching it. Better
+the property for lack of heirs, but little good would come of anybody's touching it. Better
 it be left alone for the years to topple, lest things be stirred that ought to rest forever
 in their black abyss.  
 
@@ -215,7 +215,7 @@ to enter that haunt of desertion and shadow, yet the pull of its strangeness dra
 automatically.  
 
   A yawning and unprotected cellar window in the rear furnished the needed aperture.
-Peering in, Blake saw a subterrene gulf of cobwebs and dust faintly litten by the western sun&rsquo;s
+Peering in, Blake saw a subterrene gulf of cobwebs and dust faintly litten by the western sun's
 filtered rays. Debris, old barrels, and ruined boxes and furniture of numerous sorts met his
 eye, though over everything lay a shroud of dust which softened all sharp outlines. The rusted
 remains of a hot-air furnace shewed that the building had been used and kept in shape as late
@@ -225,7 +225,7 @@ as mid-Victorian times.
 and let himself down to the dust-carpeted and debris-strown concrete floor. The vaulted cellar
 was a vast one, without partitions; and in a corner far to the right, amid dense shadows, he
 saw a black archway evidently leading upstairs. He felt a peculiar sense of oppression at being
-actually within the great spectral building, but kept it in check as he cautiously scouted about&mdash;finding
+actually within the great spectral building, but kept it in check as he cautiously scouted about--finding
 a still-intact barrel amid the dust, and rolling it over to the open window to provide for his
 exit. Then, bracing himself, he crossed the wide, cobweb-festooned space toward the arch. Half
 choked with the omnipresent dust, and covered with ghostly gossamer fibres, he reached and began
@@ -256,20 +256,20 @@ shelves of mildewed, disintegrating books. Here for the first time he received a
 of objective horror, for the titles of those books told him much. They were the black, forbidden
 things which most sane people have never even heard of, or have heard of only in furtive, timorous
 whispers; the banned and dreaded repositories of equivocal secrets and immemorial formulae which
-have trickled down the stream of time from the days of man&rsquo;s youth, and the dim, fabulous
-days before man was. He had himself read many of them&mdash;a Latin version of the abhorred
+have trickled down the stream of time from the days of man's youth, and the dim, fabulous
+days before man was. He had himself read many of them--a Latin version of the abhorred
   Necronomicon,   the sinister   Liber Ivonis,   the infamous   Cultes des Goules  
-of Comte d&rsquo;Erlette, the   Unaussprechlichen Kulten   of von Junzt, and old Ludvig Prinn&rsquo;s
+of Comte d'Erlette, the   Unaussprechlichen Kulten   of von Junzt, and old Ludvig Prinn's
 hellish   De Vermis Mysteriis.   But there were others he had known merely by reputation
-or not at all&mdash;the Pnakotic Manuscripts, the   Book of Dzyan,   and a crumbling volume
+or not at all--the Pnakotic Manuscripts, the   Book of Dzyan,   and a crumbling volume
 in wholly unidentifiable characters yet with certain symbols and diagrams shudderingly recognisable
 to the occult student. Clearly, the lingering local rumours had not lied. This place had once
 been the seat of an evil older than mankind and wider than the known universe.  
 
   In the ruined desk was a small leather-bound record-book filled with entries
 in some odd cryptographic medium. The manuscript writing consisted of the common traditional
-symbols used today in astronomy and anciently in alchemy, astrology, and other dubious arts&mdash;the
-devices of the sun, moon, planets, aspects, and zodiacal signs&mdash;here massed in solid pages
+symbols used today in astronomy and anciently in alchemy, astrology, and other dubious arts--the
+devices of the sun, moon, planets, aspects, and zodiacal signs--here massed in solid pages
 of text, with divisions and paragraphings suggesting that each symbol answered to some alphabetical
 letter.  
 
@@ -281,7 +281,7 @@ years protected this deserted place from visitors?
 
   Having now thoroughly explored the ground floor, Blake ploughed again through
 the dust of the spectral nave to the front vestibule, where he had seen a door and staircase
-presumably leading up to the blackened tower and steeple&mdash;objects so long familiar to him
+presumably leading up to the blackened tower and steeple--objects so long familiar to him
 at a distance. The ascent was a choking experience, for dust lay thick, while the spiders had
 done their worst in this constricted place. The staircase was a spiral with high, narrow wooden
 treads, and now and then Blake passed a clouded window looking dizzily out over the city. Though
@@ -312,7 +312,7 @@ on this planet. The four-inch seeming sphere turned out to be a nearly black, re
 with many irregular flat surfaces; either a very remarkable crystal of some sort, or an artificial
 object of carved and highly polished mineral matter. It did not touch the bottom of the box,
 but was held suspended by means of a metal band around its centre, with seven queerly designed
-supports extending horizontally to angles of the box&rsquo;s inner wall near the top. This stone,
+supports extending horizontally to angles of the box's inner wall near the top. This stone,
 once exposed, exerted upon Blake an almost alarming fascination. He could scarcely tear his
 eyes from it, and as he looked at its glistening surfaces he almost fancied it was transparent,
 with half-formed worlds of wonder within. Into his mind floated pictures of alien orbs with
@@ -326,71 +326,71 @@ but something in its contours carried a message to his unconscious mind. Ploughi
 and brushing aside the hanging cobwebs as he went, he began to discern something grim about
 it. Hand and handkerchief soon revealed the truth, and Blake gasped with a baffling mixture
 of emotions. It was a human skeleton, and it must have been there for a very long time. The
-clothing was in shreds, but some buttons and fragments of cloth bespoke a man&rsquo;s grey suit.
-There were other bits of evidence&mdash;shoes, metal clasps, huge buttons for round cuffs, a
-stickpin of bygone pattern, a reporter&rsquo;s badge with the name of the old   Providence
+clothing was in shreds, but some buttons and fragments of cloth bespoke a man's grey suit.
+There were other bits of evidence--shoes, metal clasps, huge buttons for round cuffs, a
+stickpin of bygone pattern, a reporter's badge with the name of the old   Providence
 Telegram,   and a crumbling leather pocketbook. Blake examined the latter with care, finding
 within it several bills of antiquated issue, a celluloid advertising calendar for 1893, some
-cards with the name &ldquo;Edwin M. Lillibridge&rdquo;, and a paper covered with pencilled memoranda.  
+cards with the name  "Edwin M. Lillibridge ", and a paper covered with pencilled memoranda.  
 
   This paper held much of a puzzling nature, and Blake read it carefully at the
 dim westward window. Its disjointed text included such phrases as the following:  
 
-  &ldquo;Prof. Enoch Bowen home from Egypt May 1844&mdash;buys old Free-Will Church
-in July&mdash;his archaeological work &amp; studies in occult well known.&rdquo;  
+   "Prof. Enoch Bowen home from Egypt May 1844--buys old Free-Will Church
+in July--his archaeological work &amp; studies in occult well known. "  
 
-  &ldquo;Dr. Drowne of 4th Baptist warns against Starry Wisdom in sermon Dec.
-29, 1844.&rdquo;  
+   "Dr. Drowne of 4th Baptist warns against Starry Wisdom in sermon Dec.
+29, 1844. "  
 
-  &ldquo;Congregation 97 by end of &rsquo;45.&rdquo;  
+   "Congregation 97 by end of '45. "  
 
-  &ldquo;1846&mdash;3 disappearances&mdash;first mention of Shining Trapezohedron.&rdquo;  
+   "1846--3 disappearances--first mention of Shining Trapezohedron. "  
 
-  &ldquo;7 disappearances 1848&mdash;stories of blood sacrifice begin.&rdquo;  
+   "7 disappearances 1848--stories of blood sacrifice begin. "  
 
-  &ldquo;Investigation 1853 comes to nothing&mdash;stories of sounds.&rdquo;  
+   "Investigation 1853 comes to nothing--stories of sounds. "  
 
-  &ldquo;Fr. O&rsquo;Malley tells of devil-worship with box found in great Egyptian
-ruins&mdash;says they call up something that can&rsquo;t exist in light. Flees a little light,
+   "Fr. O'Malley tells of devil-worship with box found in great Egyptian
+ruins--says they call up something that can't exist in light. Flees a little light,
 and banished by strong light. Then has to be summoned again. Probably got this from deathbed
-confession of Francis X. Feeney, who had joined Starry Wisdom in &rsquo;49. These people say
+confession of Francis X. Feeney, who had joined Starry Wisdom in '49. These people say
 the Shining Trapezohedron shews them heaven &amp; other worlds, &amp; that the Haunter of the
-Dark tells them secrets in some way.&rdquo;  
+Dark tells them secrets in some way. "  
 
-  &ldquo;Story of Orrin B. Eddy 1857. They call it up by gazing at the crystal,
-&amp; have a secret language of their own.&rdquo;  
+   "Story of Orrin B. Eddy 1857. They call it up by gazing at the crystal,
+&amp; have a secret language of their own. "  
 
-  &ldquo;200 or more in cong. 1863, exclusive of men at front.&rdquo;  
+   "200 or more in cong. 1863, exclusive of men at front. "  
 
-  &ldquo;Irish boys mob church in 1869 after Patrick Regan&rsquo;s disappearance.&rdquo;  
+   "Irish boys mob church in 1869 after Patrick Regan's disappearance. "  
 
-  &ldquo;Veiled article in J. March 14, &rsquo;72, but people don&rsquo;t talk
-about it.&rdquo;  
+   "Veiled article in J. March 14, '72, but people don't talk
+about it. "  
 
-  &ldquo;6 disappearances 1876&mdash;secret committee calls on Mayor Doyle.&rdquo;  
+   "6 disappearances 1876--secret committee calls on Mayor Doyle. "  
 
-  &ldquo;Action promised Feb. 1877&mdash;church closes in April.&rdquo;  
+   "Action promised Feb. 1877--church closes in April. "  
 
-  &ldquo;Gang&mdash;Federal Hill Boys&mdash;threaten Dr. &mdash;&mdash; and vestrymen
-in May.&rdquo;  
+   "Gang--Federal Hill Boys--threaten Dr. ---- and vestrymen
+in May. "  
 
-  &ldquo;181 persons leave city before end of &rsquo;77&mdash;mention no names.&rdquo;  
+   "181 persons leave city before end of '77--mention no names. "  
 
-  &ldquo;Ghost stories begin around 1880&mdash;try to ascertain truth of report
-that no human being has entered church since 1877.&rdquo;  
+   "Ghost stories begin around 1880--try to ascertain truth of report
+that no human being has entered church since 1877. "  
 
-  &ldquo;Ask Lanigan for photograph of place taken 1851.&rdquo;&nbsp;.&nbsp;.&nbsp;.    
+   "Ask Lanigan for photograph of place taken 1851. " . . .    
 
   Restoring the paper to the pocketbook and placing the latter in his coat, Blake
 turned to look down at the skeleton in the dust. The implications of the notes were clear, and
 there could be no doubt but that this man had come to the deserted edifice forty-two years before
 in quest of a newspaper sensation which no one else had been bold enough to attempt. Perhaps
-no one else had known of his plan&mdash;who could tell? But he had never returned to his paper.
+no one else had known of his plan--who could tell? But he had never returned to his paper.
 Had some bravely suppressed fear risen to overcome him and bring on sudden heart-failure? Blake
 stooped over the gleaming bones and noted their peculiar state. Some of them were badly scattered,
 and a few seemed oddly   dissolved   at the ends. Others were strangely yellowed, with vague
 suggestions of charring. This charring extended to some of the fragments of clothing. The skull
-was in a very peculiar state&mdash;stained yellow, and with a charred aperture in the top as
+was in a very peculiar state--stained yellow, and with a charred aperture in the top as
 if some powerful acid had eaten through the solid bone. What had happened to the skeleton during
 its four decades of silent entombment here Blake could not imagine.  
 
@@ -405,16 +405,16 @@ hold forth a key to all the paradoxes and arcana of the worlds we know.
 
   Then all at once the spell was broken by an access of gnawing, indeterminate
 panic fear. Blake choked and turned away from the stone, conscious of some formless alien presence
-close to him and watching him with horrible intentness. He felt entangled with something&mdash;something
-which was not in the stone, but which had looked through it at him&mdash;something which would
+close to him and watching him with horrible intentness. He felt entangled with something--something
+which was not in the stone, but which had looked through it at him--something which would
 ceaselessly follow him with a cognition that was not physical sight. Plainly, the place was
-getting on his nerves&mdash;as well it might in view of his gruesome find. The light was waning,
+getting on his nerves--as well it might in view of his gruesome find. The light was waning,
 too, and since he had no illuminant with him he knew he would have to be leaving soon.  
 
   It was then, in the gathering twilight, that he thought he saw a faint trace
 of luminosity in the crazily angled stone. He had tried to look away from it, but some obscure
 compulsion drew his eyes back. Was there a subtle phosphorescence of radio-activity about the
-thing? What was it that the dead man&rsquo;s notes had said concerning a   Shining Trapezohedron?  
+thing? What was it that the dead man's notes had said concerning a   Shining Trapezohedron?  
 What, anyway, was this abandoned lair of cosmic evil? What had been done here, and what might
 still be lurking in the bird-shunned shadows? It seemed now as if an elusive touch of foetor
 had arisen somewhere close by, though its source was not apparent. Blake seized the cover of
@@ -422,7 +422,7 @@ the long-open box and snapped it down. It moved easily on its alien hinges, and 
 over the unmistakably glowing stone.  
 
   At the sharp click of that closing a soft stirring sound seemed to come from
-the steeple&rsquo;s eternal blackness overhead, beyond the trap-door. Rats, without question&mdash;the
+the steeple's eternal blackness overhead, beyond the trap-door. Rats, without question--the
 only living things to reveal their presence in this accursed pile since he had entered it. And
 yet that stirring in the steeple frightened him horribly, so that he plunged almost wildly down
 the spiral stairs, across the ghoulish nave, into the vaulted basement, out amidst the gathering
@@ -442,16 +442,16 @@ steeple as of yore amongst the bristling roofs of a distant and half-fabulous wo
 it held a fresh note of terror for him. He knew the heritage of evil lore it masked, and with
 the knowledge his vision ran riot in queer new ways. The birds of spring were returning, and
 as he watched their sunset flights he fancied they avoided the gaunt, lone spire as never before.
-When a flock of them approached it, he thought, they would wheel and scatter in panic confusion&mdash;and
+When a flock of them approached it, he thought, they would wheel and scatter in panic confusion--and
 he could guess at the wild twitterings which failed to reach him across the intervening miles.  
 
-  It was in June that Blake&rsquo;s diary told of his victory over the cryptogram.
+  It was in June that Blake's diary told of his victory over the cryptogram.
 The text was, he found, in the dark Aklo language used by certain cults of evil antiquity, and
 known to him in a halting way through previous researches. The diary is strangely reticent about
 what Blake deciphered, but he was patently awed and disconcerted by his results. There are references
 to a Haunter of the Dark awaked by gazing into the Shining Trapezohedron, and insane conjectures
 about the black gulfs of chaos from which it was called. The being is spoken of as holding all
-knowledge, and demanding monstrous sacrifices. Some of Blake&rsquo;s entries shew fear lest
+knowledge, and demanding monstrous sacrifices. Some of Blake's entries shew fear lest
 the thing, which he seemed to regard as summoned, stalk abroad; though he adds that the street-lights
 form a bulwark which cannot be crossed.  
 
@@ -463,10 +463,10 @@ aeons later in Lemuria by the first human beings. It crossed strange lands and s
 and sank with Atlantis before a Minoan fisher meshed it in his net and sold it to swarthy merchants
 from nighted Khem. The Pharaoh Nephren-Ka built around it a temple with a windowless crypt,
 and did that which caused his name to be stricken from all monuments and records. Then it slept
-in the ruins of that evil fane which the priests and the new Pharaoh destroyed, till the delver&rsquo;s
+in the ruins of that evil fane which the priests and the new Pharaoh destroyed, till the delver's
 spade once more brought it forth to curse mankind.  
 
-  Early in July the newspapers oddly supplement Blake&rsquo;s entries, though
+  Early in July the newspapers oddly supplement Blake's entries, though
 in so brief and casual a way that only the diary has called general attention to their contribution.
 It appears that a new fear had been growing on Federal Hill since a stranger had entered the
 dreaded church. The Italians whispered of unaccustomed stirrings and bumpings and scrapings
@@ -477,16 +477,16 @@ to shed much light on the earlier background of the horror. It was obvious that 
 of today are no antiquarians. In writing of these things in his diary, Blake expresses a curious
 kind of remorse, and talks of the duty of burying the Shining Trapezohedron and of banishing
 what he had evoked by letting daylight into the hideous jutting spire. At the same time, however,
-he displays the dangerous extent of his fascination, and admits a morbid longing&mdash;pervading
-even his dreams&mdash;to visit the accursed tower and gaze again into the cosmic secrets of
+he displays the dangerous extent of his fascination, and admits a morbid longing--pervading
+even his dreams--to visit the accursed tower and gaze again into the cosmic secrets of
 the glowing stone.  
 
   Then something in the   Journal   on the morning of July 17 threw the diarist
 into a veritable fever of horror. It was only a variant of the other half-humorous items about
 the Federal Hill restlessness, but to Blake it was somehow very terrible indeed. In the night
-a thunderstorm had put the city&rsquo;s lighting-system out of commission for a full hour, and
+a thunderstorm had put the city's lighting-system out of commission for a full hour, and
 in that black interval the Italians had nearly gone mad with fright. Those living near the dreaded
-church had sworn that the thing in the steeple had taken advantage of the street-lamps&rsquo;
+church had sworn that the thing in the steeple had taken advantage of the street-lamps'
 absence and gone down into the body of the church, flopping and bumping around in a viscous,
 altogether dreadful way. Toward the last it had bumped up to the tower, where there were sounds
 of the shattering of glass. It could go wherever the darkness reached, but light would always
@@ -495,9 +495,9 @@ send it fleeing.
   When the current blazed on again there had been a shocking commotion in the
 tower, for even the feeble light trickling through the grime-blackened, louver-boarded windows
 was too much for the thing. It had bumped and slithered up into its tenebrous steeple just in
-time&mdash;for a long dose of light would have sent it back into the abyss whence the crazy
+time--for a long dose of light would have sent it back into the abyss whence the crazy
 stranger had called it. During the dark hour praying crowds had clustered round the church in
-the rain with lighted candles and lamps somehow shielded with folded paper and umbrellas&mdash;a
+the rain with lighted candles and lamps somehow shielded with folded paper and umbrellas--a
 guard of light to save the city from the nightmare that stalks in darkness. Once, those nearest
 the church declared, the outer door had rattled hideously.  
 
@@ -514,8 +514,8 @@ roughly clean.
   In the tower itself a similarly half-swept condition existed. They spoke of
 the heptagonal stone pillar, the overturned Gothic chairs, and the bizarre plaster images; though
 strangely enough the metal box and the old mutilated skeleton were not mentioned. What disturbed
-Blake the most&mdash;except for the hints of stains and charring and bad odours&mdash;was the
-final detail that explained the crashing glass. Every one of the tower&rsquo;s lancet windows
+Blake the most--except for the hints of stains and charring and bad odours--was the
+final detail that explained the crashing glass. Every one of the tower's lancet windows
 was broken, and two of them had been darkened in a crude and hurried way by the stuffing of
 satin pew-linings and cushion-horsehair into the spaces between the slanting exterior louver-boards.
 More satin fragments and bunches of horsehair lay scattered around the newly swept floor, as
@@ -533,16 +533,16 @@ There was an amusing aftermath when the police sent an officer to verify the rep
 men in succession found ways of evading the assignment, and the fourth went very reluctantly
 and returned very soon without adding to the account given by the reporters.  
 
-  From this point onward Blake&rsquo;s diary shews a mounting tide of insidious
+  From this point onward Blake's diary shews a mounting tide of insidious
 horror and nervous apprehension. He upbraids himself for not doing something, and speculates
 wildly on the consequences of another electrical breakdown. It has been verified that on three
-occasions&mdash;during thunderstorms&mdash;he telephoned the electric light company in a frantic
+occasions--during thunderstorms--he telephoned the electric light company in a frantic
 vein and asked that desperate precautions against a lapse of power be taken. Now and then his
 entries shew concern over the failure of the reporters to find the metal box and stone, and
 the strangely marred old skeleton, when they explored the shadowy tower room. He assumed that
-these things had been removed&mdash;whither, and by whom or what, he could only guess. But his
+these things had been removed--whither, and by whom or what, he could only guess. But his
 worst fears concerned himself, and the kind of unholy rapport he felt to exist between his mind
-and that lurking horror in the distant steeple&mdash;that monstrous thing of night which his
+and that lurking horror in the distant steeple--that monstrous thing of night which his
 rashness had called out of the ultimate black spaces. He seemed to feel a constant tugging at
 his will, and callers of that period remember how he would sit abstractedly at his desk and
 stare out of the west window at that far-off, spire-bristling mound beyond the swirling smoke
@@ -551,7 +551,7 @@ of the unholy rapport in his sleep. There is mention of a night when he awaked t
 fully dressed, outdoors, and headed automatically down College Hill toward the west. Again and
 again he dwells on the fact that the thing in the steeple knows where to find him.  
 
-  The week following July 30 is recalled as the time of Blake&rsquo;s partial
+  The week following July 30 is recalled as the time of Blake's partial
 breakdown. He did not dress, and ordered all his food by telephone. Visitors remarked the cords
 he kept near his bed, and he said that sleep-walking had forced him to bind his ankles every
 night with knots which would probably hold or else waken him with the labour of untying.  
@@ -561,7 +561,7 @@ After retiring on the night of the 30th he had suddenly found himself groping ab
 black space. All he could see were short, faint, horizontal streaks of bluish light, but he
 could smell an overpowering foetor and hear a curious jumble of soft, furtive sounds above him.
 Whenever he moved he stumbled over something, and at each noise there would come a sort of answering
-sound from above&mdash;a vague stirring, mixed with the cautious sliding of wood on wood.  
+sound from above--a vague stirring, mixed with the cautious sliding of wood on wood.  
 
   Once his groping hands encountered a pillar of stone with a vacant top, whilst
 later he found himself clutching the rungs of a ladder built into the wall, and fumbling his
@@ -574,7 +574,7 @@ his flopping horde of mindless and amorphous dancers, and lulled by the thin mon
 of a daemoniac flute held in nameless paws.  
 
   Then a sharp report from the outer world broke through his stupor and roused
-him to the unutterable horror of his position. What it was, he never knew&mdash;perhaps it was
+him to the unutterable horror of his position. What it was, he never knew--perhaps it was
 some belated peal from the fireworks heard all summer on Federal Hill as the dwellers hail their
 various patron saints, or the saints of their native villages in Italy. In any event he shrieked
 aloud, dropped frantically from the ladder, and stumbled blindly across the obstructed floor
@@ -599,21 +599,21 @@ repeatedly in all parts of the city, and two remarkable fireballs were reported.
 torrential, while a constant fusillade of thunder brought sleeplessness to thousands. Blake
 was utterly frantic in his fear for the lighting system, and tried to telephone the company
 around 1 a.m., though by that time service had been temporarily cut off in the interest of safety.
-He recorded everything in his diary&mdash;the large, nervous, and often undecipherable hieroglyphs
+He recorded everything in his diary--the large, nervous, and often undecipherable hieroglyphs
 telling their own story of growing frenzy and despair, and of entries scrawled blindly in the
 dark.  
 
   He had to keep the house dark in order to see out the window, and it appears
 that most of his time was spent at his desk, peering anxiously through the rain across the glistening
 miles of downtown roofs at the constellation of distant lights marking Federal Hill. Now and
-then he would fumblingly make an entry in his diary, so that detached phrases such as &ldquo;The
-lights must not go&rdquo;; &ldquo;It knows where I am&rdquo;; &ldquo;I must destroy it&rdquo;;
-and &ldquo;It is calling to me, but perhaps it means no injury this time&rdquo;; are found scattered
+then he would fumblingly make an entry in his diary, so that detached phrases such as  "The
+lights must not go ";  "It knows where I am ";  "I must destroy it ";
+and  "It is calling to me, but perhaps it means no injury this time "; are found scattered
 down two of the pages.  
 
   Then the lights went out all over the city. It happened at 2:12 a.m. according
-to power-house records, but Blake&rsquo;s diary gives no indication of the time. The entry is
-merely, &ldquo;Lights out&mdash;God help me.&rdquo; On Federal Hill there were watchers as anxious
+to power-house records, but Blake's diary gives no indication of the time. The entry is
+merely,  "Lights out--God help me. " On Federal Hill there were watchers as anxious
 as he, and rain-soaked knots of men paraded the square and alleys around the evil church with
 umbrella-shaded candles, electric flashlights, oil lanterns, crucifixes, and obscure charms
 of the many sorts common to southern Italy. They blessed each flash of lightning, and made cryptical
@@ -626,12 +626,12 @@ sounds in the blackened tower, there could be no doubt whatever.
   For what happened at 2:35 we have the testimony of the priest, a young, intelligent,
 and well-educated person; of Patrolman William J. Monahan of the Central Station, an officer
 of the highest reliability who had paused at that part of his beat to inspect the crowd; and
-of most of the seventy-eight men who had gathered around the church&rsquo;s high bank wall&mdash;especially
+of most of the seventy-eight men who had gathered around the church's high bank wall--especially
 those in the square where the eastward facade was visible. Of course there was nothing which
 can be proved as being outside the order of Nature. The possible causes of such an event are
 many. No one can speak with certainty of the obscure chemical processes arising in a vast, ancient,
-ill-aired, and long-deserted building of heterogeneous contents. Mephitic vapours&mdash;spontaneous
-combustion&mdash;pressure of gases born of long decay&mdash;any one of numberless phenomena
+ill-aired, and long-deserted building of heterogeneous contents. Mephitic vapours--spontaneous
+combustion--pressure of gases born of long decay--any one of numberless phenomena
 might be responsible. And then, of course, the factor of conscious charlatanry can by no means
 be excluded. The thing was really quite simple in itself, and covered less than three minutes
 of actual time. Father Merluzzo, always a precise man, looked at his watch repeatedly.  
@@ -641,7 +641,7 @@ black tower. There had for some time been a vague exhalation of strange, evil od
 church, and this had now become emphatic and offensive. Then at last there was a sound of splintering
 wood, and a large, heavy object crashed down in the yard beneath the frowning easterly facade.
 The tower was invisible now that the candles would not burn, but as the object neared the ground
-the people knew that it was the smoke-grimed louver-boarding of that tower&rsquo;s east window.  
+the people knew that it was the smoke-grimed louver-boarding of that tower's east window.  
 
   Immediately afterward an utterly unbearable foetor welled forth from the unseen
 heights, choking and sickening the trembling watchers, and almost prostrating those in the square.
@@ -649,7 +649,7 @@ At the same time the air trembled with a vibration as of flapping wings, and a s
 wind more violent than any previous blast snatched off the hats and wrenched the dripping umbrellas
 of the crowd. Nothing definite could be seen in the candleless night, though some upward-looking
 spectators thought they glimpsed a great spreading blur of denser blackness against the inky
-sky&mdash;something like a formless cloud of smoke that shot with meteor-like speed toward the
+sky--something like a formless cloud of smoke that shot with meteor-like speed toward the
 east.  
 
   That was all. The watchers were half numbed with fright, awe, and discomfort,
@@ -659,7 +659,7 @@ belated lightning, followed by an earsplitting crash of sound, rent the flooded 
 an hour later the rain stopped, and in fifteen minutes more the street-lights sprang on again,
 sending the weary, bedraggled watchers relievedly back to their homes.  
 
-  The next day&rsquo;s papers gave these matters minor mention in connexion with
+  The next day's papers gave these matters minor mention in connexion with
 the general storm reports. It seems that the great lightning flash and deafening explosion which
 followed the Federal Hill occurrence were even more tremendous farther east, where a burst of
 the singular foetor was likewise noticed. The phenomenon was most marked over College Hill,
@@ -676,7 +676,7 @@ burned odour after the stroke is equally general.
 
   These points were discussed very carefully because of their probable connexion
 with the death of Robert Blake. Students in the Psi Delta house, whose upper rear windows looked
-into Blake&rsquo;s study, noticed the blurred white face at the westward window on the morning
+into Blake's study, noticed the blurred white face at the westward window on the morning
 of the 9th, and wondered what was wrong with the expression. When they saw the same face in
 the same position that evening, they felt worried, and watched for the lights to come up in
 his apartment. Later they rang the bell of the darkened flat, and finally had a policeman force
@@ -684,7 +684,7 @@ the door.
 
   The rigid body sat bolt upright at the desk by the window, and when the intruders
 saw the glassy, bulging eyes, and the marks of stark, convulsive fright on the twisted features,
-they turned away in sickened dismay. Shortly afterward the coroner&rsquo;s physician made an
+they turned away in sickened dismay. Shortly afterward the coroner's physician made an
 examination, and despite the unbroken window reported electrical shock, or nervous tension induced
 by electrical discharge, as the cause of death. The hideous expression he ignored altogether,
 deeming it a not improbable result of the profound shock as experienced by a person of such
@@ -697,54 +697,54 @@ pencil was found clutched in his spasmodically contracted right hand.
 only in part. From them certain investigators have drawn conclusions differing greatly from
 the materialistic official verdict, but such speculations have little chance for belief among
 the conservative. The case of these imaginative theorists has not been helped by the action
-of superstitious Dr. Dexter, who threw the curious box and angled stone&mdash;an object certainly
-self-luminous as seen in the black windowless steeple where it was found&mdash;into the deepest
-channel of Narragansett Bay. Excessive imagination and neurotic unbalance on Blake&rsquo;s part,
+of superstitious Dr. Dexter, who threw the curious box and angled stone--an object certainly
+self-luminous as seen in the black windowless steeple where it was found--into the deepest
+channel of Narragansett Bay. Excessive imagination and neurotic unbalance on Blake's part,
 aggravated by knowledge of the evil bygone cult whose startling traces he had uncovered, form
-the dominant interpretation given those final frenzied jottings. These are the entries&mdash;or
+the dominant interpretation given those final frenzied jottings. These are the entries--or
 all that can be made of them.  
 
   
 
-  &ldquo;Lights still out&mdash;must be five minutes now. Everything depends
-on lightning. Yaddith grant it will keep up!&nbsp;.&nbsp;.&nbsp;. Some influence seems beating through
-it.&nbsp;.&nbsp;.&nbsp;. Rain and thunder and wind deafen.&nbsp;.&nbsp;.&nbsp;. The thing is
-taking hold of my mind.&nbsp;.&nbsp;.&nbsp;.  
+   "Lights still out--must be five minutes now. Everything depends
+on lightning. Yaddith grant it will keep up! . . . Some influence seems beating through
+it. . . . Rain and thunder and wind deafen. . . . The thing is
+taking hold of my mind. . . .  
 
-  &ldquo;Trouble with memory. I see things I never knew before. Other worlds
-and other galaxies&nbsp;.&nbsp;.&nbsp;. Dark&nbsp;.&nbsp;.&nbsp;. The lightning seems dark and
-the darkness seems light.&nbsp;.&nbsp;.&nbsp;.  
+   "Trouble with memory. I see things I never knew before. Other worlds
+and other galaxies . . . Dark . . . The lightning seems dark and
+the darkness seems light. . . .  
 
-  &ldquo;It cannot be the real hill and church that I see in the pitch-darkness.
+   "It cannot be the real hill and church that I see in the pitch-darkness.
 Must be retinal impression left by flashes. Heaven grant the Italians are out with their candles
 if the lightning stops!  
 
-  &ldquo;What am I afraid of? Is it not an avatar of Nyarlathotep, who in antique
+   "What am I afraid of? Is it not an avatar of Nyarlathotep, who in antique
 and shadowy Khem even took the form of man? I remember Yuggoth, and more distant Shaggai, and
-the ultimate void of the black planets.&nbsp;.&nbsp;.&nbsp;.  
+the ultimate void of the black planets. . . .  
 
-  &ldquo;The long, winging flight through the void&nbsp;.&nbsp;.&nbsp;. cannot
-cross the universe of light&nbsp;.&nbsp;.&nbsp;. re-created by the thoughts caught in the Shining
-Trapezohedron&nbsp;.&nbsp;.&nbsp;. send it through the horrible abysses of radiance.&nbsp;.&nbsp;.&nbsp;.  
+   "The long, winging flight through the void . . . cannot
+cross the universe of light . . . re-created by the thoughts caught in the Shining
+Trapezohedron . . . send it through the horrible abysses of radiance. . . .  
 
-  &ldquo;My name is Blake&mdash;Robert Harrison Blake of 620 East Knapp Street,
-Milwaukee, Wisconsin.&nbsp;.&nbsp;.&nbsp;. I am on this planet.&nbsp;.&nbsp;.&nbsp;.  
+   "My name is Blake--Robert Harrison Blake of 620 East Knapp Street,
+Milwaukee, Wisconsin. . . . I am on this planet. . . .  
 
-  &ldquo;Azathoth have mercy!&mdash;the lightning no longer flashes&mdash;horrible&mdash;I
-can see everything with a monstrous sense that is not sight&mdash;light is dark and dark is
-light&nbsp;.&nbsp;.&nbsp;. those people on the hill&nbsp;.&nbsp;.&nbsp;. guard&nbsp;.&nbsp;.&nbsp;.
-candles and charms&nbsp;.&nbsp;.&nbsp;. their priests.&nbsp;.&nbsp;.&nbsp;.  
+   "Azathoth have mercy!--the lightning no longer flashes--horrible--I
+can see everything with a monstrous sense that is not sight--light is dark and dark is
+light . . . those people on the hill . . . guard . . .
+candles and charms . . . their priests. . . .  
 
-  &ldquo;Sense of distance gone&mdash;far is near and near is far. No light&mdash;no
-glass&mdash;see that steeple&mdash;that tower&mdash;window&mdash;can hear&mdash;Roderick Usher&mdash;am
-mad or going mad&mdash;the thing is stirring and fumbling in the tower&mdash;I am it and it
-is I&mdash;I want to get out&nbsp;.&nbsp;.&nbsp;. must get out and unify the forces.&nbsp;.&nbsp;.&nbsp;.
-It knows where I am.&nbsp;.&nbsp;.&nbsp;.  
+   "Sense of distance gone--far is near and near is far. No light--no
+glass--see that steeple--that tower--window--can hear--Roderick Usher--am
+mad or going mad--the thing is stirring and fumbling in the tower--I am it and it
+is I--I want to get out . . . must get out and unify the forces. . . .
+It knows where I am. . . .  
 
-  &ldquo;I am Robert Blake, but I see the tower in the dark. There is a monstrous
-odour&nbsp;.&nbsp;.&nbsp;. senses transfigured&nbsp;.&nbsp;.&nbsp;. boarding at that tower window
-cracking and giving way.&nbsp;.&nbsp;.&nbsp;. I&auml;&nbsp;.&nbsp;.&nbsp;. ngai&nbsp;.&nbsp;.&nbsp;.
-ygg.&nbsp;.&nbsp;.&nbsp;.  
+   "I am Robert Blake, but I see the tower in the dark. There is a monstrous
+odour . . . senses transfigured . . . boarding at that tower window
+cracking and giving way. . . . I&auml; . . . ngai . . .
+ygg. . . .  
 
-  &ldquo;I see it&mdash;coming here&mdash;hell-wind&mdash;titan blur&mdash;black
-wings&mdash;Yog-Sothoth save me&mdash;the three-lobed burning eye.&nbsp;.&nbsp;.&nbsp;.&rdquo;    
+   "I see it--coming here--hell-wind--titan blur--black
+wings--Yog-Sothoth save me--the three-lobed burning eye. . . . "    

@@ -16,87 +16,87 @@ Ermengarde confessed to sixteen summers, and branded as mendacious all reports t
 that she was thirty. She had large black eyes, a prominent Roman nose, light hair which was
 never dark at the roots except when the local drug store was short on supplies, and a beautiful
 but inexpensive complexion. She was about 5    ft     5.33...<font
-size="-2">  in     tall, weighed 115.47 lbs. on her father&rsquo;s corn scales&mdash;also
-off them&mdash;and was adjudged most lovely by all the village swains who admired her father&rsquo;s
+size="-2">  in     tall, weighed 115.47 lbs. on her father's corn scales--also
+off them--and was adjudged most lovely by all the village swains who admired her father's
 farm and liked his liquid crops.  
 
-  Ermengarde&rsquo;s hand was sought in matrimony by two ardent lovers. &rsquo;Squire
+  Ermengarde's hand was sought in matrimony by two ardent lovers. 'Squire
 Hardman, who had a mortgage on the old home, was very rich and elderly. He was dark and cruelly
 handsome, and always rode horseback and carried a riding-crop. Long had he sought the radiant
-Ermengarde, and now his ardour was fanned to fever heat by a secret known to him alone&mdash;for
+Ermengarde, and now his ardour was fanned to fever heat by a secret known to him alone--for
 upon the humble acres of Farmer Stubbs he had discovered a vein of rich   GOLD!!  
-&ldquo;Aha!&rdquo; said he, &ldquo;I will win the maiden ere her parent knows of his unsuspected
-wealth, and join to my fortune a greater fortune still!&rdquo; And so he began to call twice
+ "Aha! " said he,  "I will win the maiden ere her parent knows of his unsuspected
+wealth, and join to my fortune a greater fortune still! " And so he began to call twice
 a week instead of once as before.  
 
-  But alas for the sinister designs of a villain&mdash;&rsquo;Squire Hardman
-was not the only suitor for the fair one. Close by the village dwelt another&mdash;the handsome
-Jack Manly, whose curly yellow hair had won the sweet Ermengarde&rsquo;s affection when both
+  But alas for the sinister designs of a villain--'Squire Hardman
+was not the only suitor for the fair one. Close by the village dwelt another--the handsome
+Jack Manly, whose curly yellow hair had won the sweet Ermengarde's affection when both
 were toddling youngsters at the village school. Jack had long been too bashful to declare his
 passion, but one day while strolling along a shady lane by the old mill with Ermengarde, he
 had found courage to utter that which was within his heart.  
 
-  &ldquo;O light of my life,&rdquo; said he, &ldquo;my soul is so overburdened
+   "O light of my life, " said he,  "my soul is so overburdened
 that I must speak! Ermengarde, my ideal [he pronounced it i-deel!], life has become an empty
 thing without you. Beloved of my spirit, behold a suppliant kneeling in the dust before thee.
-Ermengarde&mdash;oh, Ermengarde, raise me to an heaven of joy and say that you will some day
+Ermengarde--oh, Ermengarde, raise me to an heaven of joy and say that you will some day
 be mine! It is true that I am poor, but have I not youth and strength to fight my way to fame?
-This I can do only for you, dear Ethyl&mdash;pardon me, Ermengarde&mdash;my only, my most precious&mdash;&rdquo;
+This I can do only for you, dear Ethyl--pardon me, Ermengarde--my only, my most precious-- "
 but here he paused to wipe his eyes and mop his brow, and the fair responded:  
 
-  &ldquo;Jack&mdash;my angel&mdash;at last&mdash;I mean, this is so unexpected
+   "Jack--my angel--at last--I mean, this is so unexpected
 and quite unprecedented! I had never dreamed that you entertained sentiments of affection in
-connexion with one so lowly as Farmer Stubbs&rsquo; child&mdash;for I am still but a child!
-Such is your natural nobility that I had feared&mdash;I mean thought&mdash;you would be blind
+connexion with one so lowly as Farmer Stubbs' child--for I am still but a child!
+Such is your natural nobility that I had feared--I mean thought--you would be blind
 to such slight charms as I possess, and that you would seek your fortune in the great city;
 there meeting and wedding one of those more comely damsels whose splendour we observe in fashion
 books.  
 
-  &ldquo;But, Jack, since it is really I whom you adore, let us waive all needless
-circumlocution. Jack&mdash;my darling&mdash;my heart has long been susceptible to your manly
-graces. I cherish an affection for thee&mdash;consider me thine own and be sure to buy the ring
-at Perkins&rsquo; hardware store where they have such nice imitation diamonds in the window.&rdquo;  
+   "But, Jack, since it is really I whom you adore, let us waive all needless
+circumlocution. Jack--my darling--my heart has long been susceptible to your manly
+graces. I cherish an affection for thee--consider me thine own and be sure to buy the ring
+at Perkins' hardware store where they have such nice imitation diamonds in the window. "  
 
-  &ldquo;Ermengarde, me love!&rdquo;  
+   "Ermengarde, me love! "  
 
-  &ldquo;Jack&mdash;my precious!&rdquo;  
+   "Jack--my precious! "  
 
-  &ldquo;My darling!&rdquo;  
+   "My darling! "  
 
-  &ldquo;My own!&rdquo;  
+   "My own! "  
 
-  &ldquo;My Gawd!&rdquo;  
+   "My Gawd! "  
 
   [Curtain]  
 
     Chapter II.    And the Villain Still Pursued Her        
 
 But these tender passages, sacred though their fervour, did not pass unobserved
-by profane eyes; for crouched in the bushes and gritting his teeth was the dastardly &rsquo;Squire
+by profane eyes; for crouched in the bushes and gritting his teeth was the dastardly 'Squire
 Hardman! When the lovers had finally strolled away he leapt out into the lane, viciously twirling
 his moustache and riding-crop, and kicking an unquestionably innocent cat who was also out strolling.  
 
-  &ldquo;Curses!&rdquo; he cried&mdash;Hardman, not the cat&mdash;&ldquo;I am
+   "Curses! " he cried--Hardman, not the cat-- "I am
 foiled in my plot to get the farm and the girl! But Jack Manly shall never succeed! I am a man
-of power&mdash;and we shall see!&rdquo;  
+of power--and we shall see! "  
 
-  Thereupon he repaired to the humble Stubbs&rsquo; cottage, where he found the
+  Thereupon he repaired to the humble Stubbs' cottage, where he found the
 fond father in the still-cellar washing bottles under the supervision of the gentle wife and
 mother, Hannah Stubbs. Coming directly to the point, the villain spoke:  
 
-  &ldquo;Farmer Stubbs, I cherish a tender affection of long standing for your
+   "Farmer Stubbs, I cherish a tender affection of long standing for your
 lovely offspring, Ethyl Ermengarde. I am consumed with love, and wish her hand in matrimony.
 Always a man of few words, I will not descend to euphemism. Give me the girl or I will foreclose
-the mortgage and take the old home!&rdquo;  
+the mortgage and take the old home! "  
 
-  &ldquo;But, Sir,&rdquo; pleaded the distracted Stubbs while his stricken spouse
-merely glowered, &ldquo;I am sure the child&rsquo;s affections are elsewhere placed.&rdquo;  
+   "But, Sir, " pleaded the distracted Stubbs while his stricken spouse
+merely glowered,  "I am sure the child's affections are elsewhere placed. "  
 
-  &ldquo;She must be mine!&rdquo; sternly snapped the sinister &rsquo;squire.
-&ldquo;I will make her love me&mdash;none shall resist my will! Either she becomes muh wife
-or the old homestead goes!&rdquo;  
+   "She must be mine! " sternly snapped the sinister 'squire.
+ "I will make her love me--none shall resist my will! Either she becomes muh wife
+or the old homestead goes! "  
 
-  And with a sneer and flick of his riding-crop &rsquo;Squire Hardman strode
+  And with a sneer and flick of his riding-crop 'Squire Hardman strode
 out into the night.  
 
   Scarce had he departed, when there entered by the back door the radiant lovers,
@@ -104,63 +104,63 @@ eager to tell the senior Stubbses of their new-found happiness. Imagine the univ
 which reigned when all was known! Tears flowed like white ale, till suddenly Jack remembered
 he was the hero and raised his head, declaiming in appropriately virile accents:  
 
-  &ldquo;Never shall the fair Ermengarde be offered up to this beast as a sacrifice
-while I live! I shall protect her&mdash;she is mine, mine, mine&mdash;and then some! Fear not,
-dear father and mother to be&mdash;I will defend you all! You shall have the old home still
-[adverb, not noun&mdash;although Jack was by no means out of sympathy with Stubbs&rsquo; kind
+   "Never shall the fair Ermengarde be offered up to this beast as a sacrifice
+while I live! I shall protect her--she is mine, mine, mine--and then some! Fear not,
+dear father and mother to be--I will defend you all! You shall have the old home still
+[adverb, not noun--although Jack was by no means out of sympathy with Stubbs' kind
 of farm produce] and I shall lead to the altar the beauteous Ermengarde, loveliest of her sex!
-To perdition with the crool &rsquo;squire and his ill-gotten gold&mdash;the right shall always
+To perdition with the crool 'squire and his ill-gotten gold--the right shall always
 win, and a hero is always in the right! I will go to the great city and there make a fortune
-to save you all ere the mortgage fall due! Farewell, my love&mdash;I leave you now in tears,
-but I shall return to pay off the mortgage and claim you as my bride!&rdquo;  
+to save you all ere the mortgage fall due! Farewell, my love--I leave you now in tears,
+but I shall return to pay off the mortgage and claim you as my bride! "  
 
-  &ldquo;Jack, my protector!&rdquo;  
+   "Jack, my protector! "  
 
-  &ldquo;Ermie, my tootsie roll!&rdquo;  
+   "Ermie, my tootsie roll! "  
 
-  &ldquo;Dearest!&rdquo;  
+   "Dearest! "  
 
-  &ldquo;Darling!&mdash;and don&rsquo;t forget that ring at Perkins&rsquo;.&rdquo;  
+   "Darling!--and don't forget that ring at Perkins'. "  
 
-  &ldquo;Oh!&rdquo;  
+   "Oh! "  
 
-  &ldquo;Ah!&rdquo;  
+   "Ah! "  
 
   [Curtain]  
 
     Chapter III.    A Dastardly Act        
 
-But the resourceful &rsquo;Squire Hardman was not so easily to be foiled. Close
+But the resourceful 'Squire Hardman was not so easily to be foiled. Close
 by the village lay a disreputable settlement of unkempt shacks, populated by a shiftless scum
-who lived by thieving and other odd jobs. Here the devilish villain secured two accomplices&mdash;ill-favoured
+who lived by thieving and other odd jobs. Here the devilish villain secured two accomplices--ill-favoured
 fellows who were very clearly no gentlemen. And in the night the evil three broke into the Stubbs
 cottage and abducted the fair Ermengarde, taking her to a wretched hovel in the settlement and
 placing her under the charge of Mother Maria, a hideous old hag. Farmer Stubbs was quite distracted,
 and would have advertised in the papers if the cost had been less than a cent a word for each
 insertion. Ermengarde was firm, and never wavered in her refusal to wed the villain.  
 
-  &ldquo;Aha, my proud beauty,&rdquo; quoth he, &ldquo;I have ye in me power,
+   "Aha, my proud beauty, " quoth he,  "I have ye in me power,
 and sooner or later I will break that will of thine! Meanwhile think of your poor old father
-and mother as turned out of hearth and home and wandering helpless through the meadows!&rdquo;  
+and mother as turned out of hearth and home and wandering helpless through the meadows! "  
 
-  &ldquo;Oh, spare them, spare them!&rdquo; said the maiden.  
+   "Oh, spare them, spare them! " said the maiden.  
 
-  &ldquo;Neverr&nbsp;.&nbsp;.&nbsp;. ha ha ha ha!&rdquo; leered the brute.  
+   "Neverr . . . ha ha ha ha! " leered the brute.  
 
   And so the cruel days sped on, while all in ignorance young Jack Manly was
 seeking fame and fortune in the great city.  
 
     Chapter IV.    Subtle Villainy        
 
-One day as &rsquo;Squire Hardman sat in the front parlour of his expensive
+One day as 'Squire Hardman sat in the front parlour of his expensive
 and palatial home, indulging in his favourite pastime of gnashing his teeth and swishing his
 riding-crop, a great thought came to him; and he cursed aloud at the statue of Satan on the
 onyx mantelpiece.  
 
-  &ldquo;Fool that I am!&rdquo; he cried. &ldquo;Why did I ever waste all this
+   "Fool that I am! " he cried.  "Why did I ever waste all this
 trouble on the girl when I can get the farm by simply foreclosing? I never thought of that!
 I will let the girl go, take the farm, and be free to wed some fair city maid like the leading
-lady of that burlesque troupe which played last week at the Town Hall!&rdquo;  
+lady of that burlesque troupe which played last week at the Town Hall! "  
 
   And so he went down to the settlement, apologised to Ermengarde, let her go
 home, and went home himself to plot new crimes and invent new modes of villainy.  
@@ -168,10 +168,10 @@ home, and went home himself to plot new crimes and invent new modes of villainy.
   The days wore on, and the Stubbses grew very sad over the coming loss of their
 home and still but nobody seemed able to do anything about it. One day a party of hunters from
 the city chanced to stray over the old farm, and one of them found the gold!! Hiding his discovery
-from his companions, he feigned rattlesnake-bite and went to the Stubbs&rsquo; cottage for aid
+from his companions, he feigned rattlesnake-bite and went to the Stubbs' cottage for aid
 of the usual kind. Ermengarde opened the door and saw him. He also saw her, and in that moment
-resolved to win her and the gold. &ldquo;For my old mother&rsquo;s sake I must&rdquo;&mdash;he
-cried loudly to himself. &ldquo;No sacrifice is too great!&rdquo;  
+resolved to win her and the gold.  "For my old mother's sake I must "--he
+cried loudly to himself.  "No sacrifice is too great! "  
 
     Chapter V.    The City Chap        
 
@@ -181,14 +181,14 @@ believe that sixteen-year-old stuff. Algy was a fast worker, but never crude. He
 taught Hardman a thing or two about finesse in sheiking. Thus only a week after his advent to
 the Stubbs family circle, where he lurked like the vile serpent that he was, he had persuaded
 the heroine to elope! It was in the night that she went leaving a note for her parents, sniffing
-the familiar mash for the last time, and kissing the cat goodbye&mdash;touching stuff! On the
+the familiar mash for the last time, and kissing the cat goodbye--touching stuff! On the
 train Algernon became sleepy and slumped down in his seat, allowing a paper to fall out of his
 pocket by accident. Ermengarde, taking advantage of her supposed position as a bride-elect,
-picked up the folded sheet and read its perfumed expanse&mdash;when lo! she almost fainted!
+picked up the folded sheet and read its perfumed expanse--when lo! she almost fainted!
 It was a love letter from another woman!!  
 
-  &ldquo;Perfidious deceiver!&rdquo; she whispered at the sleeping Algernon,
-&ldquo;so this is all that your boasted fidelity amounts to! I am done with you for all eternity!&rdquo;  
+   "Perfidious deceiver! " she whispered at the sleeping Algernon,
+ "so this is all that your boasted fidelity amounts to! I am done with you for all eternity! "  
 
   So saying, she pushed him out the window and settled down for a much needed
 rest.  
@@ -196,25 +196,25 @@ rest.
     Chapter VI.    Alone in the Great City        
 
 When the noisy train pulled into the dark station at the city, poor helpless
-Ermengarde was all alone without the money to get back to Hogton. &ldquo;Oh why,&rdquo; she
-sighed in innocent regret, &ldquo;didn&rsquo;t I take his pocketbook before I pushed him out?
+Ermengarde was all alone without the money to get back to Hogton.  "Oh why, " she
+sighed in innocent regret,  "didn't I take his pocketbook before I pushed him out?
 Oh well, I should worry! He told me all about the city so I can easily earn enough to get home
-if not to pay off the mortgage!&rdquo;  
+if not to pay off the mortgage! "  
 
-  But alas for our little heroine&mdash;work is not easy for a greenhorn to secure,
+  But alas for our little heroine--work is not easy for a greenhorn to secure,
 so for a week she was forced to sleep on park benches and obtain food from the bread-line. Once
 a wily and wicked person, perceiving her helplessness, offered her a position as dish-washer
 in a fashionable and depraved cabaret; but our heroine was true to her rustic ideals and refused
-to work in such a gilded and glittering palace of frivolity&mdash;especially since she was offered
+to work in such a gilded and glittering palace of frivolity--especially since she was offered
 only $3.00 per week with meals but no board. She tried to look up Jack Manly, her one-time lover,
 but he was nowhere to be found. Perchance, too, he would not have known her; for in her poverty
 she had perforce become a brunette again, and Jack had not beheld her in that state since school
 days. One day she found a neat but costly purse in the park; and after seeing that there was
 not much in it, took it to the rich lady whose card proclaimed her ownership. Delighted beyond
 words at the honesty of this forlorn waif, the aristocratic Mrs. Van Itty adopted Ermengarde
-to replace the little one who had been stolen from her so many years ago. &ldquo;How like my
-precious Maude,&rdquo; she sighed, as she watched the fair brunette return to blondeness. And
-so several weeks passed, with the old folks at home tearing their hair and the wicked &rsquo;Squire
+to replace the little one who had been stolen from her so many years ago.  "How like my
+precious Maude, " she sighed, as she watched the fair brunette return to blondeness. And
+so several weeks passed, with the old folks at home tearing their hair and the wicked 'Squire
 Hardman chuckling devilishly.  
 
     Chapter VII.    Happy Ever Afterward        
@@ -222,51 +222,51 @@ Hardman chuckling devilishly.
 One day the wealthy heiress Ermengarde S. Van Itty hired a new second assistant
 chauffeur. Struck by something familiar in his face, she looked again and gasped. Lo! it was
 none other than the perfidious Algernon Reginald Jones, whom she had pushed from a car window
-on that fateful day! He had survived&mdash;this much was almost immediately evident. Also, he
+on that fateful day! He had survived--this much was almost immediately evident. Also, he
 had wed the other woman, who had run away with the milkman and all the money in the house. Now
 wholly humbled, he asked forgiveness of our heroine, and confided to her the whole tale of the
-gold on her father&rsquo;s farm. Moved beyond words, she raised his salary a dollar a month
+gold on her father's farm. Moved beyond words, she raised his salary a dollar a month
 and resolved to gratify at last that always unquenchable anxiety to relieve the worry of the
 old folks. So one bright day Ermengarde motored back to Hogton and arrived at the farm just
-as &rsquo;Squire Hardman was foreclosing the mortgage and ordering the old folks out.  
+as 'Squire Hardman was foreclosing the mortgage and ordering the old folks out.  
 
-  &ldquo;Stay, villain!&rdquo; she cried, flashing a colossal roll of bills.
-&ldquo;You are foiled at last! Here is your money&mdash;now go, and never darken our humble
-door again!&rdquo;  
+   "Stay, villain! " she cried, flashing a colossal roll of bills.
+ "You are foiled at last! Here is your money--now go, and never darken our humble
+door again! "  
 
-  Then followed a joyous reunion, whilst the &rsquo;squire twisted his moustache
+  Then followed a joyous reunion, whilst the 'squire twisted his moustache
 and riding-crop in bafflement and dismay. But hark! What is this? Footsteps sound on the old
-gravel walk, and who should appear but our hero, Jack Manly&mdash;worn and seedy, but radiant
+gravel walk, and who should appear but our hero, Jack Manly--worn and seedy, but radiant
 of face. Seeking at once the downcast villain, he said:  
 
-  &ldquo;&rsquo;Squire&mdash;lend me a ten-spot, will you? I have just come back
+   "'Squire--lend me a ten-spot, will you? I have just come back
 from the city with my beauteous bride, the fair Bridget Goldstein, and need something to start
-things on the old farm.&rdquo; Then turning to the Stubbses, he apologised for his inability
+things on the old farm. " Then turning to the Stubbses, he apologised for his inability
 to pay off the mortgage as agreed.  
 
-  &ldquo;Don&rsquo;t mention it,&rdquo; said Ermengarde, &ldquo;prosperity has
+   "Don't mention it, " said Ermengarde,  "prosperity has
 come to us, and I will consider it sufficient payment if you will forget forever the foolish
-fancies of our childhood.&rdquo;  
+fancies of our childhood. "  
 
   All this time Mrs. Van Itty had been sitting in the motor waiting for Ermengarde;
 but as she lazily eyed the sharp-faced Hannah Stubbs a vague memory started from the back of
 her brain. Then it all came to her, and she shrieked accusingly at the agrestic matron.  
 
-  &ldquo;You&mdash;you&mdash;Hannah Smith&mdash;I know you now! Twenty-eight
-years ago you were my baby Maude&rsquo;s nurse and stole her from the cradle!! Where, oh, where
-is my child?&rdquo; Then a thought came as the lightning in a murky sky. &ldquo;  Ermengarde  &mdash;you
-say she is   your   daughter.&nbsp;.&nbsp;.&nbsp;. She is mine! Fate has restored to me my
-old chee-ild&mdash;my tiny Maudie!&mdash;Ermengarde&mdash;Maude&mdash;come to your mother&rsquo;s
-loving arms!!!&rdquo;  
+   "You--you--Hannah Smith--I know you now! Twenty-eight
+years ago you were my baby Maude's nurse and stole her from the cradle!! Where, oh, where
+is my child? " Then a thought came as the lightning in a murky sky.  "  Ermengarde  --you
+say she is   your   daughter. . . . She is mine! Fate has restored to me my
+old chee-ild--my tiny Maudie!--Ermengarde--Maude--come to your mother's
+loving arms!!! "  
 
   But Ermengarde was doing some tall thinking. How could she get away with the
-sixteen-year-old stuff if she had been stolen twenty-eight years ago? And if she was not Stubbs&rsquo;
-daughter the gold would never be hers. Mrs. Van Itty was rich, but &rsquo;Squire Hardman was
+sixteen-year-old stuff if she had been stolen twenty-eight years ago? And if she was not Stubbs'
+daughter the gold would never be hers. Mrs. Van Itty was rich, but 'Squire Hardman was
 richer. So, approaching the dejected villain, she inflicted upon him the last terrible punishment.  
 
-  &ldquo;&rsquo;Squire, dear,&rdquo; she murmured, &ldquo;I have reconsidered
+   "'Squire, dear, " she murmured,  "I have reconsidered
 all. I love you and your naive strength. Marry me at once or I will have you prosecuted for
 that kidnapping last year. Foreclose your mortgage and enjoy with me the gold your cleverness
-discovered. Come, dear!&rdquo; And the poor dub did.  
+discovered. Come, dear! " And the poor dub did.  
 
     THE END.    

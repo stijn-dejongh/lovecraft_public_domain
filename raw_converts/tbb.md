@@ -7,7 +7,7 @@
 
 Not all of the few remaining inhabitants of Daalbergen, that dismal little village in the Ramapo
 Mountains, believe that my uncle, old Dominie Vanderhoof, is really dead. Some of them believe
-he is suspended somewhere between heaven and hell because of the old sexton&rsquo;s curse. If
+he is suspended somewhere between heaven and hell because of the old sexton's curse. If
 it had not been for that old magician, he might still be preaching in the little damp church
 across the moor.  
 
@@ -18,23 +18,23 @@ grave now. I can almost feel him behind me as I write, impelling me to tell the 
 those strange happenings in Daalbergen so many years ago.  
 
   It was the fourth day of October when I arrived at Daalbergen in answer to
-a summons. The letter was from a former member of my uncle&rsquo;s congregation, who wrote that the
+a summons. The letter was from a former member of my uncle's congregation, who wrote that the
 old man had passed away and that there should be some small estate which I, as his only living
 relative, might inherit. Having reached the secluded little hamlet by a wearying series of changes
 on branch railways, I found my way to the grocery store of Mark Haines, writer of the letter,
-and he, leading me into a stuffy back room, told me a peculiar tale concerning Dominie Vanderhoof&rsquo;s
+and he, leading me into a stuffy back room, told me a peculiar tale concerning Dominie Vanderhoof's
 death.  
 
-  &ldquo;Y&rsquo; should be careful, Hoffman,&rdquo; Haines told me, &ldquo;when
-y&rsquo; meet that old sexton, Abel Foster. He&rsquo;s in league with the devil, sure&rsquo;s
-you&rsquo;re alive. &rsquo;Twa&rsquo;n&rsquo;t two weeks ago Sam Pryor, when he passed the old
-graveyard, heared him mumblin &rsquo;t&rsquo; the dead there. &rsquo;Twa&rsquo;n&rsquo;t right
-he should talk that way&mdash;an&rsquo; Sam does vow that there was a voice answered him&mdash;a
-kind o&rsquo; half-voice, hollow and muffled-like, as though it come out o&rsquo; th&rsquo;
-ground. There&rsquo;s others, too, as could tell y&rsquo; about seein&rsquo; him standin&rsquo;
-afore old Dominie Slott&rsquo;s grave&mdash;that one right agin&rsquo; the church wall&mdash;a-wringin&rsquo;
-his hands an&rsquo; a-talkin&rsquo; t&rsquo; th&rsquo; moss on th&rsquo; tombstone as though
-it was the old Dominie himself.&rdquo;  
+   "Y' should be careful, Hoffman, " Haines told me,  "when
+y' meet that old sexton, Abel Foster. He's in league with the devil, sure's
+you're alive. 'Twa'n't two weeks ago Sam Pryor, when he passed the old
+graveyard, heared him mumblin 't' the dead there. 'Twa'n't right
+he should talk that way--an' Sam does vow that there was a voice answered him--a
+kind o' half-voice, hollow and muffled-like, as though it come out o' th'
+ground. There's others, too, as could tell y' about seein' him standin'
+afore old Dominie Slott's grave--that one right agin' the church wall--a-wringin'
+his hands an' a-talkin' t' th' moss on th' tombstone as though
+it was the old Dominie himself. "  
 
   Old Foster, Haines said, had come to Daalbergen about ten years before, and
 had been immediately engaged by Vanderhoof to take care of the damp stone church at which most
@@ -46,13 +46,13 @@ in the cemetery and tending the flowers around the graves, now and then crooning
 to himself. And few failed to notice the particular attention he paid to the grave of the Reverend
 Guilliam Slott, first pastor of the church in 1701.  
 
-  It was not long after Foster&rsquo;s establishment as a village fixture that
+  It was not long after Foster's establishment as a village fixture that
 disaster began to lower. First came the failure of the mountain mine where most of the men worked.
 The vein of iron had given out, and many of the people moved away to better localities, while
 those who had large holdings of land in the vicinity took to farming and managed to wrest a
 meager living from the rocky hillsides. Then came the disturbances in the church. It was whispered
 about that the Reverend Johannes Vanderhoof had made a compact with the devil, and was preaching
-his word in the house of God. His sermons had become weird and grotesque&mdash;redolent with
+his word in the house of God. His sermons had become weird and grotesque--redolent with
 sinister things which the ignorant people of Daalbergen did not understand. He transported them
 back over ages of fear and superstition to regions of hideous, unseen spirits, and peopled their
 fancy with night-haunting ghouls. One by one the congregation dwindled, while the elders and
@@ -80,8 +80,8 @@ glanced from left to right out of evil-filled eyes as he walked the street with 
 the uneven pavements. Bent and shriveled with extreme age, his presence could actually be felt
 by anyone near him, so powerful was that personality which, said the townspeople, had made Vanderhoof
 accept the devil as his master. No person in Daalbergen doubted that Abel Foster was at the
-bottom of all the town&rsquo;s ill luck, but not a one dared lift a finger against him, or could
-even approach him without a tremor of fear. His name, as well as Vanderhoof&rsquo;s, was never
+bottom of all the town's ill luck, but not a one dared lift a finger against him, or could
+even approach him without a tremor of fear. His name, as well as Vanderhoof's, was never
 mentioned aloud. Whenever the matter of the church across the moor was discussed, it was in
 whispers; and if the conversation chanced to be nocturnal, the whisperers would keep glancing
 over their shoulders to make sure that nothing shapeless or sinister crept out of the darkness
@@ -104,7 +104,7 @@ ceremony, and replace the earth in the hole.
 schedule, and in much better spirits than was customary. He seemed willing to talk, remarking
 that Vanderhoof had died the day before, and that he had buried his body beside that of Dominie
 Slott near the church wall. He smiled from time to time, and rubbed his hands in an untimely
-and unaccountable glee. It was apparent that he took a perverse and diabolic delight in Vanderhoof&rsquo;s
+and unaccountable glee. It was apparent that he took a perverse and diabolic delight in Vanderhoof's
 death. The villagers were conscious of an added uncanniness in his presence, and avoided him
 as much as they could. With Vanderhoof gone they felt more insecure than ever, for the old sexton
 was now free to cast his worst spells over the town from the church across the moor. Muttering
@@ -113,19 +113,19 @@ the swamp.
 
   It was then, it seems, that Mark Haines remembered having heard Dominie Vanderhoof
 speak of me as his nephew. Haines accordingly sent for me, in the hope that I might know something
-which would clear up the mystery of my uncle&rsquo;s last years. I assured my summoner, however,
+which would clear up the mystery of my uncle's last years. I assured my summoner, however,
 that I knew nothing about my uncle or his past, except that my mother had mentioned him as a
 man of gigantic physique but with little courage or power of will.  
 
   Having heard all that Haines had to tell me, I lowered the front legs of my
 chair to the floor and looked at my watch. It was late afternoon.  
 
-  &ldquo;How far is it out to the church?&rdquo; I inquired. &ldquo;Think I can
-make it before sunset?&rdquo;  
+   "How far is it out to the church? " I inquired.  "Think I can
+make it before sunset? "  
 
-  &ldquo;Sure, lad, y&rsquo; ain&rsquo;t goin&rsquo; out there t&rsquo;night! Not
-t&rsquo; that place!&rdquo; The old man trembled noticeably in every limb and half rose from his
-chair, stretching out a lean, detaining hand. &ldquo;Why, it&rsquo;s plumb foolishness!&rdquo;
+   "Sure, lad, y' ain't goin' out there t'night! Not
+t' that place! " The old man trembled noticeably in every limb and half rose from his
+chair, stretching out a lean, detaining hand.  "Why, it's plumb foolishness! "
 he exclaimed.  
 
   I laughed aside his fears and informed him that, come what may, I was determined
@@ -134,13 +134,13 @@ not intend to accept the superstitions of ignorant country folk as truth, for I 
 that all I had just heard was merely a chain of events which the over-imaginative people of
 Daalbergen had happened to link with their ill-luck. I felt no sense of fear or horror whatever.  
 
-  Seeing that I was determined to reach my uncle&rsquo;s house before nightfall,
+  Seeing that I was determined to reach my uncle's house before nightfall,
 Haines ushered me out of his office and reluctantly gave me the few required directions, pleading
 from time to time that I change my mind. He shook my hand when I left, as though he never expected
 to see me again.  
 
-  &ldquo;Take keer that old devil, Foster, don&rsquo;t git ye!&rdquo; he warned,
-again and again. &ldquo;I wouldn&rsquo;t go near him after dark fer love n&rsquo;r money. No siree!&rdquo;
+   "Take keer that old devil, Foster, don't git ye! " he warned,
+again and again.  "I wouldn't go near him after dark fer love n'r money. No siree! "
 He re-entered his store, solemnly shaking his head, while I set out along a road leading to
 the outskirts of the town.  
 
@@ -169,13 +169,13 @@ like a wraith.
   I had slowed my pace a trifle as I took in the scene. The sun was disappearing
 behind the mountain very rapidly now, and the damp air chilled me. Turning my coat collar up
 about my neck, I plodded on. Something caught my eye as I glanced up again. In the shadow of
-the church wall was something white&mdash;a thing which seemed to have no definite shape. Straining
+the church wall was something white--a thing which seemed to have no definite shape. Straining
 my eyes as I came nearer, I saw that it was a cross of new timber, surmounting a mound of freshly
-turned earth. The discovery sent a new chill through me. I realized that this must be my uncle&rsquo;s
+turned earth. The discovery sent a new chill through me. I realized that this must be my uncle's
 grave, but something told me that it was not like the other graves near it. It did not seem
 like a   dead   grave. In some intangible way it appeared to be   living,   if a grave
 can be said to live. Very close to it, I saw as I came nearer, was another grave; an old mound
-with a crumbling stone about it. Dominie Slott&rsquo;s tomb, I thought, remembering Haines&rsquo;s
+with a crumbling stone about it. Dominie Slott's tomb, I thought, remembering Haines's
 story.  
 
   There was no sign of life anywhere about the place. In the semi-twilight I
@@ -195,7 +195,7 @@ I wondered, for the hundredth time, where the old sexton might be.
 
   As I stood there, half expecting some sinister demon to creep from the shadows,
 I noticed two lighted windows glaring from the belfry of the church. I then remembered what
-Haines had told me about Foster&rsquo;s living in the basement of the building. Advancing cautiously
+Haines had told me about Foster's living in the basement of the building. Advancing cautiously
 through the blackness, I found a side door of the church ajar.  
 
   The interior had a musty and mildewed odor. Everything I touched was covered
@@ -221,15 +221,15 @@ whisky. I could now hear someone stirring in the belfry room above. Venturing a 
 I thought I heard a groan in reply, and cautiously climbed the stairs.  
 
   My first glance into that unhallowed place was indeed startling. Strewn about
-the little room were old and dusty books and manuscripts&mdash;strange things that bespoke almost
+the little room were old and dusty books and manuscripts--strange things that bespoke almost
 unbelievable age. On rows of shelves which reached to the ceiling were horrible things in glass
-jars and bottles&mdash;snakes and lizards and bats. Dust and mold and cobwebs encrusted everything.
+jars and bottles--snakes and lizards and bats. Dust and mold and cobwebs encrusted everything.
 In the center, behind a table upon which was a lighted candle, a nearly empty bottle of whisky,
 and a glass, was a motionless figure with a thin, scrawny, wrinkled face and wild eyes that
 stared blankly through me. I recognized Abel Foster, the old sexton, in an instant. He did not
 move or speak as I came slowly and fearfully toward him.  
 
-  &ldquo;Mr. Foster?&rdquo; I asked, trembling with unaccountable fear when I heard
+   "Mr. Foster? " I asked, trembling with unaccountable fear when I heard
 my voice echo within the close confines of the room. There was no reply, and no movement from
 the figure behind the table. I wondered if he had not drunk himself to insensibility, and went
 behind the table to shake him.  
@@ -238,25 +238,25 @@ behind the table to shake him.
 from his chair as though terrified. His eyes, still having in them that same blank stare, were
 fixed upon me. Swinging his arms like flails, he backed away.  
 
-  &ldquo;Don&rsquo;t!&rdquo; he screamed. &ldquo;Don&rsquo;t touch me! Go back&mdash;go
-back!&rdquo;  
+   "Don't! " he screamed.  "Don't touch me! Go back--go
+back! "  
 
   I saw that he was both drunk and struck with some kind of a nameless terror. Using
 a soothing tone, I told him who I was and why I had come. He seemed to understand vaguely and
 sank back into his chair, sitting limp and motionless.  
 
-  &ldquo;I thought ye was him,&rdquo; he mumbled. &ldquo;I thought ye was him come
-back fer it. He&rsquo;s been a-tryin&rsquo; t&rsquo; get out&mdash;a-tryin&rsquo; t&rsquo; get out sence
-I put him in there.&rdquo; His voice again rose to a scream and he clutched his chair. &ldquo;Maybe
-he&rsquo;s got out now! Maybe he&rsquo;s out!&rdquo;  
+   "I thought ye was him, " he mumbled.  "I thought ye was him come
+back fer it. He's been a-tryin' t' get out--a-tryin' t' get out sence
+I put him in there. " His voice again rose to a scream and he clutched his chair.  "Maybe
+he's got out now! Maybe he's out! "  
 
   I looked about, half expecting to see some spectral shape coming up the stairs.  
 
-  &ldquo;Maybe who&rsquo;s out?&rdquo; I inquired.  
+   "Maybe who's out? " I inquired.  
 
-  &ldquo;Vanderhoof!&rdquo; he shrieked. &ldquo;Th&rsquo; cross over his grave keeps
-fallin&rsquo; down in th&rsquo; night! Every morning the earth is loose, and gets harder t&rsquo; pat
-down. He&rsquo;ll come out an&rsquo; I won&rsquo;t be able t&rsquo; do nothin&rsquo;.&rdquo;  
+   "Vanderhoof! " he shrieked.  "Th' cross over his grave keeps
+fallin' down in th' night! Every morning the earth is loose, and gets harder t' pat
+down. He'll come out an' I won't be able t' do nothin'. "  
 
   Forcing him back into the chair, I seated myself on a box near him. He was
 trembling in mortal terror, with the saliva dripping from the corners of his mouth. From time
@@ -266,34 +266,34 @@ and he seemed calmer, mumbling to himself.
 
   I quietly arose and opened a window to let out the fumes of whisky and the musty
 odor of dead things. Light from a dim moon, just risen, made objects below barely visible. I
-could just see Dominie Vanderhoof&rsquo;s grave from my position in the belfry, and blinked my
+could just see Dominie Vanderhoof's grave from my position in the belfry, and blinked my
 eyes as I gazed at it. That cross   was   tilted! I remembered that it had been vertical
 an hour ago. Fear took possession of me again. I turned quickly. Foster sat in his chair watching
 me. His glance was saner than before.  
 
-  &ldquo;So ye&rsquo;re Vanderhoof&rsquo;s nephew,&rdquo; he mumbled in a nasal tone.
-&ldquo;Waal, ye might&rsquo;s well know it all. He&rsquo;ll be back arter me afore long, he will&mdash;jus&rsquo;
-as soon as he can get out o&rsquo; that there grave. Ye might&rsquo;s well know all about it now.&rdquo;  
+   "So ye're Vanderhoof's nephew, " he mumbled in a nasal tone.
+ "Waal, ye might's well know it all. He'll be back arter me afore long, he will--jus'
+as soon as he can get out o' that there grave. Ye might's well know all about it now. "  
 
   His terror appeared to have left him. He seemed resigned to some horrible fate
 which he expected any minute. His head dropped down upon his chest again, and he went on muttering
 in that nasal monotone.  
 
-  &ldquo;Ye see all them there books and papers? Waal, they was once Dominie Slott&rsquo;s&mdash;Dominie
-Slott, who was here years ago. All them things is got t&rsquo; do with magic&mdash;black magic
-that th&rsquo; old Dominie knew afore he come t&rsquo; this country. They used t&rsquo; burn &rsquo;em
-an&rsquo; boil &rsquo;em in oil fer knowin&rsquo; that over there, they did. But old Slott knew,
-and he didn&rsquo;t go fer t&rsquo; tell nobody. No sir, old Slott used to preach here generations
-ago, an&rsquo; he used to come up here an&rsquo; study them books, an&rsquo; use all them dead
-things in jars, an&rsquo; pronounce magic curses an&rsquo; things, but he didn&rsquo;t let nobody
-know it. No, nobody knowed it but Dominie Slott an&rsquo; me.&rdquo;  
+   "Ye see all them there books and papers? Waal, they was once Dominie Slott's--Dominie
+Slott, who was here years ago. All them things is got t' do with magic--black magic
+that th' old Dominie knew afore he come t' this country. They used t' burn 'em
+an' boil 'em in oil fer knowin' that over there, they did. But old Slott knew,
+and he didn't go fer t' tell nobody. No sir, old Slott used to preach here generations
+ago, an' he used to come up here an' study them books, an' use all them dead
+things in jars, an' pronounce magic curses an' things, but he didn't let nobody
+know it. No, nobody knowed it but Dominie Slott an' me. "  
 
-  &ldquo;You?&rdquo; I ejaculated, leaning across the table toward him.  
+   "You? " I ejaculated, leaning across the table toward him.  
 
-  &ldquo;That is, me after I learned it.&rdquo; His face showed lines of trickery
-as he answered me. &ldquo;I found all this stuff here when I come t&rsquo; be church sexton, an&rsquo;
-I used t&rsquo; read it when I wa&rsquo;n&rsquo;t at work. An&rsquo; I soon got t&rsquo; know all
-about it.&rdquo;  
+   "That is, me after I learned it. " His face showed lines of trickery
+as he answered me.  "I found all this stuff here when I come t' be church sexton, an'
+I used t' read it when I wa'n't at work. An' I soon got t' know all
+about it. "  
 
   The old man droned on, while I listened, spellbound. He told about learning
 the difficult formulae of demonology, so that, by means of incantations, he could cast spells
@@ -307,39 +307,39 @@ Vanderhoof while he was preaching, through holes which were the eyes of the Devi
 Terrified by the uncanny things which were happening in their midst, the congregation left one
 by one, and Foster was able to do what he pleased with the church and with Vanderhoof.  
 
-  &ldquo;But what did you do with him?&rdquo; I asked in a hollow voice as the
+   "But what did you do with him? " I asked in a hollow voice as the
 old sexton paused in his confession. He burst into a cackle of laughter, throwing back his head
 in drunken glee.  
 
-  &ldquo;I took his soul!&rdquo; he howled in a tone that set me trembling. &ldquo;I
-took his soul and put it in a bottle&mdash;in a little black bottle! And I buried him! But he
-ain&rsquo;t got his soul, an&rsquo; he cain&rsquo;t go neither t&rsquo; heaven n&rsquo;r hell! But
-he&rsquo;s a-comin&rsquo; back after it. He&rsquo;s a-trying&rsquo; t&rsquo; get out o&rsquo; his
-grave now. I can hear him pushin&rsquo; his way up through the ground, he&rsquo;s that strong!&rdquo;  
+   "I took his soul! " he howled in a tone that set me trembling.  "I
+took his soul and put it in a bottle--in a little black bottle! And I buried him! But he
+ain't got his soul, an' he cain't go neither t' heaven n'r hell! But
+he's a-comin' back after it. He's a-trying' t' get out o' his
+grave now. I can hear him pushin' his way up through the ground, he's that strong! "  
 
   As the old man had proceeded with his story, I had become more and more convinced
 that he must be telling me the truth, and not merely gibbering in drunkenness. Every detail
 fitted what Haines had told me. Fear was growing upon me by degrees. With the old wizard now
 shouting with demoniac laughter, I was tempted to bolt down the narrow stairway and leave that
 accursed neighborhood. To calm myself, I rose and again looked out of the window. My eyes nearly
-started from their sockets when I saw that the cross above Vanderhoof&rsquo;s grave had fallen
+started from their sockets when I saw that the cross above Vanderhoof's grave had fallen
 perceptibly since I had last looked at it. It was now tilted to an angle of forty-five degrees!  
 
-  &ldquo;Can&rsquo;t we dig up Vanderhoof and restore his soul?&rdquo; I asked almost
+   "Can't we dig up Vanderhoof and restore his soul? " I asked almost
 breathlessly, feeling that something must be done in a hurry. The old man rose from his chair
 in terror.  
 
-  &ldquo;No, no, no!&rdquo; he screamed. &ldquo;He&rsquo;d kill me! I&rsquo;ve fergot
-th&rsquo; formula, an&rsquo; if he gets out he&rsquo;ll be alive, without a soul. He&rsquo;d kill
-us both!&rdquo;  
+   "No, no, no! " he screamed.  "He'd kill me! I've fergot
+th' formula, an' if he gets out he'll be alive, without a soul. He'd kill
+us both! "  
 
-  &ldquo;Where is the bottle that contains his soul?&rdquo; I asked, advancing
+   "Where is the bottle that contains his soul? " I asked, advancing
 threateningly toward him. I felt that some ghastly thing was about to happen, which I must do
 all in my power to prevent.  
 
-  &ldquo;I won&rsquo;t tell ye, ye young whelp!&rdquo; he snarled. I felt, rather
-than saw, a queer light in his eyes as he backed into a corner. &ldquo;An&rsquo; don&rsquo;t ye
-touch me, either, or ye&rsquo;ll wish ye hadn&rsquo;t!&rdquo;  
+   "I won't tell ye, ye young whelp! " he snarled. I felt, rather
+than saw, a queer light in his eyes as he backed into a corner.  "An' don't ye
+touch me, either, or ye'll wish ye hadn't! "  
 
   I moved a step forward, noticing that on a low stool behind him there were
 two black bottles. Foster muttered some peculiar words in a low singsong voice. Everything began
@@ -352,13 +352,13 @@ his foot, and one bottle fell to the floor as I snatched the other. There was a 
 flame, and a sulfurous smell filled the room. From the little heap of broken glass a white vapor
 rose and followed the draft out the window.  
 
-  &ldquo;Curse ye, ye rascal!&rdquo; sounded a voice that seemed faint and far
+   "Curse ye, ye rascal! " sounded a voice that seemed faint and far
 away. Foster, whom I had released when the bottle broke, was crouching against the wall, looking
 smaller and more shriveled than before. His face was slowly turning greenish-black.  
 
-  &ldquo;Curse ye!&rdquo; said the voice again, hardly sounding as though it came
-from his lips. &ldquo;I&rsquo;m done fer! That one in there was mine!   Dominie Slott took it
-out two hundred years ago!  &rdquo;  
+   "Curse ye! " said the voice again, hardly sounding as though it came
+from his lips.  "I'm done fer! That one in there was mine!   Dominie Slott took it
+out two hundred years ago!   "  
 
   He slid slowly toward the floor, gazing at me with hatred in eyes that were
 rapidly dimming. His flesh changed from white to black, and then to yellow. I saw with horror
@@ -369,15 +369,15 @@ with a faint phosphorescence. Stiff with fright, I set it upon the table, but co
 my eyes from it. There was an ominous moment of silence as its glow became brighter, and then
 there came distinctly to my ears the sound of sliding earth. Gasping for breath, I looked out
 of the window. The moon was now well up in the sky, and by its light I could see that the fresh
-cross above Vanderhoof&rsquo;s grave had completely fallen. Once again there came the sound of
+cross above Vanderhoof's grave had completely fallen. Once again there came the sound of
 trickling gravel, and no longer able to control myself, I stumbled down the stairs and found
 my way out of doors. Falling now and then as I raced over the uneven ground, I ran on in abject
 terror. When I had reached the foot of the knoll, at the entrance to that gloomy tunnel beneath
 the willows, I heard a horrible roar behind me. Turning, I glanced back toward the church. Its
 wall reflected the light of the moon, and silhouetted against it was a gigantic, loathsome,
-black shadow climbing from my uncle&rsquo;s grave and floundering gruesomely toward the church.  
+black shadow climbing from my uncle's grave and floundering gruesomely toward the church.  
 
-  I told my story to a group of villagers in Haines&rsquo;s store the next morning.
+  I told my story to a group of villagers in Haines's store the next morning.
 They looked from one to the other with little smiles during my tale, I noticed, but when I suggested
 that they accompany me to the spot, gave various excuses for not caring to go. Though there
 seemed to be a limit to their credulity, they cared to run no risks. I informed them that I
@@ -386,12 +386,12 @@ would go alone, though I must confess that the project did not appeal to me.
   As I left the store, one old man with a long, white beard hurried after me
 and caught my arm.  
 
-  &ldquo;I&rsquo;ll go wi&rsquo; ye, lad,&rdquo; he said. &ldquo;It do seem that I
-once heared my gran&rsquo;pap tell o&rsquo; su&rsquo;thin&rsquo; o&rsquo; the sort concernin&rsquo;
-old Dominie Slott. A queer old man I&rsquo;ve heared he were, but Vanderhoof&rsquo;s been worse.&rdquo;  
+   "I'll go wi' ye, lad, " he said.  "It do seem that I
+once heared my gran'pap tell o' su'thin' o' the sort concernin'
+old Dominie Slott. A queer old man I've heared he were, but Vanderhoof's been worse. "  
 
-  Dominie Vanderhoof&rsquo;s grave was open and deserted when we arrived. Of course
-it could have been grave-robbers, the two of us agreed, and yet.&nbsp;.&nbsp;.&nbsp;. In the
+  Dominie Vanderhoof's grave was open and deserted when we arrived. Of course
+it could have been grave-robbers, the two of us agreed, and yet. . . . In the
 belfry the bottle which I had left upon the table was gone, though the fragments of the broken
 one were found on the floor. And upon the heap of yellow dust and crumpled clothing that had
 once been Abel Foster were certain immense footprints.  

@@ -29,7 +29,7 @@ to the castle. I had reached Kilderry in the summer sunset, as the gold of the s
 green of the hills and groves and the blue of the bog, where on a far islet a strange olden
 ruin glistened spectrally. That sunset was very beautiful, but the peasants at Ballylough had
 warned me against it and said that Kilderry had become accursed, so that I almost shuddered
-to see the high turrets of the castle gilded with fire. Barry&rsquo;s motor had met me at the
+to see the high turrets of the castle gilded with fire. Barry's motor had met me at the
 Ballylough station, for Kilderry is off the railway. The villagers had shunned the car and the
 driver from the north, but had whispered to me with pale faces when they saw I was going to
 Kilderry. And that night, after our reunion, Barry told me why.  
@@ -148,7 +148,7 @@ over. I retired early and full of dread, and for a long time could not sleep in 
 silence of the tower. It was very dark, for although the sky was clear the moon was now well
 in the wane, and would not rise till the small hours. I thought as I lay there of Denys Barry,
 and of what would befall that bog when the day came, and found myself almost frantic with an
-impulse to rush out into the night, take Barry&rsquo;s car, and drive madly to Ballylough out
+impulse to rush out into the night, take Barry's car, and drive madly to Ballylough out
 of the menaced lands. But before my fears could crystallise into action I had fallen asleep,
 and gazed in dreams upon the city in the valley, cold and dead under a shroud of hideous shadow.  
 
@@ -168,12 +168,12 @@ to the east window and looked out whilst the maddening, incessant piping whined 
 through the castle and over all the village.  
 
   Over the bog was a deluge of flaring light, scarlet and sinister, and pouring
-from the strange olden ruin on the far islet. The aspect of that ruin I cannot describe&mdash;I
+from the strange olden ruin on the far islet. The aspect of that ruin I cannot describe--I
 must have been mad, for it seemed to rise majestic and undecayed, splendid and column-cinctured,
 the flame-reflecting marble of its entablature piercing the sky like the apex of a temple on
 a mountain-top. Flutes shrieked and drums began to beat, and as I watched in awe and terror
 I thought I saw dark saltant forms silhouetted grotesquely against the vision of marble and
-effulgence. The effect was titanic&mdash;altogether unthinkable&mdash;and I might have stared
+effulgence. The effect was titanic--altogether unthinkable--and I might have stared
 indefinitely had not the sound of the piping seemed to grow stronger at my left. Trembling with
 a terror oddly mixed with ecstasy I crossed the circular room to the north window from which
 I could see the village and the plain at the edge of the bog. There my eyes dilated again with
@@ -220,7 +220,7 @@ What I muttered about as I came slowly out of the shadows was a pair of fantasti
 which occurred in my flight; incidents of no significance, yet which haunt me unceasingly when
 I am alone in certain marshy places or in the moonlight.  
 
-  As I fled from that accursed castle along the bog&rsquo;s edge I heard a new
+  As I fled from that accursed castle along the bog's edge I heard a new
 sound; common, yet unlike any I had heard before at Kilderry. The stagnant waters, lately quite
 devoid of animal life, now teemed with a horde of slimy enormous frogs which piped shrilly and
 incessantly in tones strangely out of keeping with their size. They glistened bloated and green
@@ -231,5 +231,5 @@ fat and ugly frog, and saw the second of the things which drove my senses away.
 moon, my eyes seemed to trace a beam of faint quivering radiance having no reflection in the
 waters of the bog. And upward along that pallid path my fevered fancy pictured a thin shadow
 slowly writhing; a vague contorted shadow struggling as if drawn by unseen daemons. Crazed as
-I was, I saw in that awful shadow a monstrous resemblance&mdash;a nauseous, unbelievable caricature&mdash;a
+I was, I saw in that awful shadow a monstrous resemblance--a nauseous, unbelievable caricature--a
 blasphemous effigy of him who had been Denys Barry.  

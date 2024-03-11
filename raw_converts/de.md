@@ -6,7 +6,7 @@
   
 
 In London there is a man who screams when the church bells ring. He lives all alone with his
-streaked cat in Gray&rsquo;s Inn, and people call him harmlessly mad. His room is filled with
+streaked cat in Gray's Inn, and people call him harmlessly mad. His room is filled with
 books of the tamest and most puerile kind, and hour after hour he tries to lose himself in their
 feeble pages. All he seeks from life is not to think. For some reason thought is very horrible
 to him, and anything which stirs the imagination he flees as a plague. He is very thin and grey
@@ -15,7 +15,7 @@ its grisly claws upon him, and a sound will make him start with staring eyes and
 forehead. Friends and companions he shuns, for he wishes to answer no questions. Those who once
 knew him as scholar and aesthete say it is very pitiful to see him now. He dropped them all
 years ago, and no one feels sure whether he left the country or merely sank from sight in some
-hidden byway. It is a decade now since he moved into Gray&rsquo;s Inn, and of where he had been
+hidden byway. It is a decade now since he moved into Gray's Inn, and of where he had been
 he would say nothing till the night young Williams bought the   Necronomicon.    
 
   Williams was a dreamer, and only twenty-three, and when he moved into the ancient
@@ -47,7 +47,7 @@ of it. The old bookseller had told him that only five copies were known to have 
 shocked edicts of the priests and lawgivers against it and that all of these were locked up
 with frightened care by custodians who had ventured to begin a reading of the hateful black-letter.
 But now, at last, he had not only found an accessible copy but had made it his own at a ludicrously
-low figure. It was at a Jew&rsquo;s shop in the squalid precincts of Clare Market, where he
+low figure. It was at a Jew's shop in the squalid precincts of Clare Market, where he
 had often bought strange things before, and he almost fancied the gnarled old Levite smiled
 amidst tangles of beard as the great discovery was made. The bulky leather cover with the brass
 clasp had been so prominently visible, and the price was so absurdly slight.  
@@ -69,7 +69,7 @@ wide scattering to its ashes.
 
   There must, Lord Northam whispered, have been something wrong at the start;
 but it would never have come to a head if he had not explored too far. He was the nineteenth
-Baron of a line whose beginnings went uncomfortably far back into the past&mdash;unbelievably
+Baron of a line whose beginnings went uncomfortably far back into the past--unbelievably
 far, if vague tradition could be heeded, for there were family tales of a descent from pre-Saxon
 times, when a certain Cnaeus Gabinius Capito, military tribune in the Third Augustan Legion
 then stationed at Lindum in Roman Britain, had been summarily expelled from his command for
@@ -82,7 +82,7 @@ legend that Gabinius had built an impregnable fortress over the forbidden cave a
 line which Pict and Saxon, Dane and Norman were powerless to obliterate; or in the tacit assumption
 that from this line sprang the bold companion and lieutenant of the Black Prince whom Edward
 Third created Baron of Northam. These things were not certain, yet they were often told; and
-in truth the stonework of Northam Keep did look alarmingly like the masonry of Hadrian&rsquo;s
+in truth the stonework of Northam Keep did look alarmingly like the masonry of Hadrian's
 Wall. As a child Lord Northam had had peculiar dreams when sleeping in the older parts of the
 castle, and had acquired a constant habit of looking back through his memory for half-amorphous
 scenes and patterns and impressions which formed no part of his waking experience. He became
@@ -93,10 +93,10 @@ once familiar, yet lying nowhere in the visible regions of earth.
 and ominous, and that unknown demesnes press on and permeate the sphere of the known at every
 point, Northam in youth and young manhood drained in turn the founts of formal religion and
 occult mystery. Nowhere, however, could he find ease and content; and as he grew older the staleness
-and limitations of life became more and more maddening to him. During the &rsquo;nineties he
+and limitations of life became more and more maddening to him. During the 'nineties he
 dabbled in Satanism, and at all times he devoured avidly any doctrine or theory which seemed
 to promise escape from the close vistas of science and the dully unvarying laws of Nature. Books
-like Ignatius Donnelly&rsquo;s chimerical account of Atlantis he absorbed with zest, and a dozen
+like Ignatius Donnelly's chimerical account of Atlantis he absorbed with zest, and a dozen
 obscure precursors of Charles Fort enthralled him with their vagaries. He would travel leagues
 to follow up a furtive village tale of abnormal wonder, and once went into the desert of Araby
 to seek a Nameless City of faint report, which no man has ever beheld. There rose within him

@@ -5,15 +5,15 @@
 
   
 
-  [Note: Barlow&rsquo;s contributions are in brackets.]    
+  [Note: Barlow's contributions are in brackets.]    
 
 Dam Bor glued each of his six eyes to the lenses of the cosmoscope. His nasal tentacles were orange
 with fear, and his antennae buzzed hoarsely as he dictated his report to the operator behind him.
-&ldquo;It has come!&rdquo; he cried. &ldquo;That blur in the ether can be nothing less than a fleet
+ "It has come! " he cried.  "That blur in the ether can be nothing less than a fleet
 from outside the space-time continuum we know. Nothing like this has ever appeared before. It must
-be an enemy. Give the alarm to the Inter-Cosmic Chamber of Commerce. There&rsquo;s no time to
-lose&mdash;at this rate they&rsquo;ll be upon us in less than six centuries. Hak Ni must have a
-chance to get the fleet in action at once.&rdquo;  
+be an enemy. Give the alarm to the Inter-Cosmic Chamber of Commerce. There's no time to
+lose--at this rate they'll be upon us in less than six centuries. Hak Ni must have a
+chance to get the fleet in action at once. "  
 
   [I glanced up from the   Windy City Grab-Bag,   which had beguiled my inactive
 peace-time days in the Super-Galactic Patrol. The handsome young vegetable, with whom I shared my
@@ -24,34 +24,34 @@ on which the Chamber held its sessions.
 
   [Within the Great Council Chamber, which measured twenty-eight square feet (with
 quite a high ceiling), were gathered delegates from all the thirty-seven galaxies of our immediate
-universe. Oll Stof, President of the Chamber and representative of the Milliner&rsquo;s Soviet,
+universe. Oll Stof, President of the Chamber and representative of the Milliner's Soviet,
 raised his eyeless snout with dignity] and prepared to address the assembled multitude. He was a
 highly developed protozoan organism from Nov-Kas, and spoke by emitting alternate waves of heat and
 cold.  
 
-  [&ldquo;Gentlemen,&rdquo; he radiated, &ldquo;a terrible peril has come upon us which
-I feel I must bring to your attention.&rdquo;  
+  [ "Gentlemen, " he radiated,  "a terrible peril has come upon us which
+I feel I must bring to your attention. "  
 
   Everybody applauded riotously, as a wave of excitement rippled through the
 variegated audience; those who were handless slithering their tentacles together.  
 
-  He continued: &ldquo;Hak Ni, crawl upon the dais!&rdquo;  
+  He continued:  "Hak Ni, crawl upon the dais! "  
 
   There was a thunderous silence, during which a faint prompting was heard] from the
 dizzy summit of the platform. [Hak Ni, the yellow-furred and valorous commander of our ranks
 through numerous installments, ascended to the towering peak inches above the floor.  
 
-  &ldquo;My friends&mdash;&rdquo; he began, with an eloquent scraping of his posterior
-limbs, &ldquo;these treasured walls and pillars shall not mourn on my account....&rdquo; At this
-point, one of his numerous relatives cheered. &ldquo;Well do I remember when...&rdquo;  
+   "My friends-- " he began, with an eloquent scraping of his posterior
+limbs,  "these treasured walls and pillars shall not mourn on my account.... " At this
+point, one of his numerous relatives cheered.  "Well do I remember when... "  
 
-  Oll Stof interrupted him.] &ldquo;You have anticipated my thoughts and orders. Go
-forth and win for dear old Inter-Cosmic.&rdquo;  
+  Oll Stof interrupted him.]  "You have anticipated my thoughts and orders. Go
+forth and win for dear old Inter-Cosmic. "  
 
   [Two paragraphs later found us soaring out past innumerable stars toward where a
 faint blur half a million light-years long marked the presence of the hated enemy, whom we had not
 seen. What monsters of malformed grotesqueness seethed out there among the moons of infinity, we
-really didn&rsquo;t know, but there was a malign menace in the glow that steadily increased until it
+really didn't know, but there was a malign menace in the glow that steadily increased until it
 spanned the entire heavens. Very soon we made out separate objects in the blur. Before all my
 horror-stricken vision-areas there spread an endless array of scissors-shaped space-ships of
 totally unfamiliar form.  

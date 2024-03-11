@@ -59,17 +59,17 @@ who treads them may nevermore return to his native shore.
 
   As the White Ship sailed silently away from the templed terraces of Zar, we
 beheld on the distant horizon ahead the spires of a mighty city; and the bearded man said to
-me: &ldquo;This is Thalarion, the City of a Thousand Wonders, wherein reside all those mysteries
-that man has striven in vain to fathom.&rdquo; And I looked again, at closer range, and saw
+me:  "This is Thalarion, the City of a Thousand Wonders, wherein reside all those mysteries
+that man has striven in vain to fathom. " And I looked again, at closer range, and saw
 that the city was greater than any city I had known or dreamed of before. Into the sky the spires
 of its temples reached, so that no man might behold their peaks; and far back beyond the horizon
 stretched the grim, grey walls, over which one might spy only a few roofs, weird and ominous,
 yet adorned with rich friezes and alluring sculptures. I yearned mightily to enter this fascinating
 yet repellent city, and besought the bearded man to land me at the stone pier by the huge carven
-gate Akariel; but he gently denied my wish, saying: &ldquo;Into Thalarion, the City of a Thousand
+gate Akariel; but he gently denied my wish, saying:  "Into Thalarion, the City of a Thousand
 Wonders, many have passed but none returned. Therein walk only daemons and mad things that are
 no longer men, and the streets are white with the unburied bones of those who have looked upon
-the eidolon Lathi, that reigns over the city.&rdquo; So the White Ship sailed on past the walls
+the eidolon Lathi, that reigns over the city. " So the White Ship sailed on past the walls
 of Thalarion, and followed for many days a southward-flying bird, whose glossy plumage matched
 the sky out of which it had appeared.  
 
@@ -81,7 +81,7 @@ And the bearded man spoke no word, but watched me as we approached the lily-line
 a wind blowing from over the flowery meadows and leafy woods brought a scent at which I trembled.
 The wind grew stronger, and the air was filled with the lethal, charnel odour of plague-stricken
 towns and uncovered cemeteries. And as we sailed madly away from that damnable coast the bearded
-man spoke at last, saying: &ldquo;This is Xura, the Land of Pleasures Unattained.&rdquo;  
+man spoke at last, saying:  "This is Xura, the Land of Pleasures Unattained. "  
 
   So once more the White Ship followed the bird of heaven, over warm blessed
 seas fanned by caressing, aromatic breezes. Day after day and night after night did we sail,
@@ -109,15 +109,15 @@ I saw outlined the beckoning form of the celestial bird, and felt the first stir
 Then I spoke with the bearded man, and told him of my new yearnings to depart for remote Cathuria,
 which no man hath seen, but which all believe to lie beyond the basalt pillars of the West.
 It is the Land of Hope, and in it shine the perfect ideals of all that we know elsewhere; or
-at least so men relate. But the bearded man said to me: &ldquo;Beware of those perilous seas
+at least so men relate. But the bearded man said to me:  "Beware of those perilous seas
 wherein men say Cathuria lies. In Sona-Nyl there is no pain nor death, but who can tell what
-lies beyond the basalt pillars of the West?&rdquo; Natheless at the next full moon I boarded
+lies beyond the basalt pillars of the West? " Natheless at the next full moon I boarded
 the White Ship, and with the reluctant bearded man left the happy harbour for untravelled seas.  
 
   And the bird of heaven flew before, and led us toward the basalt pillars of
 the West, but this time the oarsmen sang no soft songs under the full moon. In my mind I would
 often picture the unknown Land of Cathuria with its splendid groves and palaces, and would wonder
-what new delights there awaited me. &ldquo;Cathuria,&rdquo; I would say to myself, &ldquo;is
+what new delights there awaited me.  "Cathuria, " I would say to myself,  "is
 the abode of gods and the land of unnumbered cities of gold. Its forests are of aloe and sandalwood,
 even as the fragrant groves of Camorin, and among the trees flutter gay birds sweet with song.
 On the green and flowery mountains of Cathuria stand temples of pink marble, rich with carven
@@ -137,7 +137,7 @@ the trophies of the ages. And the roof is of pure gold, set upon tall pillars of
 and having such carven figures of gods and heroes that he who looks up to those heights seems
 to gaze upon the living Olympus. And the floor of the palace is of glass, under which flow the
 cunningly lighted waters of the Narg, gay with gaudy fish not known beyond the bounds of lovely
-Cathuria.&rdquo;  
+Cathuria. "  
 
   Thus would I speak to myself of Cathuria, but ever would the bearded man warn
 me to turn back to the happy shores of Sona-Nyl; for Sona-Nyl is known of men, while none hath
@@ -145,7 +145,7 @@ ever beheld Cathuria.
 
   And on the thirty-first day that we followed the bird, we beheld the basalt
 pillars of the West. Shrouded in mist they were, so that no man might peer beyond them or see
-their summits&mdash;which indeed some say reach even to the heavens. And the bearded man again
+their summits--which indeed some say reach even to the heavens. And the bearded man again
 implored me to turn back, but I heeded him not; for from the mists beyond the basalt pillars
 I fancied there came the notes of singer and lutanist; sweeter than the sweetest songs of Sona-Nyl,
 and sounding mine own praises; the praises of me, who had voyaged far under the full moon and
@@ -157,8 +157,8 @@ Cathuria, but a swift-rushing resistless sea, over which our helpless barque was
 some unknown goal. Soon to our ears came the distant thunder of falling waters, and to our eyes
 appeared on the far horizon ahead the titanic spray of a monstrous cataract, wherein the oceans
 of the world drop down to abysmal nothingness. Then did the bearded man say to me with tears
-on his cheek: &ldquo;We have rejected the beautiful Land of Sona-Nyl, which we may never behold
-again. The gods are greater than men, and they have conquered.&rdquo; And I closed my eyes before
+on his cheek:  "We have rejected the beautiful Land of Sona-Nyl, which we may never behold
+again. The gods are greater than men, and they have conquered. " And I closed my eyes before
 the crash that I knew would come, shutting out the sight of the celestial bird which flapped
 its mocking blue wings over the brink of the torrent.  
 

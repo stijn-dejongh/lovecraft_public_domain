@@ -22,12 +22,12 @@ and filled with weeds. From hidden springs it rises, and to subterranean grottoe
 so that the Daemon of the Valley knows not why its waters are red, nor whither they are bound.  
 
   The Genie that haunts the moonbeams spake to the Daemon of the Valley, saying,
-&ldquo;I am old, and forget much. Tell me the deeds and aspect and name of them who built these
-things of stone.&rdquo; And the Daemon replied, &ldquo;I am Memory, and am wise in lore of the
+ "I am old, and forget much. Tell me the deeds and aspect and name of them who built these
+things of stone. " And the Daemon replied,  "I am Memory, and am wise in lore of the
 past, but I too am old. These beings were like the waters of the river Than, not to be understood.
 Their deeds I recall not, for they were but of the moment. Their aspect I recall dimly, for
 it was like to that of the little apes in the trees. Their name I recall clearly, for it rhymed
-with that of the river. These beings of yesterday were called Man.&rdquo;  
+with that of the river. These beings of yesterday were called Man. "  
 
   So the Genie flew back to the thin horned moon, and the Daemon looked intently
 at a little ape in a tree that grew in a crumbling courtyard.  

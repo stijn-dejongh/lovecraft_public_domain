@@ -31,7 +31,7 @@ he was the prey of success. I had indeed warned him ten weeks before, when he bu
 his tale of what he felt himself about to discover. He had been flushed and excited then, talking
 in a high and unnatural, though always pedantic, voice.  
 
-  &ldquo;What do we know,&rdquo; he had said, &ldquo;of the world and the universe
+   "What do we know, " he had said,  "of the world and the universe
 about us? Our means of receiving impressions are absurdly few, and our notions of surrounding
 objects infinitely narrow. We see things only as we are constructed to see them, and can gain
 no idea of their absolute nature. With five feeble senses we pretend to comprehend the boundlessly
@@ -67,7 +67,7 @@ spirit, terrible though the cost of victory appeared. Up through the dark emptin
 I followed the bobbing candle in the hand of this shaking parody on man. The electricity seemed
 to be turned off, and when I asked my guide he said it was for a definite reason.  
 
-  &ldquo;It would be too much&nbsp;.&nbsp;.&nbsp;. I would not dare,&rdquo; he
+   "It would be too much . . . I would not dare, " he
 continued to mutter. I especially noted his new habit of muttering, for it was not like him
 to talk to himself. We entered the laboratory in the attic, and I observed that detestable electrical
 machine, glowing with a sickly, sinister, violet luminosity. It was connected with a powerful
@@ -78,26 +78,26 @@ that this permanent glow was not electrical in any sense that I could understand
   He now seated me near the machine, so that it was on my right, and turned a
 switch somewhere below the crowning cluster of glass bulbs. The usual sputtering began, turned
 to a whine, and terminated in a drone so soft as to suggest a return to silence. Meanwhile the
-luminosity increased, waned again, then assumed a pale, outr&eacute; colour or blend of colours
+luminosity increased, waned again, then assumed a pale, outré colour or blend of colours
 which I could neither place nor describe. Tillinghast had been watching me, and noted my puzzled
 expression.  
 
-  &ldquo;Do you know what that is?&rdquo; he whispered. &ldquo;  That is ultra-violet.  &rdquo;
-He chuckled oddly at my surprise. &ldquo;You thought ultra-violet was invisible, and so it is&mdash;but
+   "Do you know what that is? " he whispered.  "  That is ultra-violet.   "
+He chuckled oddly at my surprise.  "You thought ultra-violet was invisible, and so it is--but
 you can see that and many other invisible things   now.    
 
-  &ldquo;Listen to me! The waves from that thing are waking a thousand sleeping
+   "Listen to me! The waves from that thing are waking a thousand sleeping
 senses in us; senses which we inherit from aeons of evolution from the state of detached electrons
 to the state of organic humanity. I have seen   truth,   and I intend to shew it to you.
-Do you wonder how it will seem? I will tell you.&rdquo; Here Tillinghast seated himself directly
-opposite me, blowing out his candle and staring hideously into my eyes. &ldquo;Your existing
-sense-organs&mdash;ears first, I think&mdash;will pick up many of the impressions, for they
+Do you wonder how it will seem? I will tell you. " Here Tillinghast seated himself directly
+opposite me, blowing out his candle and staring hideously into my eyes.  "Your existing
+sense-organs--ears first, I think--will pick up many of the impressions, for they
 are closely connected with the dormant organs. Then there will be others. You have heard of
 the pineal gland? I laugh at the shallow endocrinologist, fellow-dupe and fellow-parvenu of
-the Freudian. That gland is the great sense-organ of organs&mdash;  I have found out.   It
+the Freudian. That gland is the great sense-organ of organs--  I have found out.   It
 is like sight in the end, and transmits visual pictures to the brain. If you are normal, that
-is the way you ought to get most of it&nbsp;.&nbsp;.&nbsp;. I mean get most of the evidence
-from   beyond.&rdquo;    
+is the way you ought to get most of it . . . I mean get most of the evidence
+from   beyond. "    
 
   I looked about the immense attic room with the sloping south wall, dimly lit
 by rays which the every-day eye cannot see. The far corners were all shadows, and the whole
@@ -122,24 +122,24 @@ was grinning repulsively at the revolver which I had almost unconsciously drawn,
 expression I was sure he had seen and heard as much as I, if not a great deal more. I whispered
 what I had experienced, and he bade me to remain as quiet and receptive as possible.  
 
-  &ldquo;Don&rsquo;t move,&rdquo; he cautioned, &ldquo;for in these rays   we
-are able to be seen as well as to see.   I told you the servants left, but I didn&rsquo;t
-tell you   how.   It was that thick-witted housekeeper&mdash;she turned on the lights downstairs
+   "Don't move, " he cautioned,  "for in these rays   we
+are able to be seen as well as to see.   I told you the servants left, but I didn't
+tell you   how.   It was that thick-witted housekeeper--she turned on the lights downstairs
 after I had warned her not to, and the wires picked up sympathetic vibrations. It must have
-been frightful&mdash;I could hear the screams up here in spite of all I was seeing and hearing
+been frightful--I could hear the screams up here in spite of all I was seeing and hearing
 from another direction, and later it was rather awful to find those empty heaps of clothes around
-the house. Mrs. Updike&rsquo;s clothes were close to the front hall switch&mdash;that&rsquo;s
-how I know she did it. It got them all. But so long as we don&rsquo;t move we&rsquo;re fairly
-safe. Remember we&rsquo;re dealing with a hideous world in which we are practically helpless.&nbsp;.&nbsp;.&nbsp;.
-  Keep still!&rdquo;    
+the house. Mrs. Updike's clothes were close to the front hall switch--that's
+how I know she did it. It got them all. But so long as we don't move we're fairly
+safe. Remember we're dealing with a hideous world in which we are practically helpless. . . .
+  Keep still! "    
 
   The combined shock of the revelation and of the abrupt command gave me a kind
 of paralysis, and in my terror my mind again opened to the impressions coming from what Tillinghast
-called &ldquo;  beyond  &rdquo;. I was now in a vortex of sound and motion, with confused
+called  "  beyond   ". I was now in a vortex of sound and motion, with confused
 pictures before my eyes. I saw the blurred outlines of the room, but from some point in space
 there seemed to be pouring a seething column of unrecognisable shapes or clouds, penetrating
 the solid roof at a point ahead and to the right of me. Then I glimpsed the temple-like effect
-again, but this time the pillars reached up into an a&euml;rial ocean of light, which sent down
+again, but this time the pillars reached up into an aërial ocean of light, which sent down
 one blinding beam along the path of the cloudy column I had seen before. After that the scene
 was almost wholly kaleidoscopic, and in the jumble of sights, sounds, and unidentified sense-impressions
 I felt that I was about to dissolve or in some way lose the solid form. One definite flash I
@@ -170,39 +170,39 @@ sight. Shudderingly I felt that I knew what had obliterated the unfortunate serv
 not exclude the things from my mind as I strove to observe other properties of the newly visible
 world that lies unseen around us. But Tillinghast had been watching me, and was speaking.  
 
-  &ldquo;You see them? You see them? You see the things that float and flop about
+   "You see them? You see them? You see the things that float and flop about
 you and through you every moment of your life? You see the creatures that form what men call
 the pure air and the blue sky? Have I not succeeded in breaking down the barrier; have I not
-shewn you worlds that no other living men have seen?&rdquo; I heard him scream through the horrible
+shewn you worlds that no other living men have seen? " I heard him scream through the horrible
 chaos, and looked at the wild face thrust so offensively close to mine. His eyes were pits of
 flame, and they glared at me with what I now saw was overwhelming hatred. The machine droned
 detestably.  
 
-  &ldquo;You think those floundering things wiped out the servants? Fool, they
-are harmless! But the servants   are   gone, aren&rsquo;t they? You tried to stop me; you
+   "You think those floundering things wiped out the servants? Fool, they
+are harmless! But the servants   are   gone, aren't they? You tried to stop me; you
 discouraged me when I needed every drop of encouragement I could get; you were afraid of the
-cosmic truth, you damned coward, but now I&rsquo;ve got you! What swept up the servants? What
-made them scream so loud?&nbsp;.&nbsp;.&nbsp;. Don&rsquo;t know, eh? You&rsquo;ll know soon enough!
-Look at me&mdash;listen to what I say&mdash;do you suppose there are really any such things
+cosmic truth, you damned coward, but now I've got you! What swept up the servants? What
+made them scream so loud? . . . Don't know, eh? You'll know soon enough!
+Look at me--listen to what I say--do you suppose there are really any such things
 as time and magnitude? Do you fancy there are such things as form or matter? I tell you, I have
-struck depths that your little brain can&rsquo;t picture! I have seen beyond the bounds of infinity
-and drawn down daemons from the stars.&nbsp;.&nbsp;.&nbsp;. I have harnessed the shadows that
-stride from world to world to sow death and madness.&nbsp;.&nbsp;.&nbsp;. Space belongs to me, do
-you hear? Things are hunting me now&mdash;the things that devour and dissolve&mdash;but I know
+struck depths that your little brain can't picture! I have seen beyond the bounds of infinity
+and drawn down daemons from the stars. . . . I have harnessed the shadows that
+stride from world to world to sow death and madness. . . . Space belongs to me, do
+you hear? Things are hunting me now--the things that devour and dissolve--but I know
 how to elude them. It is you they will get, as they got the servants. Stirring, dear sir? I
-told you it was dangerous to move. I have saved you so far by telling you to keep still&mdash;saved
+told you it was dangerous to move. I have saved you so far by telling you to keep still--saved
 you to see more sights and to listen to me. If you had moved, they would have been at you long
-ago. Don&rsquo;t worry, they won&rsquo;t   hurt   you. They didn&rsquo;t hurt the servants&mdash;it
+ago. Don't worry, they won't   hurt   you. They didn't hurt the servants--it
 was   seeing   that made the poor devils scream so. My pets are not pretty, for they come
-out of places where aesthetic standards are&mdash;  very different.   Disintegration is quite
-painless, I assure you&mdash;but   I want you to see them.   I almost saw them, but I knew
+out of places where aesthetic standards are--  very different.   Disintegration is quite
+painless, I assure you--but   I want you to see them.   I almost saw them, but I knew
 how to stop. You are not curious? I always knew you were no scientist! Trembling, eh? Trembling
-with anxiety to see the ultimate things I have discovered? Why don&rsquo;t you move, then? Tired?
-Well, don&rsquo;t worry, my friend,   for they are coming.&nbsp;.&nbsp;.&nbsp;.   Look! Look,
-curse you, look!&nbsp;.&nbsp;.&nbsp;. It&rsquo;s just over your left shoulder.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+with anxiety to see the ultimate things I have discovered? Why don't you move, then? Tired?
+Well, don't worry, my friend,   for they are coming. . . .   Look! Look,
+curse you, look! . . . It's just over your left shoulder. . . . "  
 
   What remains to be told is very brief, and may be familiar to you from the
-newspaper accounts. The police heard a shot in the old Tillinghast house and found us there&mdash;Tillinghast
+newspaper accounts. The police heard a shot in the old Tillinghast house and found us there--Tillinghast
 dead and me unconscious. They arrested me because the revolver was in my hand, but released
 me in three hours, after they found it was apoplexy which had finished Tillinghast and saw that
 my shot had been directed at the noxious machine which now lay hopelessly shattered on the laboratory
@@ -213,5 +213,5 @@ by the vindictive and homicidal madman.
   I wish I could believe that doctor. It would help my shaky nerves if I could
 dismiss what I now have to think of the air and the sky about and above me. I never feel alone
 or comfortable, and a hideous sense of pursuit sometimes comes chillingly on me when I am weary.
-What prevents me from believing the doctor is this one simple fact&mdash;that the police never
+What prevents me from believing the doctor is this one simple fact--that the police never
 found the bodies of those servants whom they say Crawford Tillinghast murdered.  

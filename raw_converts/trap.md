@@ -6,19 +6,19 @@
   
 
 It was on a certain Thursday morning in December that the whole thing began with that unaccountable
-motion I thought I saw in my antique Copenhagen mirror. Something, it seemed to me, stirred&mdash;something
+motion I thought I saw in my antique Copenhagen mirror. Something, it seemed to me, stirred--something
 reflected in the glass, though I was alone in my quarters. I paused and looked intently, then,
 deciding that the effect must be a pure illusion, resumed the interrupted brushing of my hair.  
 
   I had discovered the old mirror, covered with dust and cobwebs, in an outbuilding
-of an abandoned estate-house in Santa Cruz&rsquo;s sparsely settled Northside territory, and
+of an abandoned estate-house in Santa Cruz's sparsely settled Northside territory, and
 had brought it to the United States from the Virgin Islands. The venerable glass was dim from
-more than two hundred years&rsquo; exposure to a tropical climate, and the graceful ornamentation
+more than two hundred years' exposure to a tropical climate, and the graceful ornamentation
 along the top of the gilt frame had been badly smashed. I had had the detached pieces set back
 into the frame before placing it in storage with my other belongings.  
 
   Now, several years later, I was staying half as a guest and half as a tutor
-at the private school of my old friend Browne on a windy Connecticut hillside&mdash;occupying
+at the private school of my old friend Browne on a windy Connecticut hillside--occupying
 an unused wing in one of the dormitories, where I had two rooms and a hallway to myself. The
 old mirror, stowed securely in mattresses, was the first of my possessions to be unpacked on
 my arrival; and I had set it up majestically in the living-room, on top of an old rosewood console
@@ -26,15 +26,15 @@ which had belonged to my great-grandmother.
 
   The door of my bedroom was just opposite that of the living-room, with a hallway
 between; and I had noticed that by looking into my chiffonier glass I could see the larger mirror
-through the two doorways&mdash;which was exactly like glancing down an endless, though diminishing,
+through the two doorways--which was exactly like glancing down an endless, though diminishing,
 corridor. On this Thursday morning I thought I saw a curious suggestion of motion down that
-normally empty corridor&mdash;but, as I have said, soon dismissed the notion.  
+normally empty corridor--but, as I have said, soon dismissed the notion.  
 
   When I reached the dining-room I found everyone complaining of the cold, and
-learned that the school&rsquo;s heating-plant was temporarily out of order. Being especially
+learned that the school's heating-plant was temporarily out of order. Being especially
 sensitive to low temperatures, I was myself an acute sufferer; and at once decided not to brave
 any freezing schoolroom that day. Accordingly I invited my class to come over to my living-room
-for an informal session around my grate-fire&mdash;a suggestion which the boys received enthusiastically.  
+for an informal session around my grate-fire--a suggestion which the boys received enthusiastically.  
 
   After the session one of the boys, Robert Grandison, asked if he might remain;
 since he had no appointment for the second morning period. I told him to stay, and welcome.
@@ -50,57 +50,57 @@ his brows.
   At last I quietly asked him what had attracted his attention. Slowly, and still
 wearing the puzzled frown, he looked over and replied rather cautiously:  
 
-  &ldquo;It&rsquo;s the corrugations in the glass&mdash;or whatever they are, Mr.
-Canevin. I was noticing how they all seem to run from a certain point. Look&mdash;I&rsquo;ll show
-you what I mean.&rdquo;  
+   "It's the corrugations in the glass--or whatever they are, Mr.
+Canevin. I was noticing how they all seem to run from a certain point. Look--I'll show
+you what I mean. "  
 
   The boy jumped up, went over to the mirror, and placed his finger on a point
 near its lower left-hand corner.  
 
-  &ldquo;It&rsquo;s right here, sir,&rdquo; he explained, turning to look toward
+   "It's right here, sir, " he explained, turning to look toward
 me and keeping his finger on the chosen spot.  
 
   His muscular action in turning may have pressed his finger against the glass.
 Suddenly he withdrew his hand as though with some slight effort, and with a faintly muttered
-&ldquo;Ouch.&rdquo; Then he looked at the glass in obvious mystification.  
+ "Ouch. " Then he looked at the glass in obvious mystification.  
 
-  &ldquo;What happened?&rdquo; I asked, rising and approaching.  
+   "What happened? " I asked, rising and approaching.  
 
-  &ldquo;Why&mdash;it&mdash;&rdquo; He seemed embarrassed. &ldquo;It&mdash;I&mdash;felt&mdash;well,
-as though it were pulling my finger into it. Seems&mdash;er&mdash;perfectly foolish, sir, but&mdash;well&mdash;it
-was a most peculiar sensation.&rdquo; Robert had an unusual vocabulary for his fifteen years.  
+   "Why--it-- " He seemed embarrassed.  "It--I--felt--well,
+as though it were pulling my finger into it. Seems--er--perfectly foolish, sir, but--well--it
+was a most peculiar sensation. " Robert had an unusual vocabulary for his fifteen years.  
 
   I came over and had him show me the exact spot he meant.  
 
-  &ldquo;You&rsquo;ll think I&rsquo;m rather a fool, sir,&rdquo; he said shamefacedly,
-&ldquo;but&mdash;well, from right here I can&rsquo;t be absolutely sure. From the chair it seemed
-to be clear enough.&rdquo;  
+   "You'll think I'm rather a fool, sir, " he said shamefacedly,
+ "but--well, from right here I can't be absolutely sure. From the chair it seemed
+to be clear enough. "  
 
   Now thoroughly interested, I sat down in the chair Robert had occupied and
-looked at the spot he selected on the mirror. Instantly the thing &ldquo;jumped out at me.&rdquo;
+looked at the spot he selected on the mirror. Instantly the thing  "jumped out at me. "
 Unmistakably, from that particular angle, all the many whorls in the ancient glass appeared
 to converge like a large number of spread strings held in one hand and radiating out in streams.  
 
   Getting up and crossing to the mirror, I could no longer see the curious spot.
 Only from certain angles, apparently, was it visible. Directly viewed, that portion of the mirror
-did not even give back a normal reflection&mdash;for I could not see my face in it. Manifestly
+did not even give back a normal reflection--for I could not see my face in it. Manifestly
 I had a minor puzzle on my hands.  
 
   Presently the school gong sounded, and the fascinated Robert Grandison departed
 hurriedly, leaving me alone with my odd little problem in optics. I raised several window-shades,
-crossed the hallway, and sought for the spot in the chiffonier mirror&rsquo;s reflection. Finding
-it readily, I looked very intently and thought I again detected something of the &ldquo;motion.&rdquo;
-I craned my neck, and at last, at a certain angle of vision, the thing again &ldquo;jumped out
-at me.&rdquo;  
+crossed the hallway, and sought for the spot in the chiffonier mirror's reflection. Finding
+it readily, I looked very intently and thought I again detected something of the  "motion. "
+I craned my neck, and at last, at a certain angle of vision, the thing again  "jumped out
+at me. "  
 
-  The vague &ldquo;motion&rdquo; was now positive and definite&mdash;an appearance
+  The vague  "motion " was now positive and definite--an appearance
 of torsional movement, or of whirling; much like a minute yet intense whirlwind or waterspout,
 or a huddle of autumn leaves dancing circularly in an eddy of wind along a level lawn. It was,
-like the earth&rsquo;s, a double motion&mdash;around and around, and at the same time   inward,  
+like the earth's, a double motion--around and around, and at the same time   inward,  
 as if the whorls poured themselves endlessly toward some point inside the glass. Fascinated,
 yet realizing that the thing must be an illusion, I grasped an impression of quite distinct
-  suction,   and thought of Robert&rsquo;s embarrassed explanation:   &ldquo;I felt as though
-it were pulling my finger into it.&rdquo;    
+  suction,   and thought of Robert's embarrassed explanation:    "I felt as though
+it were pulling my finger into it. "    
 
   A kind of slight chill ran suddenly up and down my backbone. There was something
 here distinctly worth looking into. And as the idea of investigation came to me, I recalled
@@ -110,13 +110,13 @@ that he should be included in whatever analysis I might make of this little myst
 
   Exciting events connected with that same Robert, however, were soon to chase
 all thoughts of the mirror from my consciousness for a time. I was away all that afternoon,
-and did not return to the school until the five-fifteen &ldquo;Call-Over&rdquo;&mdash;a general
-assembly at which the boys&rsquo; attendance was compulsory. Dropping in at this function with
+and did not return to the school until the five-fifteen  "Call-Over "--a general
+assembly at which the boys' attendance was compulsory. Dropping in at this function with
 the idea of picking Robert up for a session with the mirror, I was astonished and pained to
-find him absent&mdash;a very unusual and unaccountable thing in his case. That evening Browne
+find him absent--a very unusual and unaccountable thing in his case. That evening Browne
 told me that the boy had actually disappeared, a search in his room, in the gymnasium, and in
-all other accustomed places being unavailing, though all his belongings&mdash;including his outdoor
-clothing&mdash;were in their proper places.  
+all other accustomed places being unavailing, though all his belongings--including his outdoor
+clothing--were in their proper places.  
 
   He had not been encountered on the ice or with any of the hiking groups that
 afternoon, and telephone calls to all the school-catering merchants of the neighborhood were
@@ -131,27 +131,27 @@ was learned that Robert had not run away to his home in western Pennsylvania, no
 the searching-parties of boys and masters find any trace of him in the snowy countryside around
 the school. So far as could be seen, he had simply vanished.  
 
-  Robert&rsquo;s parents arrived on the afternoon of the second day after his
+  Robert's parents arrived on the afternoon of the second day after his
 disappearance. They took their trouble quietly, though, of course, they were staggered by this
 unexpected disaster. Browne looked ten years older for it, but there was absolutely nothing
 that could be done. By the fourth day the case had settled down in the opinion of the school
 as an insoluble mystery. Mr. and Mrs. Grandison went reluctantly back to their home, and on
-the following morning the ten days&rsquo; Christmas vacation began.  
+the following morning the ten days' Christmas vacation began.  
 
   Boys and masters departed in anything but the usual holiday spirit; and Browne
 and his wife were left, along with the servants, as my only fellow-occupants of the big place.
 Without the masters and boys it seemed a very hollow shell indeed.  
 
-  That afternoon I sat in front of my grate-fire thinking about Robert&rsquo;s
+  That afternoon I sat in front of my grate-fire thinking about Robert's
 disappearance and evolving all sorts of fantastic theories to account for it. By evening I had
 acquired a bad headache, and ate a light supper accordingly. Then, after a brisk walk around
 the massed buildings, I returned to my living-room and took up the burden of thought once more.  
 
-  A little after ten o&rsquo;clock I awakened in my armchair, stiff and chilled,
+  A little after ten o'clock I awakened in my armchair, stiff and chilled,
 from a doze during which I had let the fire go out. I was physically uncomfortable, yet mentally
 aroused by a peculiar sensation of expectancy and possible hope. Of course it had to do with
 the problem that was harassing me. For I had started from that inadvertent nap with a curious,
-persistent idea&mdash;the odd idea that a tenuous, hardly recognizable Robert Grandison had been
+persistent idea--the odd idea that a tenuous, hardly recognizable Robert Grandison had been
 trying desperately to communicate with me. I finally went to bed with one conviction unreasoningly
 strong in my mind. Somehow I was sure that young Robert Grandison was still alive.  
 
@@ -174,7 +174,7 @@ when I awakened, and there still lingered with me certain impressions which I kn
 over from the world of somnolent cerebration. Filling my mind was the vision of Robert Grandison
 strangely transformed to a boy of a dull greenish dark-blue color; Robert desperately endeavoring
 to communicate with me by means of speech, yet finding some almost insuperable difficulty in
-so doing. A wall of curious spatial separation seemed to stand between him and me&mdash;a mysterious,
+so doing. A wall of curious spatial separation seemed to stand between him and me--a mysterious,
 invisible wall which completely baffled us both.  
 
   I had seen Robert as though at some distance, yet queerly enough he seemed
@@ -182,12 +182,12 @@ at the same time to be just beside me. He was both larger and smaller than in re
 apparent size varying   directly,   instead of   inversely,   with the distance as he
 advanced and retreated in the course of conversation. That is, he grew larger instead of smaller
 to my eye when he stepped away or backwards, and vice versa; as if the laws of perspective in
-his case had been wholly reversed. His aspect was misty and uncertain&mdash;as if he lacked sharp
+his case had been wholly reversed. His aspect was misty and uncertain--as if he lacked sharp
 or permanent outlines; and the anomalies of his coloring and clothing baffled me utterly at
 first.  
 
-  At some point in my dream Robert&rsquo;s vocal efforts had finally crystallized
-into audible speech&mdash;albeit speech of an abnormal thickness and dullness. I could not for
+  At some point in my dream Robert's vocal efforts had finally crystallized
+into audible speech--albeit speech of an abnormal thickness and dullness. I could not for
 a time understand anything he said, and even in the dream racked my brain for a clue to where
 he was, what he wanted to tell, and why his utterance was so clumsy and unintelligible. Then
 little by little I began to distinguish words and phrases, the very first of which sufficed
@@ -198,12 +198,12 @@ it implied.
   I do not know how long I listened to those halting words amidst my deep slumber,
 but hours must have passed while the strangely remote speaker struggled on with his tale. There
 was revealed to me such a circumstance as I cannot hope to make others believe without the strongest
-corroborative evidence, yet which I was quite ready to accept as truth&mdash;both in the dream
-and after waking&mdash;because of my former contacts with uncanny things. The boy was obviously
-watching my face&mdash;mobile in receptive sleep&mdash;as he choked along; for about the time I
+corroborative evidence, yet which I was quite ready to accept as truth--both in the dream
+and after waking--because of my former contacts with uncanny things. The boy was obviously
+watching my face--mobile in receptive sleep--as he choked along; for about the time I
 began to comprehend him, his own expression brightened and gave signs of gratitude and hope.  
 
-  Any attempt to hint at Robert&rsquo;s message, as it lingered in my ears after
+  Any attempt to hint at Robert's message, as it lingered in my ears after
 a sudden awakening in the cold, brings this narrative to a point where I must choose my words
 with the greatest care. Everything involved is so difficult to record that one tends to flounder
 helplessly. I have said that the revelation established in my mind a certain connection which
@@ -214,10 +214,10 @@ illusions of suction had later exerted such a disquieting fascination on both Ro
 
   Resolutely, though my outer consciousness had previously rejected what my intuition
 would have liked to imply, it could reject that stupendous conception no longer. What was fantasy
-in the tale of &ldquo;Alice&rdquo; now came to me as a grave and immediate reality. That looking-glass
+in the tale of  "Alice " now came to me as a grave and immediate reality. That looking-glass
 had indeed possessed a malign, abnormal suction; and the struggling speaker in my dream made
 clear the extent to which it violated all the known precedents of human experience and all the
-age-old laws of our three sane dimensions. It was more than a mirror&mdash;it was a gate; a trap;
+age-old laws of our three sane dimensions. It was more than a mirror--it was a gate; a trap;
 a link with spatial recesses not meant for the denizens of our visible universe, and realizable
 only in terms of the most intricate non-Euclidean mathematics.   And in some outrageous fashion
 Robert Grandison had passed out of our ken into the glass and was there immured, waiting for
@@ -240,45 +240,45 @@ studying the place where, as we had noted, the whorls appeared to converge.
   Then, quite suddenly, there had come to him an overpowering urge to place his
 hand upon this whorl-center. Almost reluctantly, against his better judgment, he had done so;
 and upon making the contact had felt at once the strange, almost painful suction which had perplexed
-him that morning. Immediately thereafter&mdash;quite without warning, but with a wrench which
+him that morning. Immediately thereafter--quite without warning, but with a wrench which
 seemed to twist and tear every bone and muscle in his body and to bulge and press and cut at
-every nerve&mdash;he had been abruptly   drawn through   and found himself   inside.    
+every nerve--he had been abruptly   drawn through   and found himself   inside.    
 
   Once through, the excruciatingly painful stress upon his entire system was
-suddenly released. He felt, he said, as though he had just been born&mdash;a feeling that made
+suddenly released. He felt, he said, as though he had just been born--a feeling that made
 itself evident every time he tried to do anything; walk, stoop, turn his head, or utter speech.
 Everything about his body seemed a misfit.  
 
-  These sensations wore off after a long while, Robert&rsquo;s body becoming an
+  These sensations wore off after a long while, Robert's body becoming an
 organized whole rather than a number of protesting parts. Of all the forms of expression, speech
 remained the most difficult; doubtless because it is complicated, bringing into play a number
-of different organs, muscles, and tendons. Robert&rsquo;s feet, on the other hand, were the first
+of different organs, muscles, and tendons. Robert's feet, on the other hand, were the first
 members to adjust themselves to the new conditions within the glass.  
 
   During the morning hours I rehearsed the whole reason-defying problem; correlating
 everything I had seen and heard, dismissing the natural scepticism of a man of sense, and scheming
-to devise possible plans for Robert&rsquo;s release from his incredible prison. As I did so a
-number of originally perplexing points became clear&mdash;or at least, clearer&mdash;to me.  
+to devise possible plans for Robert's release from his incredible prison. As I did so a
+number of originally perplexing points became clear--or at least, clearer--to me.  
 
-  There was, for example, the matter of Robert&rsquo;s coloring. His face and
+  There was, for example, the matter of Robert's coloring. His face and
 hands, as I have indicated, were a kind of dull greenish dark-blue; and I may add that his familiar
 blue Norfolk jacket had turned to a pale lemon-yellow while his trousers remained a neutral
 gray as before. Reflecting on this after waking, I found the circumstance closely allied to
 the reversal of perspective which made Robert seem to grow larger when receding and smaller
-when approaching. Here, too, was a physical   reversal  &mdash;for every detail of his coloring
+when approaching. Here, too, was a physical   reversal  --for every detail of his coloring
 in the unknown dimension was the exact reverse or complement of the corresponding color detail
 in normal life. In physics the typical complementary colors are blue and yellow, and red and
-green. These pairs are opposites, and when mixed yield gray. Robert&rsquo;s natural color was
+green. These pairs are opposites, and when mixed yield gray. Robert's natural color was
 a pinkish-buff, the opposite of which is the greenish-blue I saw. His blue coat had become yellow,
 while the gray trousers remained gray. This latter point baffled me until I remembered that
-gray is itself a mixture of opposites. There is no opposite for gray&mdash;or rather, it is its
+gray is itself a mixture of opposites. There is no opposite for gray--or rather, it is its
 own opposite.  
 
-  Another clarified point was that pertaining to Robert&rsquo;s curiously dulled
-and thickened speech&mdash;as well as to the general awkwardness and sense of misfit bodily parts
+  Another clarified point was that pertaining to Robert's curiously dulled
+and thickened speech--as well as to the general awkwardness and sense of misfit bodily parts
 of which he complained. This, at the outset, was a puzzle indeed; though after long thought
 the clue occurred to me. Here again was the same   reversal   which affected perspective
-and coloration. Anyone in the fourth dimension must necessarily be reversed in just this way&mdash;hands
+and coloration. Anyone in the fourth dimension must necessarily be reversed in just this way--hands
 and feet, as well as colors and perspectives, being changed about. It would be the same with
 all the other dual organs, such as nostrils, ears, and eyes. Thus Robert had been talking with
 a reversed tongue, teeth, vocal cords, and kindred speech-apparatus; so that his difficulties
@@ -286,8 +286,8 @@ in utterance were little to be wondered at.
 
   As the morning wore on, my sense of the stark reality and maddening urgency
 of the dream-disclosed situation increased rather than decreased. More and more I felt that
-something must be done, yet realized that I could not seek advice or aid. Such a story as mine&mdash;a
-conviction based upon mere dreaming&mdash;could not conceivably bring me anything but ridicule
+something must be done, yet realized that I could not seek advice or aid. Such a story as mine--a
+conviction based upon mere dreaming--could not conceivably bring me anything but ridicule
 or suspicions as to my mental state. And what, indeed, could I do, aided or unaided, with as
 little working data as my nocturnal impressions had provided? I must, I finally recognized,
 have more information before I could even think of a possible plan for releasing Robert. This
@@ -302,15 +302,15 @@ appear; and I soon realized to my infinite excitement that it was identical with
 seen before. If anything, it was more distinct; and when it began to speak I seemed able to
 grasp a greater proportion of the words.  
 
-  During this sleep I found most of the morning&rsquo;s deductions confirmed,
+  During this sleep I found most of the morning's deductions confirmed,
 though the interview was mysteriously cut off long prior to my awakening. Robert had seemed
 apprehensive just before communication ceased, but had already told me that in his strange fourth-dimensional
-prison colors and spatial relationships were indeed reversed&mdash;black being white, distance
+prison colors and spatial relationships were indeed reversed--black being white, distance
 increasing apparent size, and so on.  
 
   He had also intimated that, notwithstanding his possession of full physical
 form and sensations, most human vital properties seemed curiously suspended. Nutriment, for
-example, was quite unnecessary&mdash;a phenomenon really more singular than the omnipresent reversal
+example, was quite unnecessary--a phenomenon really more singular than the omnipresent reversal
 of objects and attributes, since the latter was a reasonable and mathematically indicated state
 of things. Another significant piece of information was that the only exit from the glass to
 the world was the entrance-way, and that this was permanently barred and impenetrably sealed,
@@ -323,7 +323,7 @@ the telepathic bond would weaken, while at other times fatigue, excitement, or f
 would hamper and thicken his speech.  
 
   I may as well narrate as a continuous whole all that Robert told me throughout
-the whole series of transient mental contacts&mdash;perhaps supplementing it at certain points
+the whole series of transient mental contacts--perhaps supplementing it at certain points
 with facts directly related after his release. The telepathic information was fragmentary and
 often nearly inarticulate, but I studied it over and over during the waking intervals of three
 intense days; classifying and cogitating with feverish diligence, since it was all that I had
@@ -333,20 +333,20 @@ to go upon if the boy were to be brought back into our world.
 scientific romance, an unknown and infinite realm of strange sights and fantastic denizens;
 but was rather a projection of certain limited parts of our own terrestrial sphere within an
 alien and normally inaccessible aspect or direction of space. It was a curiously fragmentary,
-intangible, and heterogeneous world&mdash;a series of apparently dissociated scenes merging indistinctly
+intangible, and heterogeneous world--a series of apparently dissociated scenes merging indistinctly
 one into the other; their constituent details having an obviously different status from that
 of an object drawn into the ancient mirror as Robert had been drawn. These scenes were like
-dream-vistas or magic-lantern images&mdash;elusive visual impressions of which the boy was not
+dream-vistas or magic-lantern images--elusive visual impressions of which the boy was not
 really a part, but which formed a sort of panoramic background or ethereal environment against
 which or amidst which he moved.  
 
-  He could not touch any of the parts of these scenes&mdash;walls, trees, furniture,
-and the like&mdash;but whether this was because they were truly non-material, or because they
+  He could not touch any of the parts of these scenes--walls, trees, furniture,
+and the like--but whether this was because they were truly non-material, or because they
 always receded at his approach, he was singularly unable to determine. Everything seemed fluid,
 mutable, and unreal. When he walked, it appeared to be on whatever lower surface the visible
-scene might have&mdash;floor, path, greensward, or such; but upon analysis he always found that
+scene might have--floor, path, greensward, or such; but upon analysis he always found that
 the contact was an illusion. There was never any difference in the resisting force met by his
-feet&mdash;and by his hands when he would stoop experimentally&mdash;no matter what changes of
+feet--and by his hands when he would stoop experimentally--no matter what changes of
 apparent surface might be involved. He could not describe this foundation or limiting plane
 on which he walked as anything more definite than a virtually abstract pressure balancing his
 gravity. Of definite tactile distinctiveness it had none, and supplementing it there seemed
@@ -357,9 +357,9 @@ never actually climb stairs, yet would gradually walk up from a lower level to a
 a region of shadow or blurred focus where the details of each scene mingled curiously. All the
 vistas were distinguished by the absence of transient objects, and the indefinite or ambiguous
 appearance of such semi-transient objects as furniture or details of vegetation. The lighting
-of every scene was diffuse and perplexing, and of course the scheme of reversed colors&mdash;bright
+of every scene was diffuse and perplexing, and of course the scheme of reversed colors--bright
 red grass, yellow sky with confused black and gray cloud-forms, white tree-trunks, and green
-brick walls&mdash;gave to everything an air of unbelievable grotesquerie. There was an alteration
+brick walls--gave to everything an air of unbelievable grotesquerie. There was an alteration
 of day and night, which turned out to be a reversal of the normal hours of light and darkness
 at whatever point on the earth the mirror might be hanging.  
 
@@ -371,19 +371,19 @@ or windows. The glass, it appeared, had power to store up these intangible scene
 exposure; though it could never absorb anything corporeally, as Robert had been absorbed, except
 by a very different and particular process.  
 
-  But&mdash;to me at least&mdash;the most incredible aspect of the mad phenomenon
+  But--to me at least--the most incredible aspect of the mad phenomenon
 was the monstrous subversion of our known laws of space involved in the relation of various
 illusory scenes to the actual terrestrial regions represented. I have spoken of the glass as
 storing up the images of these regions, but this is really an inexact definition. In truth,
 each of the mirror scenes formed a true and quasi-permanent fourth-dimensional projection of
 the corresponding mundane region; so that whenever Robert moved to a certain part of a certain
 scene, as he moved into the image of my room when sending his telepathic messages,   he was
-actually in that place itself, on earth  &mdash;though under spatial conditions which cut off
+actually in that place itself, on earth  --though under spatial conditions which cut off
 all sensory communication, in either direction, between him and the present tri-dimensional
 aspect of the place.  
 
   Theoretically speaking, a prisoner in the glass could in a few moments go anywhere
-on our planet&mdash;into any place, that is, which had ever been reflected in the mirror&rsquo;s
+on our planet--into any place, that is, which had ever been reflected in the mirror's
 surface. This probably applied even to places where the mirror had not hung long enough to produce
 a clear illusory scene; the terrestrial region being then represented by a zone of more or less
 formless shadow. Outside the definite scenes was a seemingly limitless waste of neutral gray
@@ -391,7 +391,7 @@ shadow about which Robert could never be certain, and into which he never dared 
 he become hopelessly lost to the real and mirror worlds alike.  
 
   Among the earliest particulars which Robert gave, was the fact that he was
-not alone in his confinement. Various others, all in antique garb, were in there with him&mdash;a
+not alone in his confinement. Various others, all in antique garb, were in there with him--a
 corpulent middle-aged gentleman with tied queue and velvet knee-breeches who spoke English fluently
 though with a marked Scandinavian accent; a rather beautiful small girl with very blonde hair
 which appeared a glossy dark blue; two apparently mute Negroes whose features contrasted grotesquely
@@ -399,9 +399,9 @@ with the pallor of their reversed-colored skins; three young men; one young woma
 child, almost an infant; and a lean, elderly Dane of extremely distinctive aspect and a kind
 of half-malign intellectuality of countenance.  
 
-  This last-named individual&mdash;Axel Holm, who wore the satin small-clothes,
+  This last-named individual--Axel Holm, who wore the satin small-clothes,
 flared-skirted coat, and voluminous full-bottomed periwig of an age more than two centuries
-in the past&mdash;was notable among the little band as being the one responsible for the presence
+in the past--was notable among the little band as being the one responsible for the presence
 of them all. He it was who, skilled equally in the arts of magic and glass working, had long
 ago fashioned this strange dimensional prison in which himself, his slaves, and those whom he
 chose to invite or allure thither were immured unchangingly for as long as the mirror might
@@ -421,8 +421,8 @@ in our own era; and Holm, more than erudite in all the methods of his day, knew 
 entrance into that hidden phase of space would prevent him from dying in the ordinary physical
 sense. Research showed him that the principle of reflection undoubtedly forms the chief gate
 to all dimensions beyond our familiar three; and chance placed in his hands a small and very
-ancient glass whose cryptic properties he believed he could turn to advantage. Once &ldquo;inside&rdquo;
-this mirror according to the method he had envisaged, he felt that &ldquo;life&rdquo; in the sense
+ancient glass whose cryptic properties he believed he could turn to advantage. Once  "inside "
+this mirror according to the method he had envisaged, he felt that  "life " in the sense
 of form and consciousness would go on virtually forever, provided the mirror could be preserved
 indefinitely from breakage or deterioration.  
 
@@ -450,8 +450,8 @@ there were frightful possibilities of being lost in dark and inconceivable multi
   For over fifty years he had been unable to secure any additions to the little
 company of himself and slaves, but later on he had perfected his telepathic method of visualizing
 small sections of the outside world close to the glass, and attracting certain individuals in
-those areas through the mirror&rsquo;s strange entrance. Thus Robert, influenced into a desire
-to press upon the &ldquo;door,&rdquo; had been lured within. Such visualizations depended wholly
+those areas through the mirror's strange entrance. Thus Robert, influenced into a desire
+to press upon the  "door, " had been lured within. Such visualizations depended wholly
 on telepathy, since no one inside the mirror could see out into the world of men.  
 
   It was, in truth, a strange life that Holm and his company had lived inside
@@ -459,7 +459,7 @@ the glass. Since the mirror had stood for fully a century with its face to the d
 of the shed where I found it, Robert was the first being to enter this limbo after all that
 interval. His arrival was a gala event, for he brought news of the outside world which must
 have been of the most startling impressiveness to the more thoughtful of those within. He, in
-his turn&mdash;young though he was&mdash;felt overwhelmingly the weirdness of meeting and talking
+his turn--young though he was--felt overwhelmingly the weirdness of meeting and talking
 with persons who had been alive in the seventeenth and eighteenth centuries.  
 
   The deadly monotony of life for the prisoners can only be vaguely conjectured.
@@ -485,15 +485,15 @@ seeming well-disposed, had told him about various matters including the door of 
 
   The boy, as he told me later, was sensible enough never to attempt communication
 with me when Holm was nearby. Twice, while thus engaged, he had seen Holm appear; and had accordingly
-ceased at once. At no time could I see the world behind the mirror&rsquo;s surface. Robert&rsquo;s
-visual image, which included his bodily form and the clothing connected with it, was&mdash;like
-the aural image of his halting voice and like his own visualization of myself&mdash;a case of
+ceased at once. At no time could I see the world behind the mirror's surface. Robert's
+visual image, which included his bodily form and the clothing connected with it, was--like
+the aural image of his halting voice and like his own visualization of myself--a case of
 purely telepathic transmission; and did not involve true interdimensional sight. However, had
 Robert been as trained a telepathist as Holm, he might have transmitted a few strong images
 apart from his immediate person.  
 
   Throughout this period of revelation I had, of course, been desperately trying
-to devise a method for Robert&rsquo;s release. On the fourth day&mdash;the ninth after the disappearance&mdash;I
+to devise a method for Robert's release. On the fourth day--the ninth after the disappearance--I
 hit on a solution. Everything considered, my laboriously formulated process was not a very complicated
 one; though I could not tell beforehand how it would work, while the possibility of ruinous
 consequences in case of a slip was appalling. This process depended, basically, on the fact
@@ -504,9 +504,9 @@ of him was anything but reassuring; and I certainly did not wish him loose in my
 free once more to work his evil will upon the world. The telepathic messages had not made fully
 clear the effect of liberation on those who had entered the glass so long ago.  
 
-  There was, too, a final though minor problem in case of success&mdash;that of
+  There was, too, a final though minor problem in case of success--that of
 getting Robert back into the routine of school life without having to explain the incredible.
-In case of failure, it was highly inadvisable to have witnesses present at the release operations&mdash;and
+In case of failure, it was highly inadvisable to have witnesses present at the release operations--and
 lacking these, I simply could not attempt to relate the actual facts if I should succeed. Even
 to me the reality seemed a mad one whenever I let my mind turn from the data so compellingly
 presented in that tense series of dreams.  
@@ -521,10 +521,10 @@ Stamford, where I procured a heavy glass-cutting tool; for my primary idea was t
 ancient and magically potent mirror from its later setting.  
 
   My next step was to figure out the best time of day to make the crucial experiment.
-I finally settled on two-thirty a.m.&mdash;both because it was a good season for uninterrupted
-work, and because it was the &ldquo;opposite&rdquo; of two-thirty p.m., the probable moment at
-which Robert had entered the mirror. This form of &ldquo;oppositeness&rdquo; may or may not have
-been relevant, but I knew at least that the chosen hour was as good as any&mdash;and perhaps
+I finally settled on two-thirty a.m.--both because it was a good season for uninterrupted
+work, and because it was the  "opposite " of two-thirty p.m., the probable moment at
+which Robert had entered the mirror. This form of  "oppositeness " may or may not have
+been relevant, but I knew at least that the chosen hour was as good as any--and perhaps
 better than most.  
 
   I finally set to work in the early morning of the eleventh day after the disappearance,
@@ -543,7 +543,7 @@ handle of the glass-cutter.
 the Bokhara rug beneath. I did not know what might happen, but was keyed up for anything, and
 took a deep involuntary breath. I was on my knees for convenience at the moment, with my face
 quite near the newly made aperture; and as I breathed there poured into my nostrils a powerful
-  dusty   odor&mdash;a smell not comparable to any other I have ever encountered. Then everything
+  dusty   odor--a smell not comparable to any other I have ever encountered. Then everything
 within my range of vision suddenly turned to a dull gray before my failing eyesight as I felt
 myself overpowered by an invisible force which robbed my muscles of their power to function.  
 
@@ -552,34 +552,34 @@ and feeling it rip loose from its fastening. Then I sank slowly to the floor as 
 of oblivion passed over me.  
 
   When I regained consciousness I was lying on the Bokhara rug with my legs held
-unaccountably up in the air. The room was full of that hideous and inexplicable dusty smell&mdash;and
+unaccountably up in the air. The room was full of that hideous and inexplicable dusty smell--and
 as my eyes began to take in definite images I saw that Robert Grandison stood in front of me.
-It was he&mdash;fully in the flesh and with his coloring normal&mdash;who was holding my legs
-aloft to bring the blood back to my head as the school&rsquo;s first-aid course had taught him
+It was he--fully in the flesh and with his coloring normal--who was holding my legs
+aloft to bring the blood back to my head as the school's first-aid course had taught him
 to do with persons who had fainted. For a moment I was struck mute by the stifling odor and
 by a bewilderment which quickly merged into a sense of triumph. Then I found myself able to
 move and speak collectedly.  
 
   I raised a tentative hand and waved feebly at Robert.  
 
-  &ldquo;All right, old man,&rdquo; I murmured, &ldquo;you can let my legs down
-now. Many thanks. I&rsquo;m all right again, I think. It was the smell&mdash;I imagine&mdash;that
-got me. Open that farthest window, please&mdash;wide&mdash;from the bottom. That&rsquo;s it&mdash;thanks.
-No&mdash;leave the shade down the way it was.&rdquo;  
+   "All right, old man, " I murmured,  "you can let my legs down
+now. Many thanks. I'm all right again, I think. It was the smell--I imagine--that
+got me. Open that farthest window, please--wide--from the bottom. That's it--thanks.
+No--leave the shade down the way it was. "  
 
   I struggled to my feet, my disturbed circulation adjusting itself in waves,
-and stood upright hanging to the back of a big chair. I was still &ldquo;groggy,&rdquo; but a
+and stood upright hanging to the back of a big chair. I was still  "groggy, " but a
 blast of fresh, bitterly cold air from the window revived me rapidly. I sat down in the big
 chair and looked at Robert, now walking toward me.  
 
-  &ldquo;First,&rdquo; I said hurriedly, &ldquo;tell me, Robert&mdash;those others&mdash;Holm?
-What happened to   them,   when I&mdash;opened the exit?&rdquo;  
+   "First, " I said hurriedly,  "tell me, Robert--those others--Holm?
+What happened to   them,   when I--opened the exit? "  
 
   Robert paused half-way across the room and looked at me very gravely.  
 
-  &ldquo;I saw them fade away&mdash;into nothingness&mdash;Mr. Canevin,&rdquo; he
-said with solemnity; &ldquo;and with them&mdash;everything. There isn&rsquo;t any more &lsquo;inside,&rsquo;
-sir&mdash;thank God, and you, sir!&rdquo;  
+   "I saw them fade away--into nothingness--Mr. Canevin, " he
+said with solemnity;  "and with them--everything. There isn't any more &lsquo;inside,'
+sir--thank God, and you, sir! "  
 
   And young Robert, at last yielding to the sustained strain which he had borne
 through all those terrible eleven days, suddenly broke down like a little child and began to
@@ -588,42 +588,42 @@ weep hysterically in great, stifling, dry sobs.
   I picked him up and placed him gently on my davenport, threw a rug over him,
 sat down by his side, and put a calming hand on his forehead.  
 
-  &ldquo;Take it easy, old fellow,&rdquo; I said soothingly.  
+   "Take it easy, old fellow, " I said soothingly.  
 
-  The boy&rsquo;s sudden and very natural hysteria passed as quickly as it had
+  The boy's sudden and very natural hysteria passed as quickly as it had
 come on as I talked to him reassuringly about my plans for his quiet restoration to the school.
 The interest of the situation and the need of concealing the incredible truth beneath a rational
 explanation took hold of his imagination as I had expected; and at last he sat up eagerly, telling
 the details of his release and listening to the instructions I had thought out. He had, it seems,
-been in the &ldquo;projected area&rdquo; of my bedroom when I opened the way back, and had emerged
-in that actual room&mdash;hardly realizing that he was &ldquo;out.&rdquo; Upon hearing a fall in
+been in the  "projected area " of my bedroom when I opened the way back, and had emerged
+in that actual room--hardly realizing that he was  "out. " Upon hearing a fall in
 the living-room he had hastened thither, finding me on the rug in my fainting spell.  
 
   I need mention only briefly my method of restoring Robert in a seemingly normal
-way&mdash;how I smuggled him out of the window in an old hat and sweater of mine, took him down
+way--how I smuggled him out of the window in an old hat and sweater of mine, took him down
 the road in my quietly started car, coached him carefully in a tale I had devised, and returned
 to arouse Browne with the news of his discovery. He had, I explained, been walking alone on
 the afternoon of his disappearance; and had been offered a motor ride by two young men who,
 as a joke and over his protests that he could go no farther than Stamford and back, had begun
 to carry him past that town. Jumping from the car during a traffic stop with the intention of
-hitch-hiking back before Call-Over, he had been hit by another car just as the traffic was released&mdash;awakening
+hitch-hiking back before Call-Over, he had been hit by another car just as the traffic was released--awakening
 ten days later in the Greenwich home of the people who had hit him. On learning the date, I
 added, he had immediately telephoned the school; and I, being the only one awake, had answered
 the call and hurried after him in my car without stopping to notify anyone.  
 
-  Browne, who at once telephoned to Robert&rsquo;s parents, accepted my story
-without question; and forbore to interrogate the boy because of the latter&rsquo;s manifest exhaustion.
+  Browne, who at once telephoned to Robert's parents, accepted my story
+without question; and forbore to interrogate the boy because of the latter's manifest exhaustion.
 It was arranged that he should remain at the school for a rest, under the expert care of Mrs.
 Browne, a former trained nurse. I naturally saw a good deal of him during the remainder of the
 Christmas vacation, and was thus enabled to fill in certain gaps in his fragmentary dream-story.  
 
   Now and then we would almost doubt the actuality of what had occurred; wondering
-whether we had not both shared some monstrous delusion born of the mirror&rsquo;s glittering
+whether we had not both shared some monstrous delusion born of the mirror's glittering
 hypnotism, and whether the tale of the ride and accident were not after all the real truth.
 But whenever we did so we would be brought back to belief by some monstrous and haunting memory;
-with me, of Robert&rsquo;s dream-figure and its thick voice and inverted colors; with him, of
+with me, of Robert's dream-figure and its thick voice and inverted colors; with him, of
 the whole fantastic pageantry of ancient people and dead scenes that he had witnessed. And then
-there was that joint recollection of that damnable dusty odor.&nbsp;.&nbsp;.&nbsp;. We knew
+there was that joint recollection of that damnable dusty odor. . . . We knew
 what it meant: the instant dissolution of those who had entered an alien dimension a century
 and more ago.  
 
@@ -631,14 +631,14 @@ and more ago.
 one of which comes through my researches in Danish annals concerning the sorcerer, Axel Holm.
 Such a person, indeed, left many traces in folklore and written records; and diligent library
 sessions, plus conferences with various learned Danes, have shed much more light on his evil
-fame. At present I need say only that the Copenhagen glass-blower&mdash;born in 1612&mdash;was
+fame. At present I need say only that the Copenhagen glass-blower--born in 1612--was
 a notorious Luciferian whose pursuits and final vanishing formed a matter of awed debate over
 two centuries ago. He had burned with a desire to know all things and to conquer every limitation
-of mankind&mdash;to which end he had delved deeply into occult and forbidden fields ever since
+of mankind--to which end he had delved deeply into occult and forbidden fields ever since
 he was a child.  
 
   He was commonly held to have joined a coven of the dreaded witch-cult, and
-the vast lore of ancient Scandinavian myth&mdash;with its Loki the Sly One and the accursed Fenris-Wolf&mdash;was
+the vast lore of ancient Scandinavian myth--with its Loki the Sly One and the accursed Fenris-Wolf--was
 soon an open book to him. He had strange interests and objectives, few of which were definitely
 known, but some of which were recognized as intolerably evil. It is recorded that his two Negro
 helpers, originally slaves from the Danish West Indies, had become mute soon after their acquisition
@@ -650,50 +650,50 @@ to have entered his mind. That he had acquired an enchanted mirror of inconceiva
 was a matter of common whispering; it being alleged that he had purloined it from a fellow-sorcerer
 who had entrusted it to him for polishing.  
 
-  This mirror&mdash;according to popular tales a trophy as potent in its way as
-the better-known Aegis of Minerva or Hammer of Thor&mdash;was a small oval object called &ldquo;Loki&rsquo;s
-Glass,&rdquo; made of some polished fusible mineral and having magical properties which included
+  This mirror--according to popular tales a trophy as potent in its way as
+the better-known Aegis of Minerva or Hammer of Thor--was a small oval object called  "Loki's
+Glass, " made of some polished fusible mineral and having magical properties which included
 the divination of the immediate future and the power to show the possessor his enemies. That
 it had deeper potential properties, realizable in the hands of an erudite magician, none of
-the common people doubted; and even educated persons attached much fearful importance to Holm&rsquo;s
-rumored attempts to incorporate it in a larger glass of immortality. Then had come the wizard&rsquo;s
+the common people doubted; and even educated persons attached much fearful importance to Holm's
+rumored attempts to incorporate it in a larger glass of immortality. Then had come the wizard's
 disappearance in 1687, and the final sale and dispersal of his goods amidst a growing cloud
 of fantastic legendry. It was, altogether, just such a story as one would laugh at if possessed
-of no particular key; yet to me, remembering those dream messages and having Robert Grandison&rsquo;s
+of no particular key; yet to me, remembering those dream messages and having Robert Grandison's
 corroboration before me, it formed a positive confirmation of all the bewildering marvels that
 had been unfolded.  
 
-  But as I have said, there is still another line of rather positive evidence&mdash;of
-a very different character&mdash;at my disposal. Two days after his release, as Robert, greatly
+  But as I have said, there is still another line of rather positive evidence--of
+a very different character--at my disposal. Two days after his release, as Robert, greatly
 improved in strength and appearance, was placing a log on my living-room fire, I noticed a certain
 awkwardness in his motions and was struck by a persistent idea. Summoning him to my desk I suddenly
-asked him to pick up an ink-stand&mdash;and was scarcely surprised to note that, despite lifelong
+asked him to pick up an ink-stand--and was scarcely surprised to note that, despite lifelong
 right-handedness, he obeyed unconsciously with his left hand. Without alarming him, I then asked
 that he unbutton his coat and let me listen to his cardiac action. What I found upon placing
-my ear to his chest&mdash;and what I did not tell him for some time afterward&mdash;was that   
+my ear to his chest--and what I did not tell him for some time afterward--was that   
 his heart was beating on his right side.    
 
   He had gone into the glass right-handed and with all organs in their normal
 positions. Now he was left-handed and with organs reversed, and would doubtless continue so
-for the rest of his life. Clearly, the dimensional transition had been no illusion&mdash;for
+for the rest of his life. Clearly, the dimensional transition had been no illusion--for
 this physical change was tangible and unmistakable. Had there been a natural exit from the glass,
-Robert would probably have undergone a thorough re-reversal and emerged in perfect normality&mdash;as
+Robert would probably have undergone a thorough re-reversal and emerged in perfect normality--as
 indeed the color-scheme of his body and clothing did emerge. The forcible nature of his release,
 however, undoubtedly set something awry; so that dimensions no longer had a chance to right
 themselves as chromatic wave-frequencies still did.  
 
-  I had not merely   opened   Holm&rsquo;s trap; I had   destroyed   it;
-and at the particular stage of destruction marked by Robert&rsquo;s escape some of the reversing
+  I had not merely   opened   Holm's trap; I had   destroyed   it;
+and at the particular stage of destruction marked by Robert's escape some of the reversing
 properties had perished. It is significant that in escaping Robert had felt no pain comparable
 to that experienced in entering. Had the destruction been still more sudden, I shiver to think
 of the monstrosities of color the boy would always have been forced to bear. I may add that
-after discovering Robert&rsquo;s reversal I examined the rumpled and discarded clothing he had
+after discovering Robert's reversal I examined the rumpled and discarded clothing he had
 worn in the glass, and found, as I had expected, a complete reversal of pockets, buttons, and
 all other corresponding details.  
 
-  At this moment Loki&rsquo;s Glass, just as it fell on my Bokhara rug from the
+  At this moment Loki's Glass, just as it fell on my Bokhara rug from the
 now patched and harmless mirror, weighs down a sheaf of papers on my writing-table here in St.
-Thomas, venerable capital of the Danish West Indies&mdash;now the American Virgin Islands. Various
-collectors of old Sandwich glass have mistaken it for an odd bit of that early American product&mdash;but
+Thomas, venerable capital of the Danish West Indies--now the American Virgin Islands. Various
+collectors of old Sandwich glass have mistaken it for an odd bit of that early American product--but
 I privately realize that my paper-weight is an antique of far subtler and more paleogean craftsmanship.
 Still, I do not disillusion such enthusiasts.  

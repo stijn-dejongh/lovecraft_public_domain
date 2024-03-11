@@ -5,11 +5,11 @@
 
   
 
-  &ldquo;There are sacraments of evil as well as of good about us, and we live and
+   "There are sacraments of evil as well as of good about us, and we live and
 move to my belief in an unknown world, a place where there are caves and shadows and dwellers
 in twilight. It is possible that man may sometimes return on the track of evolution, and it
-is my belief that an awful lore is not yet dead.&rdquo;  
-    &mdash;Arthur Machen.    
+is my belief that an awful lore is not yet dead. "  
+    --Arthur Machen.    
   
 
     I.    
@@ -52,11 +52,11 @@ his nervous equilibrium. He had worked too hard, all said, in trying to clean up
 of disorder and violence; certain features were shocking enough, in all conscience, and the
 unexpected tragedy was the last straw. This was a simple explanation which everyone could understand,
 and because Malone was not a simple person he perceived that he had better let it suffice. To
-hint to unimaginative people of a horror beyond all human conception&mdash;a horror of houses
-and blocks and cities leprous and cancerous with evil dragged from elder worlds&mdash;would
+hint to unimaginative people of a horror beyond all human conception--a horror of houses
+and blocks and cities leprous and cancerous with evil dragged from elder worlds--would
 be merely to invite a padded cell instead of restful rustication, and Malone was a man of sense
-despite his mysticism. He had the Celt&rsquo;s far vision of weird and hidden things, but the
-logician&rsquo;s quick eye for the outwardly unconvincing; an amalgam which had led him far
+despite his mysticism. He had the Celt's far vision of weird and hidden things, but the
+logician's quick eye for the outwardly unconvincing; an amalgam which had led him far
 afield in the forty-two years of his life, and set him in strange places for a Dublin University
 man born in a Georgian villa near Phoenix Park.  
 
@@ -64,7 +64,7 @@ man born in a Georgian villa near Phoenix Park.
 was content to keep unshared the secret of what could reduce a dauntless fighter to a quivering
 neurotic; what could make old brick slums and seas of dark, subtle faces a thing of nightmare
 and eldritch portent. It would not be the first time his sensations had been forced to bide
-uninterpreted&mdash;for was not his very act of plunging into the polyglot abyss of New York&rsquo;s
+uninterpreted--for was not his very act of plunging into the polyglot abyss of New York's
 underworld a freak beyond sensible explanation? What could he tell the prosaic of the antique
 witcheries and grotesque marvels discernible to sensitive eyes amidst the poison cauldron where
 all the varied dregs of unwholesome ages mix their venom and perpetuate their obscene terrors?
@@ -72,12 +72,12 @@ He had seen the hellish green flame of secret wonder in this blatant, evasive we
 greed and inward blasphemy, and had smiled gently when all the New-Yorkers he knew scoffed at
 his experiment in police work. They had been very witty and cynical, deriding his fantastic
 pursuit of unknowable mysteries and assuring him that in these days New York held nothing but
-cheapness and vulgarity. One of them had wagered him a heavy sum that he could not&mdash;despite
-many poignant things to his credit in the   Dublin Review  &mdash;even write a truly interesting
+cheapness and vulgarity. One of them had wagered him a heavy sum that he could not--despite
+many poignant things to his credit in the   Dublin Review  --even write a truly interesting
 story of New York low life; and now, looking back, he perceived that cosmic irony had justified
-the prophet&rsquo;s words while secretly confuting their flippant meaning. The horror, as glimpsed
-at last, could not make a story&mdash;for like the book cited by Poe&rsquo;s German authority,
-  &ldquo;es l&auml;sst sich nicht lesen  &mdash;it does not permit itself to be read.&rdquo;  
+the prophet's words while secretly confuting their flippant meaning. The horror, as glimpsed
+at last, could not make a story--for like the book cited by Poe's German authority,
+   "es l&auml;sst sich nicht lesen  --it does not permit itself to be read. "  
 
     II.    
 
@@ -85,9 +85,9 @@ To Malone the sense of latent mystery in existence was always present. In youth 
 the hidden beauty and ecstasy of things, and had been a poet; but poverty and sorrow and exile
 had turned his gaze in darker directions, and he had thrilled at the imputations of evil in
 the world around. Daily life had for him come to be a phantasmagoria of macabre shadow-studies;
-now glittering and leering with concealed rottenness as in Beardsley&rsquo;s best manner, now
+now glittering and leering with concealed rottenness as in Beardsley's best manner, now
 hinting terrors behind the commonest shapes and objects as in the subtler and less obvious work
-of Gustave Dor&eacute;. He would often regard it as merciful that most persons of high intelligence
+of Gustave Doré. He would often regard it as merciful that most persons of high intelligence
 jeer at the inmost mysteries; for, he argued, if superior minds were ever placed in fullest
 contact with the secrets preserved by ancient and lowly cults, the resultant abnormalities would
 soon not only wreck the world, but threaten the very integrity of the universe. All this reflection
@@ -98,11 +98,11 @@ escape.
 
   He had for some time been detailed to the Butler Street station in Brooklyn
 when the Red Hook matter came to his notice. Red Hook is a maze of hybrid squalor near the ancient
-waterfront opposite Governor&rsquo;s Island, with dirty highways climbing the hill from the
+waterfront opposite Governor's Island, with dirty highways climbing the hill from the
 wharves to that higher ground where the decayed lengths of Clinton and Court Streets lead off
 toward the Borough Hall. Its houses are mostly of brick, dating from the first quarter to the
 middle of the nineteenth century, and some of the obscurer alleys and byways have that alluring
-antique flavour which conventional reading leads us to call &ldquo;Dickensian&rdquo;. The population
+antique flavour which conventional reading leads us to call  "Dickensian ". The population
 is a hopeless tangle and enigma; Syrian, Spanish, Italian, and negro elements impinging upon
 one another, and fragments of Scandinavian and American belts lying not far distant. It is a
 babel of sound and filth, and sends out strange cries to answer the lapping of oily waves at
@@ -110,7 +110,7 @@ its grimy piers and the monstrous organ litanies of the harbour whistles. Here l
 picture dwelt, with clear-eyed mariners on the lower streets and homes of taste and substance
 where the larger houses line the hill. One can trace the relics of this former happiness in
 the trim shapes of the buildings, the occasional graceful churches, and the evidences of original
-art and background in bits of detail here and there&mdash;a worn flight of steps, a battered
+art and background in bits of detail here and there--a worn flight of steps, a battered
 doorway, a wormy pair of decorative columns or pilasters, or a fragment of once green space
 with bent and rusted iron railing. The houses are generally in solid blocks, and now and then
 a many-windowed cupola arises to tell of days when the households of captains and ship-owners
@@ -125,9 +125,9 @@ the contagion. The clang of the patrol is answered by a kind of spectral silence
 as are taken are never communicative. Visible offences are as varied as the local dialects,
 and run the gamut from the smuggling of rum and prohibited aliens through diverse stages of
 lawlessness and obscure vice to murder and mutilation in their most abhorrent guises. That these
-visible affairs are not more frequent is not to the neighbourhood&rsquo;s credit, unless the
-power of concealment be an art demanding credit. More people enter Red Hook than leave it&mdash;or
-at least, than leave it by the landward side&mdash;and those who are not loquacious are the
+visible affairs are not more frequent is not to the neighbourhood's credit, unless the
+power of concealment be an art demanding credit. More people enter Red Hook than leave it--or
+at least, than leave it by the landward side--and those who are not loquacious are the
 likeliest to leave.  
 
 
@@ -136,7 +136,7 @@ any of the sins denounced by citizens and bemoaned by priests and philanthropist
 conscious, as one who united imagination with scientific knowledge, that modern people under
 lawless conditions tend uncannily to repeat the darkest instinctive patterns of primitive half-ape
 savagery in their daily life and ritual observances; and he had often viewed with an
-anthropologist&rsquo;s shudder the chanting, cursing processions of blear-eyed and pockmarked young
+anthropologist's shudder the chanting, cursing processions of blear-eyed and pockmarked young
 men which wound their way along in the dark small hours of morning. One saw groups of these youths
 incessantly; sometimes in leering vigils on street corners, sometimes in doorways playing eerily on
 cheap instruments of music, sometimes in stupefied dozes or indecent dialogues around cafeteria
@@ -149,10 +149,10 @@ care by the police. They must be, he felt inwardly, the heirs of some shocking a
 tradition; the sharers of debased and broken scraps from cults and ceremonies older than mankind.
 Their coherence and definiteness suggested it, and it shewed in the singular suspicion of order
 which lurked beneath their squalid disorder. He had not read in vain such treatises as Miss
-Murray&rsquo;s   Witch-Cult in Western Europe;   and knew that up to recent years there had
+Murray's   Witch-Cult in Western Europe;   and knew that up to recent years there had
 certainly survived among peasants and furtive folk a frightful and clandestine system of assemblies
 and orgies descended from dark religions antedating the Aryan world, and appearing in popular
-legends as Black Masses and Witches&rsquo; Sabbaths. That these hellish vestiges of old
+legends as Black Masses and Witches' Sabbaths. That these hellish vestiges of old
 Turanian-Asiatic magic and fertility-cults were even now wholly dead he could not for a moment
 suppose, and he frequently wondered how much older and how much blacker than the very worst of the
 muttered tales some of them might really be.  
@@ -169,7 +169,7 @@ had read and brooded for some six decades except for a period a generation befor
 sailed for the old world and remained there out of sight for eight years. He could afford no
 servants, and would admit but few visitors to his absolute solitude; eschewing close friendships
 and receiving his rare acquaintances in one of the three ground-floor rooms which he kept in
-order&mdash;a vast, high-ceiled library whose walls were solidly packed with tattered books
+order--a vast, high-ceiled library whose walls were solidly packed with tattered books
 of ponderous, archaic, and vaguely repellent aspect. The growth of the town and its final absorption
 in the Brooklyn district had meant nothing to Suydam, and he had come to mean less and less
 to the town. Elderly people still pointed him out on the streets, but to most of the recent
@@ -180,7 +180,7 @@ as a really profound authority on mediaeval superstition, and had once idly mean
 an out-of-print pamphlet of his on the Kabbalah and the Faustus legend, which a friend had quoted
 from memory.  
 
-  Suydam became a &ldquo;case&rdquo; when his distant and only relatives sought
+  Suydam became a  "case " when his distant and only relatives sought
 court pronouncements on his sanity. Their action seemed sudden to the outside world, but was
 really undertaken only after prolonged observation and sorrowful debate. It was based on certain
 odd changes in his speech and habits; wild references to impending wonders, and unaccountable
@@ -189,7 +189,7 @@ with the years, and now prowled about like a veritable mendicant; seen occasiona
 friends in subway stations, or loitering on the benches around Borough Hall in conversation
 with groups of swarthy, evil-looking strangers. When he spoke it was to babble of unlimited
 powers almost within his grasp, and to repeat with knowing leers such mystical words or names
-as &ldquo;Sephiroth&rdquo;, &ldquo;Ashmodai&rdquo;, and &ldquo;Sama&euml;l&rdquo;. The court
+as  "Sephiroth ",  "Ashmodai ", and  "Samaël ". The court
 action revealed that he was using up his income and wasting his principal in the purchase of
 curious tomes imported from London and Paris, and in the maintenance of a squalid basement flat
 in the Red Hook district where he spent nearly every night, receiving odd delegations of mixed
@@ -209,14 +209,14 @@ the Suydams, Corlears, and Van Brunts were withdrawn in resigned disgust.
 
   It was here that an alliance of Federal inspectors and police, Malone with
 them, entered the case. The law had watched the Suydam action with interest, and had in many
-instances been called upon to aid the private detectives. In this work it developed that Suydam&rsquo;s
-new associates were among the blackest and most vicious criminals of Red Hook&rsquo;s devious
+instances been called upon to aid the private detectives. In this work it developed that Suydam's
+new associates were among the blackest and most vicious criminals of Red Hook's devious
 lanes, and that at least a third of them were known and repeated offenders in the matter of
 thievery, disorder, and the importation of illegal immigrants. Indeed, it would not have been
-too much to say that the old scholar&rsquo;s particular circle coincided almost perfectly with
+too much to say that the old scholar's particular circle coincided almost perfectly with
 the worst of the organised cliques which smuggled ashore certain nameless and unclassified Asian
-dregs wisely turned back by Ellis Island. In the teeming rookeries of Parker Place&mdash;since
-renamed&mdash;where Suydam had his basement flat, there had grown up a very unusual colony of
+dregs wisely turned back by Ellis Island. In the teeming rookeries of Parker Place--since
+renamed--where Suydam had his basement flat, there had grown up a very unusual colony of
 unclassified slant-eyed folk who used the Arabic alphabet but were eloquently repudiated by
 the great mass of Syrians in and around Atlantic Avenue. They could all have been deported for
 lack of credentials, but legalism is slow-moving, and one does not disturb Red Hook unless publicity
@@ -230,7 +230,7 @@ to fancy he heard terrible cracked bass notes from a hidden organ far undergroun
 stood empty and unlighted, whilst all observers dreaded the shrieking and drumming which accompanied
 the visible services. Suydam, when questioned, said he thought the ritual was some remnant of
 Nestorian Christianity tinctured with the Shamanism of Thibet. Most of the people, he conjectured,
-were of Mongoloid stock, originating somewhere in or near Kurdistan&mdash;and Malone could not
+were of Mongoloid stock, originating somewhere in or near Kurdistan--and Malone could not
 help recalling that Kurdistan is the land of the Yezidis, last survivors of the Persian devil-worshippers.
 However this may have been, the stir of the Suydam investigation made it certain that these
 unauthorised newcomers were flooding Red Hook in increasing numbers; entering through some marine
@@ -253,7 +253,7 @@ prisoners, learned many isolated facts about the movement whose aspect had becom
 The newcomers were indeed Kurds, but of a dialect obscure and puzzling to exact philology. Such
 of them as worked lived mostly as dock-hands and unlicenced pedlars, though frequently serving
 in Greek restaurants and tending corner news stands. Most of them, however, had no visible means
-of support; and were obviously connected with underworld pursuits, of which smuggling and &ldquo;bootlegging&rdquo;
+of support; and were obviously connected with underworld pursuits, of which smuggling and  "bootlegging "
 were the least indescribable. They had come in steamships, apparently tramp freighters, and
 had been unloaded by stealth on moonless nights in rowboats which stole under a certain wharf
 and followed a hidden canal to a secret subterranean pool beneath a house. This wharf, canal,
@@ -266,7 +266,7 @@ fright when asked the reasons for their presence. Gangsters of other breeds were
 and the most that could be gathered was that some god or great priesthood had promised them
 unheard-of powers and supernatural glories and rulerships in a strange land.  
 
-  The attendance of both newcomers and old gangsters at Suydam&rsquo;s closely
+  The attendance of both newcomers and old gangsters at Suydam's closely
 guarded nocturnal meetings was very regular, and the police soon learned that the erstwhile
 recluse had leased additional flats to accommodate such guests as knew his password; at last
 occupying three entire houses and permanently harbouring many of his queer companions. He spent
@@ -275,8 +275,8 @@ books; and his face and manner had attained an appalling pitch of wildness. Malo
 him, but was each time brusquely repulsed. He knew nothing, he said, of any mysterious plots
 or movements; and had no idea how the Kurds could have entered or what they wanted. His business
 was to study undisturbed the folklore of all the immigrants of the district; a business with
-which policemen had no legitimate concern. Malone mentioned his admiration for Suydam&rsquo;s
-old brochure on the Kabbalah and other myths, but the old man&rsquo;s softening was only momentary.
+which policemen had no legitimate concern. Malone mentioned his admiration for Suydam's
+old brochure on the Kabbalah and other myths, but the old man's softening was only momentary.
 He sensed an intrusion, and rebuffed his visitor in no uncertain way; till Malone withdrew disgusted,
 and turned to other channels of information.  
 
@@ -305,24 +305,24 @@ more did he move in the society to which he was born. Policemen noted a tendency
 to congregate at the old stone church and dance-hall instead of at the basement flat in Parker
 Place, though the latter and its recent annexes still overflowed with noxious life.  
 
-  Then two incidents occurred&mdash;wide enough apart, but both of intense interest
+  Then two incidents occurred--wide enough apart, but both of intense interest
 in the case as Malone envisaged it. One was a quiet announcement in the   Eagle   of Robert
-Suydam&rsquo;s engagement to Miss Cornelia Gerritsen of Bayside, a young woman of excellent
+Suydam's engagement to Miss Cornelia Gerritsen of Bayside, a young woman of excellent
 position, and distantly related to the elderly bridegroom-elect; whilst the other was a raid
 on the dance-hall church by city police, after a report that the face of a kidnapped child had
 been seen for a second at one of the basement windows. Malone had participated in this raid,
-and studied the place with much care when inside. Nothing was found&mdash;in fact, the building
-was entirely deserted when visited&mdash;but the sensitive Celt was vaguely disturbed by many
-things about the interior. There were crudely painted panels he did not like&mdash;panels which
+and studied the place with much care when inside. Nothing was found--in fact, the building
+was entirely deserted when visited--but the sensitive Celt was vaguely disturbed by many
+things about the interior. There were crudely painted panels he did not like--panels which
 depicted sacred faces with peculiarly worldly and sardonic expressions, and which occasionally
-took liberties that even a layman&rsquo;s sense of decorum could scarcely countenance. Then,
+took liberties that even a layman's sense of decorum could scarcely countenance. Then,
 too, he did not relish the Greek inscription on the wall above the pulpit; an ancient incantation
 which he had once stumbled upon in Dublin college days, and which read, literally translated,  
 
-    &ldquo;O friend and companion of night, thou who rejoicest in the baying of
+     "O friend and companion of night, thou who rejoicest in the baying of
 dogs and spilt blood, who wanderest in the midst of shades among the tombs, who longest for
 blood and bringest terror to mortals, Gorgo, Mormo, thousand-faced moon, look favourably on
-our sacrifices!&rdquo;  
+our sacrifices! "  
 
 When he read this he shuddered, and thought vaguely of the cracked bass organ notes he fancied
 he had heard beneath the church on certain nights. He shuddered again at the rust around the
@@ -332,34 +332,34 @@ haunted him, and he explored the basement with particular assiduity before he le
 was very hateful to him; yet after all, were the blasphemous panels and inscriptions more than
 mere crudities perpetrated by the ignorant?  
 
-  By the time of Suydam&rsquo;s wedding the kidnapping epidemic had become a
+  By the time of Suydam's wedding the kidnapping epidemic had become a
 popular newspaper scandal. Most of the victims were young children of the lowest classes, but
 the increasing number of disappearances had worked up a sentiment of the strongest fury. Journals
 clamoured for action from the police, and once more the Butler Street station sent its men over
 Red Hook for clues, discoveries, and criminals. Malone was glad to be on the trail again, and
-took pride in a raid on one of Suydam&rsquo;s Parker Place houses. There, indeed, no stolen
+took pride in a raid on one of Suydam's Parker Place houses. There, indeed, no stolen
 child was found, despite the tales of screams and the red sash picked up in the areaway; but
 the paintings and rough inscriptions on the peeling walls of most of the rooms, and the primitive
 chemical laboratory in the attic, all helped to convince the detective that he was on the track
-of something tremendous. The paintings were appalling&mdash;hideous monsters of every shape
+of something tremendous. The paintings were appalling--hideous monsters of every shape
 and size, and parodies on human outlines which cannot be described. The writing was in red,
 and varied from Arabic to Greek, Roman, and Hebrew letters. Malone could not read much of it,
 but what he did decipher was portentous and cabbalistic enough. One frequently repeated motto
 was in a sort of Hebraised Hellenistic Greek, and suggested the most terrible daemon-evocations
 of the Alexandrian decadence:  
 
-  &ldquo;HEL &bull; HELOYM &bull; SOTHER &bull; EMMANVEL &bull; SABAOTH &bull; AGLA
+   "HEL &bull; HELOYM &bull; SOTHER &bull; EMMANVEL &bull; SABAOTH &bull; AGLA
 &bull; TETRAGRAMMATON &bull; AGYROS &bull; OTHEOS &bull; ISCHYROS &bull; ATHANATOS &bull; IEHOVA
-&bull; VA &bull; ADONAI &bull; SADAY &bull; HOMOVSION &bull; MESSIAS &bull; ESCHEREHEYE.&rdquo;  
+&bull; VA &bull; ADONAI &bull; SADAY &bull; HOMOVSION &bull; MESSIAS &bull; ESCHEREHEYE. "  
 
 Circles and pentagrams loomed on every hand, and told indubitably of the strange beliefs and
 aspirations of those who dwelt so squalidly here. In the cellar, however, the strangest thing
-was found&mdash;a pile of genuine gold ingots covered carelessly with a piece of burlap, and
+was found--a pile of genuine gold ingots covered carelessly with a piece of burlap, and
 bearing upon their shining surfaces the same weird hieroglyphics which also adorned the walls.
 During the raid the police encountered only a passive resistance from the squinting Orientals
 that swarmed from every door. Finding nothing relevant, they had to leave all as it was; but
 the precinct captain wrote Suydam a note advising him to look closely to the character of his
-tenants and prot&eacute;g&eacute;s in view of the growing public clamour.  
+tenants and protégés in view of the growing public clamour.  
 
     V.    
 
@@ -367,7 +367,7 @@ Then came the June wedding and the great sensation. Flatbush was gay for the hou
 noon, and pennanted motors thronged the streets near the old Dutch church where an awning stretched
 from door to highway. No local event ever surpassed the Suydam-Gerritsen nuptials in tone and
 scale, and the party which escorted bride and groom to the Cunard Pier was, if not exactly the
-smartest, at least a solid page from the Social Register. At five o&rsquo;clock adieux were
+smartest, at least a solid page from the Social Register. At five o'clock adieux were
 waved, and the ponderous liner edged away from the long pier, slowly turned its nose seaward,
 discarded its tug, and headed for the widening water spaces that led to old world wonders. By
 night the outer harbour was cleared, and late passengers watched the stars twinkling above an
@@ -376,15 +376,15 @@ unpolluted ocean.
   Whether the tramp steamer or the scream was first to gain attention, no one
 can say. Probably they were simultaneous, but it is of no use to calculate. The scream came
 from the Suydam stateroom, and the sailor who broke down the door could perhaps have told frightful
-things if he had not forthwith gone completely mad&mdash;as it is, he shrieked more loudly than
+things if he had not forthwith gone completely mad--as it is, he shrieked more loudly than
 the first victims, and thereafter ran simpering about the vessel till caught and put in irons.
-The ship&rsquo;s doctor who entered the stateroom and turned on the lights a moment later did
+The ship's doctor who entered the stateroom and turned on the lights a moment later did
 not go mad, but told nobody what he saw till afterward, when he corresponded with Malone in
-Chepachet. It was murder&mdash;strangulation&mdash;but one need not say that the claw-mark on
-Mrs. Suydam&rsquo;s throat could not have come from her husband&rsquo;s or any other human hand,
+Chepachet. It was murder--strangulation--but one need not say that the claw-mark on
+Mrs. Suydam's throat could not have come from her husband's or any other human hand,
 or that upon the white wall there flickered for an instant in hateful red a legend which, later
 copied from memory, seems to have been nothing less than the fearsome Chaldee letters of the
-word &ldquo;LILITH&rdquo;. One need not mention these things because they vanished so quickly&mdash;as
+word  "LILITH ". One need not mention these things because they vanished so quickly--as
 for Suydam, one could at least bar others from the room until one knew what to think oneself.
 The doctor has distinctly assured Malone that he did not see   IT.   The open porthole, just
 before he turned on the lights, was clouded for a second with a certain phosphorescence, and
@@ -392,34 +392,34 @@ for a moment there seemed to echo in the night outside the suggestion of a faint
 tittering; but no real outline met the eye. As proof, the doctor points to his continued sanity.  
 
   Then the tramp steamer claimed all attention. A boat put off, and a horde of
-swart, insolent ruffians in officers&rsquo; dress swarmed aboard the temporarily halted Cunarder.
-They wanted Suydam or his body&mdash;they had known of his trip, and for certain reasons were
-sure he would die. The captain&rsquo;s deck was almost a pandemonium; for at the instant, between
-the doctor&rsquo;s report from the stateroom and the demands of the men from the tramp, not
+swart, insolent ruffians in officers' dress swarmed aboard the temporarily halted Cunarder.
+They wanted Suydam or his body--they had known of his trip, and for certain reasons were
+sure he would die. The captain's deck was almost a pandemonium; for at the instant, between
+the doctor's report from the stateroom and the demands of the men from the tramp, not
 even the wisest and gravest seaman could think what to do. Suddenly the leader of the visiting
 mariners, an Arab with a hatefully negroid mouth, pulled forth a dirty, crumpled paper and handed
 it to the captain. It was signed by Robert Suydam, and bore the following odd message:  
 
-    &ldquo;In case of sudden or unexplained accident or death on my part, please
+     "In case of sudden or unexplained accident or death on my part, please
 deliver me or my body unquestioningly into the hands of the bearer and his associates. Everything,
-for me, and perhaps for you, depends on absolute compliance. Explanations can come later&mdash;do
+for me, and perhaps for you, depends on absolute compliance. Explanations can come later--do
 not fail me now.  
 
-  ROBERT SUYDAM.&rdquo;    
+  ROBERT SUYDAM. "    
 
   Captain and doctor looked at each other, and the latter whispered something
 to the former. Finally they nodded rather helplessly and led the way to the Suydam stateroom.
-The doctor directed the captain&rsquo;s glance away as he unlocked the door and admitted the
+The doctor directed the captain's glance away as he unlocked the door and admitted the
 strange seamen, nor did he breathe easily till they filed out with their burden after an unaccountably
 long period of preparation. It was wrapped in bedding from the berths, and the doctor was glad
 that the outlines were not very revealing. Somehow the men got the thing over the side and away
 to their tramp steamer without uncovering it. The Cunarder started again, and the doctor and
-a ship&rsquo;s undertaker sought out the Suydam stateroom to perform what last services they
+a ship's undertaker sought out the Suydam stateroom to perform what last services they
 could. Once more the physician was forced to reticence and even to mendacity, for a hellish
-thing had happened. When the undertaker asked him why he had drained off all of Mrs. Suydam&rsquo;s
+thing had happened. When the undertaker asked him why he had drained off all of Mrs. Suydam's
 blood, he neglected to affirm that he had not done so; nor did he point to the vacant bottle-spaces
-on the rack, or to the odour in the sink which shewed the hasty disposition of the bottles&rsquo;
-original contents. The pockets of those men&mdash;if men they were&mdash;had bulged damnably
+on the rack, or to the odour in the sink which shewed the hasty disposition of the bottles'
+original contents. The pockets of those men--if men they were--had bulged damnably
 when they left the ship. Two hours later, and the world knew by radio all that it ought to know
 of the horrible affair.  
 
@@ -427,9 +427,9 @@ of the horrible affair.
 
 That same June evening, without having heard a word from the sea, Malone was desperately busy
 among the alleys of Red Hook. A sudden stir seemed to permeate the place, and as if apprised
-by &ldquo;grapevine telegraph&rdquo; of something singular, the denizens clustered expectantly
-around the dance-hall church and the houses in Parker Place. Three children had just disappeared&mdash;blue-eyed
-Norwegians from the streets toward Gowanus&mdash;and there were rumours of a mob forming among
+by  "grapevine telegraph " of something singular, the denizens clustered expectantly
+around the dance-hall church and the houses in Parker Place. Three children had just disappeared--blue-eyed
+Norwegians from the streets toward Gowanus--and there were rumours of a mob forming among
 the sturdy Vikings of that section. Malone had for weeks been urging his colleagues to attempt
 a general cleanup; and at last, moved by conditions more obvious to their common sense than
 the conjectures of a Dublin dreamer, they had agreed upon a final stroke. The unrest and menace
@@ -441,7 +441,7 @@ were thrown hastily down unexpected shafts, and betraying odours deadened by the
 of pungent incense. But spattered blood was everywhere, and Malone shuddered whenever he saw
 a brazier or altar from which the smoke was still rising.  
 
-  He wanted to be in several places at once, and decided on Suydam&rsquo;s basement
+  He wanted to be in several places at once, and decided on Suydam's basement
 flat only after a messenger had reported the complete emptiness of the dilapidated dance-hall
 church. The flat, he thought, must hold some clue to a cult of which the occult scholar had
 so obviously become the centre and leader; and it was with real expectancy that he ransacked
@@ -452,7 +452,7 @@ of a red liquid. The shock was severe, and to this day Malone is not certain of 
 but in dreams he still pictures that cat as it scuttled away with certain monstrous alterations
 and peculiarities. Then came the locked cellar door, and the search for something to break it
 down. A heavy stool stood near, and its tough seat was more than enough for the antique panels.
-A crack formed and enlarged, and the whole door gave way&mdash;but from the   other   side;
+A crack formed and enlarged, and the whole door gave way--but from the   other   side;
 whence poured a howling tumult of ice-cold wind with all the stenches of the bottomless pit,
 and whence reached a sucking force not of earth or heaven, which, coiling sentiently about the
 paralysed detective, dragged him through the aperture and down unmeasured spaces filled with
@@ -474,12 +474,12 @@ ashore, and climbed up to squat leeringly on a carved golden pedestal in the bac
 fancy that here lay the root of a contagion destined to sicken and swallow cities, and engulf
 nations in the foetor of hybrid pestilence. Here cosmic sin had entered, and festered by unhallowed
 rites had commenced the grinning march of death that was to rot us all to fungous abnormalities
-too hideous for the grave&rsquo;s holding. Satan here held his Babylonish court, and in the
+too hideous for the grave's holding. Satan here held his Babylonish court, and in the
 blood of stainless childhood the leprous limbs of phosphorescent Lilith were laved. Incubi and
 succubae howled praise to Hecate, and headless moon-calves bleated to the Magna Mater. Goats
 leaped to the sound of thin accursed flutes, and aegipans chased endlessly after misshapen fauns
 over rocks twisted like swollen toads. Moloch and Ashtaroth were not absent; for in this quintessence
-of all damnation the bounds of consciousness were let down, and man&rsquo;s fancy lay open to
+of all damnation the bounds of consciousness were let down, and man's fancy lay open to
 vistas of every realm of horror and every forbidden dimension that evil had power to mould.
 The world and Nature were helpless against such assaults from unsealed wells of night, nor could
 any sign or prayer check the Walpurgis-riot of horror which had come when a sage with the hateful
@@ -498,9 +498,9 @@ gave the bottles to the thing to drink from.
   All at once, from an arcaded avenue leading endlessly away, there came the
 daemoniac rattle and wheeze of a blasphemous organ, choking and rumbling out the mockeries of
 hell in a cracked, sardonic bass. In an instant every moving entity was electrified; and forming
-at once into a ceremonial procession, the nightmare horde slithered away in quest of the sound&mdash;goat,
+at once into a ceremonial procession, the nightmare horde slithered away in quest of the sound--goat,
 satyr, and aegipan, incubus, succuba, and lemur, twisted toad and shapeless elemental, dog-faced
-howler and silent strutter in darkness&mdash;all led by the abominable naked phosphorescent
+howler and silent strutter in darkness--all led by the abominable naked phosphorescent
 thing that had squatted on the carved golden throne, and that now strode insolently bearing
 in its arms the glassy-eyed corpse of the corpulent old man. The strange dark men danced in
 the rear, and the whole column skipped and leaped with Dionysiac fury. Malone staggered after
@@ -514,23 +514,23 @@ Now and then a wail or whine of ceremonial devotion would float to him through t
 whilst eventually there rose the dreadful Greek incantation whose text he had read above the
 pulpit of that dance-hall church.  
 
-  &ldquo;O friend and companion of night, thou who rejoicest in the baying of
+   "O friend and companion of night, thou who rejoicest in the baying of
 dogs (  here a hideous howl burst forth  ) and spilt blood (  here nameless sounds vied
 with morbid shriekings  ), who wanderest in the midst of shades among the tombs (  here a
 whistling sigh occurred  ), who longest for blood and bringest terror to mortals (  short,
 sharp cries from myriad throats  ), Gorgo (  repeated as response  ), Mormo (  repeated
 with ecstasy  ), thousand-faced moon (  sighs and flute notes  ), look favourably on our
-sacrifices!&rdquo;  
+sacrifices! "  
 
   As the chant closed, a general shout went up, and hissing sounds nearly drowned
 the croaking of the cracked bass organ. Then a gasp as from many throats, and a babel of barked
-and bleated words&mdash;&ldquo;Lilith, Great Lilith, behold the Bridegroom!&rdquo; More cries,
+and bleated words-- "Lilith, Great Lilith, behold the Bridegroom! " More cries,
 a clamour of rioting, and the sharp, clicking footfalls of a running figure. The footfalls approached,
 and Malone raised himself to his elbow to look.  
 
   The luminosity of the crypt, lately diminished, had now slightly increased;
 and in that devil-light there appeared the fleeing form of that which should not flee or feel
-or breathe&mdash;the glassy-eyed, gangrenous corpse of the corpulent old man, now needing no
+or breathe--the glassy-eyed, gangrenous corpse of the corpulent old man, now needing no
 support, but animated by some infernal sorcery of the rite just closed. After it raced the naked,
 tittering, phosphorescent thing that belonged on the carven pedestal, and still farther behind
 panted the dark men, and all the dread crew of sentient loathsomenesses. The corpse was gaining
@@ -544,12 +544,12 @@ but the force had held out; and as the pusher collapsed to a muddy blotch of cor
 pedestal he had pushed tottered, tipped, and finally careened from its onyx base into the thick
 waters below, sending up a parting gleam of carven gold as it sank heavily to undreamable gulfs
 of lower Tartarus. In that instant, too, the whole scene of horror faded to nothingness before
-Malone&rsquo;s eyes; and he fainted amidst a thunderous crash which seemed to blot out all the
+Malone's eyes; and he fainted amidst a thunderous crash which seemed to blot out all the
 evil universe.  
 
     VII.    
 
-Malone&rsquo;s dream, experienced in full before he knew of Suydam&rsquo;s death and transfer
+Malone's dream, experienced in full before he knew of Suydam's death and transfer
 at sea, was curiously supplemented by some odd realities of the case; though that is no reason
 why anyone should believe it. The three old houses in Parker Place, doubtless long rotten with
 decay in its most insidious form, collapsed without visible cause while half the raiders and
@@ -558,9 +558,9 @@ in the basements and cellars was there much saving of life, and Malone was lucky
 deep below the house of Robert Suydam. For he really was there, as no one is disposed to deny.
 They found him unconscious by the edge of a night-black pool, with a grotesquely horrible jumble
 of decay and bone, identifiable through dental work as the body of Suydam, a few feet away.
-The case was plain, for it was hither that the smugglers&rsquo; underground canal led; and the
+The case was plain, for it was hither that the smugglers' underground canal led; and the
 men who took Suydam from the ship had brought him home. They themselves were never found, or
-at least never identified; and the ship&rsquo;s doctor is not yet satisfied with the simple
+at least never identified; and the ship's doctor is not yet satisfied with the simple
 certitudes of the police.  
 
   Suydam was evidently a leader in extensive man-smuggling operations, for the
@@ -569,12 +569,12 @@ There was a tunnel from this house to a crypt beneath the dance-hall church; a c
 from the church only through a narrow secret passage in the north wall, and in whose chambers
 some singular and terrible things were discovered. The croaking organ was there, as well as
 a vast arched chapel with wooden benches and a strangely figured altar. The walls were lined
-with small cells, in seventeen of which&mdash;hideous to relate&mdash;solitary prisoners in
+with small cells, in seventeen of which--hideous to relate--solitary prisoners in
 a state of complete idiocy were found chained, including four mothers with infants of disturbingly
 strange appearance. These infants died soon after exposure to the light; a circumstance which
 the doctors thought rather merciful. Nobody but Malone, among those who inspected them, remembered
-the sombre question of old Delrio:   &ldquo;An sint unquam daemones incubi et succubae, et
-an ex tali congressu proles nasci queat?&rdquo;    
+the sombre question of old Delrio:    "An sint unquam daemones incubi et succubae, et
+an ex tali congressu proles nasci queat? "    
 
   Before the canals were filled up they were thoroughly dredged, and yielded
 forth a sensational array of sawed and split bones of all sizes. The kidnapping epidemic, very
@@ -592,23 +592,23 @@ ready to combat its smuggling and rum-running ventures. Malone thinks these dete
 a sadly limited perspective in their lack of wonder at the myriad unexplainable details, and
 the suggestive obscurity of the whole case; though he is just as critical of the newspapers,
 which saw only a morbid sensation and gloated over a minor sadist cult which they might have
-proclaimed a horror from the universe&rsquo;s very heart. But he is content to rest silent in
+proclaimed a horror from the universe's very heart. But he is content to rest silent in
 Chepachet, calming his nervous system and praying that time may gradually transfer his terrible
 experience from the realm of present reality to that of picturesque and semi-mythical remoteness.  
 
   Robert Suydam sleeps beside his bride in Greenwood Cemetery. No funeral was
 held over the strangely released bones, and relatives are grateful for the swift oblivion which
-overtook the case as a whole. The scholar&rsquo;s connexion with the Red Hook horrors, indeed,
+overtook the case as a whole. The scholar's connexion with the Red Hook horrors, indeed,
 was never emblazoned by legal proof; since his death forestalled the inquiry he would otherwise
 have faced. His own end is not much mentioned, and the Suydams hope that posterity may recall
 him only as a gentle recluse who dabbled in harmless magic and folklore.  
 
-  As for Red Hook&mdash;it is always the same. Suydam came and went; a terror
+  As for Red Hook--it is always the same. Suydam came and went; a terror
 gathered and faded; but the evil spirit of darkness and squalor broods on amongst the mongrels
 in the old brick houses, and prowling bands still parade on unknown errands past windows where
 lights and twisted faces unaccountably appear and disappear. Age-old horror is a hydra with
 a thousand heads, and the cults of darkness are rooted in blasphemies deeper than the well of
-Democritus. The soul of the beast is omnipresent and triumphant, and Red Hook&rsquo;s legions
+Democritus. The soul of the beast is omnipresent and triumphant, and Red Hook's legions
 of blear-eyed, pockmarked youths still chant and curse and howl as they file from abyss to abyss,
 none knows whence or whither, pushed on by blind laws of biology which they may never understand.
 As of old, more people enter Red Hook than leave it on the landward side, and there are already
@@ -621,12 +621,12 @@ been dug out again, and for no simply explainable purpose. Who are we to combat 
 than history and mankind? Apes danced in Asia to those horrors, and the cancer lurks secure
 and spreading where furtiveness hides in rows of decaying brick.  
 
-  Malone does not shudder without cause&mdash;for only the other day an officer
+  Malone does not shudder without cause--for only the other day an officer
 overheard a swarthy squinting hag teaching a small child some whispered patois in the shadow
 of an areaway. He listened, and thought it very strange when he heard her repeat over and over
 again,  
 
-    &ldquo;O friend and companion of night, thou who rejoicest in the baying of
+     "O friend and companion of night, thou who rejoicest in the baying of
 dogs and spilt blood, who wanderest in the midst of shades among the tombs, who longest for
 blood and bringest terror to mortals, Gorgo, Mormo, thousand-faced moon, look favourably on
-our sacrifices!&rdquo;  
+our sacrifices! "  

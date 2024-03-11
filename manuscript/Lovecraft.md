@@ -5,6 +5,8 @@ Retrieved from [Wikipedia](https://en.wikipedia.org/wiki/H._P._Lovecraft)
 Howard Phillips Lovecraft (August 20, 1890 – March 15, 1937) was an American writer of weird, science, fantasy,
 and horror fiction. He is best known for his creation of the Cthulhu Mythos.
 
+![Howard Philips Lovecraft](images/hp_lovecraft.png){ width=30% }
+
 Born in Providence, Rhode Island, Lovecraft spent most of his life in New England. After his father's institutionalization in 1893, he lived
 affluently until his family's wealth dissipated after the death of his grandfather. Lovecraft then lived with his mother, in reduced financial
 security, until her institutionalization in 1919. He began to write essays for the United Amateur Press Association, and in 1913 wrote a critical

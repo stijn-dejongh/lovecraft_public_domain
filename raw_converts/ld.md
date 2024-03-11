@@ -16,15 +16,15 @@ sentinels guarding unkempt graves, the tilting, decrepit headstones lie half-hid
 of nauseous, rotting vegetation. Above the rest, silhouetted against the livid sky, an august
 monument lifts its austere, tapering spire like the spectral chieftain of a lemurian horde.
 The air is heavy with the noxious odors of fungi and the scent of damp, mouldy earth, but to
-me it is the aroma of Elysium. It is still&mdash;terrifyingly still&mdash;with a silence whose
+me it is the aroma of Elysium. It is still--terrifyingly still--with a silence whose
 very profundity bespeaks the solemn and the hideous. Could I choose my habitation it would be
 in the heart of some such city of putrefying flesh and crumbling bones; for their nearness sends
 ecstatic thrills through my soul, causing the stagnant blood to race through my veins and my
-torpid heart to pound with delirious joy&mdash;for the presence of death is life to me!  
+torpid heart to pound with delirious joy--for the presence of death is life to me!  
 
   My early childhood was one long, prosaic, and monotonous apathy. Strictly ascetic,
 wan, pallid, undersized, and subject to protracted spells of morbid moroseness, I was ostracized
-by the healthy normal youngsters of my own age. They dubbed me a spoil-sport, an &ldquo;old woman&rdquo;,
+by the healthy normal youngsters of my own age. They dubbed me a spoil-sport, an  "old woman ",
 because I had no interest in the rough, childish games they played, or any stamina to participate
 in them, had I so desired.  
 
@@ -47,15 +47,15 @@ funeral was that of such a well-known character as my grandfather, it was safe t
 the townspeople would turn out en masse to pay due homage to his memory. Yet I did not view
 the approaching ceremony with even latent interest. Anything that tended to lift me out of my
 habitual inertia held for me only the promise of physical and mental disquietude. In deference
-to my parents&rsquo; importunings, mainly to give myself relief from their caustic condemnations
+to my parents' importunings, mainly to give myself relief from their caustic condemnations
 of what they chose to call my unfilial attitude, I agreed to accompany them.  
 
-  There was nothing out of the ordinary about my grandfather&rsquo;s funeral unless
+  There was nothing out of the ordinary about my grandfather's funeral unless
 it was the voluminous array of floral tributes; but this, remember, was my initiation to the
 solemn rites of such an occasion. Something about the darkened room, the oblong coffin with
 its somber drapings, the banked masses of fragrant blooms, the dolorous manifestations of the
 assembled villagers, stirred me from my normal listlessness and arrested my attention. Roused
-from my momentary reverie by a nudge from my mother&rsquo;s sharp elbow, I followed her across
+from my momentary reverie by a nudge from my mother's sharp elbow, I followed her across
 the room to the casket where the body of my grandparent lay.  
 
   For the first time I was face to face with Death. I looked down upon the calm
@@ -67,7 +67,7 @@ that it must have originated with my first glimpse of that funeral scene, silent
 its grip with subtle insidiousness. A baleful malignant influence that seemed to emanate from
 the corpse itself held me with magnetic fascination. My whole being seemed charged with some
 ecstatic electrifying force, and I felt my form straighten without conscious volition. My eyes
-were trying to burn beneath the closed lids of the dead man&rsquo;s and read some secret message
+were trying to burn beneath the closed lids of the dead man's and read some secret message
 they concealed. My heart gave a sudden leap of unholy glee, and pounded against my ribs with
 demoniacal force as if to free itself from the confining walls of my frail frame. Wild, wanton,
 soul-satisfying sensuality engulfed me. Once more the vigorous prod of a maternal elbow jarred
@@ -76,7 +76,7 @@ away with new-found animation.
 
   I accompanied the cortege to the cemetery, my whole physical being permeated
 with this mystic enlivening influence. It was as if I had quaffed deep draughts of some exotic
-elixir&mdash;some abominable concoction brewed from blasphemous formulae in the archives of Belial.  
+elixir--some abominable concoction brewed from blasphemous formulae in the archives of Belial.  
 
   The townsfolk were so intent upon the ceremony that the radical change in my
 demeanor passed unnoticed by all save my father and my mother; but in the fortnight that followed,
@@ -108,12 +108,12 @@ than I could untwist the Gordian knots in the already tangled skein of my destin
   I knew, too, that through some strange Satanic curse my life depended upon
 the dead for its motive force; that there was a singularity in my makeup which responded only
 to the awesome presence of some lifeless clod. A few days later, frantic for the bestial intoxicant
-on which the fullness of my existence depended, I interviewed Fenham&rsquo;s sole undertaker
+on which the fullness of my existence depended, I interviewed Fenham's sole undertaker
 and talked him into taking me on as a sort of apprentice.  
 
-  The shock of my mother&rsquo;s demise had visibly affected my father. I think
-that if I had broached the idea of such outr&eacute; employment at any other time he would have
-been emphatic in his refusal. As it was he nodded acquiescence after a moment&rsquo;s sober thought.
+  The shock of my mother's demise had visibly affected my father. I think
+that if I had broached the idea of such outré employment at any other time he would have
+been emphatic in his refusal. As it was he nodded acquiescence after a moment's sober thought.
 How little did I dream that he would be the object of my first practical lesson!  
 
   He, too, died suddenly; developing some hitherto unsuspected heart affliction.
@@ -121,7 +121,7 @@ My octogenarian employer tried his best to dissuade me from the unthinkable task
 his body, nor did he detect the rapturous glint in my eyes as I finally won him over to my damnable
 point of view. I cannot hope to express the reprehensible, the unutterable thoughts that swept
 in tumultuous waves of passion through my racing heart as I labored over the lifeless clay.
-Unsurpassed love was the keynote of these concepts, a love greater&mdash;far greater&mdash;than
+Unsurpassed love was the keynote of these concepts, a love greater--far greater--than
 any I had ever borne him while he was alive.  
 
   My father was not a rich man, but he had possessed enough of worldly goods
@@ -134,14 +134,14 @@ of the inhabitants defeated my sole motive in arranging my indenture.
 I headed for Bayboro, a city some fifty miles away. Here my year of apprenticeship stood me
 in good stead. I had no trouble in establishing a favorable connection as an assistant with
 the Gresham Corporation, a concern that maintained the largest funeral parlors in the city.
-I even prevailed upon them to let me sleep upon the premises&mdash;for already the proximity
+I even prevailed upon them to let me sleep upon the premises--for already the proximity
 of the dead was becoming an obsession.  
 
   I applied myself to my task with unwonted zeal. No case was too gruesome for
 my impious sensibilities, and I soon became master at my chosen vocation. Every fresh corpse
 brought into the establishment meant a fulfilled promise of ungodly gladness, of irreverent
 gratification; a return of that rapturous tumult of the arteries which transformed my grisly
-task into one of beloved devotion&mdash;yet every carnal satiation exacted its toll. I came to
+task into one of beloved devotion--yet every carnal satiation exacted its toll. I came to
 dread the days that brought no dead for me to gloat over, and prayed to all the obscene gods
 of the nethermost abysses to bring swift, sure death upon the residents of the city.  
 
@@ -159,33 +159,33 @@ varying the manner of my murders so that no one would even dream that all were t
 blood-stained pair of hands. The aftermath of each nocturnal venture was an ecstatic hour of
 pleasure, pernicious and unalloyed; a pleasure always heightened by the chance that its delicious
 source might later be assigned to my gloating administrations in the course of my regular occupation.
-Sometimes that double and ultimate pleasure did occur&mdash;O rare and delicious memory!  
+Sometimes that double and ultimate pleasure did occur--O rare and delicious memory!  
 
   During long nights when I clung to the shelter of my sanctuary, I was prompted
 by the mausolean silence to devise new and unspeakable ways of lavishing my affections upon
-the dead that I loved&mdash;the dead that gave me life!  
+the dead that I loved--the dead that gave me life!  
 
-  One morning Mr. Gresham came much earlier than usual&mdash;came to find me stretched
+  One morning Mr. Gresham came much earlier than usual--came to find me stretched
 out upon a cold slab deep in ghoulish slumber, my arms wrapped about the stark, stiff, naked
 body of a foetid corpse! He roused me from my salacious dreams, his eyes filled with mingled
 detestation and pity. Gently but firmly he told me that I must go, that my nerves were unstrung,
 that I needed a long rest from the repellent tasks my vocation required, that my impressionable
 youth was too deeply affected by the dismal atmosphere of my environment. How little did he
 know of the demoniacal desires that spurred me on in my disgusting infirmities! I was wise enough
-to see that argument would only strengthen his belief in my potential madness&mdash;it was far
+to see that argument would only strengthen his belief in my potential madness--it was far
 better to leave than to invite discovery of the motive underlying my actions.  
 
   After this I dared not stay long in one place for fear some overt act would
 bare my secret to an unsympathetic world. I drifted from city to city, from town to town. I
-worked in morgues, around cemeteries, once in a crematory&mdash;anywhere that afforded me an
+worked in morgues, around cemeteries, once in a crematory--anywhere that afforded me an
 opportunity to be near the dead that I so craved.  
 
   Then came the world war. I was one of the first to go across, one of the last
-to return. Four years of blood-red charnel Hell&nbsp;.&nbsp;.&nbsp;. sickening slime of rain-rotten
-trenches . .&nbsp;. deafening bursting of hysterical shells&nbsp;.&nbsp;.&nbsp;. monotonous
-droning of sardonic bullets&nbsp;.&nbsp;.&nbsp;. smoking frenzies of Phlegethon&rsquo;s fountains&nbsp;.&nbsp;.&nbsp;.
-stifling fumes of murderous gases&nbsp;.&nbsp;.&nbsp;. grotesque remnants of smashed and shredded
-bodies&nbsp;.&nbsp;.&nbsp;. four years of transcendent satisfaction.  
+to return. Four years of blood-red charnel Hell . . . sickening slime of rain-rotten
+trenches . . . deafening bursting of hysterical shells . . . monotonous
+droning of sardonic bullets . . . smoking frenzies of Phlegethon's fountains . . .
+stifling fumes of murderous gases . . . grotesque remnants of smashed and shredded
+bodies . . . four years of transcendent satisfaction.  
 
   In every wanderer there is a latent urge to return to the scenes of his childhood.
 A few months later found me making my way through the familiar byways of Fenham. Vacant dilapidated
@@ -193,17 +193,17 @@ farm houses lined the adjacent roadsides, while the years had brought equal retr
 the town itself. A mere handful of the houses were occupied, but among these was the one I had
 once called home. The tangled, weed-choked driveway, the broken window panes, the uncared-for
 acres that stretched behind, all bore mute confirmation of the tales that guarded inquiries
-had elicited&mdash;that it now sheltered a dissolute drunkard who eked out a meager existence
+had elicited--that it now sheltered a dissolute drunkard who eked out a meager existence
 from the chores his few neighbors gave him out of sympathy for the mistreated wife and undernourished
 child who shared his lot. All in all, the glamour surrounding my youthful environment was entirely
 dispelled; so, prompted by some errant foolhardy thought, I next turned my steps toward Bayboro.  
 
   Here, too, the years had brought changes, but in reverse order. The small city
 I remembered had almost doubled in size despite its wartime depopulation. Instinctively I sought
-my former place of employment, finding it still there but with an unfamiliar name and &ldquo;Successor
-to&rdquo; above the door, for the influenza epidemic had claimed Mr. Gresham, while the boys
+my former place of employment, finding it still there but with an unfamiliar name and  "Successor
+to " above the door, for the influenza epidemic had claimed Mr. Gresham, while the boys
 were overseas. Some fateful mood impelled me to ask for work. I referred to my tutelage under
-Mr. Gresham with some trepidation, but my fears were groundless&mdash;my late employer had carried
+Mr. Gresham with some trepidation, but my fears were groundless--my late employer had carried
 the secret of my unethical conduct with him to the grave. An opportune vacancy insured my immediate
 re-installation.  
 
@@ -212,7 +212,7 @@ and an uncontrollable desire to renew those illicit joys. I cast caution to the 
 upon another series of damnable debaucheries. Once more the yellow sheets found welcome material
 in the devilish details of my crimes, comparing them to the red weeks of horror that had appalled
 the city years before. Once more the police sent out their dragnet and drew into its enmeshing
-folds&mdash;nothing!  
+folds--nothing!  
 
   My thirst for the noxious nectar of the dead grew to a consuming fire, and
 I began to shorten the periods between my odious exploits. I realized that I was treading on
@@ -221,7 +221,7 @@ dangerous ground, but demoniac desire gripped me in its torturing tentacles and 
   All this time my mind was becoming more and more benumbed to any influence
 except the satiation of my insane longings. Little details vitally important to one bent on
 such evil escapades escaped me. Somehow, somewhere, I left a vague trace, an elusive clue,
-behind&mdash;not enough to warrant my arrest, but sufficient to turn the tide of suspicion in
+behind--not enough to warrant my arrest, but sufficient to turn the tide of suspicion in
 my direction. I sensed this espionage, yet was helpless to stem the surging demand for more
 dead to quicken my enervated soul.  
 
@@ -264,19 +264,19 @@ alert, every muscle tensed for action. The silence reassured me. With cat-like t
 through the familiar rooms until stertorous snores indicated the place where I was to find surcease
 from my sufferings. I allowed myself a sigh of anticipatory ecstasy as I pushed open the door
 of the bedchamber. Panther-like I made my way to the supine form stretched out in drunken stupor.
-The wife and child&mdash;where were they?&mdash;well, they could wait. My clutching fingers groped
-for his throat.&nbsp;.&nbsp;.&nbsp;.  
+The wife and child--where were they?--well, they could wait. My clutching fingers groped
+for his throat. . . .  
 
   Hours later I was again the fugitive, but a new-found stolen strength was mine.
 Three silent forms slept to wake no more. It was not until the garish light of day penetrated
 my hiding-place that I visualized the certain consequences of my rashly purchased relief. By
 this time the bodies must have been discovered. Even the most obtuse of the rural police must
 surely link the tragedy with my flight from the nearby city. Besides, for the first time I had
-been careless enough to leave some tangible proof of my identity&mdash;my fingerprints on the
+been careless enough to leave some tangible proof of my identity--my fingerprints on the
 throats of the newly dead. All day I shivered in nervous apprehension. The mere crackling of
 a dry twig beneath my feet conjured mental images that appalled me. That night, under cover
 of the protecting darkness I skirted Fenham and made for the woods that lay beyond. Before dawn
-came the first definite hint of renewed pursuit&mdash;the distant baying of hounds.  
+came the first definite hint of renewed pursuit--the distant baying of hounds.  
 
   Through the long night I pressed on, but by morning I could feel my artificial
 strength ebbing. Noon brought once more the insistent call of the contaminating curse, and I
@@ -296,19 +296,19 @@ ears catch the far-off howling of the dogs! It is but a matter of minutes before
 and shut me away forever from the rest of the world, to spend my days in ravaging yearnings
 till at last I join the dead I love!  
 
-  They shall not take me! A way of escape is open! A coward&rsquo;s choice, perhaps,
-but better&mdash;far better&mdash;than endless months of nameless misery. I will leave this record
+  They shall not take me! A way of escape is open! A coward's choice, perhaps,
+but better--far better--than endless months of nameless misery. I will leave this record
 behind me that some soul may perhaps understand why I make this choice.  
 
   The razor! It has nestled forgotten in my pocket since my flight from Bayboro.
 Its blood-stained blade gleams oddly in the waning light of the thin-edged moon. One slashing
-stroke across my left wrist and deliverance is assured.&nbsp;.&nbsp;.&nbsp;.  
+stroke across my left wrist and deliverance is assured. . . .  
 
-  Warm, fresh blood spatters grotesque patterns on dingy, decrepit slabs&nbsp;.&nbsp;.&nbsp;.
-phantasmal hordes swarm over the rotting graves&nbsp;.&nbsp;.&nbsp;. spectral fingers beckon
-me&nbsp;.&nbsp;.&nbsp;. ethereal fragments of unwritten melodies rise in celestial crescendo&nbsp;.&nbsp;.&nbsp;.
-distant stars dance drunkenly in demoniac accompaniment&nbsp;.&nbsp;.&nbsp;. a thousand tiny
-hammers beat hideous dissonances on anvils inside my chaotic brain&nbsp;.&nbsp;.&nbsp;. gray
-ghosts of slaughtered spirits parade in mocking silence before me&nbsp;.&nbsp;.&nbsp;. scorching
-tongues of invisible flame sear the brand of Hell upon my sickened soul&nbsp;.&nbsp;.&nbsp;.
-I can&mdash;write&mdash;no&mdash;more.&nbsp;.&nbsp;.&nbsp;.  
+  Warm, fresh blood spatters grotesque patterns on dingy, decrepit slabs . . .
+phantasmal hordes swarm over the rotting graves . . . spectral fingers beckon
+me . . . ethereal fragments of unwritten melodies rise in celestial crescendo . . .
+distant stars dance drunkenly in demoniac accompaniment . . . a thousand tiny
+hammers beat hideous dissonances on anvils inside my chaotic brain . . . gray
+ghosts of slaughtered spirits parade in mocking silence before me . . . scorching
+tongues of invisible flame sear the brand of Hell upon my sickened soul . . .
+I can--write--no--more. . . .  

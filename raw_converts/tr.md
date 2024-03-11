@@ -5,7 +5,7 @@
 
   
 
-    &ldquo;Fata viam invenient.&rdquo;    
+     "Fata viam invenient. "    
 
 On a verdant slope of Mount Maenalus, in Arcadia, there stands an olive grove about the ruins
 of a villa. Close by is a tomb, once beautiful with the sublimest sculptures, but now fallen
@@ -30,10 +30,10 @@ remain at home; stealing away from the sight of his slaves into the cool recesse
 grove. There he would meditate upon the visions that filled his mind, and there devise the forms
 of beauty which later became immortal in breathing marble. Idle folk, indeed, said that Kalos
 conversed with the spirits of the grove, and that his statues were but images of the fauns and
-dryads he met there&mdash;for he patterned his work after no living model.  
+dryads he met there--for he patterned his work after no living model.  
 
   So famous were Kalos and Musides, that none wondered when the Tyrant of Syracuse
-sent to them deputies to speak of the costly statue of Tych&eacute; which he had planned for
+sent to them deputies to speak of the costly statue of Tyché which he had planned for
 his city. Of great size and cunning workmanship must the statue be, for it was to form a wonder
 of nations and a goal of travellers. Exalted beyond thought would be he whose work should gain
 acceptance, and for this honour Kalos and Musides were invited to compete. Their brotherly love
@@ -41,7 +41,7 @@ was well known, and the crafty Tyrant surmised that each, instead of concealing 
 the other, would offer aid and advice; this charity producing two images of unheard-of beauty,
 the lovelier of which would eclipse even the dreams of poets.  
 
-  With joy the sculptors hailed the Tyrant&rsquo;s offer, so that in the days
+  With joy the sculptors hailed the Tyrant's offer, so that in the days
 that followed their slaves heard the ceaseless blows of chisels. Not from each other did Kalos
 and Musides conceal their work, but the sight was for them alone. Saving theirs, no eyes beheld
 the two divine figures released by skilful blows from the rough blocks that had imprisoned them
@@ -50,17 +50,17 @@ since the world began.
   At night, as of yore, Musides sought the banquet halls of Tegea whilst Kalos
 wandered alone in the olive grove. But as time passed, men observed a want of gaiety in the
 once sparkling Musides. It was strange, they said amongst themselves, that depression should
-thus seize one with so great a chance to win art&rsquo;s loftiest reward. Many months passed,
+thus seize one with so great a chance to win art's loftiest reward. Many months passed,
 yet in the sour face of Musides came nothing of the sharp expectancy which the situation should
 arouse.  
 
   Then one day Musides spoke of the illness of Kalos, after which none marvelled
-again at his sadness, since the sculptors&rsquo; attachment was known to be deep and sacred.
+again at his sadness, since the sculptors' attachment was known to be deep and sacred.
 Subsequently many went to visit Kalos, and indeed noticed the pallor of his face; but there
-was about him a happy serenity which made his glance more magical than the glance of Musides&mdash;who
+was about him a happy serenity which made his glance more magical than the glance of Musides--who
 was clearly distracted with anxiety, and who pushed aside all the slaves in his eagerness to
 feed and wait upon his friend with his own hands. Hidden behind heavy curtains stood the two
-unfinished figures of Tych&eacute;, little touched of late by the sick man and his faithful
+unfinished figures of Tyché, little touched of late by the sick man and his faithful
 attendant.  
 
   As Kalos grew inexplicably weaker and weaker despite the ministrations of puzzled
@@ -71,20 +71,20 @@ should care more for the fauns and the dryads than for him. At last the end drew
 discoursed of things beyond this life. Musides, weeping, promised him a sepulchre more lovely
 than the tomb of Mausolus; but Kalos bade him speak no more of marble glories. Only one wish
 now haunted the mind of the dying man; that twigs from certain olive trees in the grove be buried
-by his resting-place&mdash;close to his head. And one night, sitting alone in the darkness of
+by his resting-place--close to his head. And one night, sitting alone in the darkness of
 the olive grove, Kalos died.  
 
   Beautiful beyond words was the marble sepulchre which stricken Musides carved
 for his beloved friend. None but Kalos himself could have fashioned such bas-reliefs, wherein
-were displayed all the splendours of Elysium. Nor did Musides fail to bury close to Kalos&rsquo;
+were displayed all the splendours of Elysium. Nor did Musides fail to bury close to Kalos'
 head the olive twigs from the grove.  
 
-  As the first violence of Musides&rsquo; grief gave place to resignation, he
-laboured with diligence upon his figure of Tych&eacute;. All honour was now his, since the Tyrant
+  As the first violence of Musides' grief gave place to resignation, he
+laboured with diligence upon his figure of Tyché. All honour was now his, since the Tyrant
 of Syracuse would have the work of none save him or Kalos. His task proved a vent for his emotion,
 and he toiled more steadily each day, shunning the gaieties he once had relished. Meanwhile
 his evenings were spent beside the tomb of his friend, where a young olive tree had sprung up
-near the sleeper&rsquo;s head. So swift was the growth of this tree, and so strange was its
+near the sleeper's head. So swift was the growth of this tree, and so strange was its
 form, that all who beheld it exclaimed in surprise; and Musides seemed at once fascinated and
 repelled.  
 
@@ -98,8 +98,8 @@ to dread being alone now that his absorbing work was done. The bleak mountain wi
 through the olive grove and the tomb-tree, had an uncanny way of forming vaguely articulate
 sounds.  
 
-  The sky was dark on the evening that the Tyrant&rsquo;s emissaries came to
-Tegea. It was definitely known that they had come to bear away the great image of Tych&eacute;
+  The sky was dark on the evening that the Tyrant's emissaries came to
+Tegea. It was definitely known that they had come to bear away the great image of Tyché
 and bring eternal honour to Musides, so their reception by the proxenoi was of great warmth.
 As the night wore on, a violent storm of wind broke over the crest of Maenalus, and the men
 from far Syracuse were glad that they rested snugly in the town. They talked of their illustrious
@@ -110,8 +110,8 @@ the absence of Kalos, who might have worn those laurels instead. Of the tree whi
 tomb, near the head of Kalos, they also spoke. The wind shrieked more horribly, and both the
 Syracusans and the Arcadians prayed to Aiolos.  
 
-  In the sunshine of the morning the proxenoi led the Tyrant&rsquo;s messengers
-up the slope to the abode of the sculptor, but the night-wind had done strange things. Slaves&rsquo;
+  In the sunshine of the morning the proxenoi led the Tyrant's messengers
+up the slope to the abode of the sculptor, but the night-wind had done strange things. Slaves'
 cries ascended from a scene of desolation, and no more amidst the olive grove rose the gleaming
 colonnades of that vast hall wherein Musides had dreamed and toiled. Lone and shaken mourned
 the humble courts and the lower walls, for upon the sumptuous greater peristyle had fallen squarely
@@ -120,7 +120,7 @@ odd completeness to a mound of unsightly ruins. Strangers and Tegeans stood agha
 from the wreckage to the great, sinister tree whose aspect was so weirdly human and whose roots
 reached so queerly into the sculptured sepulchre of Kalos. And their fear and dismay increased
 when they searched the fallen apartment; for of the gentle Musides, and of the marvellously
-fashioned image of Tych&eacute;, no trace could be discovered. Amidst such stupendous ruin only
+fashioned image of Tyché, no trace could be discovered. Amidst such stupendous ruin only
 chaos dwelt, and the representatives of two cities left disappointed; Syracusans that they had
 no statue to bear home, Tegeans that they had no artist to crown. However, the Syracusans obtained
 after a while a very splendid statue in Athens, and the Tegeans consoled themselves by erecting
@@ -128,5 +128,5 @@ in the agora a marble temple commemorating the gifts, virtues, and brotherly pie
 
   But the olive grove still stands, as does the tree growing out of the tomb
 of Kalos, and the old bee-keeper told me that sometimes the boughs whisper to one another in
-the night-wind, saying over and over again,   &ldquo;&Omicron;&#7990;&delta;&alpha;!
-&Omicron;&#7990;&delta;&alpha;!&mdash;I know! I know!&rdquo;    
+the night-wind, saying over and over again,    "&Omicron;&#7990;&delta;&alpha;!
+&Omicron;&#7990;&delta;&alpha;!--I know! I know! "    

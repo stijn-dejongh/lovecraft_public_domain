@@ -12,7 +12,7 @@ There is nothing more absurd, as I view it, than that conventional association o
 and the wholesome which seems to pervade the psychology of the multitude. Mention a bucolic
 Yankee setting, a bungling and thick-fibred village undertaker, and a careless mishap in a tomb,
 and no average reader can be brought to expect more than a hearty albeit grotesque phase of
-comedy. God knows, though, that the prosy tale which George Birch&rsquo;s death permits me to
+comedy. God knows, though, that the prosy tale which George Birch's death permits me to
 tell has in it aspects beside which some of our darkest tragedies are light.  
 
   Birch acquired a limitation and changed his business in 1881, yet never discussed
@@ -28,18 +28,18 @@ of confiding in someone else after Davis died. He was a bachelor, wholly without
 a very calloused and primitive specimen even as such specimens go. The practices I heard attributed
 to him would be unbelievable today, at least in a city; and even Peck Valley would have shuddered
 a bit had it known the easy ethics of its mortuary artist in such debatable matters as the ownership
-of costly &ldquo;laying-out&rdquo; apparel invisible beneath the casket&rsquo;s lid, and the
+of costly  "laying-out " apparel invisible beneath the casket's lid, and the
 degree of dignity to be maintained in posing and adapting the unseen members of lifeless tenants
 to containers not always calculated with sublimest accuracy. Most distinctly Birch was lax,
 insensitive, and professionally undesirable; yet I still think he was not an evil man. He was
-merely crass of fibre and function&mdash;thoughtless, careless, and liquorish, as his easily
+merely crass of fibre and function--thoughtless, careless, and liquorish, as his easily
 avoidable accident proves, and without that modicum of imagination which holds the average citizen
 within certain limits fixed by taste.  
 
-  Just where to begin Birch&rsquo;s story I can hardly decide, since I am no
+  Just where to begin Birch's story I can hardly decide, since I am no
 practiced teller of tales. I suppose one should start in the cold December of 1880, when the
 ground froze and the cemetery delvers found they could dig no more graves till spring. Fortunately
-the village was small and the death rate low, so that it was possible to give all of Birch&rsquo;s
+the village was small and the death rate low, so that it was possible to give all of Birch's
 inanimate charges a temporary haven in the single antiquated receiving tomb. The undertaker
 grew doubly lethargic in the bitter weather, and seemed to outdo even himself in carelessness.
 Never did he knock together flimsier and ungainlier caskets, or disregard more flagrantly the
@@ -66,12 +66,12 @@ as on that former occasion when the rain had vexed it. The day was clear, but a 
 sprung up; and Birch was glad to get to shelter as he unlocked the iron door and entered the
 side-hill vault. Another might not have relished the damp, odorous chamber with the eight carelessly
 placed coffins; but Birch in those days was insensitive, and was concerned only in getting the
-right coffin for the right grave. He had not forgotten the criticism aroused when Hannah Bixby&rsquo;s
+right coffin for the right grave. He had not forgotten the criticism aroused when Hannah Bixby's
 relatives, wishing to transport her body to the cemetery in the city whither they had moved,
 found the casket of Judge Capwell beneath her headstone.  
 
-  The light was dim, but Birch&rsquo;s sight was good, and he did not get Asaph
-Sawyer&rsquo;s coffin by mistake, although it was very similar. He had, indeed, made that coffin
+  The light was dim, but Birch's sight was good, and he did not get Asaph
+Sawyer's coffin by mistake, although it was very similar. He had, indeed, made that coffin
 for Matthew Fenner; but had cast it aside at last as too awkward and flimsy, in a fit of curious
 sentimentality aroused by recalling how kindly and generous the little old man had been to him
 during his bankruptcy five years before. He gave old Matt the very best his skill could produce,
@@ -81,7 +81,7 @@ vindictiveness and tenacious memory for wrongs real or fancied. To him Birch had
 in assigning the carelessly made coffin which he now pushed out of the way in his quest for
 the Fenner casket.  
 
-  It was just as he had recognised old Matt&rsquo;s coffin that the door slammed
+  It was just as he had recognised old Matt's coffin that the door slammed
 to in the wind, leaving him in a dusk even deeper than before. The narrow transom admitted only
 the feeblest of rays, and the overhead ventilation funnel virtually none at all; so that he
 was reduced to a profane fumbling as he made his halting way among the long boxes toward the
@@ -95,7 +95,7 @@ undertaker trapped in the vault, a victim of his own oversight.
 being by temperament phlegmatic and practical, did not shout long; but proceeded to grope about
 for some tools which he recalled seeing in a corner of the tomb. It is doubtful whether he was
 touched at all by the horror and exquisite weirdness of his position, but the bald fact of imprisonment
-so far from the daily paths of men was enough to exasperate him thoroughly. His day&rsquo;s
+so far from the daily paths of men was enough to exasperate him thoroughly. His day's
 work was sadly interrupted, and unless chance presently brought some rambler hither, he might
 have to remain all night or longer. The pile of tools soon reached, and a hammer and chisel
 selected, Birch returned over the coffins to the door. The air had begun to be exceedingly unwholesome;
@@ -110,7 +110,7 @@ in the top ran through several feet of earth, making this direction utterly usel
 Over the door, however, the high, slit-like transom in the brick facade gave promise of possible
 enlargement to a diligent worker; hence upon this his eyes long rested as he racked his brains
 for means to reach it. There was nothing like a ladder in the tomb, and the coffin niches on
-the sides and rear&mdash;which Birch seldom took the trouble to use&mdash;afforded no ascent
+the sides and rear--which Birch seldom took the trouble to use--afforded no ascent
 to the space above the door. Only the coffins themselves remained as potential stepping-stones,
 and as he considered these he speculated on the best mode of arranging them. Three coffin-heights,
 he reckoned, would permit him to reach the transom; but he could do better with four. The boxes
@@ -144,7 +144,7 @@ vanity of mortal hopes, and the source of a task whose performance deserved ever
   Dusk fell and found Birch still toiling. He worked largely by feeling now,
 since newly gathered clouds hid the moon; and though progress was still slow, he felt heartened
 at the extent of his encroachments on the top and bottom of the aperture. He could, he was sure,
-get out by midnight&mdash;though it is characteristic of him that this thought was untinged
+get out by midnight--though it is characteristic of him that this thought was untinged
 with eerie implications. Undisturbed by oppressive reflections on the time, the place, and the
 company beneath his feet, he philosophically chipped away the stony brickwork; cursing when
 a fragment hit him in the face, and laughing when one struck the increasingly excited horse
@@ -188,35 +188,35 @@ answered his feeble clawing at the door.
 
   Armington helped Birch to the outside of a spare bed and sent his little son
 Edwin for Dr. Davis. The afflicted man was fully conscious, but would say nothing of any consequence;
-merely muttering such things as &ldquo;oh, my ankles!&rdquo;, &ldquo;let go!&rdquo;, or &ldquo;shut
-in the tomb&rdquo;. Then the doctor came with his medicine-case and asked crisp questions, and
-removed the patient&rsquo;s outer clothing, shoes, and socks. The wounds&mdash;for both ankles
-were frightfully lacerated about the Achilles&rsquo; tendons&mdash;seemed to puzzle the old
+merely muttering such things as  "oh, my ankles! ",  "let go! ", or  "shut
+in the tomb ". Then the doctor came with his medicine-case and asked crisp questions, and
+removed the patient's outer clothing, shoes, and socks. The wounds--for both ankles
+were frightfully lacerated about the Achilles' tendons--seemed to puzzle the old
 physician greatly, and finally almost to frighten him. His questioning grew more than medically
 tense, and his hands shook as he dressed the mangled members; binding them as if he wished to
 get the wounds out of sight as quickly as possible.  
 
-  For an impersonal doctor, Davis&rsquo; ominous and awestruck cross-examination
+  For an impersonal doctor, Davis' ominous and awestruck cross-examination
 became very strange indeed as he sought to drain from the weakened undertaker every least detail
-of his horrible experience. He was oddly anxious to know if Birch were sure&mdash;absolutely
-sure&mdash;of the identity of that top coffin of the pile; how he had chosen it, how he had
+of his horrible experience. He was oddly anxious to know if Birch were sure--absolutely
+sure--of the identity of that top coffin of the pile; how he had chosen it, how he had
 been certain of it as the Fenner coffin in the dusk, and how he had distinguished it from the
 inferior duplicate coffin of vicious Asaph Sawyer. Would the firm Fenner casket have caved in
 so readily? Davis, an old-time village practitioner, had of course seen both at the respective
 funerals, as indeed he had attended both Fenner and Sawyer in their last illnesses. He had even
-wondered, at Sawyer&rsquo;s funeral, how the vindictive farmer had managed to lie straight in
+wondered, at Sawyer's funeral, how the vindictive farmer had managed to lie straight in
 a box so closely akin to that of the diminutive Fenner.  
 
   After a full two hours Dr. Davis left, urging Birch to insist at all times
 that his wounds were caused entirely by loose nails and splintering wood. What else, he added,
 could ever in any case be proved or believed? But it would be well to say as little as could
 be said, and to let no other doctor treat the wounds. Birch heeded this advice all the rest
-of his life till he told me his story; and when I saw the scars&mdash;ancient and whitened as
-they then were&mdash;I agreed that he was wise in so doing. He always remained lame, for the
+of his life till he told me his story; and when I saw the scars--ancient and whitened as
+they then were--I agreed that he was wise in so doing. He always remained lame, for the
 great tendons had been severed; but I think the greatest lameness was in his soul. His thinking
 processes, once so phlegmatic and logical, had become ineffaceably scarred; and it was pitiful
-to note his response to certain chance allusions such as &ldquo;Friday&rdquo;, &ldquo;tomb&rdquo;,
-&ldquo;coffin&rdquo;, and words of less obvious concatenation. His frightened horse had gone
+to note his response to certain chance allusions such as  "Friday ",  "tomb ",
+ "coffin ", and words of less obvious concatenation. His frightened horse had gone
 home, but his frightened wits never quite did that. He changed his business, but something always
 preyed upon him. It may have been just fear, and it may have been fear mixed with a queer belated
 sort of remorse for bygone crudities. His drinking, of course, only aggravated what it was meant
@@ -231,22 +231,22 @@ gave a gasp that was more terrible than a cry. Then he fled back to the lodge an
 the rules of his calling by rousing and shaking his patient, and hurling at him a succession
 of shuddering whispers that seared into the bewildered ears like the hissing of vitriol.  
 
-  &ldquo;It was Asaph&rsquo;s coffin, Birch, just as I thought! I knew his teeth,
-with the front ones missing on the upper jaw&mdash;never, for God&rsquo;s sake, shew those wounds!
-The body was pretty badly gone, but if ever I saw vindictiveness on any face&mdash;or former
-face.&nbsp;.&nbsp;.&nbsp;. You know what a fiend he was for revenge&mdash;how he ruined old
+   "It was Asaph's coffin, Birch, just as I thought! I knew his teeth,
+with the front ones missing on the upper jaw--never, for God's sake, shew those wounds!
+The body was pretty badly gone, but if ever I saw vindictiveness on any face--or former
+face. . . . You know what a fiend he was for revenge--how he ruined old
 Raymond thirty years after their boundary suit, and how he stepped on the puppy that snapped
-at him a year ago last August.&nbsp;.&nbsp;.&nbsp;. He was the devil incarnate, Birch, and I believe
-his eye-for-an-eye fury could beat old Father Death himself. God, what a rage! I&rsquo;d hate
+at him a year ago last August. . . . He was the devil incarnate, Birch, and I believe
+his eye-for-an-eye fury could beat old Father Death himself. God, what a rage! I'd hate
 to have it aimed at me!  
 
-  &ldquo;Why did you do it, Birch? He was a scoundrel, and I don&rsquo;t blame
+   "Why did you do it, Birch? He was a scoundrel, and I don't blame
 you for giving him a cast-aside coffin, but you always did go too damned far! Well enough to
 skimp on the thing some way, but you knew what a little man old Fenner was.  
 
-  &ldquo;I&rsquo;ll never get the picture out of my head as long as I live. You
-kicked hard, for Asaph&rsquo;s coffin was on the floor. His head was broken in, and everything
-was tumbled about. I&rsquo;ve seen sights before, but there was one thing too much here. An
+   "I'll never get the picture out of my head as long as I live. You
+kicked hard, for Asaph's coffin was on the floor. His head was broken in, and everything
+was tumbled about. I've seen sights before, but there was one thing too much here. An
 eye for an eye! Great heavens, Birch, but you got what you deserved. The skull turned my stomach,
-but the other was worse&mdash;  those ankles cut neatly off to fit Matt Fenner&rsquo;s cast-aside
-coffin!&rdquo;    
+but the other was worse--  those ankles cut neatly off to fit Matt Fenner's cast-aside
+coffin! "    

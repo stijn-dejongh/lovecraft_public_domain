@@ -1,27 +1,27 @@
-% "The Horror at Martin&rsquo;s Beach" 
+% "The Horror at Martin's Beach" 
 %  H. P. Lovecraft and Sonia H. Greene
 
         
 
   
 
-I have never heard an even approximately adequate explanation of the horror at Martin&rsquo;s
+I have never heard an even approximately adequate explanation of the horror at Martin's
 Beach. Despite the large number of witnesses, no two accounts agree; and the testimony taken
 by local authorities contains the most amazing discrepancies.  
 
   Perhaps this haziness is natural in view of the unheard-of character of the
 horror itself, the almost paralytic terror of all who saw it, and the efforts made by the fashionable
-Wavecrest Inn to hush it up after the publicity created by Prof. Alton&rsquo;s article &ldquo;Are
-Hypnotic Powers Confined to Recognized Humanity?&rdquo;  
+Wavecrest Inn to hush it up after the publicity created by Prof. Alton's article  "Are
+Hypnotic Powers Confined to Recognized Humanity? "  
 
   Against all these obstacles I am striving to present a coherent version; for
 I beheld the hideous occurrence, and believe it should be known in view of the appalling possibilities
-it suggests. Martin&rsquo;s Beach is once more popular as a watering-place, but I shudder when
+it suggests. Martin's Beach is once more popular as a watering-place, but I shudder when
 I think of it. Indeed, I cannot look at the ocean at all now without shuddering.  
 
   Fate is not always without a sense of drama and climax, hence the terrible
 happening of August 8, 1922, swiftly followed a period of minor and agreeably wonder-fraught
-excitement at Martin&rsquo;s Beach. On May 17 the crew of the fishing smack   Alma   of Gloucester,
+excitement at Martin's Beach. On May 17 the crew of the fishing smack   Alma   of Gloucester,
 under Capt. James P. Orne, killed, after a battle of nearly forty hours, a marine monster whose
 size and aspect produced the greatest possible stir in scientific circles and caused certain
 Boston naturalists to take every precaution for its taxidermic preservation.  
@@ -37,12 +37,12 @@ not have been hatched more than a few days, public interest mounted to extraordi
   Capt. Orne, with typical Yankee shrewdness, obtained a vessel large enough
 to hold the object in its hull, and arranged for the exhibition of his prize. With judicious
 carpentry he prepared what amounted to an excellent marine museum, and, sailing south to the
-wealthy resort district of Martin&rsquo;s Beach, anchored at the hotel wharf and reaped a harvest
+wealthy resort district of Martin's Beach, anchored at the hotel wharf and reaped a harvest
 of admission fees.  
 
   The intrinsic marvelousness of the object, and the importance which it clearly
-bore in the minds of many scientific visitors from near and far, combined to make it the season&rsquo;s
-sensation. That it was absolutely unique&mdash;unique to a scientifically revolutionary degree&mdash;was
+bore in the minds of many scientific visitors from near and far, combined to make it the season's
+sensation. That it was absolutely unique--unique to a scientifically revolutionary degree--was
 well understood. The naturalists had shown plainly that it radically differed from the similarly
 immense fish caught off the Florida coast; that, while it was obviously an inhabitant of almost
 incredible depths, perhaps thousands of feet, its brain and principal organs indicated a development
@@ -55,7 +55,7 @@ despite the threatening weather. Capt. Orne, backed by extensive scientific inte
 by large numbers of fishing boats from Gloucester, made a thorough and exhaustive searching
 cruise, but with no result other than the prompting of interest and conversation. By August
 7 hope was abandoned, and Capt. Orne had returned to the Wavecrest Inn to wind up his business
-affairs at Martin&rsquo;s Beach and confer with certain of the scientific men who remained there.
+affairs at Martin's Beach and confer with certain of the scientific men who remained there.
 The horror came on August 8.  
 
   It was in the twilight, when grey sea-birds hovered low near the shore and
@@ -65,15 +65,15 @@ from the distant cottage colony that rose modestly on a green hill to the north,
 adjacent cliff-perched Inn whose imposing towers proclaimed its allegiance to wealth and grandeur.  
 
   Well within viewing distance was another set of spectators, the loungers on
-the Inn&rsquo;s high-ceiled and lantern-lighted veranda, who appeared to be enjoying the dance
+the Inn's high-ceiled and lantern-lighted veranda, who appeared to be enjoying the dance
 music from the sumptuous ballroom inside. These spectators, who included Capt. Orne and his
 group of scientific confreres, joined the beach group before the horror progressed far; as did
 many more from the Inn. Certainly there was no lack of witnesses, confused though their stories
 be with fear and doubt of what they saw.  
 
   There is no exact record of the time the thing began, although a majority say
-that the fairly round moon was &ldquo;about a foot&rdquo; above the low-lying vapors of the horizon.
-They mention the moon because what they saw seemed subtly connected with it&mdash;a sort of stealthy,
+that the fairly round moon was  "about a foot " above the low-lying vapors of the horizon.
+They mention the moon because what they saw seemed subtly connected with it--a sort of stealthy,
 deliberate, menacing ripple which rolled in from the far skyline along the shimmering lane of
 reflected moonbeams, yet which seemed to subside before it reached the shore.  
 
@@ -129,7 +129,7 @@ the entire scene from one of wonder to one of horror, and dazed with fright the 
 of toilers and onlookers. Capt. Orne, turning to leave his post at the rope, found his hands
 held in their place with unaccountable strength; and in a moment he realized that he was unable
 to let go of the rope. His plight was instantly divined, and as each companion tested his own
-situation the same condition was encountered. The fact could not be denied&mdash;every struggler
+situation the same condition was encountered. The fact could not be denied--every struggler
 was irresistibly held in some mysterious bondage to the hempen line which was slowly, hideously,
 and relentlessly pulling them out to sea.  
 
@@ -166,7 +166,7 @@ path on the waters faded nearly out.
 the livid face of a backward-glancing victim gleaming pale in the darkness. Faster and faster
 gathered the clouds, till at length their angry rifts shot down sharp tongues of febrile flame.
 Thunders rolled, softly at first, yet soon increasing to a deafening, maddening intensity. Then
-came a culminating crash&mdash;a shock whose reverberations seemed to shake land and sea alike&mdash;and
+came a culminating crash--a shock whose reverberations seemed to shake land and sea alike--and
 on its heels a cloudburst whose drenching violence overpowered the darkened world as if the
 heavens themselves had opened to pour forth a vindictive torrent.  
 
@@ -179,8 +179,8 @@ words were uttered, but cannot be sure.
 others remained to watch the fast sinking victims as the line of bobbing heads showed above
 the mounting waves in the fitful lightning flashes. I recall thinking of those heads, and the
 bulging eyes they must contain; eyes that might well reflect all the fright, panic, and delirium
-of a malignant universe&mdash;all the sorrow, sin, and misery, blasted hopes and unfulfilled
-desires, fear, loathing and anguish of the ages since time&rsquo;s beginning; eyes alight with
+of a malignant universe--all the sorrow, sin, and misery, blasted hopes and unfulfilled
+desires, fear, loathing and anguish of the ages since time's beginning; eyes alight with
 all the soul-racking pain of eternally blazing infernos.  
 
   And as I gazed out beyond the heads, my fancy conjured up still another eye;

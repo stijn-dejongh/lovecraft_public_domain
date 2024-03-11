@@ -23,7 +23,7 @@ it called up glimpses of a far, forgotten first youth, when wonder and pleasure 
 mystery of days, and dawn and dusk alike strode forth prophetick to the eager sound of lutes
 and song; unclosing faery gates toward further and surprising marvels. But each night as he
 stood on that high marble terrace with the curious urns and carven rail and looked off over
-that hushed sunset city of beauty and unearthly immanence, he felt the bondage of dream&rsquo;s
+that hushed sunset city of beauty and unearthly immanence, he felt the bondage of dream's
 tyrannous gods; for in no wise could he leave that lofty spot, or descend the wide marmoreal
 flights flung endlessly down to where those streets of elder witchery lay outspread and beckoning.  
 
@@ -56,7 +56,7 @@ time began had ever crossed and recrossed the black impious gulfs to other dream
 of that three two had come back quite mad. There were, in such voyages, incalculable local dangers;
 as well as that shocking final peril which gibbers unmentionably outside the ordered universe,
 where no dreams reach; that last amorphous blight of nethermost confusion which blasphemes and
-bubbles at the centre of all infinity&mdash;the boundless daemon-sultan Azathoth, whose name
+bubbles at the centre of all infinity--the boundless daemon-sultan Azathoth, whose name
 no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond
 time amidst the muffled, maddening beating of vile drums and the thin, monotonous whine of accursed
 flutes; to which detestable pounding and piping dance slowly, awkwardly, and absurdly the gigantic
@@ -116,7 +116,7 @@ such peaks they dance reminiscently when the moon is above and the clouds beneat
   Then one very ancient zoog recalled a thing unheard-of by the others; and said
 that in Ulthar, beyond the river Skai, there still lingered the last copy of those inconceivably
 old Pnakotic Manuscripts made by waking men in forgotten boreal kingdoms and borne into the
-land of dreams when the hairy cannibal Gnophkehs overcame many-templed Olatho&euml; and slew
+land of dreams when the hairy cannibal Gnophkehs overcame many-templed Olathoë and slew
 all the heroes of the land of Lomar. Those manuscripts, he said, told much of the gods; and
 besides, in Ulthar there were men who had seen the signs of the gods, and even one old priest
 who had scaled a great mountain to behold them dancing by moonlight. He had failed, though his
@@ -159,33 +159,33 @@ roofs and overhanging upper stories and numberless chimney-pots and narrow hill 
 one can see old cobbles whenever the graceful cats afford space enough. Carter, the cats being
 somewhat dispersed by the half-seen zoogs, picked his way directly to the modest Temple of the
 Elder Ones where the priests and old records were said to be; and once within that venerable
-circular tower of ivied stone&mdash;which crowns Ulthar&rsquo;s highest hill&mdash;he sought
+circular tower of ivied stone--which crowns Ulthar's highest hill--he sought
 out the patriarch Atal, who had been up the forbidden peak Hatheg-Kla in the stony desert and
 had come down again alive.  
 
   Atal, seated on an ivory dais in a festooned shrine at the top of the temple,
 was fully three centuries old; but still very keen of mind and memory. From him Carter learned
-many things about the gods, but mainly that they are indeed only earth&rsquo;s gods, ruling
+many things about the gods, but mainly that they are indeed only earth's gods, ruling
 feebly our own dreamland and having no power or habitation elsewhere. They might, Atal said,
-heed a man&rsquo;s prayer if in good humour; but one must not think of climbing to their onyx
+heed a man's prayer if in good humour; but one must not think of climbing to their onyx
 stronghold atop Kadath in the cold waste. It was lucky that no man knew where Kadath towers,
-for the fruits of ascending it would be very grave. Atal&rsquo;s companion Barzai the Wise had
+for the fruits of ascending it would be very grave. Atal's companion Barzai the Wise had
 been drawn screaming into the sky for climbing merely the known peak of Hatheg-Kla. With unknown
-Kadath, if ever found, matters would be much worse; for although earth&rsquo;s gods may sometimes
+Kadath, if ever found, matters would be much worse; for although earth's gods may sometimes
 be surpassed by a wise mortal, they are protected by the Other Gods from Outside, whom it is
-better not to discuss. At least twice in the world&rsquo;s history the Other Gods set their
-seal upon earth&rsquo;s primal granite; once in antediluvian times, as guessed from a drawing
+better not to discuss. At least twice in the world's history the Other Gods set their
+seal upon earth's primal granite; once in antediluvian times, as guessed from a drawing
 in those parts of the Pnakotic Manuscripts too ancient to be read, and once on Hatheg-Kla when
-Barzai the Wise tried to see earth&rsquo;s gods dancing by moonlight. So, Atal said, it would
+Barzai the Wise tried to see earth's gods dancing by moonlight. So, Atal said, it would
 be much better to let all gods alone except in tactful prayers.  
 
-  Carter, though disappointed by Atal&rsquo;s discouraging advice and by the
+  Carter, though disappointed by Atal's discouraging advice and by the
 meagre help to be found in the Pnakotic Manuscripts and the Seven Cryptical Books of Hsan, did
 not wholly despair. First he questioned the old priest about that marvellous sunset city seen
-from the railed terrace, thinking that perhaps he might find it without the gods&rsquo; aid;
+from the railed terrace, thinking that perhaps he might find it without the gods' aid;
 but Atal could tell him nothing. Probably, Atal said, the place belonged to his especial dream-world
 and not to the general land of vision that many know; and conceivably it might be on another
-planet. In that case earth&rsquo;s gods could not guide him if they would. But this was not
+planet. In that case earth's gods could not guide him if they would. But this was not
 likely, since the stopping of the dreams shewed pretty clearly that it was something the Great
 Ones wished to hide from him.  
 
@@ -193,7 +193,7 @@ Ones wished to hide from him.
 of the moon-wine which the zoogs had given him that the old man became irresponsibly talkative.
 Robbed of his reserve, poor Atal babbled freely of forbidden things; telling of a great image
 reported by travellers as carved on the solid rock of the mountain Ngranek, on the isle of Oriab
-in the Southern Sea, and hinting that it may be a likeness which earth&rsquo;s gods once wrought
+in the Southern Sea, and hinting that it may be a likeness which earth's gods once wrought
 of their own features in the days when they danced by moonlight on that mountain. And he hiccoughed
 likewise that the features of that image are very strange, so that one might easily recognise
 them, and that they are sure signs of the authentic race of the gods.  
@@ -231,7 +231,7 @@ laid him gently on a couch of inlaid ebony and gathered his long beard decorousl
 As he turned to go, he observed that no suppressed fluttering followed him, and wondered why
 the zoogs had become so lax in their curious pursuit. Then he noticed all the sleek complacent
 cats of Ulthar licking their chops with unusual gusto, and recalled the spitting and caterwauling
-he had faintly heard in lower parts of the temple while absorbed in the old priest&rsquo;s conversation.
+he had faintly heard in lower parts of the temple while absorbed in the old priest's conversation.
 He recalled, too, the evilly hungry way in which an especially impudent young zoog had regarded
 a small black kitten in the cobbled street outside. And because he loved nothing on earth more
 than small black kittens, he stooped and petted the sleek cats of Ulthar as they licked their
@@ -247,33 +247,33 @@ yellow lights floated up one by one from old lattice windows. And sweet bells pe
 temple tower above, and the first star winked softly above the meadows across the Skai. With
 the night came song, and Carter nodded as the lutanists praised ancient days from beyond the
 filigreed balconies and tessellated courts of simple Ulthar. And there might have been sweetness
-even in the voices of Ulthar&rsquo;s many cats, but that they were mostly heavy and silent from
+even in the voices of Ulthar's many cats, but that they were mostly heavy and silent from
 strange feasting. Some of them stole off to those cryptical realms which are known only to cats
-and which villagers say are on the moon&rsquo;s dark side, whither the cats leap from tall housetops,
-but one small black kitten crept upstairs and sprang in Carter&rsquo;s lap to purr and play,
+and which villagers say are on the moon's dark side, whither the cats leap from tall housetops,
+but one small black kitten crept upstairs and sprang in Carter's lap to purr and play,
 and curled up near his feet when he lay down at last on the little couch whose pillows were
 stuffed with fragrant, drowsy herbs.  
 
   In the morning Carter joined a caravan of merchants bound for Dylath-Leen with
-the spun wool of Ulthar and the cabbages of Ulthar&rsquo;s busy farms. And for six days they
+the spun wool of Ulthar and the cabbages of Ulthar's busy farms. And for six days they
 rode with tinkling bells on the smooth road beside the Skai; stopping some nights at the inns
 of little quaint fishing towns, and on other nights camping under the stars while snatches of
-boatmen&rsquo;s songs came from the placid river. The country was very beautiful, with green
+boatmen's songs came from the placid river. The country was very beautiful, with green
 hedges and groves and picturesque peaked cottages and octagonal windmills.  
 
   On the seventh day a blur of smoke arose on the horizon ahead, and then the
 tall black towers of Dylath-Leen, which is built mostly of basalt. Dylath-Leen with its thin
-angular towers looks in the distance like a bit of the Giants&rsquo; Causeway, and its streets
+angular towers looks in the distance like a bit of the Giants' Causeway, and its streets
 are dark and uninviting. There are many dismal sea-taverns near the myriad wharves, and all
 the town is thronged with the strange seamen of every land on earth and of a few which are said
 to be not on earth. Carter questioned the oddly robed men of that city about the peak of Ngranek
 on the isle of Oriab, and found that they knew of it well. Ships came from Baharna on that island,
-one being due to return thither in only a month, and Ngranek is but two days&rsquo; zebra-ride
+one being due to return thither in only a month, and Ngranek is but two days' zebra-ride
 from that port. But few had seen the stone face of the god, because it is on a very difficult
 side of Ngranek, which overlooks only sheer crags and a valley of sinister lava. Once the gods
 were angered with men on that side, and spoke of the matter to the Other Gods.  
 
-  It was hard to get this information from the traders and sailors in Dylath-Leen&rsquo;s
+  It was hard to get this information from the traders and sailors in Dylath-Leen's
 sea-taverns, because they mostly preferred to whisper of the black galleys. One of them was
 due in a week with rubies from its unknown shore, and the townsfolk dreaded to see it dock.
 The mouths of the men who came from it to trade were too wide, and the way their turbans were
@@ -289,10 +289,10 @@ from the butchers and grocers, but only gold and the fat black men of Parg whom 
 by the pound. And the odours from those galleys which the south wind blew in from the wharves
 are not to be described. Only by constantly smoking strong thagweed could even the hardiest denizen
 of the old sea-taverns bear them. Dylath-Leen would never have tolerated the black galleys had
-such rubies been obtainable elsewhere, but no mine in all earth&rsquo;s dreamland was known
+such rubies been obtainable elsewhere, but no mine in all earth's dreamland was known
 to produce their like.  
 
-  Of these things Dylath-Leen&rsquo;s cosmopolitan folk chiefly gossiped whilst
+  Of these things Dylath-Leen's cosmopolitan folk chiefly gossiped whilst
 Carter waited patiently for the ship from Baharna, which might bear him to the isle whereon
 carven Ngranek towers lofty and barren. Meanwhile he did not fail to seek through the haunts
 of far travellers for any tales they might have concerning Kadath in the cold waste or a marvellous
@@ -312,15 +312,15 @@ the town. Uneasiness rustled through the taverns along that waterfront, and afte
 dark wide-mouthed merchants with humped turbans and short feet clumped stealthily ashore to
 seek the bazaars of the jewellers. Carter observed them closely, and disliked them more the
 longer he looked at them. Then he saw them drive the stout black men of Parg up the gangplank
-grunting and sweating into that singular galley, and wondered in what lands&mdash;or if in any
-lands at all&mdash;those fat pathetic creatures might be destined to serve.  
+grunting and sweating into that singular galley, and wondered in what lands--or if in any
+lands at all--those fat pathetic creatures might be destined to serve.  
 
-  And on the third evening of that galley&rsquo;s stay one of the uncomfortable
+  And on the third evening of that galley's stay one of the uncomfortable
 merchants spoke to him, smirking sinfully and hinting of what he had heard in the taverns of
-Carter&rsquo;s quest. He appeared to have knowledge too secret for public telling; and though
+Carter's quest. He appeared to have knowledge too secret for public telling; and though
 the sound of his voice was unbearably hateful, Carter felt that the lore of so far a traveller
 must not be overlooked. He bade him therefore be his own guest in locked chambers above, and
-drew out the last of the zoogs&rsquo; moon-wine to loosen his tongue. The strange merchant drank
+drew out the last of the zoogs' moon-wine to loosen his tongue. The strange merchant drank
 heavily, but smirked unchanged by the draught. Then he drew forth a curious bottle with wine
 of his own, and Carter saw that the bottle was a single hollowed ruby, grotesquely carved in
 patterns too fabulous to be comprehended. He offered his wine to his host, and though Carter
@@ -335,7 +335,7 @@ on the deck of a ship, with the marvellous coasts of the Southern Sea flying by 
 swiftness. He was not chained, but three of the dark sardonic merchants stood grinning nearby,
 and the sight of those humps in their turbans made him almost as faint as did the stench that
 filtered up through the sinister hatches. He saw slip past him the glorious lands and cities
-of which a fellow-dreamer of earth&mdash;a lighthouse-keeper in ancient Kingsport&mdash;had
+of which a fellow-dreamer of earth--a lighthouse-keeper in ancient Kingsport--had
 often discoursed in the old days, and recognised the templed terraces of Zar, abode of forgotten
 dreams; the spires of infamous Thalarion, that daemon-city of a thousand wonders where the eidolon
 Lathi reigns; the charnal gardens of Xura, land of pleasures unattained, and the twin headlands
@@ -346,7 +346,7 @@ land of fancy.
 by the abnormal strokes of those unseen rowers below. And before the day was done Carter saw
 that the steersman could have no other goal than the Basalt Pillars of the West, beyond which
 simple folk say splendid Cathuria lies, but which wise dreamers well know are the gates of a
-monstrous cataract wherein the oceans of earth&rsquo;s dreamland drop wholly to abysmal nothingness
+monstrous cataract wherein the oceans of earth's dreamland drop wholly to abysmal nothingness
 and shoot through the empty spaces toward other worlds and other stars and the awful voids outside
 the ordered universe where the daemon-sultan Azathoth gnaws hungrily in chaos amid pounding
 and piping and the hellish dancing of the Other Gods, blind, voiceless, tenebrous, and mindless,
@@ -403,7 +403,7 @@ steadily refused to conjecture.
 there appeared in the queer landscape certain signs of life, and Carter saw many low, broad,
 round cottages in fields of grotesque whitish fungi. He noticed that these cottages had no windows,
 and thought that their shape suggested the huts of Esquimaux. Then he glimpsed the oily waves
-of a sluggish sea, and knew that the voyage was once more to be by water&mdash;or at least through
+of a sluggish sea, and knew that the voyage was once more to be by water--or at least through
 some liquid. The galley struck the surface with a peculiar sound, and the odd elastic way the
 waves received it was very perplexing to Carter. They now slid along at great speed, once passing
 and hailing another galley of kindred form, but generally seeing nothing but that curious sea
@@ -421,15 +421,15 @@ brown zoogs ferment their peculiar wine.
   Carter could now distinguish moving figures on the noisome wharves ahead, and
 the better he saw them the worse he began to fear and detest them. For they were not men at
 all, or even approximately men, but great greyish-white slippery things which could expand and
-contract at will, and whose principal shape&mdash;though it often changed&mdash;was that of
+contract at will, and whose principal shape--though it often changed--was that of
 a sort of toad without any eyes, but with a curiously vibrating mass of short pink tentacles
 on the end of its blunt, vague snout. These objects were waddling busily about the wharves,
 moving bales and crates and boxes with preternatural strength, and now and then hopping on or
 off some anchored galley with long oars in their fore paws. And now and then one would appear
 driving a herd of clumping slaves, which indeed were approximate human beings with wide mouths
 like those merchants who traded in Dylath-Leen; only these herds, being without turbans or shoes
-or clothing, did not seem so very human after all. Some of these slaves&mdash;the fatter ones,
-whom a sort of overseer would pinch experimentally&mdash;were unloaded from ships and nailed
+or clothing, did not seem so very human after all. Some of these slaves--the fatter ones,
+whom a sort of overseer would pinch experimentally--were unloaded from ships and nailed
 in crates which workers pushed into low warehouses or loaded on great lumbering vans.  
 
   Once a van was hitched up and driven off, and the fabulous thing which drew
@@ -459,7 +459,7 @@ was circular, and about twenty feet across.
 
   From then on time ceased to exist. At intervals food was pushed in, but Carter
 would not touch it. What his fate would be, he did not know; but he felt that he was held for
-the coming of that frightful soul and messenger of infinity&rsquo;s Other Gods, the crawling
+the coming of that frightful soul and messenger of infinity's Other Gods, the crawling
 chaos Nyarlathotep. Finally, after an unguessed span of hours or days, the great stone door
 swung wide again and Carter was shoved down the stairs and out into the red-litten streets of
 that fearsome city. It was night on the moon, and all through the town were stationed slaves
@@ -482,7 +482,7 @@ from the higher hills, and from all the jagged peaks around it was caught up and
 swelling pandaemoniac chorus. It was the midnight yell of the cat, and Carter knew at last that
 the old village folk were right when they made low guesses about the cryptical realms which
 are known only to cats, and to which the elders among cats repair by stealth nocturnally, springing
-from high housetops. Verily, it is to the moon&rsquo;s dark side that they go to leap and gambol
+from high housetops. Verily, it is to the moon's dark side that they go to leap and gambol
 on the hills and converse with ancient shadows, and here amidst that column of foetid things
 Carter heard their homely, friendly cry, and thought of the steep roofs and warm hearths and
 little lighted windows of home.  
@@ -529,9 +529,9 @@ now assembled, for he had seen the evil procession from a far hill and recognise
 as a sworn friend of his kind on earth and in the land of dream.  
 
   A yowl now came from a farther peak, and the old leader paused abruptly in
-his conversation. It was one of the army&rsquo;s outposts, stationed on the highest of the mountains
-to watch the one foe which earth&rsquo;s cats fear; the very large and peculiar cats from Saturn,
-who for some reason have not been oblivious of the charm of our moon&rsquo;s dark side. They
+his conversation. It was one of the army's outposts, stationed on the highest of the mountains
+to watch the one foe which earth's cats fear; the very large and peculiar cats from Saturn,
+who for some reason have not been oblivious of the charm of our moon's dark side. They
 are leagued by treaty with the evil toad-things, and are notoriously hostile to our earthly
 cats; so that at this juncture a meeting would have been a somewhat grave matter.  
 
@@ -563,9 +563,9 @@ fault.
 
   In about a week the desiderate ship put in by the black mole and tall lighthouse,
 and Carter was glad to see that she was a barque of wholesome men, with painted sides and yellow
-lateen sails and a grey captain in silken robes. Her cargo was the fragrant resin of Oriab&rsquo;s
+lateen sails and a grey captain in silken robes. Her cargo was the fragrant resin of Oriab's
 inner groves, and the delicate pottery baked by the artists of Baharna, and the strange little
-figures carved from Ngranek&rsquo;s ancient lava. For this they were paid in the wool of Ulthar
+figures carved from Ngranek's ancient lava. For this they were paid in the wool of Ulthar
 and the iridescent textiles of Hatheg and the ivory that the black men carve across the river
 in Parg. Carter made arrangements with the captain to go to Baharna and was told that the voyage
 would take ten days. And during his week of waiting he talked much with that captain of Ngranek,
@@ -608,7 +608,7 @@ the greater part; and such was its lonely and impressive place on that far hill 
 have been a temple or monastery. Some phosphorescent fish inside it gave the small round windows
 an aspect of shining, and Carter did not blame the sailors much for their fears. Then by the
 watery moonlight he noticed an odd high monolith in the middle of that central court, and saw
-that something was tied to it. And when after getting a telescope from the captain&rsquo;s cabin
+that something was tied to it. And when after getting a telescope from the captain's cabin
 he saw that that bound thing was a sailor in the silk robes of Oriab, head downward and without
 any eyes, he was glad that a rising breeze soon took the ship ahead to more healthy parts of
 the sea.  
@@ -622,14 +622,14 @@ of steps that are frequently arched over by buildings and the bridges between bu
 is a great canal which goes under the whole city in a tunnel with granite gates and leads to
 the inland lake of Yath, on whose farther shore are the vast clay-brick ruins of a primal city
 whose name is not remembered. As the ship drew into the harbour at evening the twin beacons
-Thon and Thal gleamed a welcome, and in all the million windows of Baharna&rsquo;s terraces
+Thon and Thal gleamed a welcome, and in all the million windows of Baharna's terraces
 mellow lights peeped out quietly and gradually as the stars peep out overhead in the dusk, till
 that steep and climbing seaport became a glittering constellation hung between the stars of
 heaven and the reflections of those stars in the still harbour.  
 
   The captain, after landing, made Carter a guest in his own small house on the
 shore of Yath where the rear of the town slopes down to it; and his wife and servants brought
-strange toothsome foods for the traveller&rsquo;s delight. And in the days after that Carter
+strange toothsome foods for the traveller's delight. And in the days after that Carter
 asked for rumours and legends of Ngranek in all the taverns and public places where lava-gatherers
 and image-makers meet, but could find no one who had been up the higher slopes or seen the carven
 face. Ngranek was a hard mountain with only an accursed valley behind it, and besides, one could
@@ -637,12 +637,12 @@ never depend on the certainty that night-gaunts are altogether fabulous.
 
   When the captain sailed back to Dylath-Leen Carter took quarters in an ancient
 tavern opening on an alley of steps in the original part of the town, which is built of brick
-and resembles the ruins of Yath&rsquo;s farther shore. Here he laid his plans for the ascent
+and resembles the ruins of Yath's farther shore. Here he laid his plans for the ascent
 of Ngranek, and correlated all that he had learned from the lava-gatherers about the roads thither.
 The keeper of the tavern was a very old man, and had heard so many legends that he was a great
 help. He even took Carter to an upper room in that ancient house and shewed him a crude picture
 which a traveller had scratched on the clay wall in the olden days when men were bolder and
-less reluctant to visit Ngranek&rsquo;s higher slopes. The old tavern-keeper&rsquo;s great-grandfather
+less reluctant to visit Ngranek's higher slopes. The old tavern-keeper's great-grandfather
 had heard from his great-grandfather that the traveller who scratched that picture had climbed
 Ngranek and seen the carven face, here drawing it for others to behold; but Carter had very
 great doubts, since the large rough features on the wall were hasty and careless, and wholly
@@ -650,10 +650,10 @@ overshadowed by a crowd of little companion shapes in the worst possible taste, 
 wings and claws and curling tails.  
 
   At last, having gained all the information he was likely to gain in the taverns
-and public places of Baharna, Carter hired a zebra and set out one morning on the road by Yath&rsquo;s
+and public places of Baharna, Carter hired a zebra and set out one morning on the road by Yath's
 shore for those inland parts wherein towers stony Ngranek. On his right were rolling hills and
 pleasant orchards and neat little stone farmhouses, and he was much reminded of those fertile
-fields that flank the Skai. By evening he was near the nameless ancient ruins on Yath&rsquo;s
+fields that flank the Skai. By evening he was near the nameless ancient ruins on Yath's
 farther shore, and though old lava-gatherers had warned him not to camp there at night, he tethered
 his zebra to a curious pillar before a crumbling wall and laid his blanket in a sheltered corner
 beneath some carvings whose meaning none could decipher. Around him he wrapped another blanket,
@@ -678,7 +678,7 @@ down into darkness farther than he could peer.
 saw only the huts of charcoal-burners and the camps of those who gathered resin from the groves.
 The whole air was fragrant with balsam, and all the magah birds sang blithely as they flashed
 their seven colours in the sun. Near sunset he came on a new camp of lava-gatherers returning
-with laden sacks from Ngranek&rsquo;s lower slopes; and here he also camped, listening to the
+with laden sacks from Ngranek's lower slopes; and here he also camped, listening to the
 songs and tales of the men, and overhearing what they whispered about a companion they had lost.
 He had climbed high to reach a mass of fine lava above him, and at nightfall did not return
 to his fellows. When they looked for him the next day they found only his turban, nor was there
@@ -696,14 +696,14 @@ them heartily he was in no wise dissuaded. For still did he feel that he must fi
 on unknown Kadath, and win from them a way to that haunting and marvellous city in the sunset.
 By noon, after a long uphill ride, he came upon some abandoned brick villages of the hill-people
 who had once dwelt thus close to Ngranek and carved images from its smooth lava. Here they had
-dwelt till the days of the old tavern-keeper&rsquo;s grandfather, but about that time they felt
-that their presence was disliked. Their homes had crept even up the mountain&rsquo;s slope,
+dwelt till the days of the old tavern-keeper's grandfather, but about that time they felt
+that their presence was disliked. Their homes had crept even up the mountain's slope,
 and the higher they built the more people they would miss when the sun rose. At last they decided
 it would be better to leave altogether, since things were sometimes glimpsed in the darkness
 which no one could interpret favourably; so in the end all of them went down to the sea and
 dwelt in Baharna, inhabiting a very old quarter and teaching their sons the old art of image-making
 which to this day they carry on. It was from these children of the exiled hill-people that Carter
-had heard the best tales about Ngranek when searching through Baharna&rsquo;s ancient taverns.  
+had heard the best tales about Ngranek when searching through Baharna's ancient taverns.  
 
   All this time the great gaunt side of Ngranek was looming up higher and higher
 as Carter approached it. There were sparse trees on the lower slope, and feeble shrubs above
@@ -714,12 +714,12 @@ littered slopes and ledges. Ninety aeons ago, before even the gods had danced up
 peak, that mountain had spoken with fire and roared with the voices of the inner thunders. Now
 it towered all silent and sinister, bearing on the hidden side that secret titan image whereof
 rumour told. And there were caves in that mountain, which might be empty and alone with elder
-darkness, or might&mdash;if legend spoke truly&mdash;hold horrors of a form not to be surmised.  
+darkness, or might--if legend spoke truly--hold horrors of a form not to be surmised.  
 
   The ground sloped upward to the foot of Ngranek, thinly covered with scrub
 oaks and ash trees, and strown with bits of rock, lava, and ancient cinder. There were the charred
 embers of many camps, where the lava-gatherers were wont to stop, and several rude altars which
-they had built either to propitiate the Great Ones or to ward off what they dreamed of in Ngranek&rsquo;s
+they had built either to propitiate the Great Ones or to ward off what they dreamed of in Ngranek's
 high passes and labyrinthine caves. At evening Carter reached the farthermost pile of embers
 and camped for the night, tethering his zebra to a sapling and wrapping himself well in his
 blanket before going to sleep. And all through the night a voonith howled distantly from the
@@ -749,7 +749,7 @@ shewn by hand-holds and foot-holds hewn where they were needed, and by little qu
 where some choice vein or stream of lava had been found. In one place a narrow ledge had been
 chopped artificially to an especially rich deposit far to the right of the main line of ascent.
 Once or twice Carter dared to look around, and was almost stunned by the spread of landscape
-below. All the island betwixt him and the coast lay open to his sight, with Baharna&rsquo;s
+below. All the island betwixt him and the coast lay open to his sight, with Baharna's
 stone terraces and the smoke of its chimneys mystical in the distance. And beyond that the illimitable
 Southern Sea with all its curious secrets.  
 
@@ -757,17 +757,17 @@ Southern Sea with all its curious secrets.
 and carven side was still hidden. Carter now saw a ledge running upward and to the left which
 seemed to head the way he wished, and this course he took in the hope that it might prove continuous.
 After ten minutes he saw it was indeed no cul-de-sac, but that it led steeply on in an arc which
-would, unless suddenly interrupted or deflected, bring him after a few hours&rsquo; climbing
+would, unless suddenly interrupted or deflected, bring him after a few hours' climbing
 to that unknown southern slope overlooking the desolate crags and the accursed valley of lava.
 As new country came into view below him he saw that it was bleaker and wilder than those seaward
-lands he had traversed. The mountain&rsquo;s side, too, was somewhat different; being here pierced
+lands he had traversed. The mountain's side, too, was somewhat different; being here pierced
 by curious cracks and caves not found on the straighter route he had left. Some of these were
 above him and some beneath him, all opening on sheerly perpendicular cliffs and wholly unreachable
 by the feet of man. The air was very cold now, but so hard was the climbing that he did not
 mind it. Only the increasing rarity bothered him, and he thought that perhaps it was this which
 had turned the heads of other travellers and excited those absurd tales of night-gaunts whereby
 they explained the loss of such climbers as fell from these perilous paths. He was not much
-impressed by travellers&rsquo; tales, but had a good curved scimitar in case of any trouble.
+impressed by travellers' tales, but had a good curved scimitar in case of any trouble.
 All lesser thoughts were lost in the wish to see that carven face which might set him on the
 track of the gods atop unknown Kadath.  
 
@@ -780,15 +780,15 @@ island. Black caverns and odd crevices were still numerous on the sheer vertical
 none of them was accessible to a climber. There now loomed aloft a great beetling mass which
 hampered the upward view, and Carter was for a moment shaken with doubt lest it prove impassable.
 Poised in windy insecurity miles above earth, with only space and death on one side and only
-slippery walls of rock on the other, he knew for a moment the fear that makes men shun Ngranek&rsquo;s
+slippery walls of rock on the other, he knew for a moment the fear that makes men shun Ngranek's
 hidden side. He could not turn round, yet the sun was already low. If there were no way aloft,
 the night would find him crouching there still, and the dawn would not find him at all.  
 
   But there was a way, and he saw it in due season. Only a very expert dreamer
 could have used those imperceptible foot-holds, yet to Carter they were sufficient. Surmounting
 now the outward-hanging rock, he found the slope above much easier than that below, since a
-great glacier&rsquo;s melting had left a generous space with loam and ledges. To the left a
-precipice dropped straight from unknown heights to unknown depths, with a cave&rsquo;s dark
+great glacier's melting had left a generous space with loam and ledges. To the left a
+precipice dropped straight from unknown heights to unknown depths, with a cave's dark
 mouth just out of reach above him. Elsewhere, however, the mountain slanted back strongly, and
 even gave him space to lean and rest.  
 
@@ -797,7 +797,7 @@ see what glittering pinnacles might be shining in that late ruddy sunlight. Sure
 was the snow uncounted thousands of feet above, and below it a great beetling crag like that
 he had just climbed; hanging there forever in bold outline, black against the white of the frozen
 peak. And when he saw that crag he gasped and cried out aloud, and clutched at the jagged rock
-in awe; for the titan bulge had not stayed as earth&rsquo;s dawn had shaped it, but gleamed
+in awe; for the titan bulge had not stayed as earth's dawn had shaped it, but gleamed
 red and stupendous in the sunset with the carved and polished features of a god.  
 
   Stern and terrible shone that face that the sunset lit with fire. How vast
@@ -807,13 +807,13 @@ upon the seeker. Rumour had said it was strange and not to be mistaken, and Cart
 it was indeed so; for those long narrow eyes and long-lobed ears, and that thin nose and pointed
 chin, all spoke of a race that is not of men but of gods. He clung overawed in that lofty and
 perilous eyrie, even though it was this which he had expected and come to find; for there is
-in a god&rsquo;s face more of marvel than prediction can tell, and when that face is vaster
+in a god's face more of marvel than prediction can tell, and when that face is vaster
 than a great temple and seen looking down at sunset in the cryptic silences of that upper world
 from whose dark lava it was divinely hewn of old, the marvel is so strong that none may escape
 it.  
 
   Here, too, was the added marvel of recognition; for although he had planned
-to search all dreamland over for those whose likeness to this face might mark them as the gods&rsquo;
+to search all dreamland over for those whose likeness to this face might mark them as the gods'
 children, he now knew that he need not do so. Certainly, the great face carven on that mountain
 was of no strange sort, but the kin of such as he had seen often in the taverns of the seaport
 Celepha&iuml;s which lies in Ooth-Nargai beyond the Tanarian Hills and is ruled over by that
@@ -858,7 +858,7 @@ of shrieking and daemonic madness. He screamed again and again, but whenever he 
 paws tickled him with greater subtlety. Then he saw a sort of grey phosphorescence about, and
 guessed they were coming even to that inner world of subterrene horror of which dim legends
 tell, and which is litten only by the pale death-fire wherewith reeks the ghoulish air and the
-primal mists of the pits at earth&rsquo;s core.  
+primal mists of the pits at earth's core.  
 
   At last far below him he saw faint lines of grey and ominous pinnacles
 which he knew must be the fabled Peaks of Thok. Awful and sinister they stand in the haunted
@@ -893,12 +893,12 @@ about him. Even in this fearsome place he had a plan and an objective, for whisp
 and its approaches were not unknown to one with whom he had talked much in the old days. In
 brief, it seemed fairly likely that this was the spot into which all the ghouls of the waking
 world cast the refuse of their feastings; and that if he but had good luck he might stumble
-upon that mighty crag taller even than Thok&rsquo;s peaks which marks the edge of their domain.
+upon that mighty crag taller even than Thok's peaks which marks the edge of their domain.
 Showers of bones would tell him where to look, and once found he could call to a ghoul to let
 down a ladder; for strange to say, he had a very singular link with these terrible creatures.  
 
-  A man he had known in Boston&mdash;a painter of strange pictures with a secret
-studio in an ancient and unhallowed alley near a graveyard&mdash;had actually made friends with
+  A man he had known in Boston--a painter of strange pictures with a secret
+studio in an ancient and unhallowed alley near a graveyard--had actually made friends with
 the ghouls and had taught him to understand the simpler part of their disgusting meeping and
 glibbering. This man had vanished at last, and Carter was not sure but that he might find him
 now, and use for the first time in dreamland that far-away English of his dim waking life. In
@@ -907,7 +907,7 @@ to meet a ghoul, which one can see, than a bhole, which one cannot see.
 
   So Carter walked in the dark, and ran when he thought he heard something among
 the bones underfoot. Once he bumped into a stony slope, and knew it must be the base of one
-of Thok&rsquo;s peaks. Then at last he heard a monstrous rattling and clatter which reached
+of Thok's peaks. Then at last he heard a monstrous rattling and clatter which reached
 far up in the air, and became sure he had come nigh the crag of the ghouls. He was not sure
 he could be heard from this valley miles below, but realised that the inner world has strange
 laws. As he pondered he was struck by a flying bone so heavy that it must have been a skull,
@@ -931,7 +931,7 @@ climbed desperately to escape the unendurable nuzzling of that loathsome and ove
 form no man might see.  
 
   For hours he climbed with aching arms and blistered hands, seeing again the
-grey death-fire and Thok&rsquo;s uncomfortable pinnacles. At last he discerned above him the
+grey death-fire and Thok's uncomfortable pinnacles. At last he discerned above him the
 projecting edge of the great crag of the ghouls, whose vertical side he could not glimpse; and
 hours later he saw a curious face peering over it as a gargoyle peers over a parapet of Notre
 Dame. This almost made him lose his hold through faintness, but a moment later he was himself
@@ -945,11 +945,11 @@ circles of ghouls who gnawed and watched curiously.
 boulders and the entrances of burrows. The ghouls were in general respectful, even if one did
 attempt to pinch him while several others eyed his leanness speculatively. Through patient glibbering
 he made inquiries regarding his vanished friend, and found he had become a ghoul of some prominence
-in abysses nearer the waking world. A greenish elderly ghoul offered to conduct him to Pickman&rsquo;s
+in abysses nearer the waking world. A greenish elderly ghoul offered to conduct him to Pickman's
 present habitation, so despite a natural loathing he followed the creature into a capacious
 burrow and crawled after him for hours in the blackness of rank mould. They emerged on a dim
-plain strown with singular relics of earth&mdash;old gravestones, broken urns, and grotesque
-fragments of monuments&mdash;and Carter realised with some emotion that he was probably nearer
+plain strown with singular relics of earth--old gravestones, broken urns, and grotesque
+fragments of monuments--and Carter realised with some emotion that he was probably nearer
 the waking world than at any other time since he had gone down the seven hundred steps from
 the cavern of flame to the Gate of Deeper Slumber.  
 
@@ -966,7 +966,7 @@ wood, including the terrible kingdom of the gugs.
 
   The gugs, hairy and gigantic, once reared stone circles in that wood and made
 strange sacrifices to the Other Gods and the crawling chaos Nyarlathotep, until one night an
-abomination of theirs reached the ears of earth&rsquo;s gods and they were banished to caverns
+abomination of theirs reached the ears of earth's gods and they were banished to caverns
 below. Only a great trap-door of stone with an iron ring connects the abyss of the earth-ghouls
 with the enchanted wood, and this the gugs are afraid to open because of a curse. That a mortal
 dreamer could traverse their cavern realm and leave by that door is inconceivable; for mortal
@@ -986,7 +986,7 @@ north who traded onyx in Celepha&iuml;s, and who, being the sons of gods, must p
 to the cold waste and Kadath where the Great Ones dwell.  
 
   After much persuasion the ghoul consented to guide his guest inside the great
-wall of the gugs&rsquo; kingdom. There was one chance that Carter might be able to steal through
+wall of the gugs' kingdom. There was one chance that Carter might be able to steal through
 that twilight realm of circular stone towers at an hour when the giants would be all gorged
 and snoring indoors, and reach the central tower with the sign of Koth upon it, which has the
 stairs leading up to that stone trap-door in the enchanted wood. Pickman even consented to lend
@@ -997,8 +997,8 @@ there.
   He also advised Carter to disguise as a ghoul himself; shaving the beard he
 had allowed to grow (for ghouls have none), wallowing naked in the mould to get the correct
 surface, and loping in the usual slumping way, with his clothing carried in a bundle as if it
-were a choice morsel from a tomb. They would reach the city of the gugs&mdash;which is coterminous
-with the whole kingdom&mdash;through the proper burrows, emerging in a cemetery not far from
+were a choice morsel from a tomb. They would reach the city of the gugs--which is coterminous
+with the whole kingdom--through the proper burrows, emerging in a cemetery not far from
 the stair-containing Tower of Koth. They must beware, however, of a large cave near the cemetery;
 for this is the mouth of the vaults of Zin, and the vindictive ghasts are always on watch there
 murderously for those denizens of the upper abyss who hunt and prey on them. The ghasts try
@@ -1023,8 +1023,8 @@ understood the occasional titan bones he had felt beneath him in the vale of Pna
 at whose base an immense and forbidding cavern yawned. This the ghouls told Carter to avoid
 as much as possible, since it was the entrance to the unhallowed vaults of Zin where gugs hunt
 ghasts in the darkness. And truly, that warning was soon well justified; for the moment a ghoul
-began to creep toward the towers to see if the hour of the gugs&rsquo; resting had been rightly
-timed, there glowed in the gloom of that great cavern&rsquo;s mouth first one pair of yellowish-red
+began to creep toward the towers to see if the hour of the gugs' resting had been rightly
+timed, there glowed in the gloom of that great cavern's mouth first one pair of yellowish-red
 eyes and then another, implying that the gugs were one sentry less, and that ghasts have indeed
 an excellent sharpness of smell. So the ghoul returned to the burrow and motioned his companions
 to be silent. It was best to leave the ghasts to their own devices, and there was a possibility
@@ -1082,7 +1082,7 @@ impossible by the monstrous size of the steps, which were fashioned for gugs, an
 nearly a yard high. Of their number Carter could form no just estimate, for he soon became so
 worn out that the tireless and elastic ghouls were forced to aid him. All through the endless
 climb there lurked the peril of detection and pursuit; for though no gug dares lift the stone
-door to the forest because of the Great Ones&rsquo; curse, there are no such restraints concerning
+door to the forest because of the Great Ones' curse, there are no such restraints concerning
 the tower and the steps, and escaped ghasts are often chased even to the very top. So sharp
 are the ears of gugs, that the bare feet and hands of the climbers might readily be heard when
 the city awoke; and it would of course take but little time for the striding giants, accustomed
@@ -1110,7 +1110,7 @@ the step just above the ghouls, they wielded the ancient gravestone with prodigi
 that there was only a wheeze and a choking before the victim collapsed in a noxious heap. There
 seemed to be only this one animal, and after a moment of listening the ghouls tapped Carter
 as a signal to proceed again. As before, they were obliged to aid him; and he was glad to leave
-that place of carnage where the ghast&rsquo;s uncouth remains sprawled invisible in the blackness.  
+that place of carnage where the ghast's uncouth remains sprawled invisible in the blackness.  
 
   At last the ghouls brought their companion to a halt; and feeling above him,
 Carter realised that the great stone trap-door was reached at last. To open so vast a thing
@@ -1129,15 +1129,15 @@ a mighty heaving; but progress was very slow, and they had of course to return t
 position every time they failed to turn the slab and prop the portal open.  
 
   Suddenly their desperation was magnified a thousandfold by a sound on the steps
-below them. It was only the thumping and rattling of the slain ghast&rsquo;s hooved body as
-it rolled down to lower levels; but of all the possible causes of that body&rsquo;s dislodgment
+below them. It was only the thumping and rattling of the slain ghast's hooved body as
+it rolled down to lower levels; but of all the possible causes of that body's dislodgment
 and rolling, none was in the least reassuring. Therefore, knowing the ways of gugs, the ghouls
 set to with something of a frenzy; and in a surprisingly short time had the door so high that
 they were able to hold it still whilst Carter turned the slab and left a generous opening. They
 now helped Carter through, letting him climb up to their rubbery shoulders and later guiding
 his feet as he clutched at the blessed soil of the upper dreamland outside. Another second and
 they were through themselves, knocking away the gravestone and closing the great trap-door while
-a panting became audible beneath. Because of the Great Ones&rsquo; curse no gug might ever emerge
+a panting became audible beneath. Because of the Great Ones' curse no gug might ever emerge
 from that portal, so with a deep relief and sense of repose Carter lay quietly on the thick
 grotesque fungi of the enchanted wood while his guides squatted near in the manner that ghouls
 rest.  
@@ -1165,7 +1165,7 @@ route toward Celepha&iuml;s, in Ooth-Nargai beyond the Tanarian Hills. And as he
 of the zebra he had left tethered to an ash tree on Ngranek in far-away Oriab so many aeons
 ago, and wondered if any lava-gatherer had fed and released it. And he wondered, too, if he
 would ever return to Baharna and pay for the zebra that was slain by night in those ancient
-ruins by Yath&rsquo;s shore, and if the old tavern-keeper would remember him. Such were the
+ruins by Yath's shore, and if the old tavern-keeper would remember him. Such were the
 thoughts that came to him in the air of the regained upper dreamland.  
 
   But presently his progress was halted by a sound from a very large hollow tree.
@@ -1185,12 +1185,12 @@ must foil it before leaving on his mighty quest.
 send the cry of the cat over the starlit fields. And a great grimalkin in a nearby cottage took
 up the burden and relayed it across leagues of rolling meadow to warriors large and small, black,
 grey, tiger, white, yellow, and mixed; and it echoed through Nir and beyond the Skai even into
-Ulthar, and Ulthar&rsquo;s numerous cats called in chorus and fell into a line of march. It
+Ulthar, and Ulthar's numerous cats called in chorus and fell into a line of march. It
 was fortunate that the moon was not up, so that all the cats were on earth. Swiftly and silently
 leaping, they sprang from every hearth and housetop and poured in a great furry sea across the
 plains to the edge of the wood. Carter was there to greet them, and the sight of shapely, wholesome
 cats was indeed good for his eyes after the things he had seen and walked with in the abyss.
-He was glad to see his venerable friend and one-time rescuer at the head of Ulthar&rsquo;s detachment,
+He was glad to see his venerable friend and one-time rescuer at the head of Ulthar's detachment,
 a collar of rank around his sleek neck, and whiskers bristling at a martial angle. Better still,
 as a sub-lieutenant in that army was a brisk young fellow who proved to be none other than the
 very little kitten at the inn to whom Carter had given a saucer of rich cream on that long-vanished
@@ -1202,7 +1202,7 @@ expect a captaincy after one more campaign.
 purrs of gratitude from all sides. Consulting with the generals, he prepared a plan of instant
 action which involved marching at once upon the zoog council and other known strongholds of
 zoogs; forestalling their surprise attacks and forcing them to terms before the mobilisation
-of their army of invasion. Thereupon without a moment&rsquo;s loss that great ocean of cats
+of their army of invasion. Thereupon without a moment's loss that great ocean of cats
 flooded the enchanted wood and surged around the council tree and the great stone circle. Flutterings
 rose to panic pitch as the enemy saw the newcomers, and there was very little resistance among
 the furtive and curious brown zoogs. They saw that they were beaten in advance, and turned from
@@ -1247,11 +1247,11 @@ the Cerenerian Sea, and blithely did he follow the singing river Oukranos that m
 The sun rose higher over gentle slopes of grove and lawn, and heightened the colours of the
 thousand flowers that starred each knoll and dingle. A blessed haze lies upon all this region,
 wherein is held a little more of the sunlight than other places hold, and a little more of the
-summer&rsquo;s humming music of birds and bees; so that men walk through it as through a faery
+summer's humming music of birds and bees; so that men walk through it as through a faery
 place, and feel greater joy and wonder than they ever afterward remember.  
 
   By noon Carter reached the jasper terraces of Kiran which slope down to the
-river&rsquo;s edge and bear that temple of loveliness wherein the King of Ilek-Vad comes from
+river's edge and bear that temple of loveliness wherein the King of Ilek-Vad comes from
 his far realm on the twilight sea once a year in a golden palanquin to pray to the god of Oukranos,
 who sang to him in youth when he dwelt in a cottage by its banks. All of jasper is that temple,
 and covering an acre of ground with its walls and courts, its seven pinnacled towers, and its
@@ -1268,7 +1268,7 @@ the lee of gentle riverward hills bearing peaceful thatched cottages and the shr
 gods carven from jasper or chrysoberyl. Sometimes he walked close to the bank of Oukranos and
 whistled to the sprightly and iridescent fish of that crystal stream, and at other times he
 paused amidst the whispering rushes and gazed at the great dark wood on the farther side, whose
-trees came down clear to the water&rsquo;s edge. In former dreams he had seen quaint lumbering
+trees came down clear to the water's edge. In former dreams he had seen quaint lumbering
 buopoths come shyly out of that wood to drink, but now he could not glimpse any. Once in a while
 he paused to watch a carnivorous fish catch a fishing bird, which it lured to the water by shewing
 its tempting scales in the sun, and grasped by the beak with its enormous mouth as the winged
@@ -1281,7 +1281,7 @@ no man knows, for they are more ancient than memory. Yet lofty as they are with 
 gates and two hundred turrets, the clustered towers within, all white beneath their golden spires,
 are loftier still; so that men on the plain around see them soaring into the sky, sometimes
 shining clear, sometimes caught at the top in tangles of cloud and mist, and sometimes clouded
-lower down with their utmost pinnacles blazing free above the vapours. And where Thran&rsquo;s
+lower down with their utmost pinnacles blazing free above the vapours. And where Thran's
 gates open on the river are great wharves of marble, with ornate galleons of fragrant cedar
 and calamander riding gently at anchor, and strange bearded sailors sitting on casks and bales
 with the hieroglyphs of far places. Landward beyond the walls lies the farm country, where small
@@ -1291,7 +1291,7 @@ among streams and gardens.
   Down through this verdant land Carter walked at evening, and saw twilight float
 up from the river to the marvellous golden spires of Thran. And just at the hour of dusk he
 came to the southern gate, and was stopped by a red-robed sentry till he had told three dreams
-beyond belief, and proved himself a dreamer worthy to walk up Thran&rsquo;s steep mysterious
+beyond belief, and proved himself a dreamer worthy to walk up Thran's steep mysterious
 streets and linger in bazaars where the wares of the ornate galleons were sold. Then into that
 incredible city he walked; through a wall so thick that the gate was a tunnel, and thereafter
 amidst curved and undulant ways winding deep and narrow between the heavenward towers. Lights
@@ -1348,7 +1348,7 @@ in the taverns. Carter also went ashore, and looked curiously upon the rutted st
 wooden ox-carts lumbered and feverish merchants cried their wares vacuously in the bazaars.
 The sea-taverns were all close to the wharves on cobbled lanes salt with the spray of high tides,
 and seemed exceedingly ancient with their low black-beamed ceilings and casements of greenish
-bull&rsquo;s-eye panes. Ancient sailors in those taverns talked much of distant ports, and told
+bull's-eye panes. Ancient sailors in those taverns talked much of distant ports, and told
 many stories of the curious men from twilight Inganok, but had little to add to what the seamen
 of the galleon had told. Then, at last, after much unloading and loading, the ship set sail
 once more over the sunset sea, and the high walls and gables of Hlanith grew less as the last
@@ -1369,7 +1369,7 @@ other regions of dream.
 cloud-city of Serannian, that lies in ethereal space beyond where the sea meets the sky, and
 some of which were from more substantial ports on the oceans of dreamland. Among these the steersman
 threaded his way up to the spice-fragrant wharves, where the galleon made fast in the dusk as
-the city&rsquo;s million lights began to twinkle out over the water. Ever new seemed this deathless
+the city's million lights began to twinkle out over the water. Ever new seemed this deathless
 city of vision, for here time has no power to tarnish or destroy. As it has always been is still
 the turquoise temple of Nath-Horthath, and the eighty orchid-wreathed priests are the same who builded
 it ten thousand years ago. Shining still is the bronze of the great gates, nor are the onyx
@@ -1385,7 +1385,7 @@ due from the north for full two weeks. He found, however, one Thorabonian sailor
 to Inganok and had worked in the onyx quarries of that twilight place; and this sailor said
 there was certainly a desert to the north of the peopled region, which everybody seemed to fear
 and shun. The Thorabonian opined that this desert led around the utmost rim of impassable peaks
-into Leng&rsquo;s horrible plateau, and that this was why men feared it; though he admitted
+into Leng's horrible plateau, and that this was why men feared it; though he admitted
 there were other vague tales of evil presences and nameless sentinels. Whether or not this could
 be the fabled waste wherein unknown Kadath stands he did not know; but it seemed unlikely that
 those presences and sentinels, if indeed they truly existed, were stationed for naught.  
@@ -1403,7 +1403,7 @@ none ever found it in the future. Such rumours as were told about that onyx cast
 Ones were not by any means reassuring.  
 
   Having thanked the orchid-crowned high-priest, Carter left the temple and sought
-the bazaar of the sheep-butchers, where the old chief of Celepha&iuml;s&rsquo; cats dwelt sleek
+the bazaar of the sheep-butchers, where the old chief of Celepha&iuml;s' cats dwelt sleek
 and contented. That grey and dignified being was sunning himself on the onyx pavement, and extended
 a languid paw as his caller approached. But when Carter repeated the passwords and introductions
 furnished him by the old cat general of Ulthar, the furry patriarch became very cordial and communicative;
@@ -1421,10 +1421,10 @@ which cats do not like, and to which they are more sensitive than men. Therefore
 go on the dark ships that seek the basalt quays of Inganok.  
 
   The old chief of the cats also told him where to find his friend King Kuranes,
-who in Carter&rsquo;s latter dreams had reigned alternately in the rose-crystal Palace of the
+who in Carter's latter dreams had reigned alternately in the rose-crystal Palace of the
 Seventy Delights at Celepha&iuml;s and in the turreted cloud-castle of sky-floating Serannian.
 It seems that he could no more find content in those places, but had formed a mighty longing
-for the English cliffs and downlands of his boyhood; where in little dreaming villages England&rsquo;s
+for the English cliffs and downlands of his boyhood; where in little dreaming villages England's
 old songs hover at evening behind lattice windows, and where grey church towers peep lovely
 through the verdure of distant valleys. He could not go back to these things in the waking world
 because his body was dead; but he had done the next best thing and dreamed a small tract of
@@ -1436,7 +1436,7 @@ a little Cornish fishing village with steep cobbled ways, settling therein such 
 the most English faces, and seeking ever to teach them the dear remembered accents of old Cornwall
 fishers. And in a valley not far off he had reared a great Norman Abbey whose tower he could
 see from his window, placing around it in the churchyard grey stones with the names of his ancestors
-carved thereon, and with a moss somewhat like Old England&rsquo;s moss. For though Kuranes was
+carved thereon, and with a moss somewhat like Old England's moss. For though Kuranes was
 a monarch in the land of dream, with all imagined pomps and marvels, splendours and beauties,
 ecstacies and delights, novelties and excitements at his command, he would gladly have resigned
 forever the whole of his power and luxury and freedom for one blessed day as a simple boy in
@@ -1449,12 +1449,12 @@ toward a peaked gable which he glimpsed through the oaks of a park sloping up to
 And in time he came to a great hedge and a gate with a little brick lodge, and when he rang
 the bell there hobbled to admit him no robed and anointed lackey of the palace, but a small
 stubbly old man in a smock who spoke as best he could in the quaint tones of far Cornwall. And
-Carter walked up the shady path between trees as near as possible to England&rsquo;s trees,
-and climbed the terraces among gardens set out as in Queen Anne&rsquo;s time. At the door, flanked
+Carter walked up the shady path between trees as near as possible to England's trees,
+and climbed the terraces among gardens set out as in Queen Anne's time. At the door, flanked
 by stone cats in the old way, he was met by a whiskered butler in suitable livery; and was presently
 taken to the library where Kuranes, Lord of Ooth-Nargai and the Sky around Serannian, sat pensive
 in a chair by the window looking on his little sea-coast village and wishing that his old nurse
-would come in and scold him because he was not ready for that hateful lawn-party at the vicar&rsquo;s,
+would come in and scold him because he was not ready for that hateful lawn-party at the vicar's,
 with the carriage waiting and his mother nearly out of patience.  
 
   Kuranes, clad in a dressing-gown of the sort favoured by London tailors in
@@ -1470,7 +1470,7 @@ those questions he had asked of so many others. Kuranes did not know where Kadat
 marvellous sunset city; but he did know that the Great Ones were very dangerous creatures to
 seek out, and that the Other Gods had strange ways of protecting them from impertinent curiosity.
 He had learned much of the Other Gods in distant parts of space, especially in that region where
-form does not exist, and coloured gases study the innermost secrets. The violet gas S&rsquo;ngac
+form does not exist, and coloured gases study the innermost secrets. The violet gas S'ngac
 had told him terrible things of the crawling chaos Nyarlathotep, and had warned him never to
 approach the central void where the daemon-sultan Azathoth gnaws hungrily in the dark. Altogether,
 it was not well to meddle with the Elder Ones; and if they persistently denied all access to
@@ -1524,7 +1524,7 @@ sink into the distance, and the snowy peak of Mount Aran grow smaller and smalle
 was nothing in sight save the gentle blue of the Cerenerian Sea, with one painted galley afar
 off bound for that cloud-hung realm of Serannian where the sea meets the sky.  
 
-  And night came with gorgeous stars, and the dark ship steered for Charles&rsquo;
+  And night came with gorgeous stars, and the dark ship steered for Charles'
 Wain and the Little Bear as they swung slowly round the pole. And the sailors sang strange songs
 of unknown places, and then stole off one by one to the forecastle while the wistful watchers
 murmured old chants and leaned over the rail to glimpse the luminous fish playing in bowers
@@ -1548,14 +1548,14 @@ struck terror to all who beheld. Who had mined those incredible blocks, and whit
 been transported, no man might say; but it was thought best not to trouble that quarry, around
 which such inhuman memories might conceivably cling. So it was left all alone in the twilight,
 with only the raven and the rumoured shantak-bird to brood on its immensities. When Carter heard
-of this quarry he was moved to deep thought, for he knew from old tales that the Great Ones&rsquo;
+of this quarry he was moved to deep thought, for he knew from old tales that the Great Ones'
 castle atop unknown Kadath is of onyx.  
 
   Each day the sun wheeled lower and lower in the sky, and the mists overhead
 grew thicker and thicker. And in two weeks there was not any sunlight at all, but only a weird
 grey twilight shining through a dome of eternal cloud by day, and a cold starless phosphorescence
 from the under side of that cloud by night. On the twentieth day a great jagged rock in the
-sea was sighted from afar, the first land glimpsed since Aran&rsquo;s snowy peak had dwindled
+sea was sighted from afar, the first land glimpsed since Aran's snowy peak had dwindled
 behind the ship. Carter asked the captain the name of that rock, but was told that it had no
 name and had never been sought by any vessel because of the sounds that came from it at night.
 And when, after dark, a dull and ceaseless howling arose from that jagged granite place, the
@@ -1567,8 +1567,8 @@ in the small hours.
 grey peaks whose tops were lost in the changeless clouds of that twilight world. And at the
 sight of them the sailors sang glad songs, and some knelt down on the deck to pray; so that
 Carter knew they were come to the land of Inganok and would soon be moored to the basalt quays
-of the great town bearing that land&rsquo;s name. Toward noon a dark coast-line appeared, and
-before three o&rsquo;clock there stood out against the north the bulbous domes and fantastic
+of the great town bearing that land's name. Toward noon a dark coast-line appeared, and
+before three o'clock there stood out against the north the bulbous domes and fantastic
 spires of the onyx city. Rare and curious did that archaic city rise above its walls and quays,
 all of delicate black with scrolls, flutings, and arabesques of inlaid gold. Tall and many-windowed
 were the houses, and carved on every side with flowers and patterns whose dark symmetries dazzled
@@ -1636,16 +1636,16 @@ the city walls and the leagues of pasture land, rose the gaunt grey sides of tho
 impassable peaks across which hideous Leng was said to lie.  
 
   The captain took Carter to the mighty temple, which is set with its walled
-garden in a great round plaza whence the streets go as spokes from a wheel&rsquo;s hub. The
-seven arched gates of that garden, each having over it a carven face like those on the city&rsquo;s
+garden in a great round plaza whence the streets go as spokes from a wheel's hub. The
+seven arched gates of that garden, each having over it a carven face like those on the city's
 gates, are always open; and the people roam reverently at will down the tiled paths and through
 the little lanes lined with grotesque termini and the shrines of modest gods. And there are
 fountains, pools, and basins there to reflect the frequent blaze of the tripods on the high
 balcony, all of onyx and having in them small luminous fish taken by divers from the lower bowers
-of ocean. When the deep clang from the temple&rsquo;s belfry shivers over the garden and the
+of ocean. When the deep clang from the temple's belfry shivers over the garden and the
 city, and the answer of the horns and viols and voices peals out from the seven lodges by the
 garden gates, there issue from the seven doors of the temple long columns of masked and hooded
-priests in black, bearing at arm&rsquo;s length before them great golden bowls from which a
+priests in black, bearing at arm's length before them great golden bowls from which a
 curious steam rises. And all the seven columns strut peculiarly in single file, legs thrown far
 forward without bending the knees, down the walks that lead to the seven lodges, wherein they
 disappear and do not appear again. It is said that subterrene paths connect the lodges with
@@ -1660,15 +1660,15 @@ lodges by the gates. And down the seven great walks stalked the long files of bo
 in their singular way, giving to the traveller a fear which human priests do not often give.
 When the last of them had vanished he left that garden, noting as he did so a spot on the pavement
 over which the bowls had passed. Even the ship-captain did not like that spot, and hurried him
-on toward the hill whereon the Veiled King&rsquo;s palace rises many-domed and marvellous.  
+on toward the hill whereon the Veiled King's palace rises many-domed and marvellous.  
 
   The ways to the onyx palace are steep and narrow, all but that broad curving
 one where the king and his companions ride on yaks or in yak-drawn chariots. Carter and his
 guide climbed up an alley that was all steps, between inlaid walls bearing strange signs in
 gold, and under balconies and oriels whence sometimes floated soft strains of music or breaths
 of exotic fragrance. Always ahead loomed those titan walls, mighty buttresses, and clustered
-and bulbous domes for which the Veiled King&rsquo;s palace is famous; and at length they passed
-under a great black arch and emerged in the gardens of the monarch&rsquo;s pleasure. There Carter
+and bulbous domes for which the Veiled King's palace is famous; and at length they passed
+under a great black arch and emerged in the gardens of the monarch's pleasure. There Carter
 paused in faintness at so much of beauty; for the onyx terraces and colonnaded walks, the gay
 parterres and delicate flowering trees espaliered to golden lattices, the brazen urns and tripods
 with cunning bas-reliefs, the pedestalled and almost breathing statues of veined black marble,
@@ -1690,13 +1690,13 @@ Gate of the Caravans, where are the taverns of the yak-merchants and the onyx-mi
 in a low-ceiled inn of quarrymen, they said farewell; for business called the captain whilst
 Carter was eager to talk with miners about the north. There were many men in that inn, and the
 traveller was not long in speaking to some of them; saying that he was an old miner of onyx,
-and anxious to know somewhat of Inganok&rsquo;s quarries. But all that he learnt was not much
+and anxious to know somewhat of Inganok's quarries. But all that he learnt was not much
 more than he knew before, for the miners were timid and evasive about the cold desert to the
 north and the quarry that no man visits. They had fears of fabled emissaries from around the
 mountains where Leng is said to lie, and of evil presences and nameless sentinels far north
 among the scattered rocks. And they whispered also that the rumoured shantak-birds are no wholesome
 things; it being indeed for the best that no man has ever truly seen one (for that fabled father
-of shantaks in the king&rsquo;s dome is fed in the dark).  
+of shantaks in the king's dome is fed in the dark).  
 
   The next day, saying that he wished to look over all the various mines for
 himself and to visit the scattered farms and quaint onyx villages of Inganok, Carter hired a
@@ -1709,7 +1709,7 @@ of their blood, dwelling amongst men. And to that austere and reticent cotter he
 to speak very well of the gods, and to praise all the blessings they had ever accorded him.  
 
   That night Carter camped in a roadside meadow beneath a great lygath-tree to
-which he tied his yak, and in the morning resumed his northward pilgrimage. At about ten o&rsquo;clock
+which he tied his yak, and in the morning resumed his northward pilgrimage. At about ten o'clock
 he reached the small-domed village of Urg, where traders rest and miners tell their tales, and
 paused in its taverns till noon. It is here that the great caravan road turns west toward Selarn,
 but Carter kept on north by the quarry road. All the afternoon he followed that rising road,
@@ -1734,7 +1734,7 @@ habits of gods that Carter could see they held many latent memories of their sir
 Ones. They asked him whither he went, and cautioned him not to go too far to the north; but
 he replied that he was seeking new cliffs of onyx, and would take no more risks than were common
 among prospectors. In the morning he bade them adieu and rode on into the darkening north, where
-they had warned him he would find the feared and unvisited quarry whence hands older than men&rsquo;s
+they had warned him he would find the feared and unvisited quarry whence hands older than men's
 hands had wrenched prodigious blocks. But he did not like it when, turning back to wave a last
 farewell, he thought he saw approaching the camp that squat and evasive old merchant with slanting
 eyes, whose conjectured traffick with Leng was the gossip of distant Dylath-Leen.  
@@ -1763,8 +1763,8 @@ he saw.
   The path indeed led straight ahead and slightly down, with the same lines of
 high natural walls as before; but on the left hand there opened out a monstrous space, vast
 acres in extent, where some archaic power had riven and rent the native cliffs of onyx in the
-form of a giants&rsquo; quarry. Far back into the solid precipice ran that Cyclopean gouge,
-and deep down within earth&rsquo;s bowels its lower delvings yawned. It was no quarry of man,
+form of a giants' quarry. Far back into the solid precipice ran that Cyclopean gouge,
+and deep down within earth's bowels its lower delvings yawned. It was no quarry of man,
 and the concave sides were scarred with great squares yards wide which told of the size of the
 blocks once hewn by nameless hands and chisels. High over its jagged rim huge ravens flapped
 and croaked, and vague whirrings in the unseen depths told of bats or urhags or less mentionable
@@ -1791,7 +1791,7 @@ but this time giving terror instead of encouragement because he realised that th
 the frightened hoofbeats of his fleeing yak. These beats were ruthless and purposeful, and they
 were behind him.  
 
-  Carter&rsquo;s pursuit of the yak became now a flight from an unseen thing,
+  Carter's pursuit of the yak became now a flight from an unseen thing,
 for though he dared not glance over his shoulder he felt that the presence behind him could
 be nothing wholesome or mentionable. His yak must have heard or felt it first, and he did not
 like to ask himself whether it had followed him from the haunts of men or had floundered up
@@ -1810,7 +1810,7 @@ something more. The phosphorescence of the brooding clouds shewed it plainly, an
 parts of it as low vapours glowed behind. How distant it was he could not tell, but it must
 have been very far. It was thousands of feet high, stretching in a great concave arc from the
 grey impassable peaks to the unimagined westward spaces, and had once indeed been a ridge of
-mighty onyx hills. But now those hills were hills no more, for some hand greater than man&rsquo;s
+mighty onyx hills. But now those hills were hills no more, for some hand greater than man's
 had touched them. Silent they squatted there atop the world like wolves or ghouls, crowned with
 clouds and mists and guarding the secrets of the north forever. All in a great half circle they
 squatted, those dog-like mountains carven into monstrous watching statues, and their right hands
@@ -1820,7 +1820,7 @@ were raised in menace against mankind.
 heads seem to move, but as Carter stumbled on he saw arise from their shadowy laps great forms
 whose motions were no delusion. Winged and whirring, those forms grew larger each moment, and
 the traveller knew his stumbling was at an end. They were not any birds or bats known elsewhere
-on earth or in dreamland, for they were larger than elephants and had heads like a horse&rsquo;s.
+on earth or in dreamland, for they were larger than elephants and had heads like a horse's.
 Carter knew that they must be the shantak-birds of ill rumour, and wondered no more what evil
 guardians and nameless sentinels made men avoid the boreal rock desert. And as he stopped in
 final resignation he dared at last to look behind him; where indeed was trotting the squat slant-eyed
@@ -1850,7 +1850,7 @@ of them, hurrying past nervously and shewing great tension until they were left 
 plain whereon at great distances shone little feeble fires. As they descended there appeared
 at intervals lone huts of granite and bleak stone villages whose tiny windows glowed with pallid
 light. And there came from those huts and villages a shrill droning of pipes and a nauseous
-rattle of crotala which proved at once that Inganok&rsquo;s people are right in their geographick
+rattle of crotala which proved at once that Inganok's people are right in their geographick
 rumours. For travellers have heard such sounds before, and know that they float only from the
 cold desert plateau which healthy folk never visit; that haunted place of evil and mystery which
 is Leng.  
@@ -1913,16 +1913,16 @@ After countless aeons their pigments were brilliant still, for the cold and dryn
 Leng keep alive many primal things. Carter saw them fleetingly in the rays of that dim and moving
 lamp, and shuddered at the tale they told.   
 
-  Through those archaic frescoes Leng&rsquo;s annals stalked; and the horned,
+  Through those archaic frescoes Leng's annals stalked; and the horned,
 hooved, and wide-mouthed almost-humans danced evilly amidst forgotten cities. There were scenes
-of old wars, wherein Leng&rsquo;s almost-humans fought with the bloated purple spiders of the
+of old wars, wherein Leng's almost-humans fought with the bloated purple spiders of the
 neighbouring vales; and there were scenes also of the coming of the black galleys from the moon,
-and of the submission of Leng&rsquo;s people to the polypous and amorphous blasphemies that
+and of the submission of Leng's people to the polypous and amorphous blasphemies that
 hopped and floundered and wriggled out of them. Those slippery greyish-white blasphemies they
 worshipped as gods, nor ever complained when scores of their best and fatted males were taken
 away in the black galleys. The monstrous moon-beasts made their camp on a jagged isle in the
 sea, and Carter could tell from the frescoes that this was none other than the lone nameless
-rock he had seen when sailing to Inganok; that grey accursed rock which Inganok&rsquo;s seamen
+rock he had seen when sailing to Inganok; that grey accursed rock which Inganok's seamen
 shun, and from which vile howlings reverberate all through the night.  
 
   And in those frescoes was shewn the great seaport and capital of the almost-humans;
@@ -1964,7 +1964,7 @@ paws and blowing certain loathsome sounds from beneath its flowing yellow mask. 
 went on for some time, and to Carter there was something sickeningly familiar in the sound of
 that flute and the stench of the malodorous place. It made him think of a frightful red-litten
 city and of the revolting procession that once filed through it; of that, and of an awful climb
-through lunar countryside beyond, before the rescuing rush of earth&rsquo;s friendly cats. He
+through lunar countryside beyond, before the rescuing rush of earth's friendly cats. He
 knew that the creature on the dais was without doubt the high-priest not to be described, of
 which legend whispers such fiendish and abnormal possibilities, but he feared to think just
 what that abhorred high-priest might be.  
@@ -2002,7 +2002,7 @@ down, and once he stumbled over a step for which no reason seemed to exist. The 
 the damper it seemed to be, and when he was able to feel a junction or the mouth of a side passage
 he always chose the way which sloped downward the least. He believed, though, that his general
 course was down; and the vault-like smell and incrustations on the greasy walls and floor alike
-warned him he was burrowing deep in Leng&rsquo;s unwholesome table-land. But there was not any
+warned him he was burrowing deep in Leng's unwholesome table-land. But there was not any
 warning of the thing which came at last; only the thing itself with its terror and shock and
 breath-taking chaos. One moment he was groping slowly over the slippery floor of an almost level
 place, and the next he was shooting dizzily downward in the dark through a burrow which must
@@ -2024,8 +2024,8 @@ heads, and snarled derisive on the ruins around them. And Carter knew right well
 be, for legend tells of only one such twain. They were the changeless guardians of the Great
 Abyss, and these dark ruins were in truth primordial Sarkomand.  
 
-  Carter&rsquo;s first act was to close and barricade the archway in the cliff
-with fallen blocks and odd debris that lay around. He wished no follower from Leng&rsquo;s hateful
+  Carter's first act was to close and barricade the archway in the cliff
+with fallen blocks and odd debris that lay around. He wished no follower from Leng's hateful
 monastery, for along the way ahead would lurk enough of other dangers. Of how to get from Sarkomand
 to the peopled parts of dreamland he knew nothing at all; nor could he gain much by descending
 to the grottoes of the ghouls, since he knew they were no better informed than he. The three
@@ -2033,12 +2033,12 @@ ghouls which had helped him through the city of gugs to the outer world had not 
 reach Sarkomand in their journey back, but had planned to ask old traders in Dylath-Leen. He
 did not like to think of going again to the subterrene world of gugs and risking once more that
 hellish tower of Koth with its Cyclopean steps leading to the enchanted wood, yet he felt he
-might have to try this course if all else failed. Over Leng&rsquo;s plateau past the lone monastery
-he dared not go unaided; for the high-priest&rsquo;s emissaries must be many, while at the journey&rsquo;s
+might have to try this course if all else failed. Over Leng's plateau past the lone monastery
+he dared not go unaided; for the high-priest's emissaries must be many, while at the journey's
 end there would no doubt be the shantaks and perhaps other things to deal with. If he could
 get a boat he might sail back to Inganok past the jagged and hideous rock in the sea, for the
 primal frescoes in the monastery labyrinth had shewn that this frightful place lies not far
-from Sarkomand&rsquo;s basalt quays. But to find a boat in this aeon-deserted city was no probable
+from Sarkomand's basalt quays. But to find a boat in this aeon-deserted city was no probable
 thing, and it did not appear likely that he could ever make one.  
 
   Such were the thoughts of Randolph Carter when a new impression began beating
@@ -2077,7 +2077,7 @@ and Carter saw that he could do nothing now to save his former allies. Of how th
 been captured he could not guess; but fancied that the grey toad-like blasphemies had heard
 them inquire in Dylath-Leen concerning the way to Sarkomand and had not wished them to approach
 so closely the hateful plateau of Leng and the high-priest not to be described. For a moment
-he pondered on what he ought to do, and recalled how near he was to the gate of the ghouls&rsquo;
+he pondered on what he ought to do, and recalled how near he was to the gate of the ghouls'
 black kingdom. Clearly it was wisest to creep east to the plaza of twin lions and descend at
 once to the gulf, where assuredly he would meet no horrors worse than those above, and where
 he might soon find ghouls eager to rescue their brethren and perhaps to wipe out the moon-beasts
@@ -2151,7 +2151,7 @@ with the moon-beasts. Then Carter and the ghoulish chiefs approached the waiting
 were taken up by the damp, slippery paws. Another moment and all were whirling in wind and darkness;
 endlessly up, up, up to the gate of the winged lions and the spectral ruins of primal Sarkomand.  
 
-  When, after a great interval, Carter saw again the sickly light of Sarkomand&rsquo;s
+  When, after a great interval, Carter saw again the sickly light of Sarkomand's
 nocturnal sky, it was to behold the great central plaza swarming with militant ghouls and night-gaunts.
 Day, he felt sure, must be almost due; but so strong was the army that no surprise of the enemy
 would be needed. The greenish flare near the wharves still glimmered faintly, though the absence
@@ -2188,9 +2188,9 @@ Carter cast at once into the sea.
 
   Ghouls and night-gaunts now formed themselves in separate groups, the former
 questioning their rescued fellows anent past happenings. It appeared that the three had followed
-Carter&rsquo;s directions and proceeded from the enchanted wood to Dylath-Leen by way of Nir
+Carter's directions and proceeded from the enchanted wood to Dylath-Leen by way of Nir
 and the Skai, stealing human clothes at a lonely farmhouse and loping as closely as possible
-in the fashion of a man&rsquo;s walk. In Dylath-Leen&rsquo;s taverns their grotesque ways and
+in the fashion of a man's walk. In Dylath-Leen's taverns their grotesque ways and
 faces had aroused much comment; but they had persisted in asking the way to Sarkomand until
 at last an old traveller was able to tell them. Then they knew that only a ship for Lelag-Leng
 would serve their purpose, and prepared to wait patiently for such a vessel.  
@@ -2201,10 +2201,10 @@ Wine was produced from one of those sinister bottles grotesquely carven from a s
 and after that the ghouls found themselves prisoners on the black galley as Carter had once
 found himself. This time, however, the unseen rowers steered not for the moon but for antique
 Sarkomand; bent evidently on taking their captives before the high-priest not to be described.
-They had touched at the jagged rock in the northern sea which Inganok&rsquo;s mariners shun,
+They had touched at the jagged rock in the northern sea which Inganok's mariners shun,
 and the ghouls had there seen for the first time the real masters of the ship; being sickened
 despite their own callousness by such extremes of malign shapelessness and fearsome odour. There,
-too, were witnessed the nameless pastimes of the toad-like resident garrison&mdash;such pastimes
+too, were witnessed the nameless pastimes of the toad-like resident garrison--such pastimes
 as give rise to the night-howlings which men fear. After that had come the landing at ruined
 Sarkomand and the beginning of the tortures, whose continuance the present rescue had prevented.  
 
@@ -2215,7 +2215,7 @@ of the ghouls favoured the design, but were at a loss how to follow it without t
 winged night-gaunts. Thereupon Carter, seeing that they could not navigate the anchored galley,
 offered to teach them the use of the great banks of oars; to which proposal they eagerly assented.
 Grey day had now come, and under that leaden northern sky a picked detachment of ghouls filed
-into the noisome ship and took their seats on the rowers&rsquo; benches. Carter found them fairly
+into the noisome ship and took their seats on the rowers' benches. Carter found them fairly
 apt at learning, and before night had risked several experimental trips around the harbour.
 Not till three days later, however, did he deem it safe to attempt the voyage of conquest. Then,
 the rowers trained and the night-gaunts safely stowed in the forecastle, the party set sail
@@ -2223,7 +2223,7 @@ at last; Pickman and the other chiefs gathering on deck and discussing modes of 
 procedure.  
 
   On the very first night the howlings from the rock were heard. Such was their
-timbre that all the galley&rsquo;s crew shook visibly; but most of all trembled the three rescued
+timbre that all the galley's crew shook visibly; but most of all trembled the three rescued
 ghouls who knew precisely what those howlings meant. It was not thought best to attempt an attack
 by night, so the ship lay to under the phosphorescent clouds to wait for the dawn of a greyish
 day. When the light was ample and the howlings still the rowers resumed their strokes, and the
@@ -2285,7 +2285,7 @@ conquest.
 rudimentary minds and overcome their fear of flying over the sea, and kept the galley standing
 about a mile off the jagged rock while he waited and dressed the wounds of the injured men.
 Night fell, and the grey twilight gave place to the sickly phosphorescence of low clouds, and
-all the while the leaders watched the high peaks of that accursed rock for signs of the night-gaunts&rsquo;
+all the while the leaders watched the high peaks of that accursed rock for signs of the night-gaunts'
 flight. Toward morning a black speck was seen hovering timidly over the topmost pinnacle, and
 shortly afterward the speck had become a swarm. Just before daybreak the swarm seemed to scatter,
 and within a quarter of an hour it had vanished wholly in the distance toward the northeast.
@@ -2305,7 +2305,7 @@ painted inside with nameless and frantic designs. Countless weapons, implements,
 lay about; including some large idols of solid ruby depicting singular beings not found on the
 earth. These latter did not, despite their material, invite either appropriation or long inspection;
 and Carter took the trouble to hammer five of them into very small pieces. The scattered spears
-and javelins he collected, and with Pickman&rsquo;s approval distributed among the ghouls. Such
+and javelins he collected, and with Pickman's approval distributed among the ghouls. Such
 devices were new to the dog-like lopers, but their relative simplicity made them easy to master
 after a few concise hints.  
 
@@ -2335,13 +2335,13 @@ moment before the almost-humans on deck would perceive the invasion of the town 
 alarm to the monstrous things below. Fortunately the ghouls still bore the spears and javelins
 which Carter had distributed amongst them; and at his command, sustained by the being that was
 Pickman, they now formed a line of battle and prepared to prevent the landing of the ship. Presently
-a burst of excitement on the galley told of the crew&rsquo;s discovery of the changed state
+a burst of excitement on the galley told of the crew's discovery of the changed state
 of things, and the instant stoppage of the vessel proved that the superior numbers of the ghouls
 had been noted and taken into account. After a moment of hesitation the newcomers silently turned
 and passed out between the headlands again, but not for an instant did the ghouls imagine that
 the conflict was averted. Either the dark ship would seek reinforcements, or the crew would
 try to land elsewhere on the island; hence a party of scouts was at once sent up toward the
-pinnacle to see what the enemy&rsquo;s course would be.  
+pinnacle to see what the enemy's course would be.  
 
   In a very few minutes a ghoul returned breathless to say that the moon-beasts
 and almost-humans were landing on the outside of the more easterly of the rugged grey headlands,
@@ -2392,26 +2392,26 @@ tidal rocks, while the hovering galley of the enemy rescued several moon-beasts.
 were unscalable except where the monsters had debarked, so that none of the ghouls on the rocks
 could rejoin their battle-line. Some were killed by javelins from the hostile galley or from
 the moon-beasts above, but a few survived to be rescued. When the security of the land parties
-seemed assured, Carter&rsquo;s galley sallied forth between the headlands and drove the hostile
+seemed assured, Carter's galley sallied forth between the headlands and drove the hostile
 ship far out to sea; pausing to rescue such ghouls as were on the rocks or still swimming in
 the ocean. Several moon-beasts washed on rocks or reefs were speedily put out of the way.  
 
-  Finally, the moon-beasts&rsquo; galley being safely in the distance and the
+  Finally, the moon-beasts' galley being safely in the distance and the
 invading land army concentrated in one place, Carter landed a considerable force on the eastern
-headland in the enemy&rsquo;s rear; after which the fight was short-lived indeed. Attacked from
+headland in the enemy's rear; after which the fight was short-lived indeed. Attacked from
 both sides, the noisome flounderers were rapidly cut to pieces or pushed into the sea, till
 by evening the ghoulish chiefs agreed that the island was again clear of them. The hostile galley,
 meanwhile, had disappeared; and it was decided that the evil jagged rock had better be evacuated
 before any overwhelming horde of lunar horrors might be assembled and brought against the victors.  
 
   So by night Pickman and Carter assembled all the ghouls and counted them with
-care, finding that over a fourth had been lost in the day&rsquo;s battles. The wounded were
+care, finding that over a fourth had been lost in the day's battles. The wounded were
 placed on bunks in the galley, for Pickman always discouraged the old ghoulish custom of killing
-and eating one&rsquo;s own wounded, and the able-bodied troops were assigned to the oars or
+and eating one's own wounded, and the able-bodied troops were assigned to the oars or
 to such other places as they might most usefully fill. Under the low phosphorescent clouds of
 night the galley sailed, and Carter was not sorry to be departing from that island of unwholesome
 secrets, whose lightless domed hall with its bottomless well and repellent bronze door lingered
-restlessly in his fancy. Dawn found the ship in sight of Sarkomand&rsquo;s ruined quays of basalt,
+restlessly in his fancy. Dawn found the ship in sight of Sarkomand's ruined quays of basalt,
 where a few night-gaunt sentries still waited, squatting like black horned gargoyles on the
 broken columns and crumbling sphinxes of that fearful city which lived and died before the years
 of man.  
@@ -2442,7 +2442,7 @@ him thither without trouble; high above the perils of the plain, and over the hi
 heads of those carven sentinel mountains that squat eternally in the grey dusk. For the horned
 and faceless creatures there could be no danger from aught of earth, since the Great Ones themselves
 dread them. And even were unexpected things to come from the Other Gods, who are prone to oversee
-the affairs of earth&rsquo;s milder gods, the night-gaunts need not fear; for the outer hells
+the affairs of earth's milder gods, the night-gaunts need not fear; for the outer hells
 are indifferent matters to such silent and slippery flyers as own not Nyarlathotep for their
 master, but bow only to potent and archaic Nodens.  
 
@@ -2469,7 +2469,7 @@ him not merely a few of their allied night-gaunts, but their entire army as they
 fighting ghouls and newly assembled night-gaunts alike, save only a small garrison for the captured
 black galley and such spoils as had come from the jagged rock in the sea. They would set out
 through the air whenever he might wish, and once arrived on Kadath a suitable train of ghouls
-would attend him in state as he placed his petition before earth&rsquo;s gods in their onyx
+would attend him in state as he placed his petition before earth's gods in their onyx
 castle.  
 
   Moved by a gratitude and satisfaction beyond words, Carter made plans with
@@ -2489,7 +2489,7 @@ column beside Pickman, and in front of the whole a double line of riderless nigh
 provided as a vanguard. At a brisk meep from Pickman the whole shocking army rose in a nightmare
 cloud above the broken columns and crumbling sphinxes of primordial Sarkomand; higher and higher,
 till even the great basalt cliff behind the town was cleared, and the cold, sterile table-land
-of Leng&rsquo;s outskirts laid open to sight. Still higher flew the black host, till even this
+of Leng's outskirts laid open to sight. Still higher flew the black host, till even this
 table-land grew small beneath them; and as they worked northward over the windswept plateau
 of horror Carter saw once again with a shudder the circle of crude monoliths and the squat windowless
 building which he knew held that frightful silken-masked blasphemy from whose clutches he had
@@ -2504,7 +2504,7 @@ and hovered about those strange caves near the summits which Carter recalled as 
 to the shantaks. At the insistent meeping of the ghoulish leaders there issued forth from each
 lofty burrow a stream of horned black flyers; with which the ghouls and night-gaunts of
 the party conferred at length by means of ugly gestures. It soon became clear that the best
-course would be that over the cold waste north of Inganok, for Leng&rsquo;s northward reaches
+course would be that over the cold waste north of Inganok, for Leng's northward reaches
 are full of unseen pitfalls that even the night-gaunts dislike; abysmal influences centring
 in certain white hemispherical buildings on curious knolls, which common folklore associates
 unpleasantly with the Other Gods and their crawling chaos Nyarlathotep.  
@@ -2520,17 +2520,17 @@ till some titan hand carved fright into their virgin rock.
 
   There they squatted, in a hellish half-circle, their legs on the desert sand
 and their mitres piercing the luminous clouds; sinister, wolf-like, and double-headed, with
-faces of fury and right hands raised, dully and malignly watching the rim of man&rsquo;s world
-and guarding with horror the reaches of a cold northern world that is not man&rsquo;s. From
+faces of fury and right hands raised, dully and malignly watching the rim of man's world
+and guarding with horror the reaches of a cold northern world that is not man's. From
 their hideous laps rose evil shantaks of elephantine bulk, but these all fled with insane titters
 as the vanguard of night-gaunts was sighted in the misty sky. Northward above those gargoyle
 mountains the army flew, and over leagues of dim desert where never a landmark rose. Less and
 less luminous grew the clouds, till at length Carter could see only blackness around him; but
-never did the winged steeds falter, bred as they were in earth&rsquo;s blackest crypts, and
+never did the winged steeds falter, bred as they were in earth's blackest crypts, and
 seeing not with any eyes, but with the whole dank surface of their slippery forms. On and on
 they flew, past winds of dubious scent and sounds of dubious import; ever in thickest darkness,
 and covering such prodigious spaces that Carter wondered whether or not they could still be
-within earth&rsquo;s dreamland.  
+within earth's dreamland.  
 
   Then suddenly the clouds thinned and the stars shone spectrally above. All
 below was still black, but those pallid beacons in the sky seemed alive with a meaning and directiveness
@@ -2568,7 +2568,7 @@ peaks neared the gap, slightly slackening its speed as if conscious of having ou
 ghoulish army. For another minute suspense was keen, and then the brief instant of full silhouette
 and revelation came; bringing to the lips of the ghouls an awed and half-choked meep of cosmic
 fear, and to the soul of the traveller a chill that has never wholly left it. For the mammoth
-bobbing shape that overtopped the ridge was only a head&mdash;a mitred double head&mdash;and
+bobbing shape that overtopped the ridge was only a head--a mitred double head--and
 below it in terrible vastness loped the frightful swollen body that bore it; the mountain-high
 monstrosity that walked in stealth and silence; the hyaena-like distortion of a giant anthropoid
 shape that trotted blackly against the sky, its repulsive pair of cone-capped heads reaching
@@ -2639,7 +2639,7 @@ discern nothing upon it. Vaster and vaster loomed the tenebrous towers of the ni
 above, and Carter could see that it was well-nigh blasphemous in its immensity. Well might its
 stones have been quarried by nameless workmen in that horrible gulf rent out of the rock in
 the hill pass north of Inganok, for such was its size that a man on its threshold stood even
-as an ant on the steps of earth&rsquo;s loftiest fortress. The pshent of unknown stars above
+as an ant on the steps of earth's loftiest fortress. The pshent of unknown stars above
 the myriad domed turrets glowed with a sallow, sickly flare, so that a kind of twilight hung
 about the murky walls of slippery onyx. The pallid beacon was now seen to be a single shining
 window high up in one of the loftiest towers, and as the helpless army neared the top of the
@@ -2652,7 +2652,7 @@ was a glimpse of a great gate through which the voyagers were swept. All was nig
 courtyard, and then came the deeper blackness of inmost things as a huge arched portal engulfed
 the column. Vortices of cold wind surged dankly through sightless labyrinths of onyx, and Carter
 could never tell what Cyclopean stairs and corridors lay silent along the route of his endless
-a&euml;rial twisting. Always upward led the terrible plunge in darkness, and never a sound,
+aërial twisting. Always upward led the terrible plunge in darkness, and never a sound,
 touch, or glimpse broke the dense pall of mystery. Large as the army of ghouls and night-gaunts
 was, it was lost in the prodigious voids of that more than earthly castle. And when at last
 there suddenly dawned around him the lurid light of that single tower room whose lofty window
@@ -2662,9 +2662,9 @@ and to realise that he was indeed not again in the boundless air outside.
   Randolph Carter had hoped to come into the throne-room of the Great Ones with
 poise and dignity, flanked and followed by impressive lines of ghouls in ceremonial order, and
 offering his prayer as a free and potent master among dreamers. He had known that the Great
-Ones themselves are not beyond a mortal&rsquo;s power to cope with, and had trusted to luck
+Ones themselves are not beyond a mortal's power to cope with, and had trusted to luck
 that the Other Gods and their crawling chaos Nyarlathotep would not happen to come to their
-aid at the crucial moment, as they had so often done before when men sought out earth&rsquo;s
+aid at the crucial moment, as they had so often done before when men sought out earth's
 gods in their home or on their mountains. And with his hideous escort he had half hoped to defy
 even the Other Gods if need were, knowing as he did that ghouls have no masters, and that night-gaunts
 own not Nyarlathotep but only archaick Nodens for their lord. But now he saw that supernal Kadath
@@ -2672,7 +2672,7 @@ in its cold waste is indeed girt with dark wonders and nameless sentinels, and t
 Gods are of a surety vigilant in guarding the mild, feeble gods of earth. Void as they are of
 lordship over ghouls and night-gaunts, the mindless, shapeless blasphemies of outer space can
 yet control them when they must; so that it was not in state as a free and potent master of
-dreamers that Randolph Carter came into the Great Ones&rsquo; throne-room with his ghouls. Swept
+dreamers that Randolph Carter came into the Great Ones' throne-room with his ghouls. Swept
 and herded by nightmare tempests from the stars, and dogged by unseen horrors of the northern
 waste, all that army floated captive and helpless in the lurid light, dropping numbly to the
 onyx floor when by some voiceless order the winds of fright dissolved.  
@@ -2684,7 +2684,7 @@ pray. Save for that one tower room the onyx castle atop Kadath was dark, and the
 not there. Carter had come to unknown Kadath in the cold waste, but he had not found the gods.
 Yet still the lurid light glowed in that one tower room whose size was so little less than that
 of all outdoors, and whose distant walls and roof were so nearly lost to sight in thin, curling
-mists. Earth&rsquo;s gods were not there, it was true, but of subtler and less visible presences
+mists. Earth's gods were not there, it was true, but of subtler and less visible presences
 there could be no lack. Where the mild gods are absent, the Other Gods are not unrepresented;
 and certainly, the onyx castle of castles was far from tenantless. In what outrageous form or
 forms terror would next reveal itself, Carter could by no means imagine. He felt that his visit
@@ -2700,13 +2700,13 @@ chamber the hideous blast of a daemon trumpet. Three times pealed that frightful
 and when the echoes of the third blast had died chucklingly away Randolph Carter saw that he
 was alone. Whither, why, and how the ghouls and night-gaunts had been snatched from sight was
 not for him to divine. He knew only that he was suddenly alone, and that whatever unseen powers
-lurked mockingly around him were no powers of earth&rsquo;s friendly dreamland. Presently from
-the chamber&rsquo;s uttermost reaches a new sound came. This, too, was a rhythmic trumpeting;
+lurked mockingly around him were no powers of earth's friendly dreamland. Presently from
+the chamber's uttermost reaches a new sound came. This, too, was a rhythmic trumpeting;
 but of a kind far removed from the three raucous blasts which had dissolved his grisly cohorts.
 In this low fanfare echoed all the wonder and melody of ethereal dream; exotic vistas of unimagined
 loveliness floating from each strange chord and subtly alien cadence. Odours of incense came
 to match the golden notes; and overhead a great light dawned, its colours changing in cycles
-unknown to earth&rsquo;s spectrum, and following the song of the trumpet in weird symphonic
+unknown to earth's spectrum, and following the song of the trumpet in weird symphonic
 harmonies. Torches flared in the distance, and the beat of drums throbbed nearer amidst waves
 of tense expectancy.  
 
@@ -2716,10 +2716,10 @@ helmet-like torches of glittering metal, from which the fragrance of obscure bal
 in fumous spirals. In their right hands were crystal wands whose tips were carven into leering
 chimaeras, while their left hands grasped long, thin silver trumpets which they blew in turn.
 Armlets and anklets of gold they had, and between each pair of anklets stretched a golden chain
-that held its wearer to a sober gait. That they were true black men of earth&rsquo;s dreamland
+that held its wearer to a sober gait. That they were true black men of earth's dreamland
 was at once apparent, but it seemed less likely that their rites and costumes were wholly things
 of our earth. Ten feet from Carter the columns stopped, and as they did so each trumpet flew
-abruptly to its bearer&rsquo;s thick lips. Wild and ecstatic was the blast that followed, and
+abruptly to its bearer's thick lips. Wild and ecstatic was the blast that followed, and
 wilder still the cry that chorused just after from dark throats somehow made shrill by strange
 artifice.  
 
@@ -2730,42 +2730,42 @@ whose proud carriage and swart features had in them the fascination of a dark go
 archangel, and around whose eyes there lurked the languid sparkle of capricious humour. It spoke,
 and in its mellow tones there rippled the mild music of Lethean streams.  
 
-  &ldquo;Randolph Carter,&rdquo; said the voice, &ldquo;you have come to see
+   "Randolph Carter, " said the voice,  "you have come to see
 the Great Ones whom it is unlawful for men to see. Watchers have spoken of this thing, and the
 Other Gods have grunted as they rolled and tumbled mindlessly to the sound of thin flutes in
 the black ultimate void where broods the daemon-sultan whose name no lips dare speak aloud.  
 
-  &ldquo;When Barzai the Wise climbed Hatheg-Kla to see the Great Ones dance
+   "When Barzai the Wise climbed Hatheg-Kla to see the Great Ones dance
 and howl above the clouds in the moonlight he never returned. The Other Gods were there, and
 they did what was expected. Zenig of Aphorat sought to reach unknown Kadath in the cold waste,
 and his skull is now set in a ring on the little finger of one whom I need not name.  
 
-  &ldquo;But you, Randolph Carter, have braved all things of earth&rsquo;s dreamland,
+   "But you, Randolph Carter, have braved all things of earth's dreamland,
 and burn still with the flame of quest. You came not as one curious, but as one seeking his
 due, nor have you failed ever in reverence toward the mild gods of earth. Yet have these gods
 kept you from the marvellous sunset city of your dreams, and wholly through their own small
 covetousness; for verily, they craved the weird loveliness of that which your fancy had fashioned,
 and vowed that henceforward no other spot should be their abode.  
 
-  &ldquo;They are gone from their castle on unknown Kadath to dwell in your marvellous
+   "They are gone from their castle on unknown Kadath to dwell in your marvellous
 city. All through its palaces of veined marble they revel by day, and when the sun sets they
 go out in the perfumed gardens and watch the golden glory on temples and colonnades, arched
 bridges and silver-basined fountains, and wide streets with blossom-laden urns and ivory statues
 in gleaming rows. And when night comes they climb tall terraces in the dew, and sit on carved
-benches of porphyry scanning the stars, or lean over pale balustrades to gaze at the town&rsquo;s
+benches of porphyry scanning the stars, or lean over pale balustrades to gaze at the town's
 steep northward slopes, where one by one the little windows in old peaked gables shine softly
 out with the calm yellow light of homely candles.  
 
-  &ldquo;The gods love your marvellous city, and walk no more in the ways of
+   "The gods love your marvellous city, and walk no more in the ways of
 the gods. They have forgotten the high places of earth, and the mountains that knew their youth.
 The earth has no longer any gods that are gods, and only the Other Ones from outer space hold
 sway on unremembered Kadath. Far away in a valley of your own childhood, Randolph Carter, play
 the heedless Great Ones. You have dreamed too well, O wise arch-dreamer, for you have drawn
-dream&rsquo;s gods away from the world of all men&rsquo;s visions to that which is wholly yours;
-having builded out of your boyhood&rsquo;s small fancies a city more lovely than all the phantoms
+dream's gods away from the world of all men's visions to that which is wholly yours;
+having builded out of your boyhood's small fancies a city more lovely than all the phantoms
 that have gone before.  
 
-  &ldquo;It is not well that earth&rsquo;s gods leave their thrones for the spider
+   "It is not well that earth's gods leave their thrones for the spider
 to spin on, and their realm for the Others to sway in the dark manner of Others. Fain would
 the powers from outside bring chaos and horror to you, Randolph Carter, who are the cause of
 their upsetting, but that they know it is by you alone that the gods may be sent back to their
@@ -2773,7 +2773,7 @@ world. In that half-waking dreamland which is yours, no power of uttermost night
 and only you can send the selfish Great Ones gently out of your marvellous sunset city, back
 through the northern twilight to their wonted place atop unknown Kadath in the cold waste.  
 
-  &ldquo;So, Randolph Carter, in the name of the Other Gods I spare you and charge
+   "So, Randolph Carter, in the name of the Other Gods I spare you and charge
 you to serve my will. I charge you to seek that sunset city which is yours, and to send thence
 the drowsy truant gods for whom the dream-world waits. Not hard to find is that roseal fever
 of the gods, that fanfare of supernal trumpets and clash of immortal cymbals, that mystery whose
@@ -2785,28 +2785,28 @@ It is not over unknown seas but back over well-known years that your quest must 
 the bright strange things of infancy and the quick sun-drenched glimpses of magic that old scenes
 brought to wide young eyes.  
 
-  &ldquo;For know you, that your gold and marble city of wonder is only the sum
-of what you have seen and loved in youth. It is the glory of Boston&rsquo;s hillside roofs and
+   "For know you, that your gold and marble city of wonder is only the sum
+of what you have seen and loved in youth. It is the glory of Boston's hillside roofs and
 western windows aflame with sunset; of the flower-fragrant Common and the great dome on the
 hill and the tangle of gables and chimneys in the violet valley where the many-bridged Charles
 flows drowsily. These things you saw, Randolph Carter, when your nurse first wheeled you out
 in the springtime, and they will be the last things you will ever see with eyes of memory and
 of love. And there is antique Salem with its brooding years, and spectral Marblehead scaling
-its rocky precipices into past centuries, and the glory of Salem&rsquo;s towers and spires seen
-afar from Marblehead&rsquo;s pastures across the harbour against the setting sun.  
+its rocky precipices into past centuries, and the glory of Salem's towers and spires seen
+afar from Marblehead's pastures across the harbour against the setting sun.  
 
-  &ldquo;There is Providence, quaint and lordly on its seven hills over the blue
+   "There is Providence, quaint and lordly on its seven hills over the blue
 harbour, with terraces of green leading up to steeples and citadels of living antiquity, and
 Newport climbing wraith-like from its dreaming breakwater. Arkham is there, with its moss-grown
 gambrel roofs and the rocky rolling meadows behind it; and antediluvian Kingsport hoary with
 stacked chimneys and deserted quays and overhanging gables, and the marvel of high cliffs and
 the milky-misted ocean with tolling buoys beyond.  
 
-  &ldquo;Cool vales in Concord, cobbled lanes in Portsmouth, twilight bends of
+   "Cool vales in Concord, cobbled lanes in Portsmouth, twilight bends of
 rustic New-Hampshire roads where giant elms half hide white farmhouse walls and creaking well-sweeps.
-Gloucester&rsquo;s salt wharves and Truro&rsquo;s windy willows. Vistas of distant steepled
+Gloucester's salt wharves and Truro's windy willows. Vistas of distant steepled
 towns and hills beyond hills along the North Shore, hushed stony slopes and low ivied cottages
-in the lee of huge boulders in Rhode-Island&rsquo;s back country. Scent of the sea and fragrance
+in the lee of huge boulders in Rhode-Island's back country. Scent of the sea and fragrance
 of the fields; spell of the dark woods and joy of the orchards and gardens at dawn. These, Randolph
 Carter, are your city; for they are yourself. New-England bore you, and into your soul she poured
 a liquid loveliness which cannot die. This loveliness, moulded, crystallised, and polished by
@@ -2815,9 +2815,9 @@ parapet with curious urns and carven rail, and descend at last those endless bal
 to the city of broad squares and prismatic fountains, you need only to turn back to the thoughts
 and visions of your wistful boyhood.  
 
-  &ldquo;Look! through that window shine the stars of eternal night. Even now
+   "Look! through that window shine the stars of eternal night. Even now
 they are shining above the scenes you have known and cherished, drinking of their charm that
-they may shine more lovely over the gardens of dream. There is Antares&mdash;he is winking at
+they may shine more lovely over the gardens of dream. There is Antares--he is winking at
 this moment over the roofs of Tremont Street, and you could see him from your window on Beacon
 Hill. Out beyond those stars yawn the gulfs from whence my mindless masters have sent me. Some
 day you too may traverse them, but if you are wise you will beware such folly; for of those
@@ -2830,53 +2830,53 @@ find the way. Shun, then, the outer hells, and stick to the calm, lovely things 
 Seek out your marvellous city and drive thence the recreant Great Ones, sending them back gently
 to those scenes which are of their own youth, and which wait uneasy for their return.  
 
-  &ldquo;Easier even than the way of dim memory is the way I will prepare for
+   "Easier even than the way of dim memory is the way I will prepare for
 you. See! There comes hither a monstrous shantak, led by a slave who for your peace of mind
-had best keep invisible. Mount and be ready&mdash;there! Yogash the black will help you on the
-scaly horror. Steer for that brightest star just south of the zenith&mdash;it is Vega, and in
+had best keep invisible. Mount and be ready--there! Yogash the black will help you on the
+scaly horror. Steer for that brightest star just south of the zenith--it is Vega, and in
 two hours will be just above the terrace of your sunset city. Steer for it only till you hear
 a far-off singing in the high aether. Higher than that lurks madness, so rein your shantak when
 the first note lures. Look then back to earth, and you will see shining the deathless altar-flame
 of Ired-Naa from the sacred roof of a temple. That temple is in your desiderate sunset city,
 so steer for it before you heed the singing and are lost.  
 
-  &ldquo;When you draw nigh the city steer for the same high parapet whence of
+   "When you draw nigh the city steer for the same high parapet whence of
 old you scanned the outspread glory, prodding the shantak till he cry aloud. That cry the Great
 Ones will hear and know as they sit on their perfumed terraces, and there will come upon them
-such a homesickness that all of your city&rsquo;s wonders will not console them for the absence
-of Kadath&rsquo;s grim castle and the pshent of eternal stars that crowns it.  
+such a homesickness that all of your city's wonders will not console them for the absence
+of Kadath's grim castle and the pshent of eternal stars that crowns it.  
 
-  &ldquo;Then must you land amongst them with the shantak, and let them see and
+   "Then must you land amongst them with the shantak, and let them see and
 touch that noisome and hippocephalic bird; meanwhile discoursing to them of unknown Kadath,
 which you will so lately have left, and telling them how its boundless halls are lonely and
 unlighted, where of old they used to leap and revel in supernal radiance. And the shantak will
 talk to them in the manner of shantaks, but it will have no powers of persuasion beyond the
 recalling of elder days.  
 
-  &ldquo;Over and over must you speak to the wandering Great Ones of their home
+   "Over and over must you speak to the wandering Great Ones of their home
 and youth, till at last they will weep and ask to be shewn the returning path they have forgotten.
 Thereat can you loose the waiting shantak, sending him skyward with the homing cry of his kind;
 hearing which the Great Ones will prance and jump with antique mirth, and forthwith stride after
-the loathly bird in the fashion of gods, through the deep gulfs of heaven to Kadath&rsquo;s
+the loathly bird in the fashion of gods, through the deep gulfs of heaven to Kadath's
 familiar towers and domes.  
 
-  &ldquo;Then will the marvellous sunset city be yours to cherish and inhabit
-forever, and once more will earth&rsquo;s gods rule the dreams of men from their accustomed
-seat. Go now&mdash;the casement is open and the stars await outside. Already your shantak wheezes
+   "Then will the marvellous sunset city be yours to cherish and inhabit
+forever, and once more will earth's gods rule the dreams of men from their accustomed
+seat. Go now--the casement is open and the stars await outside. Already your shantak wheezes
 and titters with impatience. Steer for Vega through the night, but turn when the singing sounds.
 Forget not this warning, lest horrors unthinkable suck you into the gulf of shrieking and ululant
 madness. Remember the Other Gods; they are great and mindless and terrible, and lurk in the
 outer voids. They are good gods to shun.  
 
-  &ldquo;  Hei! Aa-shanta &rsquo;nygh!   You are off! Send back earth&rsquo;s
+   "  Hei! Aa-shanta 'nygh!   You are off! Send back earth's
 gods to their haunts on unknown Kadath, and pray to all space that you may never meet me in
 my thousand other forms. Farewell, Randolph Carter, and beware;   for I am Nyarlathotep, the
-Crawling Chaos!  &rdquo;  
+Crawling Chaos!   "  
 
   And Randolph Carter, gasping and dizzy on his hideous shantak, shot screamingly
 into space toward the cold blue glare of boreal Vega; looking but once behind him at the clustered
 and chaotic turrets of the onyx nightmare wherein still glowed the lone lurid light of that
-window above the air and the clouds of earth&rsquo;s dreamland. Great polypous horrors slid
+window above the air and the clouds of earth's dreamland. Great polypous horrors slid
 darkly past, and unseen bat-wings beat multitudinous around him, but still he clung to the unwholesome
 mane of that loathly and hippocephalic scaled bird. The stars danced mockingly, almost shifting
 now and then to form pale signs of doom that one might wonder one had not seen and feared before;
@@ -2895,15 +2895,15 @@ strange gulfs, and whirling in the crystal coils of outer magic. Then came too l
 of the evil one, the sardonic caution of the daemon legate who had bidden the seeker beware
 the madness of that song. Only to taunt had Nyarlathotep marked out the way to safety and the
 marvellous sunset city; only to mock had that black messenger revealed the secret of those truant
-gods whose steps he could so easily lead back at will. For madness and the void&rsquo;s wild
-vengeance are Nyarlathotep&rsquo;s only gifts to the presumptuous; and frantick though the rider
+gods whose steps he could so easily lead back at will. For madness and the void's wild
+vengeance are Nyarlathotep's only gifts to the presumptuous; and frantick though the rider
 strove to turn his disgusting steed, that leering, tittering shantak coursed on impetuous and
 relentless, flapping its great slippery wings in malignant joy, and headed for those unhallowed
 pits whither no dreams reach; that last amorphous blight of nethermost confusion where bubbles
-and blasphemes at infinity&rsquo;s centre the mindless daemon-sultan Azathoth, whose name no
+and blasphemes at infinity's centre the mindless daemon-sultan Azathoth, whose name no
 lips dare speak aloud.  
 
-  Unswerving and obedient to the foul legate&rsquo;s orders, that hellish bird
+  Unswerving and obedient to the foul legate's orders, that hellish bird
 plunged onward through shoals of shapeless lurkers and caperers in darkness, and vacuous herds
 of drifting entities that pawed and groped and groped and pawed; the nameless larvae of the
 Other Gods, that are like them blind and without mind, and possessed of singular hungers and
@@ -2917,36 +2917,36 @@ through stark formlessness toward those inconceivable, unlighted chambers beyond
 black Azathoth gnaws shapeless and ravenous amidst the muffled, maddening beat of vile drums
 and the thin, monotonous whine of accursed flutes.  
 
-  Onward&mdash;onward&mdash;through the screaming, cackling, and blackly populous
-gulfs&mdash;and then from some dim blessed distance there came an image and a thought to Randolph
+  Onward--onward--through the screaming, cackling, and blackly populous
+gulfs--and then from some dim blessed distance there came an image and a thought to Randolph
 Carter the doomed. Too well had Nyarlathotep planned his mocking and his tantalising, for he
-had brought up that which no gusts of icy terror could quite efface. Home&mdash;New England&mdash;Beacon
-Hill&mdash;the waking world.  
+had brought up that which no gusts of icy terror could quite efface. Home--New England--Beacon
+Hill--the waking world.  
 
-  &ldquo;For know you, that your gold and marble city of wonder is only the sum
-of what you have seen and loved in youth&nbsp;.&nbsp;.&nbsp;. the glory of Boston&rsquo;s hillside roofs and
+   "For know you, that your gold and marble city of wonder is only the sum
+of what you have seen and loved in youth . . . the glory of Boston's hillside roofs and
 western windows aflame with sunset; of the flower-fragrant Common and the great dome on the
 hill and the tangle of gables and chimneys in the violet valley where the many-bridged Charles
-flows drowsily&nbsp;.&nbsp;.&nbsp;. this loveliness, moulded, crystallised, and polished by years of memory
+flows drowsily . . . this loveliness, moulded, crystallised, and polished by years of memory
 and dreaming, is your terraced wonder of elusive sunsets; and to find that marble parapet with
 curious urns and carven rail, and descend at last those endless balustraded steps to the city
 of broad squares and prismatic fountains, you need only to turn back to the thoughts and visions
-of your wistful boyhood.&rdquo;  
+of your wistful boyhood. "  
 
-  Onward&mdash;onward&mdash;dizzily onward to ultimate doom through the blackness
+  Onward--onward--dizzily onward to ultimate doom through the blackness
 where sightless feelers pawed and slimy snouts jostled and nameless things tittered and tittered
 and tittered. But the image and the thought had come, and Randolph Carter knew clearly that
 he was dreaming and only dreaming, and that somewhere in the background the world of waking
-and the city of his infancy still lay. Words came again&mdash;&ldquo;You need only turn back
-to the thoughts and visions of your wistful boyhood.&rdquo; Turn&mdash;turn&mdash;blackness
+and the city of his infancy still lay. Words came again-- "You need only turn back
+to the thoughts and visions of your wistful boyhood. " Turn--turn--blackness
 on every side, but Randolph Carter could turn.  
 
   Thick though the rushing nightmare that clutched his senses, Randolph Carter
 could turn and move. He could move, and if he chose he could leap off the evil shantak that
 bore him hurtlingly doomward at the orders of Nyarlathotep. He could leap off and dare those
 depths of night that yawned interminably down, those depths of fear whose terrors yet could
-not exceed the nameless doom that lurked waiting at chaos&rsquo; core. He could turn and move
-and leap&mdash;he could&mdash;he would&mdash;he would&mdash;  
+not exceed the nameless doom that lurked waiting at chaos' core. He could turn and move
+and leap--he could--he would--he would--  
 
   Off that vast hippocephalic abomination leaped the doomed and desperate dreamer,
 and down through endless voids of sentient blackness he fell. Aeons reeled, universes died and
@@ -2962,8 +2962,8 @@ gone, been and gone, always and always, back to no first beginning.
   And there was a firmament again, and a wind, and a glare of purple light in
 the eyes of the falling dreamer. There were gods and presences and wills; beauty and evil, and
 the shrieking of noxious night robbed of its prey. For through the unknown ultimate cycle had
-lived a thought and a vision of a dreamer&rsquo;s boyhood, and now there were re-made a waking
-world and an old cherished city to body and to justify these things. Out of the void S&rsquo;ngac
+lived a thought and a vision of a dreamer's boyhood, and now there were re-made a waking
+world and an old cherished city to body and to justify these things. Out of the void S'ngac
 the violet gas had pointed the way, and archaic Nodens was bellowing his guidance from unhinted
 deeps.  
 
@@ -2974,12 +2974,12 @@ quarry, stopped baffled by a glare that seared his formless hunting-horrors to g
 Carter had indeed descended at last the wide marmoreal flights to his marvellous city, for he
 was come again to the fair New England world that had wrought him.  
 
-  So to the organ chords of morning&rsquo;s myriad whistles, and dawn&rsquo;s
+  So to the organ chords of morning's myriad whistles, and dawn's
 blaze thrown dazzling through purple panes by the great gold dome of the State House on the
 hill, Randolph Carter leaped shoutingly awake within his Boston room. Birds sang in hidden gardens
 and the perfume of trellised vines came wistful from arbours his grandfather had reared. Beauty
 and light glowed from classic mantel and carven cornice and walls grotesquely figured, while
-a sleek black cat rose yawning from hearthside sleep that his master&rsquo;s start and shriek
+a sleek black cat rose yawning from hearthside sleep that his master's start and shriek
 had disturbed. And vast infinities away, past the Gate of Deeper Slumber and the enchanted wood
 and the garden lands and the Cerenerian Sea and the twilight reaches of Inganok, the crawling
 chaos Nyarlathotep strode brooding into the onyx castle atop unknown Kadath in the cold waste,

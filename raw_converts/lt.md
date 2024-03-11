@@ -10,7 +10,7 @@
 Few persons know the inside of the Clarendon story, or even that there is an inside not reached
 by the newspapers. It was a San Francisco sensation in the days before the fire, both because
 of the panic and menace that kept it company, and because of its close linkage with the governor
-of the state. Governor Dalton, it will be recalled, was Clarendon&rsquo;s best friend, and later
+of the state. Governor Dalton, it will be recalled, was Clarendon's best friend, and later
 married his sister. Neither Dalton nor Mrs. Dalton would ever discuss the painful affair, but
 somehow the facts have leaked out to a limited circle. But for that and for the years which
 have given a sort of vagueness and impersonality to the actors, one would still pause before
@@ -30,24 +30,24 @@ Dr. Clarendon and his new home near old Goat Hill, sketches of his career and ma
 and popular accounts of his salient scientific discoveries were all presented in the principal
 California dailies, till the public soon felt a sort of reflected pride in the man whose studies
 of pyemia in India, of the pest in China, and of every sort of kindred disorder elsewhere would
-soon enrich the world of medicine with an antitoxin of revolutionary importance&mdash;a basic
+soon enrich the world of medicine with an antitoxin of revolutionary importance--a basic
 antitoxin combating the whole febrile principle at its very source, and ensuring the ultimate
 conquest and extirpation of fever in all its diverse forms.  
 
   Back of the appointment stretched an extended and not wholly unromantic history
 of early friendship, long separation, and dramatically renewed acquaintance. James Dalton and
-the Clarendon family had been friends in New York ten years before&mdash;friends and more than
-friends, since the doctor&rsquo;s only sister, Georgina, was the sweetheart of Dalton&rsquo;s
-youth, while the doctor himself had been his closest associate and almost his prot&eacute;g&eacute;
+the Clarendon family had been friends in New York ten years before--friends and more than
+friends, since the doctor's only sister, Georgina, was the sweetheart of Dalton's
+youth, while the doctor himself had been his closest associate and almost his protégé
 in the days of school and college. The father of Alfred and Georgina, a Wall Street pirate of
-the ruthless elder breed, had known Dalton&rsquo;s father well; so well, indeed, that he had
-finally stripped him of all he possessed in a memorable afternoon&rsquo;s fight on the stock
+the ruthless elder breed, had known Dalton's father well; so well, indeed, that he had
+finally stripped him of all he possessed in a memorable afternoon's fight on the stock
 exchange. Dalton Senior, hopeless of recuperation and wishing to give his one adored child the
 benefit of his insurance, had promptly blown out his brains; but James had not sought to retaliate.
 It was, as he viewed it, all in the game; and he wished no harm to the father of the girl he
 meant to marry and of the budding young scientist whose admirer and protector he had been throughout
 their years of fellowship and study. Instead, he turned to the law, established himself in a
-small way, and in due course of time asked &ldquo;Old Clarendon&rdquo; for Georgina&rsquo;s hand.  
+small way, and in due course of time asked  "Old Clarendon " for Georgina's hand.  
 
   Old Clarendon had refused very firmly and loudly, vowing that no pauper and
 upstart lawyer was fit to be his son-in-law; and a scene of considerable violence had occurred.
@@ -55,7 +55,7 @@ James, telling the wrinkled freebooter at last what he ought to have been told l
 had left the house and the city in a high temper; and was embarked within a month upon the California
 life which was to lead him to the governorship through many a fight with ring and politician.
 His farewells to Alfred and Georgina had been brief, and he had never known the aftermath of
-that scene in the Clarendon library. Only by a day did he miss the news of Old Clarendon&rsquo;s
+that scene in the Clarendon library. Only by a day did he miss the news of Old Clarendon's
 death from apoplexy, and by so missing it, changed the course of his whole career. He had not
 written Georgina in the decade that followed; knowing her loyalty to her father, and waiting
 till his own fortune and position might remove all obstacles to the match. Nor had he sent any
@@ -66,7 +66,7 @@ and with a perfect intuitive faith that Georgina also was waiting.
 
   In this faith Dalton was not deceived. Wondering perhaps why no message ever
 came, Georgina found no romance save in her dreams and expectations; and in the course of time
-became busy with the new responsibilities brought by her brother&rsquo;s rise to greatness. Alfred&rsquo;s
+became busy with the new responsibilities brought by her brother's rise to greatness. Alfred's
 growth had not belied the promise of his youth, and the slim boy had darted quietly up the steps
 of science with a speed and permanence almost dizzying to contemplate. Lean and ascetic, with
 steel-rimmed pince-nez and pointed brown beard, Dr. Alfred Clarendon was an authority at twenty-five
@@ -85,10 +85,10 @@ interests with their pursuit of abstract science. His enemies called him a bore;
 pausing before the white heat of ecstasy into which he would work himself, became almost ashamed
 of ever having any standards or aspirations outside the one divine sphere of unalloyed knowledge.  
 
-  The doctor&rsquo;s travels were extensive and Georgina generally accompanied
+  The doctor's travels were extensive and Georgina generally accompanied
 him on the shorter ones. Three times, however, he had taken long, lone jaunts to strange and
 distant places in his studies of exotic fevers and half-fabulous plagues; for he knew that it
-is out of the unknown lands of cryptic and immemorial Asia that most of the earth&rsquo;s diseases
+is out of the unknown lands of cryptic and immemorial Asia that most of the earth's diseases
 spring. On each of these occasions he had brought back curious mementoes which added to the
 eccentricity of his home, not least among which was the needlessly large staff of Thibetan servants
 picked up somewhere in U-tsang during an epidemic of which the world never heard, but amidst
@@ -107,16 +107,16 @@ during which he had studied certain odd intermittent fevers among the mysterious
 whose descent from the primal race of lost Atlantis is an old archaeological rumour. Surama,
 a man of great intelligence and seemingly inexhaustible erudition, was as morbidly lean as the
 Thibetan servants; with swarthy, parchment-like skin drawn so tightly over his bald pate and
-hairless face that every line of the skull stood out in ghastly prominence&mdash;this death&rsquo;s-head
+hairless face that every line of the skull stood out in ghastly prominence--this death's-head
 effect being heightened by lustrelessly burning black eyes set with a depth which left to common
 visibility only a pair of dark, vacant sockets. Unlike the ideal subordinate, he seemed despite
 his impassive features to spend no effort in concealing such emotions as he possessed. Instead,
 he carried about an insidious atmosphere of irony or amusement, accompanied at certain moments
 by a deep, guttural chuckle like that of a giant turtle which has just torn to pieces some furry
 animal and is ambling away toward the sea. His race appeared to be Caucasian, but could not
-be classified more closely than that. Some of Clarendon&rsquo;s friends thought he looked like
-a high-caste Hindoo notwithstanding his accentless speech, while many agreed with Georgina&mdash;who
-disliked him&mdash;when she gave her opinion that a Pharaoh&rsquo;s mummy, if miraculously brought
+be classified more closely than that. Some of Clarendon's friends thought he looked like
+a high-caste Hindoo notwithstanding his accentless speech, while many agreed with Georgina--who
+disliked him--when she gave her opinion that a Pharaoh's mummy, if miraculously brought
 to life, would form a very apt twin for this sardonic skeleton.  
 
   Dalton, absorbed in his uphill political battles and isolated from Eastern
@@ -125,7 +125,7 @@ rise of his former comrade; Clarendon had actually heard nothing of one so far o
 world of science as the governor. Being of independent and even of abundant means, the Clarendons
 had for many years stuck to their old Manhattan mansion in East Nineteenth Street, whose ghosts
 must have looked sorely askance at the bizarrerie of Surama and the Thibetans. Then, through
-the doctor&rsquo;s wish to transfer his base of medical observation, the great change had suddenly
+the doctor's wish to transfer his base of medical observation, the great change had suddenly
 come, and they had crossed the continent to take up a secluded life in San Francisco; buying
 the gloomy old Bannister place near Goat Hill, overlooking the bay, and establishing their strange
 household in a rambling, French-roofed relic of mid-Victorian design and gold-rush parvenu display,
@@ -135,35 +135,35 @@ set amidst high-walled grounds in a region still half suburban.
 for lack of opportunities to apply and test his pathological theories. Unworldly as he was,
 he had never thought of using his reputation as an influence to gain public appointment; though
 more and more he realised that only the medical directorship of a government or a charitable
-institution&mdash;a prison, almshouse, or hospital&mdash;would give him a field of sufficient
+institution--a prison, almshouse, or hospital--would give him a field of sufficient
 width to complete his researches and make his discoveries of the greatest use to humanity and
 science at large.  
 
   Then he had run into James Dalton by sheer accident one afternoon in Market
 Street as the governor was swinging out of the Royal Hotel. Georgina had been with him, and
 an almost instant recognition had heightened the drama of the reunion. Mutual ignorance of one
-another&rsquo;s progress had bred long explanation and histories, and Clarendon was pleased to
+another's progress had bred long explanation and histories, and Clarendon was pleased to
 find that he had so important an official for a friend. Dalton and Georgina, exchanging many
 a glance, felt more than a trace of their youthful tenderness; and a friendship was then and
 there revived which led to frequent calls and a fuller and fuller exchange of confidences.  
 
-  James Dalton learned of his old prot&eacute;g&eacute;&rsquo;s need for political
+  James Dalton learned of his old protégé's need for political
 appointment, and sought, true to his protective role of school and college days, to devise some
-means of giving &ldquo;Little Alf&rdquo; the needed position and scope. He had, it is true, wide
-appointive powers; but the legislature&rsquo;s constant attacks and encroachments forced him
+means of giving  "Little Alf " the needed position and scope. He had, it is true, wide
+appointive powers; but the legislature's constant attacks and encroachments forced him
 to exercise these with the utmost discretion. At length, however, scarcely three months after
 the sudden reunion, the foremost institutional medical office in the state fell vacant. Weighing
-all the elements with care, and conscious that his friend&rsquo;s achievements and reputation
+all the elements with care, and conscious that his friend's achievements and reputation
 would justify the most substantial rewards, the governor felt at last able to act. Formalities
 were few, and on the eighth of November, 189-, Dr. Alfred Schuyler Clarendon became medical
 director of the California State Penitentiary at San Quentin.  
 
     II.    
 
-In scarcely more than a month the hopes of Dr. Clarendon&rsquo;s admirers were
-amply fulfilled. Sweeping changes in methods brought to the prison&rsquo;s medical routine an
+In scarcely more than a month the hopes of Dr. Clarendon's admirers were
+amply fulfilled. Sweeping changes in methods brought to the prison's medical routine an
 efficiency never before dreamed of; and though the subordinates were naturally not without jealousy,
-they were obliged to admit the magical results of a really great man&rsquo;s superintendence.
+they were obliged to admit the magical results of a really great man's superintendence.
 Then came a time where mere appreciation might well have grown to devout thankfulness at a providential
 conjunction of time, place, and man; for one morning Dr. Jones came to his new chief with a
 grave face to announce his discovery of a case which he could not but identify as that selfsame
@@ -171,35 +171,35 @@ black fever whose germ Clarendon had found and classified.
 
   Dr. Clarendon shewed no surprise, but kept on at the writing before him.  
 
-  &ldquo;I know,&rdquo; he said evenly; &ldquo;I came across that case yesterday.
-I&rsquo;m glad you recognised it. Put the man in a separate ward, though I don&rsquo;t believe
-this fever is contagious.&rdquo;  
+   "I know, " he said evenly;  "I came across that case yesterday.
+I'm glad you recognised it. Put the man in a separate ward, though I don't believe
+this fever is contagious. "  
 
-  Dr. Jones, with his own opinion of the malady&rsquo;s contagiousness, was glad
+  Dr. Jones, with his own opinion of the malady's contagiousness, was glad
 of this deference to caution; and hastened to execute the order. Upon his return Clarendon rose
 to leave, declaring that he would himself take charge of the case alone. Disappointed in his
-wish to study the great man&rsquo;s methods and technique, the junior physician watched his chief
+wish to study the great man's methods and technique, the junior physician watched his chief
 stride away toward the lone ward where he had placed the patient, more critical of the new regime
 than at any time since admiration had displaced his first jealous pangs.  
 
   Reaching the ward, Clarendon entered hastily, glancing at the bed and stepping
-back to see how far Dr. Jones&rsquo;s obvious curiosity might have led him. Then, finding the
+back to see how far Dr. Jones's obvious curiosity might have led him. Then, finding the
 corridor still vacant, he shut the door and turned to examine the sufferer. The man was a convict
 of a peculiarly repulsive type, and seemed to be racked by the keenest throes of agony. His
 features were frightfully contracted, and his knees drawn sharply up in the mute desperation
 of the stricken. Clarendon studied him closely, raising his tightly shut eyelids, took his pulse
-and temperature, and finally dissolving a tablet in water, forced the solution between the sufferer&rsquo;s
+and temperature, and finally dissolving a tablet in water, forced the solution between the sufferer's
 lips. Before long the height of the attack abated, as shewn by the relaxing body and returning
 normality of expression, and the patient began to breathe more easily. Then, by a soft rubbing
 of the ears, the doctor caused the man to open his eyes. There was life in them, for they moved
 from side to side, though they lacked the fine fire which we are wont to deem the image of the
 soul. Clarendon smiled as he surveyed the peace his help had brought, feeling behind him the
 power of an all-capable science. He had long known of this case, and had snatched the victim
-from death with the work of a moment. Another hour and this man would have gone&mdash;yet Jones
+from death with the work of a moment. Another hour and this man would have gone--yet Jones
 had seen the symptoms for days before discovering them, and having discovered them, did not
 know what to do.  
 
-  Man&rsquo;s conquest of disease, however, cannot be perfect. Clarendon, assuring
+  Man's conquest of disease, however, cannot be perfect. Clarendon, assuring
 the dubious trusty-nurses that the fever was not contagious, had had the patient bathed, sponged
 in alcohol, and put to bed; but was told the next morning that the case was lost. The man had
 died after midnight in the most intense agony, and with such cries and distortions of face that
@@ -223,14 +223,14 @@ now, and nothing could shake his poise and determination. Additional cases broug
 nod, and he seemed a stranger to fatigue as he hastened from bedside to bedside all over the
 vast stone home of sadness and evil. More than forty cases developed within another week, and
 nurses had to be brought from the city. Clarendon went home very seldom at this stage, often
-sleeping on a cot in the warden&rsquo;s quarters, and always giving himself up with typical abandon
+sleeping on a cot in the warden's quarters, and always giving himself up with typical abandon
 to the service of medicine and of mankind.  
 
   Then came the first mutterings of that storm which was soon to convulse San
 Francisco. News will out, and the menace of black fever spread over the town like a fog from
-the bay. Reporters trained in the doctrine of &ldquo;sensation first&rdquo; used their imagination
+the bay. Reporters trained in the doctrine of  "sensation first " used their imagination
 without restraint, and gloried when at last they were able to produce a case in the Mexican
-quarter which a local physician&mdash;fonder perhaps of money than of truth or civic welfare&mdash;pronounced
+quarter which a local physician--fonder perhaps of money than of truth or civic welfare--pronounced
 black fever.  
 
   That was the last straw. Frantic at the thought of the crawling death so close
@@ -244,16 +244,16 @@ southward highways from Millbrae to San Jose. Many sought refuge with friends in
 while the fright-shaken residue forced by various causes to stay behind could do little more
 than maintain the basic necessities of a nearly dead city.  
 
-  Business, save for quack doctors with &ldquo;sure cures&rdquo; and &ldquo;preventives&rdquo;
+  Business, save for quack doctors with  "sure cures " and  "preventives "
 for use against the fever, fell rapidly to the vanishing-point. At first the saloons offered
-&ldquo;medicated drinks&rdquo;, but soon found that the populace preferred to be duped by charlatans
-of more professional aspect. In strangely noiseless streets persons peered into one another&rsquo;s
+ "medicated drinks ", but soon found that the populace preferred to be duped by charlatans
+of more professional aspect. In strangely noiseless streets persons peered into one another's
 faces to glimpse possible plague symptoms, and shopkeepers began more and more to refuse admission
 to their clientele, each customer seeming to them a fresh fever menace. Legal and judicial machinery
 began to disintegrate as attorneys and county clerks succumbed one by one to the urge for flight.
 Even the doctors deserted in large numbers, many of them pleading the need of vacations among
 the mountains and the lakes in the northern part of the state. Schools and colleges, theatres
-and caf&eacute;s, restaurants and saloons, all gradually closed their doors; and in a single
+and cafés, restaurants and saloons, all gradually closed their doors; and in a single
 week San Francisco lay prostrate and inert with only its light, power, and water service even
 half normal, with newspapers in skeletonic form, and with a crippled parody on transportation
 maintained by the horse and cable cars.  
@@ -264,8 +264,8 @@ black fever epidemic outside San Quentin became too obvious a fact to deny, notw
 several actual cases and the undeniable spread of typhoid in the unsanitary suburban tent colonies.
 The leaders and editors of the community conferred and took action, enlisting in their service
 the very reporters whose energies had done so much to bring on the trouble, but now turning
-their &ldquo;sensation first&rdquo; avidity into more constructive channels. Editorials and fictitious
-interviews appeared, telling of Dr. Clarendon&rsquo;s complete control of the disease, and of
+their  "sensation first " avidity into more constructive channels. Editorials and fictitious
+interviews appeared, telling of Dr. Clarendon's complete control of the disease, and of
 the absolute impossibility of its diffusion beyond the prison walls. Reiteration and circulation
 slowly did their work, and gradually a slim backward trickle of urbanites swelled into a vigorous
 refluent stream. One of the first healthy symptoms was the start of a newspaper controversy
@@ -288,10 +288,10 @@ the people.
   But Clarendon did not reply. He only smiled, while his singular clinic-man
 Surama indulged in many a deep, testudinous chuckle. He was at home more nowadays, so that reporters
 began besieging the gate of the great wall the doctor had built around his house, instead of
-pestering the warden&rsquo;s office at San Quentin. Results, though, were equally meagre; for
-Surama formed an impassable barrier between the doctor and the outer world&mdash;even after the
+pestering the warden's office at San Quentin. Results, though, were equally meagre; for
+Surama formed an impassable barrier between the doctor and the outer world--even after the
 reporters had got into the grounds. The newspaper men getting access to the front hall had glimpses
-of Clarendon&rsquo;s singular entourage and made the best they could in a &ldquo;write-up&rdquo;
+of Clarendon's singular entourage and made the best they could in a  "write-up "
 of Surama and the queer skeletonic Thibetans. Exaggeration, of course, occurred in every fresh
 article, and the net effect of the publicity was distinctly adverse to the great physician.
 Most persons hate the unusual, and hundreds who could have excused heartlessness or incompetence
@@ -301,11 +301,11 @@ black-robed Orientals.
   Early in January an especially persistent young man from the   Observer  
 climbed the moated eight-foot brick wall in the rear of the Clarendon grounds and began a survey
 of the varied outdoor appearances which trees concealed from the front walk. With quick, alert
-brain he took in everything&mdash;the rose-arbour, the aviaries, the animal cages where all sorts
+brain he took in everything--the rose-arbour, the aviaries, the animal cages where all sorts
 of mammalia from monkeys to guinea-pigs might be seen and heard, the stout wooden clinic building
-with barred windows in the northwest corner of the yard&mdash;and bent searching glances throughout
+with barred windows in the northwest corner of the yard--and bent searching glances throughout
 the thousand square feet of intramural privacy. A great article was brewing, and he would have
-escaped unscathed but for the barking of Dick, Georgina Clarendon&rsquo;s gigantic and beloved
+escaped unscathed but for the barking of Dick, Georgina Clarendon's gigantic and beloved
 St. Bernard. Surama, instant in his response, had the youth by the collar before a protest could
 be uttered, and was presently shaking him as a terrier shakes a rat, and dragging him through
 the trees to the front yard and the gate.  
@@ -333,13 +333,13 @@ out of his reach, in a scientific attempt to determine the effect of a tantalisi
 the course of the disease. This invention was followed by paragraphs of insinuating comment
 so outwardly respectful that it bore a double venom. Dr. Clarendon was, the article ran, undoubtedly
 the greatest and most single-minded scientist in the world; but science is no friend to individual
-welfare, and one would not like to have one&rsquo;s gravest ills drawn out and aggravated merely
+welfare, and one would not like to have one's gravest ills drawn out and aggravated merely
 to satisfy an investigator on some point of abstract truth. Life is too short for that.  
 
   Altogether, the article was diabolically skilful, and succeeded in horrifying
 nine readers out of ten against Dr. Clarendon and his supposed methods. Other papers were quick
 to copy and enlarge upon its substance, taking the cue it offered, and commencing a series of
-&ldquo;faked&rdquo; interviews which fairly ran the gamut of derogatory fantasy. In no case, however,
+ "faked " interviews which fairly ran the gamut of derogatory fantasy. In no case, however,
 did the doctor condescend to offer a contradiction. He had no time to waste on fools and liars,
 and cared little for the esteem of a thoughtless rabble he despised. When James Dalton telegraphed
 his regrets and offered aid, Clarendon replied with an almost boorish curtness. He did not heed
@@ -347,7 +347,7 @@ the barking of dogs, and could not bother to muzzle them. Nor would he thank any
 with a matter wholly beneath notice. Silent and contemptuous, he continued his duties with tranquil
 evenness.  
 
-  But the young reporter&rsquo;s spark had done its work. San Francisco was insane
+  But the young reporter's spark had done its work. San Francisco was insane
 again, and this time as much with rage as with fear. Sober judgment became a lost art; and though
 no second exodus occurred, there ensued a reign of vice and recklessness born of desperation,
 and suggesting parallel phenomena in mediaeval times of pestilence. Hatred ran riot against
@@ -371,17 +371,17 @@ Africa wherein Dr. Clarendon had found him.
 upon her brother, but James Dalton, who called often at the house, did his best to comfort her.
 In this he was warm and sincere; for he wished not only to console the woman he loved, but to
 utter some measure of the reverence he had always felt for the starward-bound genius who had
-been his youth&rsquo;s closest comrade. He told Georgina how greatness can never be exempted
+been his youth's closest comrade. He told Georgina how greatness can never be exempted
 from the shafts of envy, and cited the long, sad list of splendid brains crushed beneath vulgar
-heels. The attacks, he pointed out, formed the truest of all proofs of Alfred&rsquo;s solid eminence.  
+heels. The attacks, he pointed out, formed the truest of all proofs of Alfred's solid eminence.  
 
-  &ldquo;But they hurt just the same,&rdquo; she rejoined, &ldquo;and all the more
-because I know that Al really suffers from them, no matter how indifferent he tries to be.&rdquo;  
+   "But they hurt just the same, " she rejoined,  "and all the more
+because I know that Al really suffers from them, no matter how indifferent he tries to be. "  
 
   Dalton kissed her hand in a manner not then obsolete among well-born persons.  
 
-  &ldquo;And it hurts me a thousand times more, knowing that it hurts you and
-Alf. But never mind, Georgie, we&rsquo;ll stand together and pull through it!&rdquo;  
+   "And it hurts me a thousand times more, knowing that it hurts you and
+Alf. But never mind, Georgie, we'll stand together and pull through it! "  
 
   Thus it came about that Georgina came more and more to rely on the strength
 of the steel-firm, square-jawed governor who had been her youthful swain, and more and more
@@ -392,7 +392,7 @@ he meant some vague, indefinable harm to Alfred. She did not like the Thibetans,
 thought it very peculiar that Surama was able to talk with them. Alfred would not tell her who
 or what Surama was, but had once explained rather haltingly that he was a much older man than
 would be commonly thought credible, and that he had mastered secrets and been through experiences
-calculated to make him a colleague of phenomenal value for any scientist seeking Nature&rsquo;s
+calculated to make him a colleague of phenomenal value for any scientist seeking Nature's
 hidden mysteries.  
 
   Urged by her uneasiness, Dalton became a still more frequent visitor at the
@@ -400,15 +400,15 @@ Clarendon home, though he saw that his presence was deeply resented by Surama. T
 formed the habit of glaring peculiarly from those spectral sockets when admitting him, and would
 often, after closing the gate when he left, chuckle monotonously in a manner that made his flesh
 creep. Meanwhile Dr. Clarendon seemed oblivious of everything save his work at San Quentin,
-whither he went each day in his launch&mdash;alone save for Surama, who managed the wheel while
+whither he went each day in his launch--alone save for Surama, who managed the wheel while
 the doctor read or collated his notes. Dalton welcomed these regular absences, for they gave
-him constant opportunities to renew his suit for Georgina&rsquo;s hand. When he would overstay
-and meet Alfred, however, the latter&rsquo;s greeting was always friendly despite his habitual
+him constant opportunities to renew his suit for Georgina's hand. When he would overstay
+and meet Alfred, however, the latter's greeting was always friendly despite his habitual
 reserve. In time the engagement of James and Georgina grew to be a definite thing, and the two
 awaited only a favourable chance to speak to Alfred.  
 
   The governor, whole-souled in everything and firm in his protective loyalty,
-spared no pains in spreading propaganda on his old friend&rsquo;s behalf. Press and officialdom
+spared no pains in spreading propaganda on his old friend's behalf. Press and officialdom
 both felt his influence, and he even succeeded in interesting scientists in the East, many of
 whom came to California to study the plague and investigate the anti-fever bacillus which Clarendon
 was so rapidly isolating and perfecting. These doctors and biologists, however, did not obtain
@@ -427,25 +427,25 @@ the rest of those whose whole lives have served pathology and humanity. Dalton w
 save for Alfred all the magazines that spoke well of him, bringing them in person as an excuse
 to see Georgina. They did not, however, produce much effect save a contemptuous smile; and Clarendon
 would generally throw them to Surama, whose deep, disturbing chuckle upon reading formed a close
-parallel to the doctor&rsquo;s own ironic amusement.  
+parallel to the doctor's own ironic amusement.  
 
   One Monday evening early in February Dalton called with the definite intention
-of asking Clarendon for his sister&rsquo;s hand. Georgina herself admitted him to the grounds,
+of asking Clarendon for his sister's hand. Georgina herself admitted him to the grounds,
 and as they walked toward the house he stopped to pat the great dog which rushed up and laid
-friendly fore paws on his breast. It was Dick, Georgina&rsquo;s cherished St. Bernard, and Dalton
+friendly fore paws on his breast. It was Dick, Georgina's cherished St. Bernard, and Dalton
 was glad to feel that he had the affection of a creature which meant so much to her.  
 
   Dick was excited and glad, and turned the governor nearly half about with his
 vigorous pressure as he gave a soft quick bark and sprang off through the trees toward the clinic.
 He did not vanish, though, but presently stopped and looked back, softly barking again as if
-he wished Dalton to follow. Georgina, fond of obeying her huge pet&rsquo;s playful whims, motioned
+he wished Dalton to follow. Georgina, fond of obeying her huge pet's playful whims, motioned
 to James to see what he wanted; and they both walked slowly after him as he trotted relievedly
 to the rear of the yard where the top of the clinic building stood silhouetted against the stars
 above the great brick wall.  
 
   The outline of lights within shewed around the edges of the dark window-curtains
 so they knew that Alfred and Surama were at work. Suddenly from the interior came a thin, subdued
-sound like a cry of a child&mdash;a plaintive call of &ldquo;Mamma! Mamma!&rdquo; at which Dick
+sound like a cry of a child--a plaintive call of  "Mamma! Mamma! " at which Dick
 barked, while James and Georgina started perceptibly. Then Georgina smiled, remembering the
 parrots that Clarendon always kept for experimental uses, and patted Dick on the head either
 to forgive him for having fooled her and Dalton, or to console him for having been fooled himself.  
@@ -457,41 +457,41 @@ his affection would place no barrier in the way of her happiness.
 
   Later that evening Clarendon came into the house with a springy step and aspect
 less grim than usual. Dalton, seeing a good omen in this easy buoyancy, took heart as the doctor
-wrung his hand with a jovial &ldquo;Ah, Jimmy, how&rsquo;s politics this year?&rdquo; He glanced
+wrung his hand with a jovial  "Ah, Jimmy, how's politics this year? " He glanced
 at Georgina, and she quietly excused herself, while the two men settled down to a chat on general
 subjects. Little by little, amidst many reminders of their old youthful days, Dalton worked
 toward his point; till at last he came out plainly with the crucial query.  
 
-  &ldquo;Alf, I want to marry Georgina. Have we your blessing?&rdquo;  
+   "Alf, I want to marry Georgina. Have we your blessing? "  
 
   Keenly watching his old friend, Dalton saw a shadow steal over his face. The
 dark eyes flashed for a moment, then veiled themselves as wonted placidity returned. So science
 or selfishness was at work after all!  
 
-  &ldquo;You&rsquo;re asking an impossibility, James. Georgina isn&rsquo;t the aimless
+   "You're asking an impossibility, James. Georgina isn't the aimless
 butterfly she was years ago. She has a place in the service of truth and mankind now, and that
-place is here. She&rsquo;s decided to devote her life to my work&mdash;to the household that makes
-my work possible&mdash;and there&rsquo;s no room for desertion or personal caprice.&rdquo;  
+place is here. She's decided to devote her life to my work--to the household that makes
+my work possible--and there's no room for desertion or personal caprice. "  
 
-  Dalton waited to see if he had finished. The same old fanaticism&mdash;humanity
-versus the individual&mdash;and the doctor was going to let it spoil his sister&rsquo;s life!
+  Dalton waited to see if he had finished. The same old fanaticism--humanity
+versus the individual--and the doctor was going to let it spoil his sister's life!
 Then he tried to answer.  
 
-  &ldquo;But look here, Alf, do you mean to say that Georgina, in particular,
+   "But look here, Alf, do you mean to say that Georgina, in particular,
 is so necessary to your work that you must make a slave and martyr of her? Use your sense of
 proportion, man! If it were a question of Surama or somebody in the utter thick of your experiments
 it might be different; but after all, Georgina is only a housekeeper to you in the last analysis.
 She has promised to be my wife and says that she loves me. Have you the right to cut her off
-from the life that belongs to her? Have you the right&mdash;&ldquo;  
+from the life that belongs to her? Have you the right-- "  
 
-  &ldquo;That&rsquo;ll do, James!&rdquo; Clarendon&rsquo;s face was set and white.
-&ldquo;Whether or not I have the right to govern my own family is no business of an outsider.&rdquo;  
+   "That'll do, James! " Clarendon's face was set and white.
+ "Whether or not I have the right to govern my own family is no business of an outsider. "  
 
-  &ldquo;Outsider&mdash;you can say that to a man who&mdash;&rdquo; Dalton almost
+   "Outsider--you can say that to a man who-- " Dalton almost
 choked as the steely voice of the doctor interrupted him again.  
 
-  &ldquo;An outsider to my family, and from now on an outsider to my home. Dalton,
-your presumption goes just a little too far! Good evening, Governor!&rdquo;  
+   "An outsider to my family, and from now on an outsider to my home. Dalton,
+your presumption goes just a little too far! Good evening, Governor! "  
 
   And Clarendon strode from the room without extending his hand.  
 
@@ -499,28 +499,28 @@ your presumption goes just a little too far! Good evening, Governor!&rdquo;
 Georgina entered. Her face shewed that she had spoken with her brother, and Dalton took both
 her hands impetuously.  
 
-  &ldquo;Well, Georgie, what do you say? I&rsquo;m afraid it&rsquo;s a choice between
-Alf and me. You know how I feel&mdash;you know how I felt before, when it was your father I was
-up against. What&rsquo;s your answer this time?&rdquo;  
+   "Well, Georgie, what do you say? I'm afraid it's a choice between
+Alf and me. You know how I feel--you know how I felt before, when it was your father I was
+up against. What's your answer this time? "  
 
   He paused as she responded slowly.  
 
-  &ldquo;James, dear, do you believe that I love you?&rdquo;  
+   "James, dear, do you believe that I love you? "  
 
   He nodded and pressed her hands expectantly.  
 
-  &ldquo;Then, if you love me, you&rsquo;ll wait a while. Don&rsquo;t think of Al&rsquo;s
-rudeness. He&rsquo;s to be pitied. I can&rsquo;t tell you the whole thing now, but you know how
-worried I am&mdash;what with the strain of his work, the criticisms, and the staring and cackling
-of that horrible creature Surama! I&rsquo;m afraid he&rsquo;ll break down&mdash;he shews the strain
-more than anyone outside the family could tell. I can see it, for I&rsquo;ve watched him all
-my life. He&rsquo;s changing&mdash;slowly bending under his burdens&mdash;and he puts on his extra
-brusqueness to hide it. You can see what I mean, can&rsquo;t you, dear?&rdquo;  
+   "Then, if you love me, you'll wait a while. Don't think of Al's
+rudeness. He's to be pitied. I can't tell you the whole thing now, but you know how
+worried I am--what with the strain of his work, the criticisms, and the staring and cackling
+of that horrible creature Surama! I'm afraid he'll break down--he shews the strain
+more than anyone outside the family could tell. I can see it, for I've watched him all
+my life. He's changing--slowly bending under his burdens--and he puts on his extra
+brusqueness to hide it. You can see what I mean, can't you, dear? "  
 
   She paused, and Dalton nodded again, pressing one of her hands to his breast.
 Then she concluded.  
 
-  &ldquo;So promise me, dear, to be patient. I must stand by him; I must! I must!&rdquo;  
+   "So promise me, dear, to be patient. I must stand by him; I must! I must! "  
 
   Dalton did not speak for a while, but his head inclined in what was almost
 a bow of reverence. There was more of Christ in this devoted woman than he had thought any human
@@ -529,7 +529,7 @@ being possessed; and in the face of such love and loyalty he could do no urging.
   Words of sadness and parting were brief; and James, whose blue eyes were misty,
 scarcely saw the gaunt clinic-man as the gate to the street was at last opened to him. But when
 it slammed to behind him he heard that blood-curdling chuckle he had come to recognise so well,
-and knew that Surama was there&mdash;Surama, whom Georgina had called her brother&rsquo;s evil
+and knew that Surama was there--Surama, whom Georgina had called her brother's evil
 genius. Walking away with a firm step, Dalton resolved to be watchful, and to act at the first
 sign of trouble.  
 
@@ -539,20 +539,20 @@ Meanwhile San Francisco, the epidemic still on the lips of all, seethed with
 anti-Clarendon feeling. Actually the cases outside the penitentiary were very few, and confined
 almost wholly to the lower Mexican element whose lack of sanitation was a standing invitation
 to disease of every kind; but politicians and the people needed no more than this to confirm
-the attacks made by the doctor&rsquo;s enemies. Seeing that Dalton was immovable in his championship
+the attacks made by the doctor's enemies. Seeing that Dalton was immovable in his championship
 of Clarendon, the malcontents, medical dogmatists, and ward-heelers turned their attention to
-the state legislature; lining up the anti-Clarendonists and the governor&rsquo;s old enemies
-with great shrewdness, and preparing to launch a law&mdash;with a veto-proof majority&mdash;transferring
+the state legislature; lining up the anti-Clarendonists and the governor's old enemies
+with great shrewdness, and preparing to launch a law--with a veto-proof majority--transferring
 the authority for minor institutional appointments from the chief executive to the various boards
 or commissions concerned.  
 
-  In the furtherance of this measure no lobbyist was more active than Clarendon&rsquo;s
+  In the furtherance of this measure no lobbyist was more active than Clarendon's
 chief assistant, Dr. Jones. Jealous of his superior from the first, he now saw an opportunity
-for turning matters to his liking; and he thanked fate for the circumstance&mdash;responsible
-indeed for his present position&mdash;of his relationship to the chairman of the prison board.
+for turning matters to his liking; and he thanked fate for the circumstance--responsible
+indeed for his present position--of his relationship to the chairman of the prison board.
 The new law, if passed, would certainly mean the removal of Clarendon and the appointment of
 himself in his stead; so, mindful of his own interest, he worked hard for it. Jones was all
-that Clarendon was not&mdash;a natural politician and sycophantic opportunist who served his
+that Clarendon was not--a natural politician and sycophantic opportunist who served his
 own advancement first and science only incidentally. He was poor, and avid for salaried position,
 quite in contrast to the wealthy and independent savant he sought to displace. So with a rat-like
 cunning and persistence he laboured to undermine the great biologist above him, and was one
@@ -561,91 +561,91 @@ to make appointments to the state institutions, and the medical directorship of 
 lay at the disposal of the prison board.  
 
   Of all this legislative turmoil Clarendon was singularly oblivious. Wrapped
-wholly in matters of administration and research, he was blind to the treason of &ldquo;that
-ass Jones&rdquo; who worked by his side, and deaf to all the gossip of the warden&rsquo;s office.
+wholly in matters of administration and research, he was blind to the treason of  "that
+ass Jones " who worked by his side, and deaf to all the gossip of the warden's office.
 He had never in his life read the newspapers, and the banishment of Dalton from his house cut
-off his last real link with the world of outside events. With the naivet&eacute; of a recluse,
-he at no time thought of his position as insecure. In view of Dalton&rsquo;s loyalty, and of
+off his last real link with the world of outside events. With the naiveté of a recluse,
+he at no time thought of his position as insecure. In view of Dalton's loyalty, and of
 his forgiveness of even the greatest wrongs, as shewn in his dealings with the elder Clarendon
 who had crushed his father to death on the stock exchange, the possibility of a gubernatorial
-dismissal was, of course, out of the question; nor could the doctor&rsquo;s political ignorance
+dismissal was, of course, out of the question; nor could the doctor's political ignorance
 envisage a sudden shift of power which might place the matter of retention or dismissal in very
 different hands. Thereupon he merely smiled with satisfaction when Dalton left for Sacramento;
-convinced that his place in San Quentin and his sister&rsquo;s place in his household were alike
+convinced that his place in San Quentin and his sister's place in his household were alike
 secure from disturbance. He was accustomed to having what he wanted, and fancied his luck was
 still holding out.  
 
   The first week in March, a day or so after the enactment of the new law, the
 chairman of the prison board called at San Quentin. Clarendon was out, but Dr. Jones was glad
-to shew the august visitor&mdash;his own uncle, incidentally&mdash;through the great infirmary,
+to shew the august visitor--his own uncle, incidentally--through the great infirmary,
 including the fever ward made so famous by press and panic. By this time converted against his
-will to Clarendon&rsquo;s belief in the fever&rsquo;s non-contagiousness, Jones smilingly assured
-his uncle that nothing was to be feared, and encouraged him to inspect the patients in detail&mdash;especially
+will to Clarendon's belief in the fever's non-contagiousness, Jones smilingly assured
+his uncle that nothing was to be feared, and encouraged him to inspect the patients in detail--especially
 a ghastly skeleton, once a very giant of bulk and vigour, who was, he insinuated, slowly and
 painfully dying because Clarendon would not administer the proper medicine.  
 
-  &ldquo;Do you mean to say,&rdquo; cried the chairman, &ldquo;that Dr. Clarendon
-refuses to let the man have what he needs, knowing his life could be saved?&rdquo;  
+   "Do you mean to say, " cried the chairman,  "that Dr. Clarendon
+refuses to let the man have what he needs, knowing his life could be saved? "  
 
-  &ldquo;Just that,&rdquo; snapped Dr. Jones, pausing as the door opened to admit
+   "Just that, " snapped Dr. Jones, pausing as the door opened to admit
 none other than Clarendon himself. Clarendon nodded coldly to Jones and surveyed the visitor,
 whom he did not know, with disapproval.  
 
-  &ldquo;Dr. Jones, I thought you knew this case was not to be disturbed at all.
-And haven&rsquo;t I said that visitors aren&rsquo;t to be admitted except by special permission?&rdquo;  
+   "Dr. Jones, I thought you knew this case was not to be disturbed at all.
+And haven't I said that visitors aren't to be admitted except by special permission? "  
 
   But the chairman interrupted before his nephew could introduce him.  
 
-  &ldquo;Pardon me, Dr. Clarendon, but am I to understand that you refuse to give
-this man the medicine that would save him?&rdquo;  
+   "Pardon me, Dr. Clarendon, but am I to understand that you refuse to give
+this man the medicine that would save him? "  
 
   Clarendon glared coldly, and rejoined with steel in his voice.  
 
-  &ldquo;That&rsquo;s an impertinent question, sir. I am in authority here, and
-visitors are not allowed. Please leave the room at once.&rdquo;  
+   "That's an impertinent question, sir. I am in authority here, and
+visitors are not allowed. Please leave the room at once. "  
 
   The chairman, his sense of drama secretly tickled, answered with greater pomp
 and hauteur than were necessary.  
 
-  &ldquo;You mistake me, sir! I, not you, am master here. You are addressing the
+   "You mistake me, sir! I, not you, am master here. You are addressing the
 chairman of the prison board. I must say, moreover, that I deem your activity a menace to the
 welfare of the prisoners, and must request your resignation. Henceforth Dr. Jones will be in
 charge, and if you wish to remain until your formal dismissal you will take your orders from
-him.&rdquo;  
+him. "  
 
-  It was Wilfred Jones&rsquo;s great moment. Life never gave him another such
+  It was Wilfred Jones's great moment. Life never gave him another such
 climax, and we need not grudge him this one. After all, he was a small rather than a bad man,
-and he had only obeyed a small man&rsquo;s code of looking to himself at all costs. Clarendon
+and he had only obeyed a small man's code of looking to himself at all costs. Clarendon
 stood still, gazing at the speaker as if he thought him mad, till in another second the look
-of triumph on Dr. Jones&rsquo;s face convinced him that something important was indeed afoot.
+of triumph on Dr. Jones's face convinced him that something important was indeed afoot.
 He was icily courteous as he replied.  
 
-  &ldquo;No doubt you are what you claim to be, sir. But fortunately my appointment
-came from the governor of the state, and can therefore be revoked only by him.&rdquo;  
+   "No doubt you are what you claim to be, sir. But fortunately my appointment
+came from the governor of the state, and can therefore be revoked only by him. "  
 
   The chairman and his nephew both stared perplexedly, for they had not realised
 to what lengths unworldly ignorance can go. Then the older man, grasping the situation, explained
 at some length.  
 
-  &ldquo;Had I found that the current reports did you an injustice,&rdquo; he concluded,
-&ldquo;I would have deferred action; but the case of this poor man and your own arrogant manner
-left me no choice. As it is&mdash;&ldquo;  
+   "Had I found that the current reports did you an injustice, " he concluded,
+ "I would have deferred action; but the case of this poor man and your own arrogant manner
+left me no choice. As it is-- "  
 
   But Dr. Clarendon interrupted with a new razor-sharpness in his voice.  
 
-  &ldquo;As it is, I am the director in charge at present, and I ask you to leave
-this room at once.&rdquo;  
+   "As it is, I am the director in charge at present, and I ask you to leave
+this room at once. "  
 
   The chairman reddened and exploded.  
 
-  &ldquo;Look here, sir, who do you think you&rsquo;re talking to? I&rsquo;ll have
-you chucked out of here&mdash;damn your impertinence!&rdquo;  
+   "Look here, sir, who do you think you're talking to? I'll have
+you chucked out of here--damn your impertinence! "  
 
   But he had time only to finish the sentence. Transformed by the insult to a
 sudden dynamo of hate, the slender scientist launched out with both fists in a burst of preternatural
 strength of which no one would have thought him capable. And if his strength was preternatural,
 his accuracy of aim was no less so; for not even a champion of the ring could have wrought a
-neater result. Both men&mdash;the chairman and Dr. Jones&mdash;were squarely hit; the one full
+neater result. Both men--the chairman and Dr. Jones--were squarely hit; the one full
 in the face and the other on the point of the chin. Going down like felled trees, they lay motionless
 and unconscious on the floor; while Clarendon, now clear and completely master of himself, took
 his hat and cane and went out to join Surama in the launch. Only when seated in the moving boat
@@ -655,7 +655,7 @@ shuddered, made an elder sign that no book of history records, and forgot to chu
 
     IV.    
 
-Georgina soothed her brother&rsquo;s hurt as best she could. He had come home
+Georgina soothed her brother's hurt as best she could. He had come home
 mentally and physically exhausted and thrown himself on the library lounge; and in that gloomy
 room, little by little, the faithful sister had taken in the almost incredible news. Her consolations
 were instantaneous and tender, and she made him realise how vast, though unconscious, a tribute
@@ -671,19 +671,19 @@ force. But even this was ineffective, and Clarendon answered only in a string of
 and half-meaningless little sentences whose tone shewed all too clearly how deeply despair and
 resentment had bitten.  
 
-  &ldquo;Abate? Break out again? Oh, it&rsquo;ll abate all right! At least, they&rsquo;ll
-think it has abated. They&rsquo;d think anything, no matter what happens! Ignorant eyes see nothing,
+   "Abate? Break out again? Oh, it'll abate all right! At least, they'll
+think it has abated. They'd think anything, no matter what happens! Ignorant eyes see nothing,
 and bunglers are never discoverers. Science never shews her face to that sort. And they call
-themselves doctors! Best of all, fancy that ass Jones in charge!&rdquo;  
+themselves doctors! Best of all, fancy that ass Jones in charge! "  
 
   Ceasing with a quick sneer, he laughed so daemoniacally that Georgina shivered.  
 
   The days that followed were dismal ones indeed at the Clarendon mansion. Depression,
-stark and unrelieved, had taken hold of the doctor&rsquo;s usually tireless mind; and he would
+stark and unrelieved, had taken hold of the doctor's usually tireless mind; and he would
 even have refused food had not Georgina forced it upon him. His great notebook of observations
-lay unopened on the library table, and his little gold syringe of anti-fever serum&mdash;a clever
+lay unopened on the library table, and his little gold syringe of anti-fever serum--a clever
 device of his own, with a self-contained reservoir, attached to a broad gold finger ring, and
-single-pressure action peculiar to itself&mdash;rested idly in a small leather case beside it.
+single-pressure action peculiar to itself--rested idly in a small leather case beside it.
 Vigour, ambition, and the desire for study and observation seemed to have died within him; and
 he made no inquiries about his clinic, where hundreds of germ cultures stood in their orderly
 phials awaiting his attention.  
@@ -693,9 +693,9 @@ the early spring sunshine; and as Georgina strolled out through the rose-arbour 
 she felt a strangely incongruous sense of happiness about her. She knew, though, how tragically
 transient that happiness must be; since the start of new work would soon make all these small
 creatures unwilling martyrs to science. Knowing this, she glimpsed a sort of compensating element
-in her brother&rsquo;s inaction, and encouraged him to keep on in a rest he needed so badly.
+in her brother's inaction, and encouraged him to keep on in a rest he needed so badly.
 The eight Thibetan servants moved noiselessly about, each as impeccably effective as usual;
-and Georgina saw to it that the order of the household did not suffer because of the master&rsquo;s
+and Georgina saw to it that the order of the household did not suffer because of the master's
 relaxation.  
 
   Study and starward ambition laid aside in slippered and dressing-gowned indifference,
@@ -703,7 +703,7 @@ Clarendon was content to let Georgina treat him as an infant. He met her materna
 with a slow, sad smile, and always obeyed her multitude of orders and precepts. A kind of faint,
 wistful felicity came over the languid household, amidst which the only dissenting note was
 supplied by Surama. He indeed was miserable, and looked often with sullen and resentful eyes
-at the sunny serenity in Georgina&rsquo;s face. His only joy had been the turmoil of experiment,
+at the sunny serenity in Georgina's face. His only joy had been the turmoil of experiment,
 and he missed the routine of seizing the fated animals, bearing them to the clinic in clutching
 talons, and watching them with hot brooding gaze and evil chuckles as they gradually fell into
 the final coma with wide-opened, red-rimmed eyes, and swollen tongue lolling from froth-covered
@@ -716,10 +716,10 @@ curses upon everything; stealing with cat-like tread to his own quarters in the 
 his voice would sometimes ascend in deep, muffled rhythms of blasphemous strangeness and uncomfortably
 ritualistic suggestion.  
 
-  All this wore on Georgina&rsquo;s nerves, but not by any means so gravely as
-her brother&rsquo;s continued lassitude itself. The duration of the state alarmed her, and little
+  All this wore on Georgina's nerves, but not by any means so gravely as
+her brother's continued lassitude itself. The duration of the state alarmed her, and little
 by little she lost the air of cheerfulness which had so provoked the clinic-man. Herself skilled
-in medicine, she found the doctor&rsquo;s condition highly unsatisfactory from an alienist&rsquo;s
+in medicine, she found the doctor's condition highly unsatisfactory from an alienist's
 point of view; and she now feared as much from his absence of interest and activity as she had
 formerly feared from his fanatical zeal and overstudy. Was lingering melancholy about to turn
 the once brilliant man of intellect into an innocuous imbecile?  
@@ -756,7 +756,7 @@ out in frightened anguish. The sight sickened her, and brought her walk to an en
 soul rebelled at the ascendancy this creature had gained over her brother, and she reflected
 bitterly that the two had almost changed places as master and servant.  
 
-  Night came without Clarendon&rsquo;s return to the house, and Georgina concluded
+  Night came without Clarendon's return to the house, and Georgina concluded
 that he was absorbed in one of his very longest sessions, which meant total disregard of time.
 She hated to retire without a talk with him about his sudden recovery; but finally, feeling
 it would be futile to wait up, she wrote a cheerful note and propped it before his chair on
@@ -772,34 +772,34 @@ the clinic-man might go.
 tenor of the discourse seemed to bespeak absorption and promise length. Georgina, though she
 had not meant to listen, could not help catching a phrase now and then, and presently became
 aware of a sinister undercurrent which frightened her very much without being wholly clear to
-her. Her brother&rsquo;s voice, nervous, incisive, held her notice with disquieting persistence.  
+her. Her brother's voice, nervous, incisive, held her notice with disquieting persistence.  
 
-  &ldquo;But anyway,&rdquo; he was saying, &ldquo;we haven&rsquo;t enough animals
+   "But anyway, " he was saying,  "we haven't enough animals
 for another day, and you know how hard it is to get a decent supply at short notice. It seems
 silly to waste so much effort on comparative trash when human specimens could be had with just
-a little extra care.&rdquo;  
+a little extra care. "  
 
   Georgina sickened at the possible implication, and caught at the hall rack
 to steady herself. Surama was replying in that deep, hollow tone which seemed to echo with the
 evil of a thousand ages and a thousand planets.  
 
-  &ldquo;Steady, steady&mdash;what a child you are with your haste and impatience!
-You crowd things so! When you&rsquo;ve lived as I have, so that a whole life will seem only an
-hour, you won&rsquo;t be so fretful about a day or week or month! You work too fast. You&rsquo;ve
-plenty of specimens in the cages for a full week if you&rsquo;ll only go at a sensible rate.
-You might even begin on the older material if you&rsquo;d be sure not to overdo it.&rdquo;  
+   "Steady, steady--what a child you are with your haste and impatience!
+You crowd things so! When you've lived as I have, so that a whole life will seem only an
+hour, you won't be so fretful about a day or week or month! You work too fast. You've
+plenty of specimens in the cages for a full week if you'll only go at a sensible rate.
+You might even begin on the older material if you'd be sure not to overdo it. "  
 
-  &ldquo;Never mind my haste!&rdquo; the reply was snapped out sharply; &ldquo;I
-have my own methods. I don&rsquo;t want to use our material if I can help it, for I prefer them
-as they are. And you&rsquo;d better be careful of them anyway&mdash;you know the knives those
-sly dogs carry.&rdquo;  
+   "Never mind my haste! " the reply was snapped out sharply;  "I
+have my own methods. I don't want to use our material if I can help it, for I prefer them
+as they are. And you'd better be careful of them anyway--you know the knives those
+sly dogs carry. "  
 
-  Surama&rsquo;s deep chuckle came.  
+  Surama's deep chuckle came.  
 
-  &ldquo;Don&rsquo;t worry about that. The brutes eat, don&rsquo;t they? Well, I
-can get you one any time you need it. But go slow&mdash;with the boy gone, there are only eight,
-and now that you&rsquo;ve lost San Quentin it&rsquo;ll be hard to get new ones by the wholesale.
-I&rsquo;d advise you to start in on Tsanpo&mdash;he&rsquo;s the least use to you as he is, and&mdash;&ldquo;  
+   "Don't worry about that. The brutes eat, don't they? Well, I
+can get you one any time you need it. But go slow--with the boy gone, there are only eight,
+and now that you've lost San Quentin it'll be hard to get new ones by the wholesale.
+I'd advise you to start in on Tsanpo--he's the least use to you as he is, and-- "  
 
   But that was all Georgina heard. Transfixed by a hideous dread from the thoughts
 this talk excited, she nearly sank to the floor where she stood, and was scarcely able to drag
@@ -815,7 +815,7 @@ words had brought.
   With the morning sunshine came a lessening of the tension. What happens in
 the night when one is tired often reaches the consciousness in distorted forms, and Georgina
 could see that her brain must have given strange colour to scraps of common medical conversation.
-To suppose her brother&mdash;only son of the gentle Frances Schuyler Clarendon&mdash;guilty of
+To suppose her brother--only son of the gentle Frances Schuyler Clarendon--guilty of
 savage sacrifices in the name of science would be to do an injustice to their blood, and she
 decided to omit all mention of her trip downstairs, lest Alfred ridicule her fantastic notions.  
 
@@ -826,7 +826,7 @@ cook, she read the morning paper and seated herself with some needlework by the 
 window overlooking the great yard. All was silent out there, and she could see that the last
 of the animal cages had been emptied. Science was served, and the lime-pit held all that was
 left of the once pretty and lively little creatures. This slaughter had always grieved her,
-but she had never complained, since she knew it was all for humanity. Being a scientist&rsquo;s
+but she had never complained, since she knew it was all for humanity. Being a scientist's
 sister, she used to say to herself, was like being the sister of a soldier who kills to save
 his countrymen from their foes.  
 
@@ -836,8 +836,8 @@ alarm. There, not far from the clinic, she saw the ghastly form of Surama, a rev
 hand, and his skull-face twisted into a strange expression as he chuckled at a cowering figure
 robed in black silk and carrying a long Thibetan knife. It was the servant Tsanpo, and as she
 recognised the shrivelled face Georgina remembered horribly what she had overheard the night
-before. The sun flashed on the polished blade, and suddenly Surama&rsquo;s revolver spat once
-more. This time the knife flew from the Mongol&rsquo;s hand, and Surama glanced greedily at his
+before. The sun flashed on the polished blade, and suddenly Surama's revolver spat once
+more. This time the knife flew from the Mongol's hand, and Surama glanced greedily at his
 shaking and bewildered prey.  
 
   Then Tsanpo, glancing quickly at his unhurt hand and at the fallen knife, sprang
@@ -861,114 +861,114 @@ night of anguished sleeplessness.
   Rising haggardly on the following day, Georgina saw the doctor for the first
 time since his recovery. He was bustling about preoccupiedly, circulating between the house
 and the clinic, and paying little attention to anything besides his work. There was no chance
-for the dreaded interview, and Clarendon did not even notice his sister&rsquo;s worn-out aspect
+for the dreaded interview, and Clarendon did not even notice his sister's worn-out aspect
 and hesitant manner.  
 
   In the evening she heard him in the library, talking to himself in a fashion
 most unusual for him, and she felt that he was under a great strain which might culminate in
 the return of his apathy. Entering the room, she tried to calm him without referring to any
 trying subject, and forced a steadying cup of bouillon upon him. Finally she asked gently what
-was distressing him, and waited anxiously for his reply, hoping to hear that Surama&rsquo;s treatment
+was distressing him, and waited anxiously for his reply, hoping to hear that Surama's treatment
 of the poor Thibetan had horrified and outraged him.  
 
   There was a note of fretfulness in his voice as he responded.  
 
-  &ldquo;What&rsquo;s distressing me? Good God, Georgina, what   isn&rsquo;t?  
-Look at the cages and see if you have to ask again! Cleaned out&mdash;milked dry&mdash;not a cursed
+   "What's distressing me? Good God, Georgina, what   isn't?  
+Look at the cages and see if you have to ask again! Cleaned out--milked dry--not a cursed
 specimen left; and a line of the most important bacterial cultures incubating in their tubes
-without a chance to do an ounce of good! Days&rsquo; work wasted&mdash;whole programme set back&mdash;it&rsquo;s
-enough to drive a man mad! How shall I ever get anywhere if I can&rsquo;t scrape up some decent
-subjects?&rdquo;  
+without a chance to do an ounce of good! Days' work wasted--whole programme set back--it's
+enough to drive a man mad! How shall I ever get anywhere if I can't scrape up some decent
+subjects? "  
 
   Georgina stroked his forehead.  
 
-  &ldquo;I think you ought to rest a while, Al dear.&rdquo;  
+   "I think you ought to rest a while, Al dear. "  
 
   He moved away.  
 
-  &ldquo;Rest? That&rsquo;s good! That&rsquo;s damn good! What else have I been
+   "Rest? That's good! That's damn good! What else have I been
 doing but resting and vegetating and staring blankly into space for the last fifty or a hundred
-or a thousand years? Just as I manage to shake off the clouds, I have to run short of material&mdash;and
-then I&rsquo;m told to lapse back again into drooling stupefaction! God! And all the while some
+or a thousand years? Just as I manage to shake off the clouds, I have to run short of material--and
+then I'm told to lapse back again into drooling stupefaction! God! And all the while some
 sneaking thief is probably working with my data and getting ready to come out ahead of me with
-the credit for my own work. I&rsquo;ll lose by a neck&mdash;some fool with the proper specimens
+the credit for my own work. I'll lose by a neck--some fool with the proper specimens
 will get the prize, when one week more with even half-adequate facilities would see me through
-with flying colours!&rdquo;  
+with flying colours! "  
 
   His voice rose querulously, and there was an overtone of mental strain which
 Georgina did not like. She answered softly, yet not so softly as to hint at the soothing of
 a psychopathic case.  
 
-  &ldquo;But you&rsquo;re killing yourself with this worry and tension, and if
-you&rsquo;re dead, how can you do your work?&rdquo;  
+   "But you're killing yourself with this worry and tension, and if
+you're dead, how can you do your work? "  
 
   He gave a smile that was almost a sneer.  
 
-  &ldquo;I guess a week or a month&mdash;all the time I need&mdash;wouldn&rsquo;t
-quite finish me, and it doesn&rsquo;t much matter what becomes of me or any other individual
-in the end. Science is what must be served&mdash;science&mdash;the austere cause of human knowledge.
-I&rsquo;m like the monkeys and birds and guinea-pigs I use&mdash;just a cog in the machine, to
-be used to the advantage of the whole. They had to be killed&mdash;I may have to be killed&mdash;what
-of it? Isn&rsquo;t the cause we serve worth that and more?&rdquo;  
+   "I guess a week or a month--all the time I need--wouldn't
+quite finish me, and it doesn't much matter what becomes of me or any other individual
+in the end. Science is what must be served--science--the austere cause of human knowledge.
+I'm like the monkeys and birds and guinea-pigs I use--just a cog in the machine, to
+be used to the advantage of the whole. They had to be killed--I may have to be killed--what
+of it? Isn't the cause we serve worth that and more? "  
 
   Georgina sighed. For a moment she wondered whether, after all, this ceaseless
 round of slaughter really was worth while.  
 
-  &ldquo;But are you absolutely sure your discovery will be enough of a boon to
-humanity to warrant these sacrifices?&rdquo;  
+   "But are you absolutely sure your discovery will be enough of a boon to
+humanity to warrant these sacrifices? "  
 
-  Clarendon&rsquo;s eyes flashed dangerously.  
+  Clarendon's eyes flashed dangerously.  
 
-  &ldquo;Humanity! What the deuce is humanity? Science! Dolts! Just individuals
+   "Humanity! What the deuce is humanity? Science! Dolts! Just individuals
 over and over again! Humanity is made for preachers to whom it means the blindly credulous.
 Humanity is made for the predatory rich to whom it speaks in terms of dollars and cents. Humanity
 is made for the politician to whom it signifies collective power to be used to his advantage.
-What is humanity? Nothing! Thank God that crude illusion doesn&rsquo;t last! What a grown man
-worships is truth&mdash;knowledge&mdash;science&mdash;light&mdash;the rending of the veil and the
+What is humanity? Nothing! Thank God that crude illusion doesn't last! What a grown man
+worships is truth--knowledge--science--light--the rending of the veil and the
 pushing back of the shadow. Knowledge, the juggernaut! There is death in our own ritual. We
-must kill&mdash;dissect&mdash;destroy&mdash;and all for the sake of discovery&mdash;the worship
+must kill--dissect--destroy--and all for the sake of discovery--the worship
 of the ineffable light. The goddess Science demands it. We test a doubtful poison by killing.
-How else? No thought for self&mdash;just knowledge&mdash;the effect must be known.&rdquo;  
+How else? No thought for self--just knowledge--the effect must be known. "  
 
   His voice trailed off in a kind of temporary exhaustion, and Georgina shuddered
 slightly.  
 
-  &ldquo;But this is horrible, Al! You shouldn&rsquo;t think of it that way!&rdquo;  
+   "But this is horrible, Al! You shouldn't think of it that way! "  
 
   Clarendon cackled sardonically, in a manner which stirred odd and repugnant
-associations in his sister&rsquo;s mind.  
+associations in his sister's mind.  
 
-  &ldquo;Horrible? You think what   I   say is horrible? You ought to hear
+   "Horrible? You think what   I   say is horrible? You ought to hear
 Surama! I tell you, things were known to the priests of Atlantis that would have you drop dead
 of fright if you heard a hint of them. Knowledge was knowledge a hundred thousand years ago,
 when our especial forbears were shambling about Asia as speechless semi-apes! They know something
-of it in the Hoggar region&mdash;there are rumours in the farther uplands of Thibet&mdash;and
-once I heard an old man in China calling on Yog-Sothoth&mdash;&ldquo;  
+of it in the Hoggar region--there are rumours in the farther uplands of Thibet--and
+once I heard an old man in China calling on Yog-Sothoth-- "  
 
   He turned pale, and made a curious sign in the air with his extended forefinger.
 Georgina felt genuinely alarmed, but became somewhat calmer as his speech took a less fantastic
 form.  
 
-  &ldquo;Yes, it may be horrible, but it&rsquo;s glorious too. The pursuit of knowledge,
-I mean. Certainly, there&rsquo;s no slovenly sentiment connected with it. Doesn&rsquo;t Nature
-kill&mdash;constantly and remorselessly&mdash;and are any but fools horrified at the struggle?
+   "Yes, it may be horrible, but it's glorious too. The pursuit of knowledge,
+I mean. Certainly, there's no slovenly sentiment connected with it. Doesn't Nature
+kill--constantly and remorselessly--and are any but fools horrified at the struggle?
 Killings are necessary. They are the glory of science. We learn something from them, and we
-can&rsquo;t sacrifice learning to sentiment. Hear the sentimentalists howl against vaccination!
+can't sacrifice learning to sentiment. Hear the sentimentalists howl against vaccination!
 They fear it will kill the child. Well, what if it does? How else can we discover the laws of
-disease concerned? As a scientist&rsquo;s sister you ought to know better than to prate sentiment.
-You ought to help my work instead of hindering it!&rdquo;  
+disease concerned? As a scientist's sister you ought to know better than to prate sentiment.
+You ought to help my work instead of hindering it! "  
 
-  &ldquo;But, Al,&rdquo; protested Georgina, &ldquo;I haven&rsquo;t the slightest
-intention of hindering your work. Haven&rsquo;t I always tried to help as much as I could? I
-am ignorant, I suppose, and can&rsquo;t help very actively; but at least I&rsquo;m proud of you&mdash;proud
-for my own sake and for the family&rsquo;s sake&mdash;and I&rsquo;ve always tried to smooth the
-way. You&rsquo;ve given me credit for that many a time.&rdquo;  
+   "But, Al, " protested Georgina,  "I haven't the slightest
+intention of hindering your work. Haven't I always tried to help as much as I could? I
+am ignorant, I suppose, and can't help very actively; but at least I'm proud of you--proud
+for my own sake and for the family's sake--and I've always tried to smooth the
+way. You've given me credit for that many a time. "  
 
   Clarendon looked at her keenly.  
 
-  &ldquo;Yes,&rdquo; he said jerkily as he rose and strode from the room, &ldquo;you&rsquo;re
-right. You&rsquo;ve always tried to help as best you knew. You may yet have a chance to help
-still more.&rdquo;  
+   "Yes, " he said jerkily as he rose and strode from the room,  "you're
+right. You've always tried to help as best you knew. You may yet have a chance to help
+still more. "  
 
   Georgina, seeing him disappear through the front door, followed him into the
 yard. Some distance away a lantern was shining through the trees, and as they approached it
@@ -976,13 +976,13 @@ they saw Surama bending over a large object stretched on the ground. Clarendon, 
 a short grunt; but when Georgina saw what it was she rushed up with a shriek. It was Dick, the
 great St. Bernard, and he was lying still with reddened eyes and protruding tongue.  
 
-  &ldquo;He&rsquo;s sick, Al!&rdquo; she cried. &ldquo;Do something for him, quick!&rdquo;  
+   "He's sick, Al! " she cried.  "Do something for him, quick! "  
 
   The doctor looked at Surama, who had uttered something in a tongue unknown
 to Georgina.  
 
-  &ldquo;Take him to the clinic,&rdquo; he ordered; &ldquo;I&rsquo;m afraid Dick&rsquo;s
-caught the fever.&rdquo;  
+   "Take him to the clinic, " he ordered;  "I'm afraid Dick's
+caught the fever. "  
 
   Surama took up the dog as he had taken poor Tsanpo the day before, and carried
 him silently to the building near the wall. He did not chuckle this time, but glanced at Clarendon
@@ -991,15 +991,15 @@ doctor to save her pet.
 
   Clarendon, however, made no move to follow, but stood still for a moment and
 then sauntered slowly toward the house. Georgina, astonished at such callousness, kept up a
-running fire of entreaties on Dick&rsquo;s behalf, but it was of no use. Without paying the slightest
+running fire of entreaties on Dick's behalf, but it was of no use. Without paying the slightest
 attention to her pleas he made directly for the library and began to read in a large old book
 which had lain face down on the table. She put her hand on his shoulder as he sat there, but
 he did not speak or turn his head. He only kept on reading, and Georgina, glancing curiously
 over his shoulder, wondered in what strange alphabet this brass-bound tome was written.  
 
   In the cavernous parlour across the hall, sitting alone in the dark a quarter
-of an hour later, Georgina came to her decision. Something was gravely wrong&mdash;just what,
-and to what extent, she scarcely dared formulate to herself&mdash;and it was time that she called
+of an hour later, Georgina came to her decision. Something was gravely wrong--just what,
+and to what extent, she scarcely dared formulate to herself--and it was time that she called
 in some stronger force to help her. Of course it must be James. He was powerful and capable,
 and his sympathy and affection would shew him the right thing to do. He had known Al always,
 and would understand.  
@@ -1014,10 +1014,10 @@ importance to them all.
 
     V.    
 
-Dalton was frankly perplexed by Georgina&rsquo;s sudden message. He had had
+Dalton was frankly perplexed by Georgina's sudden message. He had had
 no word from the Clarendons since that stormy February evening when Alfred had declared him
 an outsider to his home; and he in turn had studiously refrained from communicating, even when
-he had longed to express sympathy after the doctor&rsquo;s summary ousting from office. He had
+he had longed to express sympathy after the doctor's summary ousting from office. He had
 fought hard to frustrate the politicians and keep the appointive power, and was bitterly sorry
 to watch the unseating of a man who, despite recent estrangements, still represented to him
 the ultimate ideal of scientific competence.  
@@ -1029,32 +1029,32 @@ the hour, going at once to his club and sending word to Georgina by a messenger 
 in town and wholly at her service.  
 
   Meanwhile things had been quiescent at the Clarendon home, notwithstanding
-the doctor&rsquo;s continued taciturnity and his absolute refusal to report on the dog&rsquo;s
+the doctor's continued taciturnity and his absolute refusal to report on the dog's
 condition. Shadows of evil seemed omnipresent and thickening, but for the moment there was a
-lull. Georgina was relieved to get Dalton&rsquo;s message and learn that he was close at hand,
+lull. Georgina was relieved to get Dalton's message and learn that he was close at hand,
 and sent back word that she would call him when necessity arose. Amidst all the gathering tension
 some faint compensating element seemed manifest, and Georgina finally decided that it was the
 absence of the lean Thibetans, whose stealthy, sinuous ways and disturbing exotic aspect had
 always annoyed her. They had vanished all at once; and old Margarita, the sole visible servant
 left in the house, told her they were helping their master and Surama at the clinic.  
 
-  The following morning&mdash;the twenty-eighth of May&mdash;long to be remembered&mdash;was
+  The following morning--the twenty-eighth of May--long to be remembered--was
 dark and lowering, and Georgina felt the precarious calm wearing thin. She did not see her brother
 at all, but knew he was in the clinic hard at work at something despite the lack of specimens
 he had bewailed. She wondered how poor Tsanpo was getting along, and whether he had really been
 subjected to any serious inoculation, but it must be confessed that she wondered more about
-Dick. She longed to know whether Surama had done anything for the faithful dog amidst his master&rsquo;s
-oddly callous indifference. Surama&rsquo;s apparent solicitude on the night of Dick&rsquo;s seizure
+Dick. She longed to know whether Surama had done anything for the faithful dog amidst his master's
+oddly callous indifference. Surama's apparent solicitude on the night of Dick's seizure
 had impressed her greatly, giving her perhaps the kindliest feeling she had ever had for the
 detested clinic-man. Now, as the day advanced, she found herself thinking more and more of Dick;
 till at last her harassed nerves, finding in this one detail a sort of symbolic summation of
 the whole horror that lay upon the household, could stand the suspense no longer.  
 
-  Up to that time she had always respected Alfred&rsquo;s imperious wish that
+  Up to that time she had always respected Alfred's imperious wish that
 he be never approached or disturbed at the clinic; but as this fateful afternoon advanced, her
 resolution to break through the barrier grew stronger and stronger. Finally she set out with
 determined face, crossing the yard and entering the unlocked vestibule of the forbidden structure
-with the fixed intention of discovering how the dog was or of knowing the reason for her brother&rsquo;s
+with the fixed intention of discovering how the dog was or of knowing the reason for her brother's
 secrecy.  
 
   The inner door, as usual, was locked; and behind it she heard voices in heated
@@ -1065,50 +1065,50 @@ drift. Fate had made her for the second time an eavesdropper, and once more the 
 seemed likely to tax her mental poise and nervous endurance to their ultimate bounds. Alfred
 and Surama were plainly quarrelling with increasing violence, and the purport of their speech
 was enough to arouse the wildest fears and confirm the gravest apprehensions. Georgina shivered
-as her brother&rsquo;s voice mounted shrilly to dangerous heights of fanatical tension.  
+as her brother's voice mounted shrilly to dangerous heights of fanatical tension.  
 
-  &ldquo;You, damn you&mdash;you&rsquo;re a fine one to talk defeat and moderation
+   "You, damn you--you're a fine one to talk defeat and moderation
 to me! Who started all this, anyway? Did   I   have any idea of your cursed devil-gods and
 elder world? Did   I   ever in my life think of your damned spaces beyond the stars and your
 crawling chaos Nyarlathotep? I was a normal scientific man, confound you, till I was fool enough
 to drag you out of the vaults with your devilish Atlantean secrets. You egged me on, and now
 you want to cut me off! You loaf around doing nothing and telling me to go slow when you might
-just as well as not be going out and getting material. You know damn well that I don&rsquo;t
+just as well as not be going out and getting material. You know damn well that I don't
 know how to go about such things, whereas you must have been an old hand at it before the earth
-was made. It&rsquo;s like you, you damned walking corpse, to start something you won&rsquo;t or
-can&rsquo;t finish!&rdquo;  
+was made. It's like you, you damned walking corpse, to start something you won't or
+can't finish! "  
 
-  Surama&rsquo;s evil chuckle came.  
+  Surama's evil chuckle came.  
 
-  &ldquo;You&rsquo;re insane, Clarendon. That&rsquo;s the only reason I let you
-rave on when I could send you to hell in three minutes. Enough is enough, and you&rsquo;ve certainly
-had enough material for any novice at your stage. You&rsquo;ve had all I&rsquo;m going to get
-you, anyhow! You&rsquo;re only a maniac on the subject now&mdash;what a cheap, crazy thing to
-sacrifice even your poor sister&rsquo;s pet dog, when you could have spared him as well as not!
-You can&rsquo;t look at any living thing now without wanting to jab that gold syringe into it.
-No&mdash;Dick had to go where the Mexican boy went&mdash;where Tsanpo and the other seven went&mdash;where
-all the animals went! What a pupil! You&rsquo;re no fun any more&mdash;you&rsquo;ve lost your nerve.
-You set out to control things, and they&rsquo;re controlling you. I&rsquo;m about done with you,
-Clarendon. I thought you had the stuff in you, but you haven&rsquo;t. It&rsquo;s about time I
-tried somebody else. I&rsquo;m afraid you&rsquo;ll have to go!&rdquo;  
+   "You're insane, Clarendon. That's the only reason I let you
+rave on when I could send you to hell in three minutes. Enough is enough, and you've certainly
+had enough material for any novice at your stage. You've had all I'm going to get
+you, anyhow! You're only a maniac on the subject now--what a cheap, crazy thing to
+sacrifice even your poor sister's pet dog, when you could have spared him as well as not!
+You can't look at any living thing now without wanting to jab that gold syringe into it.
+No--Dick had to go where the Mexican boy went--where Tsanpo and the other seven went--where
+all the animals went! What a pupil! You're no fun any more--you've lost your nerve.
+You set out to control things, and they're controlling you. I'm about done with you,
+Clarendon. I thought you had the stuff in you, but you haven't. It's about time I
+tried somebody else. I'm afraid you'll have to go! "  
 
-  In the doctor&rsquo;s shouted reply there was both fear and frenzy.  
+  In the doctor's shouted reply there was both fear and frenzy.  
 
-  &ldquo;Be careful, you &mdash;&mdash;! There are powers against your
-powers&mdash;I didn&rsquo;t go to China for nothing, and there are things in Alhazred&rsquo;s
-  Azif   which weren&rsquo;t known in Atlantis! We&rsquo;ve both meddled in dangerous things,
-but you needn&rsquo;t think you know all my resources. How about the Nemesis of Flame? I talked in
-Yemen with an old man who had come back alive from the Crimson Desert&mdash;he had seen Irem, the
-City of Pillars, and had worshipped at the underground shrines of Nug and Yeb&mdash;I&auml;!
-Shub-Niggurath!&rdquo;  
+   "Be careful, you ----! There are powers against your
+powers--I didn't go to China for nothing, and there are things in Alhazred's
+  Azif   which weren't known in Atlantis! We've both meddled in dangerous things,
+but you needn't think you know all my resources. How about the Nemesis of Flame? I talked in
+Yemen with an old man who had come back alive from the Crimson Desert--he had seen Irem, the
+City of Pillars, and had worshipped at the underground shrines of Nug and Yeb--I&auml;!
+Shub-Niggurath! "  
 
-  Through Clarendon&rsquo;s shrieking falsetto cut the deep chuckle of the clinic-man.  
+  Through Clarendon's shrieking falsetto cut the deep chuckle of the clinic-man.  
 
-  &ldquo;Shut up, you fool! Do you suppose your grotesque nonsense has any weight
-with me? Words and formulae&mdash;words and formulae&mdash;what do they all mean to one who has
-the substance behind them? We&rsquo;re in a material sphere now, and subject to material laws.
-You have your fever; I have my revolver. You&rsquo;ll get no specimens, and I&rsquo;ll get no
-fever so long as I have you in front of me with this gun between!&rdquo;  
+   "Shut up, you fool! Do you suppose your grotesque nonsense has any weight
+with me? Words and formulae--words and formulae--what do they all mean to one who has
+the substance behind them? We're in a material sphere now, and subject to material laws.
+You have your fever; I have my revolver. You'll get no specimens, and I'll get no
+fever so long as I have you in front of me with this gun between! "  
 
   That was all Georgina could hear. She felt her senses reeling, and staggered
 out of the vestibule for a saving breath of the lowering outside air. She saw that the crisis
@@ -1132,25 +1132,25 @@ long-drawn, and tremulous, and lapsed at last into kindly oblivion.
 was inexpressibly shocked to see the pale and unconscious form of his sister there. Her face
 had a death-like quality that frightened his inmost spirit, and he flung himself on his knees
 by her side, awake to a realisation of what her passing away would mean to him. Long unused
-to private practice amidst his ceaseless quest for truth, he had lost the physician&rsquo;s instinct
+to private practice amidst his ceaseless quest for truth, he had lost the physician's instinct
 of first aid, and could only call out her name and chafe her wrists mechanically as fear and
 grief possessed him. Then he thought of water, and ran to the dining-room for a carafe. Stumbling
 about in a darkness which seemed to harbour vague terrors, he was some time in finding what
 he sought; but at last he clutched it in shaking hand and hastened back to dash the cold fluid
-in Georgina&rsquo;s face. The method was crude but effective. She stirred, sighed a second time,
+in Georgina's face. The method was crude but effective. She stirred, sighed a second time,
 and finally opened her eyes.  
 
-  &ldquo;You are alive!&rdquo; he cried, and put his cheek to hers as she stroked
+   "You are alive! " he cried, and put his cheek to hers as she stroked
 his head maternally. She was almost glad she fainted, for the circumstance seemed to have dispelled
 the strange Alfred and brought her own brother back to her. She sat up slowly and tried to reassure
 him.  
 
-  &ldquo;I&rsquo;m all right, Al. Just give me a glass of water. It&rsquo;s a sin
-to waste it this way&mdash;to say nothing of spoiling my waist! Is that the way to behave every
-time your sister drops off for a nap? You needn&rsquo;t think I&rsquo;m going to be sick, for
-I haven&rsquo;t time for such nonsense!&rdquo;  
+   "I'm all right, Al. Just give me a glass of water. It's a sin
+to waste it this way--to say nothing of spoiling my waist! Is that the way to behave every
+time your sister drops off for a nap? You needn't think I'm going to be sick, for
+I haven't time for such nonsense! "  
 
-  Alfred&rsquo;s eyes shewed that her cool, common-sense speech had had its effect.
+  Alfred's eyes shewed that her cool, common-sense speech had had its effect.
 His brotherly panic dissolved in an instant, and instead there came into his face a vague, calculating
 expression, as if some marvellous possibility had just dawned upon him. As she watched the subtle
 waves of cunning and appraisal pass fleetingly over his countenance she became less and less
@@ -1161,16 +1161,16 @@ research. There was something morbid in the quick narrowing of his eyes at her c
 of good health. What was he thinking? To what unnatural extreme was his passion for experiment
 about to be pushed? Wherein lay the special significance of her pure blood and absolutely flawless
 organic state? None of these misgivings, however, troubled Georgina for more than a second,
-and she was quite natural and unsuspicious as she felt her brother&rsquo;s steady fingers at
+and she was quite natural and unsuspicious as she felt her brother's steady fingers at
 her pulse.  
 
-  &ldquo;You&rsquo;re a bit feverish, Georgie,&rdquo; he said in a precise, elaborately
+   "You're a bit feverish, Georgie, " he said in a precise, elaborately
 restrained voice as he looked professionally into her eyes.  
 
-  &ldquo;Why, nonsense, I&rsquo;m all right,&rdquo; she replied. &ldquo;One would
+   "Why, nonsense, I'm all right, " she replied.  "One would
 think you were on the watch for fever patients just for the sake of shewing off your discovery!
 It   would   be poetic, though, if you could make your final proof and demonstration by curing
-your own sister!&rdquo;  
+your own sister! "  
 
   Clarendon started violently and guiltily. Had she suspected his wish? Had he
 muttered anything aloud? He looked at her closely, and saw that she had no inkling of the truth.
@@ -1179,23 +1179,23 @@ Then he took a small oblong leather case from his vest pocket, and taking out a 
 syringe, he began fingering it thoughtfully, pushing the piston speculatively in and out of
 the empty cylinder.  
 
-  &ldquo;I wonder,&rdquo; he began with suave sententiousness, &ldquo;whether you
-would really be willing to help science in&mdash;something like that way&mdash;if the need arose?
+   "I wonder, " he began with suave sententiousness,  "whether you
+would really be willing to help science in--something like that way--if the need arose?
 Whether you would have the devotion to offer yourself to the cause of medicine as a sort of
-Jephthah&rsquo;s daughter if you knew it meant the absolute perfection and completion of my work?&rdquo;  
+Jephthah's daughter if you knew it meant the absolute perfection and completion of my work? "  
 
-  Georgina, catching the odd and unmistakable glitter in her brother&rsquo;s eyes,
+  Georgina, catching the odd and unmistakable glitter in her brother's eyes,
 knew at last that her worst fears were true. There was nothing to do now but keep him quiet
 at all hazards and to pray that Margarita had found James Dalton at his club.  
 
-  &ldquo;You look tired, Al dear,&rdquo; she said gently. &ldquo;Why not take a
-little morphia and get some of the sleep you need so badly?&rdquo;  
+   "You look tired, Al dear, " she said gently.  "Why not take a
+little morphia and get some of the sleep you need so badly? "  
 
   He replied with a kind of crafty deliberation.  
 
-  &ldquo;Yes, you&rsquo;re right. I&rsquo;m worn out, and so are you. Each of us
-needs a good sleep. Morphine is just the thing&mdash;wait till I go and fill the syringe and
-we&rsquo;ll both take a proper dose.&rdquo;  
+   "Yes, you're right. I'm worn out, and so are you. Each of us
+needs a good sleep. Morphine is just the thing--wait till I go and fill the syringe and
+we'll both take a proper dose. "  
 
   Still fingering the empty syringe, he walked softly out of the room. Georgina
 looked about her with the aimlessness of desperation, ears alert for any sign of possible help.
@@ -1229,7 +1229,7 @@ plan to take Dr. MacNeil into his confidence regarding Alfred, he called at once
 and stick, and lost not a moment in getting a cab for the Clarendon home.  
 
   Surama, he thought, appeared alarmed at recognising him; though he had chuckled
-as usual when striding off again toward the clinic. Dalton always recalled Surama&rsquo;s stride
+as usual when striding off again toward the clinic. Dalton always recalled Surama's stride
 and chuckle on this ominous night, for he was never to see the unearthly creature again. As
 the chuckler entered the clinic vestibule his deep, guttural gurgles seemed to blend with some
 low mutterings of thunder which troubled the far horizon.  
@@ -1237,9 +1237,9 @@ low mutterings of thunder which troubled the far horizon.
   When Dalton had heard all Georgina had to say, and learned that Alfred was
 expected back at any moment with an hypodermic dose of morphine, he decided he had better talk
 with the doctor alone. Advising Georgina to retire to her room and await developments, he walked
-about the gloomy library, scanning the shelves and listening for Clarendon&rsquo;s nervous footstep
-on the clinic path outside. The vast room&rsquo;s corners were dismal despite the chandelier,
-and the closer Dalton looked at his friend&rsquo;s choice of books the less he liked them. It
+about the gloomy library, scanning the shelves and listening for Clarendon's nervous footstep
+on the clinic path outside. The vast room's corners were dismal despite the chandelier,
+and the closer Dalton looked at his friend's choice of books the less he liked them. It
 was not the balanced collection of a normal physician, biologist, or man of general culture.
 There were too many volumes on doubtful borderland themes; dark speculations and forbidden rituals
 of the Middle Ages, and strange exotic mysteries in alien alphabets both known and unknown.  
@@ -1248,13 +1248,13 @@ of the Middle Ages, and strange exotic mysteries in alien alphabets both known a
 had a neurotic cast, and the spirit of the entries was far from reassuring. Long passages were
 inscribed in crabbed Greek characters, and as Dalton marshalled his linguistic memory for their
 translation he gave a sudden start, and wished his college struggles with Xenophon and Homer
-had been more conscientious. There was something wrong&mdash;something hideously wrong&mdash;here,
+had been more conscientious. There was something wrong--something hideously wrong--here,
 and the governor sank limply into the chair by the table as he pored more and more closely over
-the doctor&rsquo;s barbarous Greek. Then a sound came, startlingly near, and he jumped nervously
+the doctor's barbarous Greek. Then a sound came, startlingly near, and he jumped nervously
 at a hand laid sharply on his shoulder.  
 
-  &ldquo;What, may I ask, is the cause of this intrusion? You might have stated
-your business to Surama.&rdquo;  
+   "What, may I ask, is the cause of this intrusion? You might have stated
+your business to Surama. "  
 
   Clarendon was standing icily by the chair, the little gold syringe in one hand.
 He seemed very calm and rational, and Dalton fancied for a moment that Georgina must have exaggerated
@@ -1263,24 +1263,24 @@ The governor decided to be very cautious in his interview, and thanked the lucky
 had placed a specious pretext in his coat pocket. He was very cool and assured as he rose to
 reply.  
 
-  &ldquo;I didn&rsquo;t think you&rsquo;d care to have things dragged before a subordinate,
-but I thought you ought to see this article at once.&rdquo;  
+   "I didn't think you'd care to have things dragged before a subordinate,
+but I thought you ought to see this article at once. "  
 
   He drew forth the magazine given him by Dr. MacNeil and handed it to Clarendon.  
 
-  On page 542&mdash;you see the heading, &lsquo;Black Fever Conquered by New Serum
-It&rsquo;s by Dr. Miller of Philadelphia&mdash;and he thinks he&rsquo;s got ahead of you with your
+  On page 542--you see the heading, &lsquo;Black Fever Conquered by New Serum
+It's by Dr. Miller of Philadelphia--and he thinks he's got ahead of you with your
 cure. They were discussing it at the club, and MacNeil thought the exposition very convincing.
-I, as a layman, couldn&rsquo;t pretend to judge; but at all events I thought you oughtn&rsquo;t
-to miss a chance to digest the thing while it&rsquo;s fresh. If you&rsquo;re busy, of course,
-I won&rsquo;t disturb you&mdash;&ldquo;  
+I, as a layman, couldn't pretend to judge; but at all events I thought you oughtn't
+to miss a chance to digest the thing while it's fresh. If you're busy, of course,
+I won't disturb you-- "  
 
   Clarendon cut in sharply.  
 
-  &ldquo;I&rsquo;m going to give my sister an hypodermic&mdash;she&rsquo;s not quite
-well&mdash;but I&rsquo;ll look at what that quack has to say when I get back. I know Miller&mdash;a
-damn sneak and incompetent&mdash;and I don&rsquo;t believe he has the brains to steal my methods
-from the little he&rsquo;s seen of them.&rdquo;  
+   "I'm going to give my sister an hypodermic--she's not quite
+well--but I'll look at what that quack has to say when I get back. I know Miller--a
+damn sneak and incompetent--and I don't believe he has the brains to steal my methods
+from the little he's seen of them. "  
 
   Dalton suddenly felt a wave of intuition warning him that Georgina must not
 receive that intended dose. There was something sinister about it. From what she had said, Alfred
@@ -1288,22 +1288,22 @@ must have been inordinately long preparing it, far longer than was needed for th
 of a morphine tablet. He decided to hold his host as long as possible, meanwhile testing his
 attitude in a more or less subtle way.  
 
-  &ldquo;I&rsquo;m sorry Georgina isn&rsquo;t well. Are you sure that the injection
-will do her good? That it won&rsquo;t do her any harm?&rdquo;  
+   "I'm sorry Georgina isn't well. Are you sure that the injection
+will do her good? That it won't do her any harm? "  
 
-  Clarendon&rsquo;s spasmodic start shewed that something had been struck home.  
+  Clarendon's spasmodic start shewed that something had been struck home.  
 
-  &ldquo;Do her harm?&rdquo; he cried. &ldquo;Don&rsquo;t be absurd! You know Georgina
-must be in the best of health&mdash;the very best, I say&mdash;in order to serve science as a
+   "Do her harm? " he cried.  "Don't be absurd! You know Georgina
+must be in the best of health--the very best, I say--in order to serve science as a
 Clarendon should serve it. She, at least, appreciates the fact that she is my sister. She deems
-no sacrifice too great in my service. She is a priestess of truth and discovery, as I am a priest.&rdquo;  
+no sacrifice too great in my service. She is a priestess of truth and discovery, as I am a priest. "  
 
   He paused in his shrill tirade, wild-eyed, and somewhat out of breath. Dalton
 could see that his attention had been momentarily shifted.  
 
-  &ldquo;But let me see what this cursed quack has to say,&rdquo; he continued.
-&ldquo;If he thinks his pseudo-medical rhetoric can take a real doctor in, he is even simpler
-than I thought!&rdquo;  
+   "But let me see what this cursed quack has to say, " he continued.
+ "If he thinks his pseudo-medical rhetoric can take a real doctor in, he is even simpler
+than I thought! "  
 
   Clarendon nervously found the right page and began reading as he stood there
 clutching his syringe. Dalton wondered what the real facts were. MacNeil had assured him that
@@ -1321,228 +1321,228 @@ went dark like a wind-quenched candle-flame.
   Dalton, springing to help his stricken friend, raised the slim form and tilted
 it back in the chair. Seeing the carafe on the floor near the lounge, he dashed some water into
 the twisted face, and was rewarded by seeing the large eyes slowly open. They were sane eyes
-now&mdash;deep and sad and unmistakably sane&mdash;and Dalton felt awed in the presence of a tragedy
+now--deep and sad and unmistakably sane--and Dalton felt awed in the presence of a tragedy
 whose ultimate depth he could never hope or dare to plumb.  
 
   The golden hypodermic was still clutched in the lean left hand, and as Clarendon
 drew a deep, shuddering breath he unclosed his fingers and studied the glittering thing that
-rolled about on his palm. Then he spoke&mdash;slowly, and with the ineffable sadness of utter,
+rolled about on his palm. Then he spoke--slowly, and with the ineffable sadness of utter,
 absolute despair.  
 
-  &ldquo;Thanks, Jimmy, I&rsquo;m quite all right. But there&rsquo;s much to be
-done. You asked me a while back if this shot of morphia would do Georgie any harm. I&rsquo;m
-in a position now to tell you that it won&rsquo;t.&rdquo;  
+   "Thanks, Jimmy, I'm quite all right. But there's much to be
+done. You asked me a while back if this shot of morphia would do Georgie any harm. I'm
+in a position now to tell you that it won't. "  
 
   He turned a small screw in the syringe and laid a finger on the piston, at
 the same time pulling with his left hand at the skin of his own neck. Dalton cried out in alarm
 as a lightning motion of his right hand injected the contents of the cylinder into the ridge
 of distended flesh.  
 
-  &ldquo;Good Lord, Al, what have you done?&rdquo;  
+   "Good Lord, Al, what have you done? "  
 
-  Clarendon smiled gently&mdash;a smile almost of peace and resignation, different
+  Clarendon smiled gently--a smile almost of peace and resignation, different
 indeed from the sardonic sneer of the past few weeks.  
 
-  &ldquo;You ought to know, Jimmy, if you&rsquo;ve still the judgment that made
-you a governor. You must have pieced together enough from my notes to realise that there&rsquo;s
-nothing else to do. With your marks in Greek back at Columbia I guess you couldn&rsquo;t have
-missed much. All I can say is that it&rsquo;s true.  
+   "You ought to know, Jimmy, if you've still the judgment that made
+you a governor. You must have pieced together enough from my notes to realise that there's
+nothing else to do. With your marks in Greek back at Columbia I guess you couldn't have
+missed much. All I can say is that it's true.  
 
-  &ldquo;James, I don&rsquo;t like to pass blame along, but it&rsquo;s only right
-to tell you that Surama got me into this. I can&rsquo;t tell you who or what he is, for I don&rsquo;t
+   "James, I don't like to pass blame along, but it's only right
+to tell you that Surama got me into this. I can't tell you who or what he is, for I don't
 fully know myself, and what I do know is stuff that no sane person ought to know; but I will
-say that I don&rsquo;t consider him a human being in the fullest sense, and that I&rsquo;m not
-sure whether or not he&rsquo;s alive as we know life.  
+say that I don't consider him a human being in the fullest sense, and that I'm not
+sure whether or not he's alive as we know life.  
 
-  &ldquo;You think I&rsquo;m talking nonsense. I wish I were, but the whole hideous
+   "You think I'm talking nonsense. I wish I were, but the whole hideous
 mess is damnably real. I started out in life with a clean mind and purpose. I wanted to rid
-the world of fever. I tried and failed&mdash;and I wish to God I had been honest enough to say
-that I&rsquo;d failed. Don&rsquo;t let my old talk of science deceive you, James&mdash;  I found
+the world of fever. I tried and failed--and I wish to God I had been honest enough to say
+that I'd failed. Don't let my old talk of science deceive you, James--  I found
 no antitoxin and was never even half on the track of one!    
 
-  &ldquo;Don&rsquo;t look so shaken up, old fellow! A veteran politician-fighter
+   "Don't look so shaken up, old fellow! A veteran politician-fighter
 like you must have seen plenty of unmaskings before. I tell you, I never had even the start
 of a fever cure. But my studies had taken me into some queer places, and it was just my damned
 luck to listen to the stories of some still queerer people. James, if you ever wish any man
 well, tell him to keep clear of the ancient, hidden places of the earth. Old backwaters are
-dangerous&mdash;things are handed down there that don&rsquo;t do healthy people any good. I talked
+dangerous--things are handed down there that don't do healthy people any good. I talked
 too much with old priests and mystics, and got to hoping I might achieve things in dark ways
-that I couldn&rsquo;t achieve in lawful ways.  
+that I couldn't achieve in lawful ways.  
 
-  &ldquo;I shan&rsquo;t tell you just what I mean, for if I did I&rsquo;d be as
-bad as the old priests that were the ruin of me. All I need say is that after what I&rsquo;ve
-learned I shudder at the thought of the world and what it&rsquo;s been through. The world is
+   "I shan't tell you just what I mean, for if I did I'd be as
+bad as the old priests that were the ruin of me. All I need say is that after what I've
+learned I shudder at the thought of the world and what it's been through. The world is
 cursed old, James, and there have been whole chapters lived and closed before the dawn of our
-organic life and the geologic eras connected with it. It&rsquo;s an awful thought&mdash;whole
-forgotten cycles of evolution with beings and races and wisdom and diseases&mdash;all lived through
+organic life and the geologic eras connected with it. It's an awful thought--whole
+forgotten cycles of evolution with beings and races and wisdom and diseases--all lived through
 and gone before the first amoeba ever stirred in the tropic seas geology tells us about.  
 
-  &ldquo;I said gone, but I didn&rsquo;t quite mean that. It would have been better
-that way, but it wasn&rsquo;t quite so. In places traditions have kept on&mdash;I can&rsquo;t tell
-you how&mdash;and certain archaic life-forms have managed to struggle thinly down the aeons in
-hidden spots. There were cults, you know&mdash;bands of evil priests in lands now buried under
+   "I said gone, but I didn't quite mean that. It would have been better
+that way, but it wasn't quite so. In places traditions have kept on--I can't tell
+you how--and certain archaic life-forms have managed to struggle thinly down the aeons in
+hidden spots. There were cults, you know--bands of evil priests in lands now buried under
 the sea. Atlantis was the hotbed. That was a terrible place. If heaven is merciful, no one will
 ever drag up that horror from the deep.  
 
-  &ldquo;It had a colony, though, that didn&rsquo;t sink; and when you get too
-confidential with one of the Tuareg priests in Africa, he&rsquo;s likely to tell you wild tales
-about it&mdash;tales that connect up with whispers you&rsquo;ll hear among the mad lamas and flighty
-yak-drivers on the secret table-lands of Asia. I&rsquo;d heard all the common tales and whispers
-when I came on the big one. What that was, you&rsquo;ll never know&mdash;but it pertained to somebody
+   "It had a colony, though, that didn't sink; and when you get too
+confidential with one of the Tuareg priests in Africa, he's likely to tell you wild tales
+about it--tales that connect up with whispers you'll hear among the mad lamas and flighty
+yak-drivers on the secret table-lands of Asia. I'd heard all the common tales and whispers
+when I came on the big one. What that was, you'll never know--but it pertained to somebody
 or something that had come down from a blasphemously long time ago, and could be made to live
-again&mdash;or seem alive again&mdash;through certain processes that weren&rsquo;t very clear to
+again--or seem alive again--through certain processes that weren't very clear to
 the man who told me.  
 
-  &ldquo;Now, James, in spite of my confession about the fever, you know I&rsquo;m
-not bad as a doctor. I plugged hard at medicine, and soaked up about as much as the next man&mdash;maybe
+   "Now, James, in spite of my confession about the fever, you know I'm
+not bad as a doctor. I plugged hard at medicine, and soaked up about as much as the next man--maybe
 a little more, because down there in the Hoggar country I did something no priest had ever been
-able to do. They led me blindfolded to a place that had been sealed up for generations&mdash;and
+able to do. They led me blindfolded to a place that had been sealed up for generations--and
 I came back with Surama.  
 
-  &ldquo;Easy, James! I know what you want to say. How does he know all he
-knows?&mdash;why does he speak English&mdash;or any other language, for that matter&mdash;without
-an accent?&mdash;why did he come away with me?&mdash;and all that. I can&rsquo;t tell you
+   "Easy, James! I know what you want to say. How does he know all he
+knows?--why does he speak English--or any other language, for that matter--without
+an accent?--why did he come away with me?--and all that. I can't tell you
 altogether, but I can say that he takes in ideas and images and impressions with something besides
 his brain and senses. He had a use for me and my science. He told me things, and opened up vistas.
 He taught me to worship ancient, primordial, and unholy gods, and mapped out a road to a terrible
-goal which I can&rsquo;t even hint to you. Don&rsquo;t press me, James&mdash;it&rsquo;s for the
-sake of your sanity and the world&rsquo;s sanity!  
+goal which I can't even hint to you. Don't press me, James--it's for the
+sake of your sanity and the world's sanity!  
 
-  &ldquo;The creature is beyond all bounds. He&rsquo;s in league with the stars
-and all the forces of Nature. Don&rsquo;t think I&rsquo;m still crazy, James&mdash;I swear to you
-I&rsquo;m not! I&rsquo;ve had too many glimpses to doubt. He gave me new pleasures that were forms
+   "The creature is beyond all bounds. He's in league with the stars
+and all the forces of Nature. Don't think I'm still crazy, James--I swear to you
+I'm not! I've had too many glimpses to doubt. He gave me new pleasures that were forms
 of his palaeogean worship, and the greatest of those was the black fever.  
 
-  &ldquo;God, James! Haven&rsquo;t you seen through the business by this time?
+   "God, James! Haven't you seen through the business by this time?
 Do you still believe the black fever came out of Thibet, and that I learned about it there?
-Use your brains, man! Look at Miller&rsquo;s article here! He&rsquo;s found a basic antitoxin
+Use your brains, man! Look at Miller's article here! He's found a basic antitoxin
 that will end all fever within half a century, when other men learn how to modify it for the
-different forms. He&rsquo;s cut the ground of my youth from under me&mdash;done what I&rsquo;d
-have given my life to do&mdash;taken the wind out of all the honest sails I ever flung to the
+different forms. He's cut the ground of my youth from under me--done what I'd
+have given my life to do--taken the wind out of all the honest sails I ever flung to the
 breeze of science! Do you wonder his article gave me a turn? Do you wonder it shocks me out
 of my madness back to the old dreams of my youth? Too late! Too late! But not too late to save
 others!  
 
-  &ldquo;I guess I&rsquo;m rambling a bit now, old man. You know&mdash;the hypodermic.
-I asked you why you didn&rsquo;t tumble to the facts about black fever. How could you, though?
-Doesn&rsquo;t Miller say he&rsquo;s cured seven cases with his serum? A matter of diagnosis, James.
+   "I guess I'm rambling a bit now, old man. You know--the hypodermic.
+I asked you why you didn't tumble to the facts about black fever. How could you, though?
+Doesn't Miller say he's cured seven cases with his serum? A matter of diagnosis, James.
 He only thinks it is black fever. I can read between his lines. Here, old chap, on page 551,
 is the key to the whole thing. Read it again.  
 
-  &ldquo;You see, don&rsquo;t you? The fever cases   from the Pacific Coast  
-didn&rsquo;t respond to his serum. They puzzled him. They didn&rsquo;t even seem like any true
+   "You see, don't you? The fever cases   from the Pacific Coast  
+didn't respond to his serum. They puzzled him. They didn't even seem like any true
 fever he knew. Well, those were   my   cases! Those were the   real   black fever cases!
-And there can&rsquo;t ever be an antitoxin on earth that&rsquo;ll cure black fever!  
+And there can't ever be an antitoxin on earth that'll cure black fever!  
 
-  &ldquo;How do I know?   Because black fever isn&rsquo;t of this earth!   It&rsquo;s
-from   somewhere else,   James&mdash;and Surama alone knows where, because he brought it here.
-He   brought it and I spread it!   That&rsquo;s the secret, James! That&rsquo;s all I wanted
-the appointment for&mdash;that&rsquo;s all I ever did&mdash;j  ust spread the fever that I carried
+   "How do I know?   Because black fever isn't of this earth!   It's
+from   somewhere else,   James--and Surama alone knows where, because he brought it here.
+He   brought it and I spread it!   That's the secret, James! That's all I wanted
+the appointment for--that's all I ever did--j  ust spread the fever that I carried
 in this gold syringe and in the deadlier finger-ring-pump-syringe you see on my index finger!  
 Science? A blind! I wanted to kill, and kill, and kill! A single pressure on my finger, and
 the black fever was inoculated. I wanted to see living things writhe and squirm, scream and
 froth at the mouth. A single pressure of the pump-syringe and I could watch them as they died,
-and I couldn&rsquo;t live or think unless I had plenty to watch. That&rsquo;s why I jabbed everything
-in sight with the accursed hollow needle. Animals, criminals, children, servants&mdash;and the
-next would have been&mdash;&ldquo;  
+and I couldn't live or think unless I had plenty to watch. That's why I jabbed everything
+in sight with the accursed hollow needle. Animals, criminals, children, servants--and the
+next would have been-- "  
 
-  Clarendon&rsquo;s voice broke, and he crumpled up perceptibly in his chair.  
+  Clarendon's voice broke, and he crumpled up perceptibly in his chair.  
 
-  &ldquo;That&mdash;that, James&mdash;was&mdash;my life. Surama made it so&mdash;he
-taught me, and kept me at it till I couldn&rsquo;t stop. Then&mdash;then it got too much   even
-for him.   He tried to check me. Fancy&mdash;  he   trying to check anybody in that line!
-But now I&rsquo;ve got my last specimen. That is my last test. Good subject, James&mdash;I&rsquo;m
-healthy&mdash;devilish healthy. Deuced ironic, though&mdash;the madness has gone now, so there
-won&rsquo;t be any fun watching the agony! Can&rsquo;t be&mdash;can&rsquo;t&mdash;&ldquo;  
+   "That--that, James--was--my life. Surama made it so--he
+taught me, and kept me at it till I couldn't stop. Then--then it got too much   even
+for him.   He tried to check me. Fancy--  he   trying to check anybody in that line!
+But now I've got my last specimen. That is my last test. Good subject, James--I'm
+healthy--devilish healthy. Deuced ironic, though--the madness has gone now, so there
+won't be any fun watching the agony! Can't be--can't-- "  
 
   A violent shiver of fever racked the doctor, and Dalton mourned amidst his
-horror-stupefaction that he could give no grief. How much of Alfred&rsquo;s story was sheer nonsense,
+horror-stupefaction that he could give no grief. How much of Alfred's story was sheer nonsense,
 and how much nightmare truth he could not say; but in any case he felt that the man was a victim
-rather than a criminal, and above all, he was a boyhood comrade and Georgina&rsquo;s brother.
-Thoughts of the old days came back kaleidoscopically. &ldquo;Little Alf&rdquo;&mdash;the yard at
-Phillips Exeter&mdash;the quadrangle at Columbia&mdash;the fight with Tom Cortland when he saved
-Alf from a pommeling.&nbsp;.&nbsp;.&nbsp;.  
+rather than a criminal, and above all, he was a boyhood comrade and Georgina's brother.
+Thoughts of the old days came back kaleidoscopically.  "Little Alf "--the yard at
+Phillips Exeter--the quadrangle at Columbia--the fight with Tom Cortland when he saved
+Alf from a pommeling. . . .  
 
   He helped Clarendon to the lounge and asked gently what he could do. There
 was nothing. Alfred could only whisper now, but he asked forgiveness for all his offences, and
 commended his sister to the care of his friend.  
 
-  &ldquo;You&mdash;you&rsquo;ll&mdash;make her happy,&rdquo; he gasped. &ldquo;She
-deserves it. Martyr&mdash;to&mdash;a myth! Make it up to her, James.
-Don&rsquo;t&mdash;let&mdash;her&mdash;know&mdash;more&mdash;than she has to!&rdquo;  
+   "You--you'll--make her happy, " he gasped.  "She
+deserves it. Martyr--to--a myth! Make it up to her, James.
+Don't--let--her--know--more--than she has to! "  
 
   His voice trailed off in a mumble, and he fell into a stupor. Dalton rang the
 bell, but Margarita had gone to bed, so he called up the stairs for Georgina. She was firm of
-step, but very pale. Alfred&rsquo;s scream had tried her sorely, but she had trusted James. She
+step, but very pale. Alfred's scream had tried her sorely, but she had trusted James. She
 trusted him still as he shewed her the unconscious form on the lounge and asked her to go back
 to her room and rest, no matter what sounds she might hear. He did not wish her to witness the
 awful spectacle of delirium certain to come, but bade her kiss her brother a final farewell
-as he lay there calm and still, very like the delicate boy he had once been. So she left him&mdash;the
-strange, moonstruck, star-reading genius she had mothered so long&mdash;and the picture she carried
+as he lay there calm and still, very like the delicate boy he had once been. So she left him--the
+strange, moonstruck, star-reading genius she had mothered so long--and the picture she carried
 away was a very merciful one.  
 
   Dalton must bear to his grave a sterner picture. His fears of delirium were
 not vain, and all through the black midnight hours his giant strength restrained the frenzied
 contortions of the mad sufferer. What he heard from those swollen, blackening lips he will never
 repeat. He has never been quite the same man since, and he knows that no one who hears such
-things can ever be wholly as he was before. So, for the world&rsquo;s good, he dares not speak,
-and he thanks God that his layman&rsquo;s ignorance of certain subjects makes many of the revelations
+things can ever be wholly as he was before. So, for the world's good, he dares not speak,
+and he thanks God that his layman's ignorance of certain subjects makes many of the revelations
 cryptic and meaningless to him.  
 
   Toward morning Clarendon suddenly woke to a sane consciousness and began to
 speak in a firm voice.  
 
-  &ldquo;James, I didn&rsquo;t tell you what must be done&mdash;about everything.
+   "James, I didn't tell you what must be done--about everything.
 Blot out these entries in Greek and send my notebook to Dr. Miller. All my other notes, too,
-that you&rsquo;ll find in the files. He&rsquo;s the big authority today&mdash;his article proves
+that you'll find in the files. He's the big authority today--his article proves
 it. Your friend at the club was right.  
 
-  &ldquo;But everything in the clinic must go.   Everything without exception,
-dead or alive or&mdash;otherwise.   All the plagues of hell are in those bottles on the shelves.
-Burn them&mdash;burn it all&mdash;if one thing escapes, Surama will spread black death throughout
-the world.   And above all burn Surama!   That&mdash;that   thing  &mdash;must not breathe
-the wholesome air of heaven. You know now&mdash;what I told you&mdash;you know why such an entity
-can&rsquo;t be allowed on earth. It won&rsquo;t be murder&mdash;Surama isn&rsquo;t human&mdash;if
-you&rsquo;re as pious as you used to be, James, I shan&rsquo;t have to urge you. Remember the
-old text&mdash;&lsquo;Thou shalt not suffer a witch to live&rsquo;&mdash;or something of the sort.  
+   "But everything in the clinic must go.   Everything without exception,
+dead or alive or--otherwise.   All the plagues of hell are in those bottles on the shelves.
+Burn them--burn it all--if one thing escapes, Surama will spread black death throughout
+the world.   And above all burn Surama!   That--that   thing  --must not breathe
+the wholesome air of heaven. You know now--what I told you--you know why such an entity
+can't be allowed on earth. It won't be murder--Surama isn't human--if
+you're as pious as you used to be, James, I shan't have to urge you. Remember the
+old text--&lsquo;Thou shalt not suffer a witch to live'--or something of the sort.  
 
-    &ldquo;Burn him, James!   Don&rsquo;t let him chuckle again over the torture
-of mortal flesh! I say,   burn him  &mdash;the Nemesis of Flame&mdash;that&rsquo;s all that
-can reach him, James, unless you can catch him asleep and drive a stake through his heart.&nbsp;.&nbsp;.&nbsp;.
-  Kill him&mdash;extirpate him&mdash;cleanse the decent universe of its primal taint&mdash;the
-taint I recalled from its age-long sleep.&nbsp;.&nbsp;.&nbsp;.&rdquo;    
+     "Burn him, James!   Don't let him chuckle again over the torture
+of mortal flesh! I say,   burn him  --the Nemesis of Flame--that's all that
+can reach him, James, unless you can catch him asleep and drive a stake through his heart. . . .
+  Kill him--extirpate him--cleanse the decent universe of its primal taint--the
+taint I recalled from its age-long sleep. . . . "    
 
   The doctor had risen on his elbow, and his voice was a piercing shriek toward
 the last. The effort was too much, however, and he lapsed very suddenly into a deep, tranquil
 coma. Dalton, himself fearless of fever, since he knew the dread germ to be non-contagious,
-composed Alfred&rsquo;s arms and legs on the lounge and threw a light afghan over the fragile
-form. After all, mightn&rsquo;t much of this horror be exaggeration and delirium? Mightn&rsquo;t
+composed Alfred's arms and legs on the lounge and threw a light afghan over the fragile
+form. After all, mightn't much of this horror be exaggeration and delirium? Mightn't
 old Doc MacNeil pull him through on a long chance? The governor strove to keep awake, and walked
 briskly up and down the room, but his energies had been taxed too deeply for such measures.
-A second&rsquo;s rest in the chair by the table took matters out of his hands, and he was presently
+A second's rest in the chair by the table took matters out of his hands, and he was presently
 sleeping soundly despite his best intentions.  
 
   Dalton started up as a fierce light shone in his eyes, and for a moment he
 thought the dawn had come. But it was not the dawn, and as he rubbed his heavy lids he saw that
 it was the glare of the burning clinic in the yard, whose stout planks flamed and roared and
-crackled heavenward in the most stupendous holocaust he had ever seen. It was indeed the &ldquo;Nemesis
-of Flame&rdquo; that Clarendon had wished, and Dalton felt that some strange combustibles must
+crackled heavenward in the most stupendous holocaust he had ever seen. It was indeed the  "Nemesis
+of Flame " that Clarendon had wished, and Dalton felt that some strange combustibles must
 be involved in a blaze so much wilder than anything normal pine or redwood could afford. He
 glanced alarmedly at the lounge, but Alfred was not there. Starting up, he went to call Georgina,
 but met her in the hall, roused as he was by the mountain of living fire.  
 
-  &ldquo;The clinic&rsquo;s burning down!&rdquo; she cried. &ldquo;How is Al now?&rdquo;  
+   "The clinic's burning down! " she cried.  "How is Al now? "  
 
-  &ldquo;He&rsquo;s disappeared&mdash;disappeared while I dropped asleep!&rdquo;
+   "He's disappeared--disappeared while I dropped asleep! "
 replied Dalton, reaching out a steadying arm to the form which faintness had begun to sway.  
 
   Gently leading her upstairs toward her room, he promised to search at once
 for Alfred, but Georgina slowly shook her head as the flames from outside cast a weird glow
 through the window on the landing.  
 
-  &ldquo;He must be dead, James&mdash;he could never live, sane and knowing what
+   "He must be dead, James--he could never live, sane and knowing what
 he did. I heard him quarrelling with Surama, and know that awful things were going on. He is
-my brother, but&mdash;it is best as it is.&rdquo;  
+my brother, but--it is best as it is. "  
 
   Her voice had sunk to a whisper.  
 
@@ -1557,56 +1557,56 @@ normal shape.
 
   The watchers did not move, but waited till the pillar of fire had shrunk to
 a smouldering glow. They were glad of a half-rusticity which had kept the firemen from trooping
-out, and of the wall that excluded the curious. What had happened was not for vulgar eyes&mdash;it
-involved too much of the universe&rsquo;s inner secrets for that.  
+out, and of the wall that excluded the curious. What had happened was not for vulgar eyes--it
+involved too much of the universe's inner secrets for that.  
 
   In the pale dawn, James spoke softly to Georgina, who could do no more than
 put her head on his breast and sob.  
 
-  &ldquo;Sweetheart, I think he has atoned. He must have set the fire, you know,
-while I was asleep. He told me it ought to be burned&mdash;the clinic, and everything in it,
+   "Sweetheart, I think he has atoned. He must have set the fire, you know,
+while I was asleep. He told me it ought to be burned--the clinic, and everything in it,
 Surama, too. It was the only way to save the world from the unknown horrors he had loosed upon
 it. He knew, and he did what was best.  
 
-  &ldquo;He was a great man, Georgie. Let&rsquo;s never forget that. We must always
-be proud of him, for he started out to help mankind, and was titanic even in his sins. I&rsquo;ll
+   "He was a great man, Georgie. Let's never forget that. We must always
+be proud of him, for he started out to help mankind, and was titanic even in his sins. I'll
 tell you more sometime. What he did, be it good or evil, was what no man ever did before. He
 was the first and last to break through certain veils, and even Apollonius of Tyana takes second
-place beside him. But we mustn&rsquo;t talk about that. We must remember him only as the Little
-Alf we knew&mdash;as the boy who wanted to master medicine and conquer fever.&rdquo;  
+place beside him. But we mustn't talk about that. We must remember him only as the Little
+Alf we knew--as the boy who wanted to master medicine and conquer fever. "  
 
   In the afternoon the leisurely firemen overhauled the ruins and found two skeletons
-with bits of blackened flesh adhering&mdash;only two, thanks to the undisturbed lime-pits. One
+with bits of blackened flesh adhering--only two, thanks to the undisturbed lime-pits. One
 was of a man; the other is still a subject of debate among the biologists of the coast. It was
-not exactly an ape&rsquo;s or a saurian&rsquo;s skeleton, but it had disturbing suggestions of
+not exactly an ape's or a saurian's skeleton, but it had disturbing suggestions of
 lines of evolution of which palaeontology has revealed no trace. The charred skull, oddly enough,
 was very human, and reminded people of Surama; but the rest of the bones were beyond conjecture.
 Only well-cut clothing could have made such a body look like a man.  
 
-  But the human bones were Clarendon&rsquo;s. No one disputed this, and the world
+  But the human bones were Clarendon's. No one disputed this, and the world
 at large still mourns the untimely death of the greatest doctor of his age; the bacteriologist
-whose universal fever serum would have far eclipsed Dr. Miller&rsquo;s kindred antitoxin had
-he lived to bring it to perfection. Much of Miller&rsquo;s late success, indeed, is credited
+whose universal fever serum would have far eclipsed Dr. Miller's kindred antitoxin had
+he lived to bring it to perfection. Much of Miller's late success, indeed, is credited
 to the notes bequeathed him by the hapless victim of the flames. Of the old rivalry and hatred
 almost none survived, and even Dr. Wilfred Jones has been known to boast of his association
 with the vanished leader.  
 
   James Dalton and his wife Georgina have always preserved a reticence which
 modesty and family grief might well account for. They published certain notes as a tribute to
-the great man&rsquo;s memory, but have never confirmed or contradicted either the popular estimate
+the great man's memory, but have never confirmed or contradicted either the popular estimate
 or the rare hints of marvels that a very few keen thinkers have been known to whisper. It was
 very subtly and slowly that the facts filtered out. Dalton probably gave Dr. MacNeil an inkling
 of the truth, and that good soul had not many secrets from his son.  
 
   The Daltons have led, on the whole, a very happy life; for their cloud of terror
 lies far in the background, and a strong mutual love has kept the world fresh for them. But
-there are things which disturb them oddly&mdash;little things, of which one would scarcely ever
+there are things which disturb them oddly--little things, of which one would scarcely ever
 think of complaining. They cannot bear persons who are lean or deep-voiced beyond certain limits,
 and Georgina turns pale at the sound of any guttural chuckling. Senator Dalton has a mixed horror
 of occultism, travel, hypodermics, and strange alphabets which most find hard to unify, and
-there are still those who blame him for the vast proportion of the doctor&rsquo;s library that
+there are still those who blame him for the vast proportion of the doctor's library that
 he destroyed with such painstaking completeness.  
 
   MacNeil, though, seemed to realise. He was a simple man, and he said a prayer
-as the last of Alfred Clarendon&rsquo;s strange books crumbled to ashes. Nor would anyone who
+as the last of Alfred Clarendon's strange books crumbled to ashes. Nor would anyone who
 had peered understandingly within those books wish a word of that prayer unsaid.  

@@ -27,13 +27,13 @@ far toward the south. Traces of the old one can still be found amidst the weeds 
 wilderness, and some of them will doubtless linger even when half the hollows are flooded for
 the new reservoir. Then the dark woods will be cut down and the blasted heath will slumber far
 below blue waters whose surface will mirror the sky and ripple in the sun. And the secrets of
-the strange days will be one with the deep&rsquo;s secrets; one with the hidden lore of old
+the strange days will be one with the deep's secrets; one with the hidden lore of old
 ocean, and all the mystery of primal earth.  
 
   When I went into the hills and vales to survey for the new reservoir they told
 me the place was evil. They told me this in Arkham, and because that is a very old town full
 of witch legends I thought the evil must be something which grandams had whispered to children
-through centuries. The name &ldquo;blasted heath&rdquo; seemed to me very odd and theatrical,
+through centuries. The name  "blasted heath " seemed to me very odd and theatrical,
 and I wondered how it had come into the folklore of a Puritan people. Then I saw that dark westward
 tangle of glens and slopes for myself, and ceased to wonder at anything besides its own elder
 mystery. It was morning when I saw it, but shadow lurked always there. The trees grew too thickly,
@@ -70,12 +70,12 @@ circuitously back to the town by the curving road on the south. I vaguely wished
 would gather, for an odd timidity about the deep skyey voids above had crept into my soul.  
 
   In the evening I asked old people in Arkham about the blasted heath, and what
-was meant by that phrase &ldquo;strange days&rdquo; which so many evasively muttered. I could
+was meant by that phrase  "strange days " which so many evasively muttered. I could
 not, however, get any good answers, except that all the mystery was much more recent than I
 had dreamed. It was not a matter of old legendry at all, but something within the lifetime of
-those who spoke. It had happened in the &rsquo;eighties, and a family had disappeared or was
+those who spoke. It had happened in the 'eighties, and a family had disappeared or was
 killed. Speakers would not be exact; and because they all told me to pay no attention to old
-Ammi Pierce&rsquo;s crazy tales, I sought him out the next morning, having heard that he lived
+Ammi Pierce's crazy tales, I sought him out the next morning, having heard that he lived
 alone in the ancient tottering cottage where the trees first begin to get very thick. It was
 a fearsomely archaic place, and had begun to exude the faint miasmal odour which clings about
 houses that have stood too long. Only with persistent knocking could I rouse the aged man, and
@@ -89,13 +89,13 @@ He was not like other rustics I had known in the sections where reservoirs were 
 him there were no protests at the miles of old wood and farmland to be blotted out, though perhaps
 there would have been had not his home lain outside the bounds of the future lake. Relief was
 all that he shewed; relief at the doom of the dark ancient valleys through which he had roamed
-all his life. They were better under water now&mdash;better under water since the strange days.
+all his life. They were better under water now--better under water since the strange days.
 And with this opening his husky voice sank low, while his body leaned forward and his right
 forefinger began to point shakily and impressively.  
 
   It was then that I heard the story, and as the rambling voice scraped and whispered
 on I shivered again and again despite the summer day. Often I had to recall the speaker from
-ramblings, piece out scientific points which he knew only by a fading parrot memory of professors&rsquo;
+ramblings, piece out scientific points which he knew only by a fading parrot memory of professors'
 talk, or bridge over gaps where his sense of logic and continuity broke down. When he was done
 I did not wonder that his mind had snapped a trifle, or that the folk of Arkham would not speak
 much of the blasted heath. I hurried back before sunset to my hotel, unwilling to have the stars
@@ -103,7 +103,7 @@ come out above me in the open; and the next day returned to Boston to give up my
 could not go into that dim chaos of old forest and slope again, or face another time that grey
 blasted heath where the black well yawned deep beside the tumbled bricks and stones. The reservoir
 will soon be built now, and all those elder secrets will be safe forever under watery fathoms.
-But even then I do not believe I would like to visit that country by night&mdash;at least, not
+But even then I do not believe I would like to visit that country by night--at least, not
 when the sinister stars are out; and nothing could bribe me to drink the new city water of Arkham.  
 
   It all began, old Ammi said, with the meteorite. Before that time there had
@@ -114,28 +114,28 @@ dusk was never terrible till the strange days. Then there had come that white no
 that string of explosions in the air, and that pillar of smoke from the valley far in the wood.
 And by night all Arkham had heard of the great rock that fell out of the sky and bedded itself
 in the ground beside the well at the Nahum Gardner place. That was the house which had stood
-where the blasted heath was to come&mdash;the trim white Nahum Gardner house amidst its fertile
+where the blasted heath was to come--the trim white Nahum Gardner house amidst its fertile
 gardens and orchards.  
 
   Nahum had come to town to tell people about the stone, and had dropped in at
-Ammi Pierce&rsquo;s on the way. Ammi was forty then, and all the queer things were fixed very
+Ammi Pierce's on the way. Ammi was forty then, and all the queer things were fixed very
 strongly in his mind. He and his wife had gone with the three professors from Miskatonic University
 who hastened out the next morning to see the weird visitor from unknown stellar space, and had
 wondered why Nahum had called it so large the day before. It had shrunk, Nahum said as he pointed
 out the big brownish mound above the ripped earth and charred grass near the archaic well-sweep
 in his front yard; but the wise men answered that stones do not shrink. Its heat lingered persistently,
-and Nahum declared it had glowed faintly in the night. The professors tried it with a geologist&rsquo;s
+and Nahum declared it had glowed faintly in the night. The professors tried it with a geologist's
 hammer and found it was oddly soft. It was, in truth, so soft as to be almost plastic; and they
 gouged rather than chipped a specimen to take back to the college for testing. They took it
-in an old pail borrowed from Nahum&rsquo;s kitchen, for even the small piece refused to grow
-cool. On the trip back they stopped at Ammi&rsquo;s to rest, and seemed thoughtful when Mrs.
+in an old pail borrowed from Nahum's kitchen, for even the small piece refused to grow
+cool. On the trip back they stopped at Ammi's to rest, and seemed thoughtful when Mrs.
 Pierce remarked that the fragment was growing smaller and burning the bottom of the pail. Truly,
 it was not large, but perhaps they had taken less than they thought.  
 
-  The day after that&mdash;all this was in June of &rsquo;82&mdash;the professors
-had trooped out again in a great excitement. As they passed Ammi&rsquo;s they told him what
+  The day after that--all this was in June of '82--the professors
+had trooped out again in a great excitement. As they passed Ammi's they told him what
 queer things the specimen had done, and how it had faded wholly away when they put it in a glass
-beaker. The beaker had gone, too, and the wise men talked of the strange stone&rsquo;s affinity
+beaker. The beaker had gone, too, and the wise men talked of the strange stone's affinity
 for silicon. It had acted quite unbelievably in that well-ordered laboratory; doing nothing
 at all and shewing no occluded gases when heated on charcoal, being wholly negative in the borax
 bead, and soon proving itself absolutely non-volatile at any producible temperature, including
@@ -170,7 +170,7 @@ as they detached another and larger piece with hammer and chisel. They gouged de
 and as they pried away the smaller mass they saw that the core of the thing was not quite homogeneous.  
 
   They had uncovered what seemed to be the side of a large coloured globule imbedded
-in the substance. The colour, which resembled some of the bands in the meteor&rsquo;s strange
+in the substance. The colour, which resembled some of the bands in the meteor's strange
 spectrum, was almost impossible to describe; and it was only by analogy that they called it
 colour at all. Its texture was glossy, and upon tapping it appeared to promise both brittleness
 and hollowness. One of the professors gave it a smart blow with a hammer, and it burst with
@@ -179,7 +179,7 @@ It left behind a hollow spherical space about three inches across, and all thoug
 that others would be discovered as the enclosing substance wasted away.  
 
   Conjecture was vain; so after a futile attempt to find additional globules
-by drilling, the seekers left again with their new specimen&mdash;which proved, however, as
+by drilling, the seekers left again with their new specimen--which proved, however, as
 baffling in the laboratory as its predecessor had been. Aside from being almost plastic, having
 heat, magnetism, and slight luminosity, cooling slightly in powerful acids, possessing an unknown
 spectrum, wasting away in air, and attacking silicon compounds with mutual destruction as a
@@ -188,9 +188,9 @@ scientists were forced to own that they could not place it. It was nothing of th
 a piece of the great outside; and as such dowered with outside properties and obedient to outside
 laws.  
 
-  That night there was a thunderstorm, and when the professors went out to Nahum&rsquo;s
+  That night there was a thunderstorm, and when the professors went out to Nahum's
 the next day they met with a bitter disappointment. The stone, magnetic as it had been, must
-have had some peculiar electrical property; for it had &ldquo;drawn the lightning&rdquo;, as
+have had some peculiar electrical property; for it had  "drawn the lightning ", as
 Nahum said, with a singular persistence. Six times within an hour the farmer saw the lightning
 strike the furrow in the front yard, and when the storm was over nothing remained but a ragged
 pit by the ancient well-sweep, half-choked with caved-in earth. Digging had borne no fruit,
@@ -209,7 +209,7 @@ genial person of about fifty, living with his wife and three sons on the pleasan
 in the valley. He and Ammi exchanged visits frequently, as did their wives; and Ammi had nothing
 but praise for him after all these years. He seemed slightly proud of the notice his place had
 attracted, and talked often of the meteorite in the succeeding weeks. That July and August were
-hot, and Nahum worked hard at his haying in the ten-acre pasture across Chapman&rsquo;s Brook;
+hot, and Nahum worked hard at his haying in the ten-acre pasture across Chapman's Brook;
 his rattling wain wearing deep ruts in the shadowy lanes between. The labour tired him more
 than it had in other years, and he felt that age was beginning to tell on him.  
 
@@ -234,11 +234,11 @@ footprints in the snow. They were the usual winter prints of red squirrels, whit
 foxes, but the brooding farmer professed to see something not quite right about their nature
 and arrangement. He was never specific, but appeared to think that they were not as characteristic
 of the anatomy and habits of squirrels and rabbits and foxes as they ought to be. Ammi listened
-without interest to this talk until one night when he drove past Nahum&rsquo;s house in his
-sleigh on the way back from Clark&rsquo;s Corners. There had been a moon, and a rabbit had run
+without interest to this talk until one night when he drove past Nahum's house in his
+sleigh on the way back from Clark's Corners. There had been a moon, and a rabbit had run
 across the road, and the leaps of that rabbit were longer than either Ammi or his horse liked.
 The latter, indeed, had almost run away when brought up by a firm rein. Thereafter Ammi gave
-Nahum&rsquo;s tales more respect, and wondered why the Gardner dogs seemed so cowed and quivering
+Nahum's tales more respect, and wondered why the Gardner dogs seemed so cowed and quivering
 every morning. They had, it developed, nearly lost the spirit to bark.  
 
   In February the McGregor boys from Meadow Hill were out shooting woodchucks,
@@ -246,19 +246,19 @@ and not far from the Gardner place bagged a very peculiar specimen. The proporti
 seemed slightly altered in a queer way impossible to describe, while its face had taken on an
 expression which no one ever saw in a woodchuck before. The boys were genuinely frightened,
 and threw the thing away at once, so that only their grotesque tales of it ever reached the
-people of the countryside. But the shying of the horses near Nahum&rsquo;s house had now
+people of the countryside. But the shying of the horses near Nahum's house had now
 become an acknowledged thing, and all the basis for a cycle of whispered legend was fast taking
 form.  
 
-  People vowed that the snow melted faster around Nahum&rsquo;s than it did anywhere
-else, and early in March there was an awed discussion in Potter&rsquo;s general store at Clark&rsquo;s
-Corners. Stephen Rice had driven past Gardner&rsquo;s in the morning, and had noticed the skunk-cabbages
+  People vowed that the snow melted faster around Nahum's than it did anywhere
+else, and early in March there was an awed discussion in Potter's general store at Clark's
+Corners. Stephen Rice had driven past Gardner's in the morning, and had noticed the skunk-cabbages
 coming up through the mud by the woods across the road. Never were things of such size seen
 before, and they held strange colours that could not be put into any words. Their shapes were
 monstrous, and the horse had snorted at an odour which struck Stephen as wholly unprecedented.
 That afternoon several persons drove past to see the abnormal growth, and all agreed that plants
 of that kind ought never to sprout in a healthy world. The bad fruit of the fall before was
-freely mentioned, and it went from mouth to mouth that there was poison in Nahum&rsquo;s ground.
+freely mentioned, and it went from mouth to mouth that there was poison in Nahum's ground.
 Of course it was the meteorite; and remembering how strange the men from the college had found
 that stone to be, several farmers spoke about the matter to them.  
 
@@ -266,7 +266,7 @@ that stone to be, several farmers spoke about the matter to them.
 were very conservative in what they inferred. The plants were certainly odd, but all skunk-cabbages
 are more or less odd in shape and odour and hue. Perhaps some mineral element from the stone
 had entered the soil, but it would soon be washed away. And as for the footprints and frightened
-horses&mdash;of course this was mere country talk which such a phenomenon as the a&euml;rolite
+horses--of course this was mere country talk which such a phenomenon as the aërolite
 would be certain to start. There was really nothing for serious men to do in cases of wild gossip,
 for superstitious rustics will say and believe anything. And so all through the strange days
 the professors stayed away in contempt. Only one of them, when given two phials of dust for
@@ -276,52 +276,52 @@ in the college spectroscope, and like the brittle globule found imbedded in the 
 abyss. The samples in this analysis case gave the same odd bands at first, though later they
 lost the property.  
 
-  The trees budded prematurely around Nahum&rsquo;s, and at night they swayed
-ominously in the wind. Nahum&rsquo;s second son Thaddeus, a lad of fifteen, swore that they
+  The trees budded prematurely around Nahum's, and at night they swayed
+ominously in the wind. Nahum's second son Thaddeus, a lad of fifteen, swore that they
 swayed also when there was no wind; but even the gossips would not credit this. Certainly, however,
 restlessness was in the air. The entire Gardner family developed the habit of stealthy listening,
 though not for any sound which they could consciously name. The listening was, indeed, rather
 a product of moments when consciousness seemed half to slip away. Unfortunately such moments
-increased week by week, till it became common speech that &ldquo;something was wrong with all
-Nahum&rsquo;s folks&rdquo;. When the early saxifrage came out it had another strange colour;
+increased week by week, till it became common speech that  "something was wrong with all
+Nahum's folks ". When the early saxifrage came out it had another strange colour;
 not quite like that of the skunk-cabbage, but plainly related and equally unknown to anyone
 who saw it. Nahum took some blossoms to Arkham and shewed them to the editor of the   Gazette,  
 but that dignitary did no more than write a humorous article about them, in which the dark fears
-of rustics were held up to polite ridicule. It was a mistake of Nahum&rsquo;s to tell a stolid
+of rustics were held up to polite ridicule. It was a mistake of Nahum's to tell a stolid
 city man about the way the great, overgrown mourning-cloak butterflies behaved in connexion
 with these saxifrages.  
 
   April brought a kind of madness to the country folk, and began that disuse
-of the road past Nahum&rsquo;s which led to its ultimate abandonment. It was the vegetation.
+of the road past Nahum's which led to its ultimate abandonment. It was the vegetation.
 All the orchard trees blossomed forth in strange colours, and through the stony soil of the
 yard and adjacent pasturage there sprang up a bizarre growth which only a botanist could connect
 with the proper flora of the region. No sane wholesome colours were anywhere to be seen except
 in the green grass and leafage; but everywhere those hectic and prismatic variants of some diseased,
-underlying primary tone without a place among the known tints of earth. The Dutchman&rsquo;s
+underlying primary tone without a place among the known tints of earth. The Dutchman's
 breeches became a thing of sinister menace, and the bloodroots grew insolent in their chromatic
 perversion. Ammi and the Gardners thought that most of the colours had a sort of haunting familiarity,
 and decided that they reminded one of the brittle globule in the meteor. Nahum ploughed and
 sowed the ten-acre pasture and the upland lot, but did nothing with the land around the house.
-He knew it would be of no use, and hoped that the summer&rsquo;s strange growths would draw
+He knew it would be of no use, and hoped that the summer's strange growths would draw
 all the poison from the soil. He was prepared for almost anything now, and had grown used to
 the sense of something near him waiting to be heard. The shunning of his house by neighbours
 told on him, of course; but it told on his wife more. The boys were better off, being at school
 each day; but they could not help being frightened by the gossip. Thaddeus, an especially sensitive
 youth, suffered the most.  
 
-  In May the insects came, and Nahum&rsquo;s place became a nightmare of buzzing
+  In May the insects came, and Nahum's place became a nightmare of buzzing
 and crawling. Most of the creatures seemed not quite usual in their aspects and motions, and
 their nocturnal habits contradicted all former experience. The Gardners took to watching at
-night&mdash;watching in all directions at random for something&nbsp;.&nbsp;.&nbsp;. they could
+night--watching in all directions at random for something . . . they could
 not tell what. It was then that they all owned that Thaddeus had been right about the trees.
 Mrs. Gardner was the next to see it from the window as she watched the swollen boughs of a maple
 against a moonlit sky. The boughs surely moved, and there was no wind. It must be the sap. Strangeness
-had come into everything growing now. Yet it was none of Nahum&rsquo;s family at all who made
+had come into everything growing now. Yet it was none of Nahum's family at all who made
 the next discovery. Familiarity had dulled them, and what they could not see was glimpsed by
 a timid windmill salesman from Bolton who drove by one night in ignorance of the country legends.
 What he told in Arkham was given a short paragraph in the   Gazette;   and it was there that
 all the farmers, Nahum included, saw it first. The night had been dark and the buggy-lamps faint,
-but around a farm in the valley which everyone knew from the account must be Nahum&rsquo;s the
+but around a farm in the valley which everyone knew from the account must be Nahum's the
 darkness had been less thick. A dim though distinct luminosity seemed to inhere in all the vegetation,
 grass, leaves, and blossoms alike, while at one moment a detached piece of the phosphorescence
 appeared to stir furtively in the yard near the barn.  
@@ -333,15 +333,15 @@ grass and leaves became apparent to the eye. All the verdure was going grey, and
 a highly singular quality of brittleness. Ammi was now the only person who ever visited the
 place, and his visits were becoming fewer and fewer. When school closed the Gardners were virtually
 cut off from the world, and sometimes let Ammi do their errands in town. They were failing curiously
-both physically and mentally, and no one was surprised when the news of Mrs. Gardner&rsquo;s
+both physically and mentally, and no one was surprised when the news of Mrs. Gardner's
 madness stole around.  
 
-  It happened in June, about the anniversary of the meteor&rsquo;s fall, and
+  It happened in June, about the anniversary of the meteor's fall, and
 the poor woman screamed about things in the air which she could not describe. In her raving
 there was not a single specific noun, but only verbs and pronouns. Things moved and changed
 and fluttered, and ears tingled to impulses which were not wholly sounds. Something was taken
-away&mdash;she was being drained of something&mdash;something was fastening itself on her that
-ought not to be&mdash;someone must make it keep off&mdash;nothing was ever still in the night&mdash;the
+away--she was being drained of something--something was fastening itself on her that
+ought not to be--someone must make it keep off--nothing was ever still in the night--the
 walls and windows shifted. Nahum did not send her to the county asylum, but let her wander about
 the house as long as she was harmless to herself and others. Even when her expression changed
 he did nothing. But when the boys grew afraid of her, and Thaddeus nearly fainted at the way
@@ -361,7 +361,7 @@ enough the hayloft for convenient pitching. And all the while the vegetation was
 and brittle. Even the flowers whose hues had been so strange were greying now, and the fruit
 was coming out grey and dwarfed and tasteless. The asters and goldenrod bloomed grey and distorted,
 and the roses and zinneas and hollyhocks in the front yard were such blasphemous-looking things
-that Nahum&rsquo;s oldest boy Zenas cut them down. The strangely puffed insects died about that
+that Nahum's oldest boy Zenas cut them down. The strangely puffed insects died about that
 time, even the bees that had left their hives and taken to the woods.  
 
   By September all the vegetation was fast crumbling to a greyish powder, and
@@ -379,10 +379,10 @@ world between lines of nameless guards to a certain and familiar doom.
 
   Thaddeus went mad in September after a visit to the well. He had gone with
 a pail and had come back empty-handed, shrieking and waving his arms, and sometimes lapsing
-into an inane titter or a whisper about &ldquo;the moving colours down there&rdquo;. Two in
+into an inane titter or a whisper about  "the moving colours down there ". Two in
 one family was pretty bad, but Nahum was very brave about it. He let the boy run about for a
 week until he began stumbling and hurting himself, and then he shut him in an attic room across
-the hall from his mother&rsquo;s. The way they screamed at each other from behind their locked
+the hall from his mother's. The way they screamed at each other from behind their locked
 doors was very terrible, especially to little Merwin, who fancied they talked in some terrible
 language that was not of earth. Merwin was getting frightfully imaginative, and his restlessness
 was worse after the shutting away of the brother who had been his greatest playmate.  
@@ -390,24 +390,24 @@ was worse after the shutting away of the brother who had been his greatest playm
   Almost at the same time the mortality among the livestock commenced. Poultry
 turned greyish and died very quickly, their meat being found dry and noisome upon cutting. Hogs
 grew inordinately fat, then suddenly began to undergo loathsome changes which no one could explain.
-Their meat was of course useless, and Nahum was at his wit&rsquo;s end. No rural veterinary
+Their meat was of course useless, and Nahum was at his wit's end. No rural veterinary
 would approach his place, and the city veterinary from Arkham was openly baffled. The swine
 began growing grey and brittle and falling to pieces before they died, and their eyes and muzzles
 developed singular alterations. It was very inexplicable, for they had never been fed from the
 tainted vegetation. Then something struck the cows. Certain areas or sometimes the whole body
 would be uncannily shrivelled or compressed, and atrocious collapses or disintegrations were
-common. In the last stages&mdash;and death was always the result&mdash;there would be a greying
+common. In the last stages--and death was always the result--there would be a greying
 and turning brittle like that which beset the hogs. There could be no question of poison, for
 all the cases occurred in a locked and undisturbed barn. No bites of prowling things could have
 brought the virus, for what live beast of earth can pass through solid obstacles? It must be
-only natural disease&mdash;yet what disease could wreak such results was beyond any mind&rsquo;s
+only natural disease--yet what disease could wreak such results was beyond any mind's
 guessing. When the harvest came there was not an animal surviving on the place, for the stock
 and poultry were dead and the dogs had run away. These dogs, three in number, had all vanished
 one night and were never heard of again. The five cats had left some time before, but their
 going was scarcely noticed since there now seemed to be no mice, and only Mrs. Gardner had made
 pets of the graceful felines.  
 
-  On the nineteenth of October Nahum staggered into Ammi&rsquo;s house with hideous
+  On the nineteenth of October Nahum staggered into Ammi's house with hideous
 news. The death had come to poor Thaddeus in his attic room, and it had come in a way which
 could not be told. Nahum had dug a grave in the railed family plot behind the farm, and had
 put therein what he found. There could have been nothing from outside, for the small barred
@@ -417,7 +417,7 @@ seemed to cling round the Gardners and all they touched, and the very presence o
 house was a breath from regions unnamed and unnamable. Ammi accompanied Nahum home with the
 greatest reluctance, and did what he might to calm the hysterical sobbing of little Merwin.
 Zenas needed no calming. He had come of late to do nothing but stare into space and obey what
-his father told him; and Ammi thought that his fate was very merciful. Now and then Merwin&rsquo;s
+his father told him; and Ammi thought that his fate was very merciful. Now and then Merwin's
 screams were answered faintly from the attic, and in response to an inquiring look Nahum said
 that his wife was getting very feeble. When night approached, Ammi managed to get away; for
 not even friendship could make him stay in that spot when the faint glow of the vegetation began
@@ -427,10 +427,10 @@ been able to connect and reflect upon all the portents around him he must inevit
 a total maniac. In the twilight he hastened home, the screams of the mad woman and the nervous
 child ringing horribly in his ears.  
 
-  Three days later Nahum lurched into Ammi&rsquo;s kitchen in the early morning,
+  Three days later Nahum lurched into Ammi's kitchen in the early morning,
 and in the absence of his host stammered out a desperate tale once more, while Mrs. Pierce listened
 in a clutching fright. It was little Merwin this time. He was gone. He had gone out late at
-night with a lantern and pail for water, and had never come back. He&rsquo;d been going to pieces
+night with a lantern and pail for water, and had never come back. He'd been going to pieces
 for days, and hardly knew what he was about. Screamed at everything. There had been a frantic
 shriek from the yard then, but before the father could get to the door, the boy was gone. There
 was no glow from the lantern he had taken, and of the child himself no trace. At the time Nahum
@@ -445,12 +445,12 @@ No use, either, in telling the city people at Arkham who laughed at everything. 
 and now Merwin was gone. Something was creeping and creeping and waiting to be seen and felt
 and heard. Nahum would go soon, and he wanted Ammi to look after his wife and Zenas if they
 survived him. It must all be a judgment of some sort; though he could not fancy what for, since
-he had always walked uprightly in the Lord&rsquo;s ways so far as he knew.  
+he had always walked uprightly in the Lord's ways so far as he knew.  
 
   For over two weeks Ammi saw nothing of Nahum; and then, worried about what
 might have happened, he overcame his fears and paid the Gardner place a visit. There was no
 smoke from the great chimney, and for a moment the visitor was apprehensive of the worst. The
-aspect of the whole farm was shocking&mdash;greyish withered grass and leaves on the ground,
+aspect of the whole farm was shocking--greyish withered grass and leaves on the ground,
 vines falling in brittle wreckage from archaic walls and gables, and great bare trees clawing
 up at the grey November sky with a studied malevolence which Ammi could not but feel had come
 from some subtle change in the tilt of the branches. But Nahum was alive, after all. He was
@@ -459,13 +459,13 @@ simple orders to Zenas. The room was deadly cold; and as Ammi visibly shivered, 
 huskily to Zenas for more wood. Wood, indeed, was sorely needed; since the cavernous fireplace
 was unlit and empty, with a cloud of soot blowing about in the chill wind that came down the
 chimney. Presently Nahum asked him if the extra wood had made him any more comfortable, and
-then Ammi saw what had happened. The stoutest cord had broken at last, and the hapless farmer&rsquo;s
+then Ammi saw what had happened. The stoutest cord had broken at last, and the hapless farmer's
 mind was proof against more sorrow.  
 
   Questioning tactfully, Ammi could get no clear data at all about the missing
-Zenas. &ldquo;In the well&mdash;he lives in the well&mdash;&rdquo; was all that the clouded
-father would say. Then there flashed across the visitor&rsquo;s mind a sudden thought of the
-mad wife, and he changed his line of inquiry. &ldquo;Nabby? Why, here she is!&rdquo; was the
+Zenas.  "In the well--he lives in the well-- " was all that the clouded
+father would say. Then there flashed across the visitor's mind a sudden thought of the
+mad wife, and he changed his line of inquiry.  "Nabby? Why, here she is! " was the
 surprised response of poor Nahum, and Ammi soon saw that he must search for himself. Leaving
 the harmless babbler on the couch, he took the keys from their nail beside the door and climbed
 the creaking stairs to the attic. It was very close and noisome up there, and no sound could
@@ -480,7 +480,7 @@ with his lungs filled with breathable air. When he did enter he saw something da
 and upon seeing it more clearly he screamed outright. While he screamed he thought a momentary
 cloud eclipsed the window, and a second later he felt himself brushed as if by some hateful
 current of vapour. Strange colours danced before his eyes; and had not a present horror numbed
-him he would have thought of the globule in the meteor that the geologist&rsquo;s hammer had
+him he would have thought of the globule in the meteor that the geologist's hammer had
 shattered, and of the morbid vegetation that had sprouted in the spring. As it was he thought
 only of the blasphemous monstrosity which confronted him, and which all too clearly had shared
 the nameless fate of young Thaddeus and the livestock. But the terrible thing about this horror
@@ -504,20 +504,20 @@ of suction. With an associative sense goaded to feverish heights, he thought una
 what he had seen upstairs. Good God! What eldritch dream-world was this into which he had blundered?
 He dared move neither backward nor forward, but stood there trembling at the black curve of
 the boxed-in staircase. Every trifle of the scene burned itself into his brain. The sounds,
-the sense of dread expectancy, the darkness, the steepness of the narrow steps&mdash;and merciful
-heaven!&nbsp;.&nbsp;.&nbsp;. the faint but unmistakable luminosity of all the woodwork in sight;
+the sense of dread expectancy, the darkness, the steepness of the narrow steps--and merciful
+heaven! . . . the faint but unmistakable luminosity of all the woodwork in sight;
 steps, sides, exposed laths, and beams alike!  
 
-  Then there burst forth a frantic whinny from Ammi&rsquo;s horse outside, followed
+  Then there burst forth a frantic whinny from Ammi's horse outside, followed
 at once by a clatter which told of a frenzied runaway. In another moment horse and buggy had
 gone beyond earshot, leaving the frightened man on the dark stairs to guess what had sent them.
-But that was not all. There had been another sound out there. A sort of liquid splash&mdash;water&mdash;it
+But that was not all. There had been another sound out there. A sort of liquid splash--water--it
 must have been the well. He had left Hero untied near it, and a buggy-wheel must have brushed
 the coping and knocked in a stone. And still the pale phosphorescence glowed in that detestably
 ancient woodwork. God! how old the house was! Most of it built before 1670, and the gambrel
 roof not later than 1730.  
 
-  A feeble scratching on the floor downstairs now sounded distinctly, and Ammi&rsquo;s
+  A feeble scratching on the floor downstairs now sounded distinctly, and Ammi's
 grip tightened on a heavy stick he had picked up in the attic for some purpose. Slowly nerving
 himself, he finished his descent and walked boldly toward the kitchen. But he did not complete
 the walk, because what he sought was no longer there. It had come to meet him, and it was still
@@ -525,44 +525,44 @@ alive after a fashion. Whether it had crawled or whether it had been dragged by 
 force, Ammi could not say; but the death had been at it. Everything had happened in the last
 half-hour, but collapse, greying, and disintegration were already far advanced. There was a
 horrible brittleness, and dry fragments were scaling off. Ammi could not touch it, but looked
-horrifiedly into the distorted parody that had been a face. &ldquo;What was it, Nahum&mdash;what
-was it?&rdquo; he whispered, and the cleft, bulging lips were just able to crackle out a final
+horrifiedly into the distorted parody that had been a face.  "What was it, Nahum--what
+was it? " he whispered, and the cleft, bulging lips were just able to crackle out a final
 answer.  
 
-  &ldquo;Nothin&rsquo;&nbsp;.&nbsp;.&nbsp;. nothin&rsquo;&nbsp;.&nbsp;.&nbsp;. the
-colour&nbsp;.&nbsp;.&nbsp;. it burns&nbsp;.&nbsp;.&nbsp;. cold an&rsquo; wet&nbsp;.&nbsp;.&nbsp;.
-but it burns&nbsp;.&nbsp;.&nbsp;. it lived in the well&nbsp;.&nbsp;.&nbsp;. I seen it&nbsp;.&nbsp;.&nbsp;.
-a kind o&rsquo; smoke&nbsp;.&nbsp;.&nbsp;. jest like the flowers last spring&nbsp;.&nbsp;.&nbsp;.
-the well shone at night&nbsp;.&nbsp;.&nbsp;. Thad an&rsquo; Mernie an&rsquo; Zenas&nbsp;.&nbsp;.&nbsp;.
-everything alive&nbsp;.&nbsp;.&nbsp;. suckin&rsquo; the life out of everything&nbsp;.&nbsp;.&nbsp;.
-in that stone&nbsp;.&nbsp;.&nbsp;. it must a&rsquo; come in that stone&nbsp;.&nbsp;.&nbsp;.
-pizened the whole place&nbsp;.&nbsp;.&nbsp;. dun&rsquo;t know what it wants&nbsp;.&nbsp;.&nbsp;.
-that round thing them men from the college dug outen the stone&nbsp;.&nbsp;.&nbsp;. they smashed
-it&nbsp;.&nbsp;.&nbsp;. it was that same colour&nbsp;.&nbsp;.&nbsp;. jest the same, like the
-flowers an&rsquo; plants&nbsp;.&nbsp;.&nbsp;. must a&rsquo; ben more of &rsquo;em&nbsp;.&nbsp;.&nbsp;.
-seeds&nbsp;.&nbsp;.&nbsp;. seeds&nbsp;.&nbsp;.&nbsp;. they growed&nbsp;.&nbsp;.&nbsp;. I seen
-it the fust time this week&nbsp;.&nbsp;.&nbsp;. must a&rsquo; got strong on Zenas&nbsp;.&nbsp;.&nbsp;.
-he was a big boy, full o&rsquo; life&nbsp;.&nbsp;.&nbsp;. it beats down your mind an&rsquo;
-then gits ye&nbsp;.&nbsp;.&nbsp;. burns ye up&nbsp;.&nbsp;.&nbsp;. in the well water&nbsp;.&nbsp;.&nbsp;.
-you was right about that&nbsp;.&nbsp;.&nbsp;. evil water&nbsp;.&nbsp;.&nbsp;. Zenas never come
-back from the well&nbsp;.&nbsp;.&nbsp;. can&rsquo;t git away&nbsp;.&nbsp;.&nbsp;. draws ye&nbsp;.&nbsp;.&nbsp;.
-ye know summ&rsquo;at&rsquo;s comin&rsquo;, but &rsquo;tain&rsquo;t no use&nbsp;.&nbsp;.&nbsp;. I
-seen it time an&rsquo; agin senct Zenas was took&nbsp;.&nbsp;.&nbsp;. whar&rsquo;s Nabby,
-Ammi?&nbsp;.&nbsp;.&nbsp;. my head&rsquo;s no good&nbsp;.&nbsp;.&nbsp;. dun&rsquo;t know how long senct
-I fed her&nbsp;.&nbsp;.&nbsp;. it&rsquo;ll git her ef we ain&rsquo;t keerful&nbsp;.&nbsp;.&nbsp;.
-jest a colour&nbsp;.&nbsp;.&nbsp;. her face is gettin&rsquo; to hev that colour sometimes towards
-night&nbsp;.&nbsp;.&nbsp;. an&rsquo; it burns an&rsquo; sucks&nbsp;.&nbsp;.&nbsp;. it come from
-some place whar things ain&rsquo;t as they is here&nbsp;.&nbsp;.&nbsp;. one o&rsquo; them professors
-said so&nbsp;.&nbsp;.&nbsp;. he was right&nbsp;.&nbsp;.&nbsp;. look out, Ammi, it&rsquo;ll do
-suthin&rsquo; more&nbsp;.&nbsp;.&nbsp;. sucks the life out.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "Nothin' . . . nothin' . . . the
+colour . . . it burns . . . cold an' wet . . .
+but it burns . . . it lived in the well . . . I seen it . . .
+a kind o' smoke . . . jest like the flowers last spring . . .
+the well shone at night . . . Thad an' Mernie an' Zenas . . .
+everything alive . . . suckin' the life out of everything . . .
+in that stone . . . it must a' come in that stone . . .
+pizened the whole place . . . dun't know what it wants . . .
+that round thing them men from the college dug outen the stone . . . they smashed
+it . . . it was that same colour . . . jest the same, like the
+flowers an' plants . . . must a' ben more of 'em . . .
+seeds . . . seeds . . . they growed . . . I seen
+it the fust time this week . . . must a' got strong on Zenas . . .
+he was a big boy, full o' life . . . it beats down your mind an'
+then gits ye . . . burns ye up . . . in the well water . . .
+you was right about that . . . evil water . . . Zenas never come
+back from the well . . . can't git away . . . draws ye . . .
+ye know summ'at's comin', but 'tain't no use . . . I
+seen it time an' agin senct Zenas was took . . . whar's Nabby,
+Ammi? . . . my head's no good . . . dun't know how long senct
+I fed her . . . it'll git her ef we ain't keerful . . .
+jest a colour . . . her face is gettin' to hev that colour sometimes towards
+night . . . an' it burns an' sucks . . . it come from
+some place whar things ain't as they is here . . . one o' them professors
+said so . . . he was right . . . look out, Ammi, it'll do
+suthin' more . . . sucks the life out. . . . "  
 
   But that was all. That which spoke could speak no more because it had completely
 caved in. Ammi laid a red checked tablecloth over what was left and reeled out the back door
 into the fields. He climbed the slope to the ten-acre pasture and stumbled home by the north
 road and the woods. He could not pass that well from which his horse had run away. He had looked
 at it through the window, and had seen that no stone was missing from the rim. Then the lurching
-buggy had not dislodged anything after all&mdash;the splash had been something else&mdash;something
-which went into the well after it had done with poor Nahum.&nbsp;.&nbsp;.&nbsp;.   
+buggy had not dislodged anything after all--the splash had been something else--something
+which went into the well after it had done with poor Nahum. . . .   
 
   When Ammi reached his house the horse and buggy had arrived before him and
 thrown his wife into fits of anxiety. Reassuring her without explanations, he set out at once
@@ -576,13 +576,13 @@ diseased animals. He went much against his will, for the afternoon was advancing
 the fall of night over that accursed place, but it was some comfort to have so many people with
 him.  
 
-  The six men drove out in a democrat-wagon, following Ammi&rsquo;s buggy, and
-arrived at the pest-ridden farmhouse about four o&rsquo;clock. Used as the officers were to
+  The six men drove out in a democrat-wagon, following Ammi's buggy, and
+arrived at the pest-ridden farmhouse about four o'clock. Used as the officers were to
 gruesome experiences, not one remained unmoved at what was found in the attic and under the
 red checked tablecloth on the floor below. The whole aspect of the farm with its grey desolation
 was terrible enough, but those two crumbling objects were beyond all bounds. No one could look
 long at them, and even the medical examiner admitted that there was very little to examine.
-Specimens could be analysed, of course, so he busied himself in obtaining them&mdash;and here
+Specimens could be analysed, of course, so he busied himself in obtaining them--and here
 it develops that a very puzzling aftermath occurred at the college laboratory where the two
 phials of dust were finally taken. Under the spectroscope both samples gave off an unknown spectrum,
 in which many of the baffling bands were precisely like those which the strange meteor had yielded
@@ -592,7 +592,7 @@ consisting mainly of alkaline phosphates and carbonates.
   Ammi would not have told the men about the well if he had thought they meant
 to do anything then and there. It was getting toward sunset, and he was anxious to be away.
 But he could not help glancing nervously at the stony curb by the great sweep, and when a detective
-questioned him he admitted that Nahum had feared something down there&mdash;so much so that
+questioned him he admitted that Nahum had feared something down there--so much so that
 he had never even thought of searching it for Merwin or Zenas. After that nothing would do but
 that they empty and explore the well immediately, so Ammi had to wait trembling while pail after
 pail of rank water was hauled up and splashed on the soaking ground outside. The men sniffed
@@ -615,7 +615,7 @@ They had heard the common country talk, it is true; but could not believe that a
 to natural law had occurred. No doubt the meteor had poisoned the soil, but the illness of persons
 and animals who had eaten nothing grown in that soil was another matter. Was it the well water?
 Very possibly. It might be a good idea to analyse it. But what peculiar madness could have made
-both boys jump into the well? Their deeds were so similar&mdash;and the fragments shewed that
+both boys jump into the well? Their deeds were so similar--and the fragments shewed that
 they had both suffered from the grey brittle death. Why was everything so grey and brittle?  
 
   It was the coroner, seated near a window overlooking the yard, who first noticed
@@ -625,41 +625,41 @@ and appeared to shoot up from the black pit like a softened ray from a searchlig
 reflections in the little ground pools where the water had been emptied. It had a very queer
 colour, and as all the men clustered round the window Ammi gave a violent start. For this strange
 beam of ghastly miasma was to him of no unfamiliar hue. He had seen that colour before, and
-feared to think what it might mean. He had seen it in the nasty brittle globule in that a&euml;rolite
+feared to think what it might mean. He had seen it in the nasty brittle globule in that aërolite
 two summers ago, had seen it in the crazy vegetation of the springtime, and had thought he had
 seen it for an instant that very morning against the small barred window of that terrible attic
 room where nameless things had happened. It had flashed there a second, and a clammy and hateful
-current of vapour had brushed past him&mdash;and then poor Nahum had been taken by something
-of that colour. He had said so at the last&mdash;said it was the globule and the plants. After
-that had come the runaway in the yard and the splash in the well&mdash;and now that well was
+current of vapour had brushed past him--and then poor Nahum had been taken by something
+of that colour. He had said so at the last--said it was the globule and the plants. After
+that had come the runaway in the yard and the splash in the well--and now that well was
 belching forth to the night a pale insidious beam of the same daemoniac tint.  
 
-  It does credit to the alertness of Ammi&rsquo;s mind that he puzzled even at
+  It does credit to the alertness of Ammi's mind that he puzzled even at
 that tense moment over a point which was essentially scientific. He could not but wonder at
 his gleaning of the same impression from a vapour glimpsed in the daytime, against a window
 opening on the morning sky, and from a nocturnal exhalation seen as a phosphorescent mist against
-the black and blasted landscape. It wasn&rsquo;t right&mdash;it was against Nature&mdash;and
-he thought of those terrible last words of his stricken friend, &ldquo;It come from some place
-whar things ain&rsquo;t as they is here&nbsp;.&nbsp;.&nbsp;. one o&rsquo; them professors said
-so.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+the black and blasted landscape. It wasn't right--it was against Nature--and
+he thought of those terrible last words of his stricken friend,  "It come from some place
+whar things ain't as they is here . . . one o' them professors said
+so. . . . "  
 
   All three horses outside, tied to a pair of shrivelled saplings by the road,
 were now neighing and pawing frantically. The wagon driver started for the door to do something,
-but Ammi laid a shaky hand on his shoulder. &ldquo;Dun&rsquo;t go out thar,&rdquo; he whispered.
-&ldquo;They&rsquo;s more to this nor what we know. Nahum said somethin&rsquo; lived in the well
-that sucks your life out. He said it must be some&rsquo;at growed from a round ball like one
-we all seen in the meteor stone that fell a year ago June. Sucks an&rsquo; burns, he said, an&rsquo;
-is jest a cloud of colour like that light out thar now, that ye can hardly see an&rsquo; can&rsquo;t
-tell what it is. Nahum thought it feeds on everything livin&rsquo; an&rsquo; gits stronger all
-the time. He said he seen it this last week. It must be somethin&rsquo; from away off in the
-sky like the men from the college last year says the meteor stone was. The way it&rsquo;s made
-an&rsquo; the way it works ain&rsquo;t like no way o&rsquo; God&rsquo;s world. It&rsquo;s some&rsquo;at
-from beyond.&rdquo;  
+but Ammi laid a shaky hand on his shoulder.  "Dun't go out thar, " he whispered.
+ "They's more to this nor what we know. Nahum said somethin' lived in the well
+that sucks your life out. He said it must be some'at growed from a round ball like one
+we all seen in the meteor stone that fell a year ago June. Sucks an' burns, he said, an'
+is jest a cloud of colour like that light out thar now, that ye can hardly see an' can't
+tell what it is. Nahum thought it feeds on everything livin' an' gits stronger all
+the time. He said he seen it this last week. It must be somethin' from away off in the
+sky like the men from the college last year says the meteor stone was. The way it's made
+an' the way it works ain't like no way o' God's world. It's some'at
+from beyond. "  
 
   So the men paused indecisively as the light from the well grew stronger and
 the hitched horses pawed and whinnied in increasing frenzy. It was truly an awful moment; with
-terror in that ancient and accursed house itself, four monstrous sets of fragments&mdash;two
-from the house and two from the well&mdash;in the woodshed behind, and that shaft of unknown
+terror in that ancient and accursed house itself, four monstrous sets of fragments--two
+from the house and two from the well--in the woodshed behind, and that shaft of unknown
 and unholy iridescence from the slimy depths in front. Ammi had restrained the driver on impulse,
 forgetting how uninjured he himself was after the clammy brushing of that coloured vapour in
 the attic room, but perhaps it is just as well that he acted as he did. No one will ever know
@@ -687,7 +687,7 @@ over the moon, and the silhouette of clutching branches faded out momentarily. A
 was a general cry; muffled with awe, but husky and almost identical from every throat. For the
 terror had not faded with the silhouette, and in a fearsome instant of deeper darkness the watchers
 saw wriggling at that treetop height a thousand tiny points of faint and unhallowed radiance,
-tipping each bough like the fire of St. Elmo or the flames that came down on the apostles&rsquo;
+tipping each bough like the fire of St. Elmo or the flames that came down on the apostles'
 heads at Pentecost. It was a monstrous constellation of unnatural light, like a glutted swarm
 of corpse-fed fireflies dancing hellish sarabands over an accursed marsh; and its colour was
 that same nameless intrusion which Ammi had come to recognise and dread. All the while the shaft
@@ -709,24 +709,24 @@ and clopping in the road, and as Ammi quenched the lamp for better seeing they r
 the span of frantic greys had broke their sapling and run off with the democrat-wagon.  
 
   The shock served to loosen several tongues, and embarrassed whispers were exchanged.
-&ldquo;It spreads on everything organic that&rsquo;s been around here,&rdquo; muttered the medical
+ "It spreads on everything organic that's been around here, " muttered the medical
 examiner. No one replied, but the man who had been in the well gave a hint that his long pole
-must have stirred up something intangible. &ldquo;It was awful,&rdquo; he added. &ldquo;There
-was no bottom at all. Just ooze and bubbles and the feeling of something lurking under there.&rdquo;
-Ammi&rsquo;s horse still pawed and screamed deafeningly in the road outside, and nearly drowned
-its owner&rsquo;s faint quaver as he mumbled his formless reflections. &ldquo;It come from that
-stone&nbsp;.&nbsp;.&nbsp;. it growed down thar&nbsp;.&nbsp;.&nbsp;. it got everything
-livin&rsquo;&nbsp;.&nbsp;.&nbsp;. it fed itself on &rsquo;em, mind and body&nbsp;.&nbsp;.&nbsp;. Thad an&rsquo;
-Mernie, Zenas an&rsquo; Nabby&nbsp;.&nbsp;.&nbsp;. Nahum was the last&nbsp;.&nbsp;.&nbsp;. they all
-drunk the water&nbsp;.&nbsp;.&nbsp;. it got strong on &rsquo;em&nbsp;.&nbsp;.&nbsp;. it come
-from beyond, whar things ain&rsquo;t like they be here&nbsp;.&nbsp;.&nbsp;. now it&rsquo;s goin&rsquo;
-home.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+must have stirred up something intangible.  "It was awful, " he added.  "There
+was no bottom at all. Just ooze and bubbles and the feeling of something lurking under there. "
+Ammi's horse still pawed and screamed deafeningly in the road outside, and nearly drowned
+its owner's faint quaver as he mumbled his formless reflections.  "It come from that
+stone . . . it growed down thar . . . it got everything
+livin' . . . it fed itself on 'em, mind and body . . . Thad an'
+Mernie, Zenas an' Nabby . . . Nahum was the last . . . they all
+drunk the water . . . it got strong on 'em . . . it come
+from beyond, whar things ain't like they be here . . . now it's goin'
+home. . . . "  
 
   At this point, as the column of unknown colour flared suddenly stronger and
 began to weave itself into fantastic suggestions of shape which each spectator later described
 differently, there came from poor tethered Hero such a sound as no man before or since ever
 heard from a horse. Every person in that low-pitched sitting room stopped his ears, and Ammi
-turned away from the window in horror and nausea. Words could not convey it&mdash;when Ammi
+turned away from the window in horror and nausea. Words could not convey it--when Ammi
 looked out again the hapless beast lay huddled inert on the moonlit ground between the splintered
 shafts of the buggy. That was the last of Hero till they buried him next day. But the present
 was no time to mourn, for almost at this instant a detective silently called attention to something
@@ -742,7 +742,7 @@ pasture. They walked and stumbled as in a dream, and did not dare look back till
 away on the high ground. They were glad of the path, for they could not have gone the front
 way, by that well. It was bad enough passing the glowing barn and sheds, and those shining orchard
 trees with their gnarled, fiendish contours; but thank heaven the branches did their worst twisting
-high up. The moon went under some very black clouds as they crossed the rustic bridge over Chapman&rsquo;s
+high up. The moon went under some very black clouds as they crossed the rustic bridge over Chapman's
 Brook, and it was blind groping from there to the open meadows.  
 
   When they looked back toward the valley and the distant Gardner place at the
@@ -752,7 +752,7 @@ lethal grey brittleness. The boughs were all straining skyward, tipped with tong
 flame, and lambent tricklings of the same monstrous fire were creeping about the ridgepoles
 of the house, barn, and sheds. It was a scene from a vision of Fuseli, and over all the rest
 reigned that riot of luminous amorphousness, that alien and undimensioned rainbow of cryptic
-poison from the well&mdash;seething, feeling, lapping, reaching, scintillating, straining, and
+poison from the well--seething, feeling, lapping, reaching, scintillating, straining, and
 malignly bubbling in its cosmic and unrecognisable chromaticism.  
 
   Then without warning the hideous thing shot vertically up toward the sky like
@@ -770,7 +770,7 @@ morbidity that had vanished, and in another second they had vanished too. Behind
 only a darkness to which the men dared not return, and all about was a mounting wind which seemed
 to sweep down in black, frore gusts from interstellar space. It shrieked and howled, and lashed
 the fields and distorted woods in a mad cosmic frenzy, till soon the trembling party realised
-it would be no use waiting for the moon to shew what was left down there at Nahum&rsquo;s.  
+it would be no use waiting for the moon to shew what was left down there at Nahum's.  
 
   Too awed even to hint theories, the seven shaking men trudged back toward Arkham
 by the north road. Ammi was worse than his fellows, and begged them to see him inside his own
@@ -781,36 +781,36 @@ to come. As the rest of the watchers on that tempestuous hill had stolidly set t
 the road, Ammi had looked back an instant at the shadowed valley of desolation so lately sheltering
 his ill-starred friend. And from that stricken, far-away spot he had seen something feebly rise,
 only to sink down again upon the place from which the great shapeless horror had shot into the
-sky. It was just a colour&mdash;but not any colour of our earth or heavens. And because Ammi
+sky. It was just a colour--but not any colour of our earth or heavens. And because Ammi
 recognised that colour, and knew that this last faint remnant must still lurk down there in
 the well, he has never been quite right since.  
 
   Ammi would never go near the place again. It is over half a century now since
 the horror happened, but he has never been there, and will be glad when the new reservoir blots
 it out. I shall be glad, too, for I do not like the way the sunlight changed colour around the
-mouth of that abandoned well I passed. I hope the water will always be very deep&mdash;but even
+mouth of that abandoned well I passed. I hope the water will always be very deep--but even
 so, I shall never drink it. I do not think I shall visit the Arkham country hereafter. Three
 of the men who had been with Ammi returned the next morning to see the ruins by daylight, but
 there were not any real ruins. Only the bricks of the chimney, the stones of the cellar, some
-mineral and metallic litter here and there, and the rim of that nefandous well. Save for Ammi&rsquo;s
+mineral and metallic litter here and there, and the rim of that nefandous well. Save for Ammi's
 dead horse, which they towed away and buried, and the buggy which they shortly returned to him,
 everything that had ever been living had gone. Five eldritch acres of dusty grey desert remained,
 nor has anything ever grown there since. To this day it sprawls open to the sky like a great
 spot eaten by acid in the woods and fields, and the few who have ever dared glimpse it in spite
-of the rural tales have named it &ldquo;the blasted heath&rdquo;.  
+of the rural tales have named it  "the blasted heath ".  
 
   The rural tales are queer. They might be even queerer if city men and college
 chemists could be interested enough to analyse the water from that disused well, or the grey
 dust that no wind seems ever to disperse. Botanists, too, ought to study the stunted flora on
 the borders of that spot, for they might shed light on the country notion that the blight is
-spreading&mdash;little by little, perhaps an inch a year. People say the colour of the neighbouring
+spreading--little by little, perhaps an inch a year. People say the colour of the neighbouring
 herbage is not quite right in the spring, and that wild things leave queer prints in the light
-winter snow. Snow never seems quite so heavy on the blasted heath as it is elsewhere. Horses&mdash;the
-few that are left in this motor age&mdash;grow skittish in the silent valley; and hunters cannot
+winter snow. Snow never seems quite so heavy on the blasted heath as it is elsewhere. Horses--the
+few that are left in this motor age--grow skittish in the silent valley; and hunters cannot
 depend on their dogs too near the splotch of greyish dust.  
 
   They say the mental influences are very bad, too. Numbers went queer in the
-years after Nahum&rsquo;s taking, and always they lacked the power to get away. Then the stronger-minded
+years after Nahum's taking, and always they lacked the power to get away. Then the stronger-minded
 folk all left the region, and only the foreigners tried to live in the crumbling old homesteads.
 They could not stay, though; and one sometimes wonders what insight beyond ours their wild,
 weird stores of whispered magic have given them. Their dreams at night, they protest, are very
@@ -821,11 +821,11 @@ eye. I myself am curious about the sensation I derived from my one lone walk bef
 me his tale. When twilight came I had vaguely wished some clouds would gather, for an odd timidity
 about the deep skyey voids above had crept into my soul.  
 
-  Do not ask me for my opinion. I do not know&mdash;that is all. There was no
+  Do not ask me for my opinion. I do not know--that is all. There was no
 one but Ammi to question; for Arkham people will not talk about the strange days, and all three
-professors who saw the a&euml;rolite and its coloured globule are dead. There were other globules&mdash;depend
+professors who saw the aërolite and its coloured globule are dead. There were other globules--depend
 upon that. One must have fed itself and escaped, and probably there was another which was too
-late. No doubt it is still down the well&mdash;I know there was something wrong with the sunlight
+late. No doubt it is still down the well--I know there was something wrong with the sunlight
 I saw above that miasmal brink. The rustics say the blight creeps an inch a year, so perhaps
 there is a kind of growth or nourishment even now. But whatever daemon hatchling is there, it
 must be tethered to something or else it would quickly spread. Is it fastened to the roots of
@@ -836,18 +836,18 @@ and move as they ought not to do at night.
 would be called a gas, but this gas obeyed laws that are not of our cosmos. This was no fruit
 of such worlds and suns as shine on the telescopes and photographic plates of our observatories.
 This was no breath from the skies whose motions and dimensions our astronomers measure or deem
-too vast to measure. It was just a colour out of space&mdash;a frightful messenger from unformed
+too vast to measure. It was just a colour out of space--a frightful messenger from unformed
 realms of infinity beyond all Nature as we know it; from realms whose mere existence stuns the
 brain and numbs us with the black extra-cosmic gulfs it throws open before our frenzied eyes.  
 
   I doubt very much if Ammi consciously lied to me, and I do not think his tale
 was all a freak of madness as the townfolk had forewarned. Something terrible came to the hills
-and valleys on that meteor, and something terrible&mdash;though I know not in what proportion&mdash;still
+and valleys on that meteor, and something terrible--though I know not in what proportion--still
 remains. I shall be glad to see the water come. Meanwhile I hope nothing will happen to Ammi.
-He saw so much of the thing&mdash;and its influence was so insidious. Why has he never been
-able to move away? How clearly he recalled those dying words of Nahum&rsquo;s&mdash;&ldquo;can&rsquo;t
-git away&nbsp;.&nbsp;.&nbsp;. draws ye&nbsp;.&nbsp;.&nbsp;. ye know summ&rsquo;at&rsquo;s comin&rsquo;,
-but &rsquo;tain&rsquo;t no use.&nbsp;.&nbsp;.&nbsp;.&rdquo; Ammi is such a good old man&mdash;when
+He saw so much of the thing--and its influence was so insidious. Why has he never been
+able to move away? How clearly he recalled those dying words of Nahum's-- "can't
+git away . . . draws ye . . . ye know summ'at's comin',
+but 'tain't no use. . . . " Ammi is such a good old man--when
 the reservoir gang gets to work I must write the chief engineer to keep a sharp watch on him.
 I would hate to think of him as the grey, twisted, brittle monstrosity which persists more and
 more in troubling my sleep.  

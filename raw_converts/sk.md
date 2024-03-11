@@ -31,8 +31,8 @@ for a second now and then in the darkness.
 of those things till mystery had gone out of the world. When he complained, and longed to escape
 into twilight realms where magic moulded all the little vivid fragments and prized associations
 of his mind into vistas of breathless expectancy and unquenchable delight, they turned him instead
-toward the new-found prodigies of science, bidding him find wonder in the atom&rsquo;s vortex
-and mystery in the sky&rsquo;s dimensions. And when he had failed to find these boons in things
+toward the new-found prodigies of science, bidding him find wonder in the atom's vortex
+and mystery in the sky's dimensions. And when he had failed to find these boons in things
 whose laws are known and measurable, they told him he lacked imagination, and was immature because
 he preferred dream-illusions to the illusions of our physical creation.  
 
@@ -154,7 +154,7 @@ He thought it rather silly that he bothered to keep on living at all, and got fr
 acquaintance a very curious liquid to take him to oblivion without suffering. Inertia and force
 of habit, however, caused him to defer action; and he lingered indecisively among thoughts of
 old times, taking down the strange hangings from his walls and refitting the house as it was
-in his early boyhood&mdash;purple panes, Victorian furniture, and all.  
+in his early boyhood--purple panes, Victorian furniture, and all.  
 
   With the passage of time he became almost glad he had lingered, for his relics
 of youth and his cleavage from the world made life and sophistication seem very distant and
@@ -180,7 +180,7 @@ centuries.
 at the back of a drawer in a tall chest. It was about a foot square, and its Gothic carvings
 were so fearful that he did not marvel no person since Edmund Carter had dared to open it. It
 gave forth no noise when shaken, but was mystic with the scent of unremembered spices. That
-it held a key was indeed only a dim legend, and Randolph Carter&rsquo;s father had never known
+it held a key was indeed only a dim legend, and Randolph Carter's father had never known
 such a box existed. It was bound in rusty iron, and no means was provided for working the formidable
 lock. Carter vaguely understood that he would find within it some key to the lost gate of dreams,
 but of where and how to use it his grandfather had told him nothing.  
@@ -244,17 +244,17 @@ read of it with interest, for the paper had told about some strange burrows or p
 in the rocky hill beneath.  
 
   Through his puzzlement a voice piped, and he started again at its familiarity
-after long years. Old Benijah Corey had been his Uncle Christopher&rsquo;s hired man, and was
+after long years. Old Benijah Corey had been his Uncle Christopher's hired man, and was
 aged even in those far-off times of his boyhood visits. Now he must be well over a hundred,
 but that piping voice could come from no one else. He could distinguish no words, yet the tone
-was haunting and unmistakable. To think that &ldquo;Old Benijy&rdquo; should still be alive!  
+was haunting and unmistakable. To think that  "Old Benijy " should still be alive!  
 
-  &ldquo;Mister Randy! Mister Randy! Whar be ye? D&rsquo;ye want to skeer yer
-Aunt Marthy plumb to death? Hain&rsquo;t she tuld ye to keep nigh the place in the arternoon
-an&rsquo; git back afur dark? Randy! Ran&nbsp;.&nbsp;.&nbsp;. dee!&nbsp;.&nbsp;.&nbsp;. He&rsquo;s
-the beatin&rsquo;est boy fer runnin&rsquo; off in the woods I ever see; haff the time a-settin&rsquo;
-moonin&rsquo; raound that snake-den in the upper timber-lot!&nbsp;.&nbsp;.&nbsp;. Hey, yew, Ran&nbsp;.&nbsp;.&nbsp;.
-dee!&rdquo;  
+   "Mister Randy! Mister Randy! Whar be ye? D'ye want to skeer yer
+Aunt Marthy plumb to death? Hain't she tuld ye to keep nigh the place in the arternoon
+an' git back afur dark? Randy! Ran . . . dee! . . . He's
+the beatin'est boy fer runnin' off in the woods I ever see; haff the time a-settin'
+moonin' raound that snake-den in the upper timber-lot! . . . Hey, yew, Ran . . .
+dee! "  
 
   Randolph Carter stopped in the pitch darkness and rubbed his hand across his
 eyes. Something was queer. He had been somewhere he ought not to be; had strayed very far away
@@ -267,23 +267,23 @@ him something odd once about an old unopened box with a key in it, but Aunt Mart
 the story abruptly, saying it was no kind of thing to tell a child whose head was already too
 full of queer fancies. He tried to recall just where he had found the key, but something seemed
 very confused. He guessed it was in the attic at home in Boston, and dimly remembered bribing
-Parks with half his week&rsquo;s allowance to help him open the box and keep quiet about it;
+Parks with half his week's allowance to help him open the box and keep quiet about it;
 but when he remembered this, the face of Parks came up very strangely, as if the wrinkles of
 long years had fallen upon the brisk little Cockney.  
 
-  &ldquo;Ran&nbsp;.&nbsp;.&nbsp;. dee! Ran&nbsp;.&nbsp;.&nbsp;. dee! Hi! Hi!
-Randy!&rdquo;  
+   "Ran . . . dee! Ran . . . dee! Hi! Hi!
+Randy! "  
 
   A swaying lantern came around the black bend, and old Benijah pounced on the
 silent and bewildered form of the pilgrim.  
 
-  &ldquo;Durn ye, boy, so thar ye be! Ain&rsquo;t ye got a tongue in yer head,
-that ye can&rsquo;t answer a body? I ben callin&rsquo; this haff hour, an&rsquo; ye must a heerd
-me long ago! Dun&rsquo;t ye know yer Aunt Marthy&rsquo;s all a-fidget over yer bein&rsquo;
-off arter dark? Wait till I tell yer Uncle Chris when he gits hum! Ye&rsquo;d orta know these
-here woods ain&rsquo;t no fitten place to be traipsin&rsquo; this hour! They&rsquo;s things
-abroad what dun&rsquo;t do nobody no good, as my gran&rsquo;sir&rsquo; knowed afur me. Come,
-Mister Randy, or Hannah wun&rsquo;t keep supper no longer!&rdquo;  
+   "Durn ye, boy, so thar ye be! Ain't ye got a tongue in yer head,
+that ye can't answer a body? I ben callin' this haff hour, an' ye must a heerd
+me long ago! Dun't ye know yer Aunt Marthy's all a-fidget over yer bein'
+off arter dark? Wait till I tell yer Uncle Chris when he gits hum! Ye'd orta know these
+here woods ain't no fitten place to be traipsin' this hour! They's things
+abroad what dun't do nobody no good, as my gran'sir' knowed afur me. Come,
+Mister Randy, or Hannah wun't keep supper no longer! "  
 
   So Randolph Carter was marched up the road where wondering stars glimmered
 through high autumn boughs. And dogs barked as the yellow light of small-paned windows shone
@@ -308,10 +308,10 @@ the swollen and twisted trunks of a sacred grove. Once in his ascent Randolph cr
 stream whose falls a little way off sang runic incantations to the lurking fauns and aegipans
 and dryads.  
 
-  Then he came to the strange cave in the forest slope, the dreaded &ldquo;snake-den&rdquo;
+  Then he came to the strange cave in the forest slope, the dreaded  "snake-den "
 which country folk shunned, and away from which Benijah had warned him again and again. It was
 deep; far deeper than anyone but Randolph suspected, for the boy had found a fissure in the
-farthermost black corner that led to a loftier grotto beyond&mdash;a haunting sepulchral place
+farthermost black corner that led to a loftier grotto beyond--a haunting sepulchral place
 whose granite walls held a curious illusion of conscious artifice. On this occasion he crawled
 in as usual, lighting his way with matches filched from the sitting-room match-safe, and edging
 through the final crevice with an eagerness hard to explain even to himself. He could not tell
@@ -338,7 +338,7 @@ traveller mentioned the French town of Belloy-en-Santerre, and friends remembere
 was almost mortally wounded there in 1916, while serving with the Foreign Legion in the Great
 War.  
 
-  Carter&rsquo;s relatives talk much of these things because he has lately disappeared.
+  Carter's relatives talk much of these things because he has lately disappeared.
 His little old servant Parks, who for years bore patiently with his vagaries, last saw him on
 the morning he drove off alone in his car with a key he had recently found. Parks had helped
 him get the key from the old box containing it, and had felt strangely affected by the grotesque
@@ -355,7 +355,7 @@ as though someone had groped about the ruins at no distant period. A common whit
 found among forest rocks on the hillside beyond cannot be identified as belonging to the missing
 man.  
 
-  There is talk of apportioning Randolph Carter&rsquo;s estate among his heirs,
+  There is talk of apportioning Randolph Carter's estate among his heirs,
 but I shall stand firmly against this course because I do not believe he is dead. There are
 twists of time and space, of vision and reality, which only a dreamer can divine; and from what
 I know of Carter I think he has merely found a way to traverse these mazes. Whether or not he

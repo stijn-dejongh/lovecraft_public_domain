@@ -10,7 +10,7 @@
 During the winter of 1927&ndash;28 officials of the Federal government made a strange and secret
 investigation of certain conditions in the ancient Massachusetts seaport of Innsmouth. The public
 first learned of it in February, when a vast series of raids and arrests occurred, followed
-by the deliberate burning and dynamiting&mdash;under suitable precautions&mdash;of an enormous
+by the deliberate burning and dynamiting--under suitable precautions--of an enormous
 number of crumbling, worm-eaten, and supposedly empty houses along the abandoned waterfront.
 Uninquiring souls let this occurrence pass as one of the major clashes in a spasmodic war on
 liquor.  
@@ -26,8 +26,8 @@ only beginning to shew signs of a sluggishly revived existence.
   Complaints from many liberal organisations were met with long confidential
 discussions, and representatives were taken on trips to certain camps and prisons. As a result,
 these societies became surprisingly passive and reticent. Newspaper men were harder to manage,
-but seemed largely to co&ouml;perate with the government in the end. Only one paper&mdash;a
-tabloid always discounted because of its wild policy&mdash;mentioned the deep-diving submarine
+but seemed largely to co&ouml;perate with the government in the end. Only one paper--a
+tabloid always discounted because of its wild policy--mentioned the deep-diving submarine
 that discharged torpedoes downward in the marine abyss just beyond Devil Reef. That item, gathered
 by chance in a haunt of sailors, seemed indeed rather far-fetched; since the low, black reef
 lies a full mile and a half out from Innsmouth Harbour.  
@@ -57,164 +57,164 @@ own faculties; to reassure myself that I was not simply the first to succumb to 
 nightmare hallucination. It helps me, too, in making up my mind regarding a certain terrible
 step which lies ahead of me.  
 
-  I never heard of Innsmouth till the day before I saw it for the first and&mdash;so
-far&mdash;last time. I was celebrating my coming of age by a tour of New England&mdash;sightseeing,
-antiquarian, and genealogical&mdash;and had planned to go directly from ancient Newburyport
-to Arkham, whence my mother&rsquo;s family was derived. I had no car, but was travelling by
+  I never heard of Innsmouth till the day before I saw it for the first and--so
+far--last time. I was celebrating my coming of age by a tour of New England--sightseeing,
+antiquarian, and genealogical--and had planned to go directly from ancient Newburyport
+to Arkham, whence my mother's family was derived. I had no car, but was travelling by
 train, trolley, and motor-coach, always seeking the cheapest possible route. In Newburyport
 they told me that the steam train was the thing to take to Arkham; and it was only at the station
 ticket-office, when I demurred at the high fare, that I learned about Innsmouth. The stout,
 shrewd-faced agent, whose speech shewed him to be no local man, seemed sympathetic toward my
 efforts at economy, and made a suggestion that none of my other informants had offered.  
 
-  &ldquo;You   could   take that old bus, I suppose,&rdquo; he said with a
-certain hesitation, &ldquo;but it ain&rsquo;t thought much of hereabouts. It goes through Innsmouth&mdash;you
-may have heard about that&mdash;and so the people don&rsquo;t like it. Run by an Innsmouth fellow&mdash;Joe
-Sargent&mdash;but never gets any custom from here, or Arkham either, I guess. Wonder it keeps
-running at all. I s&rsquo;pose it&rsquo;s cheap enough, but I never see more&rsquo;n two or
-three people in it&mdash;nobody but those Innsmouth folks. Leaves the Square&mdash;front of
-Hammond&rsquo;s Drug Store&mdash;at 10 a.m. and 7 p.m. unless they&rsquo;ve changed lately.
-Looks like a terrible rattletrap&mdash;I&rsquo;ve never ben on it.&rdquo;  
+   "You   could   take that old bus, I suppose, " he said with a
+certain hesitation,  "but it ain't thought much of hereabouts. It goes through Innsmouth--you
+may have heard about that--and so the people don't like it. Run by an Innsmouth fellow--Joe
+Sargent--but never gets any custom from here, or Arkham either, I guess. Wonder it keeps
+running at all. I s'pose it's cheap enough, but I never see more'n two or
+three people in it--nobody but those Innsmouth folks. Leaves the Square--front of
+Hammond's Drug Store--at 10 a.m. and 7 p.m. unless they've changed lately.
+Looks like a terrible rattletrap--I've never ben on it. "  
 
   That was the first I ever heard of shadowed Innsmouth. Any reference to a town
-not shewn on common maps or listed in recent guide-books would have interested me, and the agent&rsquo;s
+not shewn on common maps or listed in recent guide-books would have interested me, and the agent's
 odd manner of allusion roused something like real curiosity. A town able to inspire such dislike
-in its neighbours, I thought, must be at least rather unusual, and worthy of a tourist&rsquo;s
-attention. If it came before Arkham I would stop off there&mdash;and so I asked the agent to
+in its neighbours, I thought, must be at least rather unusual, and worthy of a tourist's
+attention. If it came before Arkham I would stop off there--and so I asked the agent to
 tell me something about it. He was very deliberate, and spoke with an air of feeling slightly
 superior to what he said.  
 
-  &ldquo;Innsmouth? Well, it&rsquo;s a queer kind of a town down at the mouth
-of the Manuxet. Used to be almost a city&mdash;quite a port before the War of 1812&mdash;but
-all gone to pieces in the last hundred years or so. No railroad now&mdash;B. &amp; M. never
+   "Innsmouth? Well, it's a queer kind of a town down at the mouth
+of the Manuxet. Used to be almost a city--quite a port before the War of 1812--but
+all gone to pieces in the last hundred years or so. No railroad now--B. &amp; M. never
 went through, and the branch line from Rowley was given up years ago.  
 
-  &ldquo;More empty houses than there are people, I guess, and no business to
+   "More empty houses than there are people, I guess, and no business to
 speak of except fishing and lobstering. Everybody trades mostly here or in Arkham or
-Ipswich. Once they had quite a few mills, but nothing&rsquo;s left now except one gold refinery
+Ipswich. Once they had quite a few mills, but nothing's left now except one gold refinery
 running on the leanest kind of part time.  
 
-  &ldquo;That refinery, though, used to be a big thing, and Old Man Marsh, who
-owns it, must be richer&rsquo;n Croesus. Queer old duck, though, and sticks mighty close in
-his home. He&rsquo;s supposed to have developed some skin disease or deformity late in life
+   "That refinery, though, used to be a big thing, and Old Man Marsh, who
+owns it, must be richer'n Croesus. Queer old duck, though, and sticks mighty close in
+his home. He's supposed to have developed some skin disease or deformity late in life
 that makes him keep out of sight. Grandson of Captain Obed Marsh, who founded the business.
-His mother seems to&rsquo;ve ben some kind of foreigner&mdash;they say a South Sea islander&mdash;so
+His mother seems to've ben some kind of foreigner--they say a South Sea islander--so
 everybody raised Cain when he married an Ipswich girl fifty years ago. They always do that about
 Innsmouth people, and folks here and hereabouts always try to cover up any Innsmouth blood they
-have in &rsquo;em. But Marsh&rsquo;s children and grandchildren look just like anyone else so
-far&rsquo;s I can see. I&rsquo;ve had &rsquo;em pointed out to me here&mdash;though, come to
-think of it, the elder children don&rsquo;t seem to be around lately. Never saw the old man.  
+have in 'em. But Marsh's children and grandchildren look just like anyone else so
+far's I can see. I've had 'em pointed out to me here--though, come to
+think of it, the elder children don't seem to be around lately. Never saw the old man.  
 
-  &ldquo;And why is everybody so down on Innsmouth? Well, young fellow, you mustn&rsquo;t
-take too much stock in what people around here say. They&rsquo;re hard to get started, but once
-they do get started they never let up. They&rsquo;ve ben telling things about Innsmouth&mdash;whispering
-&rsquo;em, mostly&mdash;for the last hundred years, I guess, and I gather they&rsquo;re more
-scared than anything else. Some of the stories would make you laugh&mdash;about old Captain
+   "And why is everybody so down on Innsmouth? Well, young fellow, you mustn't
+take too much stock in what people around here say. They're hard to get started, but once
+they do get started they never let up. They've ben telling things about Innsmouth--whispering
+'em, mostly--for the last hundred years, I guess, and I gather they're more
+scared than anything else. Some of the stories would make you laugh--about old Captain
 Marsh driving bargains with the devil and bringing imps out of hell to live in Innsmouth, or
 about some kind of devil-worship and awful sacrifices in some place near the wharves that people
-stumbled on around 1845 or thereabouts&mdash;but I come from Panton, Vermont, and that kind
-of story don&rsquo;t go down with me.  
+stumbled on around 1845 or thereabouts--but I come from Panton, Vermont, and that kind
+of story don't go down with me.  
 
-  &ldquo;You ought to hear, though, what some of the old-timers tell about the
-black reef off the coast&mdash;Devil Reef, they call it. It&rsquo;s well above water a good
+   "You ought to hear, though, what some of the old-timers tell about the
+black reef off the coast--Devil Reef, they call it. It's well above water a good
 part of the time, and never much below it, but at that you could hardly call it an island. The
-story is that there&rsquo;s a whole legion of devils seen sometimes on that reef&mdash;sprawled
-about, or darting in and out of some kind of caves near the top. It&rsquo;s a rugged, uneven
+story is that there's a whole legion of devils seen sometimes on that reef--sprawled
+about, or darting in and out of some kind of caves near the top. It's a rugged, uneven
 thing, a good bit over a mile out, and toward the end of shipping days sailors used to make
 big detours just to avoid it.  
 
-  &ldquo;That is, sailors that didn&rsquo;t hail from Innsmouth. One of the things
+   "That is, sailors that didn't hail from Innsmouth. One of the things
 they had against old Captain Marsh was that he was supposed to land on it sometimes at night
 when the tide was right. Maybe he did, for I dare say the rock formation was interesting, and
-it&rsquo;s just barely possible he was looking for pirate loot and maybe finding it; but there
+it's just barely possible he was looking for pirate loot and maybe finding it; but there
 was talk of his dealing with daemons there. Fact is, I guess on the whole it was really the
 Captain that gave the bad reputation to the reef.  
 
-  &ldquo;That was before the big epidemic of 1846, when over half the folks in
+   "That was before the big epidemic of 1846, when over half the folks in
 Innsmouth was carried off. They never did quite figure out what the trouble was, but it was
 probably some foreign kind of disease brought from China or somewhere by the shipping. It surely
-was bad enough&mdash;there was riots over it, and all sorts of ghastly doings that I don&rsquo;t
-believe ever got outside of town&mdash;and it left the place in awful shape. Never came back&mdash;there
-can&rsquo;t be more&rsquo;n 300 or 400 people living there now.  
+was bad enough--there was riots over it, and all sorts of ghastly doings that I don't
+believe ever got outside of town--and it left the place in awful shape. Never came back--there
+can't be more'n 300 or 400 people living there now.  
 
-  &ldquo;But the real thing behind the way folks feel is simply race prejudice&mdash;and
-I don&rsquo;t say I&rsquo;m blaming those that hold it. I hate those Innsmouth folks myself,
-and I wouldn&rsquo;t care to go to their town. I s&rsquo;pose you know&mdash;though I can see
-you&rsquo;re a Westerner by your talk&mdash;what a lot our New England ships used to have to
+   "But the real thing behind the way folks feel is simply race prejudice--and
+I don't say I'm blaming those that hold it. I hate those Innsmouth folks myself,
+and I wouldn't care to go to their town. I s'pose you know--though I can see
+you're a Westerner by your talk--what a lot our New England ships used to have to
 do with queer ports in Africa, Asia, the South Seas, and everywhere else, and what queer kinds
-of people they sometimes brought back with &rsquo;em. You&rsquo;ve probably heard about the
-Salem man that came home with a Chinese wife, and maybe you know there&rsquo;s still a bunch
+of people they sometimes brought back with 'em. You've probably heard about the
+Salem man that came home with a Chinese wife, and maybe you know there's still a bunch
 of Fiji Islanders somewhere around Cape Cod.  
 
-  &ldquo;Well, there must be something like that back of the Innsmouth people.
+   "Well, there must be something like that back of the Innsmouth people.
 The place always was badly cut off from the rest of the country by marshes and creeks, and we
-can&rsquo;t be sure about the ins and outs of the matter; but it&rsquo;s pretty clear that old
+can't be sure about the ins and outs of the matter; but it's pretty clear that old
 Captain Marsh must have brought home some odd specimens when he had all three of his ships in
 commission back in the twenties and thirties. There certainly is a strange kind of streak in
-the Innsmouth folks today&mdash;I don&rsquo;t know how to explain it, but it sort of makes you
-crawl. You&rsquo;ll notice a little in Sargent if you take his bus. Some of &rsquo;em have queer
-narrow heads with flat noses and bulgy, stary eyes that never seem to shut, and their skin ain&rsquo;t
+the Innsmouth folks today--I don't know how to explain it, but it sort of makes you
+crawl. You'll notice a little in Sargent if you take his bus. Some of 'em have queer
+narrow heads with flat noses and bulgy, stary eyes that never seem to shut, and their skin ain't
 quite right. Rough and scabby, and the sides of their necks are all shrivelled or creased up.
-Get bald, too, very young. The older fellows look the worst&mdash;fact is, I don&rsquo;t believe
-I&rsquo;ve ever seen a very old chap of that kind. Guess they must die of looking in the glass!
-Animals hate &rsquo;em&mdash;they used to have lots of horse trouble before autos came in.  
+Get bald, too, very young. The older fellows look the worst--fact is, I don't believe
+I've ever seen a very old chap of that kind. Guess they must die of looking in the glass!
+Animals hate 'em--they used to have lots of horse trouble before autos came in.  
 
-  &ldquo;Nobody around here or in Arkham or Ipswich will have anything to do
-with &rsquo;em, and they act kind of offish themselves when they come to town or when anyone
+   "Nobody around here or in Arkham or Ipswich will have anything to do
+with 'em, and they act kind of offish themselves when they come to town or when anyone
 tries to fish on their grounds. Queer how fish are always thick off Innsmouth Harbour when there
-ain&rsquo;t any anywhere else around&mdash;but just try to fish there yourself and see how the
-folks chase you off! Those people used to come here on the railroad&mdash;walking and taking
-the train at Rowley after the branch was dropped&mdash;but now they use that bus.  
+ain't any anywhere else around--but just try to fish there yourself and see how the
+folks chase you off! Those people used to come here on the railroad--walking and taking
+the train at Rowley after the branch was dropped--but now they use that bus.  
 
-  &ldquo;Yes, there&rsquo;s a hotel in Innsmouth&mdash;called the Gilman House&mdash;but
-I don&rsquo;t believe it can amount to much. I wouldn&rsquo;t advise you to try it. Better stay
-over here and take the ten o&rsquo;clock bus tomorrow morning; then you can get an evening bus
-there for Arkham at eight o&rsquo;clock. There was a factory inspector who stopped at the Gilman
+   "Yes, there's a hotel in Innsmouth--called the Gilman House--but
+I don't believe it can amount to much. I wouldn't advise you to try it. Better stay
+over here and take the ten o'clock bus tomorrow morning; then you can get an evening bus
+there for Arkham at eight o'clock. There was a factory inspector who stopped at the Gilman
 a couple of years ago, and he had a lot of unpleasant hints about the place. Seems they get
-a queer crowd there, for this fellow heard voices in other rooms&mdash;though most of &rsquo;em
-was empty&mdash;that gave him the shivers. It was foreign talk, he thought, but he said the
-bad thing about it was the kind of voice that sometimes spoke. It sounded so unnatural&mdash;slopping-like,
-he said&mdash;that he didn&rsquo;t dare undress and go to sleep. Just waited up and lit out
+a queer crowd there, for this fellow heard voices in other rooms--though most of 'em
+was empty--that gave him the shivers. It was foreign talk, he thought, but he said the
+bad thing about it was the kind of voice that sometimes spoke. It sounded so unnatural--slopping-like,
+he said--that he didn't dare undress and go to sleep. Just waited up and lit out
 the first thing in the morning. The talk went on most all night.  
 
-  &ldquo;This fellow&mdash;Casey, his name was&mdash;had a lot to say about how
+   "This fellow--Casey, his name was--had a lot to say about how
 the Innsmouth folks watched him and seemed kind of on guard. He found the Marsh refinery a queer
-place&mdash;it&rsquo;s in an old mill on the lower falls of the Manuxet. What he said tallied
-up with what I&rsquo;d heard. Books in bad shape, and no clear account of any kind of dealings.
-You know it&rsquo;s always ben a kind of mystery where the Marshes get the gold they refine.
-They&rsquo;ve never seemed to do much buying in that line, but years ago they shipped out an
+place--it's in an old mill on the lower falls of the Manuxet. What he said tallied
+up with what I'd heard. Books in bad shape, and no clear account of any kind of dealings.
+You know it's always ben a kind of mystery where the Marshes get the gold they refine.
+They've never seemed to do much buying in that line, but years ago they shipped out an
 enormous lot of ingots.  
 
-  &ldquo;Used to be talk of a queer foreign kind of jewellery that the sailors
+   "Used to be talk of a queer foreign kind of jewellery that the sailors
 and refinery men sometimes sold on the sly, or that was seen once or twice on some of the Marsh
 womenfolks. People allowed maybe old Captain Obed traded for it in some heathen port, especially
 since he was always ordering stacks of glass beads and trinkets such as seafaring men used to
-get for native trade. Others thought and still think he&rsquo;d found an old pirate cache out
-on Devil Reef. But here&rsquo;s a funny thing. The old Captain&rsquo;s ben dead these sixty
-years, and there ain&rsquo;t ben a good-sized ship out of the place since the Civil War; but
-just the same the Marshes still keep on buying a few of those native trade things&mdash;mostly
-glass and rubber gewgaws, they tell me. Maybe the Innsmouth folks like &rsquo;em to look at
-themselves&mdash;Gawd knows they&rsquo;ve gotten to be about as bad as South Sea cannibals and
+get for native trade. Others thought and still think he'd found an old pirate cache out
+on Devil Reef. But here's a funny thing. The old Captain's ben dead these sixty
+years, and there ain't ben a good-sized ship out of the place since the Civil War; but
+just the same the Marshes still keep on buying a few of those native trade things--mostly
+glass and rubber gewgaws, they tell me. Maybe the Innsmouth folks like 'em to look at
+themselves--Gawd knows they've gotten to be about as bad as South Sea cannibals and
 Guinea savages.  
 
-  &ldquo;That plague of &rsquo;46 must have taken off the best blood in the place.
-Anyway, they&rsquo;re a doubtful lot now, and the Marshes and the other rich folks are as bad
-as any. As I told you, there probably ain&rsquo;t more&rsquo;n 400 people in the whole town
-in spite of all the streets they say there are. I guess they&rsquo;re what they call &lsquo;white
-trash&rsquo; down South&mdash;lawless and sly, and full of secret doings. They get a lot of
+   "That plague of '46 must have taken off the best blood in the place.
+Anyway, they're a doubtful lot now, and the Marshes and the other rich folks are as bad
+as any. As I told you, there probably ain't more'n 400 people in the whole town
+in spite of all the streets they say there are. I guess they're what they call &lsquo;white
+trash' down South--lawless and sly, and full of secret doings. They get a lot of
 fish and lobsters and do exporting by truck. Queer how the fish swarm right there and nowhere
 else.  
 
-  &ldquo;Nobody can ever keep track of these people, and state school officials
-and census men have a devil of a time. You can bet that prying strangers ain&rsquo;t welcome
-around Innsmouth. I&rsquo;ve heard personally of more&rsquo;n one business or government man
-that&rsquo;s disappeared there, and there&rsquo;s loose talk of one who went crazy and is out
+   "Nobody can ever keep track of these people, and state school officials
+and census men have a devil of a time. You can bet that prying strangers ain't welcome
+around Innsmouth. I've heard personally of more'n one business or government man
+that's disappeared there, and there's loose talk of one who went crazy and is out
 at Danvers now. They must have fixed up some awful scare for that fellow.  
 
-  &ldquo;That&rsquo;s why I wouldn&rsquo;t go at night if I was you. I&rsquo;ve
-never ben there and have no wish to go, but I guess a daytime trip couldn&rsquo;t hurt you&mdash;even
-though the people hereabouts will advise you not to make it. If you&rsquo;re just sightseeing,
-and looking for old-time stuff, Innsmouth ought to be quite a place for you.&rdquo;  
+   "That's why I wouldn't go at night if I was you. I've
+never ben there and have no wish to go, but I guess a daytime trip couldn't hurt you--even
+though the people hereabouts will advise you not to make it. If you're just sightseeing,
+and looking for old-time stuff, Innsmouth ought to be quite a place for you. "  
 
   And so I spent part of that evening at the Newburyport Public Library looking
 up data about Innsmouth. When I had tried to question the natives in the shops, the lunch room,
@@ -247,8 +247,8 @@ a little, for mention was made of specimens in the museum of Miskatonic Universi
 and in the display room of the Newburyport Historical Society. The fragmentary descriptions
 of these things were bald and prosaic, but they hinted to me an undercurrent of persistent strangeness.
 Something about them seemed so odd and provocative that I could not put them out of my mind,
-and despite the relative lateness of the hour I resolved to see the local sample&mdash;said
-to be a large, queerly proportioned thing evidently meant for a tiara&mdash;if it could possibly
+and despite the relative lateness of the hour I resolved to see the local sample--said
+to be a large, queerly proportioned thing evidently meant for a tiara--if it could possibly
 be arranged.  
 
   The librarian gave me a note of introduction to the curator of the Society,
@@ -264,8 +264,8 @@ as the description had said. It was tall in front, and with a very large and cur
 periphery, as if designed for a head of almost freakishly elliptical outline. The material seemed
 to be predominantly gold, though a weird lighter lustrousness hinted at some strange alloy with
 an equally beautiful and scarcely identifiable metal. Its condition was almost perfect, and
-one could have spent hours in studying the striking and puzzlingly untraditional designs&mdash;some
-simply geometrical, and some plainly marine&mdash;chased or moulded in high relief on its surface
+one could have spent hours in studying the striking and puzzlingly untraditional designs--some
+simply geometrical, and some plainly marine--chased or moulded in high relief on its surface
 with a craftsmanship of incredible skill and grace.  
 
   The longer I looked, the more the thing fascinated me; and in this fascination
@@ -274,20 +274,20 @@ I decided that it was the queer other-worldly quality of the art which made me u
 art objects I had ever seen either belonged to some known racial or national stream, or else
 were consciously modernistic defiances of every recognised stream. This tiara was neither. It
 clearly belonged to some settled technique of infinite maturity and perfection, yet that technique
-was utterly remote from any&mdash;Eastern or Western, ancient or modern&mdash;which I had ever
+was utterly remote from any--Eastern or Western, ancient or modern--which I had ever
 heard of or seen exemplified. It was as if the workmanship were that of another planet.  
 
   However, I soon saw that my uneasiness had a second and perhaps equally potent
 source residing in the pictorial and mathematical suggestions of the strange designs. The patterns
 all hinted of remote secrets and unimaginable abysses in time and space, and the monotonously
 aquatic nature of the reliefs became almost sinister. Among these reliefs were fabulous monsters
-of abhorrent grotesqueness and malignity&mdash;half ichthyic and half batrachian in suggestion&mdash;which
+of abhorrent grotesqueness and malignity--half ichthyic and half batrachian in suggestion--which
 one could not dissociate from a certain haunting and uncomfortable sense of pseudo-memory, as
 if they called up some image from deep cells and tissues whose retentive functions are wholly
 primal and awesomely ancestral. At times I fancied that every contour of these blasphemous fish-frogs
 was overflowing with the ultimate quintessence of unknown and inhuman evil.  
 
-  In odd contrast to the tiara&rsquo;s aspect was its brief and prosy history
+  In odd contrast to the tiara's aspect was its brief and prosy history
 as related by Miss Tilton. It had been pawned for a ridiculous sum at a shop in State Street
 in 1873, by a drunken Innsmouth man shortly afterward killed in a brawl. The Society had acquired
 it directly from the pawnbroker, at once giving it a display worthy of its quality. It was labelled
@@ -297,17 +297,17 @@ as of probable East-Indian or Indo-Chinese provenance, though the attribution wa
 presence in New England, was inclined to believe that it formed part of some exotic pirate hoard
 discovered by old Captain Obed Marsh. This view was surely not weakened by the insistent offers
 of purchase at a high price which the Marshes began to make as soon as they knew of its presence,
-and which they repeated to this day despite the Society&rsquo;s unvarying determination not
+and which they repeated to this day despite the Society's unvarying determination not
 to sell.  
 
   As the good lady shewed me out of the building she made it clear that the pirate
 theory of the Marsh fortune was a popular one among the intelligent people of the region. Her
-own attitude toward shadowed Innsmouth&mdash;which she had never seen&mdash;was one of disgust
+own attitude toward shadowed Innsmouth--which she had never seen--was one of disgust
 at a community slipping far down the cultural scale, and she assured me that the rumours of
 devil-worship were partly justified by a peculiar secret cult which had gained force there and
 engulfed all the orthodox churches.  
 
-  It was called, she said, &ldquo;The Esoteric Order of Dagon&rdquo;, and was
+  It was called, she said,  "The Esoteric Order of Dagon ", and was
 undoubtedly a debased, quasi-pagan thing imported from the East a century before, at a time
 when the Innsmouth fisheries seemed to be going barren. Its persistence among a simple people
 was quite natural in view of the sudden and permanent return of abundantly fine fishing, and
@@ -317,22 +317,22 @@ taking up headquarters in the old Masonic Hall on New Church Green.
   All this, to the pious Miss Tilton, formed an excellent reason for shunning
 the ancient town of decay and desolation; but to me it was merely a fresh incentive. To my architectural
 and historical anticipations was now added an acute anthropological zeal, and I could scarcely
-sleep in my small room at the &ldquo;Y&rdquo; as the night wore away.  
+sleep in my small room at the  "Y " as the night wore away.  
 
     II.    
 
 Shortly before ten the next morning I stood with one small valise in front
-of Hammond&rsquo;s Drug Store in old Market Square waiting for the Innsmouth bus. As the hour
+of Hammond's Drug Store in old Market Square waiting for the Innsmouth bus. As the hour
 for its arrival drew near I noticed a general drift of the loungers to other places up the street,
 or to the Ideal Lunch across the square. Evidently the ticket-agent had not exaggerated the
 dislike which local people bore toward Innsmouth and its denizens. In a few moments a small
 motor-coach of extreme decrepitude and dirty grey colour rattled down State Street, made a turn,
 and drew up at the curb beside me. I felt immediately that it was the right one; a guess which
-the half-illegible sign on the windshield&mdash;&ldquo;  Arkham-Innsmouth-Newb&rsquo;port&rdquo;  &mdash;soon
+the half-illegible sign on the windshield-- "  Arkham-Innsmouth-Newb'port "  --soon
 verified.  
 
-  There were only three passengers&mdash;dark, unkempt men of sullen visage and
-somewhat youthful cast&mdash;and when the vehicle stopped they clumsily shambled out and began
+  There were only three passengers--dark, unkempt men of sullen visage and
+somewhat youthful cast--and when the vehicle stopped they clumsily shambled out and began
 walking up State Street in a silent, almost furtive fashion. The driver also alighted, and I
 watched him as he went into the drug store to make some purchase. This, I reflected, must be
 the Joe Sargent mentioned by the ticket-agent; and even before I noticed any details there spread
@@ -364,14 +364,14 @@ alien. I myself would have thought of biological degeneration rather than aliena
   I was sorry when I saw that there would be no other passengers on the bus.
 Somehow I did not like the idea of riding alone with this driver. But as leaving time obviously
 approached I conquered my qualms and followed the man aboard, extending him a dollar bill and
-murmuring the single word &ldquo;Innsmouth&rdquo;. He looked curiously at me for a second as
+murmuring the single word  "Innsmouth ". He looked curiously at me for a second as
 he returned forty cents change without speaking. I took a seat far behind him, but on the same
 side of the bus, since I wished to watch the shore during the journey.  
 
   At length the decrepit vehicle started with a jerk, and rattled noisily past
 the old brick buildings of State Street amidst a cloud of vapour from the exhaust. Glancing
 at the people on the sidewalks, I thought I detected in them a curious wish to avoid looking
-at the bus&mdash;or at least a wish to avoid seeming to look at it. Then we turned to the left
+at the bus--or at least a wish to avoid seeming to look at it. Then we turned to the left
 into High Street, where the going was smoother; flying by stately old mansions of the early
 republic and still older colonial farmhouses, passing the Lower Green and Parker River, and
 finally emerging into a long, monotonous stretch of open shore country.  
@@ -397,7 +397,7 @@ on our left. Our narrow course began to climb steeply, and I felt a singular sen
 in looking at the lonely crest ahead where the rutted roadway met the sky. It was as if the
 bus were about to keep on in its ascent, leaving the sane earth altogether and merging with
 the unknown arcana of upper air and cryptical sky. The smell of the sea took on ominous implications,
-and the silent driver&rsquo;s bent, rigid back and narrow head became more and more hateful.
+and the silent driver's bent, rigid back and narrow head became more and more hateful.
 As I looked at him I saw that the back of his head was almost as hairless as his face, having
 only a few straggling yellow strands upon a grey scabrous surface.  
 
@@ -415,7 +415,7 @@ crumbling down at the top, and in that and another there were only black gaping 
 clock-dials should have been. The vast huddle of sagging gambrel roofs and peaked gables conveyed
 with offensive clearness the idea of wormy decay, and as we approached along the now descending
 road I could see that many roofs had wholly caved in. There were some large square Georgian
-houses, too, with hipped roofs, cupolas, and railed &ldquo;widow&rsquo;s walks&rdquo;. These
+houses, too, with hipped roofs, cupolas, and railed  "widow's walks ". These
 were mostly well back from the water, and one or two seemed to be in moderately sound condition.
 Stretching inland from among them I saw the rusted, grass-grown line of the abandoned railway,
 with leaning telegraph-poles now devoid of wires, and the half-obscured lines of the old carriage
@@ -428,7 +428,7 @@ could begin to discern the minute forms of a few seated fishermen, and at whose 
 looked like the foundations of a bygone lighthouse. A sandy tongue had formed inside this barrier,
 and upon it I saw a few decrepit cabins, moored dories, and scattered lobster-pots. The only
 deep water seemed to be where the river poured out past the belfried structure and turned southward
-to join the ocean at the breakwater&rsquo;s end.  
+to join the ocean at the breakwater's end.  
 
   Here and there the ruins of wharves jutted out from the shore to end in indeterminate
 rottenness, those farthest south seeming the most decayed. And far out at sea, despite a high
@@ -459,18 +459,18 @@ buildings that had collapsed. Pervading everything was the most nauseous fishy o
   Soon cross streets and junctions began to appear; those on the left leading
 to shoreward realms of unpaved squalor and decay, while those on the right shewed vistas of
 departed grandeur. So far I had seen no people in the town, but there now came signs of a sparse
-habitation&mdash;curtained windows here and there, and an occasional battered motor-car at the
+habitation--curtained windows here and there, and an occasional battered motor-car at the
 curb. Pavement and sidewalks were increasingly well defined, and though most of the houses were
-quite old&mdash;wood and brick structures of the early nineteenth century&mdash;they were obviously
+quite old--wood and brick structures of the early nineteenth century--they were obviously
 kept fit for habitation. As an amateur antiquarian I almost lost my olfactory disgust and my
 feeling of menace and repulsion amidst this rich, unaltered survival from the past.  
 
   But I was not to reach my destination without one very strong impression of
 poignantly disagreeable quality. The bus had come to a sort of open concourse or radial point
 with churches on two sides and the bedraggled remains of a circular green in the centre, and
-I was looking at a large pillared hall on the right-hand junction ahead. The structure&rsquo;s
+I was looking at a large pillared hall on the right-hand junction ahead. The structure's
 once white paint was now grey and peeling, and the black and gold sign on the pediment was so
-faded that I could only with difficulty make out the words &ldquo;Esoteric Order of Dagon&rdquo;.
+faded that I could only with difficulty make out the words  "Esoteric Order of Dagon ".
 This, then, was the former Masonic Hall now given over to a degraded cult. As I strained to
 decipher this inscription my notice was distracted by the raucous tones of a cracked bell across
 the street, and I quickly turned to look out the window on my side of the coach.  
@@ -485,8 +485,8 @@ a rectangle of blackness inside. And as I looked, a certain object crossed or se
 that dark rectangle; burning into my brain a momentary conception of nightmare which was all
 the more maddening because analysis could not shew a single nightmarish quality in it.  
 
-  It was a living object&mdash;the first except the driver that I had seen since
-entering the compact part of the town&mdash;and had I been in a steadier mood I would have found
+  It was a living object--the first except the driver that I had seen since
+entering the compact part of the town--and had I been in a steadier mood I would have found
 nothing whatever of terror in it. Clearly, as I realised a moment later, it was the pastor;
 clad in some peculiar vestments doubtless introduced since the Order of Dagon had modified the
 ritual of the local churches. The thing which had probably caught my first subconscious glance
@@ -495,11 +495,11 @@ of the one Miss Tilton had shewn me the previous evening. This, acting on my ima
 supplied namelessly sinister qualities to the indeterminate face and robed, shambling form beneath
 it. There was not, I soon decided, any reason why I should have felt that shuddering touch of
 evil pseudo-memory. Was it not natural that a local mystery cult should adopt among its regimentals
-an unique type of head-dress made familiar to the community in some strange way&mdash;perhaps
+an unique type of head-dress made familiar to the community in some strange way--perhaps
 as treasure-trove?  
 
   A very thin sprinkling of repellent-looking youngish people now became visible
-on the sidewalks&mdash;lone individuals, and silent knots of two or three. The lower floors
+on the sidewalks--lone individuals, and silent knots of two or three. The lower floors
 of the crumbling houses sometimes harboured small shops with dingy signs, and I noticed a parked
 truck or two as we rattled along. The sound of waterfalls became more and more distinct, and
 presently I saw a fairly deep river-gorge ahead, spanned by a wide, iron-railed highway bridge
@@ -512,8 +512,8 @@ side in front of a tall, cupola-crowned building with remnants of yellow paint a
 sign proclaiming it to be the Gilman House.  
 
   I was glad to get out of that bus, and at once proceeded to check my valise
-in the shabby hotel lobby. There was only one person in sight&mdash;an elderly man without what
-I had come to call the &ldquo;Innsmouth look&rdquo;&mdash;and I decided not to ask him any of
+in the shabby hotel lobby. There was only one person in sight--an elderly man without what
+I had come to call the  "Innsmouth look "--and I decided not to ask him any of
 the questions which bothered me; remembering that odd things had been noticed in this hotel.
 Instead, I strolled out on the square, from which the bus had already gone, and studied the
 scene minutely and appraisingly.  
@@ -521,12 +521,12 @@ scene minutely and appraisingly.
   One side of the cobblestoned open space was the straight line of the river;
 the other was a semicircle of slant-roofed brick buildings of about the 1800 period, from which
 several streets radiated away to the southeast, south, and southwest. Lamps were depressingly
-few and small&mdash;all low-powered incandescents&mdash;and I was glad that my plans called
+few and small--all low-powered incandescents--and I was glad that my plans called
 for departure before dark, even though I knew the moon would be bright. The buildings were all
 in fair condition, and included perhaps a dozen shops in current operation; of which one was
 a grocery of the First National chain, others a dismal restaurant, a drug store, and a wholesale
-fish-dealer&rsquo;s office, and still another, at the eastern extremity of the square near the
-river, an office of the town&rsquo;s only industry&mdash;the Marsh Refining Company. There were
+fish-dealer's office, and still another, at the eastern extremity of the square near the
+river, an office of the town's only industry--the Marsh Refining Company. There were
 perhaps ten people visible, and four or five automobiles and motor trucks stood scattered about.
 I did not need to be told that this was the civic centre of Innsmouth. Eastward I could catch
 blue glimpses of the harbour, against which rose the decaying remains of three once beautiful
@@ -544,28 +544,28 @@ him there and he did not wish to give up his job.
 
   There was, he said, no public library or chamber of commerce in Innsmouth,
 but I could probably find my way about. The street I had come down was Federal. West of that
-were the fine old residence streets&mdash;Broad, Washington, Lafayette, and Adams&mdash;and
-east of it were the shoreward slums. It was in these slums&mdash;along Main Street&mdash;that
+were the fine old residence streets--Broad, Washington, Lafayette, and Adams--and
+east of it were the shoreward slums. It was in these slums--along Main Street--that
 I would find the old Georgian churches, but they were all long abandoned. It would be well not
-to make oneself too conspicuous in such neighbourhoods&mdash;especially north of the river&mdash;since
+to make oneself too conspicuous in such neighbourhoods--especially north of the river--since
 the people were sullen and hostile. Some strangers had even disappeared.  
 
   Certain spots were almost forbidden territory, as he had learned at considerable
 cost. One must not, for example, linger much around the Marsh refinery, or around any of the
 still used churches, or around the pillared Order of Dagon Hall at New Church Green. Those churches
-were very odd&mdash;all violently disavowed by their respective denominations elsewhere, and
+were very odd--all violently disavowed by their respective denominations elsewhere, and
 apparently using the queerest kind of ceremonials and clerical vestments. Their creeds were
 heterodox and mysterious, involving hints of certain marvellous transformations leading to bodily
-immortality&mdash;of a sort&mdash;on this earth. The youth&rsquo;s own pastor&mdash;Dr. Wallace
-of Asbury M. E. Church in Arkham&mdash;had gravely urged him not to join any church in Innsmouth.  
+immortality--of a sort--on this earth. The youth's own pastor--Dr. Wallace
+of Asbury M. E. Church in Arkham--had gravely urged him not to join any church in Innsmouth.  
 
-  As for the Innsmouth people&mdash;the youth hardly knew what to make of them.
+  As for the Innsmouth people--the youth hardly knew what to make of them.
 They were as furtive and seldom seen as animals that live in burrows, and one could hardly imagine
-how they passed the time apart from their desultory fishing. Perhaps&mdash;judging from the
-quantities of bootleg liquor they consumed&mdash;they lay for most of the daylight hours in
-an alcoholic stupor. They seemed sullenly banded together in some sort of fellowship and understanding&mdash;despising
-the world as if they had access to other and preferable spheres of entity. Their appearance&mdash;especially
-those staring, unwinking eyes which one never saw shut&mdash;was certainly shocking enough;
+how they passed the time apart from their desultory fishing. Perhaps--judging from the
+quantities of bootleg liquor they consumed--they lay for most of the daylight hours in
+an alcoholic stupor. They seemed sullenly banded together in some sort of fellowship and understanding--despising
+the world as if they had access to other and preferable spheres of entity. Their appearance--especially
+those staring, unwinking eyes which one never saw shut--was certainly shocking enough;
 and their voices were disgusting. It was awful to hear them chanting in their churches at night,
 and especially during their main festivals or revivals, which fell twice a year on April 30th
 and October 31st.  
@@ -576,12 +576,12 @@ share in this arduous sport. When one came to think of it, it was generally only
 people who were seen about in public, and of these the oldest were apt to be the most tainted-looking.
 When exceptions did occur, they were mostly persons with no trace of aberrancy, like the old
 clerk at the hotel. One wondered what became of the bulk of the older folk, and whether the
-&ldquo;Innsmouth look&rdquo; were not a strange and insidious disease-phenomenon which increased
+ "Innsmouth look " were not a strange and insidious disease-phenomenon which increased
 its hold as years advanced.  
 
   Only a very rare affliction, of course, could bring about such vast and radical
-anatomical changes in a single individual after maturity&mdash;changes involving osseous factors
-as basic as the shape of the skull&mdash;but then, even this aspect was no more baffling and
+anatomical changes in a single individual after maturity--changes involving osseous factors
+as basic as the shape of the skull--but then, even this aspect was no more baffling and
 unheard-of than the visible features of the malady as a whole. It would be hard, the youth implied,
 to form any real conclusions regarding such a matter; since one never came to know the natives
 personally no matter how long one might live in Innsmouth.  
@@ -589,7 +589,7 @@ personally no matter how long one might live in Innsmouth.
   The youth was certain that many specimens even worse than the worst visible
 ones were kept locked indoors in some places. People sometimes heard the queerest kind of sounds.
 The tottering waterfront hovels north of the river were reputedly connected by hidden tunnels,
-being thus a veritable warren of unseen abnormalities. What kind of foreign blood&mdash;if any&mdash;these
+being thus a veritable warren of unseen abnormalities. What kind of foreign blood--if any--these
 beings had, it was impossible to tell. They sometimes kept certain especially repulsive characters
 out of sight when government agents and others from the outside world came to town.  
 
@@ -609,13 +609,13 @@ to drink and talk with strangers; and it was not always safe to be seen question
 was probably from him that some of the wildest popular whispers and delusions were derived.  
 
   Several non-native residents had reported monstrous glimpses from time to time,
-but between old Zadok&rsquo;s tales and the malformed denizens it was no wonder such illusions
+but between old Zadok's tales and the malformed denizens it was no wonder such illusions
 were current. None of the non-natives ever stayed out late at night, there being a widespread
 impression that it was not wise to do so. Besides, the streets were loathsomely dark.  
 
-  As for business&mdash;the abundance of fish was certainly almost uncanny, but
+  As for business--the abundance of fish was certainly almost uncanny, but
 the natives were taking less and less advantage of it. Moreover, prices were falling and competition
-was growing. Of course the town&rsquo;s real business was the refinery, whose commercial office
+was growing. Of course the town's real business was the refinery, whose commercial office
 was on the square only a few doors east of where we stood. Old Man Marsh was never seen, but
 sometimes went to the works in a closed, curtained car.  
 
@@ -629,26 +629,26 @@ the elder ones; and it was said that their health was failing.
   One of the Marsh daughters was a repellent, reptilian-looking woman who wore
 an excess of weird jewellery clearly of the same exotic tradition as that to which the strange
 tiara belonged. My informant had noticed it many times, and had heard it spoken of as coming
-from some secret hoard, either of pirates or of daemons. The clergymen&mdash;or priests, or
-whatever they were called nowadays&mdash;also wore this kind of ornament as a head-dress; but
+from some secret hoard, either of pirates or of daemons. The clergymen--or priests, or
+whatever they were called nowadays--also wore this kind of ornament as a head-dress; but
 one seldom caught glimpses of them. Other specimens the youth had not seen, though many were
 rumoured to exist around Innsmouth.  
 
-  The Marshes, together with the other three gently bred families of the town&mdash;the
-Waites, the Gilmans, and the Eliots&mdash;were all very retiring. They lived in immense houses
+  The Marshes, together with the other three gently bred families of the town--the
+Waites, the Gilmans, and the Eliots--were all very retiring. They lived in immense houses
 along Washington Street, and several were reputed to harbour in concealment certain living kinsfolk
 whose personal aspect forbade public view, and whose deaths had been reported and recorded.  
 
   Warning me that many of the street signs were down, the youth drew for my benefit
-a rough but ample and painstaking sketch map of the town&rsquo;s salient features. After a moment&rsquo;s
+a rough but ample and painstaking sketch map of the town's salient features. After a moment's
 study I felt sure that it would be of great help, and pocketed it with profuse thanks. Disliking
 the dinginess of the single restaurant I had seen, I bought a fair supply of cheese crackers
 and ginger wafers to serve as a lunch later on. My programme, I decided, would be to thread
-the principal streets, talk with any non-natives I might encounter, and catch the eight o&rsquo;clock
+the principal streets, talk with any non-natives I might encounter, and catch the eight o'clock
 coach for Arkham. The town, I could see, formed a significant and exaggerated example of communal
 decay; but being no sociologist I would limit my serious observations to the field of architecture.  
 
-  Thus I began my systematic though half-bewildered tour of Innsmouth&rsquo;s
+  Thus I began my systematic though half-bewildered tour of Innsmouth's
 narrow, shadow-blighted ways. Crossing the bridge and turning toward the roar of the lower falls,
 I passed close to the Marsh refinery, which seemed oddly free from the noise of industry. This
 building stood on the steep river bluff near a bridge and an open confluence of streets which
@@ -675,14 +675,14 @@ of the harbour tides and the roar of the falls in the Manuxet. The town was gett
 more on my nerves, and I looked behind me furtively as I picked my way back over the tottering
 Water Street bridge. The Fish Street bridge, according to the sketch, was in ruins.  
 
-  North of the river there were traces of squalid life&mdash;active fish-packing
+  North of the river there were traces of squalid life--active fish-packing
 houses in Water Street, smoking chimneys and patched roofs here and there, occasional sounds
 from indeterminate sources, and infrequent shambling forms in the dismal streets and unpaved
-lanes&mdash;but I seemed to find this even more oppressive than the southerly desertion. For
+lanes--but I seemed to find this even more oppressive than the southerly desertion. For
 one thing, the people were more hideous and abnormal than those near the centre of the town;
 so that I was several times evilly reminded of something utterly fantastic which I could not
 quite place. Undoubtedly the alien strain in the Innsmouth folk was stronger here than farther
-inland&mdash;unless, indeed, the &ldquo;Innsmouth look&rdquo; were a disease rather than a blood
+inland--unless, indeed, the  "Innsmouth look " were a disease rather than a blood
 strain, in which case this district might be held to harbour the more advanced cases.  
 
   One detail that annoyed me was the   distribution   of the few faint sounds
@@ -707,7 +707,7 @@ ill-surfaced and unkempt, their elm-shaded dignity had not entirely departed. Ma
 mansion claimed my gaze, most of them decrepit and boarded up amidst neglected grounds, but
 one or two in each street shewing signs of occupancy. In Washington Street there was a row of
 four or five in excellent repair and with finely tended lawns and gardens. The most sumptuous
-of these&mdash;with wide terraced parterres extending back the whole way to Lafayette Street&mdash;I
+of these--with wide terraced parterres extending back the whole way to Lafayette Street--I
 took to be the home of Old Man Marsh, the afflicted refinery owner.  
 
   In all these streets no living thing was visible, and I wondered at the complete
@@ -738,18 +738,18 @@ its shadow were so hideous and incredible.
 
     III.    
 
-It must have been some imp of the perverse&mdash;or some sardonic pull from
-dark, hidden sources&mdash;which made me change my plans as I did. I had long before resolved
+It must have been some imp of the perverse--or some sardonic pull from
+dark, hidden sources--which made me change my plans as I did. I had long before resolved
 to limit my observations to architecture alone, and I was even then hurrying toward the Square
 in an effort to get quick transportation out of this festering city of death and decay; but
 the sight of old Zadok Allen set up new currents in my mind and made me slacken my pace uncertainly.  
 
   I had been assured that the old man could do nothing but hint at wild, disjointed,
 and incredible legends, and I had been warned that the natives made it unsafe to be seen talking
-to him; yet the thought of this aged witness to the town&rsquo;s decay, with memories going
+to him; yet the thought of this aged witness to the town's decay, with memories going
 back to the early days of ships and factories, was a lure that no amount of reason could make
 me resist. After all, the strangest and maddest of myths are often merely symbols or allegories
-based upon truth&mdash;and old Zadok must have seen everything which went on around Innsmouth
+based upon truth--and old Zadok must have seen everything which went on around Innsmouth
 for the last ninety years. Curiosity flared up beyond sense and caution, and in my youthful
 egotism I fancied I might be able to sift a nucleus of real history from the confused, extravagant
 outpouring I would probably extract with the aid of raw whiskey.  
@@ -763,12 +763,12 @@ than an hour or two at a time.
 
   A quart bottle of whiskey was easily, though not cheaply, obtained in the rear
 of a dingy variety-store just off the Square in Eliot Street. The dirty-looking fellow who waited
-on me had a touch of the staring &ldquo;Innsmouth look&rdquo;, but was quite civil in his way;
-being perhaps used to the custom of such convivial strangers&mdash;truckmen, gold-buyers, and
-the like&mdash;as were occasionally in town.  
+on me had a touch of the staring  "Innsmouth look ", but was quite civil in his way;
+being perhaps used to the custom of such convivial strangers--truckmen, gold-buyers, and
+the like--as were occasionally in town.  
 
-  Re&euml;ntering the Square I saw that luck was with me; for&mdash;shuffling
-out of Paine Street around the corner of the Gilman House&mdash;I glimpsed nothing less than
+  Reëntering the Square I saw that luck was with me; for--shuffling
+out of Paine Street around the corner of the Gilman House--I glimpsed nothing less than
 the tall, lean, tattered form of old Zadok Allen himself. In accordance with my plan, I attracted
 his attention by brandishing my newly purchased bottle; and soon realised that he had begun
 to shuffle wistfully after me as I turned into Waite Street on my way to the most deserted region
@@ -779,7 +779,7 @@ for the wholly abandoned stretch of southern waterfront which I had previously v
 only people in sight there had been the fishermen on the distant breakwater; and by going a
 few squares south I could get beyond the range of these, finding a pair of seats on some abandoned
 wharf and being free to question old Zadok unobserved for an indefinite time. Before I reached
-Main Street I could hear a faint and wheezy &ldquo;Hey, Mister!&rdquo; behind me, and I presently
+Main Street I could hear a faint and wheezy  "Hey, Mister! " behind me, and I presently
 allowed the old man to catch up and take copious pulls from the quart bottle.  
 
   I began putting out feelers as we walked along to Water Street and turned southward
@@ -792,10 +792,10 @@ the ideal place for a long secret colloquy; so I guided my companion down the la
 out spots to sit in among the mossy stones. The air of death and desertion was ghoulish, and
 the smell of fish almost insufferable; but I was resolved to let nothing deter me.  
 
-  About four hours remained for conversation if I were to catch the eight o&rsquo;clock
+  About four hours remained for conversation if I were to catch the eight o'clock
 coach for Arkham, and I began to dole out more liquor to the ancient tippler; meanwhile eating
 my own frugal lunch. In my donations I was careful not to overshoot the mark, for I did not
-wish Zadok&rsquo;s vinous garrulousness to pass into a stupor. After an hour his furtive taciturnity
+wish Zadok's vinous garrulousness to pass into a stupor. After an hour his furtive taciturnity
 shewed signs of disappearing, but much to my disappointment he still sidetracked my questions
 about Innsmouth and its shadow-haunted past. He would babble of current topics, revealing a
 wide acquaintance with newspapers and a great tendency to philosophise in a sententious village
@@ -804,183 +804,183 @@ fashion.
   Toward the end of the second hour I feared my quart of whiskey would not be
 enough to produce results, and was wondering whether I had better leave old Zadok and go back
 for more. Just then, however, chance made the opening which my questions had been unable to
-make; and the wheezing ancient&rsquo;s rambling took a turn that caused me to lean forward and
+make; and the wheezing ancient's rambling took a turn that caused me to lean forward and
 listen alertly. My back was toward the fishy-smelling sea, but he was facing it, and something
 or other had caused his wandering gaze to light on the low, distant line of Devil Reef, then
 shewing plainly and almost fascinatingly above the waves. The sight seemed to displease him,
 for he began a series of weak curses which ended in a confidential whisper and a knowing leer.
 He bent toward me, took hold of my coat lapel, and hissed out some hints that could not be mistaken.  
 
-  &ldquo;Thar&rsquo;s whar it all begun&mdash;that cursed place of all wickedness
-whar the deep water starts. Gate o&rsquo; hell&mdash;sheer drop daown to a bottom no saoundin&rsquo;-line
-kin tech. Ol&rsquo; Cap&rsquo;n Obed done it&mdash;him that faound aout more&rsquo;n was good
+   "Thar's whar it all begun--that cursed place of all wickedness
+whar the deep water starts. Gate o' hell--sheer drop daown to a bottom no saoundin'-line
+kin tech. Ol' Cap'n Obed done it--him that faound aout more'n was good
 fer him in the Saouth Sea islands.  
 
-  &ldquo;Everybody was in a bad way them days. Trade fallin&rsquo; off, mills
-losin&rsquo; business&mdash;even the new ones&mdash;an&rsquo; the best of our menfolks kilt
-a-privateerin&rsquo; in the War of 1812 or lost with the   Elizy   brig an&rsquo; the   
-Ranger   snow&mdash;both of &rsquo;em Gilman venters. Obed Marsh he had three ships afloat&mdash;brigantine
-  Columby,   brig   Hetty,   an&rsquo; barque   Sumatry Queen.   He was the only one
-as kep&rsquo; on with the East-Injy an&rsquo; Pacific trade, though Esdras Martin&rsquo;s barkentine
-  Malay Pride   made a venter as late as &rsquo;twenty-eight.  
+   "Everybody was in a bad way them days. Trade fallin' off, mills
+losin' business--even the new ones--an' the best of our menfolks kilt
+a-privateerin' in the War of 1812 or lost with the   Elizy   brig an' the   
+Ranger   snow--both of 'em Gilman venters. Obed Marsh he had three ships afloat--brigantine
+  Columby,   brig   Hetty,   an' barque   Sumatry Queen.   He was the only one
+as kep' on with the East-Injy an' Pacific trade, though Esdras Martin's barkentine
+  Malay Pride   made a venter as late as 'twenty-eight.  
 
-  &ldquo;Never was nobody like Cap&rsquo;n Obed&mdash;old limb o&rsquo; Satan!
-Heh, heh! I kin mind him a-tellin&rsquo; abaout furren parts, an&rsquo; callin&rsquo; all the
-folks stupid fer goin&rsquo; to Christian meetin&rsquo; an&rsquo; bearin&rsquo; their burdens
-meek an&rsquo; lowly. Says they&rsquo;d orter git better gods like some o&rsquo; the folks in
-the Injies&mdash;gods as ud bring &rsquo;em good fishin&rsquo; in return for their sacrifices,
-an&rsquo; ud reely answer folks&rsquo;s prayers.  
+   "Never was nobody like Cap'n Obed--old limb o' Satan!
+Heh, heh! I kin mind him a-tellin' abaout furren parts, an' callin' all the
+folks stupid fer goin' to Christian meetin' an' bearin' their burdens
+meek an' lowly. Says they'd orter git better gods like some o' the folks in
+the Injies--gods as ud bring 'em good fishin' in return for their sacrifices,
+an' ud reely answer folks's prayers.  
 
-  &ldquo;Matt Eliot, his fust mate, talked a lot, too, only he was agin&rsquo;
-folks&rsquo;s doin&rsquo; any heathen things. Told abaout an island east of Otaheit&eacute;
-whar they was a lot o&rsquo; stone ruins older&rsquo;n anybody knew anything abaout, kind o&rsquo;
-like them on Ponape, in the Carolines, but with carvin&rsquo;s of faces that looked like the
+   "Matt Eliot, his fust mate, talked a lot, too, only he was agin'
+folks's doin' any heathen things. Told abaout an island east of Otaheité
+whar they was a lot o' stone ruins older'n anybody knew anything abaout, kind o'
+like them on Ponape, in the Carolines, but with carvin's of faces that looked like the
 big statues on Easter Island. They was a little volcanic island near thar, too, whar they was
-other ruins with diff&rsquo;rent carvin&rsquo;s&mdash;ruins all wore away like they&rsquo;d
-ben under the sea onct, an&rsquo; with picters of awful monsters all over &rsquo;em.  
+other ruins with diff'rent carvin's--ruins all wore away like they'd
+ben under the sea onct, an' with picters of awful monsters all over 'em.  
 
-  &ldquo;Wal, Sir, Matt he says the natives araound thar had all the fish they
-cud ketch, an&rsquo; sported bracelets an&rsquo; armlets an&rsquo; head rigs made aout of a
-queer kind o&rsquo; gold an&rsquo; covered with picters o&rsquo; monsters jest like the ones
-carved over the ruins on the little island&mdash;sorter fish-like frogs or frog-like fishes
-that was drawed in all kinds o&rsquo; positions like they was human bein&rsquo;s. Nobody cud
-git aout o&rsquo; them whar they got all the stuff, an&rsquo; all the other natives wondered
-haow they managed to find fish in plenty even when the very next islands had lean pickin&rsquo;s.
-Matt he got to wonderin&rsquo; too, an&rsquo; so did Cap&rsquo;n Obed. Obed he notices, besides,
-that lots of the han&rsquo;some young folks ud drop aout o&rsquo; sight fer good from year to
-year, an&rsquo; that they wa&rsquo;n&rsquo;t many old folks araound. Also, he thinks some of
+   "Wal, Sir, Matt he says the natives araound thar had all the fish they
+cud ketch, an' sported bracelets an' armlets an' head rigs made aout of a
+queer kind o' gold an' covered with picters o' monsters jest like the ones
+carved over the ruins on the little island--sorter fish-like frogs or frog-like fishes
+that was drawed in all kinds o' positions like they was human bein's. Nobody cud
+git aout o' them whar they got all the stuff, an' all the other natives wondered
+haow they managed to find fish in plenty even when the very next islands had lean pickin's.
+Matt he got to wonderin' too, an' so did Cap'n Obed. Obed he notices, besides,
+that lots of the han'some young folks ud drop aout o' sight fer good from year to
+year, an' that they wa'n't many old folks araound. Also, he thinks some of
 the folks looks durned queer even fer Kanakys.  
 
-  &ldquo;It took Obed to git the truth aout o&rsquo; them heathen. I dun&rsquo;t
-know haow he done it, but he begun by tradin&rsquo; fer the gold-like things they wore. Ast
-&rsquo;em whar they come from, an&rsquo; ef they cud git more, an&rsquo; finally wormed the
-story aout o&rsquo; the old chief&mdash;Walakea, they called him. Nobody but Obed ud ever a
-believed the old yeller devil, but the Cap&rsquo;n cud read folks like they was books. Heh,
-heh! Nobody never believes me naow when I tell &rsquo;em, an&rsquo; I dun&rsquo;t s&rsquo;pose
-you will, young feller&mdash;though come to look at ye, ye hev kind o&rsquo; got them sharp-readin&rsquo;
-eyes like Obed had.&rdquo;  
+   "It took Obed to git the truth aout o' them heathen. I dun't
+know haow he done it, but he begun by tradin' fer the gold-like things they wore. Ast
+'em whar they come from, an' ef they cud git more, an' finally wormed the
+story aout o' the old chief--Walakea, they called him. Nobody but Obed ud ever a
+believed the old yeller devil, but the Cap'n cud read folks like they was books. Heh,
+heh! Nobody never believes me naow when I tell 'em, an' I dun't s'pose
+you will, young feller--though come to look at ye, ye hev kind o' got them sharp-readin'
+eyes like Obed had. "  
 
-  The old man&rsquo;s whisper grew fainter, and I found myself shuddering at
+  The old man's whisper grew fainter, and I found myself shuddering at
 the terrible and sincere portentousness of his intonation, even though I knew his tale could
 be nothing but drunken phantasy.  
 
-  &ldquo;Wal, Sir, Obed he larnt that they&rsquo;s things on this arth as most
-folks never heerd abaout&mdash;an&rsquo; wouldn&rsquo;t believe ef they did hear. It seems these
-Kanakys was sacrificin&rsquo; heaps o&rsquo; their young men an&rsquo; maidens to some kind
-o&rsquo; god-things that lived under the sea, an&rsquo; gittin&rsquo; all kinds o&rsquo; favour
-in return. They met the things on the little islet with the queer ruins, an&rsquo; it seems
-them awful picters o&rsquo; frog-fish monsters was supposed to be picters o&rsquo; these things.
-Mebbe they was the kind o&rsquo; critters as got all the mermaid stories an&rsquo; sech started.
-They had all kinds o&rsquo; cities on the sea-bottom, an&rsquo; this island was heaved up from
-thar. Seems they was some of the things alive in the stone buildin&rsquo;s when the island come
-up sudden to the surface. That&rsquo;s haow the Kanakys got wind they was daown thar. Made sign-talk
-as soon as they got over bein&rsquo; skeert, an&rsquo; pieced up a bargain afore long.  
+   "Wal, Sir, Obed he larnt that they's things on this arth as most
+folks never heerd abaout--an' wouldn't believe ef they did hear. It seems these
+Kanakys was sacrificin' heaps o' their young men an' maidens to some kind
+o' god-things that lived under the sea, an' gittin' all kinds o' favour
+in return. They met the things on the little islet with the queer ruins, an' it seems
+them awful picters o' frog-fish monsters was supposed to be picters o' these things.
+Mebbe they was the kind o' critters as got all the mermaid stories an' sech started.
+They had all kinds o' cities on the sea-bottom, an' this island was heaved up from
+thar. Seems they was some of the things alive in the stone buildin's when the island come
+up sudden to the surface. That's haow the Kanakys got wind they was daown thar. Made sign-talk
+as soon as they got over bein' skeert, an' pieced up a bargain afore long.  
 
-  &ldquo;Them things liked human sacrifices. Had had &rsquo;em ages afore, but
-lost track o&rsquo; the upper world arter a time. What they done to the victims it ain&rsquo;t
-fer me to say, an&rsquo; I guess Obed wa&rsquo;n&rsquo;t none too sharp abaout askin&rsquo;.
-But it was all right with the heathens, because they&rsquo;d ben havin&rsquo; a hard time an&rsquo;
-was desp&rsquo;rate abaout everything. They give a sarten number o&rsquo; young folks to the
-sea-things twict every year&mdash;May-Eve an&rsquo; Hallowe&rsquo;en&mdash;reg&rsquo;lar as
-cud be. Also give some o&rsquo; the carved knick-knacks they made. What the things agreed to
-give in return was plenty o&rsquo; fish&mdash;they druv &rsquo;em in from all over the sea&mdash;an&rsquo;
-a few gold-like things naow an&rsquo; then.  
+   "Them things liked human sacrifices. Had had 'em ages afore, but
+lost track o' the upper world arter a time. What they done to the victims it ain't
+fer me to say, an' I guess Obed wa'n't none too sharp abaout askin'.
+But it was all right with the heathens, because they'd ben havin' a hard time an'
+was desp'rate abaout everything. They give a sarten number o' young folks to the
+sea-things twict every year--May-Eve an' Hallowe'en--reg'lar as
+cud be. Also give some o' the carved knick-knacks they made. What the things agreed to
+give in return was plenty o' fish--they druv 'em in from all over the sea--an'
+a few gold-like things naow an' then.  
 
-  &ldquo;Wal, as I says, the natives met the things on the little volcanic islet&mdash;goin&rsquo;
-thar in canoes with the sacrifices et cet&rsquo;ry, and bringin&rsquo; back any of the gold-like
-jools as was comin&rsquo; to &rsquo;em. At fust the things didn&rsquo;t never go onto the main
-island, but arter a time they come to want to. Seems they hankered arter mixin&rsquo; with the
-folks, an&rsquo; havin&rsquo; j&rsquo;int ceremonies on the big days&mdash;May-Eve an&rsquo;
-Hallowe&rsquo;en. Ye see, they was able to live both in an&rsquo; aout o&rsquo; water&mdash;what
-they call amphibians, I guess. The Kanakys told &rsquo;em as haow folks from the other islands
-might wanta wipe &rsquo;em aout ef they got wind o&rsquo; their bein&rsquo; thar, but they says
-they dun&rsquo;t keer much, because they cud wipe aout the hull brood o&rsquo; humans ef they
-was willin&rsquo; to bother&mdash;that is, any as didn&rsquo;t hev sarten signs sech as was
-used onct by the lost Old Ones, whoever they was. But not wantin&rsquo; to bother, they&rsquo;d
+   "Wal, as I says, the natives met the things on the little volcanic islet--goin'
+thar in canoes with the sacrifices et cet'ry, and bringin' back any of the gold-like
+jools as was comin' to 'em. At fust the things didn't never go onto the main
+island, but arter a time they come to want to. Seems they hankered arter mixin' with the
+folks, an' havin' j'int ceremonies on the big days--May-Eve an'
+Hallowe'en. Ye see, they was able to live both in an' aout o' water--what
+they call amphibians, I guess. The Kanakys told 'em as haow folks from the other islands
+might wanta wipe 'em aout ef they got wind o' their bein' thar, but they says
+they dun't keer much, because they cud wipe aout the hull brood o' humans ef they
+was willin' to bother--that is, any as didn't hev sarten signs sech as was
+used onct by the lost Old Ones, whoever they was. But not wantin' to bother, they'd
 lay low when anybody visited the island.  
 
-  &ldquo;When it come to matin&rsquo; with them toad-lookin&rsquo; fishes, the
-Kanakys kind o&rsquo; balked, but finally they larnt something as put a new face on the matter.
-Seems that human folks has got a kind o&rsquo; relation to sech water-beasts&mdash;that everything
-alive come aout o&rsquo; the water onct, an&rsquo; only needs a little change to go back agin.
-Them things told the Kanakys that ef they mixed bloods there&rsquo;d be children as ud look
-human at fust, but later turn more&rsquo;n more like the things, till finally they&rsquo;d take
-to the water an&rsquo; jine the main lot o&rsquo; things daown thar. An&rsquo; this is the important
-part, young feller&mdash;them as turned into fish things an&rsquo; went into the water   wouldn&rsquo;t
-never die.   Them things never died excep&rsquo; they was kilt violent.  
+   "When it come to matin' with them toad-lookin' fishes, the
+Kanakys kind o' balked, but finally they larnt something as put a new face on the matter.
+Seems that human folks has got a kind o' relation to sech water-beasts--that everything
+alive come aout o' the water onct, an' only needs a little change to go back agin.
+Them things told the Kanakys that ef they mixed bloods there'd be children as ud look
+human at fust, but later turn more'n more like the things, till finally they'd take
+to the water an' jine the main lot o' things daown thar. An' this is the important
+part, young feller--them as turned into fish things an' went into the water   wouldn't
+never die.   Them things never died excep' they was kilt violent.  
 
-  &ldquo;Wal, Sir, it seems by the time Obed knowed them islanders they was all
-full o&rsquo; fish blood from them deep-water things. When they got old an&rsquo; begun to shew
-it, they was kep&rsquo; hid until they felt like takin&rsquo; to the water an&rsquo; quittin&rsquo;
-the place. Some was more teched than others, an&rsquo; some never did change quite enough to
+   "Wal, Sir, it seems by the time Obed knowed them islanders they was all
+full o' fish blood from them deep-water things. When they got old an' begun to shew
+it, they was kep' hid until they felt like takin' to the water an' quittin'
+the place. Some was more teched than others, an' some never did change quite enough to
 take to the water; but mostly they turned aout jest the way them things said. Them as was born
 more like the things changed arly, but them as was nearly human sometimes stayed on the island
-till they was past seventy, though they&rsquo;d usually go daown under fer trial trips afore
-that. Folks as had took to the water gen&rsquo;rally come back a good deal to visit, so&rsquo;s
-a man ud often be a-talkin&rsquo; to his own five-times-great-grandfather, who&rsquo;d left
-the dry land a couple o&rsquo; hundred years or so afore.  
+till they was past seventy, though they'd usually go daown under fer trial trips afore
+that. Folks as had took to the water gen'rally come back a good deal to visit, so's
+a man ud often be a-talkin' to his own five-times-great-grandfather, who'd left
+the dry land a couple o' hundred years or so afore.  
 
-  &ldquo;Everybody got aout o&rsquo; the idee o&rsquo; dyin&rsquo;&mdash;excep&rsquo;
+   "Everybody got aout o' the idee o' dyin'--excep'
 in canoe wars with the other islanders, or as sacrifices to the sea-gods daown below, or from
-snake-bite or plague or sharp gallopin&rsquo; ailments or somethin&rsquo; afore they cud take
-to the water&mdash;but simply looked forrad to a kind o&rsquo; change that wa&rsquo;n&rsquo;t
-a bit horrible arter a while. They thought what they&rsquo;d got was well wuth all they&rsquo;d
-had to give up&mdash;an&rsquo; I guess Obed kind o&rsquo; come to think the same hisself when
-he&rsquo;d chewed over old Walakea&rsquo;s story a bit. Walakea, though, was one of the few
-as hadn&rsquo;t got none of the fish blood&mdash;bein&rsquo; of a royal line that intermarried
+snake-bite or plague or sharp gallopin' ailments or somethin' afore they cud take
+to the water--but simply looked forrad to a kind o' change that wa'n't
+a bit horrible arter a while. They thought what they'd got was well wuth all they'd
+had to give up--an' I guess Obed kind o' come to think the same hisself when
+he'd chewed over old Walakea's story a bit. Walakea, though, was one of the few
+as hadn't got none of the fish blood--bein' of a royal line that intermarried
 with royal lines on other islands.  
 
-  &ldquo;Walakea he shewed Obed a lot o&rsquo; rites an&rsquo; incantations as
-had to do with the sea-things, an&rsquo; let him see some o&rsquo; the folks in the village
+   "Walakea he shewed Obed a lot o' rites an' incantations as
+had to do with the sea-things, an' let him see some o' the folks in the village
 as had changed a lot from human shape. Somehaow or other, though, he never would let him see
-one of the reg&rsquo;lar things from right aout o&rsquo; the water. In the end he give him a
-funny kind o&rsquo; thingumajig made aout o&rsquo; lead or something, that he said ud bring
-up the fish things from any place in the water whar they might be a nest of &rsquo;em. The idee
-was to drop it daown with the right kind o&rsquo; prayers an&rsquo; sech. Walakea allaowed as
-the things was scattered all over the world, so&rsquo;s anybody that looked abaout cud find
-a nest an&rsquo; bring &rsquo;em up ef they was wanted.  
+one of the reg'lar things from right aout o' the water. In the end he give him a
+funny kind o' thingumajig made aout o' lead or something, that he said ud bring
+up the fish things from any place in the water whar they might be a nest of 'em. The idee
+was to drop it daown with the right kind o' prayers an' sech. Walakea allaowed as
+the things was scattered all over the world, so's anybody that looked abaout cud find
+a nest an' bring 'em up ef they was wanted.  
 
-  &ldquo;Matt he didn&rsquo;t like this business at all, an&rsquo; wanted Obed
-shud keep away from the island; but the Cap&rsquo;n was sharp fer gain, an&rsquo; faound he
-cud git them gold-like things so cheap it ud pay him to make a specialty of &rsquo;em. Things
-went on that way fer years, an&rsquo; Obed got enough o&rsquo; that gold-like stuff to make
-him start the refinery in Waite&rsquo;s old run-daown fullin&rsquo; mill. He didn&rsquo;t dass
-sell the pieces like they was, fer folks ud be all the time askin&rsquo; questions. All the
-same his crews ud git a piece an&rsquo; dispose of it naow and then, even though they was swore
-to keep quiet; an&rsquo; he let his women-folks wear some o&rsquo; the pieces as was more human-like
+   "Matt he didn't like this business at all, an' wanted Obed
+shud keep away from the island; but the Cap'n was sharp fer gain, an' faound he
+cud git them gold-like things so cheap it ud pay him to make a specialty of 'em. Things
+went on that way fer years, an' Obed got enough o' that gold-like stuff to make
+him start the refinery in Waite's old run-daown fullin' mill. He didn't dass
+sell the pieces like they was, fer folks ud be all the time askin' questions. All the
+same his crews ud git a piece an' dispose of it naow and then, even though they was swore
+to keep quiet; an' he let his women-folks wear some o' the pieces as was more human-like
 than most.  
 
-  &ldquo;Wal, come abaout &rsquo;thutty-eight&mdash;when I was seven year&rsquo;
-old&mdash;Obed he faound the island people all wiped aout between v&rsquo;yages. Seems the other
-islanders had got wind o&rsquo; what was goin&rsquo; on, an&rsquo; had took matters into their
-own hands. S&rsquo;pose they musta had, arter all, them old magic signs as the sea-things says
-was the only things they was afeard of. No tellin&rsquo; what any o&rsquo; them Kanakys will
-chance to git a holt of when the sea-bottom throws up some island with ruins older&rsquo;n the
-deluge. Pious cusses, these was&mdash;they didn&rsquo;t leave nothin&rsquo; standin&rsquo; on
-either the main island or the little volcanic islet excep&rsquo; what parts of the ruins was
-too big to knock daown. In some places they was little stones strewed abaout&mdash;like charms&mdash;with
-somethin&rsquo; on &rsquo;em like what ye call a swastika naowadays. Prob&rsquo;ly them was
-the Old Ones&rsquo; signs. Folks all wiped aout, no trace o&rsquo; no gold-like things, an&rsquo;
-none o&rsquo; the nearby Kanakys ud breathe a word abaout the matter. Wouldn&rsquo;t even admit
-they&rsquo;d ever ben any people on that island.  
+   "Wal, come abaout 'thutty-eight--when I was seven year'
+old--Obed he faound the island people all wiped aout between v'yages. Seems the other
+islanders had got wind o' what was goin' on, an' had took matters into their
+own hands. S'pose they musta had, arter all, them old magic signs as the sea-things says
+was the only things they was afeard of. No tellin' what any o' them Kanakys will
+chance to git a holt of when the sea-bottom throws up some island with ruins older'n the
+deluge. Pious cusses, these was--they didn't leave nothin' standin' on
+either the main island or the little volcanic islet excep' what parts of the ruins was
+too big to knock daown. In some places they was little stones strewed abaout--like charms--with
+somethin' on 'em like what ye call a swastika naowadays. Prob'ly them was
+the Old Ones' signs. Folks all wiped aout, no trace o' no gold-like things, an'
+none o' the nearby Kanakys ud breathe a word abaout the matter. Wouldn't even admit
+they'd ever ben any people on that island.  
 
-  &ldquo;That naturally hit Obed pretty hard, seein&rsquo; as his normal trade
-was doin&rsquo; very poor. It hit the whole of Innsmouth, too, because in seafarin&rsquo; days
-what profited the master of a ship gen&rsquo;lly profited the crew proportionate. Most o&rsquo;
-the folks araound the taown took the hard times kind o&rsquo; sheep-like an&rsquo; resigned,
-but they was in bad shape because the fishin&rsquo; was peterin&rsquo; aout an&rsquo; the mills
-wa&rsquo;n&rsquo;t doin&rsquo; none too well.  
+   "That naturally hit Obed pretty hard, seein' as his normal trade
+was doin' very poor. It hit the whole of Innsmouth, too, because in seafarin' days
+what profited the master of a ship gen'lly profited the crew proportionate. Most o'
+the folks araound the taown took the hard times kind o' sheep-like an' resigned,
+but they was in bad shape because the fishin' was peterin' aout an' the mills
+wa'n't doin' none too well.  
 
-  &ldquo;Then&rsquo;s the time Obed he begun a-cursin&rsquo; at the folks fer
-bein&rsquo; dull sheep an&rsquo; prayin&rsquo; to a Christian heaven as didn&rsquo;t help &rsquo;em
-none. He told &rsquo;em he&rsquo;d knowed of folks as prayed to gods that give somethin&rsquo;
-ye reely need, an&rsquo; says ef a good bunch o&rsquo; men ud stand by him, he cud mebbe git
-a holt o&rsquo; sarten paowers as ud bring plenty o&rsquo; fish an&rsquo; quite a bit o&rsquo;
-gold. O&rsquo; course them as sarved on the   Sumatry Queen   an&rsquo; seed the island knowed
-what he meant, an&rsquo; wa&rsquo;n&rsquo;t none too anxious to git clost to sea-things like
-they&rsquo;d heerd tell on, but them as didn&rsquo;t know what &rsquo;twas all abaout got kind
-o&rsquo; swayed by what Obed had to say, an&rsquo; begun to ast him what he cud do to set &rsquo;em
-on the way to the faith as ud bring &rsquo;em results.&rdquo;  
+   "Then's the time Obed he begun a-cursin' at the folks fer
+bein' dull sheep an' prayin' to a Christian heaven as didn't help 'em
+none. He told 'em he'd knowed of folks as prayed to gods that give somethin'
+ye reely need, an' says ef a good bunch o' men ud stand by him, he cud mebbe git
+a holt o' sarten paowers as ud bring plenty o' fish an' quite a bit o'
+gold. O' course them as sarved on the   Sumatry Queen   an' seed the island knowed
+what he meant, an' wa'n't none too anxious to git clost to sea-things like
+they'd heerd tell on, but them as didn't know what 'twas all abaout got kind
+o' swayed by what Obed had to say, an' begun to ast him what he cud do to set 'em
+on the way to the faith as ud bring 'em results. "  
 
   Here the old man faltered, mumbled, and lapsed into a moody and apprehensive
 silence; glancing nervously over his shoulder and then turning back to stare fascinatedly at
@@ -998,226 +998,226 @@ Obed himself rather than of this antique toper.
 how he could stand so much whiskey, for not even a trace of thickness had come into his high,
 wheezy voice. He licked the nose of the bottle and slipped it into his pocket, then beginning
 to nod and whisper softly to himself. I bent close to catch any articulate words he might utter,
-and thought I saw a sardonic smile behind the stained, bushy whiskers. Yes&mdash;he was really
+and thought I saw a sardonic smile behind the stained, bushy whiskers. Yes--he was really
 forming words, and I could grasp a fair proportion of them.  
 
-  &ldquo;Poor Matt&mdash;Matt he allus was agin&rsquo; it&mdash;tried to line
-up the folks on his side, an&rsquo; had long talks with the preachers&mdash;no use&mdash;they
-run the Congregational parson aout o&rsquo; taown, an&rsquo; the Methodist feller quit&mdash;never
-did see Resolved Babcock, the Baptist parson, agin&mdash;Wrath o&rsquo; Jehovy&mdash;I was a
-mighty little critter, but I heerd what I heerd an&rsquo; seen what I seen&mdash;Dagon an&rsquo;
-Ashtoreth&mdash;Belial an&rsquo; Be&euml;lzebub&mdash;Golden Caff an&rsquo; the idols o&rsquo;
-Canaan an&rsquo; the Philistines&mdash;Babylonish abominations&mdash;  Mene, mene, tekel, upharsin&mdash;&rdquo;    
+   "Poor Matt--Matt he allus was agin' it--tried to line
+up the folks on his side, an' had long talks with the preachers--no use--they
+run the Congregational parson aout o' taown, an' the Methodist feller quit--never
+did see Resolved Babcock, the Baptist parson, agin--Wrath o' Jehovy--I was a
+mighty little critter, but I heerd what I heerd an' seen what I seen--Dagon an'
+Ashtoreth--Belial an' Beëlzebub--Golden Caff an' the idols o'
+Canaan an' the Philistines--Babylonish abominations--  Mene, mene, tekel, upharsin-- "    
 
   He stopped again, and from the look in his watery blue eyes I feared he was
 close to a stupor after all. But when I gently shook his shoulder he turned on me with astonishing
 alertness and snapped out some more obscure phrases.  
 
-  &ldquo;Dun&rsquo;t believe me, hey? Heh, heh, heh&mdash;then jest tell me,
-young feller, why Cap&rsquo;n Obed an&rsquo; twenty odd other folks used to row aout to Devil
-Reef in the dead o&rsquo; night an&rsquo; chant things so laoud ye cud hear &rsquo;em all over
-taown when the wind was right? Tell me that, hey? An&rsquo; tell me why Obed was allus droppin&rsquo;
-heavy things daown into the deep water t&rsquo;other side o&rsquo; the reef whar the bottom
-shoots daown like a cliff lower&rsquo;n ye kin saound? Tell me what he done with that funny-shaped
-lead thingumajig as Walakea give him? Hey, boy? An&rsquo; what did they all haowl on May-Eve,
-an&rsquo; agin the next Hallowe&rsquo;en? An&rsquo; why&rsquo;d the new church parsons&mdash;fellers
-as used to be sailors&mdash;wear them queer robes an&rsquo; cover theirselves with them gold-like
-things Obed brung? Hey?&rdquo;  
+   "Dun't believe me, hey? Heh, heh, heh--then jest tell me,
+young feller, why Cap'n Obed an' twenty odd other folks used to row aout to Devil
+Reef in the dead o' night an' chant things so laoud ye cud hear 'em all over
+taown when the wind was right? Tell me that, hey? An' tell me why Obed was allus droppin'
+heavy things daown into the deep water t'other side o' the reef whar the bottom
+shoots daown like a cliff lower'n ye kin saound? Tell me what he done with that funny-shaped
+lead thingumajig as Walakea give him? Hey, boy? An' what did they all haowl on May-Eve,
+an' agin the next Hallowe'en? An' why'd the new church parsons--fellers
+as used to be sailors--wear them queer robes an' cover theirselves with them gold-like
+things Obed brung? Hey? "  
 
   The watery blue eyes were almost savage and maniacal now, and the dirty white
 beard bristled electrically. Old Zadok probably saw me shrink back, for he had begun to cackle evilly.  
 
-  &ldquo;Heh, heh, heh, heh! Beginnin&rsquo; to see, hey? Mebbe ye&rsquo;d like
-to a ben me in them days, when I seed things at night aout to sea from the cupalo top o&rsquo;
-my haouse. Oh, I kin tell ye, little pitchers hev big ears, an&rsquo; I wa&rsquo;n&rsquo;t missin&rsquo;
-nothin&rsquo; o&rsquo; what was gossiped abaout Cap&rsquo;n Obed an&rsquo; the folks aout to
-the reef! Heh, heh, heh! Haow abaout the night I took my pa&rsquo;s ship&rsquo;s glass up to
-the cupalo an&rsquo; seed the reef a-bristlin&rsquo; thick with shapes that dove off quick soon&rsquo;s
-the moon riz? Obed an&rsquo; the folks was in a dory, but them shapes dove off the far side
-into the deep water an&rsquo; never come up.&nbsp;.&nbsp;.&nbsp;. Haow&rsquo;d ye like to be
-a little shaver alone up in a cupalo a-watchin&rsquo; shapes   as wa&rsquo;n&rsquo;t human
-shapes?  &nbsp;.&nbsp;.&nbsp;. Hey?&nbsp;.&nbsp;.&nbsp;. Heh, heh, heh, heh.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "Heh, heh, heh, heh! Beginnin' to see, hey? Mebbe ye'd like
+to a ben me in them days, when I seed things at night aout to sea from the cupalo top o'
+my haouse. Oh, I kin tell ye, little pitchers hev big ears, an' I wa'n't missin'
+nothin' o' what was gossiped abaout Cap'n Obed an' the folks aout to
+the reef! Heh, heh, heh! Haow abaout the night I took my pa's ship's glass up to
+the cupalo an' seed the reef a-bristlin' thick with shapes that dove off quick soon's
+the moon riz? Obed an' the folks was in a dory, but them shapes dove off the far side
+into the deep water an' never come up. . . . Haow'd ye like to be
+a little shaver alone up in a cupalo a-watchin' shapes   as wa'n't human
+shapes?   . . . Hey? . . . Heh, heh, heh, heh. . . . "  
 
   The old man was getting hysterical, and I began to shiver with a nameless alarm.
 He laid a gnarled claw on my shoulder, and it seemed to me that its shaking was not altogether
 that of mirth.  
 
-  &ldquo;S&rsquo;pose one night ye seed somethin&rsquo; heavy heaved offen Obed&rsquo;s
-dory beyond the reef, an&rsquo; then larned nex&rsquo; day a young feller was missin&rsquo;
-from home? Hey? Did anybody ever see hide or hair o&rsquo; Hiram Gilman agin? Did they? An&rsquo;
-Nick Pierce, an&rsquo; Luelly Waite, an&rsquo; Adoniram Saouthwick, an&rsquo; Henry Garrison?
-Hey? Heh, heh, heh, heh.&nbsp;.&nbsp;.&nbsp;. Shapes talkin&rsquo; sign language with their
-hands&nbsp;.&nbsp;.&nbsp;. them as had reel hands.&nbsp;.&nbsp;.&nbsp;.  
+   "S'pose one night ye seed somethin' heavy heaved offen Obed's
+dory beyond the reef, an' then larned nex' day a young feller was missin'
+from home? Hey? Did anybody ever see hide or hair o' Hiram Gilman agin? Did they? An'
+Nick Pierce, an' Luelly Waite, an' Adoniram Saouthwick, an' Henry Garrison?
+Hey? Heh, heh, heh, heh. . . . Shapes talkin' sign language with their
+hands . . . them as had reel hands. . . .  
 
-  &ldquo;Wal, Sir, that was the time Obed begun to git on his feet agin. Folks
-see his three darters a-wearin&rsquo; gold-like things as nobody&rsquo;d never see on &rsquo;em
-afore, an&rsquo; smoke started comin&rsquo; aout o&rsquo; the refin&rsquo;ry chimbly. Other
-folks were prosp&rsquo;rin&rsquo;, too&mdash;fish begun to swarm into the harbour fit to kill,
-an&rsquo; heaven knows what sized cargoes we begun to ship aout to Newb&rsquo;ryport, Arkham,
-an&rsquo; Boston. &rsquo;Twas then Obed got the ol&rsquo; branch railrud put through. Some Kingsport
-fishermen heerd abaout the ketch an&rsquo; come up in sloops, but they was all lost. Nobody
-never see &rsquo;em agin. An&rsquo; jest then our folks organised the Esoteric Order o&rsquo;
-Dagon, an&rsquo; bought Masonic Hall offen Calvary Commandery for it&nbsp;.&nbsp;.&nbsp;. heh,
-heh, heh! Matt Eliot was a Mason an&rsquo; agin&rsquo; the sellin&rsquo;, but he dropped aout
-o&rsquo; sight jest then.  
+   "Wal, Sir, that was the time Obed begun to git on his feet agin. Folks
+see his three darters a-wearin' gold-like things as nobody'd never see on 'em
+afore, an' smoke started comin' aout o' the refin'ry chimbly. Other
+folks were prosp'rin', too--fish begun to swarm into the harbour fit to kill,
+an' heaven knows what sized cargoes we begun to ship aout to Newb'ryport, Arkham,
+an' Boston. 'Twas then Obed got the ol' branch railrud put through. Some Kingsport
+fishermen heerd abaout the ketch an' come up in sloops, but they was all lost. Nobody
+never see 'em agin. An' jest then our folks organised the Esoteric Order o'
+Dagon, an' bought Masonic Hall offen Calvary Commandery for it . . . heh,
+heh, heh! Matt Eliot was a Mason an' agin' the sellin', but he dropped aout
+o' sight jest then.  
 
-  &ldquo;Remember, I ain&rsquo;t sayin&rsquo; Obed was set on hevin&rsquo; things
-jest like they was on that Kanaky isle. I dun&rsquo;t think he aimed at fust to do no mixin&rsquo;,
-nor raise no younguns to take to the water an&rsquo; turn into fishes with eternal life. He
-wanted them gold things, an&rsquo; was willin&rsquo; to pay heavy, an&rsquo; I guess the   
-others   was satisfied fer a while.&nbsp;.&nbsp;.&nbsp;.  
+   "Remember, I ain't sayin' Obed was set on hevin' things
+jest like they was on that Kanaky isle. I dun't think he aimed at fust to do no mixin',
+nor raise no younguns to take to the water an' turn into fishes with eternal life. He
+wanted them gold things, an' was willin' to pay heavy, an' I guess the   
+others   was satisfied fer a while. . . .  
 
-  &ldquo;Come in &rsquo;forty-six the taown done some lookin&rsquo; an&rsquo;
-thinkin&rsquo; fer itself. Too many folks missin&rsquo;&mdash;too much wild preachin&rsquo;
-at meetin&rsquo; of a Sunday&mdash;too much talk abaout that reef. I guess I done a bit by tellin&rsquo;
-Selectman Mowry what I see from the cupalo. They was a party one night as follered Obed&rsquo;s
-craowd aout to the reef, an&rsquo; I heerd shots betwixt the dories. Nex&rsquo; day Obed an&rsquo;
-thutty-two others was in gaol, with everbody a-wonderin&rsquo; jest what was afoot an&rsquo;
-jest what charge agin&rsquo; &rsquo;em cud be got to holt. God, ef anybody&rsquo;d look&rsquo;d
-ahead&nbsp;.&nbsp;.&nbsp;. a couple o&rsquo; weeks later, when nothin&rsquo; had ben throwed
-into the sea fer that long.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "Come in 'forty-six the taown done some lookin' an'
+thinkin' fer itself. Too many folks missin'--too much wild preachin'
+at meetin' of a Sunday--too much talk abaout that reef. I guess I done a bit by tellin'
+Selectman Mowry what I see from the cupalo. They was a party one night as follered Obed's
+craowd aout to the reef, an' I heerd shots betwixt the dories. Nex' day Obed an'
+thutty-two others was in gaol, with everbody a-wonderin' jest what was afoot an'
+jest what charge agin' 'em cud be got to holt. God, ef anybody'd look'd
+ahead . . . a couple o' weeks later, when nothin' had ben throwed
+into the sea fer that long. . . . "  
 
   Zadok was shewing signs of fright and exhaustion, and I let him keep silence
 for a while, though glancing apprehensively at my watch. The tide had turned and was coming
 in now, and the sound of the waves seemed to arouse him. I was glad of that tide, for at high
 water the fishy smell might not be so bad. Again I strained to catch his whispers.  
 
-  &ldquo;That awful night&nbsp;.&nbsp;.&nbsp;. I seed &rsquo;em&nbsp;.&nbsp;.&nbsp;.
-I was up in the cupalo&nbsp;.&nbsp;.&nbsp;. hordes of &rsquo;em&nbsp;.&nbsp;.&nbsp;. swarms
-of &rsquo;em&nbsp;.&nbsp;.&nbsp;. all over the reef an&rsquo; swimmin&rsquo; up the harbour
-into the Manuxet.&nbsp;.&nbsp;.&nbsp;. God, what happened in the streets of Innsmouth that night&nbsp;.&nbsp;.&nbsp;.
-they rattled our door, but pa wouldn&rsquo;t open&nbsp;.&nbsp;.&nbsp;. then he clumb aout the
-kitchen winder with his musket to find Selectman Mowry an&rsquo; see what he cud do.&nbsp;.&nbsp;.&nbsp;.
-Maounds o&rsquo; the dead an&rsquo; the dyin&rsquo;&nbsp;.&nbsp;.&nbsp;. shots an&rsquo; screams&nbsp;.&nbsp;.&nbsp;.
-shaoutin&rsquo; in Ol&rsquo; Squar an&rsquo; Taown Squar an&rsquo; New Church Green&nbsp;.&nbsp;.&nbsp;.
-gaol throwed open&nbsp;.&nbsp;.&nbsp;. proclamation&nbsp;.&nbsp;.&nbsp;. treason&nbsp;.&nbsp;.&nbsp;.
-called it the plague when folks come in an&rsquo; faound haff our people missin&rsquo;&nbsp;.&nbsp;.&nbsp;.
-nobody left but them as ud jine in with Obed an&rsquo; them things or else keep quiet&nbsp;.&nbsp;.&nbsp;.
-never heerd o&rsquo; my pa no more.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "That awful night . . . I seed 'em . . .
+I was up in the cupalo . . . hordes of 'em . . . swarms
+of 'em . . . all over the reef an' swimmin' up the harbour
+into the Manuxet. . . . God, what happened in the streets of Innsmouth that night . . .
+they rattled our door, but pa wouldn't open . . . then he clumb aout the
+kitchen winder with his musket to find Selectman Mowry an' see what he cud do. . . .
+Maounds o' the dead an' the dyin' . . . shots an' screams . . .
+shaoutin' in Ol' Squar an' Taown Squar an' New Church Green . . .
+gaol throwed open . . . proclamation . . . treason . . .
+called it the plague when folks come in an' faound haff our people missin' . . .
+nobody left but them as ud jine in with Obed an' them things or else keep quiet . . .
+never heerd o' my pa no more. . . . "  
 
   The old man was panting, and perspiring profusely. His grip on my shoulder
 tightened.  
 
-  &ldquo;Everything cleaned up in the mornin&rsquo;&mdash;but they was   traces.  &nbsp;.&nbsp;.&nbsp;.
-Obed he kinder takes charge an&rsquo; says things is goin&rsquo; to be changed&nbsp;.&nbsp;.&nbsp;.
-  others&rsquo;ll   worship with us at meetin&rsquo;-time, an&rsquo; sarten haouses hez got
-to entertain   guests  &nbsp;.&nbsp;.&nbsp;.   they   wanted to mix like they done with the
-Kanakys, an&rsquo; he fer one didn&rsquo;t feel baound to stop &rsquo;em. Far gone, was Obed&nbsp;.&nbsp;.&nbsp;.
-jest like a crazy man on the subjeck. He says they brung us fish an&rsquo; treasure, an&rsquo;
-shud hev what they hankered arter.&nbsp;.&nbsp;.&nbsp;.  
+   "Everything cleaned up in the mornin'--but they was   traces.   . . .
+Obed he kinder takes charge an' says things is goin' to be changed . . .
+  others'll   worship with us at meetin'-time, an' sarten haouses hez got
+to entertain   guests   . . .   they   wanted to mix like they done with the
+Kanakys, an' he fer one didn't feel baound to stop 'em. Far gone, was Obed . . .
+jest like a crazy man on the subjeck. He says they brung us fish an' treasure, an'
+shud hev what they hankered arter. . . .  
 
-  &ldquo;Nothin&rsquo; was to be diff&rsquo;runt on the aoutside, only we was
-to keep shy o&rsquo; strangers ef we knowed what was good fer us. We all hed to take the Oath
-o&rsquo; Dagon, an&rsquo; later on they was secon&rsquo; an&rsquo; third Oaths that some on
-us took. Them as ud help special, ud git special rewards&mdash;gold an&rsquo; sech&mdash; No
-use balkin&rsquo;, fer they was millions of &rsquo;em daown thar. They&rsquo;d ruther not start
-risin&rsquo; an&rsquo; wipin&rsquo; aout humankind, but ef they was gave away an&rsquo; forced
-to, they cud do a lot toward jest that. We didn&rsquo;t hev them old charms to cut &rsquo;em
-off like folks in the Saouth Sea did, an&rsquo; them Kanakys wudn&rsquo;t never give away their
+   "Nothin' was to be diff'runt on the aoutside, only we was
+to keep shy o' strangers ef we knowed what was good fer us. We all hed to take the Oath
+o' Dagon, an' later on they was secon' an' third Oaths that some on
+us took. Them as ud help special, ud git special rewards--gold an' sech-- No
+use balkin', fer they was millions of 'em daown thar. They'd ruther not start
+risin' an' wipin' aout humankind, but ef they was gave away an' forced
+to, they cud do a lot toward jest that. We didn't hev them old charms to cut 'em
+off like folks in the Saouth Sea did, an' them Kanakys wudn't never give away their
 secrets.  
 
-  &ldquo;Yield up enough sacrifices an&rsquo; savage knick-knacks an&rsquo; harbourage
-in the taown when they wanted it, an&rsquo; they&rsquo;d let well enough alone. Wudn&rsquo;t
-bother no strangers as might bear tales aoutside&mdash;that is, withaout they got pryin&rsquo;.
-All in the band of the faithful&mdash;Order o&rsquo; Dagon&mdash;an&rsquo; the children shud
-never die, but go back to the Mother Hydra an&rsquo; Father Dagon what we all come from onct&mdash;  I&auml;!
-I&auml;! Cthulhu fhtagn! Ph&rsquo;nglui mglw&rsquo;nafh Cthulhu R&rsquo;lyeh wgah-nagl fhtagn&mdash;&rdquo;    
+   "Yield up enough sacrifices an' savage knick-knacks an' harbourage
+in the taown when they wanted it, an' they'd let well enough alone. Wudn't
+bother no strangers as might bear tales aoutside--that is, withaout they got pryin'.
+All in the band of the faithful--Order o' Dagon--an' the children shud
+never die, but go back to the Mother Hydra an' Father Dagon what we all come from onct--  I&auml;!
+I&auml;! Cthulhu fhtagn! Ph'nglui mglw'nafh Cthulhu R'lyeh wgah-nagl fhtagn-- "    
 
   Old Zadok was fast lapsing into stark raving, and I held my breath. Poor old
-soul&mdash;to what pitiful depths of hallucination had his liquor, plus his hatred of the decay,
+soul--to what pitiful depths of hallucination had his liquor, plus his hatred of the decay,
 alienage, and disease around him, brought that fertile, imaginative brain! He began to moan
 now, and tears were coursing down his channelled cheeks into the depths of his beard.  
 
-  &ldquo;God, what I seen senct I was fifteen year&rsquo; old&mdash;  Mene,
-mene, tekel, upharsin!  &mdash;the folks as was missin&rsquo;, an&rsquo; them as kilt theirselves&mdash;them
-as told things in Arkham or Ipswich or sech places was all called crazy, like you&rsquo;re a-callin&rsquo;
-me right naow&mdash;but God, what I seen&mdash; They&rsquo;d a kilt me long ago fer what I know,
-only I&rsquo;d took the fust an&rsquo; secon&rsquo; Oaths o&rsquo; Dagon offen Obed, so was
-pertected unlessen a jury of &rsquo;em proved I told things knowin&rsquo; an&rsquo; delib&rsquo;rit&nbsp;.&nbsp;.&nbsp;.
-but I wudn&rsquo;t take the third Oath&mdash;I&rsquo;d a died ruther&rsquo;n take that&mdash;  
+   "God, what I seen senct I was fifteen year' old--  Mene,
+mene, tekel, upharsin!  --the folks as was missin', an' them as kilt theirselves--them
+as told things in Arkham or Ipswich or sech places was all called crazy, like you're a-callin'
+me right naow--but God, what I seen-- They'd a kilt me long ago fer what I know,
+only I'd took the fust an' secon' Oaths o' Dagon offen Obed, so was
+pertected unlessen a jury of 'em proved I told things knowin' an' delib'rit . . .
+but I wudn't take the third Oath--I'd a died ruther'n take that--  
 
-  &ldquo;It got wuss araound Civil War time,   when children born senct &rsquo;forty-six
-begun to grow up  &mdash;some of &rsquo;em, that is. I was afeard&mdash;never did no pryin&rsquo;
-arter that awful night, an&rsquo; never see one of&mdash;  them  &mdash;clost to in all my
-life. That is, never no full-blooded one. I went to the war, an&rsquo; ef I&rsquo;d a had any
-guts or sense I&rsquo;d a never come back, but settled away from here. But folks wrote me things
-wa&rsquo;n&rsquo;t so bad. That, I s&rsquo;pose, was because gov&rsquo;munt draft men was in
-taown arter &rsquo;sixty-three. Arter the war it was jest as bad agin. People begun to fall
-off&mdash;mills an&rsquo; shops shet daown&mdash;shippin&rsquo; stopped an&rsquo; the harbour
-choked up&mdash;railrud give up&mdash;but   they  &nbsp;.&nbsp;.&nbsp;. they never stopped
-swimmin&rsquo; in an&rsquo; aout o&rsquo; the river from that cursed reef o&rsquo; Satan&mdash;an&rsquo;
-more an&rsquo; more attic winders got a-boarded up, an&rsquo; more an&rsquo; more noises was
-heerd in haouses as wa&rsquo;n&rsquo;t s&rsquo;posed to hev nobody in &rsquo;em.&nbsp;.&nbsp;.&nbsp;.  
+   "It got wuss araound Civil War time,   when children born senct 'forty-six
+begun to grow up  --some of 'em, that is. I was afeard--never did no pryin'
+arter that awful night, an' never see one of--  them  --clost to in all my
+life. That is, never no full-blooded one. I went to the war, an' ef I'd a had any
+guts or sense I'd a never come back, but settled away from here. But folks wrote me things
+wa'n't so bad. That, I s'pose, was because gov'munt draft men was in
+taown arter 'sixty-three. Arter the war it was jest as bad agin. People begun to fall
+off--mills an' shops shet daown--shippin' stopped an' the harbour
+choked up--railrud give up--but   they   . . . they never stopped
+swimmin' in an' aout o' the river from that cursed reef o' Satan--an'
+more an' more attic winders got a-boarded up, an' more an' more noises was
+heerd in haouses as wa'n't s'posed to hev nobody in 'em. . . .  
 
-  &ldquo;Folks aoutside hev their stories abaout us&mdash;s&rsquo;pose you&rsquo;ve
-heerd a plenty on &rsquo;em, seein&rsquo; what questions ye ast&mdash;stories abaout things
-they&rsquo;ve seed naow an&rsquo; then, an&rsquo; abaout that queer joolry as still comes in
-from somewhars an&rsquo; ain&rsquo;t quite all melted up&mdash;but nothin&rsquo; never gits
-def&rsquo;nite. Nobody&rsquo;ll believe nothin&rsquo;. They call them gold-like things pirate
-loot, an&rsquo; allaow the Innsmouth folks hez furren blood or is distempered or somethin&rsquo;.
-Besides, them that lives here shoo off as many strangers as they kin, an&rsquo; encourage the
-rest not to git very cur&rsquo;ous, specially raound night time. Beasts balk at the critters&mdash;hosses
-wuss&rsquo;n mules&mdash;but when they got autos that was all right.  
+   "Folks aoutside hev their stories abaout us--s'pose you've
+heerd a plenty on 'em, seein' what questions ye ast--stories abaout things
+they've seed naow an' then, an' abaout that queer joolry as still comes in
+from somewhars an' ain't quite all melted up--but nothin' never gits
+def'nite. Nobody'll believe nothin'. They call them gold-like things pirate
+loot, an' allaow the Innsmouth folks hez furren blood or is distempered or somethin'.
+Besides, them that lives here shoo off as many strangers as they kin, an' encourage the
+rest not to git very cur'ous, specially raound night time. Beasts balk at the critters--hosses
+wuss'n mules--but when they got autos that was all right.  
 
-  &ldquo;In &rsquo;forty-six Cap&rsquo;n Obed took a second wife   that nobody
-in the taown never see  &mdash;some says he didn&rsquo;t want to, but was made to by them
-as he&rsquo;d called in&mdash;had three children by her&mdash;two as disappeared young, but
-one gal as looked like anybody else an&rsquo; was eddicated in Europe. Obed finally got her
-married off by a trick to an Arkham feller as didn&rsquo;t suspect nothin&rsquo;. But nobody
-aoutside&rsquo;ll hev nothin&rsquo; to do with Innsmouth folks naow. Barnabas Marsh that runs
-the refin&rsquo;ry naow is Obed&rsquo;s grandson by his fust wife&mdash;son of Onesiphorus,
-his eldest son,   but his mother was another o&rsquo; them as wa&rsquo;n&rsquo;t never seed
+   "In 'forty-six Cap'n Obed took a second wife   that nobody
+in the taown never see  --some says he didn't want to, but was made to by them
+as he'd called in--had three children by her--two as disappeared young, but
+one gal as looked like anybody else an' was eddicated in Europe. Obed finally got her
+married off by a trick to an Arkham feller as didn't suspect nothin'. But nobody
+aoutside'll hev nothin' to do with Innsmouth folks naow. Barnabas Marsh that runs
+the refin'ry naow is Obed's grandson by his fust wife--son of Onesiphorus,
+his eldest son,   but his mother was another o' them as wa'n't never seed
 aoutdoors.    
 
-  &ldquo;Right naow Barnabas is abaout changed. Can&rsquo;t shet his eyes no
-more, an&rsquo; is all aout o&rsquo; shape. They say he still wears clothes, but he&rsquo;ll
-take to the water soon. Mebbe he&rsquo;s tried it already&mdash;they do sometimes go daown fer
-little spells afore they go fer good. Ain&rsquo;t ben seed abaout in public fer nigh on ten
-year&rsquo;. Dun&rsquo;t know haow his poor wife kin feel&mdash;she come from Ipswich, an&rsquo;
-they nigh lynched Barnabas when he courted her fifty odd year&rsquo; ago. Obed he died in &rsquo;seventy-eight,
-an&rsquo; all the next gen&rsquo;ration is gone naow&mdash;the fust wife&rsquo;s children dead,
-an&rsquo; the rest&nbsp;.&nbsp;.&nbsp;. God knows.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "Right naow Barnabas is abaout changed. Can't shet his eyes no
+more, an' is all aout o' shape. They say he still wears clothes, but he'll
+take to the water soon. Mebbe he's tried it already--they do sometimes go daown fer
+little spells afore they go fer good. Ain't ben seed abaout in public fer nigh on ten
+year'. Dun't know haow his poor wife kin feel--she come from Ipswich, an'
+they nigh lynched Barnabas when he courted her fifty odd year' ago. Obed he died in 'seventy-eight,
+an' all the next gen'ration is gone naow--the fust wife's children dead,
+an' the rest . . . God knows. . . . "  
 
   The sound of the incoming tide was now very insistent, and little by little
-it seemed to change the old man&rsquo;s mood from maudlin tearfulness to watchful fear. He would
+it seemed to change the old man's mood from maudlin tearfulness to watchful fear. He would
 pause now and then to renew those nervous glances over his shoulder or out toward the reef,
 and despite the wild absurdity of his tale, I could not help beginning to share his vague apprehensiveness.
 Zadok now grew shriller, and seemed to be trying to whip up his courage with louder speech.  
 
-  &ldquo;Hey, yew, why dun&rsquo;t ye say somethin&rsquo;? Haow&rsquo;d ye like
-to be livin&rsquo; in a taown like this, with everything a-rottin&rsquo; an&rsquo; a-dyin&rsquo;,
-an&rsquo; boarded-up monsters crawlin&rsquo; an&rsquo; bleatin&rsquo; an&rsquo; barkin&rsquo;
-an&rsquo; hoppin&rsquo; araoun&rsquo; black cellars an&rsquo; attics every way ye turn? Hey?
-Haow&rsquo;d ye like to hear the haowlin&rsquo; night arter night from the churches an&rsquo;
-Order o&rsquo; Dagon Hall,   an&rsquo; know what&rsquo;s doin&rsquo; part o&rsquo; the haowlin&rsquo;?  
-Haow&rsquo;d ye like to hear what comes from that awful reef every May-Eve an&rsquo; Hallowmass?
-Hey? Think the old man&rsquo;s crazy, eh? Wal, Sir,   let me tell ye that ain&rsquo;t the wust!&rdquo;    
+   "Hey, yew, why dun't ye say somethin'? Haow'd ye like
+to be livin' in a taown like this, with everything a-rottin' an' a-dyin',
+an' boarded-up monsters crawlin' an' bleatin' an' barkin'
+an' hoppin' araoun' black cellars an' attics every way ye turn? Hey?
+Haow'd ye like to hear the haowlin' night arter night from the churches an'
+Order o' Dagon Hall,   an' know what's doin' part o' the haowlin'?  
+Haow'd ye like to hear what comes from that awful reef every May-Eve an' Hallowmass?
+Hey? Think the old man's crazy, eh? Wal, Sir,   let me tell ye that ain't the wust! "    
 
   Zadok was really screaming now, and the mad frenzy of his voice disturbed me
 more than I care to own.  
 
-  &ldquo;Curse ye, dun&rsquo;t set thar a-starin&rsquo; at me with them eyes&mdash;I
-tell Obed Marsh he&rsquo;s in hell, an&rsquo; hez got to stay thar! Heh, heh&nbsp;.&nbsp;.&nbsp;.
-in hell, I says! Can&rsquo;t git me&mdash;I hain&rsquo;t done nothin&rsquo; nor told nobody
-nothin&rsquo;&mdash;  
+   "Curse ye, dun't set thar a-starin' at me with them eyes--I
+tell Obed Marsh he's in hell, an' hez got to stay thar! Heh, heh . . .
+in hell, I says! Can't git me--I hain't done nothin' nor told nobody
+nothin'--  
 
-  &ldquo;Oh, you, young feller? Wal, even ef I hain&rsquo;t told nobody nothin&rsquo;
-yet, I&rsquo;m a-goin&rsquo; to naow! You jest set still an&rsquo; listen to me, boy&mdash;this
-is what I ain&rsquo;t never told nobody.&nbsp;.&nbsp;.&nbsp;. I says I didn&rsquo;t do no pryin&rsquo;
-arter that night&mdash;  but I faound things aout jest the same!    
+   "Oh, you, young feller? Wal, even ef I hain't told nobody nothin'
+yet, I'm a-goin' to naow! You jest set still an' listen to me, boy--this
+is what I ain't never told nobody. . . . I says I didn't do no pryin'
+arter that night--  but I faound things aout jest the same!    
 
-  &ldquo;Yew want to know what the reel horror is, hey? Wal, it&rsquo;s this&mdash;it
-ain&rsquo;t what them fish devils   hez done, but what they&rsquo;re a-goin&rsquo; to do!  
-They&rsquo;re a-bringin&rsquo; things up aout o&rsquo; whar they come from into the taown&mdash;ben
-doin&rsquo; it fer years, an&rsquo; slackenin&rsquo; up lately. Them haouses north o&rsquo;
-the river betwixt Water an&rsquo; Main Streets is full of &rsquo;em&mdash;them devils   an&rsquo;
-what they brung  &mdash;an&rsquo; when they git ready.&nbsp;.&nbsp;.&nbsp;. I say,   when
-they git ready  &nbsp;.&nbsp;.&nbsp;. ever hear tell of a   shoggoth?  &nbsp;.&nbsp;.&nbsp;.  
+   "Yew want to know what the reel horror is, hey? Wal, it's this--it
+ain't what them fish devils   hez done, but what they're a-goin' to do!  
+They're a-bringin' things up aout o' whar they come from into the taown--ben
+doin' it fer years, an' slackenin' up lately. Them haouses north o'
+the river betwixt Water an' Main Streets is full of 'em--them devils   an'
+what they brung  --an' when they git ready. . . . I say,   when
+they git ready   . . . ever hear tell of a   shoggoth?   . . .  
 
-  &ldquo;Hey, d&rsquo;ye hear me? I tell ye   I know what them things be  &mdash;  I
-seen &rsquo;em one night when  &nbsp;.&nbsp;.&nbsp;. EH&mdash;AHHHH&mdash;AH! E&rsquo;YAAHHHH.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "Hey, d'ye hear me? I tell ye   I know what them things be  --  I
+seen 'em one night when   . . . EH--AHHHH--AH! E'YAAHHHH. . . . "  
 
-  The hideous suddenness and inhuman frightfulness of the old man&rsquo;s shriek
+  The hideous suddenness and inhuman frightfulness of the old man's shriek
 almost made me faint. His eyes, looking past me toward the malodorous sea, were positively starting
 from his head; while his face was a mask of fear worthy of Greek tragedy. His bony claw dug
 monstrously into my shoulder, and he made no motion as I turned my head to look at whatever
@@ -1226,16 +1226,16 @@ he had glimpsed.
   There was nothing that I could see. Only the incoming tide, with perhaps one
 set of ripples more local than the long-flung line of breakers. But now Zadok was shaking me,
 and I turned back to watch the melting of that fear-frozen face into a chaos of twitching eyelids
-and mumbling gums. Presently his voice came back&mdash;albeit as a trembling whisper.  
+and mumbling gums. Presently his voice came back--albeit as a trembling whisper.  
 
-  &ldquo;  Git aout o&rsquo; here!   Git aout o&rsquo; here!   They seen
-us  &mdash;git aout fer your life! Dun&rsquo;t wait fer nothin&rsquo;&mdash;  they know naow  &mdash;
-Run fer it&mdash;quick&mdash;  aout o&rsquo; this taown  &mdash;&rdquo;  
+   "  Git aout o' here!   Git aout o' here!   They seen
+us  --git aout fer your life! Dun't wait fer nothin'--  they know naow  --
+Run fer it--quick--  aout o' this taown  -- "  
 
   Another heavy wave dashed against the loosening masonry of the bygone wharf,
-and changed the mad ancient&rsquo;s whisper to another inhuman and blood-curdling scream.  
+and changed the mad ancient's whisper to another inhuman and blood-curdling scream.  
 
-  &ldquo;E&mdash;YAAHHHH!&nbsp;.&nbsp;.&nbsp;. YHAAAAAAA!&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "E--YAAHHHH! . . . YHAAAAAAA! . . . "  
 
   Before I could recover my scattered wits he had relaxed his clutch on my shoulder
 and dashed wildly inland toward the street, reeling northward around the ruined warehouse wall.  
@@ -1245,15 +1245,15 @@ Water Street and looked along it toward the north there was no remaining trace o
 
     IV.    
 
-I can hardly describe the mood in which I was left by this harrowing episode&mdash;an
+I can hardly describe the mood in which I was left by this harrowing episode--an
 episode at once mad and pitiful, grotesque and terrifying. The grocery boy had prepared me for
 it, yet the reality left me none the less bewildered and disturbed. Puerile though the story
-was, old Zadok&rsquo;s insane earnestness and horror had communicated to me a mounting unrest
+was, old Zadok's insane earnestness and horror had communicated to me a mounting unrest
 which joined with my earlier sense of loathing for the town and its blight of intangible shadow.  
 
   Later I might sift the tale and extract some nucleus of historic allegory;
-just now I wished to put it out of my head. The hour had grown perilously late&mdash;my watch
-said 7:15, and the Arkham bus left Town Square at eight&mdash;so I tried to give my thoughts
+just now I wished to put it out of my head. The hour had grown perilously late--my watch
+said 7:15, and the Arkham bus left Town Square at eight--so I tried to give my thoughts
 as neutral and practical a cast as possible, meanwhile walking rapidly through the deserted
 streets of gaping roofs and leaning houses toward the hotel where I had checked my valise and
 would find my bus.  
@@ -1266,7 +1266,7 @@ Sargent. Yet I did not hurry too precipitately, for there were architectural det
 at every silent corner; and I could easily, I calculated, cover the necessary distance in a
 half-hour.  
 
-  Studying the grocery youth&rsquo;s map and seeking a route I had not traversed
+  Studying the grocery youth's map and seeking a route I had not traversed
 before, I chose Marsh Street instead of State for my approach to Town Square. Near the corner
 of Fall Street I began to see scattered groups of furtive whisperers, and when I finally reached
 the Square I saw that almost all the loiterers were congregated around the door of the Gilman
@@ -1276,8 +1276,8 @@ on the coach.
 
   The bus, rather early, rattled in with three passengers somewhat before eight,
 and an evil-looking fellow on the sidewalk muttered a few indistinguishable words to the driver.
-Sargent threw out a mail-bag and a roll of newspapers, and entered the hotel; while the passengers&mdash;the
-same men whom I had seen arriving in Newburyport that morning&mdash;shambled to the sidewalk
+Sargent threw out a mail-bag and a roll of newspapers, and entered the hotel; while the passengers--the
+same men whom I had seen arriving in Newburyport that morning--shambled to the sidewalk
 and exchanged some faint guttural words with a loafer in a language I could have sworn was not
 English. I boarded the empty coach and took the same seat I had taken before, but was hardly
 settled before Sargent reappeared and began mumbling in a throaty voice of peculiar repulsiveness.  
@@ -1288,16 +1288,16 @@ journey to Arkham. No, it could not possibly be repaired that night, nor was the
 way of getting transportation out of Innsmouth, either to Arkham or elsewhere. Sargent was sorry,
 but I would have to stop over at the Gilman. Probably the clerk would make the price easy for
 me, but there was nothing else to do. Almost dazed by this sudden obstacle, and violently dreading
-the fall of night in this decaying and half-unlighted town, I left the bus and re&euml;ntered
+the fall of night in this decaying and half-unlighted town, I left the bus and reëntered
 the hotel lobby; where the sullen, queer-looking night clerk told me I could have Room 428 on
-next the top floor&mdash;large, but without running water&mdash;for a dollar.  
+next the top floor--large, but without running water--for a dollar.  
 
   Despite what I had heard of this hotel in Newburyport, I signed the register,
 paid my dollar, let the clerk take my valise, and followed that sour, solitary attendant up
 three creaking flights of stairs past dusty corridors which seemed wholly devoid of life. My
 room, a dismal rear one with two windows and bare, cheap furnishings, overlooked a dingy courtyard
 otherwise hemmed in by low, deserted brick blocks, and commanded a view of decrepit westward-stretching
-roofs with a marshy countryside beyond. At the end of the corridor was a bathroom&mdash;a discouraging
+roofs with a marshy countryside beyond. At the end of the corridor was a bathroom--a discouraging
 relique with ancient marble bowl, tin tub, faint electric light, and musty wooden panelling
 around all the plumbing fixtures.  
 
@@ -1319,11 +1319,11 @@ heard from the aged drunkard did not promise very pleasant dreams, and I felt I 
 image of his wild, watery eyes as far as possible from my imagination.  
 
   Also, I must not dwell on what that factory inspector had told the Newburyport
-ticket-agent about the Gilman House and the voices of its nocturnal tenants&mdash;not on that,
+ticket-agent about the Gilman House and the voices of its nocturnal tenants--not on that,
 nor on the face beneath the tiara in the black church doorway; the face for whose horror my
 conscious mind could not account. It would perhaps have been easier to keep my thoughts from
 disturbing topics had the room not been so gruesomely musty. As it was, the lethal mustiness
-blended hideously with the town&rsquo;s general fishy odour and persistently focussed one&rsquo;s
+blended hideously with the town's general fishy odour and persistently focussed one's
 fancy on death and decay.  
 
   Another thing that disturbed me was the absence of a bolt on the door of my
@@ -1342,8 +1342,8 @@ to connecting rooms, and these I proceeded to fasten.
 with only my coat, collar, and shoes off. Taking a pocket flashlight from my valise, I placed
 it in my trousers, so that I could read my watch if I woke up later in the dark. Drowsiness,
 however, did not come; and when I stopped to analyse my thoughts I found to my disquiet that
-I was really unconsciously listening for something&mdash;listening for something which I dreaded
-but could not name. That inspector&rsquo;s story must have worked on my imagination more deeply
+I was really unconsciously listening for something--listening for something which I dreaded
+but could not name. That inspector's story must have worked on my imagination more deeply
 than I had suspected. Again I tried to read, but found that I made no progress.  
 
   After a time I seemed to hear the stairs and corridors creak at intervals as
@@ -1354,26 +1354,26 @@ queer people, and there had undoubtedly been several disappearances. Was this on
 where travellers were slain for their money? Surely I had no look of excessive prosperity. Or
 were the townsfolk really so resentful about curious visitors? Had my obvious sightseeing, with
 its frequent map-consultations, aroused unfavourable notice? It occurred to me that I must be
-in a highly nervous state to let a few random creakings set me off speculating in this fashion&mdash;but
+in a highly nervous state to let a few random creakings set me off speculating in this fashion--but
 I regretted none the less that I was unarmed.  
 
   At length, feeling a fatigue which had nothing of drowsiness in it, I bolted
 the newly outfitted hall door, turned off the light, and threw myself down on the hard, uneven
-bed&mdash;coat, collar, shoes, and all. In the darkness every faint noise of the night seemed
+bed--coat, collar, shoes, and all. In the darkness every faint noise of the night seemed
 magnified, and a flood of doubly unpleasant thoughts swept over me. I was sorry I had put out
 the light, yet was too tired to rise and turn it on again. Then, after a long, dreary interval,
 and prefaced by a fresh creaking of stairs and corridor, there came that soft, damnably unmistakable
 sound which seemed like a malign fulfilment of all my apprehensions. Without the least shadow
-of a doubt, the lock on my hall door was being tried&mdash;cautiously, furtively, tentatively&mdash;with
+of a doubt, the lock on my hall door was being tried--cautiously, furtively, tentatively--with
 a key.  
 
   My sensations upon recognising this sign of actual peril were perhaps less
 rather than more tumultuous because of my previous vague fears. I had been, albeit without definite
-reason, instinctively on my guard&mdash;and that was to my advantage in the new and real crisis,
+reason, instinctively on my guard--and that was to my advantage in the new and real crisis,
 whatever it might turn out to be. Nevertheless the change in the menace from vague premonition
 to immediate reality was a profound shock, and fell upon me with the force of a genuine blow.
 It never once occurred to me that the fumbling might be a mere mistake. Malign purpose was all
-I could think of, and I kept deathly quiet, awaiting the would-be intruder&rsquo;s next move.  
+I could think of, and I kept deathly quiet, awaiting the would-be intruder's next move.  
 
   After a time the cautious rattling ceased, and I heard the room to the north
 entered with a pass-key. Then the lock of the connecting door to my room was softly tried. The
@@ -1394,21 +1394,21 @@ lobby.
   Rising softly and throwing my flashlight on the switch, I sought to light the
 bulb over my bed in order to choose and pocket some belongings for a swift, valiseless flight.
 Nothing, however, happened; and I saw that the power had been cut off. Clearly, some cryptic,
-evil movement was afoot on a large scale&mdash;just what, I could not say. As I stood pondering
+evil movement was afoot on a large scale--just what, I could not say. As I stood pondering
 with my hand on the now useless switch I heard a muffled creaking on the floor below, and thought
 I could barely distinguish voices in conversation. A moment later I felt less sure that the
 deeper sounds were voices, since the apparent hoarse barkings and loose-syllabled croakings
 bore so little resemblance to recognised human speech. Then I thought with renewed force of
 what the factory inspector had heard in the night in this mouldering and pestilential building.  
 
-  Having filled my pockets with the flashlight&rsquo;s aid, I put on my hat and
-tiptoed to the windows to consider chances of descent. Despite the state&rsquo;s safety regulations
+  Having filled my pockets with the flashlight's aid, I put on my hat and
+tiptoed to the windows to consider chances of descent. Despite the state's safety regulations
 there was no fire escape on this side of the hotel, and I saw that my windows commanded only
 a sheer three-story drop to the cobbled courtyard. On the right and left, however, some ancient
 brick business blocks abutted on the hotel; their slant roofs coming up to a reasonable jumping
 distance from my fourth-story level. To reach either of these lines of buildings I would have
-to be in a room two doors from my own&mdash;in one case on the north and in the other case on
-the south&mdash;and my mind instantly set to work calculating what chances I had of making the
+to be in a room two doors from my own--in one case on the north and in the other case on
+the south--and my mind instantly set to work calculating what chances I had of making the
 transfer.  
 
   I could not, I decided, risk an emergence into the corridor; where my footsteps
@@ -1419,7 +1419,7 @@ as a battering-ram whenever they were set against me. This, I thought, would be 
 to the rickety nature of the house and its fixtures; but I realised I could not do it noiselessly.
 I would have to count on sheer speed, and the chance of getting to a window before any hostile
 forces became co&ouml;rdinated enough to open the right door toward me with a pass-key. My
-own outer door I reinforced by pushing the bureau against it&mdash;little by little, in order
+own outer door I reinforced by pushing the bureau against it--little by little, in order
 to make a minimum of sound.  
 
   I perceived that my chances were very slender, and was fully prepared for any
@@ -1428,16 +1428,16 @@ the task of reaching the ground and escaping from the town. One thing in my favo
 and ruinous state of the abutting buildings, and the number of skylights gaping blackly open
 in each row.  
 
-  Gathering from the grocery boy&rsquo;s map that the best route out of town
+  Gathering from the grocery boy's map that the best route out of town
 was southward, I glanced first at the connecting door on the south side of the room. It was
-designed to open in my direction, hence I saw&mdash;after drawing the bolt and finding other
-fastenings in place&mdash;it was not a favourable one for forcing. Accordingly abandoning it
+designed to open in my direction, hence I saw--after drawing the bolt and finding other
+fastenings in place--it was not a favourable one for forcing. Accordingly abandoning it
 as a route, I cautiously moved the bedstead against it to hamper any attack which might be made
-on it later from the next room. The door on the north was hung to open away from me, and this&mdash;though
-a test proved it to be locked or bolted from the other side&mdash;I knew must be my route. If
+on it later from the next room. The door on the north was hung to open away from me, and this--though
+a test proved it to be locked or bolted from the other side--I knew must be my route. If
 I could gain the roofs of the buildings in Paine Street and descend successfully to the ground
 level, I might perhaps dart through the courtyard and the adjacent or opposite buildings to
-Washington or Bates&mdash;or else emerge in Paine and edge around southward into Washington.
+Washington or Bates--or else emerge in Paine and edge around southward into Washington.
 In any case, I would aim to strike Washington somehow and get quickly out of the Town Square
 region. My preference would be to avoid Paine, since the fire station there might be open all
 night.  
@@ -1459,7 +1459,7 @@ sounds of possible vocal origin approached, and at length a firm knock came at m
 
   For a moment I simply held my breath and waited. Eternities seemed to elapse,
 and the nauseous fishy odour of my environment seemed to mount suddenly and spectacularly. Then
-the knocking was repeated&mdash;continuously, and with growing insistence. I knew that the time
+the knocking was repeated--continuously, and with growing insistence. I knew that the time
 for action had come, and forthwith drew the bolt of the northward connecting door, bracing myself
 for the task of battering it open. The knocking waxed louder, and I hoped that its volume would
 cover the sound of my efforts. At last beginning my attempt, I lunged again and again at the
@@ -1471,19 +1471,19 @@ increased.
 must have heard. Instantly the outside knocking became a violent battering, while keys sounded
 ominously in the hall doors of the rooms on both sides of me. Rushing through the newly opened
 connexion, I succeeded in bolting the northerly hall door before the lock could be turned; but
-even as I did so I heard the hall door of the third room&mdash;the one from whose window I had
-hoped to reach the roof below&mdash;being tried with a pass-key.  
+even as I did so I heard the hall door of the third room--the one from whose window I had
+hoped to reach the roof below--being tried with a pass-key.  
 
   For an instant I felt absolute despair, since my trapping in a chamber with
 no window egress seemed complete. A wave of almost abnormal horror swept over me, and invested
 with a terrible but unexplainable singularity the flashlight-glimpsed dust prints made by the
 intruder who had lately tried my door from this room. Then, with a dazed automatism which persisted
 despite hopelessness, I made for the next connecting door and performed the blind motion of
-pushing at it in an effort to get through and&mdash;granting that fastenings might be as providentially
-intact as in this second room&mdash;bolt the hall door beyond before the lock could be turned
+pushing at it in an effort to get through and--granting that fastenings might be as providentially
+intact as in this second room--bolt the hall door beyond before the lock could be turned
 from outside.  
 
-  Sheer fortunate chance gave me my reprieve&mdash;for the connecting door before
+  Sheer fortunate chance gave me my reprieve--for the connecting door before
 me was not only unlocked but actually ajar. In a second I was through, and had my right knee
 and shoulder against a hall door which was visibly opening inward. My pressure took the opener
 off guard, for the thing shut as I pushed, so that I could slip the well-conditioned bolt as
@@ -1495,7 +1495,7 @@ and I knew that a nearer peril was at hand.
 
   The northward connecting door was wide open, but there was no time to think
 about checking the already turning lock in the hall. All I could do was to shut and bolt the
-open connecting door, as well as its mate on the opposite side&mdash;pushing a bedstead against
+open connecting door, as well as its mate on the opposite side--pushing a bedstead against
 the one and a bureau against the other, and moving a washstand in front of the hall door. I
 must, I saw, trust to such makeshift barriers to shield me till I could get out the window and
 on the roof of the Paine Street block. But even in this acute moment my chief horror was something
@@ -1539,7 +1539,7 @@ so I clambered over the brink and dropped; striking a dusty floor littered with 
 and barrels.  
 
   The place was ghoulish-looking, but I was past minding such impressions and
-made at once for the staircase revealed by my flashlight&mdash;after a hasty glance at my watch,
+made at once for the staircase revealed by my flashlight--after a hasty glance at my watch,
 which shewed the hour to be 2 a.m. The steps creaked, but seemed tolerably sound; and I raced
 down past a barn-like second story to the ground floor. The desolation was complete, and only
 echoes answered my footfalls. At length I reached the lower hall, at one end of which I saw
@@ -1556,7 +1556,7 @@ shut. Resolved to try another building, I groped my way back toward the courtyar
 short when close to the doorway.  
 
   For out of an opened door in the Gilman House a large crowd of doubtful shapes
-was pouring&mdash;lanterns bobbing in the darkness, and horrible croaking voices exchanging
+was pouring--lanterns bobbing in the darkness, and horrible croaking voices exchanging
 low cries in what was certainly not English. The figures moved uncertainly, and I realised to
 my relief that they did not know where I had gone; but for all that they sent a shiver of horror
 through my frame. Their features were indistinguishable, but their crouching, shambling gait
@@ -1584,14 +1584,14 @@ of passing unheeded if forced to encounter any casual wayfarer. At Bates Street 
 a yawning vestibule while two shambling figures crossed in front of me, but was soon on my way
 again and approaching the open space where Eliot Street obliquely crosses Washington at the
 intersection of South. Though I had never seen this space, it had looked dangerous to me on
-the grocery youth&rsquo;s map; since the moonlight would have free play there. There was no
+the grocery youth's map; since the moonlight would have free play there. There was no
 use trying to evade it, for any alternative course would involve detours of possibly disastrous
 visibility and delaying effect. The only thing to do was to cross it boldly and openly; imitating
-the typical shamble of the Innsmouth folk as best I could, and trusting that no one&mdash;or
-at least no pursuer of mine&mdash;would be there.  
+the typical shamble of the Innsmouth folk as best I could, and trusting that no one--or
+at least no pursuer of mine--would be there.  
 
-  Just how fully the pursuit was organised&mdash;and indeed, just what its purpose
-might be&mdash;I could form no idea. There seemed to be unusual activity in the town, but I
+  Just how fully the pursuit was organised--and indeed, just what its purpose
+might be--I could form no idea. There seemed to be unusual activity in the town, but I
 judged that the news of my escape from the Gilman had not yet spread. I would, of course, soon
 have to shift from Washington to some other southward street; for that party from the hotel
 would doubtless be after me. I must have left dust prints in that last old building, revealing
@@ -1606,9 +1606,9 @@ bright moonlight.
 
   My progress was unimpeded, and no fresh sound arose to hint that I had been
 spied. Glancing about me, I involuntarily let my pace slacken for a second to take in the sight
-of the sea, gorgeous in the burning moonlight at the street&rsquo;s end. Far out beyond the
+of the sea, gorgeous in the burning moonlight at the street's end. Far out beyond the
 breakwater was the dim, dark line of Devil Reef, and as I glimpsed it I could not help thinking
-of all the hideous legends I had heard in the last thirty-four hours&mdash;legends which portrayed
+of all the hideous legends I had heard in the last thirty-four hours--legends which portrayed
 this ragged rock as a veritable gateway to realms of unfathomed horror and inconceivable abnormality.  
 
   Then, without warning, I saw the intermittent flashes of light on the distant
@@ -1626,7 +1626,7 @@ or unless some party had landed from a ship on that sinister rock. I now bent to
 the ruinous green; still gazing toward the ocean as it blazed in the spectral summer moonlight,
 and watching the cryptical flashing of those nameless, unexplainable beacons.  
 
-  It was then that the most horrible impression of all was borne in upon me&mdash;the
+  It was then that the most horrible impression of all was borne in upon me--the
 impression which destroyed my last vestige of self-control and set me running frantically southward
 past the yawning black doorways and fishily staring windows of that deserted nightmare street.
 For at a closer glance I saw that the moonlit waters between the reef and the shore were far
@@ -1638,7 +1638,7 @@ formulated.
   My frantic running ceased before I had covered a block, for at my left I began
 to hear something like the hue and cry of organised pursuit. There were footsteps and guttural
 sounds, and a rattling motor wheezed south along Federal Street. In a second all my plans were
-utterly changed&mdash;for if the southward highway were blocked ahead of me, I must clearly
+utterly changed--for if the southward highway were blocked ahead of me, I must clearly
 find another egress from Innsmouth. I paused and drew into a gaping doorway, reflecting how
 lucky I was to have left the moonlit open space before these pursuers came down the parallel
 street.  
@@ -1649,7 +1649,7 @@ simply obeying a general plan of cutting off my escape. This, however, implied t
 leading out of Innsmouth were similarly patrolled; for the denizens could not have known what
 route I intended to take. If this were so, I would have to make my retreat across country away
 from any road; but how could I do that in view of the marshy and creek-riddled nature of all
-the surrounding region? For a moment my brain reeled&mdash;both from sheer hopelessness and
+the surrounding region? For a moment my brain reeled--both from sheer hopelessness and
 from a rapid increase in the omnipresent fishy odour.  
 
   Then I thought of the abandoned railway to Rowley, whose solid line of ballasted,
@@ -1662,11 +1662,11 @@ the town itself; but one could perhaps crawl inconspicuously through the undergr
 rate, it would form my only chance of deliverance, and there was nothing to do but try it.  
 
   Drawing inside the hall of my deserted shelter, I once more consulted the grocery
-boy&rsquo;s map with the aid of the flashlight. The immediate problem was how to reach the ancient
-railway; and I now saw that the safest course was ahead to Babson Street, then west to Lafayette&mdash;there
-edging around but not crossing an open space homologous to the one I had traversed&mdash;and
+boy's map with the aid of the flashlight. The immediate problem was how to reach the ancient
+railway; and I now saw that the safest course was ahead to Babson Street, then west to Lafayette--there
+edging around but not crossing an open space homologous to the one I had traversed--and
 subsequently back northward and westward in a zigzagging line through Lafayette, Bates, Adams,
-and Bank Streets&mdash;the latter skirting the river-gorge&mdash;to the abandoned and dilapidated
+and Bank Streets--the latter skirting the river-gorge--to the abandoned and dilapidated
 station I had seen from my window. My reason for going ahead to Babson was that I wished neither
 to re-cross the earlier open space nor to begin my westward course along a cross street as broad
 as South.  
@@ -1687,24 +1687,24 @@ to detect a fresh distribution of the vague sounds; and upon looking cautiously 
 beheld a motor-car darting across the open space, bound outward along Eliot Street, which there
 intersects both Babson and Lafayette.  
 
-  As I watched&mdash;choked by a sudden rise in the fishy odour after a short
-abatement&mdash;I saw a band of uncouth, crouching shapes loping and shambling in the same direction;
+  As I watched--choked by a sudden rise in the fishy odour after a short
+abatement--I saw a band of uncouth, crouching shapes loping and shambling in the same direction;
 and knew that this must be the party guarding the Ipswich road, since that highway forms an
 extension of Eliot Street. Two of the figures I glimpsed were in voluminous robes, and one wore
 a peaked diadem which glistened whitely in the moonlight. The gait of this figure was so odd
-that it sent a chill through me&mdash;for it seemed to me the creature was almost   hopping.    
+that it sent a chill through me--for it seemed to me the creature was almost   hopping.    
 
   When the last of the band was out of sight I resumed my progress; darting around
 the corner into Lafayette Street, and crossing Eliot very hurriedly lest stragglers of the party
 be still advancing along that thoroughfare. I did hear some croaking and clattering sounds far
 off toward Town Square, but accomplished the passage without disaster. My greatest dread was
-in re-crossing broad and moonlit South Street&mdash;with its seaward view&mdash;and I had to
+in re-crossing broad and moonlit South Street--with its seaward view--and I had to
 nerve myself for the ordeal. Someone might easily be looking, and possible Eliot Street stragglers
 could not fail to glimpse me from either of two points. At the last moment I decided I had better
 slacken my trot and make the crossing as before in the shambling gait of an average Innsmouth
 native.  
 
-  When the view of the water again opened out&mdash;this time on my right&mdash;I
+  When the view of the water again opened out--this time on my right--I
 was half-determined not to look at it at all. I could not, however, resist; but cast a sidelong
 glance as I carefully and imitatively shambled toward the protecting shadows ahead. There was
 no ship visible, as I had half expected there would be. Instead, the first thing which caught
@@ -1718,15 +1718,15 @@ a moment by some merciful breeze, now closed in again with maddening intensity.
 
   I had not quite crossed the street when I heard a muttering band advancing
 along Washington from the north. As they reached the broad open space where I had had my first
-disquieting glimpse of the moonlit water I could see them plainly only a block away&mdash;and
+disquieting glimpse of the moonlit water I could see them plainly only a block away--and
 was horrified by the bestial abnormality of their faces and the dog-like sub-humanness of their
 crouching gait. One man moved in a positively simian way, with long arms frequently touching
-the ground; while another figure&mdash;robed and tiaraed&mdash;seemed to progress in an almost
-hopping fashion. I judged this party to be the one I had seen in the Gilman&rsquo;s courtyard&mdash;the
+the ground; while another figure--robed and tiaraed--seemed to progress in an almost
+hopping fashion. I judged this party to be the one I had seen in the Gilman's courtyard--the
 one, therefore, most closely on my trail. As some of the figures turned to look in my direction
 I was transfixed with fright, yet managed to preserve the casual, shambling gait I had assumed.
 To this day I do not know whether they saw me or not. If they did, my stratagem must have deceived
-them, for they passed on across the moonlit space without varying their course&mdash;meanwhile
+them, for they passed on across the moonlit space without varying their course--meanwhile
 croaking and jabbering in some hateful guttural patois I could not identify.  
 
   Once more in shadow, I resumed my former dog-trot past the leaning and decrepit
@@ -1741,12 +1741,12 @@ in safety.
   No one was stirring in that dead street beside the river-gorge, and the roar
 of the waterfalls quite drowned my footsteps. It was a long dog-trot to the ruined station,
 and the great brick warehouse walls around me seemed somehow more terrifying than the fronts
-of private houses. At last I saw the ancient arcaded station&mdash;or what was left of it&mdash;and
+of private houses. At last I saw the ancient arcaded station--or what was left of it--and
 made directly for the tracks that started from its farther end.  
 
   The rails were rusty but mainly intact, and not more than half the ties had
 rotted away. Walking or running on such a surface was very difficult; but I did my best, and
-on the whole made very fair time. For some distance the line kept on along the gorge&rsquo;s
+on the whole made very fair time. For some distance the line kept on along the gorge's
 brink, but at length I reached the long covered bridge where it crossed the chasm at a dizzy
 height. The condition of this bridge would determine my next step. If humanly possible, I would
 use it; if not, I would have to risk more street wandering and take the nearest intact highway
@@ -1760,7 +1760,7 @@ in the end I risked a desperate jump which fortunately succeeded.
 
   I was glad to see the moonlight again when I emerged from that macabre tunnel.
 The old tracks crossed River Street at grade, and at once veered off into a region increasingly
-rural and with less and less of Innsmouth&rsquo;s abhorrent fishy odour. Here the dense growth
+rural and with less and less of Innsmouth's abhorrent fishy odour. Here the dense growth
 of weeds and briers hindered me and cruelly tore my clothes, but I was none the less glad that
 they were there to give me concealment in case of peril. I knew that much of my route must be
 visible from the Rowley road.  
@@ -1779,12 +1779,12 @@ and I thought of how they must have looked in the old days before the shadow fel
 my gaze circled inland from the town, something less tranquil arrested my notice and held me
 immobile for a second.  
 
-  What I saw&mdash;or fancied I saw&mdash;was a disturbing suggestion of undulant
+  What I saw--or fancied I saw--was a disturbing suggestion of undulant
 motion far to the south; a suggestion which made me conclude that a very large horde must be
 pouring out of the city along the level Ipswich road. The distance was great, and I could distinguish
 nothing in detail; but I did not at all like the look of that moving column. It undulated too
 much, and glistened too brightly in the rays of the now westering moon. There was a suggestion
-of sound, too, though the wind was blowing the other way&mdash;a suggestion of bestial scraping
+of sound, too, though the wind was blowing the other way--a suggestion of bestial scraping
 and bellowing even worse than the muttering of the parties I had lately overheard.  
 
   All sorts of unpleasant conjectures crossed my mind. I thought of those very
@@ -1803,15 +1803,15 @@ the patrols on the other roads be likewise augmented?
 when that damnable fishy odour again waxed dominant. Had the wind suddenly changed eastward,
 so that it blew in from the sea and over the town? It must have, I concluded, since I now began
 to hear shocking guttural murmurs from that hitherto silent direction. There was another sound,
-too&mdash;a kind of wholesale, colossal flopping or pattering which somehow called up images
+too--a kind of wholesale, colossal flopping or pattering which somehow called up images
 of the most detestable sort. It made me think illogically of that unpleasantly undulating column
 on the far-off Ipswich road.  
 
   And then both stench and sounds grew stronger, so that I paused shivering and
-grateful for the cut&rsquo;s protection. It was here, I recalled, that the Rowley road drew
+grateful for the cut's protection. It was here, I recalled, that the Rowley road drew
 so close to the old railway before crossing westward and diverging. Something was coming along
 that road, and I must lie low till its passage and vanishment in the distance. Thank heaven
-these creatures employed no dogs for tracking&mdash;though perhaps that would have been impossible
+these creatures employed no dogs for tracking--though perhaps that would have been impossible
 amidst the omnipresent regional odour. Crouched in the bushes of that sandy cleft I felt reasonably
 safe, even though I knew the searchers would have to cross the track in front of me not much
 more than a hundred yards away. I would be able to see them, but they could not, except by a
@@ -1819,15 +1819,15 @@ malign miracle, see me.
 
   All at once I began dreading to look at them as they passed. I saw the close
 moonlit space where they would surge by, and had curious thoughts about the irredeemable pollution
-of that space. They would perhaps be the worst of all Innsmouth types&mdash;something one would
+of that space. They would perhaps be the worst of all Innsmouth types--something one would
 not care to remember.  
 
   The stench waxed overpowering, and the noises swelled to a bestial babel of
 croaking, baying, and barking without the least suggestion of human speech. Were these indeed
 the voices of my pursuers? Did they have dogs after all? So far I had seen none of the lower
-animals in Innsmouth. That flopping or pattering was monstrous&mdash;I could not look upon the
+animals in Innsmouth. That flopping or pattering was monstrous--I could not look upon the
 degenerate creatures responsible for it. I would keep my eyes shut till the sounds receded toward
-the west. The horde was very close now&mdash;the air foul with their hoarse snarlings, and the
+the west. The horde was very close now--the air foul with their hoarse snarlings, and the
 ground almost shaking with their alien-rhythmed footfalls. My breath nearly ceased to come,
 and I put every ounce of will power into the task of holding my eyelids down.  
 
@@ -1844,36 +1844,36 @@ as to what became of him. Where does madness leave off and reality begin? Is it 
 even my latest fear is sheer delusion?  
 
   But I must try to tell what I thought I saw that night under the mocking yellow
-moon&mdash;saw surging and hopping down the Rowley road in plain sight in front of me as I crouched
+moon--saw surging and hopping down the Rowley road in plain sight in front of me as I crouched
 among the wild brambles of that desolate railway cut. Of course my resolution to keep my eyes
-shut had failed. It was foredoomed to failure&mdash;for who could crouch blindly while a legion
+shut had failed. It was foredoomed to failure--for who could crouch blindly while a legion
 of croaking, baying entities of unknown source flopped noisomely past, scarcely more than a
 hundred yards away?  
 
   I thought I was prepared for the worst, and I really ought to have been prepared
-considering what I had seen before. My other pursuers had been accursedly abnormal&mdash;so
+considering what I had seen before. My other pursuers had been accursedly abnormal--so
 should I not have been ready to face a   strengthening   of the abnormal element; to look
 upon forms in which there was no mixture of the normal at all? I did not open my eyes until
 the raucous clamour came loudly from a point obviously straight ahead. Then I knew that a long
 section of them must be plainly in sight where the sides of the cut flattened out and the road
-crossed the track&mdash;and I could no longer keep myself from sampling whatever horror that
+crossed the track--and I could no longer keep myself from sampling whatever horror that
 leering yellow moon might have to shew.  
 
   It was the end, for whatever remains to me of life on the surface of this earth,
 of every vestige of mental peace and confidence in the integrity of Nature and of the human
-mind. Nothing that I could have imagined&mdash;nothing, even, that I could have gathered had
-I credited old Zadok&rsquo;s crazy tale in the most literal way&mdash;would be in any way comparable
-to the daemoniac, blasphemous reality that I saw&mdash;or believe I saw. I have tried to hint
+mind. Nothing that I could have imagined--nothing, even, that I could have gathered had
+I credited old Zadok's crazy tale in the most literal way--would be in any way comparable
+to the daemoniac, blasphemous reality that I saw--or believe I saw. I have tried to hint
 what it was in order to postpone the horror of writing it down baldly. Can it be possible that
 this planet has actually spawned such things; that human eyes have truly seen, as objective
 flesh, what man has hitherto known only in febrile phantasy and tenuous legend?  
 
-  And yet I saw them in a limitless stream&mdash;flopping, hopping, croaking,
-bleating&mdash;surging inhumanly through the spectral moonlight in a grotesque, malignant saraband
-of fantastic nightmare. And some of them had tall tiaras of that nameless whitish-gold metal&nbsp;.&nbsp;.&nbsp;.
-and some were strangely robed&nbsp;.&nbsp;.&nbsp;. and one, who led the way, was clad in a ghoulishly
-humped black coat and striped trousers, and had a man&rsquo;s felt hat perched on the shapeless
-thing that answered for a head.&nbsp;.&nbsp;.&nbsp;.  
+  And yet I saw them in a limitless stream--flopping, hopping, croaking,
+bleating--surging inhumanly through the spectral moonlight in a grotesque, malignant saraband
+of fantastic nightmare. And some of them had tall tiaras of that nameless whitish-gold metal . . .
+and some were strangely robed . . . and one, who led the way, was clad in a ghoulishly
+humped black coat and striped trousers, and had a man's felt hat perched on the shapeless
+thing that answered for a head. . . .  
 
   I think their predominant colour was a greyish-green, though they had white
 bellies. They were mostly shiny and slippery, but the ridges of their backs were scaly. Their
@@ -1885,11 +1885,11 @@ used for articulate speech, held all the dark shades of expression which their s
 lacked.  
 
   But for all of their monstrousness they were not unfamiliar to me. I knew too
-well what they must be&mdash;for was not the memory of that evil tiara at Newburyport still
-fresh? They were the blasphemous fish-frogs of the nameless design&mdash;living and horrible&mdash;and
+well what they must be--for was not the memory of that evil tiara at Newburyport still
+fresh? They were the blasphemous fish-frogs of the nameless design--living and horrible--and
 as I saw them I knew also of what that humped, tiaraed priest in the black church basement had
 so fearsomely reminded me. Their number was past guessing. It seemed to me that there were limitless
-swarms of them&mdash;and certainly my momentary glimpse could have shewn only the least fraction.
+swarms of them--and certainly my momentary glimpse could have shewn only the least fraction.
 In another instant everything was blotted out by a merciful fit of fainting; the first I had
 ever had.  
 
@@ -1897,59 +1897,59 @@ ever had.
 
 It was a gentle daylight rain that awaked me from my stupor in the brush-grown
 railway cut, and when I staggered out to the roadway ahead I saw no trace of any prints in the
-fresh mud. The fishy odour, too, was gone. Innsmouth&rsquo;s ruined roofs and toppling steeples
+fresh mud. The fishy odour, too, was gone. Innsmouth's ruined roofs and toppling steeples
 loomed up greyly toward the southeast, but not a living creature did I spy in all the desolate
 salt marshes around. My watch was still going, and told me that the hour was past noon.  
 
   The reality of what I had been through was highly uncertain in my mind, but
-I felt that something hideous lay in the background. I must get away from evil-shadowed Innsmouth&mdash;and
+I felt that something hideous lay in the background. I must get away from evil-shadowed Innsmouth--and
 accordingly I began to test my cramped, wearied powers of locomotion. Despite weakness, hunger,
 horror, and bewilderment I found myself after a long time able to walk; so started slowly along the
 muddy road to Rowley. Before evening I was in the village, getting a meal and providing myself
 with presentable clothes. I caught the night train to Arkham, and the next day talked long and
 earnestly with government officials there; a process I later repeated in Boston. With the main
-result of these colloquies the public is now familiar&mdash;and I wish, for normality&rsquo;s
-sake, there were nothing more to tell. Perhaps it is madness that is overtaking me&mdash;yet
-perhaps a greater horror&mdash;or a greater marvel&mdash;is reaching out.  
+result of these colloquies the public is now familiar--and I wish, for normality's
+sake, there were nothing more to tell. Perhaps it is madness that is overtaking me--yet
+perhaps a greater horror--or a greater marvel--is reaching out.  
 
   As may well be imagined, I gave up most of the foreplanned features of the
-rest of my tour&mdash;the scenic, architectural, and antiquarian diversions on which I had counted
+rest of my tour--the scenic, architectural, and antiquarian diversions on which I had counted
 so heavily. Nor did I dare look for that piece of strange jewellery said to be in the Miskatonic
 University Museum. I did, however, improve my stay in Arkham by collecting some genealogical
 notes I had long wished to possess; very rough and hasty data, it is true, but capable of good
 use later on when I might have time to collate and codify them. The curator of the historical
-society there&mdash;Mr. E. Lapham Peabody&mdash;was very courteous about assisting me, and expressed
+society there--Mr. E. Lapham Peabody--was very courteous about assisting me, and expressed
 unusual interest when I told him I was a grandson of Eliza Orne of Arkham, who was born in 1867
 and had married James Williamson of Ohio at the age of seventeen.  
 
   It seemed that a maternal uncle of mine had been there many years before on
-a quest much like my own; and that my grandmother&rsquo;s family was a topic of some local curiosity.
+a quest much like my own; and that my grandmother's family was a topic of some local curiosity.
 There had, Mr. Peabody said, been considerable discussion about the marriage of her father,
 Benjamin Orne, just after the Civil War; since the ancestry of the bride was peculiarly puzzling.
-That bride was understood to have been an orphaned Marsh of New Hampshire&mdash;a cousin of
-the Essex County Marshes&mdash;but her education had been in France and she knew very little
+That bride was understood to have been an orphaned Marsh of New Hampshire--a cousin of
+the Essex County Marshes--but her education had been in France and she knew very little
 of her family. A guardian had deposited funds in a Boston bank to maintain her and her French
-governess; but that guardian&rsquo;s name was unfamiliar to Arkham people, and in time he dropped
-out of sight, so that the governess assumed his role by court appointment. The Frenchwoman&mdash;now
-long dead&mdash;was very taciturn, and there were those who said she could have told more than
+governess; but that guardian's name was unfamiliar to Arkham people, and in time he dropped
+out of sight, so that the governess assumed his role by court appointment. The Frenchwoman--now
+long dead--was very taciturn, and there were those who said she could have told more than
 she did.  
 
   But the most baffling thing was the inability of anyone to place the recorded
-parents of the young woman&mdash;Enoch and Lydia (Meserve) Marsh&mdash;among the known families
-of New Hampshire. Possibly, many suggested, she was the natural daughter of some Marsh of prominence&mdash;she
+parents of the young woman--Enoch and Lydia (Meserve) Marsh--among the known families
+of New Hampshire. Possibly, many suggested, she was the natural daughter of some Marsh of prominence--she
 certainly had the true Marsh eyes. Most of the puzzling was done after her early death, which
-took place at the birth of my grandmother&mdash;her only child. Having formed some disagreeable
+took place at the birth of my grandmother--her only child. Having formed some disagreeable
 impressions connected with the name of Marsh, I did not welcome the news that it belonged on
-my own ancestral tree; nor was I pleased by Mr. Peabody&rsquo;s suggestion that I had the true
+my own ancestral tree; nor was I pleased by Mr. Peabody's suggestion that I had the true
 Marsh eyes myself. However, I was grateful for data which I knew would prove valuable; and took
 copious notes and lists of book references regarding the well-documented Orne family.  
 
   I went directly home to Toledo from Boston, and later spent a month at Maumee
 recuperating from my ordeal. In September I entered Oberlin for my final year, and from then
-till the next June was busy with studies and other wholesome activities&mdash;reminded of the
+till the next June was busy with studies and other wholesome activities--reminded of the
 bygone terror only by occasional official visits from government men in connexion with the campaign
-which my pleas and evidence had started. Around the middle of July&mdash;just a year after the
-Innsmouth experience&mdash;I spent a week with my late mother&rsquo;s family in Cleveland; checking
+which my pleas and evidence had started. Around the middle of July--just a year after the
+Innsmouth experience--I spent a week with my late mother's family in Cleveland; checking
 some of my new genealogical data with the various notes, traditions, and bits of heirloom material
 in existence there, and seeing what kind of connected chart I could construct.  
 
@@ -1959,16 +1959,16 @@ my visiting her parents as a child, although she always welcomed her father when
 Toledo. My Arkham-born grandmother had seemed strange and almost terrifying to me, and I do
 not think I grieved when she disappeared. I was eight years old then, and it was said that she
 had wandered off in grief after the suicide of my uncle Douglas, her eldest son. He had shot
-himself after a trip to New England&mdash;the same trip, no doubt, which had caused him to be
+himself after a trip to New England--the same trip, no doubt, which had caused him to be
 recalled at the Arkham Historical Society.  
 
   This uncle had resembled her, and I had never liked him either. Something about
 the staring, unwinking expression of both of them had given me a vague, unaccountable uneasiness.
 My mother and uncle Walter had not looked like that. They were like their father, though poor
-little cousin Lawrence&mdash;Walter&rsquo;s son&mdash;had been an almost perfect duplicate of
+little cousin Lawrence--Walter's son--had been an almost perfect duplicate of
 his grandmother before his condition took him to the permanent seclusion of a sanitarium at
 Canton. I had not seen him in four years, but my uncle once implied that his state, both mental
-and physical, was very bad. This worry had probably been a major cause of his mother&rsquo;s
+and physical, was very bad. This worry had probably been a major cause of his mother's
 death two years before.  
 
   My grandfather and his widowed son Walter now comprised the Cleveland household,
@@ -1985,14 +1985,14 @@ a measurably heightened feeling of repulsion and alienation. I could not at firs
 the change, but gradually a horrible sort of   comparison   began to obtrude itself on my
 unconscious mind despite the steady refusal of my consciousness to admit even the least suspicion
 of it. It was clear that the typical expression of these faces now suggested something it had
-not suggested before&mdash;something which would bring stark panic if too openly thought of.  
+not suggested before--something which would bring stark panic if too openly thought of.  
 
   But the worst shock came when my uncle shewed me the Orne jewellery in a downtown
 safe-deposit vault. Some of the items were delicate and inspiring enough, but there was one
 box of strange old pieces descended from my mysterious great-grandmother which my uncle was
 almost reluctant to produce. They were, he said, of very grotesque and almost repulsive design,
 and had never to his knowledge been publicly worn; though my grandmother used to enjoy looking
-at them. Vague legends of bad luck clustered around them, and my great-grandmother&rsquo;s French
+at them. Vague legends of bad luck clustered around them, and my great-grandmother's French
 governess had said they ought not to be worn in New England, though it would be quite safe to
 wear them in Europe.  
 
@@ -2006,7 +2006,7 @@ figures of almost unbearable extravagance.
   During this description I had kept a tight rein on my emotions, but my face
 must have betrayed my mounting fears. My uncle looked concerned, and paused in his unwrapping
 to study my countenance. I motioned to him to continue, which he did with renewed signs of reluctance.
-He seemed to expect some demonstration when the first piece&mdash;the tiara&mdash;became visible,
+He seemed to expect some demonstration when the first piece--the tiara--became visible,
 but I doubt if he expected quite what actually happened. I did not expect it, either, for I
 thought I was thoroughly forewarned regarding what the jewellery would turn out to be. What
 I did was to faint silently away, just as I had done in that brier-choked railway cut a year
@@ -2014,14 +2014,14 @@ before.
 
   From that day on my life has been a nightmare of brooding and apprehension,
 nor do I know how much is hideous truth and how much madness. My great-grandmother had been
-a Marsh of unknown source whose husband lived in Arkham&mdash;and did not old Zadok say that
+a Marsh of unknown source whose husband lived in Arkham--and did not old Zadok say that
 the daughter of Obed Marsh by a monstrous mother was married to an Arkham man through a trick?
-What was it the ancient toper had muttered about the likeness of my eyes to Captain Obed&rsquo;s?
+What was it the ancient toper had muttered about the likeness of my eyes to Captain Obed's?
 In Arkham, too, the curator had told me I had the true Marsh eyes. Was Obed Marsh my own great-great-grandfather?
-Who&mdash;or   what  &mdash;then, was my great-great-grandmother? But perhaps this was all
+Who--or   what  --then, was my great-great-grandmother? But perhaps this was all
 madness. Those whitish-gold ornaments might easily have been bought from some Innsmouth sailor
 by the father of my great-grandmother, whoever he was. And that look in the staring-eyed faces
-of my grandmother and self-slain uncle might be sheer fancy on my part&mdash;sheer fancy, bolstered
+of my grandmother and self-slain uncle might be sheer fancy on my part--sheer fancy, bolstered
 up by the Innsmouth shadow which had so darkly coloured my imagination. But why had my uncle
 killed himself after an ancestral quest in New England?  
 
@@ -2032,7 +2032,7 @@ and insidious at first, but increased in frequency and vividness as the weeks we
 watery spaces opened out before me, and I seemed to wander through titanic sunken porticos and
 labyrinths of weedy Cyclopean walls with grotesque fishes as my companions. Then the   other
 shapes   began to appear, filling me with nameless horror the moment I awoke. But during the
-dreams they did not horrify me at all&mdash;I was one with them; wearing their unhuman trappings,
+dreams they did not horrify me at all--I was one with them; wearing their unhuman trappings,
 treading their aqueous ways, and praying monstrously at their evil sea-bottom temples.  
 
   There was much more than I could remember, but even what I did remember each
@@ -2052,20 +2052,20 @@ to resemble my grandmother and uncle Douglas?
   One night I had a frightful dream in which I met my grandmother under the sea.
 She lived in a phosphorescent palace of many terraces, with gardens of strange leprous corals
 and grotesque brachiate efflorescences, and welcomed me with a warmth that may have been sardonic.
-She had changed&mdash;as those who take to the water change&mdash;and told me she had never
+She had changed--as those who take to the water change--and told me she had never
 died. Instead, she had gone to a spot her dead son had learned about, and had leaped to a realm
-whose wonders&mdash;destined for him as well&mdash;he had spurned with a smoking pistol. This
-was to be my realm, too&mdash;I could not escape it. I would never die, but would live with
+whose wonders--destined for him as well--he had spurned with a smoking pistol. This
+was to be my realm, too--I could not escape it. I would never die, but would live with
 those who had lived since before man ever walked the earth.  
 
-  I met also that which had been her grandmother. For eighty thousand years Pth&rsquo;thya-l&rsquo;yi
-had lived in Y&rsquo;ha-nthlei, and thither she had gone back after Obed Marsh was dead. Y&rsquo;ha-nthlei
+  I met also that which had been her grandmother. For eighty thousand years Pth'thya-l'yi
+had lived in Y'ha-nthlei, and thither she had gone back after Obed Marsh was dead. Y'ha-nthlei
 was not destroyed when the upper-earth men shot death into the sea. It was hurt, but not destroyed.
 The Deep Ones could never be destroyed, even though the palaeogean magic of the forgotten Old
 Ones might sometimes check them. For the present they would rest; but some day, if they remembered,
 they would rise again for the tribute Great Cthulhu craved. It would be a city greater than
 Innsmouth next time. They had planned to spread, and had brought up that which would help them,
-but now they must wait once more. For bringing the upper-earth men&rsquo;s death I must do a
+but now they must wait once more. For bringing the upper-earth men's death I must do a
 penance, but that would not be heavy. This was the dream in which I saw a   shoggoth   for
 the first time, and the sight set me awake in a frenzy of screaming. That morning the mirror
 definitely told me I had acquired   the Innsmouth look.    
@@ -2076,10 +2076,10 @@ and I feel queerly drawn toward the unknown sea-deeps instead of fearing them. I
 strange things in sleep, and awake with a kind of exaltation instead of terror. I do not believe
 I need to wait for the full change as most have waited. If I did, my father would probably shut
 me up in a sanitarium as my poor little cousin is shut up. Stupendous and unheard-of splendours
-await me below, and I shall seek them soon.   I&auml;-R&rsquo;lyeh! Cthulhu fhtagn! I&auml;!
-I&auml;!   No, I shall not shoot myself&mdash;I cannot be made to shoot myself!  
+await me below, and I shall seek them soon.   I&auml;-R'lyeh! Cthulhu fhtagn! I&auml;!
+I&auml;!   No, I shall not shoot myself--I cannot be made to shoot myself!  
 
-  I shall plan my cousin&rsquo;s escape from that Canton madhouse, and together
+  I shall plan my cousin's escape from that Canton madhouse, and together
 we shall go to marvel-shadowed Innsmouth. We shall swim out to that brooding reef in the sea
-and dive down through black abysses to Cyclopean and many-columned Y&rsquo;ha-nthlei, and in
+and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei, and in
 that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.  

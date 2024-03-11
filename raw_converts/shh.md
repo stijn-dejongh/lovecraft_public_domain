@@ -12,15 +12,15 @@ bits of those dreams, that men shall not live without rumour of old, strange sec
 that planets tell planets alone in the night. When tales fly thick in the grottoes of tritons,
 and conches in seaweed cities blow wild tunes learned from the Elder Ones, then great eager
 mists flock to heaven laden with lore, and oceanward eyes on the rocks see only a mystic whiteness,
-as if the cliff&rsquo;s rim were the rim of all earth, and the solemn bells of buoys tolled
+as if the cliff's rim were the rim of all earth, and the solemn bells of buoys tolled
 free in the aether of faery.  
 
   Now north of archaic Kingsport the crags climb lofty and curious, terrace on
 terrace, till the northernmost hangs in the sky like a grey frozen wind-cloud. Alone it is,
 a bleak point jutting in limitless space, for there the coast turns sharp where the great Miskatonic
 pours out of the plains past Arkham, bringing woodland legends and little quaint memories of
-New England&rsquo;s hills. The sea-folk in Kingsport look up at that cliff as other sea-folk
-look up at the pole-star, and time the night&rsquo;s watches by the way it hides or shews the
+New England's hills. The sea-folk in Kingsport look up at that cliff as other sea-folk
+look up at the pole-star, and time the night's watches by the way it hides or shews the
 Great Bear, Cassiopeia, and the Dragon. Among them it is one with the firmament, and truly,
 it is hidden from them when the mist hides the stars or the sun. Some of the cliffs they love,
 as that whose grotesque profile they call Father Neptune, or that whose pillared steps they
@@ -31,7 +31,7 @@ there is an ancient house on that cliff, and at evening men see lights in the sm
 
   The ancient house has always been there, and people say One dwells therein
 who talks with the morning mists that come up from the deep, and perhaps sees singular things
-oceanward at those times when the cliff&rsquo;s rim becomes the rim of all earth, and solemn
+oceanward at those times when the cliff's rim becomes the rim of all earth, and solemn
 buoys toll free in the white aether of faery. This they tell from hearsay, for that forbidding
 crag is always unvisited, and natives dislike to train telescopes on it. Summer boarders have
 indeed scanned it with jaunty binoculars, but have never seen more than the grey primeval roof,
@@ -42,14 +42,14 @@ prove their heresy to any real Kingsporter. Even the Terrible Old Man who talks 
 in bottles, buys groceries with centuried Spanish gold, and keeps stone idols in the yard of
 his antediluvian cottage in Water Street can only say these things were the same when his grandfather
 was a boy, and that must have been inconceivable ages ago, when Belcher or Shirley or Pownall
-or Bernard was Governor of His Majesty&rsquo;s Province of the Massachusetts-Bay.  
+or Bernard was Governor of His Majesty's Province of the Massachusetts-Bay.  
 
   Then one summer there came a philosopher into Kingsport. His name was Thomas
 Olney, and he taught ponderous things in a college by Narragansett Bay. With stout wife and
 romping children he came, and his eyes were weary with seeing the same things for many years,
 and thinking the same well-disciplined thoughts. He looked at the mists from the diadem of Father
 Neptune, and tried to walk into their white world of mystery along the titan steps of The Causeway.
-Morning after morning he would lie on the cliffs and look over the world&rsquo;s rim at the
+Morning after morning he would lie on the cliffs and look over the world's rim at the
 cryptical aether beyond, listening to spectral bells and the wild cries of what might have been
 gulls. Then, when the mist would lift and the sea stand out prosy with the smoke of steamers,
 he would sigh and descend to the town, where he loved to thread the narrow olden lanes up and
@@ -60,20 +60,20 @@ and wormy panelling hear the echoes of disquieting soliloquies in the dark small
 
   Of course it was inevitable that Olney should mark the grey unvisited cottage
 in the sky, on that sinister northward crag which is one with the mists and the firmament. Always
-over Kingsport it hung, and always its mystery sounded in whispers through Kingsport&rsquo;s
+over Kingsport it hung, and always its mystery sounded in whispers through Kingsport's
 crooked alleys. The Terrible Old Man wheezed a tale that his father had told him, of lightning
 that shot one night   up from   that peaked cottage to the clouds of higher heaven; and Granny
 Orne, whose tiny gambrel-roofed abode in Ship Street is all covered with moss and ivy, croaked
 over something her grandmother had heard at second-hand, about shapes that flapped out of the
-eastern mists straight into the narrow single door of that unreachable place&mdash;for the door
+eastern mists straight into the narrow single door of that unreachable place--for the door
 is set close to the edge of the crag toward the ocean, and glimpsed only from ships at sea.  
 
-  At length, being avid for new strange things and held back by neither the Kingsporter&rsquo;s
-fear nor the summer boarder&rsquo;s usual indolence, Olney made a very terrible resolve. Despite
-a conservative training&mdash;or because of it, for humdrum lives breed wistful longings of
-the unknown&mdash;he swore a great oath to scale that avoided northern cliff and visit the abnormally
+  At length, being avid for new strange things and held back by neither the Kingsporter's
+fear nor the summer boarder's usual indolence, Olney made a very terrible resolve. Despite
+a conservative training--or because of it, for humdrum lives breed wistful longings of
+the unknown--he swore a great oath to scale that avoided northern cliff and visit the abnormally
 antique grey cottage in the sky. Very plausibly his saner self argued that the place must be
-tenanted by people who reached it from inland along the easier ridge beside the Miskatonic&rsquo;s
+tenanted by people who reached it from inland along the easier ridge beside the Miskatonic's
 estuary. Probably they traded in Arkham, knowing how little Kingsport liked their habitation,
 or perhaps being unable to climb down the cliff on the Kingsport side. Olney walked out along
 the lesser cliffs to where the great crag leaped insolently up to consort with celestial things,
@@ -82,12 +82,12 @@ slope. East and north it rose thousands of feet vertically from the water, so on
 side, inland and toward Arkham, remained.  
 
   One early morning in August Olney set out to find a path to the inaccessible
-pinnacle. He worked northwest along pleasant back roads, past Hooper&rsquo;s Pond and the old
+pinnacle. He worked northwest along pleasant back roads, past Hooper's Pond and the old
 brick powder-house to where the pastures slope up to the ridge above the Miskatonic and give
-a lovely vista of Arkham&rsquo;s white Georgian steeples across leagues of river and meadow.
+a lovely vista of Arkham's white Georgian steeples across leagues of river and meadow.
 Here he found a shady road to Arkham, but no trail at all in the seaward direction he wished.
-Woods and fields crowded up to the high bank of the river&rsquo;s mouth, and bore not a sign
-of man&rsquo;s presence; not even a stone wall or a straying cow, but only the tall grass and
+Woods and fields crowded up to the high bank of the river's mouth, and bore not a sign
+of man's presence; not even a stone wall or a straying cow, but only the tall grass and
 giant trees and tangles of briers that the first Indian might have seen. As he climbed slowly
 east, higher and higher above the estuary on his left and nearer and nearer the sea, he found
 the way growing in difficulty; till he wondered how ever the dwellers in that disliked place
@@ -99,7 +99,7 @@ could just make out the ancient graveyard by the Congregational Hospital, beneat
 said some terrible caves or burrows lurked. Ahead lay sparse grass and scrub blueberry bushes,
 and beyond them the naked rock of the crag and the thin peak of the dreaded grey cottage. Now
 the ridge narrowed, and Olney grew dizzy at his loneness in the sky. South of him the frightful
-precipice above Kingsport, north of him the vertical drop of nearly a mile to the river&rsquo;s
+precipice above Kingsport, north of him the vertical drop of nearly a mile to the river's
 mouth. Suddenly a great chasm opened before him, ten feet deep, so that he had to let himself
 down by his hands and drop to a slanting floor, and then crawl perilously up a natural defile
 in the opposite wall. So this was the way the folk of the uncanny house journeyed betwixt earth
@@ -108,11 +108,11 @@ and sky!
   When he climbed out of the chasm a morning mist was gathering, but he clearly
 saw the lofty and unhallowed cottage ahead; walls as grey as the rock, and high peak standing
 bold against the milky white of the seaward vapours. And he perceived that there was no door
-on this landward end, but only a couple of small lattice windows with dingy bull&rsquo;s-eye
+on this landward end, but only a couple of small lattice windows with dingy bull's-eye
 panes leaded in seventeenth-century fashion. All around him was cloud and chaos, and he could
 see nothing below but the whiteness of illimitable space. He was alone in the sky with this
 queer and very disturbing house; and when he sidled around to the front and saw that the wall
-stood flush with the cliff&rsquo;s edge, so that the single narrow door was not to be reached
+stood flush with the cliff's edge, so that the single narrow door was not to be reached
 save from the empty aether, he felt a distinct terror that altitude could not wholly explain.
 And it was very odd that shingles so worm-eaten could survive, or bricks so crumbled still form
 a standing chimney.  
@@ -152,7 +152,7 @@ the village folk were right in saying he had communed with the mists of the sea 
 of the sky ever since there was any village to watch his taciturn dwelling from the plain below.
 And the day wore on, and still Olney listened to rumours of old times and far places, and heard
 how the Kings of Atlantis fought with the slippery blasphemies that wriggled out of rifts in
-ocean&rsquo;s floor, and how the pillared and weedy temple of Poseidonis is still glimpsed at
+ocean's floor, and how the pillared and weedy temple of Poseidonis is still glimpsed at
 midnight by lost ships, who know by its sight that they are lost. Years of the Titans were recalled,
 but the host grew timid when he spoke of the dim first age of chaos before the gods or even
 the Elder Ones were born, and when only   the other gods   came to dance on the peak of Hatheg-Kla
@@ -177,9 +177,9 @@ not even glance through the peep-hole, but swung the great oak bar and shot the 
 the heavy door and flinging it wide to the stars and the mist.  
 
   And then to the sound of obscure harmonies there floated into that room from
-the deep all the dreams and memories of earth&rsquo;s sunken Mighty Ones. And golden flames
+the deep all the dreams and memories of earth's sunken Mighty Ones. And golden flames
 played about weedy locks, so that Olney was dazzled as he did them homage. Trident-bearing Neptune
-was there, and sportive tritons and fantastic nereids, and upon dolphins&rsquo; backs was balanced
+was there, and sportive tritons and fantastic nereids, and upon dolphins' backs was balanced
 a vast crenulate shell wherein rode the grey and awful form of primal Nodens, Lord of the Great
 Abyss. And the conches of the tritons gave weird blasts, and the nereids made strange sounds
 by striking on the grotesque resonant shells of unknown lurkers in black sea-caves. Then hoary
@@ -189,7 +189,7 @@ reeled that fabulous train, the noise of whose shouting was lost in the echoes o
 
   All night in Kingsport they watched that lofty cliff when the storm and the
 mists gave them glimpses of it, and when toward the small hours the little dim windows went
-dark they whispered of dread and disaster. And Olney&rsquo;s children and stout wife prayed
+dark they whispered of dread and disaster. And Olney's children and stout wife prayed
 to the bland proper god of Baptists, and hoped that the traveller would borrow an umbrella and
 rubbers unless the rain stopped by morning. Then dawn swam dripping and mist-wreathed out of
 the sea, and the buoys tolled solemn in vortices of white aether. And at noon elfin horns rang
@@ -217,16 +217,16 @@ Highlands, where no tall crags tower, and the neighbours are urban and modern.
   But in Kingsport strange tales are abroad, and even the Terrible Old Man admits
 a thing untold by his grandfather. For now, when the wind sweeps boisterous out of the north
 past the high ancient house that is one with the firmament, there is broken at last that ominous
-brooding silence ever before the bane of Kingsport&rsquo;s maritime cotters. And old folk tell
-of pleasing voices heard singing there, and of laughter that swells with joys beyond earth&rsquo;s
+brooding silence ever before the bane of Kingsport's maritime cotters. And old folk tell
+of pleasing voices heard singing there, and of laughter that swells with joys beyond earth's
 joys; and say that at evening the little low windows are brighter than formerly. They say, too,
 that the fierce aurora comes oftener to that spot, shining blue in the north with visions of
 frozen worlds while the crag and the cottage hang black and fantastic against wild coruscations.
 And the mists of the dawn are thicker, and sailors are not quite so sure that all the muffled
 seaward ringing is that of the solemn buoys.  
 
-  Worst of all, though, is the shrivelling of old fears in the hearts of Kingsport&rsquo;s
-young men, who grow prone to listen at night to the north wind&rsquo;s faint distant sounds.
+  Worst of all, though, is the shrivelling of old fears in the hearts of Kingsport's
+young men, who grow prone to listen at night to the north wind's faint distant sounds.
 They swear no harm or pain can inhabit that high peaked cottage, for in the new voices gladness
 beats, and with them the tinkle of laughter and music. What tales the sea-mists may bring to
 that haunted and northernmost pinnacle they do not know, but they long to extract some hint
@@ -250,7 +250,7 @@ in the cold waste and make their dwelling on that evilly appropriate crag so clo
 hills and valleys of quiet simple fisherfolk. This they do not wish, for to plain people things
 not of earth are unwelcome; and besides, the Terrible Old Man often recalls what Olney said
 about a knock that the lone dweller feared, and a shape seen black and inquisitive against the
-mist through those queer translucent windows of leaded bull&rsquo;s-eyes.  
+mist through those queer translucent windows of leaded bull's-eyes.  
 
   All these things, however, the Elder Ones only may decide; and meanwhile the
 morning mist still comes up by that lonely vertiginous peak with the steep ancient house, that
@@ -260,5 +260,5 @@ clouds, full of dreams of dank pastures and caves of leviathan. And when tales f
 the grottoes of tritons, and conches in seaweed cities blow wild tunes learned from the Elder
 Ones, then great eager vapours flock to heaven laden with lore; and Kingsport, nestling uneasy
 on its lesser cliffs below that awesome hanging sentinel of rock, sees oceanward only a mystic
-whiteness, as if the cliff&rsquo;s rim were the rim of all earth, and the solemn bells of the
+whiteness, as if the cliff's rim were the rim of all earth, and the solemn bells of the
 buoys tolled free in the aether of faery.  

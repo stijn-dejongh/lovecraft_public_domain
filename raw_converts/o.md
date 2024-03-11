@@ -12,7 +12,7 @@
             And all his warrior-guests, with shade and form  
             Of witch, and demon, and large coffin-worm,  
             Were long be-nightmared.  
-                &mdash;Keats.    
+                --Keats.    
            
         
      
@@ -24,7 +24,7 @@
 Unhappy is he to whom the memories of childhood bring only fear and sadness. Wretched is he
 who looks back upon lone hours in vast and dismal chambers with brown hangings and maddening
 rows of antique books, or upon awed watches in twilight groves of grotesque, gigantic, and vine-encumbered
-trees that silently wave twisted branches far aloft. Such a lot the gods gave to me&mdash;to
+trees that silently wave twisted branches far aloft. Such a lot the gods gave to me--to
 me, the dazed, the disappointed; the barren, the broken. And yet I am strangely content, and
 cling desperately to those sere memories, when my mind momentarily threatens to reach beyond
 to   the other.    
@@ -49,7 +49,7 @@ skeletons that strowed some of the stone crypts deep down among the foundations.
 associated these things with every-day events, and thought them more natural than the coloured
 pictures of living beings which I found in many of the mouldy books. From such books I learned
 all that I know. No teacher urged or guided me, and I do not recall hearing any human voice
-in all those years&mdash;not even my own; for although I had read of speech, I had never thought
+in all those years--not even my own; for although I had read of speech, I had never thought
 to try to speak aloud. My aspect was a matter equally unthought of, for there were no mirrors
 in the castle, and I merely regarded myself by instinct as akin to the youthful figures I saw
 drawn and painted in the books. I felt conscious of youth because I remembered so little.  
@@ -110,7 +110,7 @@ vague visions I dared not call memories.
   
 Fancying now that I had attained the very pinnacle of the castle, I commenced to rush up the
 few steps beyond the door; but the sudden veiling of the moon by a cloud caused me to stumble,
-and I felt my way more slowly in the dark. It was still very dark when I reached the grating&mdash;which
+and I felt my way more slowly in the dark. It was still very dark when I reached the grating--which
 I tried carefully and found unlocked, but which I did not open for fear of falling from the
 amazing height to which I had climbed. Then the moon came out.  
 
@@ -141,7 +141,7 @@ Over two hours must have passed before I reached what seemed to be my goal, a ve
 castle in a thickly wooded park; maddeningly familiar, yet full of perplexing strangeness to
 me. I saw that the moat was filled in, and that some of the well-known towers were demolished;
 whilst new wings existed to confuse the beholder. But what I observed with chief interest and
-delight were the open windows&mdash;gorgeously ablaze with light and sending forth sound of
+delight were the open windows--gorgeously ablaze with light and sending forth sound of
 the gayest revelry. Advancing to one of these I looked in and saw an oddly dressed company,
 indeed; making merry, and speaking brightly to one another. I had never, seemingly, heard human
 speech before; and could guess only vaguely what was said. Some of the faces seemed to hold
@@ -163,10 +163,10 @@ of the many doors.
 The cries were shocking; and as I stood in the brilliant apartment alone and dazed, listening
 to their vanishing echoes, I trembled at the thought of what might be lurking near me unseen.
 At a casual inspection the room seemed deserted, but when I moved toward one of the alcoves
-I thought I detected a presence there&mdash;a hint of motion beyond the golden-arched doorway
+I thought I detected a presence there--a hint of motion beyond the golden-arched doorway
 leading to another and somewhat similar room. As I approached the arch I began to perceive the
-presence more clearly; and then, with the first and last sound I ever uttered&mdash;a ghastly
-ululation that revolted me almost as poignantly as its noxious cause&mdash;I beheld in full,
+presence more clearly; and then, with the first and last sound I ever uttered--a ghastly
+ululation that revolted me almost as poignantly as its noxious cause--I beheld in full,
 frightful vividness the inconceivable, indescribable, and unmentionable monstrosity which had
 by its simple appearance changed a merry company to a herd of delirious fugitives.  
 
@@ -174,7 +174,7 @@ by its simple appearance changed a merry company to a herd of delirious fugitive
 I cannot even hint what it was like, for it was a compound of all that is unclean, uncanny,
 unwelcome, abnormal, and detestable. It was the ghoulish shade of decay, antiquity, and desolation;
 the putrid, dripping eidolon of unwholesome revelation; the awful baring of that which the merciful
-earth should always hide. God knows it was not of this world&mdash;or no longer of this world&mdash;yet
+earth should always hide. God knows it was not of this world--or no longer of this world--yet
 to my horror I saw in its eaten-away and bone-revealing outlines a leering, abhorrent travesty
 on the human shape; and in its mouldy, disintegrating apparel an unspeakable quality that chilled
 me even more.  

@@ -16,7 +16,7 @@ vault and discovered the thefts, there were left only some phlegmatic rats which
 him as at an alien intruder.  
 
   There had been no accountings since Kishan the old keeper had died many moon-turns
-before, and great was Yalden&rsquo;s dismay to find this emptiness instead of the expected wealth.
+before, and great was Yalden's dismay to find this emptiness instead of the expected wealth.
 The indifference of the small creatures in the cracks between the flagstones could not spread
 itself to him. This was a very grave matter, and would have to be met in a very prompt and serious
 way. Clearly, there was nothing to do but consult Oorn, and Oorn was a highly portentous
@@ -27,7 +27,7 @@ Zeth. It obviously belonged somewhere in the outer abyss, but had blundered into
 suffered capture by the   shamith   priests. The coincidence of Its excessively bizarre aspect
 and Its innate gift of mimicry had impressed the sacred brothers as offering vast possibilities,
 hence in the end they had set It up as a god and an oracle, organising a new brotherhood to serve
-It&mdash;and incidentally to suggest the edicts it should utter and the replies It should give.
+It--and incidentally to suggest the edicts it should utter and the replies It should give.
 Like the Delphi and Dodona of a later world, Oorn grew famous as a giver of judgments and solver of
 riddles; nor did Its essence differ from them save that It lay infinitely earlier in Time, and upon
 an elder world where all things might happen. And now Yalden, being not above the credulousness of
@@ -39,7 +39,7 @@ properly religious, and entered the building acceptably, in a humble manner whic
 progress. According to custom, the guardians of the deity acknowledged his obeisance and pecuniary
 offering, and retired behind heavy curtains to ignite the thuribles. After everything was in
 readiness, Yalden murmured a conventional prayer and bowed low before a curious empty dais studded
-with exotic jewels. For a moment&mdash;as the ritual prescribed&mdash;he stayed in this abased
+with exotic jewels. For a moment--as the ritual prescribed--he stayed in this abased
 position, and when he arose the dais was no longer empty. Unconcernedly munching something the
 priests had given It was a large pudgy creature very hard to describe, and covered with short grey
 fur. Whence It had come in so brief a time only the priests might tell, but the suppliant knew that
@@ -47,15 +47,15 @@ It was Oorn.
 
   Hesitantly Yalden stated his unfortunate mission and asked advice; weaving into
 his discourse the type of flattery which seemed to him most discreet. Then, with anxiety, he
-awaited the oracle&rsquo;s response. Having tidily finished Its food, Oorn raised three small
-reddish eyes to Yalden and uttered certain words in a tone of vast decisiveness:   &ldquo;Gumay
-ere hfotuol leheht teg.&rdquo;   After this It vanished suddenly in a cloud of pink smoke which
+awaited the oracle's response. Having tidily finished Its food, Oorn raised three small
+reddish eyes to Yalden and uttered certain words in a tone of vast decisiveness:    "Gumay
+ere hfotuol leheht teg. "   After this It vanished suddenly in a cloud of pink smoke which
 seemed to issue from behind the curtain where the acolytes were. The acolytes then came forth from
-their hiding-place and spoke to Yalden, saying: &ldquo;Since you have pleased the deity with your
+their hiding-place and spoke to Yalden, saying:  "Since you have pleased the deity with your
 concise statement of a very deplorable state of affairs, we are honored by interpreting its
 directions. The aphorism you heard signifies no less than the equally mystic phrase &lsquo;Go thou
-unto thy destination&rsquo; or more properly speaking, you are to slay the monster-wizard Anathas,
-and replenish the treasury with its fabled hoard.&rdquo;  
+unto thy destination' or more properly speaking, you are to slay the monster-wizard Anathas,
+and replenish the treasury with its fabled hoard. "  
 
   With this Yalden was dismissed from the temple. It may not be said in veracity
 that he was fearless, for in truth, he was openly afraid of the monster Anathas, as were all the
@@ -65,7 +65,7 @@ to dwell.
 
   But the prospect was not without romantic appeal, and Yalden was young and
 consequently unwise. He knew, among other things, that there was always the hope of rescuing some
-feminine victim of the monster&rsquo;s famed and surprising erotic taste. Of the true aspect of
+feminine victim of the monster's famed and surprising erotic taste. Of the true aspect of
 Anathas none could be certain; tales of a widely opposite nature being commonly circulated. Many
 vowed it had been seen from afar in the form of a giant black shadow peculiarly repugnant to human
 taste, while others alleged it was a mound of gelatinous substance that oozed hatefully in the
@@ -94,7 +94,7 @@ directing him on the course he was to follow.
 uninhabited. Not even the hardier of the beasts were to be seen beyond the edge of that final
 plateau which separated him from his goal. Far off, in a purplish haze, rose the mountains amidst
 which dwelt Anathas. It lived not solitary, despite the lonely region around, for strange pets
-resided with it&mdash;some the fabled elder monsters, and others unique beings created by its own
+resided with it--some the fabled elder monsters, and others unique beings created by its own
 fearful craft.  
 
   At the heart of its cave, legend said, Anathas had concealed an enormous hoard of
@@ -106,7 +106,7 @@ strange pattern before the mouth of the cave, as a warning to others.
 
   When, after countless vicissitudes, Yalden came at last into sight of the Cave of
 Winds amid the glistening boulders, he knew indeed that report had not lied concerning the
-isolation of Anathas&rsquo; lair. The cavern-mouth was well-concealed, and over everything an
+isolation of Anathas' lair. The cavern-mouth was well-concealed, and over everything an
 ominous quiet lowered. There was no trace of habitation, save of course the ossuary ornamentation
 in the front yard. With his hand on the sword that had been sanctified by a priest of Oorn, Yalden
 tremblingly advanced. When he had attained the very opening of the lair, he hesitated no longer,
@@ -134,7 +134,7 @@ fiery surface green monstrous salamanders slithered, eyeing the intruder with ma
 speculation. And on the far side rose the stairs of a metal dais, encrusted with jewels, and piled
 high with precious objects; the hoard of the wizard-beast.  
 
-  At sight of this unattainable wealth, Yalden&rsquo;s fervour well-nigh overcame
+  At sight of this unattainable wealth, Yalden's fervour well-nigh overcame
 him; and chaffing at his futility, he searched the sea of flame for some way of crossing. This, he
 soon perceived, was not readily to be found; for in all that glowing crypt there was only a slight
 crescent of flooring near the entrance which a mortal man might hope to walk on. Desperation,
@@ -143,7 +143,7 @@ to die in the quest than to return empty-handed. With teeth set, he started towa
 flame, heedless of what might follow.  
 
   As it was, surprise seared him almost as vehemently as he had expected the flames
-to do&mdash;for with his advance, the glowing floor divided to form a narrow lane of safe cool
+to do--for with his advance, the glowing floor divided to form a narrow lane of safe cool
 earth leading straight to the golden throne. Half dazed, and heedless of whatever might underlie
 such curiously favouring magic, Yalden drew his sword and strode boldly betwixt the walls of flame
 that rose from the rifted pavement. The heat hurt him not at all, and the wyvern-creatures drew
@@ -151,7 +151,7 @@ back, hissing, and did not molest him.
 
   The hoard now glistened close at hand, and Yalden thought of how he would return
 to Zeth, laden with fabulous spoils and worshipped by throngs as a hero. In his joy he forgot to
-wonder at Anathas&rsquo; lax care of its treasures; nor did the very friendly behaviour of the
+wonder at Anathas' lax care of its treasures; nor did the very friendly behaviour of the
 fiery pavement seem in any way remarkable. Even the huge arched opening behind the dais, so oddly
 invisible from across the cavern, failed to disturb him seriously. Only when he had mounted the broad
 stair of the dais and stood ankle-deep amid the bizarre golden reliques of other ages and other

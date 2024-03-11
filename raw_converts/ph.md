@@ -76,7 +76,7 @@ discern the titles. What interested me was the uniform air of archaism as displa
 visible detail. Most of the houses in this region I had found rich in relics of the past, but
 here the antiquity was curiously complete; for in all the room I could not discover a single
 article of definitely post-revolutionary date. Had the furnishings been less humble, the place
-would have been a collector&rsquo;s paradise.  
+would have been a collector's paradise.  
 
   As I surveyed this quaint apartment, I felt an increase in that aversion first
 excited by the bleak exterior of the house. Just what it was that I feared or loathed, I could
@@ -87,7 +87,7 @@ of my curiosity was a book of medium size lying upon the table and presenting su
 aspect that I marvelled at beholding it outside a museum or library. It was bound in leather
 with metal fittings, and was in an excellent state of preservation; being altogether an unusual
 sort of volume to encounter in an abode so lowly. When I opened it to the title page my wonder
-grew even greater, for it proved to be nothing less rare than Pigafetta&rsquo;s account of the
+grew even greater, for it proved to be nothing less rare than Pigafetta's account of the
 Congo region, written in Latin from the notes of the sailor Lopez and printed at Frankfort in
 1598. I had often heard of this work, with its curious illustrations by the brothers De Bry,
 hence for a moment forgot my uneasiness in my desire to turn the pages before me. The engravings
@@ -95,15 +95,15 @@ were indeed interesting, drawn wholly from imagination and careless descriptions
 negroes with white skins and Caucasian features; nor would I soon have closed the book had not
 an exceedingly trivial circumstance upset my tired nerves and revived my sensation of disquiet.
 What annoyed me was merely the persistent way in which the volume tended to fall open of itself
-at Plate XII, which represented in gruesome detail a butcher&rsquo;s shop of the cannibal Anziques.
+at Plate XII, which represented in gruesome detail a butcher's shop of the cannibal Anziques.
 I experienced some shame at my susceptibility to so slight a thing, but the drawing nevertheless
 disturbed me, especially in connexion with some adjacent passages descriptive of Anzique gastronomy.  
 
   I had turned to a neighbouring shelf and was examining its meagre literary
-contents&mdash;an eighteenth-century Bible, a   Pilgrim&rsquo;s Progress   of like period,
+contents--an eighteenth-century Bible, a   Pilgrim's Progress   of like period,
 illustrated with grotesque woodcuts and printed by the almanack-maker Isaiah Thomas, the rotting
-bulk of Cotton Mather&rsquo;s   Magnalia Christi Americana,   and a few other books of evidently
-equal age&mdash;when my attention was aroused by the unmistakable sound of walking in the room
+bulk of Cotton Mather's   Magnalia Christi Americana,   and a few other books of evidently
+equal age--when my attention was aroused by the unmistakable sound of walking in the room
 overhead. At first astonished and startled, considering the lack of response to my recent knocking
 at the door, I immediately afterward concluded that the walker had just awakened from a sound
 sleep; and listened with less surprise as the footsteps sounded on the creaking stairs. The
@@ -133,45 +133,45 @@ respect and ingratiating hospitality. His speech was very curious, an extreme fo
 dialect I had thought long extinct; and I studied it closely as he sat down opposite me for
 conversation.  
 
-  &ldquo;Ketched in the rain, be ye?&rdquo; he greeted. &ldquo;Glad ye was nigh
-the haouse en&rsquo; hed the sense ta come right in. I calc&rsquo;late I was asleep, else I&rsquo;d
-a heerd ye&mdash;I ain&rsquo;t as young as I uster be, an&rsquo; I need a paowerful sight o&rsquo;
-naps naowadays. Trav&rsquo;lin&rsquo; fur? I hain&rsquo;t seed many folks &rsquo;long this rud
-sence they tuk off the Arkham stage.&rdquo;  
+   "Ketched in the rain, be ye? " he greeted.  "Glad ye was nigh
+the haouse en' hed the sense ta come right in. I calc'late I was asleep, else I'd
+a heerd ye--I ain't as young as I uster be, an' I need a paowerful sight o'
+naps naowadays. Trav'lin' fur? I hain't seed many folks 'long this rud
+sence they tuk off the Arkham stage. "  
 
   I replied that I was going to Arkham, and apologised for my rude entry into
 his domicile, whereupon he continued.  
 
-  &ldquo;Glad ta see ye, young Sir&mdash;new faces is scurce arount here, an&rsquo;
-I hain&rsquo;t got much ta cheer me up these days. Guess yew hail from Bosting, don&rsquo;t
-ye? I never ben thar, but I kin tell a taown man when I see &rsquo;im&mdash;we hed one fer deestrick
-schoolmaster in &rsquo;eighty-four, but he quit suddent an&rsquo; no one never heerd on &rsquo;im
-sence&mdash;&rdquo; Here the old man lapsed into a kind of chuckle, and made no explanation
+   "Glad ta see ye, young Sir--new faces is scurce arount here, an'
+I hain't got much ta cheer me up these days. Guess yew hail from Bosting, don't
+ye? I never ben thar, but I kin tell a taown man when I see 'im--we hed one fer deestrick
+schoolmaster in 'eighty-four, but he quit suddent an' no one never heerd on 'im
+sence-- " Here the old man lapsed into a kind of chuckle, and made no explanation
 when I questioned him. He seemed to be in an aboundingly good humour, yet to possess those eccentricities
 which one might guess from his grooming. For some time he rambled on with an almost feverish
-geniality, when it struck me to ask him how he came by so rare a book as Pigafetta&rsquo;s   
+geniality, when it struck me to ask him how he came by so rare a book as Pigafetta's   
 Regnum Congo.   The effect of this volume had not left me, and I felt a certain hesitancy
 in speaking of it; but curiosity overmastered all the vague fears which had steadily accumulated
 since my first glimpse of the house. To my relief, the question did not seem an awkward one;
 for the old man answered freely and volubly.  
 
-  &ldquo;Oh, thet Afriky book? Cap&rsquo;n Ebenezer Holt traded me thet in &rsquo;sixty-eight&mdash;him
-as was kilt in the war.&rdquo; Something about the name of Ebenezer Holt caused me to look up
+   "Oh, thet Afriky book? Cap'n Ebenezer Holt traded me thet in 'sixty-eight--him
+as was kilt in the war. " Something about the name of Ebenezer Holt caused me to look up
 sharply. I had encountered it in my genealogical work, but not in any record since the Revolution.
 I wondered if my host could help me in the task at which I was labouring, and resolved to ask
 him about it later on. He continued.  
 
-  &ldquo;Ebenezer was on a Salem merchantman for years, an&rsquo; picked up a
-sight o&rsquo; queer stuff in every port. He got this in London, I guess&mdash;he uster like
-ter buy things at the shops. I was up ta his haouse onct, on the hill, tradin&rsquo; hosses,
-when I see this book. I relished the picters, so he give it in on a swap. &rsquo;Tis a queer
-book&mdash;here, leave me git on my spectacles&mdash;&rdquo; The old man fumbled among his rags,
+   "Ebenezer was on a Salem merchantman for years, an' picked up a
+sight o' queer stuff in every port. He got this in London, I guess--he uster like
+ter buy things at the shops. I was up ta his haouse onct, on the hill, tradin' hosses,
+when I see this book. I relished the picters, so he give it in on a swap. 'Tis a queer
+book--here, leave me git on my spectacles-- " The old man fumbled among his rags,
 producing a pair of dirty and amazingly antique glasses with small octagonal lenses and steel
 bows. Donning these, he reached for the volume on the table and turned the pages lovingly.  
 
-  &ldquo;Ebenezer cud read a leetle o&rsquo; this&mdash;&rsquo;tis Latin&mdash;but
-I can&rsquo;t. I hed two er three schoolmasters read me a bit, and Passon Clark, him they say
-got draownded in the pond&mdash;kin yew make anything outen it?&rdquo; I told him that I could,
+   "Ebenezer cud read a leetle o' this--'tis Latin--but
+I can't. I hed two er three schoolmasters read me a bit, and Passon Clark, him they say
+got draownded in the pond--kin yew make anything outen it? " I told him that I could,
 and translated for his benefit a paragraph near the beginning. If I erred, he was not scholar
 enough to correct me; for he seemed childishly pleased at my English version. His proximity
 was becoming rather obnoxious, yet I saw no way to escape without offending him. I was amused
@@ -180,33 +180,33 @@ and wondered how much better he could read the few books in English which adorne
 This revelation of simplicity removed much of the ill-defined apprehension I had felt, and I
 smiled as my host rambled on:  
 
-  &ldquo;Queer haow picters kin set a body thinkin&rsquo;. Take this un here
-near the front. Hev yew ever seed trees like thet, with big leaves a-floppin&rsquo; over an&rsquo;
-daown? And them men&mdash;them can&rsquo;t be niggers&mdash;they dew beat all. Kinder like Injuns,
-I guess, even ef they be in Afriky. Some o&rsquo; these here critters looks like monkeys, or
-half monkeys an&rsquo; half men, but I never heerd o&rsquo; nothing like this un.&rdquo; Here
+   "Queer haow picters kin set a body thinkin'. Take this un here
+near the front. Hev yew ever seed trees like thet, with big leaves a-floppin' over an'
+daown? And them men--them can't be niggers--they dew beat all. Kinder like Injuns,
+I guess, even ef they be in Afriky. Some o' these here critters looks like monkeys, or
+half monkeys an' half men, but I never heerd o' nothing like this un. " Here
 he pointed to a fabulous creature of the artist, which one might describe as a sort of dragon
 with the head of an alligator.  
 
-  &ldquo;But naow I&rsquo;ll shew ye the best un&mdash;over here nigh the middle&mdash;&rdquo;
-The old man&rsquo;s speech grew a trifle thicker and his eyes assumed a brighter glow; but his
+   "But naow I'll shew ye the best un--over here nigh the middle-- "
+The old man's speech grew a trifle thicker and his eyes assumed a brighter glow; but his
 fumbling hands, though seemingly clumsier than before, were entirely adequate to their mission.
 The book fell open, almost of its own accord and as if from frequent consultation at this place,
-to the repellent twelfth plate shewing a butcher&rsquo;s shop amongst the Anzique cannibals.
+to the repellent twelfth plate shewing a butcher's shop amongst the Anzique cannibals.
 My sense of restlessness returned, though I did not exhibit it. The especially bizarre thing
-was that the artist had made his Africans look like white men&mdash;the limbs and quarters hanging
+was that the artist had made his Africans look like white men--the limbs and quarters hanging
 about the walls of the shop were ghastly, while the butcher with his axe was hideously incongruous.
 But my host seemed to relish the view as much as I disliked it.  
 
-  &ldquo;What d&rsquo;ye think o&rsquo; this&mdash;ain&rsquo;t never see the
-like hereabouts, eh? When I see this I telled Eb Holt, &lsquo;That&rsquo;s suthin&rsquo; ta
-stir ye up an&rsquo; make yer blood tickle!&rsquo; When I read in Scripter about slayin&rsquo;&mdash;like
-them Midianites was slew&mdash;I kinder think things, but I ain&rsquo;t got no picter of it.
-Here a body kin see all they is to it&mdash;I s&rsquo;pose &rsquo;tis sinful, but ain&rsquo;t
-we all born an&rsquo; livin&rsquo; in sin?&mdash;Thet feller bein&rsquo; chopped up gives me
-a tickle every time I look at &rsquo;im&mdash;I hev ta keep lookin&rsquo; at &rsquo;im&mdash;see
-whar the butcher cut off his feet? Thar&rsquo;s his head on thet bench, with one arm side of
-it, an&rsquo; t&rsquo;other arm&rsquo;s on the graound side o&rsquo; the meat block.&rdquo;  
+   "What d'ye think o' this--ain't never see the
+like hereabouts, eh? When I see this I telled Eb Holt, &lsquo;That's suthin' ta
+stir ye up an' make yer blood tickle!' When I read in Scripter about slayin'--like
+them Midianites was slew--I kinder think things, but I ain't got no picter of it.
+Here a body kin see all they is to it--I s'pose 'tis sinful, but ain't
+we all born an' livin' in sin?--Thet feller bein' chopped up gives me
+a tickle every time I look at 'im--I hev ta keep lookin' at 'im--see
+whar the butcher cut off his feet? Thar's his head on thet bench, with one arm side of
+it, an' t'other arm's on the graound side o' the meat block. "  
 
   As the man mumbled on in his shocking ecstasy the expression on his hairy,
 spectacled face became indescribable, but his voice sank rather than mounted. My own sensations
@@ -215,33 +215,33 @@ vividly, and I knew that I loathed the ancient and abhorrent creature so near me
 intensity. His madness, or at least his partial perversion, seemed beyond dispute. He was almost
 whispering now, with a huskiness more terrible than a scream, and I trembled as I listened.  
 
-  &ldquo;As I says, &rsquo;tis queer haow picters sets ye thinkin&rsquo;. D&rsquo;ye
-know, young Sir, I&rsquo;m right sot on this un here. Arter I got the book off Eb I uster look
-at it a lot, especial when I&rsquo;d heerd Passon Clark rant o&rsquo; Sundays in his big wig.
-Onct I tried suthin&rsquo; funny&mdash;here, young Sir, don&rsquo;t git skeert&mdash;all I done
-was ter look at the picter afore I kilt the sheep for market&mdash;killin&rsquo; sheep was kinder
-more fun arter lookin&rsquo; at it&mdash;&rdquo; The tone of the old man now sank very low,
+   "As I says, 'tis queer haow picters sets ye thinkin'. D'ye
+know, young Sir, I'm right sot on this un here. Arter I got the book off Eb I uster look
+at it a lot, especial when I'd heerd Passon Clark rant o' Sundays in his big wig.
+Onct I tried suthin' funny--here, young Sir, don't git skeert--all I done
+was ter look at the picter afore I kilt the sheep for market--killin' sheep was kinder
+more fun arter lookin' at it-- " The tone of the old man now sank very low,
 sometimes becoming so faint that his words were hardly audible. I listened to the rain, and
 to the rattling of the bleared, small-paned windows, and marked a rumbling of approaching thunder
 quite unusual for the season. Once a terrific flash and peal shook the frail house to its foundations,
 but the whisperer seemed not to notice it.  
 
-  &ldquo;Killin&rsquo; sheep was kinder more fun&mdash;but d&rsquo;ye know,
-&rsquo;twan&rsquo;t quite   satisfyin&rsquo;.   Queer haow a   cravin&rsquo;   gits a holt on
-ye&mdash; As ye love the Almighty, young man, don&rsquo;t tell nobody, but I swar ter Gawd thet
-picter begun ta make me   hungry fer victuals I couldn&rsquo;t raise nor buy  &mdash;here, set
-still, what&rsquo;s ailin&rsquo; ye?&mdash;I didn&rsquo;t do nothin&rsquo;, only I wondered haow
-&rsquo;twud be ef I   did  &mdash; They say meat makes blood an&rsquo; flesh, an&rsquo; gives ye
-new life, so I wondered ef &rsquo;twudn&rsquo;t make a man live longer an&rsquo; longer ef
-&rsquo;twas   more the same  &mdash;&rdquo; But the whisperer never continued. The interruption
+   "Killin' sheep was kinder more fun--but d'ye know,
+'twan't quite   satisfyin'.   Queer haow a   cravin'   gits a holt on
+ye-- As ye love the Almighty, young man, don't tell nobody, but I swar ter Gawd thet
+picter begun ta make me   hungry fer victuals I couldn't raise nor buy  --here, set
+still, what's ailin' ye?--I didn't do nothin', only I wondered haow
+'twud be ef I   did  -- They say meat makes blood an' flesh, an' gives ye
+new life, so I wondered ef 'twudn't make a man live longer an' longer ef
+'twas   more the same  -- " But the whisperer never continued. The interruption
 was not produced by my fright, nor by the rapidly increasing storm amidst whose fury I was
 presently to open my eyes on a smoky solitude of blackened ruins. It was produced by a very simple
 though somewhat unusual happening.  
 
   The open book lay flat between us, with the picture staring repulsively upward.
-As the old man whispered the words   &ldquo;more the same&rdquo;   a tiny spattering impact
+As the old man whispered the words    "more the same "   a tiny spattering impact
 was heard, and something shewed on the yellowed paper of the upturned volume. I thought of the
-rain and of a leaky roof, but rain is not red. On the butcher&rsquo;s shop of the Anzique cannibals
+rain and of a leaky roof, but rain is not red. On the butcher's shop of the Anzique cannibals
 a small red spattering glistened picturesquely, lending vividness to the horror of the engraving.
 The old man saw it, and stopped whispering even before my expression of horror made it necessary;
 saw it and glanced quickly toward the floor of the room he had left an hour before. I followed

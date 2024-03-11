@@ -169,7 +169,7 @@ the reason for their departing.
 open and emptied forth a frenzied throng that blackened the plain, so that all the visiting
 princes and travellers fled away in fright. For on the faces of this throng was writ a madness
 born of horror unendurable, and on their tongues were words so terrible that no hearer paused
-for proof. Men whose eyes were wild with fear shrieked aloud of the sight within the king&rsquo;s
+for proof. Men whose eyes were wild with fear shrieked aloud of the sight within the king's
 banquet-hall, where through the windows were seen no longer the forms of Nargis-Hei and his
 nobles and slaves, but a horde of indescribable green voiceless things with bulging eyes, pouting,
 flabby lips, and curious ears; things which danced horribly, bearing in their paws golden platters

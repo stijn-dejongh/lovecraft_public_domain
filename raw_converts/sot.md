@@ -10,7 +10,7 @@
 After twenty-two years of nightmare and terror, saved only by a desperate conviction of the
 mythical source of certain impressions, I am unwilling to vouch for the truth of that which
 I think I found in Western Australia on the night of July 17&ndash;18, 1935. There is reason
-to hope that my experience was wholly or partly an hallucination&mdash;for which, indeed, abundant
+to hope that my experience was wholly or partly an hallucination--for which, indeed, abundant
 causes existed. And yet, its realism was so hideous that I sometimes find hope impossible. If
 the thing did happen, then man must be prepared to accept notions of the cosmos, and of his
 own place in the seething vortex of time, whose merest mention is paralysing. He must, too,
@@ -23,41 +23,41 @@ set out to investigate.
   Assuming that I was sane and awake, my experience on that night was such as
 has befallen no man before. It was, moreover, a frightful confirmation of all I had sought to
 dismiss as myth and dream. Mercifully there is no proof, for in my fright I lost the awesome
-object which would&mdash;if real and brought out of that noxious abyss&mdash;have formed irrefutable
-evidence. When I came upon the horror I was alone&mdash;and I have up to now told no one about
+object which would--if real and brought out of that noxious abyss--have formed irrefutable
+evidence. When I came upon the horror I was alone--and I have up to now told no one about
 it. I could not stop the others from digging in its direction, but chance and the shifting sand
-have so far saved them from finding it. Now I must formulate some definitive statement&mdash;not
+have so far saved them from finding it. Now I must formulate some definitive statement--not
 only for the sake of my own mental balance, but to warn such others as may read it seriously.  
 
-  These pages&mdash;much in whose earlier parts will be familiar to close readers
-of the general and scientific press&mdash;are written in the cabin of the ship that is bringing
-me home. I shall give them to my son, Prof. Wingate Peaslee of Miskatonic University&mdash;the
+  These pages--much in whose earlier parts will be familiar to close readers
+of the general and scientific press--are written in the cabin of the ship that is bringing
+me home. I shall give them to my son, Prof. Wingate Peaslee of Miskatonic University--the
 only member of my family who stuck to me after my queer amnesia of long ago, and the man best
 informed on the inner facts of my case. Of all living persons, he is least likely to ridicule
 what I shall tell of that fateful night. I did not enlighten him orally before sailing, because
 I think he had better have the revelation in written form. Reading and re-reading at leisure
 will leave with him a more convincing picture than my confused tongue could hope to convey.
-He can do as he thinks best with this account&mdash;shewing it, with suitable comment, to any
+He can do as he thinks best with this account--shewing it, with suitable comment, to any
 quarters where it will be likely to accomplish good. It is for the sake of such readers as are
 unfamiliar with the earlier phases of my case that I am prefacing the revelation itself with
 a fairly ample summary of its background.  
 
   My name is Nathaniel Wingate Peaslee, and those who recall the newspaper tales
-of a generation back&mdash;or the letters and articles in psychological journals six or seven
-years ago&mdash;will know who and what I am. The press was filled with the details of my strange
+of a generation back--or the letters and articles in psychological journals six or seven
+years ago--will know who and what I am. The press was filled with the details of my strange
 amnesia in 1908&ndash;13, and much was made of the traditions of horror, madness, and witchcraft
 which lurk behind the ancient Massachusetts town then and now forming my place of residence.
 Yet I would have it known that there is nothing whatever of the mad or sinister in my heredity
 and early life. This is a highly important fact in view of the shadow which fell so suddenly
 upon me from   outside   sources. It may be that centuries of dark brooding had given to
-crumbling, whisper-haunted Arkham a peculiar vulnerability as regards such shadows&mdash;though
+crumbling, whisper-haunted Arkham a peculiar vulnerability as regards such shadows--though
 even this seems doubtful in the light of those other cases which I later came to study. But
 the chief point is that my own ancestry and background are altogether normal. What came, came
-from   somewhere else  &mdash;where, I even now hesitate to assert in plain words.  
+from   somewhere else  --where, I even now hesitate to assert in plain words.  
 
   I am the son of Jonathan and Hannah (Wingate) Peaslee, both of wholesome old
-Haverhill stock. I was born and reared in Haverhill&mdash;at the old homestead in Boardman Street
-near Golden Hill&mdash;and did not go to Arkham till I entered Miskatonic University at the
+Haverhill stock. I was born and reared in Haverhill--at the old homestead in Boardman Street
+near Golden Hill--and did not go to Arkham till I entered Miskatonic University at the
 age of eighteen. That was in 1889. After my graduation I studied economics at Harvard, and came
 back to Miskatonic as Instructor of Political Economy in 1895. For thirteen years more my life
 ran smoothly and happily. I married Alice Keezar of Haverhill in 1896, and my three children,
@@ -67,12 +67,12 @@ either occultism or abnormal psychology.
 
   It was on Thursday, May 14, 1908, that the queer amnesia came. The thing was
 quite sudden, though later I realised that certain brief, glimmering visions of several hours
-previous&mdash;chaotic visions which disturbed me greatly because they were so unprecedented&mdash;must
-have formed premonitory symptoms. My head was aching, and I had a singular feeling&mdash;altogether
-new to me&mdash;that someone else was trying to get possession of my thoughts.   
+previous--chaotic visions which disturbed me greatly because they were so unprecedented--must
+have formed premonitory symptoms. My head was aching, and I had a singular feeling--altogether
+new to me--that someone else was trying to get possession of my thoughts.   
 
   The collapse occurred about 10:20 a.m., while I was conducting a class in Political
-Economy VI&mdash;history and present tendencies of economics&mdash;for juniors and a few sophomores.
+Economy VI--history and present tendencies of economics--for juniors and a few sophomores.
 I began to see strange shapes before my eyes, and to feel that I was in a grotesque room other
 than the classroom. My thoughts and speech wandered from my subject, and the students saw that
 something was gravely amiss. Then I slumped down, unconscious in my chair, in a stupor from
@@ -91,9 +91,9 @@ persons around me, and the flexions of my facial muscles were altogether unfamil
 and gropingly, and my diction had a curiously stilted quality, as if I had laboriously learned
 the English language from books. The pronunciation was barbarously alien, whilst the idiom seemed
 to include both scraps of curious archaism and expressions of a wholly incomprehensible cast.
-Of the latter one in particular was very potently&mdash;even terrifiedly&mdash;recalled by the
+Of the latter one in particular was very potently--even terrifiedly--recalled by the
 youngest of the physicians twenty years afterward. For at that late period such a phrase began
-to have an actual currency&mdash;first in England and then in the United States&mdash;and though
+to have an actual currency--first in England and then in the United States--and though
 of much complexity and indisputable newness, it reproduced in every least particular the mystifying
 words of the strange Arkham patient of 1908.  
 
@@ -104,13 +104,13 @@ that my attempts to conceal the lapse had failed, I admitted it openly, and beca
 information of all sorts. Indeed, it seemed to the doctors that I had lost interest in my proper
 personality as soon as I found the case of amnesia accepted as a natural thing. They noticed
 that my chief efforts were to master certain points in history, science, art, language, and
-folklore&mdash;some of them tremendously abstruse, and some childishly simple&mdash;which remained,
+folklore--some of them tremendously abstruse, and some childishly simple--which remained,
 very oddly in many cases, outside my consciousness.  
 
   At the same time they noticed that I had an inexplicable command of many almost
-unknown sorts of knowledge&mdash;a command which I seemed to wish to hide rather than display.
+unknown sorts of knowledge--a command which I seemed to wish to hide rather than display.
 I would inadvertently refer, with casual assurance, to specific events in dim ages outside the
-range of accepted history&mdash;passing off such references as a jest when I saw the surprise
+range of accepted history--passing off such references as a jest when I saw the surprise
 they created. And I had a way of speaking of the future which two or three times caused actual
 fright. These uncanny flashes soon ceased to appear, though some observers laid their vanishment
 more to a certain furtive caution on my part than to any waning of the strange knowledge behind
@@ -121,7 +121,7 @@ age around me; as if I were a studious traveller from a far, foreign land.
 began to arrange for those odd travels, and special courses at American and European universities,
 which evoked so much comment during the next few years. I did not at any time suffer from a
 lack of learned contacts, for my case had a mild celebrity among the psychologists of the period.
-I was lectured upon as a typical example of secondary personality&mdash;even though I seemed
+I was lectured upon as a typical example of secondary personality--even though I seemed
 to puzzle the lecturers now and then with some bizarre symptom or some queer trace of carefully
 veiled mockery.  
 
@@ -140,11 +140,11 @@ which my change aroused. He indeed felt that I was a stranger, but though only e
 held fast to a faith that my proper self would return. When it did return he sought me out,
 and the courts gave me his custody. In succeeding years he helped me with the studies to which
 I was driven, and today at thirty-five he is a professor of psychology at Miskatonic. But I
-do not wonder at the horror I caused&mdash;for certainly, the mind, voice, and facial expression
+do not wonder at the horror I caused--for certainly, the mind, voice, and facial expression
 of the being that awaked on May 15, 1908 were not those of Nathaniel Wingate Peaslee.  
 
   I will not attempt to tell much of my life from 1908 to 1913, since readers
-may glean all the outward essentials&mdash;as I largely had to do&mdash;from files of old newspapers
+may glean all the outward essentials--as I largely had to do--from files of old newspapers
 and scientific journals. I was given charge of my funds, and spent them slowly and on the whole
 wisely, in travel and in study at various centres of learning. My travels, however, were singular
 in the extreme; involving long visits to remote and desolate places. In 1909 I spent a month
@@ -152,7 +152,7 @@ in the Himalayas, and in 1911 aroused much attention through a camel trip into t
 of Arabia. What happened on those journeys I have never been able to learn. During the summer
 of 1912 I chartered a ship and sailed in the Arctic north of Spitzbergen, afterward shewing
 signs of disappointment. Later in that year I spent weeks alone beyond the limits of previous
-or subsequent exploration in the vast limestone cavern systems of western Virginia&mdash;black
+or subsequent exploration in the vast limestone cavern systems of western Virginia--black
 labyrinths so complex that no retracing of my steps could even be considered.  
 
   My sojourns at the universities were marked by abnormally rapid assimilation,
@@ -166,9 +166,9 @@ to minimise displays of this faculty.
   Other ugly reports concerned my intimacy with leaders of occultist groups,
 and scholars suspected of connexion with nameless bands of abhorrent elder-world hierophants.
 These rumours, though never proved at the time, were doubtless stimulated by the known tenor
-of some of my reading&mdash;for the consultation of rare books at libraries cannot be effected
-secretly. There is tangible proof&mdash;in the form of marginal notes&mdash;that I went minutely
-through such things as the Comte d&rsquo;Erlette&rsquo;s   Cultes des Goules,   Ludvig Prinn&rsquo;s
+of some of my reading--for the consultation of rare books at libraries cannot be effected
+secretly. There is tangible proof--in the form of marginal notes--that I went minutely
+through such things as the Comte d'Erlette's   Cultes des Goules,   Ludvig Prinn's
   De Vermis Mysteriis,   the   Unaussprechlichen Kulten   of von Junzt, the surviving
 fragments of the puzzling   Book of Eibon,   and the dreaded   Necronomicon   of the mad
 Arab Abdul Alhazred. Then, too, it is undeniable that a fresh and evil wave of underground cult
@@ -176,26 +176,26 @@ activity set in about the time of my odd mutation.
 
   In the summer of 1913 I began to display signs of ennui and flagging interest,
 and to hint to various associates that a change might soon be expected in me. I spoke of returning
-memories of my earlier life&mdash;though most auditors judged me insincere, since all the recollections
+memories of my earlier life--though most auditors judged me insincere, since all the recollections
 I gave were casual, and such as might have been learned from my old private papers. About the
 middle of August I returned to Arkham and reopened my long-closed house in Crane St. Here I
 installed a mechanism of the most curious aspect, constructed piecemeal by different makers
 of scientific apparatus in Europe and America, and guarded carefully from the sight of anyone
-intelligent enough to analyse it. Those who did see it&mdash;a workman, a servant, and the new
-housekeeper&mdash;say that it was a queer mixture of rods, wheels, and mirrors, though only
+intelligent enough to analyse it. Those who did see it--a workman, a servant, and the new
+housekeeper--say that it was a queer mixture of rods, wheels, and mirrors, though only
 about two feet tall, one foot wide, and one foot thick. The central mirror was circular and
 convex. All this is borne out by such makers of parts as can be located.  
 
   On the evening of Friday, Sept. 26, I dismissed the housekeeper and the maid
 till noon of the next day. Lights burned in the house till late, and a lean, dark, curiously
 foreign-looking man called in an automobile. It was about 1 a.m. that the lights were last seen.
-At 2:15 a.m. a policeman observed the place in darkness, but with the stranger&rsquo;s motor
-still at the curb. By four o&rsquo;clock the motor was certainly gone. It was at six that a
+At 2:15 a.m. a policeman observed the place in darkness, but with the stranger's motor
+still at the curb. By four o'clock the motor was certainly gone. It was at six that a
 hesitant, foreign voice on the telephone asked Dr. Wilson to call at my house and bring me out
-of a peculiar faint. This call&mdash;a long-distance one&mdash;was later traced to a public
+of a peculiar faint. This call--a long-distance one--was later traced to a public
 booth in the North Station in Boston, but no sign of the lean foreigner was ever unearthed.  
 
-  When the doctor reached my house he found me unconscious in the sitting-room&mdash;in
+  When the doctor reached my house he found me unconscious in the sitting-room--in
 an easy-chair with a table drawn up before it. On the polished table-top were scratches shewing
 where some heavy object had rested. The queer machine was gone, nor was anything afterward heard
 of it. Undoubtedly the dark, lean foreigner had taken it away. In the library grate were abundant
@@ -206,16 +206,16 @@ injection it became more regular.
   At 11:15 a.m., Sept. 27, I stirred vigorously, and my hitherto mask-like face
 began to shew signs of expression. Dr. Wilson remarked that the expression was not that of my
 secondary personality, but seemed much like that of my normal self. About 11:30 I muttered some
-very curious syllables&mdash;syllables which seemed unrelated to any human speech. I appeared,
-too, to struggle against something. Then, just after noon&mdash;the housekeeper and the maid
-having meanwhile returned&mdash;I began to mutter in English.  
+very curious syllables--syllables which seemed unrelated to any human speech. I appeared,
+too, to struggle against something. Then, just after noon--the housekeeper and the maid
+having meanwhile returned--I began to mutter in English.  
 
-  &ldquo;.&nbsp;.&nbsp;. of the orthodox economists of that period, Jevons typifies
+   ". . . of the orthodox economists of that period, Jevons typifies
 the prevailing trend toward scientific correlation. His attempt to link the commercial cycle
 of prosperity and depression with the physical cycle of the solar spots forms perhaps the apex
-of&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+of . . . "  
 
-  Nathaniel Wingate Peaslee had come back&mdash;a spirit in whose time-scale
+  Nathaniel Wingate Peaslee had come back--a spirit in whose time-scale
 it was still that Thursday morning in 1908, with the economics class gazing up at the battered
 desk on the platform.  
 
@@ -225,41 +225,41 @@ My reabsorption into normal life was a painful and difficult process. The loss o
 years creates more complications than can be imagined, and in my case there were countless matters
 to be adjusted. What I heard of my actions since 1908 astonished and disturbed me, but I tried
 to view the matter as philosophically as I could. At last regaining custody of my second son
-Wingate, I settled down with him in the Crane Street house and endeavoured to resume teaching&mdash;my
+Wingate, I settled down with him in the Crane Street house and endeavoured to resume teaching--my
 old professorship having been kindly offered me by the college.  
 
   I began work with the February, 1914, term, and kept at it just a year. By
-that time I realised how badly my experience had shaken me. Though perfectly sane&mdash;I hoped&mdash;and
+that time I realised how badly my experience had shaken me. Though perfectly sane--I hoped--and
 with no flaw in my original personality, I had not the nervous energy of the old days. Vague
 dreams and queer ideas continually haunted me, and when the outbreak of the world war turned
 my mind to history I found myself thinking of periods and events in the oddest possible fashion.
-My conception of   time  &mdash;my ability to distinguish between consecutiveness and simultaneousness&mdash;seemed
-subtly disordered; so that I formed chimerical notions about living in one age and casting one&rsquo;s
+My conception of   time  --my ability to distinguish between consecutiveness and simultaneousness--seemed
+subtly disordered; so that I formed chimerical notions about living in one age and casting one's
 mind all over eternity for knowledge of past and future ages.  
 
   The war gave me strange impressions of   remembering   some of its far-off
-  consequences  &mdash;as if I knew how it was coming out and could look   back   upon
+  consequences  --as if I knew how it was coming out and could look   back   upon
 it in the light of future information. All such quasi-memories were attended with much pain,
 and with a feeling that some artificial psychological barrier was set against them. When I diffidently
 hinted to others about my impressions I met with varied responses. Some persons looked uncomfortably
 at me, but men in the mathematics department spoke of new developments in those theories of
-relativity&mdash;then discussed only in learned circles&mdash;which were later to become so
+relativity--then discussed only in learned circles--which were later to become so
 famous. Dr. Albert Einstein, they said, was rapidly reducing   time   to the status of a
 mere dimension.  
 
   But the dreams and disturbed feelings gained on me, so that I had to drop my
-regular work in 1915. Certain of the impressions were taking an annoying shape&mdash;giving
+regular work in 1915. Certain of the impressions were taking an annoying shape--giving
 me the persistent notion that my amnesia had formed some unholy sort of   exchange;   that
 the secondary personality had indeed been an intruding force from unknown regions, and that
 my own personality had suffered displacement. Thus I was driven to vague and frightful speculations
 concerning the whereabouts of my true self during the years that another had held my body. The
-curious knowledge and strange conduct of my body&rsquo;s late tenant troubled me more and more
+curious knowledge and strange conduct of my body's late tenant troubled me more and more
 as I learned further details from persons, papers, and magazines. Queernesses that had baffled
 others seemed to harmonise terribly with some background of black knowledge which festered in
 the chasms of my subconscious. I began to search feverishly for every scrap of information bearing
 on the studies and travels of   that other one   during the dark years.  
 
-  Not all of my troubles were as semi-abstract as this. There were the dreams&mdash;and
+  Not all of my troubles were as semi-abstract as this. There were the dreams--and
 these seemed to grow in vividness and concreteness. Knowing how most would regard them, I seldom
 mentioned them to anyone but my son or certain trusted psychologists, but eventually I commenced
 a scientific study of other cases in order to see how typical or non-typical such visions might
@@ -274,17 +274,17 @@ and shocked me with their parallelism to my own experience. Some of them were bi
 folklore; others were case-histories in the annals of medicine; one or two were anecdotes obscurely
 buried in standard histories. It thus appeared that, while my special kind of affliction was
 prodigiously rare, instances of it had occurred at long intervals ever since the beginning of
-man&rsquo;s annals. Some centuries might contain one, two, or three cases; others none&mdash;or
+man's annals. Some centuries might contain one, two, or three cases; others none--or
 at least none whose record survived.  
 
-  The essence was always the same&mdash;a person of keen thoughtfulness seized
+  The essence was always the same--a person of keen thoughtfulness seized
 with a strange secondary life and leading for a greater or lesser period an utterly alien existence
 typified at first by vocal and bodily awkwardness, and later by a wholesale acquisition of scientific,
 historic, artistic, and anthropological knowledge; an acquisition carried on with feverish zest
 and with a wholly abnormal absorptive power. Then a sudden return of the rightful consciousness,
 intermittently plagued ever after with vague unplaceable dreams suggesting fragments of some
 hideous memory elaborately blotted out. And the close resemblance of those nightmares to my
-own&mdash;even in some of the smallest particulars&mdash;left no doubt in my mind of their significantly
+own--even in some of the smallest particulars--left no doubt in my mind of their significantly
 typical nature. One or two of the cases had an added ring of faint, blasphemous familiarity,
 as if I had heard of them before through some cosmic channel too morbid and frightful to contemplate.
 In three instances there was specific mention of such an unknown machine as had been in my house
@@ -293,15 +293,15 @@ before the second change.
   Another thing that cloudily worried me during my investigation was the somewhat
 greater frequency of cases where a brief, elusive glimpse of the typical nightmares was afforded
 to persons not visited with well-defined amnesia. These persons were largely of mediocre mind
-or less&mdash;some so primitive that they could scarcely be thought of as vehicles for abnormal
+or less--some so primitive that they could scarcely be thought of as vehicles for abnormal
 scholarship and preternatural mental acquisitions. For a second they would be fired with alien
-force&mdash;then a backward lapse and a thin, swift-fading memory of un-human horrors.  
+force--then a backward lapse and a thin, swift-fading memory of un-human horrors.  
 
-  There had been at least three such cases during the past half century&mdash;one
+  There had been at least three such cases during the past half century--one
 only fifteen years before. Had something been   groping blindly through time   from some
 unsuspected abyss in Nature? Were these faint cases monstrous, sinister   experiments   of
 a kind and authorship utterly beyond sane belief? Such were a few of the formless speculations
-of my weaker hours&mdash;fancies abetted by myths which my studies uncovered. For I could not
+of my weaker hours--fancies abetted by myths which my studies uncovered. For I could not
 doubt but that certain persistent legends of immemorial antiquity, apparently unknown to the
 victims and physicians connected with recent amnesia cases, formed a striking and awesome elaboration
 of memory lapses such as mine.  
@@ -325,7 +325,7 @@ concerning   myself.   I developed a queer fear of seeing my own form, as if my 
 find it something utterly alien and inconceivably abhorrent. When I did glance down and behold
 the familiar human shape in quiet grey or blue clothing I always felt a curious relief, though
 in order to gain this relief I had to conquer an infinite dread. I shunned mirrors as much as
-possible, and was always shaved at the barber&rsquo;s.  
+possible, and was always shaved at the barber's.  
 
   It was a long time before I correlated any of these disjointed feelings with
 the fleeting visual impressions which began to develop. The first such correlation had to do
@@ -346,7 +346,7 @@ in curvilinear mathematical designs, and there were chiselled inscriptions in th
 that the huge books bore. The dark granite masonry was of a monstrous megalithic type, with
 lines of convex-topped blocks fitting the concave-bottomed courses which rested upon them. There
 were no chairs, but the tops of the vast pedestals were littered with books, papers, and what
-seemed to be writing materials&mdash;oddly figured jars of a purplish metal, and rods with stained
+seemed to be writing materials--oddly figured jars of a purplish metal, and rods with stained
 tips. Tall as the pedestals were, I seemed at times able to view them from above. On some of
 them were great globes of luminous crystal serving as lamps, and inexplicable machines formed
 of vitreous tubes and metal rods. The windows were glazed, and latticed with stout-looking bars.
@@ -380,8 +380,8 @@ not resolve this impression into details.
 above any of the other structures. These appeared to be of a totally unique nature, and shewed
 signs of prodigious age and dilapidation. They were built of a bizarre type of square-cut basalt
 masonry, and tapered slightly toward their rounded tops. Nowhere in any of them could the least
-traces of windows or other apertures save huge doors be found. I noticed also some lower buildings&mdash;all
-crumbling with the weathering of aeons&mdash;which resembled these dark cylindrical towers in
+traces of windows or other apertures save huge doors be found. I noticed also some lower buildings--all
+crumbling with the weathering of aeons--which resembled these dark cylindrical towers in
 basic architecture. Around all these aberrant piles of square-cut masonry there hovered an inexplicable
 aura of menace and concentrated fear, like that bred by the sealed trap-doors.  
 
@@ -399,12 +399,12 @@ on the ground there seemed to be some attempt to preserve the irregularities of 
 on the roofs there was more selectiveness, and more evidences of the topiary art.  
 
   The skies were almost always moist and cloudy, and sometimes I would seem to
-witness tremendous rains. Once in a while, though, there would be glimpses of the sun&mdash;which
-looked abnormally large&mdash;and of the moon, whose markings held a touch of difference from
-the normal that I could never quite fathom. When&mdash;very rarely&mdash;the night sky was clear
+witness tremendous rains. Once in a while, though, there would be glimpses of the sun--which
+looked abnormally large--and of the moon, whose markings held a touch of difference from
+the normal that I could never quite fathom. When--very rarely--the night sky was clear
 to any extent, I beheld constellations which were nearly beyond recognition. Known outlines
 were sometimes approximated, but seldom duplicated; and from the position of the few groups
-I could recognise, I felt I must be in the earth&rsquo;s southern hemisphere, near the Tropic
+I could recognise, I felt I must be in the earth's southern hemisphere, near the Tropic
 of Capricorn. The far horizon was always steamy and indistinct, but I could see that great jungles
 of unknown tree-ferns, calamites, lepidodendra, and sigillaria lay outside the city, their fantastic
 frondage waving mockingly in the shifting vapours. Now and then there would be suggestions of
@@ -418,42 +418,42 @@ stone in glades and clearings where perpetual twilight reigned, and traversed lo
 over swamps so dark that I could tell but little of their moist, towering vegetation. Once I
 saw an area of countless miles strown with age-blasted basaltic ruins whose architecture had
 been like that of the few windowless, round-topped towers in the haunting city. And once I saw
-the sea&mdash;a boundless steamy expanse beyond the colossal stone piers of an enormous town
+the sea--a boundless steamy expanse beyond the colossal stone piers of an enormous town
 of domes and arches. Great shapeless suggestions of shadow moved over it, and here and there
 its surface was vexed with anomalous spoutings.  
 
     III.    
 
 As I have said, it was not immediately that these wild visions began to hold their terrifying
-quality. Certainly, many persons have dreamed intrinsically stranger things&mdash;things compounded
+quality. Certainly, many persons have dreamed intrinsically stranger things--things compounded
 of unrelated scraps of daily life, pictures, and reading, and arranged in fantastically novel
 forms by the unchecked caprices of sleep. For some time I accepted the visions as natural, even
 though I had never before been an extravagant dreamer. Many of the vague anomalies, I argued,
 must have come from trivial sources too numerous to track down; while others seemed to reflect
 a common text-book knowledge of the plants and other conditions of the primitive world of a
-hundred and fifty million years ago&mdash;the world of the Permian or Triassic age. In the course
+hundred and fifty million years ago--the world of the Permian or Triassic age. In the course
 of some months, however, the element of terror did figure with accumulating force. This was
 when the dreams began so unfailingly to have the aspect of   memories,   and when my mind
-began to link them with my growing abstract disturbances&mdash;the feeling of mnemonic restraint,
+began to link them with my growing abstract disturbances--the feeling of mnemonic restraint,
 the curious impressions regarding   time,   the sense of a loathsome exchange with my secondary
 personality of 1908&ndash;13, and, considerably later, the inexplicable loathing of my own person.  
 
   As certain definite details began to enter the dreams, their horror increased
-a thousandfold&mdash;until by October, 1915, I felt I must do something. It was then that I
+a thousandfold--until by October, 1915, I felt I must do something. It was then that I
 began an intensive study of other cases of amnesia and visions, feeling that I might thereby
 objectivise my trouble and shake clear of its emotional grip. However, as before mentioned,
 the result was at first almost exactly opposite. It disturbed me vastly to find that my dreams
 had been so closely duplicated; especially since some of the accounts were too early to admit
-of any geological knowledge&mdash;and therefore of any idea of primitive landscapes&mdash;on
-the subjects&rsquo; part. What is more, many of these accounts supplied very horrible details
-and explanations in connexion with the visions of great buildings and jungle gardens&mdash;and
+of any geological knowledge--and therefore of any idea of primitive landscapes--on
+the subjects' part. What is more, many of these accounts supplied very horrible details
+and explanations in connexion with the visions of great buildings and jungle gardens--and
 other things. The actual sights and vague impressions were bad enough, but what was hinted or
 asserted by some of the other dreamers savoured of madness and blasphemy. Worst of all, my own
 pseudo-memory was aroused to wilder dreams and hints of coming revelations. And yet most doctors
 deemed my course, on the whole, an advisable one.  
 
   I studied psychology systematically, and under the prevailing stimulus my son
-Wingate did the same&mdash;his studies leading eventually to his present professorship. In 1917
+Wingate did the same--his studies leading eventually to his present professorship. In 1917
 and 1918 I took special courses at Miskatonic. Meanwhile my examination of medical, historical,
 and anthropological records became indefatigable; involving travels to distant libraries, and
 finally including even a reading of the hideous books of forbidden elder lore in which my secondary
@@ -464,10 +464,10 @@ oddly un-human.
 
   These markings were mostly in the respective languages of the various books,
 all of which the writer seemed to know with equal though obviously academic facility. One note
-appended to von Junzt&rsquo;s   Unaussprechlichen Kulten,   however, was alarmingly otherwise.
+appended to von Junzt's   Unaussprechlichen Kulten,   however, was alarmingly otherwise.
 It consisted of certain curvilinear hieroglyphs in the same ink as that of the German corrections,
 but following no recognised human pattern. And these hieroglyphs were closely and unmistakably
-akin to the characters constantly met with in my dreams&mdash;characters whose meaning I would
+akin to the characters constantly met with in my dreams--characters whose meaning I would
 sometimes momentarily fancy I knew or was just on the brink of recalling. To complete my black
 confusion, my librarians assured me that, in view of previous examinations and records of consultation
 of the volumes in question, all of these notations must have been made by myself in my secondary
@@ -475,20 +475,20 @@ state. This despite the fact that I was and still am ignorant of three of the la
 
   Piecing together the scattered records, ancient and modern, anthropological
 and medical, I found a fairly consistent mixture of myth and hallucination whose scope and wildness
-left me utterly dazed. Only one thing consoled me&mdash;the fact that the myths were of such
+left me utterly dazed. Only one thing consoled me--the fact that the myths were of such
 early existence. What lost knowledge could have brought pictures of the Palaeozoic or Mesozoic
 landscape into these primitive fables, I could not even guess, but the pictures had been there.
 Thus, a basis existed for the formation of a fixed type of delusion. Cases of amnesia no doubt
-created the general myth-pattern&mdash;but afterward the fanciful accretions of the myths must
+created the general myth-pattern--but afterward the fanciful accretions of the myths must
 have reacted on amnesia sufferers and coloured their pseudo-memories. I myself had read and
-heard all the early tales during my memory lapse&mdash;my quest had amply proved that. Was it
+heard all the early tales during my memory lapse--my quest had amply proved that. Was it
 not natural, then, for my subsequent dreams and emotional impressions to become coloured and
 moulded by what my memory subtly held over from my secondary state? A few of the myths had significant
 connexions with other cloudy legends of the pre-human world, especially those Hindoo tales involving
 stupefying gulfs of time and forming part of the lore of modern theosophists.  
 
   Primal myth and modern delusion joined in their assumption that mankind is
-only one&mdash;perhaps the least&mdash;of the highly evolved and dominant races of this planet&rsquo;s
+only one--perhaps the least--of the highly evolved and dominant races of this planet's
 long and largely unknown career. Things of inconceivable shape, they implied, had reared towers
 to the sky and delved into every secret of Nature before the first amphibian forbear of man
 had crawled out of the hot sea three hundred million years ago. Some had come down from the
@@ -507,7 +507,7 @@ study the lore of every age. From the accomplishments of this race arose all leg
 including those in human mythology.  
 
   In its vast libraries were volumes of texts and pictures holding the whole
-of earth&rsquo;s annals&mdash;histories and descriptions of every species that had ever been
+of earth's annals--histories and descriptions of every species that had ever been
 or that ever would be, with full records of their arts, their achievements, their languages,
 and their psychologies. With this aeon-embracing knowledge, the Great Race chose from every
 era and life-form such thoughts, arts, and processes as might suit its own nature and situation.
@@ -517,39 +517,39 @@ was harder to glean than knowledge of the future.
   In the latter case the course was easier and more material. With suitable mechanical
 aid a mind would project itself forward in time, feeling its dim, extra-sensory way till it
 approached the desired period. Then, after preliminary trials, it would seize on the best discoverable
-representative of the highest of that period&rsquo;s life-forms; entering the organism&rsquo;s
+representative of the highest of that period's life-forms; entering the organism's
 brain and setting up therein its own vibrations while the displaced mind would strike back to
-the period of the displacer, remaining in the latter&rsquo;s body till a reverse process was
+the period of the displacer, remaining in the latter's body till a reverse process was
 set up. The projected mind, in the body of the organism of the future, would then pose as a
 member of the race whose outward form it wore; learning as quickly as possible all that could
 be learned of the chosen age and its massed information and techniques.  
 
-  Meanwhile the displaced mind, thrown back to the displacer&rsquo;s age and
+  Meanwhile the displaced mind, thrown back to the displacer's age and
 body, would be carefully guarded. It would be kept from harming the body it occupied, and would
 be drained of all its knowledge by trained questioners. Often it could be questioned in its
 own language, when previous quests into the future had brought back records of that language.
 If the mind came from a body whose language the Great Race could not physically reproduce, clever
 machines would be made, on which the alien speech could be played as on a musical instrument.
-The Great Race&rsquo;s members were immense rugose cones ten feet high, and with head and other
+The Great Race's members were immense rugose cones ten feet high, and with head and other
 organs attached to foot-thick, distensible limbs spreading from the apexes. They spoke by the
 clicking or scraping of huge paws or claws attached to the end of two of their four limbs, and
 walked by the expansion and contraction of a viscous layer attached to their vast ten-foot bases.  
 
-  When the captive mind&rsquo;s amazement and resentment had worn off, and when
-(assuming that it came from a body vastly different from the Great Race&rsquo;s) it had lost
+  When the captive mind's amazement and resentment had worn off, and when
+(assuming that it came from a body vastly different from the Great Race's) it had lost
 its horror at its unfamiliar temporary form, it was permitted to study its new environment and
 experience a wonder and wisdom approximating that of its displacer. With suitable precautions,
 and in exchange for suitable services, it was allowed to rove all over the habitable world in
 titan airships or on the huge boat-like atomic-engined vehicles which traversed the great roads,
-and to delve freely into the libraries containing the records of the planet&rsquo;s past and
+and to delve freely into the libraries containing the records of the planet's past and
 future. This reconciled many captive minds to their lot; since none were other than keen, and
-to such minds the unveiling of hidden mysteries of earth&mdash;closed chapters of inconceivable
+to such minds the unveiling of hidden mysteries of earth--closed chapters of inconceivable
 pasts and dizzying vortices of future time which include the years ahead of their own natural
-ages&mdash;forms always, despite the abysmal horrors often unveiled, the supreme experience
+ages--forms always, despite the abysmal horrors often unveiled, the supreme experience
 of life.  
 
   Now and then certain captives were permitted to meet other captive minds seized
-from the future&mdash;to exchange thoughts with consciousnesses living a hundred or a thousand
+from the future--to exchange thoughts with consciousnesses living a hundred or a thousand
 or a million years before or after their own ages. And all were urged to write copiously in
 their own languages of themselves and their respective periods; such documents to be filed in
 the great central archives.  
@@ -558,34 +558,34 @@ the great central archives.
 were far greater than those of the majority. These were the dying   permanent   exiles, whose
 bodies in the future had been seized by keen-minded members of the Great Race who, faced with
 death, sought to escape mental extinction. Such melancholy exiles were not as common as might
-be expected, since the longevity of the Great Race lessened its love of life&mdash;especially
+be expected, since the longevity of the Great Race lessened its love of life--especially
 among those superior minds capable of projection. From cases of the permanent projection of
-elder minds arose many of those lasting changes of personality noticed in later history&mdash;including
-mankind&rsquo;s.  
+elder minds arose many of those lasting changes of personality noticed in later history--including
+mankind's.  
 
-  As for the ordinary cases of exploration&mdash;when the displacing mind had
+  As for the ordinary cases of exploration--when the displacing mind had
 learned what it wished in the future, it would build an apparatus like that which had started
 its flight and reverse the process of projection. Once more it would be in its own body in its
 own age, while the lately captive mind would return to that body of the future to which it properly
 belonged. Only when one or the other of the bodies had died during the exchange was this restoration
-impossible. In such cases, of course, the exploring mind had&mdash;like those of the death-escapers&mdash;to
-live out an alien-bodied life in the future; or else the captive mind&mdash;like the dying permanent
-exiles&mdash;had to end its days in the form and past age of the Great Race.  
+impossible. In such cases, of course, the exploring mind had--like those of the death-escapers--to
+live out an alien-bodied life in the future; or else the captive mind--like the dying permanent
+exiles--had to end its days in the form and past age of the Great Race.  
 
-  This fate was least horrible when the captive mind was also of the Great Race&mdash;a
+  This fate was least horrible when the captive mind was also of the Great Race--a
 not infrequent occurrence, since in all its periods that race was intensely concerned with its
-own future. The number of dying permanent exiles of the Great Race was very slight&mdash;largely
+own future. The number of dying permanent exiles of the Great Race was very slight--largely
 because of the tremendous penalties attached to displacements of future Great Race minds by
 the moribund. Through projection, arrangements were made to inflict these penalties on the offending
-minds in their new future bodies&mdash;and sometimes forced re-exchanges were effected. Complex
+minds in their new future bodies--and sometimes forced re-exchanges were effected. Complex
 cases of the displacement of exploring or already captive minds by minds in various regions
 of the past had been known and carefully rectified. In every age since the discovery of mind-projection,
 a minute but well-recognised element of the population consisted of Great Race minds from past
 ages, sojourning for a longer or shorter while.  
 
   When a captive mind of alien origin was returned to its own body in the future,
-it was purged by an intricate mechanical hypnosis of all it had learned in the Great Race&rsquo;s
-age&mdash;this because of certain troublesome consequences inherent in the general carrying
+it was purged by an intricate mechanical hypnosis of all it had learned in the Great Race's
+age--this because of certain troublesome consequences inherent in the general carrying
 forward of knowledge in large quantities. The few existing instances of clear transmission had
 caused, and would cause at known future times, great disasters. And it was largely in consequence
 of two cases of the kind (said the old myths) that mankind had learned what it had concerning
@@ -599,16 +599,16 @@ were eradicated, so that in most cases only a dream-shadowed blank stretched bac
 of the first exchange. Some minds recalled more than others, and the chance joining of memories
 had at rare times brought hints of the forbidden past to future ages. There probably never was
 a time when groups or cults did not secretly cherish certain of these hints. In the   Necronomicon  
-the presence of such a cult among human beings was suggested&mdash;a cult that sometimes gave
+the presence of such a cult among human beings was suggested--a cult that sometimes gave
 aid to minds voyaging down the aeons from the days of the Great Race.  
 
   And meanwhile the Great Race itself waxed well-nigh omniscient, and turned
 to the task of setting up exchanges with the minds of other planets, and of exploring their
 pasts and futures. It sought likewise to fathom the past years and origin of that black, aeon-dead
-orb in far space whence its own mental heritage had come&mdash;for the mind of the Great Race
+orb in far space whence its own mental heritage had come--for the mind of the Great Race
 was older than its bodily form. The beings of a dying elder world, wise with the ultimate secrets,
 had looked ahead for a new world and species wherein they might have long life; and had sent
-their minds en masse into that future race best adapted to house them&mdash;the cone-shaped
+their minds en masse into that future race best adapted to house them--the cone-shaped
 things that peopled our earth a billion years ago. Thus the Great Race came to be, while the
 myriad minds sent backward were left to die in the horror of strange shapes. Later the race
 would again face death, yet would live through another forward migration of its best minds into
@@ -618,10 +618,10 @@ the bodies of others who had a longer physical span ahead of them.
 1920, I had my researches in coherent shape, I felt a slight lessening of the tension which
 their earlier stages had increased. After all, and in spite of the fancies prompted by blind
 emotions, were not most of my phenomena readily explainable? Any chance might have turned my
-mind to dark studies during the amnesia&mdash;and then I read the forbidden legends and met
+mind to dark studies during the amnesia--and then I read the forbidden legends and met
 the members of ancient and ill-regarded cults. That, plainly, supplied the material for the
 dreams and disturbed feelings which came after the return of memory. As for the marginal notes
-in dream-hieroglyphs and languages unknown to me, but laid at my door by librarians&mdash;I
+in dream-hieroglyphs and languages unknown to me, but laid at my door by librarians--I
 might easily have picked up a smattering of the tongues during my secondary state, while the
 hieroglyphs were doubtless coined by my fancy from descriptions in old legends, and   afterward  
 woven into my dreams. I tried to verify certain points through conversation with known cult-leaders,
@@ -632,15 +632,15 @@ to worry me as it had at first, but on the other hand I reflected that the excit
 was undoubtedly more universal in the past than in the present. Probably all the other victims
 whose cases were like mine had had a long and familiar knowledge of the tales I had learned
 only when in my secondary state. When these victims had lost their memory, they had associated
-themselves with the creatures of their household myths&mdash;the fabulous invaders supposed
-to displace men&rsquo;s minds&mdash;and had thus embarked upon quests for knowledge which they
+themselves with the creatures of their household myths--the fabulous invaders supposed
+to displace men's minds--and had thus embarked upon quests for knowledge which they
 thought they could take back to a fancied, non-human past. Then when their memory returned,
 they reversed the associative process and thought of themselves as the former captive minds
 instead of as the displacers. Hence the dreams and pseudo-memories following the conventional
 myth-pattern.  
 
   Despite the seeming cumbrousness of these explanations, they came finally to
-supersede all others in my mind&mdash;largely because of the greater weakness of any rival theory.
+supersede all others in my mind--largely because of the greater weakness of any rival theory.
 And a substantial number of eminent psychologists and anthropologists gradually agreed with
 me. The more I reflected, the more convincing did my reasoning seem; till in the end I had a
 really effective bulwark against the visions and impressions which still assailed me. Suppose
@@ -653,14 +653,14 @@ be of any actual significance.
 though the visions (rather than the abstract impressions) steadily became more frequent and
 more disturbingly detailed. In 1922 I felt able to undertake regular work again, and put my
 newly gained knowledge to practical use by accepting an instructorship in psychology at the
-university. My old chair of political economy had long been adequately filled&mdash;besides
+university. My old chair of political economy had long been adequately filled--besides
 which, methods of teaching economics had changed greatly since my heyday. My son was at this
 time just entering on the post-graduate studies leading to his present professorship, and we
 worked together a great deal.  
 
     IV.    
 
-I continued, however, to keep a careful record of the outr&eacute; dreams which crowded upon
+I continued, however, to keep a careful record of the outré dreams which crowded upon
 me so thickly and vividly. Such a record, I argued, was of genuine value as a psychological
 document. The glimpses still seemed damnably like   memories,   though I fought off this
 impression with a goodly measure of success. In writing, I treated the phantasmata as things
@@ -700,18 +700,18 @@ were four slender grey stalks bearing flower-like appendages, whilst from its ne
 eight greenish antennae or tentacles. The great base of the central cone was fringed with a
 rubbery, grey substance which moved the whole entity through expansion and contraction.  
 
-  Their actions, though harmless, horrified me even more than their appearance&mdash;for
+  Their actions, though harmless, horrified me even more than their appearance--for
 it is not wholesome to watch monstrous objects doing what one has known only human beings to
 do. These objects moved intelligently around the great rooms, getting books from the shelves
 and taking them to the great tables, or vice versa, and sometimes writing diligently with a
 penlike rod gripped in the greenish head-tentacles. The huge nippers were used in carrying
-books and in conversation&mdash;speech consisting of a kind of clicking and scraping. The objects
+books and in conversation--speech consisting of a kind of clicking and scraping. The objects
 had no clothing, but wore satchels or knapsacks suspended from the top of the conical trunk.
 They commonly carried their head and its supporting member at the level of the cone top, although
 it was frequently raised or lowered. The other three great members tended to rest downward on
 the sides of the cone, contracted to about five feet each, when not in use. From their rate
 of reading, writing, and operating their machines (those on the tables seemed somehow connected
-with thought) I concluded that their intelligence was enormously greater than man&rsquo;s.  
+with thought) I concluded that their intelligence was enormously greater than man's.  
 
   Afterward I saw them everywhere; swarming in all the great chambers and corridors,
 tending monstrous machines in vaulted crypts, and racing along the vast roads in gigantic boat-shaped
@@ -719,7 +719,7 @@ cars. I ceased to be afraid of them, for they seemed to form supremely natural p
 environment. Individual differences amongst them began to be manifest, and a few appeared to
 be under some kind of restraint. These latter, though shewing no physical variation, had a diversity
 of gestures and habits which marked them off not only from the majority, but very largely from
-one another. They wrote a great deal in what seemed to my cloudy vision a vast variety of characters&mdash;never
+one another. They wrote a great deal in what seemed to my cloudy vision a vast variety of characters--never
 the typical curvilinear hieroglyphs of the majority. A few, I fancied, used our own familiar
 alphabet. Most of them worked much more slowly than the general mass of the entities.  
 
@@ -730,8 +730,8 @@ bodily existence begin to harass me. I say   harass,   because the first phase w
 abstract though infinitely terrible association of my previously noted body-loathing with the
 scenes of my visions. For a while my chief concern during dreams was to avoid looking down at
 myself, and I recall how grateful I was for the total absence of large mirrors in the strange
-rooms. I was mightily troubled by the fact that I always saw the great tables&mdash;whose height
-could not be under ten feet&mdash;from a level not below that of their surfaces.  
+rooms. I was mightily troubled by the fact that I always saw the great tables--whose height
+could not be under ten feet--from a level not below that of their surfaces.  
 
   And then the morbid temptation to look down at myself became greater and greater,
 till one night I could not resist it. At first my downward glance revealed nothing whatever.
@@ -758,9 +758,9 @@ aided me immensely. And all the time I seemed to be setting down a history of my
 English. On waking, I could recall only minute and meaningless scraps of the unknown tongues
 which my dream-self had mastered, though whole phrases of the history stayed with me.  
 
-  I learned&mdash;even before my waking self had studied the parallel cases or
-the old myths from which the dreams doubtless sprang&mdash;that the entities around me were
-of the world&rsquo;s greatest race, which had conquered time and had sent exploring minds into
+  I learned--even before my waking self had studied the parallel cases or
+the old myths from which the dreams doubtless sprang--that the entities around me were
+of the world's greatest race, which had conquered time and had sent exploring minds into
 every age. I knew, too, that I had been snatched from my age while   another   used my body
 in that age, and that a few of the other strange forms housed similarly captured minds. I seemed
 to talk, in some odd language of claw-clickings, with exiled intellects from every corner of
@@ -771,7 +771,7 @@ epochs to come, and one from an outer moon of Jupiter six million years in the p
 minds there were some from the winged, star-headed, half-vegetable race of palaeogean Antarctica;
 one from the reptile people of fabled Valusia; three from the furry pre-human Hyperborean worshippers
 of Tsathoggua; one from the wholly abominable Tcho-Tchos; two from the arachnid denizens of
-earth&rsquo;s last age; five from the hardy coleopterous species immediately following mankind,
+earth's last age; five from the hardy coleopterous species immediately following mankind,
 to which the Great Race was some day to transfer its keenest minds en masse in the face of horrible
 peril; and several from different branches of humanity.  
 
@@ -781,13 +781,13 @@ who held South Africa in B.C. 50,000; with that of a twelfth-century Florentine 
 Corsi; with that of a king of Lomar who had ruled that terrible polar land 100,000 years before
 the squat, yellow Inutos came from the west to engulf it; with that of Nug-Soth, a magician
 of the dark conquerors of A.D. 16,000; with that of a Roman named Titus Sempronius Blaesus,
-who had been a quaestor in Sulla&rsquo;s time; with that of Khephnes, an Egyptian of the 14th
-Dynasty who told me the hideous secret of Nyarlathotep; with that of a priest of Atlantis&rsquo;
-middle kingdom; with that of a Suffolk gentleman of Cromwell&rsquo;s day, James Woodville; with
+who had been a quaestor in Sulla's time; with that of Khephnes, an Egyptian of the 14th
+Dynasty who told me the hideous secret of Nyarlathotep; with that of a priest of Atlantis'
+middle kingdom; with that of a Suffolk gentleman of Cromwell's day, James Woodville; with
 that of a court astronomer of pre-Inca Peru; with that of the Australian physicist Nevil Kingston-Brown,
 who will die in A.D. 2518; with that of an archimage of vanished Yhe in the Pacific; with that
 of Theodotides, a Graeco-Bactrian official of B.C. 200; with that of an aged Frenchman of Louis
-XIII&rsquo;s time named Pierre-Louis Montmagny; with that of Crom-Ya, a Cimmerian chieftain
+XIII's time named Pierre-Louis Montmagny; with that of Crom-Ya, a Cimmerian chieftain
 of B.C. 15,000; and with so many others that my brain cannot hold the shocking secrets and dizzying
 marvels I learned from them.  
 
@@ -799,26 +799,26 @@ and trembled at the menaces the future may bring forth. What was hinted in the s
 entities of the fate of mankind produced such an effect on me that I will not set it down here.
 After man there would be the mighty beetle civilisation, the bodies of whose members the cream
 of the Great Race would seize when the monstrous doom overtook the elder world. Later, as the
-earth&rsquo;s span closed, the transferred minds would again migrate through time and space&mdash;to
+earth's span closed, the transferred minds would again migrate through time and space--to
 another stopping-place in the bodies of the bulbous vegetable entities of Mercury. But there
 would be races after them, clinging pathetically to the cold planet and burrowing to its horror-filled
 core, before the utter end.  
 
   Meanwhile, in my dreams, I wrote endlessly in that history of my own age which
-I was preparing&mdash;half voluntarily and half through promises of increased library and travel
-opportunities&mdash;for the Great Race&rsquo;s central archives. The archives were in a colossal
-subterranean structure near the city&rsquo;s centre, which I came to know well through frequent
+I was preparing--half voluntarily and half through promises of increased library and travel
+opportunities--for the Great Race's central archives. The archives were in a colossal
+subterranean structure near the city's centre, which I came to know well through frequent
 labours and consultations. Meant to last as long as the race, and to withstand the fiercest
-of earth&rsquo;s convulsions, this titan repository surpassed all other buildings in the massive,
+of earth's convulsions, this titan repository surpassed all other buildings in the massive,
 mountain-like firmness of its construction.  
 
   The records, written or printed on great sheets of a curiously tenacious cellulose
 fabric, were bound into books that opened from the top, and were kept in individual cases of
 a strange, extremely light rustless metal of greyish hue, decorated with mathematical designs
-and bearing the title in the Great Race&rsquo;s curvilinear hieroglyphs. These cases were stored
-in tiers of rectangular vaults&mdash;like closed, locked shelves&mdash;wrought of the same rustless
+and bearing the title in the Great Race's curvilinear hieroglyphs. These cases were stored
+in tiers of rectangular vaults--like closed, locked shelves--wrought of the same rustless
 metal and fastened by knobs with intricate turnings. My own history was assigned a specific
-place in the vaults of the lowest or vertebrate level&mdash;the section devoted to the culture
+place in the vaults of the lowest or vertebrate level--the section devoted to the culture
 of mankind and of the furry and reptilian races immediately preceding it in terrestrial dominance.  
 
   But none of the dreams ever gave me a full picture of daily life. All were
@@ -836,12 +836,12 @@ sent its foremost minds into the future to escape the creeping horror. Flatness 
 green life were always the keynote of the scene. Hills were low and sparse, and usually displayed
 signs of volcanic forces.  
 
-  Of the animals I saw, I could write volumes. All were wild; for the Great Race&rsquo;s
+  Of the animals I saw, I could write volumes. All were wild; for the Great Race's
 mechanised culture had long since done away with domestic beasts, while food was wholly vegetable
 or synthetic. Clumsy reptiles of great bulk floundered in steaming morasses, fluttered in the
 heavy air, or spouted in the seas and lakes; and among these I fancied I could vaguely recognise
-lesser, archaic prototypes of many forms&mdash;dinosaurs, pterodactyls, ichthyosaurs, labyrinthodonts,
-rhamphorhynci, plesiosaurs, and the like&mdash;made familiar through palaeontology. Of birds
+lesser, archaic prototypes of many forms--dinosaurs, pterodactyls, ichthyosaurs, labyrinthodonts,
+rhamphorhynci, plesiosaurs, and the like--made familiar through palaeontology. Of birds
 or mammals there were none that I could discern.  
 
   The ground and swamps were constantly alive with snakes, lizards, and crocodiles,
@@ -861,19 +861,19 @@ accomplished by my secondary self, had formed the source of the whole terrible f
 
   The period of my dreams, apparently, was one somewhat less than 150,000,000
 years ago, when the Palaeozoic age was giving place to the Mesozoic. The bodies occupied by
-the Great Race represented no surviving&mdash;or even scientifically known&mdash;line of terrestrial
+the Great Race represented no surviving--or even scientifically known--line of terrestrial
 evolution, but were of a peculiar, closely homogeneous, and highly specialised organic type
 inclining as much to the vegetable as to the animal state. Cell-action was of an unique sort
 almost precluding fatigue, and wholly eliminating the need of sleep. Nourishment, assimilated
 through the red trumpet-like appendages on one of the great flexible limbs, was always semi-fluid
 and in many aspects wholly unlike the food of existing animals. The beings had but two of the
-senses which we recognise&mdash;sight and hearing, the latter accomplished through the flower-like
-appendages on the grey stalks above their heads&mdash;but of other and incomprehensible senses
+senses which we recognise--sight and hearing, the latter accomplished through the flower-like
+appendages on the grey stalks above their heads--but of other and incomprehensible senses
 (not, however, well utilisable by alien captive minds inhabiting their bodies) they possessed
 many. Their three eyes were so situated as to give them a range of vision wider than the normal.
 Their blood was a sort of deep-greenish ichor of great thickness. They had no sex, but reproduced
 through seeds or spores which clustered on their bases and could be developed only under water.
-Great, shallow tanks were used for the growth of their young&mdash;which were, however, reared
+Great, shallow tanks were used for the growth of their young--which were, however, reared
 only in small numbers on account of the longevity of individuals; four or five thousand years
 being the common life span.  
 
@@ -905,7 +905,7 @@ days.
 
   Crime was surprisingly scanty, and was dealt with through highly efficient
 policing. Punishments ranged from privilege-deprivation and imprisonment to death or major emotion-wrenching,
-and were never administered without a careful study of the criminal&rsquo;s motivations. Warfare,
+and were never administered without a careful study of the criminal's motivations. Warfare,
 largely civil for the last few millennia though sometimes waged against reptilian and octopodic
 invaders, or against the winged, star-headed Old Ones who centred in the Antarctic, was infrequent
 though infinitely devastating. An enormous army, using camera-like weapons which produced tremendous
@@ -914,13 +914,13 @@ with the ceaseless fear of the dark, windowless elder ruins and of the great sea
 in the lowest subterrene levels.  
 
   This fear of the basalt ruins and trap-doors was largely a matter of unspoken
-suggestion&mdash;or, at most, of furtive quasi-whispers. Everything specific which bore on it
+suggestion--or, at most, of furtive quasi-whispers. Everything specific which bore on it
 was significantly absent from such books as were on the common shelves. It was the one subject
 lying altogether under a taboo among the Great Race, and seemed to be connected alike with horrible
 bygone struggles, and with that future peril which would some day force the race to send its
 keener minds ahead en masse in time. Imperfect and fragmentary as were the other things presented
 by dreams and legends, this matter was still more bafflingly shrouded. The vague old myths avoided
-it&mdash;or perhaps all allusions had for some reason been excised. And in the dreams of myself
+it--or perhaps all allusions had for some reason been excised. And in the dreams of myself
 and others, the hints were peculiarly few. Members of the Great Race never intentionally referred
 to the matter, and what could be gleaned came only from some of the more sharply observant captive
 minds.  
@@ -928,14 +928,14 @@ minds.
   According to these scraps of information, the basis of the fear was a horrible
 elder race of half-polypous, utterly alien entities which had come through space from immeasurably
 distant universes and had dominated the earth and three other solar planets about six hundred
-million years ago. They were only partly material&mdash;as we understand matter&mdash;and their
+million years ago. They were only partly material--as we understand matter--and their
 type of consciousness and media of perception differed wholly from those of terrestrial organisms.
 For example, their senses did not include that of sight; their mental world being a strange,
 non-visual pattern of impressions. They were, however, sufficiently material to use implements
-of normal matter when in cosmic areas containing it; and they required housing&mdash;albeit
+of normal matter when in cosmic areas containing it; and they required housing--albeit
 of a peculiar kind. Though their   senses   could penetrate all material barriers, their
   substance   could not; and certain forms of electrical energy could wholly destroy them.
-They had the power of a&euml;rial motion despite the absence of wings or any other visible means
+They had the power of aërial motion despite the absence of wings or any other visible means
 of levitation. Their minds were of such texture that no exchange with them could be effected
 by the Great Race.  
 
@@ -952,30 +952,30 @@ than with indifference, boldness, or scientific and historical zeal.
   But as the aeons passed, there came vague, evil signs that the Elder Things
 were growing strong and numerous in the inner world. There were sporadic irruptions of a particularly
 hideous character in certain small and remote cities of the Great Race, and in some of the deserted
-elder cities which the Great Race had not peopled&mdash;places where the paths to the gulfs
+elder cities which the Great Race had not peopled--places where the paths to the gulfs
 below had not been properly sealed or guarded. After that greater precautions were taken, and
-many of the paths were closed for ever&mdash;though a few were left with sealed trap-doors for
+many of the paths were closed for ever--though a few were left with sealed trap-doors for
 strategic use in fighting the Elder Things if ever they broke forth in unexpected places; fresh
 rifts caused by that selfsame geologic change which had choked some of the paths and had slowly
 lessened the number of outer-world structures and ruins surviving from the conquered entities.  
 
   The irruptions of the Elder Things must have been shocking beyond all description,
 since they had permanently coloured the psychology of the Great Race. Such was the fixed mood
-of horror that the very   aspect   of the creatures was left unmentioned&mdash;at no time
+of horror that the very   aspect   of the creatures was left unmentioned--at no time
 was I able to gain a clear hint of what they looked like. There were veiled suggestions of a
 monstrous   plasticity,   and of temporary   lapses of visibility,   while other fragmentary
 whispers referred to their control and military use of   great winds.   Singular   whistling  
 noises, and colossal footprints made up of five circular toe-marks, seemed also to be associated
 with them.  
 
-  It was evident that the coming doom so desperately feared by the Great Race&mdash;the
+  It was evident that the coming doom so desperately feared by the Great Race--the
 doom that was one day to send millions of keen minds across the chasm of time to strange bodies
-in the safer future&mdash;had to do with a final successful irruption of the Elder Beings. Mental
+in the safer future--had to do with a final successful irruption of the Elder Beings. Mental
 projections down the ages had clearly foretold such a horror, and the Great Race had resolved
 that none who could escape should face it. That the foray would be a matter of vengeance, rather
-than an attempt to reoccupy the outer world, they knew from the planet&rsquo;s later history&mdash;for
+than an attempt to reoccupy the outer world, they knew from the planet's later history--for
 their projections shewed the coming and going of subsequent races untroubled by the monstrous
-entities. Perhaps these entities had come to prefer earth&rsquo;s inner abysses to the variable,
+entities. Perhaps these entities had come to prefer earth's inner abysses to the variable,
 storm-ravaged surface, since light meant nothing to them. Perhaps, too, they were slowly weakening
 with the aeons. Indeed, it was known that they would be quite dead in the time of the post-human
 beetle race which the fleeing minds would tenant. Meanwhile the Great Race maintained its cautious
@@ -987,15 +987,15 @@ sealed trap-doors and the dark, windowless elder towers.
 
 That is the world of which my dreams brought me dim, scattered echoes every night. I cannot
 hope to give any true idea of the horror and dread contained in such echoes, for it was upon
-a wholly intangible quality&mdash;the sharp sense of   pseudo-memory  &mdash;that such feelings
+a wholly intangible quality--the sharp sense of   pseudo-memory  --that such feelings
 mainly depended. As I have said, my studies gradually gave me a defence against these feelings,
 in the form of rational psychological explanations; and this saving influence was augmented
 by the subtle touch of accustomedness which comes with the passage of time. Yet in spite of
 everything the vague, creeping terror would return momentarily now and then. It did not, however,
 engulf me as it had before; and after 1922 I lived a very normal life of work and recreation.  
 
-  In the course of years I began to feel that my experience&mdash;together with
-the kindred cases and the related folklore&mdash;ought to be definitely summarised and published
+  In the course of years I began to feel that my experience--together with
+the kindred cases and the related folklore--ought to be definitely summarised and published
 for the benefit of serious students; hence I prepared a series of articles briefly covering
 the whole ground and illustrated with crude sketches of some of the shapes, scenes, decorative
 motifs, and hieroglyphs remembered from the dreams. These appeared at various times during 1928
@@ -1013,7 +1013,7 @@ an effect it and the photographs had upon me.
   I was, for a time, almost stunned and incredulous; for although I had often
 thought that some basis of fact must underlie certain phases of the legends which had coloured
 my dreams, I was none the less unprepared for anything like a tangible survival from a lost
-world remote beyond all imagination. Most devastating of all were the photographs&mdash;for
+world remote beyond all imagination. Most devastating of all were the photographs--for
 here, in cold, incontrovertible realism, there stood out against a background of sand certain
 worn-down, water-ridged, storm-weathered blocks of stone whose slightly convex tops and slightly
 concave bottoms told their own story. And when I studied them with a magnifying glass I could
@@ -1030,7 +1030,7 @@ c/o Am. Psychological Society,
 30, E. 41st Str.,  
 N. Y. City, U.S.A.    
 
-My dear Sir:&mdash;  
+My dear Sir:--  
 
   A recent conversation with Dr. E. M. Boyle of Perth, and some papers with your
 articles which he has just sent me, make it advisable for me to tell you about certain things
@@ -1038,23 +1038,23 @@ I have seen in the Great Sandy Desert east of our gold field here. It would seem
 the peculiar legends about old cities with huge stonework and strange designs and hieroglyphs
 which you describe, that I have come upon something very important.  
 
-  The blackfellows have always been full of talk about &ldquo;great stones with
-marks on them&rdquo;, and seem to have a terrible fear of such things. They connect them in
+  The blackfellows have always been full of talk about  "great stones with
+marks on them ", and seem to have a terrible fear of such things. They connect them in
 some way with their common racial legends about Buddai, the gigantic old man who lies asleep
 for ages underground with his head on his arm, and who will some day awake and eat up the world.
 There are some very old and half-forgotten tales of enormous underground huts of great stones,
 where passages lead down and down, and where horrible things have happened. The blackfellows
 claim that once some warriors, fleeing in battle, went down into one and never came back, but
 that frightful winds began to blow from the place soon after they went down. However, there
-usually isn&rsquo;t much in what these natives say.  
+usually isn't much in what these natives say.  
 
   But what I have to tell is more than this. Two years ago, when I was prospecting
 about 500 miles east in the desert, I came on a lot of queer pieces of dressed stone perhaps
-3 &times; 2 &times; 2 feet in size, and weathered and pitted to the very limit. At first I couldn&rsquo;t
+3 &times; 2 &times; 2 feet in size, and weathered and pitted to the very limit. At first I couldn't
 find any of the marks the blackfellows told about, but when I looked close enough I could make
 out some deeply carved lines in spite of the weathering. They were peculiar curves, just like
 what the blacks had tried to describe. I imagine there must have been 30 or 40 blocks, some
-nearly buried in the sand, and all within a circle perhaps a quarter of a mile&rsquo;s diameter.  
+nearly buried in the sand, and all within a circle perhaps a quarter of a mile's diameter.  
 
   When I saw some, I looked around closely for more, and made a careful reckoning
 of the place with my instruments. I also took pictures of 10 or 12 of the most typical blocks,
@@ -1074,25 +1074,25 @@ forming a basis for your legends. As a mining engineer, I have some knowledge of
 can tell you that these blocks are so ancient they frighten me. They are mostly sandstone and
 granite, though one is almost certainly made of a queer sort of   cement   or   concrete.  
 They bear evidence of water action, as if this part of the world had been submerged and come
-up again after long ages&mdash;all since these blocks were made and used. It is a matter of
-hundreds of thousands of years&mdash;or heaven knows how much more. I don&rsquo;t like to think
+up again after long ages--all since these blocks were made and used. It is a matter of
+hundreds of thousands of years--or heaven knows how much more. I don't like to think
 about it.  
 
   In view of your previous diligent work in tracking down the legends and everything
 connected with them, I cannot doubt but that you will want to lead an expedition to the desert
 and make some archaeological excavations. Both Dr. Boyle and I are prepared to co&ouml;perate
-in such work if you&mdash;or organisations known to you&mdash;can furnish the funds. I can get
-together a dozen miners for the heavy digging&mdash;the blacks would be of no use, for I&rsquo;ve
+in such work if you--or organisations known to you--can furnish the funds. I can get
+together a dozen miners for the heavy digging--the blacks would be of no use, for I've
 found that they have an almost maniacal fear of this particular spot. Boyle and I are saying
 nothing to others, for you very obviously ought to have precedence in any discoveries or credit.  
 
-  The place can be reached from Pilbarra in about 4 days by motor tractor&mdash;which
-we&rsquo;d need for our apparatus. It is somewhat west and south of Warburton&rsquo;s path of
+  The place can be reached from Pilbarra in about 4 days by motor tractor--which
+we'd need for our apparatus. It is somewhat west and south of Warburton's path of
 1873, and 100 miles southeast of Joanna Spring. We could float things up the De Grey River instead
-of starting from Pilbarra&mdash;but all that can be talked over later. Roughly, the stones lie
+of starting from Pilbarra--but all that can be talked over later. Roughly, the stones lie
 at a point about 22&deg; 3&prime; 14&Prime; South Latitude, 125&deg; 0&prime; 39&Prime; East
 Longitude. The climate is tropical, and the desert conditions are trying. Any expedition had better
-be made in winter&mdash;June or July or August. I shall welcome further correspondence upon this
+be made in winter--June or July or August. I shall welcome further correspondence upon this
 subject, and am keenly eager to assist in any plan you may devise. After studying your articles I
 am deeply impressed with the profound significance of the whole matter. Dr. Boyle will write later.
 When rapid communication is needed, a cable to Perth can be relayed by wireless.  
@@ -1111,10 +1111,10 @@ to sensational and jocose treatment by the cheaper newspapers. As a result, prin
 were sparing; but enough appeared to tell of our quest for reported Australian ruins and to
 chronicle our various preparatory steps.  
 
-  Professors William Dyer of the college&rsquo;s geology department (leader of
+  Professors William Dyer of the college's geology department (leader of
 the Miskatonic Antarctic Expedition of 1930&ndash;31), Ferdinand C. Ashley of the department
-of ancient history, and Tyler M. Freeborn of the department of anthropology&mdash;together with
-my son Wingate&mdash;accompanied me. My correspondent Mackenzie came to Arkham early in 1935
+of ancient history, and Tyler M. Freeborn of the department of anthropology--together with
+my son Wingate--accompanied me. My correspondent Mackenzie came to Arkham early in 1935
 and assisted in our final preparations. He proved to be a tremendously competent and affable
 man of about fifty, admirably well-read, and deeply familiar with all the conditions of Australian
 travel. He had tractors waiting at Pilbarra, and we chartered a tramp steamer of sufficiently
@@ -1127,52 +1127,52 @@ had a leisurely trip across the Atlantic and Mediterranean, through the Suez Can
 Red Sea, and across the Indian Ocean to our goal. I need not tell how the sight of the low,
 sandy West Australian coast depressed me, and how I detested the crude mining town and dreary
 gold fields where the tractors were given their last loads. Dr. Boyle, who met us, proved to
-be elderly, pleasant, and intelligent&mdash;and his knowledge of psychology led him into many
+be elderly, pleasant, and intelligent--and his knowledge of psychology led him into many
 long discussions with my son and me.  
 
   Discomfort and expectancy were oddly mingled in most of us when at length our
 party of eighteen rattled forth over the arid leagues of sand and rock. On Friday, May 31st,
 we forded a branch of the De Grey and entered the realm of utter desolation. A certain positive
-terror grew on me as we advanced to this actual site of the elder world behind the legends&mdash;a
+terror grew on me as we advanced to this actual site of the elder world behind the legends--a
 terror of course abetted by the fact that my disturbing dreams and pseudo-memories still beset
 me with unabated force.  
 
   It was on Monday, June 3, that we saw the first of the half-buried blocks.
-I cannot describe the emotions with which I actually touched&mdash;in objective reality&mdash;a
+I cannot describe the emotions with which I actually touched--in objective reality--a
 fragment of Cyclopean masonry in every respect like the blocks in the walls of my dream-buildings.
-There was a distinct trace of carving&mdash;and my hands trembled as I recognised part of a
+There was a distinct trace of carving--and my hands trembled as I recognised part of a
 curvilinear decorative scheme made hellish to me through years of tormenting nightmare and baffling
 research.  
 
   A month of digging brought a total of some 1250 blocks in varying stages of
 wear and disintegration. Most of these were carven megaliths with curved tops and bottoms. A
-minority were smaller, flatter, plain-surfaced, and square or octagonally cut&mdash;like those
-of the floors and pavements in my dreams&mdash;while a few were singularly massive and curved
+minority were smaller, flatter, plain-surfaced, and square or octagonally cut--like those
+of the floors and pavements in my dreams--while a few were singularly massive and curved
 or slanted in such a manner as to suggest use in vaulting or groining, or as parts of arches
-or round window casings. The deeper&mdash;and the farther north and east&mdash;we dug, the more
+or round window casings. The deeper--and the farther north and east--we dug, the more
 blocks we found; though we still failed to discover any trace of arrangement among them. Professor
 Dyer was appalled at the measureless age of the fragments, and Freeborn found traces of symbols
 which fitted darkly into certain Papuan and Polynesian legends of infinite antiquity. The condition
 and scattering of the blocks told mutely of vertiginous cycles of time and geologic upheavals
 of cosmic savagery.  
 
-  We had an a&euml;roplane with us, and my son Wingate would often go up to different
-heights and scan the sand-and-rock waste for signs of dim, large-scale outlines&mdash;either
+  We had an aëroplane with us, and my son Wingate would often go up to different
+heights and scan the sand-and-rock waste for signs of dim, large-scale outlines--either
 differences of level or trails of scattered blocks. His results were virtually negative; for
 whenever he would one day think he had glimpsed some significant trend, he would on his next
-trip find the impression replaced by another equally insubstantial&mdash;a result of the shifting,
+trip find the impression replaced by another equally insubstantial--a result of the shifting,
 wind-blown sand. One or two of these ephemeral suggestions, though, affected me queerly and
 disagreeably. They seemed, after a fashion, to dovetail horribly with something which I had
 dreamed or read, but which I could no longer remember. There was a terrible   pseudo-familiarity  
-about them&mdash;which somehow made me look furtively and apprehensively over the abominable,
+about them--which somehow made me look furtively and apprehensively over the abominable,
 sterile terrain toward the north and northeast.  
 
   Around the first week in July I developed an unaccountable set of mixed emotions
-about that general northeasterly region. There was horror, and there was curiosity&mdash;but
+about that general northeasterly region. There was horror, and there was curiosity--but
 more than that, there was a persistent and perplexing illusion of   memory.   I tried all
 sorts of psychological expedients to get these notions out of my head, but met with no success.
 Sleeplessness also gained upon me, but I almost welcomed this because of the resultant shortening
-of my dream-periods. I acquired the habit of taking long, lone walks in the desert late at night&mdash;usually
+of my dream-periods. I acquired the habit of taking long, lone walks in the desert late at night--usually
 to the north or northeast, whither the sum of my strange new impulses seemed subtly to pull
 me.  
 
@@ -1180,9 +1180,9 @@ me.
 the ancient masonry. Though there were fewer visible blocks here than where we had started,
 I felt sure that there must be a vast abundance beneath the surface. The ground was less level
 than at our camp, and the prevailing high winds now and then piled the sand into fantastic temporary
-hillocks&mdash;exposing some traces of the elder stones while it covered other traces. I was
+hillocks--exposing some traces of the elder stones while it covered other traces. I was
 queerly anxious to have the excavations extend to this territory, yet at the same time dreaded
-what might be revealed. Obviously, I was getting into a rather bad state&mdash;all the worse
+what might be revealed. Obviously, I was getting into a rather bad state--all the worse
 because I could not account for it.  
 
   An indication of my poor nervous health can be gained from my response to an
@@ -1199,32 +1199,32 @@ the granite and sandstone and occasional concrete of the now familiar fragments.
 unconscious and irrational flight, and only when I was close to my tent did I fully realise
 why I had run. Then it came to me. The queer dark stone was something which I had dreamed and
 read about, and which was linked with the uttermost horrors of the aeon-old legendry. It was
-one of the blocks of that basaltic elder masonry which the fabled Great Race held in such fear&mdash;the
+one of the blocks of that basaltic elder masonry which the fabled Great Race held in such fear--the
 tall, windowless ruins left by those brooding, half-material, alien Things that festered in
-earth&rsquo;s nether abysses and against whose wind-like, invisible forces the trap-doors were
+earth's nether abysses and against whose wind-like, invisible forces the trap-doors were
 sealed and the sleepless sentinels posted.  
 
   I remained awake all that night, but by dawn realised how silly I had been
-to let the shadow of a myth upset me. Instead of being frightened, I should have had a discoverer&rsquo;s
+to let the shadow of a myth upset me. Instead of being frightened, I should have had a discoverer's
 enthusiasm. The next forenoon I told the others about my find, and Dyer, Freeborn, Boyle, my
 son, and I set out to view the anomalous block. Failure, however, confronted us. I had formed
-no clear idea of the stone&rsquo;s location, and a late wind had wholly altered the hillocks
+no clear idea of the stone's location, and a late wind had wholly altered the hillocks
 of shifting sand.  
 
     VI.    
 
-I come now to the crucial and most difficult part of my narrative&mdash;all the more difficult
+I come now to the crucial and most difficult part of my narrative--all the more difficult
 because I cannot be quite certain of its reality. At times I feel uncomfortably sure that I
-was not dreaming or deluded; and it is this feeling&mdash;in view of the stupendous implications
-which the objective truth of my experience would raise&mdash;which impels me to make this record.
-My son&mdash;a trained psychologist with the fullest and most sympathetic knowledge of my whole
-case&mdash;shall be the primary judge of what I have to tell.  
+was not dreaming or deluded; and it is this feeling--in view of the stupendous implications
+which the objective truth of my experience would raise--which impels me to make this record.
+My son--a trained psychologist with the fullest and most sympathetic knowledge of my whole
+case--shall be the primary judge of what I have to tell.  
 
   First let me outline the externals of the matter, as those at the camp know
 them. On the night of July 17&ndash;18, after a windy day, I retired early but could not sleep.
 Rising shortly before eleven, and afflicted as usual with that strange feeling regarding the
 northeastward terrain, I set out on one of my typical nocturnal walks; seeing and greeting only
-one person&mdash;an Australian miner named Tupper&mdash;as I left our precincts. The moon, slightly
+one person--an Australian miner named Tupper--as I left our precincts. The moon, slightly
 past full, shone from a clear sky and drenched the ancient sands with a white, leprous radiance
 which seemed to me somehow infinitely evil. There was no longer any wind, nor did any return
 for nearly five hours, as amply attested by Tupper and others who did not sleep through the
@@ -1234,50 +1234,50 @@ toward the northeast.
   About 3:30 a.m. a violent wind blew up, waking everyone in camp and felling
 three of the tents. The sky was unclouded, and the desert still blazed with that leprous moonlight.
 As the party saw to the tents my absence was noted, but in view of my previous walks this circumstance
-gave no one alarm. And yet as many as three men&mdash;all Australians&mdash;seemed to feel something
+gave no one alarm. And yet as many as three men--all Australians--seemed to feel something
 sinister in the air. Mackenzie explained to Prof. Freeborn that this was a fear picked up from
-blackfellow folklore&mdash;the natives having woven a curious fabric of malignant myth about
+blackfellow folklore--the natives having woven a curious fabric of malignant myth about
 the high winds which at long intervals sweep across the sands under a clear sky. Such winds,
 it is whispered, blow out of the great stone huts under the ground where terrible things have
-happened&mdash;and are never felt except near places where the big marked stones are scattered.
+happened--and are never felt except near places where the big marked stones are scattered.
 Close to four the gale subsided as suddenly as it had begun, leaving the sand hills in new and
 unfamiliar shapes.  
 
   It was just past five, with the bloated, fungoid moon sinking in the west,
-when I staggered into camp&mdash;hatless, tattered, features scratched and ensanguined, and
+when I staggered into camp--hatless, tattered, features scratched and ensanguined, and
 without my electric torch. Most of the men had returned to bed, but Prof. Dyer was smoking a
 pipe in front of his tent. Seeing my winded and almost frenzied state, he called Dr. Boyle,
 and the two of them got me on my cot and made me comfortable. My son, roused by the stir, soon
 joined them, and they all tried to force me to lie still and attempt sleep.  
 
-  But there was no sleep for me. My psychological state was very extraordinary&mdash;different
-from anything I had previously suffered. After a time I insisted upon talking&mdash;nervously
+  But there was no sleep for me. My psychological state was very extraordinary--different
+from anything I had previously suffered. After a time I insisted upon talking--nervously
 and elaborately explaining my condition. I told them I had become fatigued, and had lain down
-in the sand for a nap. There had, I said, been dreams even more frightful than usual&mdash;and
+in the sand for a nap. There had, I said, been dreams even more frightful than usual--and
 when I was awaked by the sudden high wind my overwrought nerves had snapped. I had fled in panic,
 frequently falling over half-buried stones and thus gaining my tattered and bedraggled aspect.
-I must have slept long&mdash;hence the hours of my absence.  
+I must have slept long--hence the hours of my absence.  
 
-  Of anything strange either seen or experienced I hinted absolutely nothing&mdash;exercising
+  Of anything strange either seen or experienced I hinted absolutely nothing--exercising
 the greatest self-control in that respect. But I spoke of a change of mind regarding the whole
 work of the expedition, and earnestly urged a halt in all digging toward the northeast. My reasoning
-was patently weak&mdash;for I mentioned a dearth of blocks, a wish not to offend the superstitious
+was patently weak--for I mentioned a dearth of blocks, a wish not to offend the superstitious
 miners, a possible shortage of funds from the college, and other things either untrue or irrelevant.
-Naturally, no one paid the least attention to my new wishes&mdash;not even my son, whose concern
+Naturally, no one paid the least attention to my new wishes--not even my son, whose concern
 for my health was very obvious.  
 
   The next day I was up and around the camp, but took no part in the excavations.
 Seeing that I could not stop the work, I decided to return home as soon as possible for the
-sake of my nerves, and made my son promise to fly me in the plane to Perth&mdash;a thousand
-miles to the southwest&mdash;as soon as he had surveyed the region I wished let alone. If, I
+sake of my nerves, and made my son promise to fly me in the plane to Perth--a thousand
+miles to the southwest--as soon as he had surveyed the region I wished let alone. If, I
 reflected, the thing I had seen was still visible, I might decide to attempt a specific warning
 even at the cost of ridicule. It was just conceivable that the miners who knew the local folklore
 might back me up. Humouring me, my son made the survey that very afternoon; flying over all
 the terrain my walk could possibly have covered. Yet nothing of what I had found remained in
-sight. It was the case of the anomalous basalt block all over again&mdash;the shifting sand
+sight. It was the case of the anomalous basalt block all over again--the shifting sand
 had wiped out every trace. For an instant I half regretted having lost a certain awesome object
-in my stark fright&mdash;but now I know that the loss was merciful. I can still believe my whole
-experience an illusion&mdash;especially if, as I devoutly hope, that hellish abyss is never
+in my stark fright--but now I know that the loss was merciful. I can still believe my whole
+experience an illusion--especially if, as I devoutly hope, that hellish abyss is never
 found.  
 
   Wingate took me to Perth July 20, though declining to abandon the expedition
@@ -1285,7 +1285,7 @@ and return home. He stayed with me until the 25th, when the steamer for Liverpoo
 in the cabin of the   Empress,   I am pondering long and frantically on the entire matter,
 and have decided that my son at least must be informed. It shall rest with him whether to diffuse
 the matter more widely. In order to meet any eventuality I have prepared this summary of my
-background&mdash;as already known in a scattered way to others&mdash;and will now tell as briefly
+background--as already known in a scattered way to others--and will now tell as briefly
 as possible what seemed to happen during my absence from the camp that hideous night.  
 
   Nerves on edge, and whipped into a kind of perverse eagerness by that inexplicable,
@@ -1296,7 +1296,7 @@ began to oppress me as never before, and I could not keep from thinking of my ma
 of the frightful legends which lay behind them, and of the present fears of natives and miners
 concerning the desert and its carven stones.  
 
-  And yet I plodded on as if to some eldritch rendezvous&mdash;more and more
+  And yet I plodded on as if to some eldritch rendezvous--more and more
 assailed by bewildering fancies, compulsions, and pseudo-memories. I thought of some of the
 possible contours of the lines of stones as seen by my son from the air, and wondered why they
 seemed at once so ominous and so familiar. Something was fumbling and rattling at the latch
@@ -1313,8 +1313,8 @@ blocks as well as the rooms and corridors; the evil, burning moon as well as the
 crystal; the endless desert as well as the waving ferns and cycads beyond the windows. I was
 awake and dreaming at the same time.  
 
-  I do not know how long or how far&mdash;or indeed, in just what direction&mdash;I
-had walked when I first spied the heap of blocks bared by the day&rsquo;s wind. It was the largest
+  I do not know how long or how far--or indeed, in just what direction--I
+had walked when I first spied the heap of blocks bared by the day's wind. It was the largest
 group in one place that I had so far seen, and so sharply did it impress me that the visions
 of fabulous aeons faded suddenly away. Again there were only the desert and the evil moon and
 the shards of an unguessed past. I drew close and paused, and cast the added light of my electric
@@ -1327,9 +1327,9 @@ in the sand-worn traces of design arrested me as I scanned them under the mingle
 moon and my torch. Not that any one differed essentially from the earlier specimens we had found.
 It was something subtler than that. The impression did not come when I looked at one block alone,
 but only when I ran my eye over several almost simultaneously. Then, at last, the truth dawned
-upon me. The curvilinear patterns on many of these blocks were   closely related  &mdash;parts
+upon me. The curvilinear patterns on many of these blocks were   closely related  --parts
 of one vast decorative conception. For the first time in this aeon-shaken waste I had come upon
-a mass of masonry in its old position&mdash;tumbled and fragmentary, it is true, but none the
+a mass of masonry in its old position--tumbled and fragmentary, it is true, but none the
 less existing in a very definite sense.  
 
   Mounting at a low place, I clambered laboriously over the heap; here and there
@@ -1355,7 +1355,7 @@ cool air trickling upward from a depressed place near the centre of the huge hea
 as once before, my visions faded, and I saw again only the evil moonlight, the brooding desert,
 and the spreading tumulus of palaeogean masonry. Something real and tangible, yet fraught with
 infinite suggestions of nighted mystery, now confronted me. For that stream of air could argue
-but one thing&mdash;a hidden gulf of great size beneath the disordered blocks on the surface.  
+but one thing--a hidden gulf of great size beneath the disordered blocks on the surface.  
 
   My first thought was of the sinister blackfellow legends of vast underground
 huts among the megaliths where horrors happen and great winds are born. Then thoughts of my
@@ -1367,24 +1367,24 @@ curiosity and scientific zeal was driving me on and working against my growing f
   I seemed to move almost automatically, as if in the clutch of some compelling
 fate. Pocketing my torch, and struggling with a strength that I had not thought I possessed,
 I wrenched aside first one titan fragment of stone and then another, till there welled up a
-strong draught whose dampness contrasted oddly with the desert&rsquo;s dry air. A black rift
-began to yawn, and at length&mdash;when I had pushed away every fragment small enough to budge&mdash;the
+strong draught whose dampness contrasted oddly with the desert's dry air. A black rift
+began to yawn, and at length--when I had pushed away every fragment small enough to budge--the
 leprous moonlight blazed on an aperture of ample width to admit me.  
 
   I drew out my torch and cast a brilliant beam into the opening. Below me was
 a chaos of tumbled masonry, sloping roughly down toward the north at an angle of about forty-five
 degrees, and evidently the result of some bygone collapse from above. Between its surface and
 the ground level was a gulf of impenetrable blackness at whose upper edge were signs of gigantic,
-stress-heaved vaulting. At this point, it appeared, the desert&rsquo;s sands lay directly upon
-a floor of some titan structure of earth&rsquo;s youth&mdash;how preserved through aeons of
+stress-heaved vaulting. At this point, it appeared, the desert's sands lay directly upon
+a floor of some titan structure of earth's youth--how preserved through aeons of
 geologic convulsion I could not then and cannot now even attempt to guess.  
 
   In retrospect, the barest idea of a sudden, lone descent into such a doubtful
-abyss&mdash;and at a time when one&rsquo;s whereabouts were unknown to any living soul&mdash;seems
-like the utter apex of insanity. Perhaps it was&mdash;yet that night I embarked without hesitancy
+abyss--and at a time when one's whereabouts were unknown to any living soul--seems
+like the utter apex of insanity. Perhaps it was--yet that night I embarked without hesitancy
 upon such a descent. Again there was manifest that lure and driving of fatality which had all
 along seemed to direct my course. With torch flashing intermittently to save the battery, I
-commenced a mad scramble down the sinister, Cyclopean incline below the opening&mdash;sometimes
+commenced a mad scramble down the sinister, Cyclopean incline below the opening--sometimes
 facing forward as I found good hand and foot holds, and at other times turning to face the heap
 of megaliths as I clung and fumbled more precariously. In two directions beside me, distant
 walls of carven, crumbling masonry loomed dimly under the direct beams of my torch. Ahead, however,
@@ -1394,8 +1394,8 @@ was only unbroken blackness.
 hints and images was my mind, that all objective matters seemed withdrawn into incalculable
 distances. Physical sensation was dead, and even fear remained as a wraith-like, inactive gargoyle
 leering impotently at me. Eventually I reached a level floor strown with fallen blocks, shapeless
-fragments of stone, and sand and detritus of every kind. On either side&mdash;perhaps thirty
-feet apart&mdash;rose massive walls culminating in huge groinings. That they were carved I could
+fragments of stone, and sand and detritus of every kind. On either side--perhaps thirty
+feet apart--rose massive walls culminating in huge groinings. That they were carved I could
 just discern, but the nature of the carvings was beyond my perception. What held me the most
 was the vaulting overhead. The beam from my torch could not reach the roof, but the lower parts
 of the monstrous arches stood out distinctly. And so perfect was their identity with what I
@@ -1413,7 +1413,7 @@ familiarity of the great octagonal stones whose buckled surface still held rough
 and carefully over its worn remnants of carving. Some bygone influx of water seemed to have
 acted on the sandstone surface, while there were curious incrustations which I could not explain.
 In places the masonry was very loose and distorted, and I wondered how many aeons more this
-primal, hidden edifice could keep its remaining traces of form amidst earth&rsquo;s heavings.  
+primal, hidden edifice could keep its remaining traces of form amidst earth's heavings.  
 
   But it was the carvings themselves that excited me most. Despite their time-crumbled
 state, they were relatively easy to trace at close range; and the complete, intimate familiarity
@@ -1433,7 +1433,7 @@ shewed the place in its undecayed prime; but the identity was no less real on th
 I was wholly and horribly oriented. The particular structure I was in was known to me. Known,
 too, was its place in that terrible elder city of dreams. That I could visit unerringly any
 point in that structure or in that city which had escaped the changes and devastations of uncounted
-ages, I realised with hideous and instinctive certainty. What in God&rsquo;s name could all
+ages, I realised with hideous and instinctive certainty. What in God's name could all
 this mean? How had I come to know what I knew? And what awful reality could lie behind those
 antique tales of the beings who had dwelt in this labyrinth of primordial stone?  
 
@@ -1444,15 +1444,15 @@ with a shudder, to keep that faint blur of moonlight in view. I was torn betwixt
 flee and a feverish mixture of burning curiosity and driving fatality. What had happened to
 this monstrous megalopolis of eld in the millions of years since the time of my dreams? Of the
 subterrene mazes which had underlain the city and linked all its titan towers, how much had
-still survived the writhings of earth&rsquo;s crust?  
+still survived the writhings of earth's crust?  
 
   Had I come upon a whole buried world of unholy archaism? Could I still find
-the house of the writing-master, and the tower where S&rsquo;gg&rsquo;ha, a captive mind from
+the house of the writing-master, and the tower where S'gg'ha, a captive mind from
 the star-headed vegetable carnivores of Antarctica, had chiselled certain pictures on the blank
 spaces of the walls? Would the passage at the second level down, to the hall of the alien minds,
-be still unchoked and traversable? In that hall the captive mind of an incredible entity&mdash;a
+be still unchoked and traversable? In that hall the captive mind of an incredible entity--a
 half-plastic denizen of the hollow interior of an unknown trans-Plutonian planet eighteen million
-years in the future&mdash;had kept a certain thing which it had modelled from clay.  
+years in the future--had kept a certain thing which it had modelled from clay.  
 
   I shut my eyes and put my hand to my head in a vain, pitiful effort to drive
 these insane dream-fragments from my consciousness. Then, for the first time, I felt acutely
@@ -1464,8 +1464,8 @@ at my brain as I recalled the awesome records that once lay cased in those recta
 of rustless metal.  
 
   There, said the dreams and legends, had reposed the whole history, past and
-future, of the cosmic space-time continuum&mdash;written by captive minds from every orb and
-every age in the solar system. Madness, of course&mdash;but had I not now stumbled into a nighted
+future, of the cosmic space-time continuum--written by captive minds from every orb and
+every age in the solar system. Madness, of course--but had I not now stumbled into a nighted
 world as mad as I? I thought of the locked metal shelves, and of the curious knob-twistings
 needed to open each one. My own came vividly into my consciousness. How often had I gone through
 that intricate routine of varied turns and pressures in the terrestrial vertebrate section on
@@ -1476,9 +1476,9 @@ the depths below.
 
     VII.    
 
-From that point forward my impressions are scarcely to be relied on&mdash;indeed, I still possess
-a final, desperate hope that they all form parts of some daemoniac dream&mdash;or illusion born
-of delirium. A fever raged in my brain, and everything came to me through a kind of haze&mdash;sometimes
+From that point forward my impressions are scarcely to be relied on--indeed, I still possess
+a final, desperate hope that they all form parts of some daemoniac dream--or illusion born
+of delirium. A fever raged in my brain, and everything came to me through a kind of haze--sometimes
 only intermittently. The rays of my torch shot feebly into the engulfing blackness, bringing
 phantasmal flashes of hideously familiar walls and carvings, all blighted with the decay of
 ages. In one place a tremendous mass of vaulting had fallen, so that I had to clamber over a
@@ -1489,39 +1489,39 @@ by a sense of unwonted smallness, as if the sight of these towering walls from a
 body was something wholly new and abnormal. Again and again I looked nervously down at myself,
 vaguely disturbed by the human form I possessed.  
 
-  Onward through the blackness of the abyss I leaped, plunged, and staggered&mdash;often
+  Onward through the blackness of the abyss I leaped, plunged, and staggered--often
 falling and bruising myself, and once nearly shattering my torch. Every stone and corner of
 that daemoniac gulf was known to me, and at many points I stopped to cast beams of light through
 choked and crumbling yet familiar archways. Some rooms had totally collapsed; others were bare
-or debris-filled. In a few I saw masses of metal&mdash;some fairly intact, some broken, and
-some crushed or battered&mdash;which I recognised as the colossal pedestals or tables of my
+or debris-filled. In a few I saw masses of metal--some fairly intact, some broken, and
+some crushed or battered--which I recognised as the colossal pedestals or tables of my
 dreams. What they could in truth have been, I dared not guess.  
 
-  I found the downward incline and began its descent&mdash;though after a time
+  I found the downward incline and began its descent--though after a time
 halted by a gaping, ragged chasm whose narrowest point could not be much less than four feet
 across. Here the stonework had fallen through, revealing incalculable inky depths beneath. I
 knew there were two more cellar levels in this titan edifice, and trembled with fresh panic
-as I recalled the metal-clamped trap-door on the lowest one. There could be no guards now&mdash;for
+as I recalled the metal-clamped trap-door on the lowest one. There could be no guards now--for
 what had lurked beneath had long since done its hideous work and sunk into its long decline.
 By the time of the post-human beetle race it would be quite dead. And yet, as I thought of the
 native legends, I trembled anew.  
 
   It cost me a terrible effort to vault that yawning chasm, since the littered
-floor prevented a running start&mdash;but madness drove me on. I chose a place close to the
-left-hand wall&mdash;where the rift was least wide and the landing-spot reasonably clear of
-dangerous debris&mdash;and after one frantic moment reached the other side in safety. At last
+floor prevented a running start--but madness drove me on. I chose a place close to the
+left-hand wall--where the rift was least wide and the landing-spot reasonably clear of
+dangerous debris--and after one frantic moment reached the other side in safety. At last
 gaining the lower level, I stumbled on past the archway of the room of machines, within which
 were fantastic ruins of metal half-buried beneath fallen vaulting. Everything was where I knew
 it would be, and I climbed confidently over the heaps which barred the entrance of a vast transverse
 corridor. This, I realised, would take me under the city to the central archives.  
 
   Endless ages seemed to unroll as I stumbled, leaped, and crawled along that
-debris-cluttered corridor. Now and then I could make out carvings on the age-stained walls&mdash;some
+debris-cluttered corridor. Now and then I could make out carvings on the age-stained walls--some
 familiar, others seemingly added since the period of my dreams. Since this was a subterrene
 house-connecting highway, there were no archways save when the route led through the lower levels
 of various buildings. At some of these intersections I turned aside long enough to look down
 well-remembered corridors and into well-remembered rooms. Twice only did I find any radical
-changes from what I had dreamed of&mdash;and in one of these cases I could trace the sealed-up
+changes from what I had dreamed of--and in one of these cases I could trace the sealed-up
 outlines of the archway I remembered.  
 
   I shook violently, and felt a curious surge of retarding weakness, as I steered
@@ -1529,10 +1529,10 @@ a hurried and reluctant course through the crypt of one of those great windowles
 whose alien basalt masonry bespoke a whispered and horrible origin. This primal vault was round
 and fully two hundred feet across, with nothing carved upon the dark-hued stonework. The floor
 was here free from anything save dust and sand, and I could see the apertures leading upward
-and downward. There were no stairs or inclines&mdash;indeed, my dreams had pictured those elder
+and downward. There were no stairs or inclines--indeed, my dreams had pictured those elder
 towers as wholly untouched by the fabulous Great Race. Those who had built them had not needed
 stairs or inclines. In the dreams, the downward aperture had been tightly sealed and nervously
-guarded. Now it lay open&mdash;black and yawning, and giving forth a current of cool, damp air.
+guarded. Now it lay open--black and yawning, and giving forth a current of cool, damp air.
 Of what limitless caverns of eternal night might brood below, I would not permit myself to think.  
 
   Later, clawing my way along a badly heaped section of the corridor, I reached
@@ -1546,18 +1546,18 @@ after a short distance encountered a wholly choked place where the fallen vaulti
 the perilously sagging ceiling. How I managed to wrench and tear aside enough blocks to afford
 a passage, and how I dared disturb the tightly packed fragments when the least shift of equilibrium
 might have brought down all the tons of superincumbent masonry to crush me to nothingness, I
-do not know. It was sheer madness that impelled and guided me&mdash;if, indeed, my whole underground
-adventure was not&mdash;as I hope&mdash;a hellish delusion or phase of dreaming. But I did make&mdash;or
-dream that I made&mdash;a passage that I could squirm through. As I wriggled over the mound
-of debris&mdash;my torch, switched continuously on, thrust deeply within my mouth&mdash;I felt
+do not know. It was sheer madness that impelled and guided me--if, indeed, my whole underground
+adventure was not--as I hope--a hellish delusion or phase of dreaming. But I did make--or
+dream that I made--a passage that I could squirm through. As I wriggled over the mound
+of debris--my torch, switched continuously on, thrust deeply within my mouth--I felt
 myself torn by the fantastic stalactites of the jagged floor above me.  
 
   I was now close to the great underground archival structure which seemed to
 form my goal. Sliding and clambering down the farther side of the barrier, and picking my way
 along the remaining stretch of corridor with hand-held, intermittently flashing torch, I came
-at last to a low, circular crypt with arches&mdash;still in a marvellous state of preservation&mdash;opening
+at last to a low, circular crypt with arches--still in a marvellous state of preservation--opening
 off on every side. The walls, or such parts of them as lay within reach of my torchlight, were
-densely hieroglyphed and chiselled with typical curvilinear symbols&mdash;some added since the
+densely hieroglyphed and chiselled with typical curvilinear symbols--some added since the
 period of my dreams.  
 
   This, I realised, was my fated destination, and I turned at once through a
@@ -1565,7 +1565,7 @@ familiar archway on my left. That I could find a clear passage up and down the i
 the surviving levels, I had oddly little doubt. This vast, earth-protected pile, housing the
 annals of all the solar system, had been built with supernal skill and strength to last as long
 as that system itself. Blocks of stupendous size, poised with mathematical genius and bound
-with cements of incredible toughness, had combined to form a mass as firm as the planet&rsquo;s
+with cements of incredible toughness, had combined to form a mass as firm as the planet's
 rocky core. Here, after ages more prodigious than I could sanely grasp, its buried bulk stood
 in all its essential contours; the vast, dust-drifted floors scarce sprinkled with the litter
 elsewhere so dominant.  
@@ -1589,9 +1589,9 @@ known to me, and I snapped up the still rustless and workable lid and drew out t
 The latter, as expected, was some twenty by fifteen inches in area, and two inches thick; the
 thin metal covers opening at the top. Its tough cellulose pages seemed unaffected by the myriad
 cycles of time they had lived through, and I studied the queerly pigmented, brush-drawn letters
-of the text&mdash;symbols utterly unlike either the usual curved hieroglyphs or any alphabet
-known to human scholarship&mdash;with a haunting, half-aroused memory. It came to me that this
-was the language used by a captive mind I had known slightly in my dreams&mdash;a mind from
+of the text--symbols utterly unlike either the usual curved hieroglyphs or any alphabet
+known to human scholarship--with a haunting, half-aroused memory. It came to me that this
+was the language used by a captive mind I had known slightly in my dreams--a mind from
 a large asteroid on which had survived much of the archaic life and lore of the primal planet
 whereof it formed a fragment. At the same time I recalled that this level of the archives was
 devoted to volumes dealing with the non-terrestrial planets.  
@@ -1599,7 +1599,7 @@ devoted to volumes dealing with the non-terrestrial planets.
   As I ceased poring over this incredible document I saw that the light of my
 torch was beginning to fail, hence quickly inserted the extra battery I always had with me.
 Then, armed with the stronger radiance, I resumed my feverish racing through unending tangles
-of aisles and corridors&mdash;recognising now and then some familiar shelf, and vaguely annoyed
+of aisles and corridors--recognising now and then some familiar shelf, and vaguely annoyed
 by the acoustic conditions which made my footfalls echo incongruously in these catacombs of
 aeon-long death and silence. The very prints of my shoes behind me in the millennially untrodden
 dust made me shudder. Never before, if my mad dreams held anything of truth, had human feet
@@ -1612,12 +1612,12 @@ by me as I raced, but I did not pause to explore them. In my whirling brain ther
 to beat a certain rhythm which set my right hand twitching in unison. I wanted to unlock something,
 and felt that I knew all the intricate twists and pressures needed to do it. It would be like
 a modern safe with a combination lock. Dream or not, I had once known and still knew. How any
-dream&mdash;or scrap of unconsciously absorbed legend&mdash;could have taught me a detail so
+dream--or scrap of unconsciously absorbed legend--could have taught me a detail so
 minute, so intricate, and so complex, I did not attempt to explain to myself. I was beyond all
-coherent thought. For was not this whole experience&mdash;this shocking familiarity with a set
+coherent thought. For was not this whole experience--this shocking familiarity with a set
 of unknown ruins, and this monstrously exact identity of everything before me with what only
-dreams and scraps of myth could have suggested&mdash;a horror beyond all reason? Probably it
-was my basic conviction then&mdash;as it is now during my saner moments&mdash;that I was not
+dreams and scraps of myth could have suggested--a horror beyond all reason? Probably it
+was my basic conviction then--as it is now during my saner moments--that I was not
 awake at all, and that the entire buried city was a fragment of febrile hallucination.  
 
   Eventually I reached the lowest level and struck off to the right of the incline.
@@ -1638,12 +1638,12 @@ and had echoed at intervals to the deafening clatter of toppling objects. It was
 was nearly across the space that I realised why I shook so violently.  
 
   Not the heap, but something about the dust of the level floor was troubling
-me. In the light of my torch it seemed as if that dust were not as even as it ought to be&mdash;there
+me. In the light of my torch it seemed as if that dust were not as even as it ought to be--there
 were places where it looked thinner, as if it had been disturbed not many months before. I could
 not be sure, for even the apparently thinner places were dusty enough; yet a certain suspicion
 of regularity in the fancied unevenness was highly disquieting. When I brought the torchlight
-close to one of the queer places I did not like what I saw&mdash;for the illusion of regularity
-became very great. It was as if there were regular lines of composite impressions&mdash;impressions
+close to one of the queer places I did not like what I saw--for the illusion of regularity
+became very great. It was as if there were regular lines of composite impressions--impressions
 that went in threes, each slightly over a foot square, and consisting of five nearly circular
 three-inch prints, one in advance of the other four.  
 
@@ -1664,14 +1664,14 @@ heap of lately fallen cases and running on tiptoe through aisles of utterly unbr
 a point which I seemed to know morbidly, horribly well. My mind was asking itself questions
 whose origin and relevancy I was only beginning to guess. Would the shelf be reachable by a
 human body? Could my human hand master all the aeon-remembered motions of the lock? Would the
-lock be undamaged and workable? And what would I do&mdash;what dare I do&mdash;with what (as
+lock be undamaged and workable? And what would I do--what dare I do--with what (as
 I now commenced to realise) I both hoped and feared to find? Would it prove the awesome, brain-shattering
 truth of something past normal conception, or shew only that I was dreaming?  
 
   The next I knew I had ceased my tiptoe racing and was standing still, staring
 at a row of maddeningly familiar hieroglyphed shelves. They were in a state of almost perfect
 preservation, and only three of the doors in this vicinity had sprung open. My feelings toward
-these shelves cannot be described&mdash;so utter and insistent was the sense of old acquaintance.
+these shelves cannot be described--so utter and insistent was the sense of old acquaintance.
 I was looking high up, at a row near the top and wholly out of my reach, and wondering how I
 could climb to best advantage. An open door four rows from the bottom would help, and the locks
 of the closed doors formed possible holds for hands and feet. I would grip the torch between
@@ -1679,7 +1679,7 @@ my teeth as I had in other places where both hands were needed. Above all, I mus
 How to get down what I wished to remove would be difficult, but I could probably hook its movable
 fastener in my coat collar and carry it like a knapsack. Again I wondered whether the lock would
 be undamaged. That I could repeat each familiar motion I had not the least doubt. But I hoped
-the thing would not scrape or creak&mdash;and that my hand could work it properly.  
+the thing would not scrape or creak--and that my hand could work it properly.  
 
   Even as I thought these things I had taken the torch in my mouth and begun
 to climb. The projecting locks were poor supports; but as I had expected, the opened shelf helped
@@ -1688,7 +1688,7 @@ ascent, and managed to avoid any loud creaking. Balanced on the upper edge of th
 leaning far to my right, I could just reach the lock I sought. My fingers, half-numb from climbing,
 were very clumsy at first; but I soon saw that they were anatomically adequate. And the memory-rhythm
 was strong in them. Out of unknown gulfs of time the intricate secret motions had somehow reached
-my brain correctly in every detail&mdash;for after less than five minutes of trying there came
+my brain correctly in every detail--for after less than five minutes of trying there came
 a click whose familiarity was all the more startling because I had not consciously anticipated
 it. In another instant the metal door was slowly swinging open with only the faintest grating
 sound.  
@@ -1705,12 +1705,12 @@ the cover, I shifted the heavy object to my back, and let the hook catch hold of
 Hands now free, I awkwardly clambered down to the dusty floor, and prepared to inspect my prize.  
 
   Kneeling in the gritty dust, I swung the case around and rested it in front
-of me. My hands shook, and I dreaded to draw out the book within almost as much as I longed&mdash;and
-felt compelled&mdash;to do so. It had very gradually become clear to me what I ought to find,
-and this realisation nearly paralysed my faculties. If the thing were there&mdash;and if I were
-not dreaming&mdash;the implications would be quite beyond the power of the human spirit to bear.
+of me. My hands shook, and I dreaded to draw out the book within almost as much as I longed--and
+felt compelled--to do so. It had very gradually become clear to me what I ought to find,
+and this realisation nearly paralysed my faculties. If the thing were there--and if I were
+not dreaming--the implications would be quite beyond the power of the human spirit to bear.
 What tormented me most was my momentary inability to feel that my surroundings were a dream.
-The sense of reality was hideous&mdash;and again becomes so as I recall the scene.  
+The sense of reality was hideous--and again becomes so as I recall the scene.  
 
   At length I tremblingly pulled the book from its container and stared fascinatedly
 at the well-known hieroglyphs on the cover. It seemed to be in prime condition, and the curvilinear
@@ -1718,28 +1718,28 @@ letters of the title held me in almost as hypnotised a state as if I could read 
 I cannot swear that I did not actually read them in some transient and terrible access of abnormal
 memory. I do not know how long it was before I dared to lift that thin metal cover. I temporised
 and made excuses to myself. I took the torch from my mouth and shut it off to save the battery.
-Then, in the dark, I screwed up my courage&mdash;finally lifting the cover without turning on
-the light. Last of all I did indeed flash the torch upon the exposed page&mdash;steeling myself
+Then, in the dark, I screwed up my courage--finally lifting the cover without turning on
+the light. Last of all I did indeed flash the torch upon the exposed page--steeling myself
 in advance to suppress any sound no matter what I should find.  
 
   I looked for an instant, then almost collapsed. Clenching my teeth, however,
 I kept silence. I sank wholly to the floor and put a hand to my forehead amidst the engulfing
 blackness. What I dreaded and expected was there. Either I was dreaming, or time and space had
-become a mockery. I must be dreaming&mdash;but I would test the horror by carrying this thing
+become a mockery. I must be dreaming--but I would test the horror by carrying this thing
 back and shewing it to my son if it were indeed a reality. My head swam frightfully, even though
 there were no visible objects in the unbroken gloom to swirl around me. Ideas and images of
-the starkest terror&mdash;excited by vistas which my glimpse had opened up&mdash;began to throng
+the starkest terror--excited by vistas which my glimpse had opened up--began to throng
 in upon me and cloud my senses.  
 
   I thought of those possible prints in the dust, and trembled at the sound of
 my own breathing as I did so. Once again I flashed on the light and looked at the page as a
-serpent&rsquo;s victim may look at his destroyer&rsquo;s eyes and fangs. Then, with clumsy fingers
+serpent's victim may look at his destroyer's eyes and fangs. Then, with clumsy fingers
 in the dark, I closed the book, put it in its container, and snapped the lid and the curious
-hooked fastener. This was what I must carry back to the outer world if it truly existed&mdash;if
-the whole abyss truly existed&mdash;if I, and the world itself, truly existed.  
+hooked fastener. This was what I must carry back to the outer world if it truly existed--if
+the whole abyss truly existed--if I, and the world itself, truly existed.  
 
   Just when I tottered to my feet and commenced my return I cannot be certain.
-It comes to me oddly&mdash;as a measure of my sense of separation from the normal world&mdash;that
+It comes to me oddly--as a measure of my sense of separation from the normal world--that
 I did not even once look at my watch during those hideous hours underground. Torch in hand,
 and with the ominous case under one arm, I eventually found myself tiptoeing in a kind of silent
 panic past the draught-giving abyss and those lurking suggestions of prints. I lessened my precautions
@@ -1748,14 +1748,14 @@ I had not felt on the downward journey.
 
   I dreaded having to re-pass through that black basalt crypt that was older
 than the city itself, where cold draughts welled up from unguarded depths. I thought of that
-which the Great Race had feared, and of what might still be lurking&mdash;be it ever so weak
-and dying&mdash;down there. I thought of those possible five-circle prints and of what my dreams
-had told me of such prints&mdash;and of strange winds and whistling noises associated with them.
+which the Great Race had feared, and of what might still be lurking--be it ever so weak
+and dying--down there. I thought of those possible five-circle prints and of what my dreams
+had told me of such prints--and of strange winds and whistling noises associated with them.
 And I thought of the tales of the modern blacks, wherein the horror of great winds and nameless
 subterrene ruins was dwelt upon.  
 
-  I knew from a carven wall symbol the right floor to enter, and came at last&mdash;after
-passing that other book I had examined&mdash;to the great circular space with the branching
+  I knew from a carven wall symbol the right floor to enter, and came at last--after
+passing that other book I had examined--to the great circular space with the branching
 archways. On my right, and at once recognisable, was the arch through which I had arrived. This
 I now entered, conscious that the rest of my course would be harder because of the tumbled state
 of the masonry outside the archive building. My new metal-cased burden weighed upon me, and
@@ -1763,19 +1763,19 @@ I found it harder and harder to be quiet as I stumbled among debris and fragment
 
   Then I came to the ceiling-high mound of debris through which I had wrenched
 a scanty passage. My dread at wriggling through again was infinite; for my first passage had
-made some noise, and I now&mdash;after seeing those possible prints&mdash;dreaded sound above
+made some noise, and I now--after seeing those possible prints--dreaded sound above
 all things. The case, too, doubled the problem of traversing the narrow crevice. But I clambered
 up the barrier as best I could, and pushed the case through the aperture ahead of me. Then,
-torch in mouth, I scrambled through myself&mdash;my back torn as before by stalactites. As I
+torch in mouth, I scrambled through myself--my back torn as before by stalactites. As I
 tried to grasp the case again, it fell some distance ahead of me down the slope of the debris,
 making a disturbing clatter and arousing echoes which sent me into a cold perspiration. I lunged
-for it at once, and regained it without further noise&mdash;but a moment afterward the slipping
+for it at once, and regained it without further noise--but a moment afterward the slipping
 of blocks under my feet raised a sudden and unprecedented din.  
 
   The din was my undoing. For, falsely or not, I thought I heard it answered
 in a terrible way from spaces far behind me. I thought I heard a shrill, whistling sound, like
 nothing else on earth, and beyond any adequate verbal description. It may have been only my
-imagination. If so, what followed has a grim irony&mdash;since, save for the panic of this thing,
+imagination. If so, what followed has a grim irony--since, save for the panic of this thing,
 the second thing might never have happened.  
 
   As it was, my frenzy was absolute and unrelieved. Taking my torch in my hand
@@ -1790,15 +1790,15 @@ black cavern air in a deafening series of earth-shaking reverberations.
 
   I have no recollection of emerging from this chaos, but a momentary fragment
 of consciousness shews me as plunging and tripping and scrambling along the corridor amidst
-the clangour&mdash;case and torch still with me. Then, just as I approached that primal basalt
+the clangour--case and torch still with me. Then, just as I approached that primal basalt
 crypt I had so dreaded, utter madness came. For as the echoes of the avalanche died down, there
 became audible a repetition of that frightful, alien whistling I thought I had heard before.
-This time there was no doubt about it&mdash;and what was worse, it came from a point not behind
+This time there was no doubt about it--and what was worse, it came from a point not behind
 but   ahead of me.    
 
   Probably I shrieked aloud then. I have a dim picture of myself as flying through
 the hellish basalt vault of the Elder Things, and hearing that damnable alien sound piping up
-from the open, unguarded door of limitless nether blacknesses. There was a wind, too&mdash;not
+from the open, unguarded door of limitless nether blacknesses. There was a wind, too--not
 merely a cool, damp draught, but a violent, purposeful blast belching savagely and frigidly
 from that abominable gulf whence the obscene whistling came.  
 
@@ -1811,12 +1811,12 @@ a great barrier of blocks and was again in the structure that led to the surface
 the archway to the room of machines and almost crying out as I saw the incline leading down
 to where one of those blasphemous trap-doors must be yawning two levels below. But instead of
 crying out I muttered over and over to myself that this was all a dream from which I must soon
-awake. Perhaps I was in camp&mdash;perhaps I was at home in Arkham. As these hopes bolstered
+awake. Perhaps I was in camp--perhaps I was at home in Arkham. As these hopes bolstered
 up my sanity I began to mount the incline to the higher level.  
 
   I knew, of course, that I had the four-foot cleft to re-cross, yet was too
 racked by other fears to realise the full horror until I came almost upon it. On my descent,
-the leap across had been easy&mdash;but could I clear the gap as readily when going uphill,
+the leap across had been easy--but could I clear the gap as readily when going uphill,
 and hampered by fright, exhaustion, the weight of the metal case, and the anomalous backward
 tug of that daemon wind? I thought of these things at the last moment, and thought also of the
 nameless entities which might be lurking in the black abysses below the chasm.  
@@ -1824,12 +1824,12 @@ nameless entities which might be lurking in the black abysses below the chasm.
   My wavering torch was growing feeble, but I could tell by some obscure memory
 when I neared the cleft. The chill blasts of wind and the nauseous whistling shrieks behind
 me were for the moment like a merciful opiate, dulling my imagination to the horror of the yawning
-gulf ahead. And then I became aware of the added blasts and whistling   in front of me  &mdash;tides
+gulf ahead. And then I became aware of the added blasts and whistling   in front of me  --tides
 of abomination surging up through the cleft itself from depths unimagined and unimaginable.  
 
-  Now, indeed, the essence of pure nightmare was upon me. Sanity departed&mdash;and
+  Now, indeed, the essence of pure nightmare was upon me. Sanity departed--and
 ignoring everything except the animal impulse of flight, I merely struggled and plunged upward
-over the incline&rsquo;s debris as if no gulf had existed. Then I saw the chasm&rsquo;s edge,
+over the incline's debris as if no gulf had existed. Then I saw the chasm's edge,
 leaped frenziedly with every ounce of strength I possessed, and was instantly engulfed in a
 pandaemoniac vortex of loathsome sound and utter, materially tangible blackness.  
 
@@ -1848,7 +1848,7 @@ of my former dreams had ever suggested. And all the while cold fingers of damp v
 and picked at me, and that eldritch, damnable whistling shrieked fiendishly above all the alternations
 of babel and silence in the whirlpools of darkness around.  
 
-  Afterward there were visions of the Cyclopean city of my dreams&mdash;not in
+  Afterward there were visions of the Cyclopean city of my dreams--not in
 ruins, but just as I had dreamed of it. I was in my conical, non-human body again, and mingled
 with crowds of the Great Race and the captive minds who carried books up and down the lofty
 corridors and vast inclines. Then, superimposed upon these pictures, were frightful momentary
@@ -1856,21 +1856,21 @@ flashes of a non-visual consciousness involving desperate struggles, a writhing 
 tentacles of whistling wind, an insane, bat-like flight through half-solid air, a feverish burrowing
 through the cyclone-whipped dark, and a wild stumbling and scrambling over fallen masonry.  
 
-  Once there was a curious, intrusive flash of half-sight&mdash;a faint, diffuse
+  Once there was a curious, intrusive flash of half-sight--a faint, diffuse
 suspicion of bluish radiance far overhead. Then there came a dream of wind-pursued climbing
-and crawling&mdash;of wriggling into a blaze of sardonic moonlight through a jumble of debris
+and crawling--of wriggling into a blaze of sardonic moonlight through a jumble of debris
 which slid and collapsed after me amidst a morbid hurricane. It was the evil, monotonous beating
 of that maddening moonlight which at last told me of the return of what I had once known as
 the objective, waking world.  
 
   I was clawing prone through the sands of the Australian desert, and around
-me shrieked such a tumult of wind as I had never before known on our planet&rsquo;s surface.
+me shrieked such a tumult of wind as I had never before known on our planet's surface.
 My clothing was in rags, and my whole body was a mass of bruises and scratches. Full consciousness
 returned very slowly, and at no time could I tell just where true memory left off and delirious
 dream began. There had seemed to be a mound of titan blocks, an abyss beneath it, a monstrous
-revelation from the past, and a nightmare horror at the end&mdash;but how much of this was real?
+revelation from the past, and a nightmare horror at the end--but how much of this was real?
 My flashlight was gone, and likewise any metal case I may have discovered. Had there been such
-a case&mdash;or any abyss&mdash;or any mound? Raising my head, I looked behind me, and saw only
+a case--or any abyss--or any mound? Raising my head, I looked behind me, and saw only
 the sterile, undulant sands of the waste.  
 
   The daemon wind died down, and the bloated, fungoid moon sank reddeningly in
@@ -1878,7 +1878,7 @@ the west. I lurched to my feet and began to stagger southwestward toward the cam
 had happened to me? Had I merely collapsed in the desert and dragged a dream-racked body over
 miles of sand and buried blocks? If not, how could I bear to live any longer? For in this new
 doubt all my faith in the myth-born unreality of my visions dissolved once more into the hellish
-older doubting. If that abyss was real, then the Great Race was real&mdash;and its blasphemous
+older doubting. If that abyss was real, then the Great Race was real--and its blasphemous
 reachings and seizures in the cosmos-wide vortex of time were no myths or nightmares, but a
 terrible, soul-shattering actuality.  
 
@@ -1889,11 +1889,11 @@ the captive mind of those shambling horrors, indeed known that accursed city of 
 primordial heyday, and wriggled down those familiar corridors in the loathsome shape of my captor?
 Were those tormenting dreams of more than twenty years the offspring of stark, monstrous   
 memories?   Had I once veritably talked with minds from reachless corners of time and space,
-learned the universe&rsquo;s secrets past and to come, and written the annals of my own world
-for the metal cases of those titan archives? And were those others&mdash;those shocking Elder
-Things of the mad winds and daemon pipings&mdash;in truth a lingering, lurking menace, waiting
+learned the universe's secrets past and to come, and written the annals of my own world
+for the metal cases of those titan archives? And were those others--those shocking Elder
+Things of the mad winds and daemon pipings--in truth a lingering, lurking menace, waiting
 and slowly weakening in black abysses while varied shapes of life drag out their multimillennial
-courses on the planet&rsquo;s age-racked surface?  
+courses on the planet's age-racked surface?  
 
   I do not know. If that abyss and what it held were real, there is no hope.
 Then, all too truly, there lies upon this world of man a mocking and incredible shadow out of
@@ -1907,10 +1907,10 @@ others.
   I have said that the awful truth behind my tortured years of dreaming hinges
 absolutely upon the actuality of what I thought I saw in those Cyclopean buried ruins. It has
 been hard for me literally to set down the crucial revelation, though no reader can have failed
-to guess it. Of course it lay in that book within the metal case&mdash;the case which I pried
+to guess it. Of course it lay in that book within the metal case--the case which I pried
 out of its forgotten lair amidst the undisturbed dust of a million centuries. No eye had seen,
 no hand had touched that book since the advent of man to this planet. And yet, when I flashed
 my torch upon it in that frightful megalithic abyss, I saw that the queerly pigmented letters
-on the brittle, aeon-browned cellulose pages were not indeed any nameless hieroglyphs of earth&rsquo;s
+on the brittle, aeon-browned cellulose pages were not indeed any nameless hieroglyphs of earth's
 youth. They were, instead, the letters of our familiar alphabet, spelling out the words of the
 English language in my own handwriting.  

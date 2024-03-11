@@ -6,16 +6,16 @@
   Of the events which took place at the Norton Mine on October 18th and 19th,
 1894, I have no desire to speak. A sense of duty to science is all that impels me to recall,
 in these last years of my life, scenes and happenings fraught with a terror doubly acute because
-I cannot wholly define it. But I believe that before I die I should tell what I know of the&mdash;shall
-I say transition&mdash;of Juan Romero.  
+I cannot wholly define it. But I believe that before I die I should tell what I know of the--shall
+I say transition--of Juan Romero.  
 
   My name and origin need not be related to posterity; in fact, I fancy it is
 better that they should not be, for when a man suddenly migrates to the States or the Colonies,
 he leaves his past behind him. Besides, what I once was is not in the least relevant to my narrative;
 save perhaps the fact that during my service in India I was more at home amongst white-bearded
 native teachers than amongst my brother-officers. I had delved not a little into odd Eastern
-lore when overtaken by the calamities which brought about my new life in America&rsquo;s vast
-West&mdash;a life wherein I found it well to accept a name&mdash;my present one&mdash;which
+lore when overtaken by the calamities which brought about my new life in America's vast
+West--a life wherein I found it well to accept a name--my present one--which
 is very common and carries no meaning.  
 
   In the summer and autumn of 1894 I dwelt in the drear expanses of the Cactus
@@ -35,7 +35,7 @@ and believed the last of them would soon be opened.
 Norton Mine. One of a large herd of unkempt Mexicans attracted thither from the neighbouring
 country, he at first commanded attention only because of his features; which though plainly
 of the Red Indian type, were yet remarkable for their light colour and refined conformation,
-being vastly unlike those of the average &ldquo;Greaser&rdquo; or Piute of the locality. It
+being vastly unlike those of the average  "Greaser " or Piute of the locality. It
 is curious that although he differed so widely from the mass of Hispanicised and tribal Indians,
 Romero gave not the least impression of Caucasian blood. It was not the Castilian conquistador
 or the American pioneer, but the ancient and noble Aztec, whom imagination called to view when
@@ -88,52 +88,52 @@ The Superintendent did not reproach them. Instead, he pondered deeply, and made 
 the following day. The night shift did not go on that evening.  
 
   At two in the morning a lone coyote on the mountain began to howl dismally.
-From somewhere within the works a dog barked in answer; either to the coyote&mdash;or to something
+From somewhere within the works a dog barked in answer; either to the coyote--or to something
 else. A storm was gathering around the peaks of the range, and weirdly shaped clouds scudded
-horribly across the blurred patch of celestial light which marked a gibbous moon&rsquo;s attempts
-to shine through many layers of cirro-stratus vapours. It was Romero&rsquo;s voice, coming from
+horribly across the blurred patch of celestial light which marked a gibbous moon's attempts
+to shine through many layers of cirro-stratus vapours. It was Romero's voice, coming from
 the bunk above, that awakened me; a voice excited and tense with some vague expectation I could
 not understand:  
 
-    &ldquo;&iexcl;Madre de Dios!&mdash;el sonido&mdash;ese sonido&mdash;&iexcl;oiga
-Vd! &iquest;lo oye Vd?&mdash;Se&ntilde;or,   THAT SOUND!&rdquo;  
+     "&iexcl;Madre de Dios!--el sonido--ese sonido--&iexcl;oiga
+Vd! &iquest;lo oye Vd?--Se&ntilde;or,   THAT SOUND! "  
 
   I listened, wondering what sound he meant. The coyote, the dog, the storm,
 all were audible; the last named now gaining ascendancy as the wind shrieked more and more frantically.
 Flashes of lightning were visible through the bunk-house window. I questioned the nervous Mexican,
 repeating the sounds I had heard:  
 
-    &ldquo;&iquest;El coyote?&mdash;&iquest;el perro?&mdash;&iquest;el viento?&rdquo;    
+     "&iquest;El coyote?--&iquest;el perro?--&iquest;el viento? "    
 
   But Romero did not reply. Then he commenced whispering as in awe:  
 
-    &ldquo;El ritmo, Se&ntilde;or&mdash;el ritmo de la tierra&mdash;  THAT
-THROB DOWN IN THE GROUND!&rdquo;  
+     "El ritmo, Se&ntilde;or--el ritmo de la tierra--  THAT
+THROB DOWN IN THE GROUND! "  
 
   And now I also heard; heard and shivered and without knowing why. Deep, deep,
-below me was a sound&mdash;a rhythm, just as the peon had said&mdash;which, though exceedingly
+below me was a sound--a rhythm, just as the peon had said--which, though exceedingly
 faint, yet dominated even the dog, the coyote, and the increasing tempest. To seek to describe
-it were useless&mdash;for it was such that no description is possible. Perhaps it was like the
+it were useless--for it was such that no description is possible. Perhaps it was like the
 pulsing of the engines far down in a great liner, as sensed from the deck, yet it was not so
 mechanical; not so devoid of the element of life and consciousness. Of all its qualities,   
 remoteness   in the earth most impressed me. To my mind rushed fragments of a passage in Joseph
-Glanvill which Poe has quoted with tremendous effect&mdash;  
+Glanvill which Poe has quoted with tremendous effect--  
 
-    &ldquo;&mdash;the vastness, profundity, and unsearchableness of His works,
-  which have a depth in them greater than the well of Democritus.  &rdquo;  
+     "--the vastness, profundity, and unsearchableness of His works,
+  which have a depth in them greater than the well of Democritus.   "  
 
   Suddenly Romero leaped from his bunk; pausing before me to gaze at the strange
 ring on my hand, which glistened queerly in every flash of lightning, and then staring intently
 in the direction of the mine shaft. I also rose, and both stood motionless for a time, straining
 our ears as the uncanny rhythm seemed more and more to take on a vital quality. Then without
 apparent volition we began to move toward the door, whose rattling in the gale held a comforting
-suggestion of earthly reality. The chanting in the depths&mdash;for such the sound now seemed
-to be&mdash;grew in volume and distinctness; and we felt irresistibly urged out into the storm
+suggestion of earthly reality. The chanting in the depths--for such the sound now seemed
+to be--grew in volume and distinctness; and we felt irresistibly urged out into the storm
 and thence to the gaping blackness of the shaft.  
 
   We encountered no living creature, for the men of the night shift had been
 released from duty, and were doubtless at the Dry Gulch settlement pouring sinister rumours
-into the ear of some drowsy bartender. From the watchman&rsquo;s cabin, however, gleamed a small
+into the ear of some drowsy bartender. From the watchman's cabin, however, gleamed a small
 square of yellow light like a guardian eye. I dimly wondered how the rhythmic sound had affected
 the watchman; but Romero was moving more swiftly now, and I followed without pausing.  
 
@@ -141,7 +141,7 @@ the watchman; but Romero was moving more swiftly now, and I followed without pau
 struck me as horribly like a sort of Oriental ceremony, with beating of drums and chanting of
 many voices. I have, as you are aware, been much in India. Romero and I moved without material
 hesitancy through drifts and down ladders; ever toward the thing that allured us, yet ever with
-a pitifully helpless fear and reluctance. At one time I fancied I had gone mad&mdash;this was
+a pitifully helpless fear and reluctance. At one time I fancied I had gone mad--this was
 when, on wondering how our way was lighted in the absence of lamp or candle, I realised that
 the ancient ring on my finger was glowing with eerie radiance, diffusing a pallid lustre through
 the damp, heavy air around.  
@@ -149,12 +149,12 @@ the damp, heavy air around.
   It was without warning that Romero, after clambering down one of the many rude
 ladders, broke into a run and left me alone. Some new and wild note in the drumming and chanting,
 perceptible but slightly to me, had acted on him in startling fashion; and with a wild outcry
-he forged ahead unguided in the cavern&rsquo;s gloom. I heard his repeated shrieks before me,
+he forged ahead unguided in the cavern's gloom. I heard his repeated shrieks before me,
 as he stumbled awkwardly along the level places and scrambled madly down the rickety ladders.
 And frightened as I was, I yet retained enough of perception to note that his speech, when articulate,
 was not of any sort known to me. Harsh but impressive polysyllables had replaced the customary
-mixture of bad Spanish and worse English, and of these only the oft repeated cry   &ldquo;Huitzilopotchli&rdquo;  
-seemed in the least familiar. Later I definitely placed that word in the works of a great historian&mdash;and
+mixture of bad Spanish and worse English, and of these only the oft repeated cry    "Huitzilopotchli "  
+seemed in the least familiar. Later I definitely placed that word in the works of a great historian--and
 shuddered when the association came to me.  
 
   The climax of that awful night was composite but fairly brief, beginning just
@@ -167,8 +167,8 @@ few yards ahead of me. I had arrived at the abyss, which was now redly aglow, an
 evidently swallowed up the unfortunate Romero. Advancing, I peered over the edge of that chasm
 which no line could fathom, and which was now a pandemonium of flickering flame and hideous
 uproar. At first I beheld nothing but a seething blur of luminosity; but then shapes, all infinitely
-distant, began to detach themselves from the confusion, and I saw&mdash;was it Juan Romero?&mdash;  but
-God! I dare not tell you what I saw!  &nbsp;.&nbsp;.&nbsp;. Some power from heaven, coming to my
+distant, began to detach themselves from the confusion, and I saw--was it Juan Romero?--  but
+God! I dare not tell you what I saw!   . . . Some power from heaven, coming to my
 aid, obliterated both sights and sounds in such a crash as may be heard when two universes collide
 in space. Chaos supervened, and I knew the peace of oblivion.  
 
@@ -185,7 +185,7 @@ frightful storm which had passed over the Cactus range. That storm, said men who
 down the mine shaft, had caused extensive caving in, and had completely closed the deep abyss
 which had created so much apprehension the day before. When I asked the watchman what sounds
 he had heard prior to the mighty thunderbolt, he mentioned a coyote, a dog, and the snarling
-mountain wind&mdash;nothing more. Nor do I doubt his word.  
+mountain wind--nothing more. Nor do I doubt his word.  
 
   Upon the resumption of work Superintendent Arthur called on some especially
 dependable men to make a few investigations around the spot where the gulf had appeared. Though
@@ -205,5 +205,5 @@ hands, for many strange things were taught me in India.
   My opinion of my whole experience varies from time to time. In broad daylight,
 and at most seasons I am apt to think the greater part of it a mere dream; but sometimes in
 the autumn, about two in the morning when winds and animals howl dismally, there comes from
-inconceivable depths below a damnable suggestion of rhythmical throbbing&nbsp;.&nbsp;.&nbsp;.
+inconceivable depths below a damnable suggestion of rhythmical throbbing . . .
 and I feel that the transition of Juan Romero was a terrible one indeed.  

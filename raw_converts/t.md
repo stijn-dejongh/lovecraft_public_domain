@@ -10,8 +10,8 @@
   
      
         
-           &ldquo;Sedibus ut saltem placidis in morte quiescam.&rdquo;  
-              &mdash;  Virgil.    
+            "Sedibus ut saltem placidis in morte quiescam. "  
+              --  Virgil.    
            
         
      
@@ -46,7 +46,7 @@ Close by my home there lies a singular wooded hollow, in whose twilight deeps I 
 my time; reading, thinking, and dreaming. Down its moss-covered slopes my first steps of infancy
 were taken, and around its grotesquely gnarled oak trees my first fancies of boyhood were woven.
 Well did I come to know the presiding dryads of those trees, and often have I watched their
-wild dances in the struggling beams of a waning moon&mdash;but of these things I must not now
+wild dances in the struggling beams of a waning moon--but of these things I must not now
 speak. I will tell only of the lone tomb in the darkest of the hillside thickets; the deserted
 tomb of the Hydes, an old and exalted family whose last direct descendant had been laid within
 its black recesses many decades before my birth.  
@@ -59,7 +59,7 @@ iron chains and padlocks, according to a gruesome fashion of half a century ago.
 the race whose scions are here inurned had once crowned the declivity which holds the tomb,
 but had long since fallen victim to the flames which sprang up from a disastrous stroke of lightning.
 Of the midnight storm which destroyed this gloomy mansion, the older inhabitants of the region
-sometimes speak in hushed and uneasy voices; alluding to what they call &ldquo;divine wrath&rdquo;
+sometimes speak in hushed and uneasy voices; alluding to what they call  "divine wrath "
 in a manner that in later years vaguely increased the always strong fascination which I felt
 for the forest-darkened sepulchre. One man only had perished in the fire. When the last of the
 Hydes was buried in this place of shade and stillness, the sad urnful of ashes had come from
@@ -112,7 +112,7 @@ repelled yet bewitched me. I felt I had known it before, in a past remote beyond
 beyond even my tenancy of the body I now possess.  
 
   The year after I first beheld the tomb, I stumbled upon a worm-eaten translation
-of Plutarch&rsquo;s   Lives   in the book-filled attic of my home. Reading the life of Theseus,
+of Plutarch's   Lives   in the book-filled attic of my home. Reading the life of Theseus,
 I was much impressed by that passage telling of the great stone beneath which the boyish hero
 was to find his tokens of destiny whenever he should become old enough to lift its enormous
 weight. This legend had the effect of dispelling my keenest impatience to enter the vault, for
@@ -197,34 +197,34 @@ book, which ran something like this:
 Come hither, my lads, with your tankards of ale,  
 And drink to the present before it shall fail;  
 Pile each on your platter a mountain of beef,  
-For &rsquo;tis eating and drinking that bring us relief:  
+For 'tis eating and drinking that bring us relief:  
   So fill up your glass,  
   For life will soon pass;  
-When you&rsquo;re dead ye&rsquo;ll ne&rsquo;er drink to your king or your lass!    
+When you're dead ye'll ne'er drink to your king or your lass!    
 
 Anacreon had a red nose, so they say;  
-But what&rsquo;s a red nose if ye&rsquo;re happy and gay?  
-Gad split me! I&rsquo;d rather be red whilst I&rsquo;m here,  
-Than white as a lily&mdash;and dead half a year!  
+But what's a red nose if ye're happy and gay?  
+Gad split me! I'd rather be red whilst I'm here,  
+Than white as a lily--and dead half a year!  
   So Betty, my miss,  
   Come give me a kiss;  
-In hell there&rsquo;s no innkeeper&rsquo;s daughter like this!    
+In hell there's no innkeeper's daughter like this!    
 
-Young Harry, propp&rsquo;d up just as straight as he&rsquo;s able,  
+Young Harry, propp'd up just as straight as he's able,  
 Will soon lose his wig and slip under the table;  
-But fill up your goblets and pass &rsquo;em around&mdash;  
+But fill up your goblets and pass 'em around--  
 Better under the table than under the ground!  
   So revel and chaff  
   As ye thirstily quaff:  
-Under six feet of dirt &rsquo;tis less easy to laugh!    
+Under six feet of dirt 'tis less easy to laugh!    
 
-The fiend strike me blue! I&rsquo;m scarce able to walk,  
+The fiend strike me blue! I'm scarce able to walk,  
 And damn me if I can stand upright or talk!  
 Here, landlord, bid Betty to summon a chair;  
-I&rsquo;ll try home for a while, for my wife is not there!  
+I'll try home for a while, for my wife is not there!  
   So lend me a hand;  
-  I&rsquo;m not able to stand,  
-But I&rsquo;m gay whilst I linger on top of the land!
+  I'm not able to stand,  
+But I'm gay whilst I linger on top of the land!
             
 
   About this time I conceived my present fear of fire and thunderstorms. Previously
@@ -295,7 +295,7 @@ and now objectless writhing, I watched the spectators as they viewed the treasur
 was permitted to share in their discoveries. The box, whose fastenings were broken by the stroke
 which had unearthed it, contained many papers and objects of value; but I had eyes for one thing
 alone. It was the porcelain miniature of a young man in a smartly curled bag-wig, and bore the
-initials &ldquo;J. H.&rdquo; The face was such that as I gazed, I might well have been studying
+initials  "J. H. " The face was such that as I gazed, I might well have been studying
 my mirror.  
 
   On the following day I was brought to this room with the barred windows, but
@@ -316,5 +316,5 @@ old servant Hiram, I should have by this time become quite convinced of my madne
 impels me to make public at least a part of my story. A week ago he burst open the lock which
 chains the door of the tomb perpetually ajar, and descended with a lantern into the murky depths.
 On a slab in an alcove he found an old but empty coffin whose tarnished plate bears the single
-word   &ldquo;Jervas&rdquo;.   In that coffin and in that vault they have promised me I shall
+word    "Jervas ".   In that coffin and in that vault they have promised me I shall
 be buried.  

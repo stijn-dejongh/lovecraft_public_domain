@@ -11,11 +11,11 @@ antique bridge of stone. The men of Teloth are dark and stern, and dwell in squa
 with frowns they asked the stranger whence he had come and what were his name and fortune. So
 the youth answered:  
 
-  &ldquo;I am Iranon, and come from Aira, a far city that I recall only dimly
+   "I am Iranon, and come from Aira, a far city that I recall only dimly
 but seek to find again. I am a singer of songs that I learned in the far city, and my calling
 is to make beauty with the things remembered of childhood. My wealth is in little memories and
 dreams, and in hopes that I sing in gardens when the moon is tender and the west wind stirs
-the lotos-buds.&rdquo;  
+the lotos-buds. "  
 
   When the men of Teloth heard these things they whispered to one another; for
 though in the granite city there is no laughter or song, the stern men sometimes look to the
@@ -23,58 +23,58 @@ Karthian hills in the spring and think of the lutes of distant Oonai whereof tra
 told. And thinking thus, they bade the stranger stay and sing in the square before the Tower
 of Mlin, though they liked not the colour of his tattered robe, nor the myrrh in his hair, nor
 his chaplet of vine-leaves, nor the youth in his golden voice. At evening Iranon sang, and while
-he sang an old man prayed and a blind man said he saw a nimbus over the singer&rsquo;s head.
+he sang an old man prayed and a blind man said he saw a nimbus over the singer's head.
 But most of the men of Teloth yawned, and some laughed and some went away to sleep; for Iranon
 told nothing useful, singing only his memories, his dreams, and his hopes.  
 
-  &ldquo;I remember the twilight, the moon, and soft songs, and the window where
+   "I remember the twilight, the moon, and soft songs, and the window where
 I was rocked to sleep. And through the window was the street where the golden lights came, and
 where the shadows danced on houses of marble. I remember the square of moonlight on the floor,
 that was not like any other light, and the visions that danced in the moonbeams when my mother
 sang to me. And too, I remember the sun of morning bright above the many-coloured hills in summer,
 and the sweetness of flowers borne on the south wind that made the trees sing.  
 
-  &ldquo;O Aira, city of marble and beryl, how many are thy beauties! How loved
+   "O Aira, city of marble and beryl, how many are thy beauties! How loved
 I the warm and fragrant groves across the hyaline Nithra, and the falls of the tiny Kra that
 flowed through the verdant valley! In those groves and in that vale the children wove wreaths
 for one another, and at dusk I dreamed strange dreams under the yath-trees on the mountain as
 I saw below me the lights of the city, and the curving Nithra reflecting a ribbon of stars.  
 
-  &ldquo;And in the city were palaces of veined and tinted marble, with golden
+   "And in the city were palaces of veined and tinted marble, with golden
 domes and painted walls, and green gardens with cerulean pools and crystal fountains. Often
 I played in the gardens and waded in the pools, and lay and dreamed among the pale flowers under
 the trees. And sometimes at sunset I would climb the long hilly street to the citadel and the
 open place, and look down upon Aira, the magic city of marble and beryl, splendid in a robe
 of golden flame.  
 
-  &ldquo;Long have I missed thee, Aira, for I was but young when we went into
+   "Long have I missed thee, Aira, for I was but young when we went into
 exile; but my father was thy King and I shall come again to thee, for it is so decreed of Fate.
 All through seven lands have I sought thee, and some day shall I reign over thy groves and gardens,
 thy streets and palaces, and sing to men who shall know whereof I sing, and laugh not nor turn
-away. For I am Iranon, who was a Prince in Aira.&rdquo;  
+away. For I am Iranon, who was a Prince in Aira. "  
 
   That night the men of Teloth lodged the stranger in a stable, and in the morning
 an archon came to him and told him to go to the shop of Athok the cobbler, and be apprenticed
 to him.  
 
-  &ldquo;But I am Iranon, a singer of songs,&rdquo; he said, &ldquo;and have
-no heart for the cobbler&rsquo;s trade.&rdquo;  
+   "But I am Iranon, a singer of songs, " he said,  "and have
+no heart for the cobbler's trade. "  
 
-  &ldquo;All in Teloth must toil,&rdquo; replied the archon, &ldquo;for that
-is the law.&rdquo; Then said Iranon,  
+   "All in Teloth must toil, " replied the archon,  "for that
+is the law. " Then said Iranon,  
 
-  &ldquo;Wherefore do ye toil; is it not that ye may live and be happy? And if
+   "Wherefore do ye toil; is it not that ye may live and be happy? And if
 ye toil only that ye may toil more, when shall happiness find you? Ye toil to live, but is not
 life made of beauty and song? And if ye suffer no singers among you, where shall be the fruits
 of your toil? Toil without song is like a weary journey without an end. Were not death more
-pleasing?&rdquo; But the archon was sullen and did not understand, and rebuked the stranger.  
+pleasing? " But the archon was sullen and did not understand, and rebuked the stranger.  
 
-  &ldquo;Thou art a strange youth, and I like not thy face nor thy voice. The
+   "Thou art a strange youth, and I like not thy face nor thy voice. The
 words thou speakest are blasphemy, for the gods of Teloth have said that toil is good. Our gods
 have promised us a haven of light beyond death, where there shall be rest without end, and crystal
 coldness amidst which none shall vex his mind with thought or his eyes with beauty. Go thou
 then to Athok the cobbler or be gone out of the city by sunset. All here must serve, and song
-is folly.&rdquo;  
+is folly. "  
 
   So Iranon went out of the stable and walked over the narrow stone streets between
 the gloomy square houses of granite, seeking something green in the air of spring. But in Teloth
@@ -82,7 +82,7 @@ was nothing green, for all was of stone. On the faces of men were frowns, but by
 along the sluggish river Zuro sate a young boy with sad eyes gazing into the waters to spy green
 budding branches washed down from the hills by the freshets. And the boy said to him:  
 
-  &ldquo;Art thou not indeed he of whom the archons tell, who seekest a far city
+   "Art thou not indeed he of whom the archons tell, who seekest a far city
 in a fair land? I am Romnod, and born of the blood of Teloth, but am not old in the ways of
 the granite city, and yearn daily for the warm groves and the distant lands of beauty and song.
 Beyond the Karthian hills lieth Oonai, the city of lutes and dancing, which men whisper of and
@@ -93,12 +93,12 @@ attend thy songs at evening when the stars one by one bring dreams to the minds 
 And peradventure it may be that Oonai the city of lutes and dancing is even the fair Aira thou
 seekest, for it is told that thou hast not known Aira since old days, and a name often changeth.
 Let us go to Oonai, O Iranon of the golden head, where men shall know our longings and welcome
-us as brothers, nor ever laugh or frown at what we say.&rdquo; And Iranon answered:  
+us as brothers, nor ever laugh or frown at what we say. " And Iranon answered:  
 
-  &ldquo;Be it so, small one; if any in this stone place yearn for beauty he
+   "Be it so, small one; if any in this stone place yearn for beauty he
 must seek the mountains and beyond, and I would not leave thee to pine by the sluggish Zuro.
 But think not that delight and understanding dwell just across the Karthian hills, or in any
-spot thou canst find in a day&rsquo;s, or a year&rsquo;s, or a lustrum&rsquo;s journey. Behold,
+spot thou canst find in a day's, or a year's, or a lustrum's journey. Behold,
 when I was small like thee I dwelt in the valley of Narthos by the frigid Xari, where none would
 listen to my dreams; and I told myself that when older I would go to Sinara on the southern
 slope, and sing to smiling dromedary-men in the market-place. But when I went to Sinara I found
@@ -106,13 +106,13 @@ the dromedary-men all drunken and ribald, and saw that their songs were not as m
 in a barge down the Xari to onyx-walled Jaren. And the soldiers at Jaren laughed at me and drave
 me out, so that I wandered to many other cities. I have seen Stethelos that is below the great
 cataract, and have gazed on the marsh where Sarnath once stood. I have been to Thraa, Ilarnek,
-and Kadatheron on the winding river Ai, and have dwelt long in Olatho&euml; in the land of Lomar.
+and Kadatheron on the winding river Ai, and have dwelt long in Olathoë in the land of Lomar.
 But though I have had listeners sometimes, they have ever been few, and I know that welcome
 shall await me only in Aira, the city of marble and beryl where my father once ruled as King.
 So for Aira shall we seek, though it were well to visit distant and lute-blessed Oonai across
-the Karthian hills, which may indeed be Aira, though I think not. Aira&rsquo;s beauty is past
+the Karthian hills, which may indeed be Aira, though I think not. Aira's beauty is past
 imagining, and none can tell of it without rapture, whilst of Oonai the camel-drivers whisper
-leeringly.&rdquo;  
+leeringly. "  
 
   At the sunset Iranon and small Romnod went forth from Teloth, and for long
 wandered amidst the green hills and cool forests. The way was rough and obscure, and never did
@@ -129,7 +129,7 @@ branches in Teloth beside the sluggish stone-banked Zuro.
 and looked down upon the myriad lights of Oonai. Peasants had told them they were near, and
 Iranon knew that this was not his native city of Aira. The lights of Oonai were not like those
 of Aira; for they were harsh and glaring, while the lights of Aira shine as softly and magically
-as shone the moonlight on the floor by the window where Iranon&rsquo;s mother once rocked him
+as shone the moonlight on the floor by the window where Iranon's mother once rocked him
 to sleep with song. But Oonai was a city of lutes and dancing, so Iranon and Romnod went down
 the steep slope that they might find men to whom songs and dreams would bring pleasure. And
 when they were come into the town they found rose-wreathed revellers bound from house to house
@@ -176,24 +176,24 @@ sang of Aira, delight of the past and hope of the future.
 who kept lean flocks on a stony slope above a quicksand marsh. To this man Iranon spoke, as
 to so many others:  
 
-  &ldquo;Canst thou tell me where I may find Aira, the city of marble and beryl,
+   "Canst thou tell me where I may find Aira, the city of marble and beryl,
 where flows the hyaline Nithra and where the falls of the tiny Kra sing to verdant valleys and
-hills forested with yath trees?&rdquo; And the shepherd, hearing, looked long and strangely
-at Iranon, as if recalling something very far away in time, and noted each line of the stranger&rsquo;s
+hills forested with yath trees? " And the shepherd, hearing, looked long and strangely
+at Iranon, as if recalling something very far away in time, and noted each line of the stranger's
 face, and his golden hair, and his crown of vine-leaves. But he was old, and shook his head
 as he replied:  
 
-  &ldquo;O stranger, I have indeed heard the name of Aira, and the other names
+   "O stranger, I have indeed heard the name of Aira, and the other names
 thou hast spoken, but they come to me from afar down the waste of long years. I heard them in
-my youth from the lips of a playmate, a beggar&rsquo;s boy given to strange dreams, who would
+my youth from the lips of a playmate, a beggar's boy given to strange dreams, who would
 weave long tales about the moon and the flowers and the west wind. We used to laugh at him,
-for we knew him from his birth though he thought himself a King&rsquo;s son. He was comely,
+for we knew him from his birth though he thought himself a King's son. He was comely,
 even as thou, but full of folly and strangeness; and he ran away when small to find those who
 would listen gladly to his songs and dreams. How often hath he sung to me of lands that never
 were, and things that never can be! Of Aira did he speak much; of Aira and the river Nithra,
 and the falls of the tiny Kra. There would he ever say he once dwelt as a Prince, though here
 we knew him from his birth. Nor was there ever a marble city of Aira, nor those who could delight
-in strange songs, save in the dreams of mine old playmate Iranon who is gone.&rdquo;  
+in strange songs, save in the dreams of mine old playmate Iranon who is gone. "  
 
   And in the twilight, as the stars came out one by one and the moon cast on
 the marsh a radiance like that which a child sees quivering on the floor as he is rocked to

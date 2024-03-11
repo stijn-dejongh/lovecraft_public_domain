@@ -41,19 +41,19 @@ was wet and dripping; the soaking apparently proceeding from a corner on the sid
 street. Anxious to stop the matter at its source, I hastened to the basement to tell the landlady;
 and was assured by her that the trouble would quickly be set right.  
 
-  &ldquo;Doctair Mu&ntilde;oz,&rdquo; she cried as she rushed upstairs ahead
-of me, &ldquo;he have speel hees chemicals. He ees too seeck for doctair heemself&mdash;seecker
-and seecker all the time&mdash;but he weel not have no othair for help. He ees vairy queer in
-hees seeckness&mdash;all day he take funnee-smelling baths, and he cannot get excite or warm.
-All hees own housework he do&mdash;hees leetle room are full of bottles and machines, and he
-do not work as doctair. But he was great once&mdash;my fathair in Barcelona have hear of heem&mdash;and
+   "Doctair Mu&ntilde;oz, " she cried as she rushed upstairs ahead
+of me,  "he have speel hees chemicals. He ees too seeck for doctair heemself--seecker
+and seecker all the time--but he weel not have no othair for help. He ees vairy queer in
+hees seeckness--all day he take funnee-smelling baths, and he cannot get excite or warm.
+All hees own housework he do--hees leetle room are full of bottles and machines, and he
+do not work as doctair. But he was great once--my fathair in Barcelona have hear of heem--and
 only joost now he feex a arm of the plumber that get hurt of sudden. He nevair go out, only
 on roof, and my boy Esteban he breeng heem hees food and laundry and mediceens and chemicals.
-My Gawd, the sal-ammoniac that man use for keep heem cool!&rdquo;  
+My Gawd, the sal-ammoniac that man use for keep heem cool! "  
 
   Mrs. Herrero disappeared up the staircase to the fourth floor, and I returned
 to my room. The ammonia ceased to drip, and as I cleaned up what had spilled and opened the
-window for air, I heard the landlady&rsquo;s heavy footsteps above me. Dr. Mu&ntilde;oz I had
+window for air, I heard the landlady's heavy footsteps above me. Dr. Mu&ntilde;oz I had
 never heard, save for certain sounds as of some gasoline-driven mechanism; since his step was
 soft and gentle. I wondered for a moment what the strange affliction of this man might be, and
 whether his obstinate refusal of outside aid were not the result of a rather baseless eccentricity.
@@ -63,7 +63,7 @@ who has come down in the world.
   I might never have known Dr. Mu&ntilde;oz had it not been for the heart attack
 that suddenly seized me one forenoon as I sat writing in my room. Physicians had told me of
 the danger of those spells, and I knew there was no time to be lost; so remembering what the
-landlady had said about the invalid&rsquo;s help of the injured workman, I dragged myself upstairs
+landlady had said about the invalid's help of the injured workman, I dragged myself upstairs
 and knocked feebly at the door above mine. My knock was answered in good English by a curious
 voice some distance to the right, asking my name and business; and these things being stated,
 there came an opening of the door next to the one I had sought.  
@@ -72,9 +72,9 @@ there came an opening of the door next to the one I had sought.
 late June, I shivered as I crossed the threshold into a large apartment whose rich and tasteful
 decoration surprised me in this nest of squalor and seediness. A folding couch now filled its
 diurnal role of sofa, and the mahogany furniture, sumptuous hangings, old paintings, and mellow
-bookshelves all bespoke a gentleman&rsquo;s study rather than a boarding-house bedroom. I now
-saw that the hall room above mine&mdash;the &ldquo;leetle room&rdquo; of bottles and machines
-which Mrs. Herrero had mentioned&mdash;was merely the laboratory of the doctor; and that his
+bookshelves all bespoke a gentleman's study rather than a boarding-house bedroom. I now
+saw that the hall room above mine--the  "leetle room " of bottles and machines
+which Mrs. Herrero had mentioned--was merely the laboratory of the doctor; and that his
 main living quarters lay in the spacious adjoining room whose convenient alcoves and large contiguous
 bathroom permitted him to hide all dressers and obtrusive utilitarian devices. Dr. Mu&ntilde;oz,
 most certainly, was a man of birth, cultivation, and discrimination.  
@@ -90,13 +90,13 @@ and superior blood and breeding.
   Nevertheless, as I saw Dr. Mu&ntilde;oz in that blast of cool air, I felt a
 repugnance which nothing in his aspect could justify. Only his lividly inclined complexion and
 coldness of touch could have afforded a physical basis for this feeling, and even these things
-should have been excusable considering the man&rsquo;s known invalidism. It might, too, have
+should have been excusable considering the man's known invalidism. It might, too, have
 been the singular cold that alienated me; for such chilliness was abnormal on so hot a day,
 and the abnormal always excites aversion, distrust, and fear.  
 
-  But repugnance was soon forgotten in admiration, for the strange physician&rsquo;s
+  But repugnance was soon forgotten in admiration, for the strange physician's
 extreme skill at once became manifest despite the ice-coldness and shakiness of his bloodless-looking
-hands. He clearly understood my needs at a glance, and ministered to them with a master&rsquo;s
+hands. He clearly understood my needs at a glance, and ministered to them with a master's
 deftness; the while reassuring me in a finely modulated though oddly hollow and timbreless voice
 that he was the bitterest of sworn enemies to death, and had sunk his fortune and lost all his
 friends in a lifetime of bizarre experiment devoted to its bafflement and extirpation. Something
@@ -112,11 +112,11 @@ me about my weak heart by insisting that will and consciousness are stronger tha
 itself, so that if a bodily frame be but originally healthy and carefully preserved, it may
 through a scientific enhancement of these qualities retain a kind of nervous animation despite
 the most serious impairments, defects, or even absences in the battery of specific organs. He
-might, he half jestingly said, some day teach me to live&mdash;or at least to possess some kind
-of conscious existence&mdash;without any heart at all! For his part, he was afflicted with a
+might, he half jestingly said, some day teach me to live--or at least to possess some kind
+of conscious existence--without any heart at all! For his part, he was afflicted with a
 complication of maladies requiring a very exact regimen which included constant cold. Any marked
-rise in temperature might, if prolonged, affect him fatally; and the frigidity of his habitation&mdash;some
-55 or 56 degrees Fahrenheit&mdash;was maintained by an absorption system of ammonia cooling,
+rise in temperature might, if prolonged, affect him fatally; and the frigidity of his habitation--some
+55 or 56 degrees Fahrenheit--was maintained by an absorption system of ammonia cooling,
 the gasoline engine of whose pumps I had often heard in my own room below.  
 
   Relieved of my seizure in a marvellously short while, I left the shivery place
@@ -131,7 +131,7 @@ the aged Dr. Torres of Valencia, who had shared his earlier experiments with him
 great illness of eighteen years before, whence his present disorders proceeded. No sooner had
 the venerable practitioner saved his colleague than he himself succumbed to the grim enemy he
 had fought. Perhaps the strain had been too great; for Dr. Mu&ntilde;oz made it whisperingly
-clear&mdash;though not in detail&mdash;that the methods of healing had been most extraordinary,
+clear--though not in detail--that the methods of healing had been most extraordinary,
 involving scenes and processes not welcomed by elderly and conservative Galens.  
 
   As the weeks passed, I observed with regret that my new friend was indeed slowly
@@ -150,7 +150,7 @@ keep the temperature as low as 34&deg; or 40&deg; and finally even 28&deg;; the 
 laboratory, of course, being less chilled, in order that water might not freeze, and that chemical
 processes might not be impeded. The tenant adjoining him complained of the icy air from around
 the connecting door, so I helped him fit heavy hangings to obviate the difficulty. A kind of
-growing horror, of outr&eacute; and morbid cast, seemed to possess him. He talked of death incessantly,
+growing horror, of outré and morbid cast, seemed to possess him. He talked of death incessantly,
 but laughed hollowly when such things as burial or funeral arrangements were gently suggested.  
 
   All in all, he became a disconcerting and even gruesome companion; yet in my
@@ -161,7 +161,7 @@ at some of the chemicals he ordered from druggists and laboratory supply houses.
 
   An increasing and unexplained atmosphere of panic seemed to rise around his
 apartment. The whole house, as I have said, had a musty odour; but the smell in his room was
-worse&mdash;and in spite of all the spices and incense, and the pungent chemicals of the now
+worse--and in spite of all the spices and incense, and the pungent chemicals of the now
 incessant baths which he insisted on taking unaided. I perceived that it must be connected with
 his ailment, and shuddered when I reflected on what that ailment might be. Mrs. Herrero crossed
 herself when she looked at him, and gave him up unreservedly to me; not even letting her son
@@ -175,7 +175,7 @@ abandoned; and mental power alone appeared to keep him from total collapse.
 
   He acquired a habit of writing long documents of some sort, which he carefully
 sealed and filled with injunctions that I transmit them after his death to certain persons whom
-he named&mdash;for the most part lettered East Indians, but including a once celebrated French
+he named--for the most part lettered East Indians, but including a once celebrated French
 physician now generally thought dead, and about whom the most inconceivable things had been
 whispered. As it happened, I burned all these papers undelivered and unopened. His aspect and
 voice became utterly frightful, and his presence almost unbearable. One September day an unexpected
@@ -191,7 +191,7 @@ me by thumping on the floor, and I worked desperately to repair the injury while
 in a tone whose lifeless, rattling hollowness surpassed description. My amateur efforts, however,
 proved of no use; and when I had brought in a mechanic from a neighbouring all-night garage
 we learned that nothing could be done till morning, when a new piston would have to be obtained.
-The moribund hermit&rsquo;s rage and fear, swelling to grotesque proportions, seemed likely
+The moribund hermit's rage and fear, swelling to grotesque proportions, seemed likely
 to shatter what remained of his failing physique; and once a spasm caused him to clap his hands
 to his eyes and rush into the bathroom. He groped his way out with face tightly bandaged, and
 I never saw his eyes again.  
@@ -200,7 +200,7 @@ I never saw his eyes again.
 a.m. the doctor retired to the bathroom, commanding me to keep him supplied with all the ice
 I could obtain at all-night drug stores and cafeterias. As I would return from my sometimes
 discouraging trips and lay my spoils before the closed bathroom door, I could hear a restless
-splashing within, and a thick voice croaking out the order for &ldquo;More&mdash;more!&rdquo;
+splashing within, and a thick voice croaking out the order for  "More--more! "
 At length a warm day broke, and the shops opened one by one. I asked Esteban either to help
 with the ice-fetching whilst I obtained the pump piston, or to order the piston while I continued
 with the ice; but instructed by his mother, he absolutely refused.  
@@ -218,7 +218,7 @@ could, and hoped I was in time.
   Black terror, however, had preceded me. The house was in utter turmoil, and
 above the chatter of awed voices I heard a man praying in a deep basso. Fiendish things were
 in the air, and lodgers told over the beads of their rosaries as they caught the odour from
-beneath the doctor&rsquo;s closed door. The lounger I had hired, it seems, had fled screaming
+beneath the doctor's closed door. The lounger I had hired, it seems, had fled screaming
 and mad-eyed not long after his second delivery of ice; perhaps as a result of excessive curiosity.
 He could not, of course, have locked the door behind him; yet it was now fastened, presumably
 from the inside. There was no sound within save a nameless sort of slow, thick dripping.  
@@ -245,11 +245,11 @@ believed them then. Whether I believe them now I honestly do not know. There are
 which it is better not to speculate, and all that I can say is that I hate the smell of ammonia,
 and grow faint at a draught of unusually cool air.  
 
-  &ldquo;The end,&rdquo; ran that noisome scrawl, &ldquo;is here. No more ice&mdash;the
-man looked and ran away. Warmer every minute, and the tissues can&rsquo;t last. I fancy you
-know&mdash;what I said about the will and the nerves and the preserved body after the organs
-ceased to work. It was good theory, but couldn&rsquo;t keep up indefinitely. There was a gradual
-deterioration I had not foreseen. Dr. Torres knew, but the shock killed him. He couldn&rsquo;t
-stand what he had to do&mdash;he had to get me in a strange, dark place when he minded my letter
-and nursed me back. And the organs never would work again. It had to be done my way&mdash;artificial
-preservation&mdash;  for you see I died that time eighteen years ago.&rdquo;    
+   "The end, " ran that noisome scrawl,  "is here. No more ice--the
+man looked and ran away. Warmer every minute, and the tissues can't last. I fancy you
+know--what I said about the will and the nerves and the preserved body after the organs
+ceased to work. It was good theory, but couldn't keep up indefinitely. There was a gradual
+deterioration I had not foreseen. Dr. Torres knew, but the shock killed him. He couldn't
+stand what he had to do--he had to get me in a strange, dark place when he minded my letter
+and nursed me back. And the organs never would work again. It had to be done my way--artificial
+preservation--  for you see I died that time eighteen years ago. "    

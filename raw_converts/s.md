@@ -27,7 +27,7 @@ which they had never seen, or could not remember.
   There was war, and thereafter no more Indians troubled The Street. The men,
 busy with labour, waxed prosperous and as happy as they knew how to be. And the children grew
 up comfortably, and more families came from the Mother Land to dwell on The Street. And the
-children&rsquo;s children, and the newcomers&rsquo; children, grew up. The town was now a city,
+children's children, and the newcomers' children, grew up. The town was now a city,
 and one by one the cabins gave place to houses; simple, beautiful houses of brick and wood,
 with stone steps and iron railings and fanlights over the doors. No flimsy creations were these
 houses, for they were made to serve many a generation. Within there were carven mantels and
@@ -56,7 +56,7 @@ stars looked down upon dewy blossoms in the walled rose-gardens.
 
   In time there were no more swords, three-cornered hats, or periwigs in The
 Street. How strange seemed the denizens with their walking-sticks, tall beavers, and cropped
-heads! New sounds came from the distance&mdash;first strange puffings and shrieks from the river
+heads! New sounds came from the distance--first strange puffings and shrieks from the river
 a mile away, and then, many years later, strange puffings and shrieks and rumblings from other
 directions. The air was not quite so pure as before, but the spirit of the place had not changed.
 The blood and soul of the people were as the blood and soul of their ancestors who had fashioned
@@ -107,8 +107,8 @@ the plans and speeches of those who yearned for the appointed day of blood, flam
 
   Of the various odd assemblages in The Street, the law said much but could prove
 little. With great diligence did men of hidden badges linger and listen about such places as
-Petrovitch&rsquo;s Bakery, the squalid Rifkin School of Modern Economics, the Circle Social
-Club, and the Liberty Caf&eacute;. There congregated sinister men in great numbers, yet always
+Petrovitch's Bakery, the squalid Rifkin School of Modern Economics, the Circle Social
+Club, and the Liberty Café. There congregated sinister men in great numbers, yet always
 was their speech guarded or in a foreign tongue. And still the old houses stood, with their
 forgotten lore of nobler, departed centuries; of sturdy colonial tenants and dewy rose-gardens
 in the moonlight. Sometimes a lone poet or traveller would come to view them, and would try
@@ -120,7 +120,7 @@ of America and of all the fine old traditions which The Street had loved. Handbi
 fluttered about filthy gutters; handbills and papers printed in many tongues and in many characters,
 yet all bearing messages of crime and rebellion. In these writings the people were urged to
 tear down the laws and virtues that our fathers had exalted; to stamp out the soul of the old
-America&mdash;the soul that was bequeathed through a thousand and a half years of Anglo-Saxon
+America--the soul that was bequeathed through a thousand and a half years of Anglo-Saxon
 freedom, justice, and moderation. It was said that the swart men who dwelt in The Street and
 congregated in its rotting edifices were the brains of a hideous revolution; that at their word
 of command many millions of brainless, besotted beasts would stretch forth their noisome talons
@@ -136,8 +136,8 @@ hats walked along it from the woodland spring to the cluster of houses by the be
 no act be performed to check the impending cataclysm; for the swart, sinister men were old in
 cunning.  
 
-  So The Street slept uneasily on, till one night there gathered in Petrovitch&rsquo;s
-Bakery and the Rifkin School of Modern Economics, and the Circle Social Club, and Liberty Caf&eacute;,
+  So The Street slept uneasily on, till one night there gathered in Petrovitch's
+Bakery and the Rifkin School of Modern Economics, and the Circle Social Club, and Liberty Café,
 and in other places as well, vast hordes of men whose eyes were big with horrible triumph and
 expectation. Over hidden wires strange messages travelled, and much was said of still stranger
 messages yet to travel; but most of this was not guessed till afterward, when the Western Land
@@ -159,7 +159,7 @@ had been alive come alive from the ruins.
 tell odd stories. The poet says that all through the hours before dawn he beheld sordid ruins
 but indistinctly in the glare of the arc-lights; that there loomed above the wreckage another
 picture wherein he could descry moonlight and fair houses and elms and oaks and maples of dignity.
-And the traveller declares that instead of the place&rsquo;s wonted stench there lingered a
+And the traveller declares that instead of the place's wonted stench there lingered a
 delicate fragrance as of roses in full bloom. But are not the dreams of poets and the tales
 of travellers notoriously false?  
 

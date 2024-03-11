@@ -7,10 +7,10 @@ services:
     working_dir: /root/docGen
     volumes:
       - $PWD/manuscript:/root/docGen/documents
+      - $PWD/manuscript/resources:/root/docGen/images
       - $PWD/src/img:/img
       - $PWD/output:/root/docGen/output
       - $PWD/ops/scripts:/root/docGen/scripts
-      - $PWD/ops/images:/root/docGen/images
       - $PWD/ops/templates:/root/docGen/templates
     environment:
       - ALLOW_PLANTUML_INCLUDE=true

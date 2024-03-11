@@ -13,30 +13,30 @@ to be new there; but nowadays explorers are digging beneath the surface and brin
 chapters of life that rose and fell among these plains and mountains before recorded history
 began. We think nothing of a Pueblo village 2500 years old, and it hardly jolts us when archaeologists
 put the sub-pedregal culture of Mexico back to 17,000 or 18,000 B. C. We hear rumours of still
-older things, too&mdash;of primitive man contemporaneous with extinct animals and known today
-only through a few fragmentary bones and artifacts&mdash;so that the idea of newness is fading out
+older things, too--of primitive man contemporaneous with extinct animals and known today
+only through a few fragmentary bones and artifacts--so that the idea of newness is fading out
 pretty rapidly. Europeans usually catch the sense of immemorial ancientness and deep deposits
 from successive life-streams better than we do. Only a couple of years ago a British author
-spoke of Arizona as a &ldquo;moon-dim region, very lovely in its way, and stark and old&mdash;an
-ancient, lonely land&rdquo;.  
+spoke of Arizona as a  "moon-dim region, very lovely in its way, and stark and old--an
+ancient, lonely land ".  
 
-  Yet I believe I have a deeper sense of the stupefying&mdash;almost horrible&mdash;ancientness
+  Yet I believe I have a deeper sense of the stupefying--almost horrible--ancientness
 of the West than any European. It all comes from an incident that happened in 1928; an incident
-which I&rsquo;d greatly like to dismiss as three-quarters hallucination, but which has left
-such a frightfully firm impression on my memory that I can&rsquo;t put it off very easily. It
+which I'd greatly like to dismiss as three-quarters hallucination, but which has left
+such a frightfully firm impression on my memory that I can't put it off very easily. It
 was in Oklahoma, where my work as an American Indian ethnologist constantly takes me and where
-I had come upon some devilishly strange and disconcerting matters before. Make no mistake&mdash;Oklahoma
-is a lot more than a mere pioneers&rsquo; and promoters&rsquo; frontier. There are old, old
+I had come upon some devilishly strange and disconcerting matters before. Make no mistake--Oklahoma
+is a lot more than a mere pioneers' and promoters' frontier. There are old, old
 tribes with old, old memories there; and when the tom-toms beat ceaselessly over brooding plains
 in the autumn the spirits of men are brought dangerously close to primal, whispered things.
 I am white and Eastern enough myself, but anybody is welcome to know that the rites of Yig,
 Father of Snakes, can get a real shudder out of me any day. I have heard and seen too much to
-be &ldquo;sophisticated&rdquo; in such matters. And so it is with this incident of 1928. I&rsquo;d
-like to laugh it off&mdash;but I can&rsquo;t.  
+be  "sophisticated " in such matters. And so it is with this incident of 1928. I'd
+like to laugh it off--but I can't.  
 
   I had gone into Oklahoma to track down and correlate one of the many ghost
 tales which were current among the white settlers, but which had strong Indian corroboration,
-and&mdash;I felt sure&mdash;an ultimate Indian source. They were very curious, these open-air
+and--I felt sure--an ultimate Indian source. They were very curious, these open-air
 ghost tales; and though they sounded flat and prosaic in the mouths of the white people, they
 had earmarks of linkage with some of the richest and obscurest phases of native mythology. All
 of them were woven around the vast, lonely, artificial-looking mounds in the western part of
@@ -44,7 +44,7 @@ the state, and all of them involved apparitions of exceedingly strange aspect an
 
   The commonest, and among the oldest, became quite famous in 1892, when a government
 marshal named John Willis went into the mound region after horse-thieves and came out with a
-wild yarn of nocturnal cavalry horses in the air between great armies of invisible spectres&mdash;battles
+wild yarn of nocturnal cavalry horses in the air between great armies of invisible spectres--battles
 that involved the rush of hooves and feet, the thud of blows, the clank of metal on metal, the
 muffled cries of warriors, and the fall of human and equine bodies. These things happened by
 moonlight, and frightened his horse as well as himself. The sounds persisted an hour at a time;
@@ -57,18 +57,18 @@ and weapons. They even went so far as to say that they could not be sure the hor
 horses.  
 
   The Indians, on the other hand, did not seem to claim the spectres as kinsfolk.
-They referred to them as &ldquo;those people&rdquo;, &ldquo;the old people&rdquo;, or &ldquo;they
-who dwell below&rdquo;, and appeared to hold them in too great a frightened veneration to talk
+They referred to them as  "those people ",  "the old people ", or  "they
+who dwell below ", and appeared to hold them in too great a frightened veneration to talk
 much about them. No ethnologist had been able to pin any tale-teller down to a specific description
 of the beings, and apparently nobody had ever had a very clear look at them. The Indians had
-one or two old proverbs about these phenomena, saying that &ldquo;men very old, make very big
+one or two old proverbs about these phenomena, saying that  "men very old, make very big
 spirit; not so old, not so big; older than all time, then spirit he so big he near flesh; those
-old people and spirits they mix up&mdash;get all the same&rdquo;.  
+old people and spirits they mix up--get all the same ".  
 
-  Now all of this, of course, is &ldquo;old stuff&rdquo; to an ethnologist&mdash;of
+  Now all of this, of course, is  "old stuff " to an ethnologist--of
 a piece with the persistent legends of rich hidden cities and buried races which abound among
 the Pueblo and plains Indians, and which lured Coronado centuries ago on his vain search for
-the fabled Quivira. What took me into western Oklahoma was something far more definite and tangible&mdash;a
+the fabled Quivira. What took me into western Oklahoma was something far more definite and tangible--a
 local and distinctive tale which, though really old, was wholly new to the outside world of
 research, and which involved the first clear descriptions of the ghosts which it treated of.
 There was an added thrill in the fact that it came from the remote town of Binger, in Caddo
@@ -77,12 +77,12 @@ connected with the snake-god myth.
 
   The tale, outwardly, was an extremely naive and simple one, and centred in
 a huge, lone mound or small hill that rose above the plain about a third of a mile west of the
-village&mdash;a mound which some thought a product of Nature, but which others believed to be
+village--a mound which some thought a product of Nature, but which others believed to be
 a burial-place or ceremonial dais constructed by prehistoric tribes. This mound, the villagers
 said, was constantly haunted by two Indian figures which appeared in alternation; an old man
 who paced back and forth along the top from dawn till dusk, regardless of the weather and with
 only brief intervals of disappearance, and a squaw who took his place at night with a blue-flamed
-torch that glimmered quite continuously till morning. When the moon was bright the squaw&rsquo;s
+torch that glimmered quite continuously till morning. When the moon was bright the squaw's
 peculiar figure could be seen fairly plainly, and over half the villagers agreed that the apparition
 was headless.  
 
@@ -105,14 +105,14 @@ and lonelier landscape.
 windy region full of clouds of red dust. There are about 500 inhabitants besides the Indians
 on a neighbouring reservation; the principal occupation seeming to be agriculture. The soil
 is decently fertile, and the oil boom has not reached this part of the state. My train drew
-in at twilight, and I felt rather lost and uneasy&mdash;cut off from wholesome and every-day
-things&mdash;as it puffed away to the southward without me. The station platform was filled
+in at twilight, and I felt rather lost and uneasy--cut off from wholesome and every-day
+things--as it puffed away to the southward without me. The station platform was filled
 with curious loafers, all of whom seemed eager to direct me when I asked for the man to whom
 I had letters of introduction. I was ushered along a commonplace main street whose rutted surface
 was red with the sandstone soil of the country, and finally delivered at the door of my prospective
 host. Those who had arranged things for me had done well; for Mr. Compton was a man of high
-intelligence and local responsibility, while his mother&mdash;who lived with him and was familiarly
-known as &ldquo;Grandma Compton&rdquo;&mdash;was one of the first pioneer generation, and a veritable
+intelligence and local responsibility, while his mother--who lived with him and was familiarly
+known as  "Grandma Compton "--was one of the first pioneer generation, and a veritable
 mine of anecdote and folklore.  
 
   That evening the Comptons summed up for me all the legends current among the
@@ -124,7 +124,7 @@ village and the farms had not spread toward it in all four decades of settlement
 individuals had several times visited it. Some had come back to report that they saw no ghosts
 at all when they neared the dreaded hill; that somehow the lone sentinel had stepped out of
 sight before they reached the spot, leaving them free to climb the steep slope and explore the
-flat summit. There was nothing up there, they said&mdash;merely a rough expanse of underbrush.
+flat summit. There was nothing up there, they said--merely a rough expanse of underbrush.
 Where the Indian watcher could have vanished to, they had no idea. He must, they reflected,
 have descended the slope and somehow managed to escape unseen along the plain; although there
 was no convenient cover within sight. At any rate, there did not appear to be any opening into
@@ -157,17 +157,17 @@ the dusk drew on, and the torch of the headless squaw glimmered ghoulishly on th
 About two hours after nightfall he staggered into the village minus his spade and other belongings,
 and burst into a shrieking monologue of disconnected ravings. He howled of shocking abysses
 and monsters, of terrible carvings and statues, of inhuman captors and grotesque tortures, and
-of other fantastic abnormalities too complex and chimerical even to remember. &ldquo;Old! Old!
-Old!&rdquo; he would moan over and over again, &ldquo;great God, they are older than the earth,
-and came here from somewhere else&mdash;they know what you think, and make you know what they
-think&mdash;they&rsquo;re half-man, half-ghost&mdash;crossed the line&mdash;melt and take shape again&mdash;getting
-more and more so, yet we&rsquo;re all descended from them in the beginning&mdash;children of
-Tulu&mdash;everything made of gold&mdash;monstrous animals, half-human&mdash;dead slaves&mdash;madness&mdash;I&auml;!
-Shub-Niggurath!&mdash;  that white man  &mdash;  oh, my God, what they did to him!  &nbsp;.&nbsp;.&nbsp;.&rdquo;  
+of other fantastic abnormalities too complex and chimerical even to remember.  "Old! Old!
+Old! " he would moan over and over again,  "great God, they are older than the earth,
+and came here from somewhere else--they know what you think, and make you know what they
+think--they're half-man, half-ghost--crossed the line--melt and take shape again--getting
+more and more so, yet we're all descended from them in the beginning--children of
+Tulu--everything made of gold--monstrous animals, half-human--dead slaves--madness--I&auml;!
+Shub-Niggurath!--  that white man  --  oh, my God, what they did to him!   . . . "  
 
   Heaton was the village idiot for about eight years, after which he died in
 an epileptic fit. Since his ordeal there had been two more cases of mound-madness, and eight
-of total disappearance. Immediately after Heaton&rsquo;s mad return, three desperate and determined
+of total disappearance. Immediately after Heaton's mad return, three desperate and determined
 men had gone out to the lone hill together; heavily armed, and with spades and pickaxes. Watching
 villagers saw the Indian ghost melt away as the explorers drew near, and afterward saw the men
 climb the mound and begin scouting around through the underbrush. All at once they faded into
@@ -179,15 +179,15 @@ the incidents of 1891 were largely forgotten did anybody dare to think of furthe
 Then, about 1910, a fellow too young to recall the old horrors made a trip to the shunned spot
 and found nothing at all.  
 
-  By 1915 the acute dread and wild legendry of &rsquo;91 had largely faded into
-the commonplace and unimaginative ghost-tales at present surviving&mdash;that is, had so faded
+  By 1915 the acute dread and wild legendry of '91 had largely faded into
+the commonplace and unimaginative ghost-tales at present surviving--that is, had so faded
 among the white people. On the nearby reservation were old Indians who thought much and kept
 their own counsel. About this time a second wave of active curiosity and adventuring developed,
 and several bold searchers made the trip to the mound and returned. Then came a trip of two
-Eastern visitors with spades and other apparatus&mdash;a pair of amateur archaeologists connected
+Eastern visitors with spades and other apparatus--a pair of amateur archaeologists connected
 with a small college, who had been making studies among the Indians. No one watched this trip
-from the village, but they never came back. The searching-party that went out after them&mdash;among
-whom was my host Clyde Compton&mdash;found nothing whatsoever amiss at the mound.  
+from the village, but they never came back. The searching-party that went out after them--among
+whom was my host Clyde Compton--found nothing whatsoever amiss at the mound.  
 
   The next trip was the solitary venture of old Capt. Lawton, a grizzled pioneer
 who had helped to open up the region in 1889, but who had never been there since. He had recalled
@@ -198,24 +198,24 @@ for some extensive delving. He ascended the mound on the morning of Thursday, Ma
 watched through spy glasses by more than twenty people in the village and on the adjacent plain.
 His disappearance was very sudden, and occurred as he was hacking at the shrubbery with a brush-cutter.
 No one could say more than that he was there one moment and absent the next. For over a week
-no tidings of him reached Binger, and then&mdash;in the middle of the night&mdash;there dragged
+no tidings of him reached Binger, and then--in the middle of the night--there dragged
 itself into the village the object about which dispute still rages.  
 
-  It said it was&mdash;or had been&mdash;Capt. Lawton, but it was definitely younger
+  It said it was--or had been--Capt. Lawton, but it was definitely younger
 by as much as forty years than the old man who had climbed the mound. Its hair was jet black,
-and its face&mdash;now distorted with nameless fright&mdash;free from wrinkles. But it did remind
-Grandma Compton most uncannily of the captain as he had looked back in &rsquo;89. Its feet were
+and its face--now distorted with nameless fright--free from wrinkles. But it did remind
+Grandma Compton most uncannily of the captain as he had looked back in '89. Its feet were
 cut off neatly at the ankles, and the stumps were smoothly healed to an extent almost incredible
 if the being really were the man who had walked upright a week before. It babbled of incomprehensible
-things, and kept repeating the name &ldquo;George Lawton, George E. Lawton&rdquo; as if trying
+things, and kept repeating the name  "George Lawton, George E. Lawton " as if trying
 to reassure itself of its own identity. The things it babbled of, Grandma Compton thought, were
-curiously like the hallucinations of poor young Heaton in &rsquo;91; though there were minor
-differences. &ldquo;The blue light!&mdash;the blue light!&nbsp;.&nbsp;.&nbsp;.&rdquo; muttered the
-object, &ldquo;always down there, before there were any living things&mdash;older than the dinosaurs&mdash;always
-the same, only weaker&mdash;never death&mdash;brooding and brooding and brooding&mdash;  the
-same people, half-man and half-gas  &mdash;the dead that walk and work&mdash;oh, those beasts,
-those half-human unicorns&mdash;houses and cities of gold&mdash;old, old, old, older than time&mdash;came
-down from the stars&mdash;Great Tulu&mdash;Azathoth&mdash;Nyarlathotep&mdash;waiting, waiting.&nbsp;.&nbsp;.&nbsp;.&rdquo;
+curiously like the hallucinations of poor young Heaton in '91; though there were minor
+differences.  "The blue light!--the blue light! . . . " muttered the
+object,  "always down there, before there were any living things--older than the dinosaurs--always
+the same, only weaker--never death--brooding and brooding and brooding--  the
+same people, half-man and half-gas  --the dead that walk and work--oh, those beasts,
+those half-human unicorns--houses and cities of gold--old, old, old, older than time--came
+down from the stars--Great Tulu--Azathoth--Nyarlathotep--waiting, waiting. . . . "
 The object died before dawn.  
 
   Of course there was an investigation, and the Indians at the reservation were
@@ -223,20 +223,20 @@ grilled unmercifully. But they knew nothing, and had nothing to say. At least, n
 had anything to say except old Grey Eagle, a Wichita chieftain whose more than a century of
 age put him above common fears. He alone deigned to grunt some advice.  
 
-  &ldquo;You let um &rsquo;lone, white man. No good&mdash;those people. All under
+   "You let um 'lone, white man. No good--those people. All under
 here, all under there, them old ones. Yig, big father of snakes, he there. Yig is Yig. Tir&aacute;wa,
 big father of men, he there. Tir&aacute;wa is Tir&aacute;wa. No die. No get old. Just same like
 air. Just live and wait. One time they come out here, live and fight. Build um dirt tepee. Bring
-up gold&mdash;they got plenty. Go off and make new lodges. Me them. You them. Then big waters
-come. All change. Nobody come out, let nobody in. Get in, no get out. You let um &rsquo;lone,
+up gold--they got plenty. Go off and make new lodges. Me them. You them. Then big waters
+come. All change. Nobody come out, let nobody in. Get in, no get out. You let um 'lone,
 you have no bad medicine. Red man know, he no get catch. White man meddle, he no come back.
-Keep &rsquo;way little hills. No good. Grey Eagle say this.&rdquo;  
+Keep 'way little hills. No good. Grey Eagle say this. "  
 
-  If Joe Norton and Rance Wheelock had taken the old chief&rsquo;s advice, they would
-probably be here today; but they didn&rsquo;t. They were great readers and materialists, and
+  If Joe Norton and Rance Wheelock had taken the old chief's advice, they would
+probably be here today; but they didn't. They were great readers and materialists, and
 feared nothing in heaven or earth; and they thought that some Indian fiends had a secret headquarters
 inside the mound. They had been to the mound before, and now they went again to avenge old Capt.
-Lawton&mdash;boasting that they&rsquo;d do it if they had to tear the mound down altogether. Clyde
+Lawton--boasting that they'd do it if they had to tear the mound down altogether. Clyde
 Compton watched them with a pair of prism binoculars and saw them round the base of the sinister
 hill. Evidently they meant to survey their territory very gradually and minutely. Minutes passed,
 and they did not reappear. Nor were they ever seen again.  
@@ -245,14 +245,14 @@ and they did not reappear. Nor were they ever seen again.
 the Great War served to restore it to the farther background of Binger folklore. It was unvisited
 from 1916 to 1919, and would have remained so but for the daredeviltry of some of the youths
 back from service in France. From 1919 to 1920, however, there was a veritable epidemic of mound-visiting
-among the prematurely hardened young veterans&mdash;an epidemic that waxed as one youth after
-another returned unhurt and contemptuous. By 1920&mdash;so short is human memory&mdash;the mound
+among the prematurely hardened young veterans--an epidemic that waxed as one youth after
+another returned unhurt and contemptuous. By 1920--so short is human memory--the mound
 was almost a joke; and the tame story of the murdered squaw began to displace darker whispers
-on everybody&rsquo;s tongues. Then two reckless young brothers&mdash;the especially unimaginative
-and hard-boiled Clay boys&mdash;decided to go and dig up the buried squaw and the gold for which
+on everybody's tongues. Then two reckless young brothers--the especially unimaginative
+and hard-boiled Clay boys--decided to go and dig up the buried squaw and the gold for which
 the old Indian had murdered her.  
 
-  They went out on a September afternoon&mdash;about the time the Indian tom-toms
+  They went out on a September afternoon--about the time the Indian tom-toms
 begin their incessant annual beating over the flat, red-dusty plains. Nobody watched them, and
 their parents did not become worried at their non-return for several hours. Then came an alarm
 and a searching-party, and another resignation to the mystery of silence and doubt.  
@@ -262,40 +262,40 @@ hair and beard had turned an albino white for two inches from the roots. On his 
 a queer scar like a branded hieroglyph. Three months after he and his brother Walker had vanished
 he skulked into his house at night, wearing nothing but a queerly patterned blanket which he
 thrust into the fire as soon as he had got into a suit of his own clothes. He told his parents
-that he and Walker had been captured by some strange Indians&mdash;not Wichitas or Caddos&mdash;and
+that he and Walker had been captured by some strange Indians--not Wichitas or Caddos--and
 held prisoners somewhere toward the west. Walker had died under torture, but he himself had
 managed to escape at a high cost. The experience had been particularly terrible, and he could
-not talk about it just then. He must rest&mdash;and anyway, it would do no good to give an alarm
+not talk about it just then. He must rest--and anyway, it would do no good to give an alarm
 and try to find and punish the Indians. They were not of a sort that could be caught or punished,
-and it was especially important for the good of Binger&mdash;for the good of the world&mdash;that
+and it was especially important for the good of Binger--for the good of the world--that
 they be not pursued into their secret lair. As a matter of fact, they were not altogether what
-one could call real Indians&mdash;he would explain about that later. Meanwhile he must rest.
-Better not to rouse the village with the news of his return&mdash;he would go upstairs and sleep.
+one could call real Indians--he would explain about that later. Meanwhile he must rest.
+Better not to rouse the village with the news of his return--he would go upstairs and sleep.
 Before he climbed the rickety flight to his room he took a pad and pencil from the living-room
-table, and an automatic pistol from his father&rsquo;s desk drawer.  
+table, and an automatic pistol from his father's desk drawer.  
 
   Three hours later the shot rang out. Ed Clay had put a bullet neatly through
 his temples with a pistol clutched in his left hand, leaving a sparsely written sheet of paper
 on the rickety table near his bed. He had, it later appeared from the whittled pencil-stub and
 stove full of charred paper, originally written much more; but had finally decided not to tell
 what he knew beyond vague hints. The surviving fragment was only a mad warning scrawled in a
-curiously backhanded script&mdash;the ravings of a mind obviously deranged by hardships&mdash;and
+curiously backhanded script--the ravings of a mind obviously deranged by hardships--and
 it read thus; rather surprisingly for the utterance of one who had always been stolid and matter-of-fact:  
   
 
   For gods sake never go nere that mound it is part of some kind of a world so
 devilish and old it cannot be spoke about me and Walker went and was took into the thing just
 melted at times and made up agen and the whole world outside is helpless alongside of what they
-can do&mdash;they what live forever young as they like and you cant tell if they are really
-men or just gostes&mdash;and what they do cant be spoke about and this is only 1 entrance&mdash;you
-cant tell how big the whole thing is&mdash;after what we seen I dont want to live aney more
-France was nothing besides this&mdash;and see that people always keep away o god they wood if
+can do--they what live forever young as they like and you cant tell if they are really
+men or just gostes--and what they do cant be spoke about and this is only 1 entrance--you
+cant tell how big the whole thing is--after what we seen I dont want to live aney more
+France was nothing besides this--and see that people always keep away o god they wood if
 they see poor walker like he was in the end.  
   Yrs truely    
 Ed Clay  
   
 
-  At the autopsy it was found that all of young Clay&rsquo;s organs were transposed
+  At the autopsy it was found that all of young Clay's organs were transposed
 from right to left within his body, as if he had been turned inside out. Whether they had always
 been so, no one could say at the time, but it was later learned from army records that Ed had
 been perfectly normal when mustered out of the service in May, 1919. Whether there was a mistake
@@ -306,7 +306,7 @@ question, as is also the origin of the hieroglyph-like scar on the forehead.
 years no one had been near the place, and few indeed had even cared to level a spy glass at
 it. From time to time people continued to glance nervously at the lone hill as it rose starkly
 from the plain against the western sky, and to shudder at the small dark speck that paraded
-by day and the glimmering will-o&rsquo;-the-wisp that danced by night. The thing was accepted
+by day and the glimmering will-o'-the-wisp that danced by night. The thing was accepted
 at face value as a mystery not to be probed, and by common consent the village shunned the subject.
 It was, after all, quite easy to avoid the hill; for space was unlimited in every direction,
 and community life always follows beaten trails. The mound side of the village was simply kept
@@ -330,18 +330,18 @@ a few paces in the light of a waning August moon to where the houses were thinne
 was still low, and had not blotted many stars from the sky; so that I could see not only the
 westering gleams of Altair and Vega, but the mystic shimmering of the Milky Way, as I looked
 out over the vast expanse of earth and sky in the direction that Compton pointed. Then all at
-once I saw a spark that was not a star&mdash;a bluish spark that moved and glimmered against
+once I saw a spark that was not a star--a bluish spark that moved and glimmered against
 the Milky Way near the horizon, and that seemed in a vague way more evil and malevolent than
 anything in the vault above. In another moment it was clear that this spark came from the top
 of a long distant rise in the outspread and faintly litten plain; and I turned to Compton with
 a question.  
 
-  &ldquo;Yes,&rdquo; he answered, &ldquo;it&rsquo;s the blue ghost-light&mdash;and
-that is the mound. There&rsquo;s not a night in history that we haven&rsquo;t seen it&mdash;and
-not a living soul in Binger that would walk out over that plain toward it. It&rsquo;s a bad
-business, young man, and if you&rsquo;re wise you&rsquo;ll let it rest where it is. Better call
-your search off, son, and tackle some of the other Injun legends around here. We&rsquo;ve plenty
-to keep you busy, heaven knows!&rdquo;  
+   "Yes, " he answered,  "it's the blue ghost-light--and
+that is the mound. There's not a night in history that we haven't seen it--and
+not a living soul in Binger that would walk out over that plain toward it. It's a bad
+business, young man, and if you're wise you'll let it rest where it is. Better call
+your search off, son, and tackle some of the other Injun legends around here. We've plenty
+to keep you busy, heaven knows! "  
 
     II.    
 
@@ -355,7 +355,7 @@ was busy in the pantry. When he saw me he nodded, and after a moment invited me 
 glamorous young sunlight. I knew where we were going, and as we walked along the lane I strained
 my eyes westward over the plains.  
 
-  There was the mound&mdash;far away and very curious in its aspect of artificial
+  There was the mound--far away and very curious in its aspect of artificial
 regularity. It must have been from thirty to forty feet high, and all of a hundred yards from
 north to south as I looked at it. It was not as wide as that from east to west, Compton said,
 but had the contour of a rather thinnish ellipse. He, I knew, had been safely out to it and
@@ -363,17 +363,17 @@ back several times. As I looked at the rim silhouetted against the deep blue of 
 to follow its minor irregularities, and became impressed with a sense of something moving upon
 it. My pulse mounted a bit feverishly, and I seized quickly on the high-powered binoculars which
 Compton had quietly offered me. Focussing them hastily, I saw at first only a tangle of underbrush
-on the distant mound&rsquo;s rim&mdash;and then something stalked into the field.  
+on the distant mound's rim--and then something stalked into the field.  
 
   It was unmistakably a human shape, and I knew at once that I was seeing the
-daytime &ldquo;Indian ghost&rdquo; I did not wonder at the description, for surely the tall,
+daytime  "Indian ghost " I did not wonder at the description, for surely the tall,
 lean, darkly robed being with the filleted black hair and seamed, coppery, expressionless, aquiline
 face looked more like an Indian than anything else in my previous experience. And yet my trained
-ethnologist&rsquo;s eye told me at once that this was no redskin of any sort hitherto known
+ethnologist's eye told me at once that this was no redskin of any sort hitherto known
 to history, but a creature of vast racial variation and of a wholly different culture-stream.
-Modern Indians are brachycephalic&mdash;round-headed&mdash;and you can&rsquo;t find any dolichocephalic
+Modern Indians are brachycephalic--round-headed--and you can't find any dolichocephalic
 or long-headed skulls except in ancient Pueblo deposits dating back 2500 years or more; yet
-this man&rsquo;s long-headedness was so pronounced that I recognised it at once, even at his vast distance
+this man's long-headedness was so pronounced that I recognised it at once, even at his vast distance
 and in the uncertain field of the binoculars. I saw, too, that the pattern of his robe represented
 a decorative tradition utterly remote from anything we recognise in southwestern native art.
 There were shining metal trappings, likewise, and a short sword or kindred weapon at his side,
@@ -386,31 +386,31 @@ man, whoever or whatever he might be, was certainly   not a savage.   He was the
 of a   civilisation,   I felt instinctively, though of what civilisation I could not guess.
 At length he disappeared beyond the farther edge of the mound, as if descending the opposite
 and unseen slope; and I lowered the glass with a curious mixture of puzzled feelings. Compton
-was looking quizzically at me, and I nodded non-committally, &ldquo;What do you make of that?&rdquo;
-he ventured. &ldquo;This is what we&rsquo;ve seen here in Binger every day of our lives.&rdquo;  
+was looking quizzically at me, and I nodded non-committally,  "What do you make of that? "
+he ventured.  "This is what we've seen here in Binger every day of our lives. "  
 
-  That noon found me at the Indian reservation talking with old Grey Eagle&mdash;who,
+  That noon found me at the Indian reservation talking with old Grey Eagle--who,
 through some miracle, was still alive; though he must have been close to a hundred and fifty
-years old. He was a strange, impressive figure&mdash;this stern, fearless leader of his kind
+years old. He was a strange, impressive figure--this stern, fearless leader of his kind
 who had talked with outlaws and traders in fringed buckskin and French officials in knee-breeches
-and three-cornered hats&mdash;and I was glad to see that, because of my air of deference toward
+and three-cornered hats--and I was glad to see that, because of my air of deference toward
 him, he appeared to like me. His liking, however, took an unfortunately obstructive form as
 soon as he learned what I wanted; for all he would do was to warn me against the search I was
 about to make.  
 
-  &ldquo;You good boy&mdash;you no bother that hill. Bad medicine. Plenty devil
-under there&mdash;catchum when you dig. No dig, no hurt. Go and dig, no come back. Just same
+   "You good boy--you no bother that hill. Bad medicine. Plenty devil
+under there--catchum when you dig. No dig, no hurt. Go and dig, no come back. Just same
 when me boy, just same when my father and he father boy. All time buck he walk in day, squaw
 with no head she walk in night. All time since white man with tin coats they come from sunset
-and below big river&mdash;long way back&mdash;three, four times more back than Grey Eagle&mdash;two
-times more back than Frenchmen&mdash;all same after then. More back than that, nobody go near
+and below big river--long way back--three, four times more back than Grey Eagle--two
+times more back than Frenchmen--all same after then. More back than that, nobody go near
 little hills nor deep valleys with stone caves. Still more back, those old ones no hide, come
 out and make villages. Bring plenty gold. Me them. You them. Then big waters come. All change.
-Nobody come out, let nobody in. Get in, no get out. They no die&mdash;no get old like Grey Eagle
-with valleys in face and snow on head. Just same like air&mdash;some man, some spirit. Bad medicine.
+Nobody come out, let nobody in. Get in, no get out. They no die--no get old like Grey Eagle
+with valleys in face and snow on head. Just same like air--some man, some spirit. Bad medicine.
 Sometimes at night spirit come out on half-man&ndash;half-horse-with-horn and fight where men once
-fight. Keep &rsquo;way them place. No good. You good boy&mdash;go &rsquo;way and let them old
-ones &rsquo;lone.&rdquo;  
+fight. Keep 'way them place. No good. You good boy--go 'way and let them old
+ones 'lone. "  
 
   That was all I could get out of the ancient chief, and the rest of the Indians
 would say nothing at all. But if I was troubled, Grey Eagle was clearly more so; for he obviously
@@ -421,13 +421,13 @@ half-timidly from a buckskin pouch he wore, and extended it toward me very solem
 a worn but finely minted metal disc about two inches in diameter, oddly figured and perforated,
 and suspended from a leathern cord.  
 
-  &ldquo;You no promise, then Grey Eagle no can tell what get you. But if anything
-help um, this good medicine. Come from my father&mdash;he get from he father&mdash;he get from
-he father&mdash;all way back, close to Tir&aacute;wa, all men&rsquo;s father. My father say,
-&lsquo;You keep &rsquo;way from those old ones, keep &rsquo;way from little hills and valleys
+   "You no promise, then Grey Eagle no can tell what get you. But if anything
+help um, this good medicine. Come from my father--he get from he father--he get from
+he father--all way back, close to Tir&aacute;wa, all men's father. My father say,
+&lsquo;You keep 'way from those old ones, keep 'way from little hills and valleys
 with stone caves. But if old ones they come out to get you, then you shew um this medicine.
 They know. They make him long way back. They look, then they no do such bad medicine maybe.
-But no can tell. You keep &rsquo;way, just same. Them no good. No tell what they do.&rsquo;&rdquo;  
+But no can tell. You keep 'way, just same. Them no good. No tell what they do.' "  
 
   As he spoke, Grey Eagle was hanging the thing around my neck, and I saw it
 was a very curious object indeed. The more I looked at it, the more I marvelled; for not only
@@ -436,7 +436,7 @@ me, but what was left of its design seemed to be of a marvellously artistic and 
 workmanship. One side, so far as I could see, had borne an exquisitely modelled serpent design;
 whilst the other side had depicted a kind of octopus or other tentacled monster. There were
 some half-effaced hieroglyphs, too, of a kind which no archaeologist could identify or even
-place conjecturally. With Grey Eagle&rsquo;s permission I later had expert historians, anthropologists,
+place conjecturally. With Grey Eagle's permission I later had expert historians, anthropologists,
 geologists, and chemists pass carefully upon the disc, but from them I obtained only a chorus
 of bafflement. It defied either classification or analysis. The chemists called it an amalgam
 of unknown metallic elements of heavy atomic weight, and one geologist suggested that the substance
@@ -450,38 +450,38 @@ story.
   When I returned to the village I tried to secure more mound-lore, but found
 only excited gossip and opposition. It was really flattering to see how solicitous the people
 were about my safety, but I had to set their almost frantic remonstrances aside. I shewed them
-Grey Eagle&rsquo;s charm, but none of them had ever heard of it before, or seen anything even
+Grey Eagle's charm, but none of them had ever heard of it before, or seen anything even
 remotely like it. They agreed that it could not be an Indian relic, and imagined that the old
-chief&rsquo;s ancestors must have obtained it from some trader.  
+chief's ancestors must have obtained it from some trader.  
 
   When they saw they could not deter me from my trip, the Binger citizens sadly
 did what they could to aid my outfitting. Having known before my arrival the sort of work to
-be done, I had most of my supplies already with me&mdash;machete and trench-knife for shrub-clearing
+be done, I had most of my supplies already with me--machete and trench-knife for shrub-clearing
 and excavating, electric torches for any underground phase which might develop, rope, field-glasses,
-tape-measure, microscope, and incidentals for emergencies&mdash;as much, in fact, as might be
+tape-measure, microscope, and incidentals for emergencies--as much, in fact, as might be
 comfortably stowed in a convenient handbag. To this equipment I added only the heavy revolver
 which the sheriff forced upon me, and the pick and shovel which I thought might expedite my
 work.  
 
   I decided to carry these latter things slung over my shoulder with a stout
-cord&mdash;for I soon saw that I could not hope for any helpers or fellow-explorers. The village
+cord--for I soon saw that I could not hope for any helpers or fellow-explorers. The village
 would watch me, no doubt, with all its available telescopes and field-glasses; but it would
 not send any citizen so much as a yard over the flat plain toward the lone hillock. My start
 was timed for early the next morning, and all the rest of that day I was treated with the awed
 and uneasy respect which people give to a man about to set out for certain doom.  
 
-  When morning came&mdash;a cloudy though not a threatening morning&mdash;the
+  When morning came--a cloudy though not a threatening morning--the
 whole village turned out to see me start across the dustblown plain. Binoculars shewed the lone
 man at his usual pacing on the mound, and I resolved to keep him in sight as steadily as possible
 during my approach. At the last moment a vague sense of dread oppressed me, and I was just weak
-and whimsical enough to let Grey Eagle&rsquo;s talisman swing on my chest in full view of any
+and whimsical enough to let Grey Eagle's talisman swing on my chest in full view of any
 beings or ghosts who might be inclined to heed it. Bidding au revoir to Compton and his mother,
 I started off at a brisk stride despite the bag in my left hand and the clanking pick and shovel
 strapped to my back; holding my field-glass in my right hand and taking a glance at the silent
 pacer from time to time. As I neared the mound I saw the man very clearly, and fancied I could
 trace an expression of infinite evil and decadence on his seamed, hairless features. I was startled,
 too, to see that his goldenly gleaming weapon-case bore hieroglyphs very similar to those on
-the unknown talisman I wore. All the creature&rsquo;s costume and trappings bespoke exquisite
+the unknown talisman I wore. All the creature's costume and trappings bespoke exquisite
 workmanship and cultivation. Then, all too abruptly, I saw him start down the farther side of
 the mound and out of sight. When I reached the place, about ten minutes after I set out, there
 was no one there.  
@@ -496,7 +496,7 @@ were no signs of a path toward the top; and, burdened as I was, I managed to scr
 with considerable difficulty. When I reached the summit I found a roughly level elliptical plateau
 about 300 by 50 feet in dimensions; uniformly covered with rank grass and dense underbrush,
 and utterly incompatible with the constant presence of a pacing sentinel. This condition gave
-me a real shock, for it shewed beyond question that the &ldquo;Old Indian&rdquo;, vivid though
+me a real shock, for it shewed beyond question that the  "Old Indian ", vivid though
 he seemed, could not be other than a collective hallucination.  
 
   I looked about with considerable perplexity and alarm, glancing wistfully back
@@ -506,14 +506,14 @@ waved my cap in the air with a show of jauntiness which I was far from feeling. 
 to my work I flung down pick, shovel, and bag; taking my machete from the latter and commencing
 to clear away underbrush. It was a weary task, and now and then I felt a curious shiver as some
 perverse gust of wind arose to hamper my motion with a skill approaching deliberateness. At
-times it seemed as if a half-tangible force were pushing me back as I worked&mdash;almost as
+times it seemed as if a half-tangible force were pushing me back as I worked--almost as
 if the air thickened in front of me, or as if formless hands tugged at my wrists. My energy
 seemed used up without producing adequate results, yet for all that I made some progress.  
 
   By afternoon I had clearly perceived that, toward the northern end of the mound,
 there was a slight bowl-like depression in the root-tangled earth. While this might mean nothing,
 it would be a good place to begin when I reached the digging stage, and I made a mental note
-of it. At the same time I noticed another and very peculiar thing&mdash;namely, that the Indian
+of it. At the same time I noticed another and very peculiar thing--namely, that the Indian
 talisman swinging from my neck seemed to behave oddly at a point about seventeen feet southeast
 of the suggested bowl. Its gyrations were altered whenever I happened to stoop around that point,
 and it tugged downward as if attracted by some magnetism in the soil. The more I noticed this,
@@ -529,17 +529,17 @@ digging, I felt the leathern cord around my neck tugged harder and harder, as so
 soil seemed to draw the heavy metal talisman more and more. Then I felt my implements strike
 a hard surface, and wondered if a rock layer rested beneath. Prying about with the trench-knife,
 I found that such was not the case. Instead, to my intense surprise and feverish interest, I
-brought up a mould-clogged, heavy object of cylindrical shape&mdash;about a foot long and four
-inches in diameter&mdash;to which my hanging talisman clove with glue-like tenacity. As I cleared
+brought up a mould-clogged, heavy object of cylindrical shape--about a foot long and four
+inches in diameter--to which my hanging talisman clove with glue-like tenacity. As I cleared
 off the black loam my wonder and tension increased at the bas-reliefs revealed by that process.
 The whole cylinder, ends and all, was covered with figures and hieroglyphs; and I saw with growing
-excitement that these things were in the same unknown tradition as those on Grey Eagle&rsquo;s
+excitement that these things were in the same unknown tradition as those on Grey Eagle's
 charm and on the yellow metal trappings of the ghost I had seen through my binoculars.  
 
   Sitting down, I further cleaned the magnetic cylinder against the rough corduroy
 of my knickerbockers, and observed that it was made of the same heavy, lustrous unknown metal
-as the charm&mdash;hence, no doubt, the singular attraction. The carvings and chasings were very strange
-and very horrible&mdash;nameless monsters and designs fraught with insidious evil&mdash;and
+as the charm--hence, no doubt, the singular attraction. The carvings and chasings were very strange
+and very horrible--nameless monsters and designs fraught with insidious evil--and
 all were of the highest finish and craftsmanship. I could not at first make head or tail of
 the thing, and handled it aimlessly until I spied a cleavage near one end. Then I sought eagerly
 for some mode of opening, discovering at last that the end simply unscrewed.  
@@ -548,7 +548,7 @@ for some mode of opening, discovering at last that the end simply unscrewed.
 aromatic odour. The sole contents was a bulky roll of a yellowish, paper-like substance inscribed
 in greenish characters, and for a second I had the supreme thrill of fancying that I held a
 written key to unknown elder worlds and abysses beyond time. Almost immediately, however, the
-unrolling of one end shewed that the manuscript was in Spanish&mdash;albeit the formal, pompous
+unrolling of one end shewed that the manuscript was in Spanish--albeit the formal, pompous
 Spanish of a long-departed day. In the golden sunset light I looked at the heading and the opening
 paragraph, trying to decipher the wretched and ill-punctuated script of the vanished writer.
 What manner of relic was this? Upon what sort of a discovery had I stumbled? The first words
@@ -564,36 +564,36 @@ EN ASTURIAS, TOCANTE AL MUNDO SOTERR&Aacute;NEO DE XINAI&Aacute;N, A. D. MDXLV
   En el nombre de la sant&iacute;sima Trinidad, Padre, Hijo, y Esp&iacute;ritu-Santo,
 tres personas distintas y un solo. Dios verdadero, y de la sant&iacute;sima Virgen muestra Se&ntilde;ora,
 YO, P&Aacute;NFILO DE ZAMACONA, HIJO DE PEDRO GUZMAN Y ZAMACONA, HIDALGO, Y DE LA DO&Ntilde;A
-YN&Eacute;S ALVARADO Y NU&Ntilde;EZ, DE LUARCA EN ASTURIAS, juro para que todo que deco est&aacute;
-verdadero como sacramento.&nbsp;.&nbsp;.&nbsp;.  
+YNéS ALVARADO Y NU&Ntilde;EZ, DE LUARCA EN ASTURIAS, juro para que todo que deco est&aacute;
+verdadero como sacramento. . . .  
 
-  I paused to reflect on the portentous significance of what I was reading. &ldquo;The
+  I paused to reflect on the portentous significance of what I was reading.  "The
 Narrative of P&aacute;nfilo de Zamacona y Nu&ntilde;ez, gentleman, of Luarca in Asturias,   
-Concerning the Subterranean World of Xinai&aacute;n,   A. D. 1545&rdquo;&nbsp;.&nbsp;.&nbsp;. Here,
-surely, was too much for any mind to absorb all at once. A subterranean world&mdash;again that
+Concerning the Subterranean World of Xinai&aacute;n,   A. D. 1545 " . . . Here,
+surely, was too much for any mind to absorb all at once. A subterranean world--again that
 persistent idea which filtered through all the Indian tales and through all the utterances of
-those who had come back from the mound. And the date&mdash;1545&mdash;what could this mean?
+those who had come back from the mound. And the date--1545--what could this mean?
 In 1540 Coronado and his men had gone north from Mexico into the wilderness, but had they not
 turned back in 1542! My eye ran questingly down the opened part of the scroll, and almost at
 once seized on the name   Francisco V&aacute;squez de Coronado.   The writer of this thing,
-clearly, was one of Coronado&rsquo;s men&mdash;but what had he been doing in this remote realm
+clearly, was one of Coronado's men--but what had he been doing in this remote realm
 three years after his party had gone back? I must read further, for another glance told me that
-what was now unrolled was merely a summary of Coronado&rsquo;s northward march, differing in
+what was now unrolled was merely a summary of Coronado's northward march, differing in
 no essential way from the account known to history.  
 
   It was only the waning light which checked me before I could unroll and read
 more, and in my impatient bafflement I almost forgot to be frightened at the onrush of night
 in this sinister place. Others, however, had not forgotten the lurking terror, for I heard a
 loud distant hallooing from a knot of men who had gathered at the edge of the town. Answering
-the anxious hail, I restored the manuscript to its strange cylinder&mdash;to which the disc
+the anxious hail, I restored the manuscript to its strange cylinder--to which the disc
 around my neck still clung until I pried it off and packed it and my smaller implements for
-departure. Leaving the pick and shovel for the next day&rsquo;s work, I took up my handbag,
+departure. Leaving the pick and shovel for the next day's work, I took up my handbag,
 scrambled down the steep side of the mound, and in another quarter-hour was back in the village
 explaining and exhibiting my curious find. As darkness drew on, I glanced back at the mound
 I had so lately left, and saw with a shudder that the faint bluish torch of the nocturnal squaw-ghost
 had begun to glimmer.  
 
-  It was hard work waiting to get at the bygone Spaniard&rsquo;s narrative; but
+  It was hard work waiting to get at the bygone Spaniard's narrative; but
 I knew I must have quiet and leisure for a good translation, so reluctantly saved the task for
 the later hours of night. Promising the townsfolk a clear account of my findings in the morning,
 and giving them an ample opportunity to examine the bizarre and provocative cylinder, I accompanied
@@ -606,30 +606,30 @@ and unerringly.
 the cylinder and noted the instant magnetism which pulled the Indian talisman to its carven
 surface. The designs glimmered evilly on the richly lustrous and unknown metal, and I could
 not help shivering as I studied the abnormal and blasphemous forms that leered at me with such
-exquisite workmanship. I wish now that I had carefully photographed all these designs&mdash;though
+exquisite workmanship. I wish now that I had carefully photographed all these designs--though
 perhaps it is just as well that I did not. Of one thing I am really glad, and that is that I
 could not then identify the squatting octopus-headed thing which dominated most of the ornate
-cartouches, and which the manuscript called &ldquo;Tulu&rdquo;. Recently I have associated it,
+cartouches, and which the manuscript called  "Tulu ". Recently I have associated it,
 and the legends in the manuscript connected with it, with some new-found folklore of monstrous
 and unmentioned Cthulhu, a horror which seeped down from the stars while the young earth was
 still half-formed; and had I known of the connexion then, I could not have stayed in the same
 room with the thing. The secondary motif, a semi-anthropomorphic serpent, I did quite readily
 place as a prototype of the Yig, Quetzalcoatl, and Kukulcan conceptions. Before opening the
-cylinder I tested its magnetic powers on metals other than that of Grey Eagle&rsquo;s disc,
+cylinder I tested its magnetic powers on metals other than that of Grey Eagle's disc,
 but found that no attraction existed. It was no common magnetism which pervaded this morbid
 fragment of unknown worlds and linked it to its kind.  
 
-  At last I took out the manuscript and began translating&mdash;jotting down a synoptic
+  At last I took out the manuscript and began translating--jotting down a synoptic
 outline in English as I went, and now and then regretting the absence of a Spanish dictionary
 when I came upon some especially obscure or archaic word or construction. There was a sense
 of ineffable strangeness in thus being thrown back nearly four centuries in the midst of my
-continuous quest&mdash;thrown back to a year when my own forbears were settled, homekeeping
+continuous quest--thrown back to a year when my own forbears were settled, homekeeping
 gentlemen of Somerset and Devon under Henry the Eighth, with never a thought of the adventure
 that was to take their blood to Virginia and the New World; yet when that new world possessed,
 even as now, the same brooding mystery of the mound which formed my present sphere and horizon.
 The sense of a throwback was all the stronger because I felt instinctively that the common problem
-of the Spaniard and myself was one of such abysmal timelessness&mdash;of such unholy and unearthly
-eternity&mdash;that the scant four hundred years between us bulked as nothing in comparison.
+of the Spaniard and myself was one of such abysmal timelessness--of such unholy and unearthly
+eternity--that the scant four hundred years between us bulked as nothing in comparison.
 It took no more than a single look at that monstrous and insidious cylinder to make me realise
 the dizzying gulfs that yawned between all men of the known earth and the primal mysteries it
 represented. Before that gulf P&aacute;nfilo de Zamacona and I stood side by side; just as Aristotle
@@ -640,17 +640,17 @@ and I, or Cheops and I, might have stood.
 Of his youth in Luarca, a small, placid port on the Bay of Biscay, Zamacona
 told little. He had been wild, and a younger son, and had come to New Spain in 1532, when only
 twenty years old. Sensitively imaginative, he had listened spellbound to the floating rumours
-of rich cities and unknown worlds to the north&mdash;and especially to the tale of the Franciscan
+of rich cities and unknown worlds to the north--and especially to the tale of the Franciscan
 friar Marcos de Niza, who came back from a trip in 1539 with glowing accounts of fabulous C&iacute;bola
-and its great walled towns with terraced stone houses. Hearing of Coronado&rsquo;s contemplated
-expedition in search of these wonders&mdash;and of the greater wonders whispered to lie beyond
-them in the land of buffaloes&mdash;young Zamacona managed to join the picked party of 300,
+and its great walled towns with terraced stone houses. Hearing of Coronado's contemplated
+expedition in search of these wonders--and of the greater wonders whispered to lie beyond
+them in the land of buffaloes--young Zamacona managed to join the picked party of 300,
 and started north with the rest in 1540.  
 
-  History knows the story of that expedition&mdash;how C&iacute;bola was found
+  History knows the story of that expedition--how C&iacute;bola was found
 to be merely the squalid Pueblo village of Zu&ntilde;i, and how de Niza was sent back to Mexico
 in disgrace for his florid exaggerations; how Coronado first saw the Grand Canyon, and how at
-Cicuy&eacute;, on the Pecos, he heard from the Indian called El Turco of the rich and mysterious
+Cicuyé, on the Pecos, he heard from the Indian called El Turco of the rich and mysterious
 land of Quivira, far to the northeast, where gold, silver, and buffaloes abounded, and where
 there flowed a river two leagues wide. Zamacona told briefly of the winter camp at Tiguex on
 the Pecos, and of the northward start in April, when the native guide proved false and led the
@@ -660,12 +660,12 @@ party astray amidst a land of prairie-dogs, salt pools, and roving, bison-huntin
 with a very small and select detachment, Zamacona managed to be included in the advancing party.
 He spoke of the fertile country and of the great ravines with trees visible only from the edge
 of their steep banks; and of how all the men lived solely on buffalo-meat. And then came mention
-of the expedition&rsquo;s farthest limit&mdash;of the presumable but disappointing land of Quivira
+of the expedition's farthest limit--of the presumable but disappointing land of Quivira
 with its villages of grass houses, its brooks and rivers, its good black soil, its plums, nuts,
 grapes, and mulberries, and its maize-growing and copper-using Indians. The execution of El
 Turco, the false native guide, was casually touched upon, and there was a mention of the cross
-which Coronado raised on the bank of a great river in the autumn of 1541&mdash;a cross bearing
-the inscription, &ldquo;Thus far came the great general, Francisco V&aacute;squez de Coronado&rdquo;.  
+which Coronado raised on the bank of a great river in the autumn of 1541--a cross bearing
+the inscription,  "Thus far came the great general, Francisco V&aacute;squez de Coronado ".  
 
   This supposed Quivira lay at about the fortieth parallel of north latitude,
 and I see that quite lately the New York archaeologist Dr. Hodge has identified it with the
@@ -673,7 +673,7 @@ course of the Arkansas River through Barton and Rice Counties, Kansas. It is the
 the Wichitas, before the Sioux drove them south into what is now Oklahoma, and some of the grass-house
 village sites have been found and excavated for artifacts. Coronado did considerable exploring
 hereabouts, led hither and thither by the persistent rumours of rich cities and hidden worlds
-which floated fearfully around on the Indians&rsquo; tongues. These northerly natives seemed
+which floated fearfully around on the Indians' tongues. These northerly natives seemed
 more afraid and reluctant to talk about the rumoured cities and worlds than the Mexican Indians
 had been; yet at the same time seemed as if they could reveal a good deal more than the Mexicans
 had they been willing or dared to do so. Their vagueness exasperated the Spanish leader, and
@@ -686,7 +686,7 @@ penetrate.
   It was Charging Buffalo who told Zamacona of the queer stone doorways, gates,
 or cave-mouths at the bottom of some of those deep, steep, wooded ravines which the party had
 noticed on the northward march. These openings, he said, were mostly concealed by shrubbery;
-and few had entered them for untold aeons. Those who went to where they led, never returned&mdash;or
+and few had entered them for untold aeons. Those who went to where they led, never returned--or
 in a few cases returned mad or curiously maimed. But all this was legend, for nobody was known
 to have gone more than a limited distance inside any of them within the memory of the grandfathers
 of the oldest living men. Charging Buffalo himself had probably been farther than anyone else,
@@ -699,12 +699,12 @@ of terrible blue light; and the passage opened upon a shocking nether world. Abo
 Indian would say no more, for he had seen something that had sent him back in haste. But the
 golden cities must be somewhere down there, he added, and perhaps a white man with the magic
 of the thunder-stick might succeed in getting to them. He would not tell the big chief Coronado
-what he knew, for Coronado would not listen to Indian talk any more. Yes&mdash;he could shew
+what he knew, for Coronado would not listen to Indian talk any more. Yes--he could shew
 Zamacona the way if the white man would leave the party and accept his guidance. But he would
 not go inside the opening with the white man. It was bad in there.  
 
-  The place was about a five days&rsquo; march to the south, near the region
-of great mounds. These mounds had something to do with the evil world down there&mdash;they
+  The place was about a five days' march to the south, near the region
+of great mounds. These mounds had something to do with the evil world down there--they
 were probably ancient closed-up passages to it, for once the Old Ones below had had colonies
 on the surface and had traded with men everywhere, even in the lands that had sunk under the
 big waters. It was when those lands had sunk that the Old Ones closed themselves up below and
@@ -720,7 +720,7 @@ ghostly emanations were more commonly frequent and vivid. Accordingly the region
 mounds was often convulsed with spectral nocturnal battles reflecting those which had been fought
 in the days before the openings were closed.  
 
-  The Old Ones themselves were half-ghost&mdash;indeed, it was said that they
+  The Old Ones themselves were half-ghost--indeed, it was said that they
 no longer grew old or reproduced their kind, but flickered eternally in a state between flesh
 and spirit. The change was not complete, though, for they had to breathe. It was because the
 underground world needed air that the openings in the deep valleys were not blocked up as the
@@ -728,7 +728,7 @@ mound-openings on the plains had been. These openings, Charging Buffalo added, w
 based on natural fissures in the earth. It was whispered that the Old Ones had come down from
 the stars to the world when it was very young, and had gone inside to build their cities of
 solid gold because the surface was not then fit to live on. They were the ancestors of all men,
-yet none could guess from what star&mdash;or what place beyond the stars&mdash;they came. Their
+yet none could guess from what star--or what place beyond the stars--they came. Their
 hidden cities were still full of gold and silver, but men had better let them alone unless protected
 by very strong magic.  
 
@@ -746,16 +746,16 @@ and Tulu, the octopus-headed entity that had brought them down from the stars; a
 of these hideous monstrosities by means of human sacrifices offered up in a very curious manner
 which Charging Buffalo did not care to describe.  
 
-  Zamacona was held spellbound by the Indian&rsquo;s tale, and at once resolved
+  Zamacona was held spellbound by the Indian's tale, and at once resolved
 to accept his guidance to the cryptic doorway in the ravine. He did not believe the accounts
 of strange ways attributed by legend to the hidden people, for the experiences of the party
 had been such as to disillusion one regarding native myths of unknown lands; but he did feel
 that some sufficiently marvellous field of riches and adventure must indeed lie beyond the weirdly
 carved passages in the earth. At first he thought of persuading Charging Buffalo to tell his
-story to Coronado&mdash;offering to shield him against any effects of the leader&rsquo;s testy
-scepticism&mdash;but later he decided that a lone adventure would be better. If he had no aid,
+story to Coronado--offering to shield him against any effects of the leader's testy
+scepticism--but later he decided that a lone adventure would be better. If he had no aid,
 he would not have to share anything he found; but might perhaps become a great discoverer and
-owner of fabulous riches. Success would make him a greater figure than Coronado himself&mdash;perhaps
+owner of fabulous riches. Success would make him a greater figure than Coronado himself--perhaps
 a greater figure than anyone else in New Spain, including even the mighty viceroy Don Antonio
 de Mendoza.  
 
@@ -779,21 +779,21 @@ and obtained his promise to return to the region in a month; afterward shewing t
 to the Pecos Pueblo villages. A prominent rock on the plain above them was chosen as a meeting-place;
 the one arriving first to pitch camp until the other should arrive.  
 
-  In the manuscript Zamacona expressed a wistful wonder as to the Indian&rsquo;s
-length of waiting at the rendezvous&mdash;for he himself could never keep that tryst. At the
+  In the manuscript Zamacona expressed a wistful wonder as to the Indian's
+length of waiting at the rendezvous--for he himself could never keep that tryst. At the
 last moment Charging Buffalo tried to dissuade him from his plunge into the darkness, but soon
 saw it was futile, and gestured a stoical farewell. Before lighting his first torch and entering
 the opening with his ponderous pack, the Spaniard watched the lean form of the Indian scrambling
 hastily and rather relievedly upward among the trees. It was the cutting of his last link with
-the world; though he did not know that he was never to see a human being&mdash;in the accepted
-sense of that term&mdash;again.  
+the world; though he did not know that he was never to see a human being--in the accepted
+sense of that term--again.  
 
   Zamacona felt no immediate premonition of evil upon entering that ominous doorway,
 though from the first he was surrounded by a bizarre and unwholesome atmosphere. The passage,
 slightly taller and wider than the aperture, was for many yards a level tunnel of Cyclopean
 masonry, with heavily worn flagstones under foot, and grotesquely carved granite and sandstone
 blocks in sides and ceiling. The carvings must have been loathsome and terrible indeed, to judge
-from Zamacona&rsquo;s description; according to which most of them revolved around the monstrous
+from Zamacona's description; according to which most of them revolved around the monstrous
 beings Yig and Tulu. They were unlike anything the adventurer had ever seen before, though he
 added that the native architecture of Mexico came closest to them of all things in the outer
 world. After some distance the tunnel began to dip abruptly, and irregular natural rock appeared
@@ -819,23 +819,23 @@ This latter, when Charging Buffalo had come upon it, had quite seriously barred 
 the limestone deposits of ages had built fresh pillars in the path of the primordial abyss-denizens.
 The Indian, however, had broken through these; so that Zamacona did not find his course impeded.
 It was an unconscious comfort to him to reflect that someone else from the outside world had
-been there before&mdash;and the Indian&rsquo;s careful descriptions had removed the element
-of surprise and unexpectedness. More&mdash;Charging Buffalo&rsquo;s knowledge of the tunnel
+been there before--and the Indian's careful descriptions had removed the element
+of surprise and unexpectedness. More--Charging Buffalo's knowledge of the tunnel
 had led him to provide so good a torch supply for the journey in and out, that there would be
 no danger of becoming stranded in darkness. Zamacona camped twice, building a fire whose smoke
 seemed well taken care of by the natural ventilation.  
 
-  At what he considered the end of the third day&mdash;though his cocksure guesswork
-chronology is not at any time to be given the easy faith that he gave it&mdash;Zamacona encountered
+  At what he considered the end of the third day--though his cocksure guesswork
+chronology is not at any time to be given the easy faith that he gave it--Zamacona encountered
 the prodigious descent and subsequent prodigious climb which Charging Buffalo had described
-as the tunnel&rsquo;s last phase. As at certain earlier points, marks of artificial improvement
+as the tunnel's last phase. As at certain earlier points, marks of artificial improvement
 were here discernible; and several times the steep gradient was eased by a flight of rough-hewn
 steps. The torch shewed more and more of the monstrous carvings on the walls, and finally the
 resinous flare seemed mixed with a fainter and more diffusive light as Zamacona climbed up and
 up after the last downward stairway. At length the ascent ceased, and a level passage of artificial
 masonry with dark, basaltic blocks led straight ahead. There was no need for a torch now, for
 all the air was glowing with a bluish, quasi-electric radiance that flickered like an aurora.
-It was the strange light of the inner world that the Indian had described&mdash;and in another
+It was the strange light of the inner world that the Indian had described--and in another
 moment Zamacona emerged from the tunnel upon a bleak, rocky hillside which climbed above him
 to a seething, impenetrable sky of bluish coruscations, and descended dizzily below him to an
 apparently illimitable plain shrouded in bluish mist.  
@@ -845,7 +845,7 @@ that he viewed the formless landscape as proudly and exaltedly as ever his fello
 Balboa viewed the new-found Pacific from that unforgettable peak in Darien. Charging Buffalo
 had turned back at this point, driven by fear of something which he would only describe vaguely
 and evasively as a herd of bad cattle, neither horse nor buffalo, but like the things the mound-spirits
-rode at night&mdash;but Zamacona could not be deterred by any such trifle. Instead of fear,
+rode at night--but Zamacona could not be deterred by any such trifle. Instead of fear,
 a strange sense of glory filled him; for he had imagination enough to know what it meant to
 stand alone in an inexplicable nether world whose existence no other white man suspected.  
 
@@ -860,13 +860,13 @@ the northern lights, and had even seen them once or twice. He concluded that thi
 light was something vaguely akin to the aurora; a view which moderns may well endorse, though
 it seems likely that certain phenomena of radio-activity may also enter in.  
 
-  At Zamacona&rsquo;s back the mouth of the tunnel he had traversed yawned darkly;
+  At Zamacona's back the mouth of the tunnel he had traversed yawned darkly;
 defined by a stone doorway very like the one he had entered in the world above, save that it
 was of greyish-black basalt instead of red sandstone. There were hideous sculptures, still in
 good preservation and perhaps corresponding to those on the outer portal which time had largely
 weathered away. The absence of weathering here argued a dry, temperate climate; indeed, the
 Spaniard already began to note the delightfully spring-like stability of temperature which marks
-the air of the north&rsquo;s interior. On the stone jambs were works proclaiming the bygone
+the air of the north's interior. On the stone jambs were works proclaiming the bygone
 presence of hinges, but of any actual door or gate no trace remained. Seating himself for rest
 and thought, Zamacona lightened his pack by removing an amount of food and torches sufficient
 to take him back through the tunnel. These he proceeded to cache at the opening, under a cairn
@@ -879,11 +879,11 @@ sane.
   Zamacona strode briskly along down the steep, interminable slope; his progress
 checked at times by the bad walking that came from loose rock fragments, or by the excessive
 precipitousness of the grade. The distance of the mist-shrouded plain must have been enormous,
-for many hours&rsquo; walking brought him apparently no closer to it than he had been before.
-Behind him was always the great hill stretching upward into a bright a&euml;rial sea of bluish
+for many hours' walking brought him apparently no closer to it than he had been before.
+Behind him was always the great hill stretching upward into a bright aërial sea of bluish
 coruscations. Silence was universal; so that his own footsteps, and the fall of stones that
 he dislodged, struck on his ears with startling distinctness. It was at what he regarded as
-about noon that he first saw the abnormal footprints which set him to thinking of Charging Buffalo&rsquo;s
+about noon that he first saw the abnormal footprints which set him to thinking of Charging Buffalo's
 terrible hints, precipitate flight, and strangely abiding terror.  
 
   The rock-strown nature of the soil gave few opportunities for tracks of any
@@ -893,8 +893,8 @@ confusion indicating a large herd aimlessly wandering, Zamacona found the abnorm
 is to be regretted that he could not describe them more exactly, but the manuscript displayed
 far more vague fear than accurate observation. Just what it was that so frightened the Spaniard
 can only be inferred from his later hints regarding the beasts. He referred to the prints as
-&lsquo;not hooves, nor hands, nor feet, nor precisely paws&mdash;nor so large as to cause alarm
-on that account&rsquo;. Just why or how long ago the things had been there, was not easy to
+&lsquo;not hooves, nor hands, nor feet, nor precisely paws--nor so large as to cause alarm
+on that account'. Just why or how long ago the things had been there, was not easy to
 guess. There was no vegetation visible, hence grazing was out of the question; but of course
 if the beasts were carnivorous they might well have been hunting smaller animals, whose tracks
 their own would tend to obliterate.  
@@ -923,7 +923,7 @@ pitching camp at an hour which he guessed to be the evening of the outer world.
 
   The next day Zamacona rose early and resumed his descent through this blue-litten
 world of mist and desolation and preternatural silence. As he advanced, he at last became able
-to distinguish a few objects on the distant plain below&mdash;trees, bushes, rocks, and a small
+to distinguish a few objects on the distant plain below--trees, bushes, rocks, and a small
 river that came into view from the right and curved forward at a point to the left of his contemplated
 course. This river seemed to be spanned by a bridge connected with the descending roadway, and
 with care the explorer could trace the route of the road beyond it in a straight line over the
@@ -939,7 +939,7 @@ behind him looked bleak and forbidding in contrast to his present milieu.
 Since his first sight of the sinister footprints he had met with no more of these, but something
 about that slowly and deliberately moving mass peculiarly sickened him. Nothing but a herd of
 grazing animals could move just like that, and after seeing the footprints he did not wish to
-meet the things which had made them. Still, the moving mass was not near the road&mdash;and
+meet the things which had made them. Still, the moving mass was not near the road--and
 his curiosity and greed for fabled gold were great. Besides, who could really judge things from
 vague, jumbled footprints or from the panic-twisted hints of an ignorant Indian?  
 
@@ -951,13 +951,13 @@ plain. They seemed to be embowered in clumps of vegetation, and those off the ro
 avenues leading to the highway. No smoke or other signs of life could be discerned about any
 of the towns or buildings. Finally Zamacona saw that the plain was not infinite in extent, though
 the half-concealing blue mists had hitherto made it seem so. It was bounded in the remote distance
-by a range of low hills, toward a gap in which the river and roadway seemed to lead. All this&mdash;especially
-the glittering of certain pinnacles in the towns&mdash;had become very vivid when Zamacona pitched
+by a range of low hills, toward a gap in which the river and roadway seemed to lead. All this--especially
+the glittering of certain pinnacles in the towns--had become very vivid when Zamacona pitched
 his second camp amidst the endless blue day. He likewise noticed the flocks of high-soaring
 birds, whose nature he could not clearly make out.  
 
-  The next afternoon&mdash;to use the language of the outer world as the manuscript
-did at all times&mdash;Zamacona reached the silent plain and crossed the soundless, slow-running
+  The next afternoon--to use the language of the outer world as the manuscript
+did at all times--Zamacona reached the silent plain and crossed the soundless, slow-running
 river on a curiously carved and fairly well-preserved bridge of black basalt. The water was
 clear, and contained large fishes of a wholly strange aspect. The roadway was now paved and
 somewhat overgrown with weeds and creeping vines, and its course was occasionally outlined by
@@ -971,7 +971,7 @@ of a stone gateway leading off the road, and was presently forcing his way throu
 a moss-crusted tessellated walk lined with huge trees and low monolithic pillars.  
 
   At last, in this hushed green twilight, he saw the crumbling and ineffably
-ancient facade of the building&mdash;a temple, he had no doubt. It was a mass of nauseous bas-reliefs;
+ancient facade of the building--a temple, he had no doubt. It was a mass of nauseous bas-reliefs;
 depicting scenes and beings, objects and ceremonies, which could certainly have no place on
 this or any sane planet. In hinting of these things Zamacona displays for the first time that
 shocked and pious hesitancy which impairs the informative value of the rest of his manuscript.
@@ -986,7 +986,7 @@ dust and cobwebs of immemorial aeons, the fluttering winged things, the shriekin
 sculptures on the walls, the bizarre form of the many basins and braziers, the sinister pyramidal
 altar with the hollow top, or the monstrous, octopus-headed abnormality in some strange, dark
 metal leering and squatting broodingly on its hieroglyphed pedestal, which robbed him of even
-the power to give a startled cry. It was nothing so unearthly as this&mdash;but merely the fact
+the power to give a startled cry. It was nothing so unearthly as this--but merely the fact
 that, with the exception of the dust, the cobwebs, the winged things, and the gigantic emerald-eyed
 idol, every particle of substance in sight was composed of pure and evidently solid gold.  
 
@@ -998,8 +998,8 @@ him, but in the end his faculties were recalled by a peculiar tugging sensation 
 of his doublet. Tracing the feeling, he realised that the disc of strange metal he had found
 in the abandoned road was being attracted strongly by the vast octopus-headed, emerald-eyed
 idol on the pedestal, which he now saw to be composed of the same unknown exotic metal. He was
-later to learn that this strange magnetic substance&mdash;as alien to the inner world as to
-the outer world of men&mdash;is the one precious metal of the blue-lighted abyss. None knows
+later to learn that this strange magnetic substance--as alien to the inner world as to
+the outer world of men--is the one precious metal of the blue-lighted abyss. None knows
 what it is or where it occurs in Nature, and the amount of it on this planet came down from
 the stars with the people when great Tulu, the octopus-headed god, brought them for the first
 time to this earth. Certainly, its only known source was a stock of pre-existing artifacts,
@@ -1010,10 +1010,10 @@ no inconvenience. A very weakly magnetic alloy of it with such base metals as ir
 copper, or zinc, had formed the sole monetary standard of the hidden people at one period of
 their history.  
 
-  Zamacona&rsquo;s reflections on the strange idol and its magnetism were disturbed
+  Zamacona's reflections on the strange idol and its magnetism were disturbed
 by a tremendous wave of fear as, for the first time in this silent world, he heard a rumble
 of very definite and obviously approaching sound. There was no mistaking its nature. It was
-a thunderously charging herd of large animals; and, remembering the Indian&rsquo;s panic, the
+a thunderously charging herd of large animals; and, remembering the Indian's panic, the
 footprints, and the moving mass distantly seen, the Spaniard shuddered in terrified anticipation.
 He did not analyse his position, or the significance of this onrush of great lumbering beings,
 but merely responded to an elemental urge toward self-protection. Charging herds do not stop
@@ -1045,7 +1045,7 @@ but fortunately it still held. Then, after a seemingly endless interval, he hear
 steps and realised that his unknown visitors were leaving. Since the herds did not seem to be
 very numerous, it would have perhaps been safe to venture out within a half-hour or less; but
 Zamacona took no chances. Opening his pack, he prepared his camp on the golden tiles of the
-temple&rsquo;s floor, with the great door still securely latched against all comers; drifting
+temple's floor, with the great door still securely latched against all comers; drifting
 eventually into a sounder sleep than he could have known in the blue-litten spaces outside.
 He did not even mind the hellish, octopus-headed bulk of great Tulu, fashioned of unknown metal
 and leering with fishy, sea-green eyes, which squatted in the blackness above him on its monstrously
@@ -1062,11 +1062,11 @@ period of consciousness.
 
 What finally roused Zamacona was a thunderous rapping at the door. It beat
 through his dreams and dissolved all the lingering mists of drowsiness as soon as he knew what
-it was. There could be no mistake about it&mdash;it was a definite, human, and peremptory rapping;
+it was. There could be no mistake about it--it was a definite, human, and peremptory rapping;
 performed apparently with some metallic object, and with all the measured quality of conscious
 thought or will behind it. As the awakening man rose clumsily to his feet, a sharp vocal note
-was added to the summons&mdash;someone calling out, in a not unmusical voice, a formula which
-the manuscript tries to represent as &ldquo;  oxi, oxi, giathc&aacute;n yc&aacute; relex  &rdquo;.
+was added to the summons--someone calling out, in a not unmusical voice, a formula which
+the manuscript tries to represent as  "  oxi, oxi, giathc&aacute;n yc&aacute; relex   ".
 Feeling sure that his visitors were men and not daemons, and arguing that they could have no
 reason for considering him an enemy, Zamacona decided to face them openly and at once; and accordingly
 fumbled with the ancient latch till the golden door creaked open from the pressure of those
@@ -1089,9 +1089,9 @@ of the two or three leaders he could not possibly explain; though he learned why
 
   As it was, he attempted to address his visitors in the Wichita dialect he had
 picked up from Charging Buffalo; and after this failed to draw a vocal reply he successively
-tried the Aztec, Spanish, French, and Latin tongues&mdash;adding as many scraps of lame Greek,
+tried the Aztec, Spanish, French, and Latin tongues--adding as many scraps of lame Greek,
 Galician, and Portuguese, and of the Bable peasant patois of his native Asturias, as his memory
-could recall. But not even this polyglot array&mdash;his entire linguistic stock&mdash;could
+could recall. But not even this polyglot array--his entire linguistic stock--could
 bring a reply in kind. When, however, he paused in perplexity, one of the visitors began speaking
 in an utterly strange and rather fascinating language whose sounds the Spaniard later had much
 difficulty in representing on paper. Upon his failure to understand this, the speaker pointed
@@ -1101,7 +1101,7 @@ other to gaze at him in order to absorb what he wanted to transmit.
   Zamacona, obeying, found himself rapidly in possession of certain information.
 The people, he learned, conversed nowadays by means of unvocal radiations of thought; although
 they had formerly used a spoken language which still survived as the written tongue, and into
-which they still dropped orally for tradition&rsquo;s sake, or when strong feeling demanded
+which they still dropped orally for tradition's sake, or when strong feeling demanded
 a spontaneous outlet. He could understand them merely by concentrating his attention upon their
 eyes; and could reply by summoning up a mental image of what he wished to say, and throwing
 the substance of this into his glance. When the thought-speaker paused, apparently inviting
@@ -1109,25 +1109,25 @@ a response, Zamacona tried his best to follow the prescribed pattern, but did no
 succeed very well. So he nodded, and tried to describe himself and his journey by signs. He
 pointed upward, as if to the outer world, then closed his eyes and made signs as of a mole burrowing.
 Then he opened his eyes again and pointed downward, in order to indicate his descent of the
-great slope. Experimentally he blended a spoken word or two with his gestures&mdash;for example,
-pointing successively to himself and to all of his visitors and saying &ldquo;  un hombre  &rdquo;,
+great slope. Experimentally he blended a spoken word or two with his gestures--for example,
+pointing successively to himself and to all of his visitors and saying  "  un hombre   ",
 and then pointing to himself alone and very carefully pronouncing his individual name,   P&aacute;nfilo
 de Zamacona.    
 
   Before the strange conversation was over, a good deal of data had passed in
 both directions. Zamacona had begun to learn how to throw his thoughts, and had likewise picked
-up several words of the region&rsquo;s archaic spoken language. His visitors, moreover, had
+up several words of the region's archaic spoken language. His visitors, moreover, had
 absorbed many beginnings of an elementary Spanish vocabulary. Their own old language was utterly
 unlike anything the Spaniard had ever heard, though there were times later on when he was to
 fancy an infinitely remote linkage with the Aztec, as if the latter represented some far stage
 of corruption, or some very thin infiltration of loan-words. The underground world, Zamacona
-learned, bore an ancient name which the manuscript records as &ldquo;  Xinai&aacute;n  &rdquo;,
-but which, from the writer&rsquo;s supplementary explanations and diacritical marks, could probably
-be best represented to Anglo-Saxon ears by the phonetic arrangement   K&rsquo;n-yan.    
+learned, bore an ancient name which the manuscript records as  "  Xinai&aacute;n   ",
+but which, from the writer's supplementary explanations and diacritical marks, could probably
+be best represented to Anglo-Saxon ears by the phonetic arrangement   K'n-yan.    
 
   It is not surprising that this preliminary discourse did not go beyond the
 merest essentials, but those essentials were highly important. Zamacona learned that the people
-of K&rsquo;n-yan were almost infinitely ancient, and that they had come from a distant part
+of K'n-yan were almost infinitely ancient, and that they had come from a distant part
 of space where physical conditions are much like those of the earth. All this, of course, was
 legend now; and one could not say how much truth was in it, or how much worship was really due
 to the octopus-headed being Tulu who had traditionally brought them hither and whom they still
@@ -1137,38 +1137,38 @@ had had some remarkable surface civilisations, especially one at the South Pole 
 Kadath.  
 
   At some time infinitely in the past most of the outer world had sunk beneath
-the ocean, so that only a few refugees remained to bear the news to K&rsquo;n-yan. This was
-undoubtedly due to the wrath of space-devils hostile alike to men and to men&rsquo;s gods&mdash;for
+the ocean, so that only a few refugees remained to bear the news to K'n-yan. This was
+undoubtedly due to the wrath of space-devils hostile alike to men and to men's gods--for
 it bore out rumours of a primordially earlier sinking which had submerged the gods themselves,
 including great Tulu, who still lay prisoned and dreaming in the watery vaults of the half-cosmic
 city Relex. No man not a slave of the space-devils, it was argued, could live long on the outer
 earth; and it was decided that all beings who remained there must be evilly connected. Accordingly
 traffic with the lands of sun and starlight abruptly ceased. The subterraneous approaches to
-K&rsquo;n-yan, or such as could be remembered, were either blocked up or carefully guarded;
+K'n-yan, or such as could be remembered, were either blocked up or carefully guarded;
 and all encroachers were treated as dangerous spies and enemies.  
 
   But this was long ago. With the passing of ages fewer and fewer visitors came
-to K&rsquo;n-yan, and eventually sentries ceased to be maintained at the unblocked approaches.
+to K'n-yan, and eventually sentries ceased to be maintained at the unblocked approaches.
 The mass of the people forgot, except through distorted memories and myths and some very singular
 dreams, that an outer world existed; though educated folk never ceased to recall the essential
-facts. The last visitors ever recorded&mdash;centuries in the past&mdash;had not even been treated
+facts. The last visitors ever recorded--centuries in the past--had not even been treated
 as devil-spies; faith in the old legendry having long before died out. They had been questioned
-eagerly about the fabulous outer regions; for scientific curiosity in K&rsquo;n-yan was keen,
-and the myths, memories, dreams, and historical fragments relating to the earth&rsquo;s surface
+eagerly about the fabulous outer regions; for scientific curiosity in K'n-yan was keen,
+and the myths, memories, dreams, and historical fragments relating to the earth's surface
 had often tempted scholars to the brink of an external expedition which they had not quite dared
 to attempt. The only thing demanded of such visitors was that they refrain from going back and
-informing the outer world of K&rsquo;n-yan&rsquo;s positive existence; for after all, one could
+informing the outer world of K'n-yan's positive existence; for after all, one could
 not be sure about these outer lands. They coveted gold and silver, and might prove highly troublesome
 intruders. Those who had obeyed the injunction had lived happily, though regrettably briefly,
-and had told all they could about their world&mdash;little enough, however, since their accounts
+and had told all they could about their world--little enough, however, since their accounts
 were all so fragmentary and conflicting that one could hardly tell what to believe and what
-to doubt. One wished that more of them would come. As for those who disobeyed and tried to escape&mdash;it
+to doubt. One wished that more of them would come. As for those who disobeyed and tried to escape--it
 was very unfortunate about them. Zamacona himself was very welcome, for he appeared to be a
 higher-grade man, and to know much more about the outer world, than anyone else who had come
-down within memory. He could tell them much&mdash;and they hoped he would be reconciled to his
+down within memory. He could tell them much--and they hoped he would be reconciled to his
 life-long stay.  
 
-  Many things which Zamacona learned about K&rsquo;n-yan in that first colloquy
+  Many things which Zamacona learned about K'n-yan in that first colloquy
 left him quite breathless. He learned, for instance, that during the past few thousand years
 the phenomena of old age and death had been conquered; so that men no longer grew feeble or
 died except through violence or will. By regulating the system, one might be as physiologically
@@ -1178,30 +1178,30 @@ could easily become young again when they felt like it. Births had ceased, excep
 purposes, since a large population had been found needless by a master-race which controlled
 Nature and organic rivals alike. Many, however, chose to die after a while; since despite the
 cleverest efforts to invent new pleasures, the ordeal of consciousness became too dull for sensitive
-souls&mdash;especially those in whom time and satiation had blinded the primal instincts and
+souls--especially those in whom time and satiation had blinded the primal instincts and
 emotions of self-preservation. All the members of the group before Zamacona were from 500 to
 1500 years old; and several had seen surface visitors before, though time had blurred the recollection.
 These visitors, by the way, had often tried to duplicate the longevity of the underground race;
 but had been able to do so only fractionally, owing to evolutionary differences developing during
 the million or two years of cleavage.  
 
-  These evolutionary differences were even more strikingly shewn in another particular&mdash;one
-far stranger than the wonder of immortality itself. This was the ability of the people of K&rsquo;n-yan
+  These evolutionary differences were even more strikingly shewn in another particular--one
+far stranger than the wonder of immortality itself. This was the ability of the people of K'n-yan
 to regulate the balance between matter and abstract energy, even where the bodies of living
 organic beings were concerned, by the sheer force of the technically trained will. In other
-words, with suitable effort a learned man of K&rsquo;n-yan could dematerialise and rematerialise
-himself&mdash;or, with somewhat greater effort and subtler technique, any other object he chose;
+words, with suitable effort a learned man of K'n-yan could dematerialise and rematerialise
+himself--or, with somewhat greater effort and subtler technique, any other object he chose;
 reducing solid matter to free external particles and recombining the particles again without
-damage. Had not Zamacona answered his visitors&rsquo; knock when he did, he would have discovered
+damage. Had not Zamacona answered his visitors' knock when he did, he would have discovered
 this accomplishment in a highly puzzling way; for only the strain and bother of the process
 prevented the twenty men from passing bodily through the golden door without pausing for a summons.
 This art was much older than the art of perpetual life; and it could be taught to some extent,
 though never perfectly, to any intelligent person. Rumours of it had reached the outer world
-in past aeons; surviving in secret traditions and ghostly legendry. The men of K&rsquo;n-yan
+in past aeons; surviving in secret traditions and ghostly legendry. The men of K'n-yan
 had been amused by the primitive and imperfect spirit tales brought down by outer-world stragglers.
 In practical life this principle had certain industrial applications, but was generally suffered
 to remain neglected through lack of any particular incentive to its use. Its chief surviving
-form was in connexion with sleep, when for excitement&rsquo;s sake many dream-connoisseurs resorted
+form was in connexion with sleep, when for excitement's sake many dream-connoisseurs resorted
 to it to enhance the vividness of their visionary wanderings. By the aid of this method certain
 dreamers even paid half-material visits to a strange, nebulous realm of mounds and valleys and
 varying light which some believed to be the forgotten outer world. They would go thither on
@@ -1209,7 +1209,7 @@ their beasts, and in an age of peace live over the old, glorious battles of thei
 Some philosophers thought that in such cases they actually coalesced with immaterial forces
 left behind by these warlike ancestors themselves.  
 
-  The people of K&rsquo;n-yan all dwelt in the great, tall city of Tsath beyond
+  The people of K'n-yan all dwelt in the great, tall city of Tsath beyond
 the mountains. Formerly several races of them had inhabited the entire underground world, which
 stretched down to unfathomable abysses and which included besides the blue-litten region a red-litten
 region called Yoth, where relics of a still older and non-human race were found by archaeologists.
@@ -1218,7 +1218,7 @@ them with certain horned and four-footed animals of the red-litten region, whose
 leanings were very peculiar, and which, though containing a certain artificially created element,
 may have been in part the degenerate descendants of those peculiar entities who had left the
 relics. As aeons passed, and mechanical discoveries made the business of life extremely easy,
-a concentration of the people of Tsath took place; so that all the rest of K&rsquo;n-yan became
+a concentration of the people of Tsath took place; so that all the rest of K'n-yan became
 relatively deserted.  
 
   It was easier to live in one place, and there was no object in maintaining
@@ -1229,7 +1229,7 @@ array of inferior and semi-human industrial organisms. This extensive slave-clas
 composite, being bred from ancient conquered enemies, from outer-world stragglers, from dead
 bodies curiously galvanised into effectiveness, and from the naturally inferior members of the
 ruling race of Tsath. The ruling type itself had become highly superior through selective breeding
-and social evolution&mdash;the nation having passed through a period of idealistic industrial
+and social evolution--the nation having passed through a period of idealistic industrial
 democracy which gave equal opportunities to all, and thus, by raising the naturally intelligent
 to power, drained the masses of all their brains and stamina. Industry, being found fundamentally
 futile except for the supplying of basic needs and the gratification of inescapable yearnings,
@@ -1239,7 +1239,7 @@ and stock-raising. Long travel was abandoned, and people went back to using the 
 beasts instead of maintaining the profusion of gold, silver, and steel transportation machines
 which had once threaded land, water, and air. Zamacona could scarcely believe that such things
 had ever existed outside dreams, but was told he could see specimens of them in museums. He
-could also see the ruins of other vast magical devices by travelling a day&rsquo;s journey to
+could also see the ruins of other vast magical devices by travelling a day's journey to
 the valley of Do-Hna, to which the race had spread during its period of greatest numbers. The
 cities and temples of this present plain were of a far more archaic period, and had never been
 other than religious and antiquarian shrines during the supremacy of the men of Tsath.  
@@ -1250,13 +1250,13 @@ experience and paralysing ennui of the race, whose wants and needs were limited 
 fundamentals and to new sensations. An aeon-long tolerance not yet undermined by growing reaction
 had abolished all illusions of values and principles, and nothing but an approximation to custom
 was ever sought or expected. To see that the mutual encroachments of pleasure-seeking never
-crippled the mass life of the community&mdash;this was all that was desired. Family organisation
+crippled the mass life of the community--this was all that was desired. Family organisation
 had long ago perished, and the civil and social distinction of the sexes had disappeared. Daily
 life was organised in ceremonial patterns; with games, intoxication, torture of slaves, day-dreaming,
 gastronomic and emotional orgies, religious exercises, exotic experiments, artistic and philosophical
-discussions, and the like, as the principal occupations. Property&mdash;chiefly land, slaves,
+discussions, and the like, as the principal occupations. Property--chiefly land, slaves,
 animals, shares in the common city enterprise of Tsath, and ingots of magnetic Tulu-metal, the
-former universal money standard&mdash;was allocated on a very complex basis which included a
+former universal money standard--was allocated on a very complex basis which included a
 certain amount equally divided among all the freemen. Poverty was unknown, and labour consisted
 only of certain administrative duties imposed by an intricate system of testing and selection.
 Zamacona found difficulty in describing conditions so unlike anything he had previously known;
@@ -1284,7 +1284,7 @@ diversions than for preserving old facts or pushing back the frontier of cosmic 
 in the supernatural. What was desired was the aesthetic and emotional exaltation bred by the
 mystical moods and sensuous rites which attended the colourful ancestral faith. Temples to Great
 Tulu, a spirit of universal harmony anciently symbolised as the octopus-headed god who had brought
-all men down from the stars, were the most richly constructed objects in all K&rsquo;n-yan;
+all men down from the stars, were the most richly constructed objects in all K'n-yan;
 while the cryptic shrines of Yig, the principle of life symbolised as the Father of all Serpents,
 were almost as lavish and remarkable. In time Zamacona learned much of the orgies and sacrifices
 connected with this religion, but seemed piously reluctant to describe them in his manuscript.
@@ -1293,7 +1293,7 @@ of his own faith; nor did he ever lose an opportunity to try to convert the peop
 of the Cross which the Spaniards hoped to make universal.  
 
   Prominent in the contemporary religion of Tsath was a revived and almost genuine
-veneration for the rare, sacred metal of Tulu&mdash;that dark, lustrous, magnetic stuff which was
+veneration for the rare, sacred metal of Tulu--that dark, lustrous, magnetic stuff which was
 nowhere found in Nature, but which had always been with men in the form of idols and hieratic
 implements. From the earliest times any sight of it in its unalloyed form had impelled respect,
 while all the sacred archives and litanies were kept in cylinders wrought of its purest substance.
@@ -1302,11 +1302,11 @@ were beginning to weave around the metal once more that same fabric of awestruck
 which had existed in primitive times.  
 
   Another function of religion was the regulation of the calendar, born of a
-period when time and speed were regarded as prime fetiches in man&rsquo;s emotional life. Periods
+period when time and speed were regarded as prime fetiches in man's emotional life. Periods
 of alternate waking and sleeping, prolonged, abridged, and inverted as mood and convenience
 dictated, and timed by the tail-beats of Great Yig, the Serpent, corresponded very roughly to
-terrestrial days and nights; though Zamacona&rsquo;s sensations told him they must actually
-be almost twice as long. The year-unit, measured by Yig&rsquo;s annual shedding of his skin,
+terrestrial days and nights; though Zamacona's sensations told him they must actually
+be almost twice as long. The year-unit, measured by Yig's annual shedding of his skin,
 was equal to about a year and a half of the outer world. Zamacona thought he had mastered this
 calendar very well when he wrote his manuscript, whence the confidently given date of 1545;
 but the document failed to suggest that his assurance in this matter was fully justified.  
@@ -1316,14 +1316,14 @@ felt a growing repulsion and alarm. It was not only what was told, but the stran
 manner of telling, and the plain inference that return to the outer world would be impossible,
 that made the Spaniard wish he had never descended to this region of magic, abnormality, and
 decadence. But he knew that nothing but friendly acquiescence would do as a policy, hence decided
-to co&ouml;perate in all his visitors&rsquo; plans and furnish all the information they might
+to co&ouml;perate in all his visitors' plans and furnish all the information they might
 desire. They, on their part, were fascinated by the outer-world data which he managed haltingly
 to convey.  
 
   It was really the first draught of reliable surface information they had had
 since the refugees straggled back from Atlantis and Lemuria aeons before, for all their subsequent
 emissaries from outside had been members of narrow and local groups without any knowledge of
-the world at large&mdash;Mayas, Toltecs, and Aztecs at best, and mostly ignorant tribes of the
+the world at large--Mayas, Toltecs, and Aztecs at best, and mostly ignorant tribes of the
 plains. Zamacona was the first European they had ever seen, and the fact that he was a youth
 of education and brilliancy made him of still more emphatic value as a source of knowledge.
 The visiting party shewed their breathless interest in all he contrived to convey, and it was
@@ -1332,13 +1332,13 @@ of geography and history.
 
   The only thing which seemed to displease the men of Tsath was the fact that
 curious and adventurous strangers were beginning to pour into those parts of the upper world
-where the passages to K&rsquo;n-yan lay. Zamacona told them of the founding of Florida and New
-Spain, and made it clear that a great part of the world was stirring with the zest of adventure&mdash;Spanish,
+where the passages to K'n-yan lay. Zamacona told them of the founding of Florida and New
+Spain, and made it clear that a great part of the world was stirring with the zest of adventure--Spanish,
 Portuguese, French, and English. Sooner or later Mexico and Florida must meet in one great colonial
-empire&mdash;and then it would be hard to keep outsiders from the rumoured gold and silver of
-the abyss. Charging Buffalo knew of Zamacona&rsquo;s journey into the earth. Would he tell Coronado,
+empire--and then it would be hard to keep outsiders from the rumoured gold and silver of
+the abyss. Charging Buffalo knew of Zamacona's journey into the earth. Would he tell Coronado,
 or somehow let a report get to the great viceroy, when he failed to find the traveller at the
-promised meeting-place? Alarm for the continued secrecy and safety of K&rsquo;n-yan shewed in
+promised meeting-place? Alarm for the continued secrecy and safety of K'n-yan shewed in
 the faces of the visitors, and Zamacona absorbed from their minds the fact that from now on
 sentries would undoubtedly be posted once more at all the unblocked passages to the outside
 world which the men of Tsath could remember.  
@@ -1359,8 +1359,8 @@ the time had come to proceed to the city.
 which Zamacona could ride. The prospect of mounting one of those ominous hybrid entities whose
 fabled nourishment was so alarming, and a single sight of which had set Charging Buffalo into
 such a frenzy of flight, was by no means reassuring to the traveller. There was, moreover, another
-point about the things which disturbed him greatly&mdash;the apparently preternatural intelligence
-with which some members of the previous day&rsquo;s roving pack had reported his presence to
+point about the things which disturbed him greatly--the apparently preternatural intelligence
+with which some members of the previous day's roving pack had reported his presence to
 the men of Tsath and brought out the present expedition. But Zamacona was not a coward, hence
 followed the men boldly down the weed-grown walk toward the road where the things were stationed.  
 
@@ -1372,18 +1372,18 @@ fully in his manuscript the nameless sight he saw. As it is, he merely hinted at
 morbidity of these great floundering white things, with black fur on their backs, a rudimentary
 horn in the centre of their foreheads, and an unmistakable trace of human or anthropoid blood
 in their flat-nosed, bulging-lipped faces. They were, he declared later in his manuscript, the
-most terrible objective entities he ever saw in his life, either in K&rsquo;n-yan or in the
+most terrible objective entities he ever saw in his life, either in K'n-yan or in the
 outer world. And the specific quality of their supreme terror was something apart from any easily
 recognisable or describable feature. The main trouble was that they were not wholly products
 of Nature.  
 
-  The party observed Zamacona&rsquo;s fright, and hastened to reassure him as
+  The party observed Zamacona's fright, and hastened to reassure him as
 much as possible. The beasts or   gyaa-yothn,   they explained, surely were curious things;
 but were really very harmless. The flesh they ate was not that of intelligent people of the
 master-race, but merely that of a special slave-class which had for the most part ceased to
-be thoroughly human, and which indeed was the principal meat stock of K&rsquo;n-yan. They&mdash;or
-their principal ancestral element&mdash;had first been found in a wild state amidst the Cyclopean
-ruins of the deserted red-litten world of Yoth which lay below the blue-litten world of K&rsquo;n-yan.
+be thoroughly human, and which indeed was the principal meat stock of K'n-yan. They--or
+their principal ancestral element--had first been found in a wild state amidst the Cyclopean
+ruins of the deserted red-litten world of Yoth which lay below the blue-litten world of K'n-yan.
 That part of them was human, seemed quite clear; but men of science could never decide whether
 they were actually the descendants of the bygone entities who had lived and reigned in the strange
 ruins. The chief ground for such a supposition was the well-known fact that the vanished inhabitants
@@ -1391,102 +1391,102 @@ of Yoth had been quadrupedal. This much was known from the very few manuscripts 
 found in the vaults of Zin, beneath the largest ruined city of Yoth. But it was also known from
 these manuscripts that the beings of Yoth had possessed the art of synthetically creating life,
 and had made and destroyed several efficiently designed races of industrial and transportational
-animals in the course of their history&mdash;to say nothing of concocting all manner of fantastic
+animals in the course of their history--to say nothing of concocting all manner of fantastic
 living shapes for the sake of amusement and new sensations during the long period of decadence.
 The beings of Yoth had undoubtedly been reptilian in affiliations, and most physiologists of
 Tsath agreed that the present beasts had been very much inclined toward reptilianism before
-they had been crossed with the mammal slave-class of K&rsquo;n-yan.  
+they had been crossed with the mammal slave-class of K'n-yan.  
 
   It argues well for the intrepid fire of those Renaissance Spaniards who conquered
 half the unknown world, that P&aacute;nfilo de Zamacona y Nu&ntilde;ez actually mounted one
-of the morbid beasts of Tsath and fell into place beside the leader of the cavalcade&mdash;the
-man named Gll&rsquo;-Hthaa-Ynn, who had been most active in the previous exchange of information.
+of the morbid beasts of Tsath and fell into place beside the leader of the cavalcade--the
+man named Gll'-Hthaa-Ynn, who had been most active in the previous exchange of information.
 It was a repulsive business; but after all, the seat was very easy, and the gait of the clumsy
   gyaa-yoth   surprisingly even and regular. No saddle was necessary, and the animal appeared
 to require no guidance whatever. The procession moved forward at a brisk gait, stopping only
-at certain abandoned cities and temples about which Zamacona was curious, and which Gll&rsquo;-Hthaa-Ynn
-was obligingly ready to display and explain. The largest of these towns, B&rsquo;graa, was a
+at certain abandoned cities and temples about which Zamacona was curious, and which Gll'-Hthaa-Ynn
+was obligingly ready to display and explain. The largest of these towns, B'graa, was a
 marvel of finely wrought gold, and Zamacona studied the curiously ornate architecture with avid
 interest. Buildings tended toward height and slenderness, with roofs bursting into a multitude
-of pinnacles. The streets were narrow, curving, and occasionally picturesquely hilly, but Gll&rsquo;-Hthaa-Ynn
-said that the later cities of K&rsquo;n-yan were far more spacious and regular in design. All
-these old cities of the plain shewed traces of levelled walls&mdash;reminders of the archaic
+of pinnacles. The streets were narrow, curving, and occasionally picturesquely hilly, but Gll'-Hthaa-Ynn
+said that the later cities of K'n-yan were far more spacious and regular in design. All
+these old cities of the plain shewed traces of levelled walls--reminders of the archaic
 days when they had been successively conquered by the now dispersed armies of Tsath.  
 
-  There was one object along the route which Gll&rsquo;-Hthaa-Ynn exhibited on
+  There was one object along the route which Gll'-Hthaa-Ynn exhibited on
 his own initiative, even though it involved a detour of about a mile along a vine-tangled side
 path. This was a squat, plain temple of black basalt blocks without a single carving, and containing
 only a vacant onyx pedestal. The remarkable thing about it was its story, for it was a link
 with a fabled elder world compared to which even cryptic Yoth was a thing of yesterday. It had
 been built in imitation of certain temples depicted in the vaults of Zin, to house a very terrible
 black toad-idol found in the red-litten world and called Tsathoggua in the Yothic manuscripts.
-It had been a potent and widely worshipped god, and after its adoption by the people of K&rsquo;n-yan
+It had been a potent and widely worshipped god, and after its adoption by the people of K'n-yan
 had lent its name to the city which was later to become dominant in that region. Yothic legend
-said that it had come from a mysterious inner realm beneath the red-litten world&mdash;a black
+said that it had come from a mysterious inner realm beneath the red-litten world--a black
 realm of peculiar-sensed beings which had no light at all, but which had had great civilisations
 and mighty gods before ever the reptilian quadrupeds of Yoth had come into being. Many images
 of Tsathoggua existed in Yoth, all of which were alleged to have come from the black inner realm,
 and which were supposed by Yothic archaeologists to represent the aeon-extinct race of that
-realm. The black realm called N&rsquo;kai in the Yothic manuscripts had been explored as thoroughly
+realm. The black realm called N'kai in the Yothic manuscripts had been explored as thoroughly
 as possible by these archaeologists, and singular stone troughs or burrows had excited infinite
 speculation.  
 
-  When the men of K&rsquo;n-yan discovered the red-litten world and deciphered
+  When the men of K'n-yan discovered the red-litten world and deciphered
 its strange manuscripts, they took over the Tsathoggua cult and brought all the frightful toad
-images up to the land of blue light&mdash;housing them in shrines of Yoth-quarried basalt like
+images up to the land of blue light--housing them in shrines of Yoth-quarried basalt like
 the one Zamacona now saw. The cult flourished until it almost rivalled the ancient cults of
 Yig and Tulu, and one branch of the race even took it to the outer world, where the smallest
-of the images eventually found a shrine at Olatho&euml;, in the land of Lomar near the earth&rsquo;s
+of the images eventually found a shrine at Olathoë, in the land of Lomar near the earth's
 north pole. It was rumoured that this outer-world cult survived even after the great ice-sheet
 and the hairy Gnophkehs destroyed Lomar, but of such matters not much was definitely known in
-K&rsquo;n-yan. In that world of blue light the cult came to an abrupt end, even though the name
+K'n-yan. In that world of blue light the cult came to an abrupt end, even though the name
 of Tsath was suffered to remain.  
 
-  What ended the cult was the partial exploration of the black realm of N&rsquo;kai
+  What ended the cult was the partial exploration of the black realm of N'kai
 beneath the red-litten world of Yoth. According to the Yothic manuscripts, there was no surviving
-life in N&rsquo;kai, but something must have happened in the aeons between the days of Yoth
+life in N'kai, but something must have happened in the aeons between the days of Yoth
 and the coming of men to the earth; something perhaps not unconnected with the end of Yoth.
 Probably it had been an earthquake, opening up lower chambers of the lightless world which had
 been closed against the Yothic archaeologists; or perhaps some more frightful juxtaposition
 of energy and electrons, wholly inconceivable to any sort of vertebrate minds, had taken place.
-At any rate, when the men of K&rsquo;n-yan went down into N&rsquo;kai&rsquo;s black abyss with
-their great atom-power searchlights they found living things&mdash;living things that oozed
+At any rate, when the men of K'n-yan went down into N'kai's black abyss with
+their great atom-power searchlights they found living things--living things that oozed
 along stone channels and worshipped onyx and basalt images of Tsathoggua. But they were not
-toads like Tsathoggua himself. Far worse&mdash;they were amorphous lumps of viscous black slime
-that took temporary shapes for various purposes. The explorers of K&rsquo;n-yan did not pause
+toads like Tsathoggua himself. Far worse--they were amorphous lumps of viscous black slime
+that took temporary shapes for various purposes. The explorers of K'n-yan did not pause
 for detailed observations, and those who escaped alive sealed the passage leading from red-litten
 Yoth down into the gulfs of nether horror. Then all the images of Tsathoggua in the land of
-K&rsquo;n-yan were dissolved into the ether by disintegrating rays, and the cult was abolished
+K'n-yan were dissolved into the ether by disintegrating rays, and the cult was abolished
 forever.  
 
   Aeons later, when naive fears were outgrown and supplanted by scientific curiosity,
-the old legends of Tsathoggua and N&rsquo;kai were recalled, and a suitably armed and equipped
+the old legends of Tsathoggua and N'kai were recalled, and a suitably armed and equipped
 exploring party went down to Yoth to find the closed gate of the black abyss and see what might
 still lie beneath. But they could not find the gate, nor could any man ever do so in all the
 ages that followed. Nowadays there were those who doubted that any abyss had ever existed, but
 the few scholars who could still decipher the Yothic manuscripts believed that the evidence
-for such a thing was adequate, even though the middle records of K&rsquo;n-yan, with accounts
-of the one frightful expedition into N&rsquo;kai, were more open to question. Some of the later
-religious cults tried to suppress remembrance of N&rsquo;kai&rsquo;s existence, and attached
+for such a thing was adequate, even though the middle records of K'n-yan, with accounts
+of the one frightful expedition into N'kai, were more open to question. Some of the later
+religious cults tried to suppress remembrance of N'kai's existence, and attached
 severe penalties to its mention; but these had not begun to be taken seriously at the time of
-Zamacona&rsquo;s advent to K&rsquo;n-yan.  
+Zamacona's advent to K'n-yan.  
 
   As the cavalcade returned to the old highway and approached the low range of
 mountains, Zamacona saw that the river was very close on the left. Somewhat later, as the terrain
 rose, the stream entered a gorge and passed through the hills, while the road traversed the
 gap at a rather higher level close to the brink. It was about this time that light rainfall
 came. Zamacona noticed the occasional drops and drizzle, and looked up at the coruscating blue
-air, but there was no diminution of the strange radiance. Gll&rsquo;-Hthaa-Ynn then told him
+air, but there was no diminution of the strange radiance. Gll'-Hthaa-Ynn then told him
 that such condensations and precipitations of water-vapour were not uncommon, and that they
 never dimmed the glare of the vault above. A kind of mist, indeed, always hung about the lowlands
-of K&rsquo;n-yan, and compensated for the complete absence of true clouds.  
+of K'n-yan, and compensated for the complete absence of true clouds.  
 
   The slight rise of the mountain pass enabled Zamacona, by looking behind, to
 see the ancient and deserted plain in panorama as he had seen it from the other side. He seems
 to have appreciated its strange beauty, and to have vaguely regretted leaving it; for he speaks
-of being urged by Gll&rsquo;-Hthaa-Ynn to drive his beast more rapidly. When he faced frontward
+of being urged by Gll'-Hthaa-Ynn to drive his beast more rapidly. When he faced frontward
 again he saw that the crest of the road was very near; the weed-grown way leading starkly up
-and ending against a blank void of blue light. The scene was undoubtedly highly impressive&mdash;a
+and ending against a blank void of blue light. The scene was undoubtedly highly impressive--a
 steep green mountain wall on the right, a deep river-chasm on the left with another green mountain
 wall beyond it, and ahead, the churning sea of bluish coruscations into which the upward path
 dissolved. Then came the crest itself, and with it the world of Tsath outspread in a stupendous
@@ -1510,7 +1510,7 @@ temples, like some of the picturesque hill cities of his own Spain, but a second
 him that it was not indeed such. It was a city of the plain, but fashioned of such heaven-reaching
 towers that its outline was truly that of a mountain. Above it hung a curious greyish haze,
 through which the blue light glistened and took added overtones of radiance from the million
-golden minarets. Glancing at Gll&rsquo;-Hthaa-Ynn, Zamacona knew that this was the monstrous,
+golden minarets. Glancing at Gll'-Hthaa-Ynn, Zamacona knew that this was the monstrous,
 gigantic, and omnipotent city of Tsath.  
 
   As the road turned downward toward the plain, Zamacona felt a kind of uneasiness
@@ -1519,7 +1519,7 @@ beast, and he did not like the atmosphere that brooded over the distant city of 
 the cavalcade began to pass occasional farms, the Spaniard noticed the forms that worked in
 the fields; and did not like their motions and proportions, or the mutilations he saw on most
 of them. Moreover, he did not like the way that some of these forms were herded in corrals,
-or the way they grazed on the heavy verdure. Gll&rsquo;-Hthaa-Ynn indicated that these beings
+or the way they grazed on the heavy verdure. Gll'-Hthaa-Ynn indicated that these beings
 were members of the slave-class, and that their acts were controlled by the master of the farm,
 who gave them hypnotic impressions in the morning of all they were to do during the day. As
 semi-conscious machines, their industrial efficiency was nearly perfect. Those in the corrals
@@ -1528,46 +1528,46 @@ were inferior specimens, classified merely as livestock.
   Upon reaching the plain, Zamacona saw the larger farms and noted the almost
 human work performed by the repulsive horned gyaa-yothn. He likewise observed the more manlike
 shapes that toiled along the furrows, and felt a curious fright and disgust toward certain of
-them whose motions were more mechanical than those of the rest. These, Gll&rsquo;-Hthaa-Ynn
-explained, were what men called the   y&rsquo;m-bhi  &mdash;organisms which had died, but
+them whose motions were more mechanical than those of the rest. These, Gll'-Hthaa-Ynn
+explained, were what men called the   y'm-bhi  --organisms which had died, but
 which had been mechanically reanimated for industrial purposes by means of atomic energy and
 thought-power. The slave-class did not share the immortality of the freemen of Tsath, so that
-with time the number of y&rsquo;m-bhi had become very large. They were dog-like and faithful,
+with time the number of y'm-bhi had become very large. They were dog-like and faithful,
 but not so readily amenable to thought-commands as were living slaves. Those which most repelled
 Zamacona were those whose mutilations were greatest; for some were wholly headless, while others
 had suffered singular and seemingly capricious subtractions, distortions, transpositions, and
-graftings in various places. The Spaniard could not account for this condition, but Gll&rsquo;-Hthaa-Ynn
+graftings in various places. The Spaniard could not account for this condition, but Gll'-Hthaa-Ynn
 made it clear that these were slaves who had been used for the amusement of the people in some
 of the vast arenas; for the men of Tsath were connoisseurs of delicate sensation, and required
 a constant supply of fresh and novel stimuli for their jaded impulses. Zamacona, though by no
 means squeamish, was not favourably impressed by what he saw and heard.  
 
   Approached more closely, the vast metropolis became dimly horrible in its monstrous
-extent and inhuman height. Gll&rsquo;-Hthaa-Ynn explained that the upper parts of the great
+extent and inhuman height. Gll'-Hthaa-Ynn explained that the upper parts of the great
 towers were no longer used, and that many had been taken down to avoid the bother of maintenance.
 The plain around the original urban area was covered with newer and smaller dwellings, which
 in many cases were preferred to the ancient towers. From the whole mass of gold and stone a
 monotonous roar of activity droned outward over the plain, while cavalcades and streams of wagons
 were constantly entering and leaving over the great gold- or stone-paved roads.  
 
-  Several times Gll&rsquo;-Hthaa-Ynn paused to shew Zamacona some particular
+  Several times Gll'-Hthaa-Ynn paused to shew Zamacona some particular
 object of interest, especially the temples of Yig, Tulu, Nug, Yeb, and the Not-to-Be-Named One
 which lined the road at infrequent intervals, each in its embowering grove according to the
-custom of K&rsquo;n-yan. These temples, unlike those of the deserted plain beyond the mountains,
+custom of K'n-yan. These temples, unlike those of the deserted plain beyond the mountains,
 were still in active use; large parties of mounted worshippers coming and going in constant
-streams. Gll&rsquo;-Hthaa-Ynn took Zamacona into each of them, and the Spaniard watched the
+streams. Gll'-Hthaa-Ynn took Zamacona into each of them, and the Spaniard watched the
 subtle orgiastic rites with fascination and repulsion. The ceremonies of Nug and Yeb sickened
-him especially&mdash;so much, indeed, that he refrained from describing them in his manuscript.
+him especially--so much, indeed, that he refrained from describing them in his manuscript.
 One squat, black temple of Tsathoggua was encountered, but it had been turned into a shrine
 of Shub-Niggurath, the All-Mother and wife of the Not-to-Be-Named One. This deity was a kind
 of sophisticated Astarte, and her worship struck the pious Catholic as supremely obnoxious.
-What he liked least of all were the emotional sounds emitted by the celebrants&mdash;jarring
+What he liked least of all were the emotional sounds emitted by the celebrants--jarring
 sounds in a race that had ceased to use vocal speech for ordinary purposes.  
 
   Close to the compact outskirts of Tsath, and well within the shadow of its
-terrifying towers, Gll&rsquo;-Hthaa-Ynn pointed out a monstrous circular building before which
+terrifying towers, Gll'-Hthaa-Ynn pointed out a monstrous circular building before which
 enormous crowds were lined up. This, he indicated, was one of the many amphitheatres where curious
-sports and sensations were provided for the weary people of K&rsquo;n-yan. He was about to pause
+sports and sensations were provided for the weary people of K'n-yan. He was about to pause
 and usher Zamacona inside the vast curved facade, when the Spaniard, recalling the mutilated
 forms he had seen in the fields, violently demurred. This was the first of those friendly clashes
 of taste which were to convince the people of Tsath that their guest followed strange and narrow
@@ -1583,24 +1583,24 @@ a sense of adventurous expectancy as he had never known before. He was taken at 
 of executives which held forth in a gold-and-copper palace behind a gardened and fountained
 park, and was for some time subjected to close, friendly questioning in a vaulted hall frescoed
 with vertiginous arabesques. Much was expected of him, he could see, in the way of historical
-information about the outside earth; but in return all the mysteries of K&rsquo;n-yan would
+information about the outside earth; but in return all the mysteries of K'n-yan would
 be unveiled to him. The one great drawback was the inexorable ruling that he might never return
 to the world of sun and stars and Spain which was his.  
 
   A daily programme was laid down for the visitor, with time apportioned judiciously
 among several kinds of activities. There were to be conversations with persons of learning in
 various places, and lessons in many branches of Tsathic lore. Liberal periods of research were
-allowed for, and all the libraries of K&rsquo;n-yan both secular and sacred were to be thrown
+allowed for, and all the libraries of K'n-yan both secular and sacred were to be thrown
 open to him as soon as he might master the written languages. Rites and spectacles were to be
-attended&mdash;except when he might especially object&mdash;and much time would be left for
+attended--except when he might especially object--and much time would be left for
 the enlightened pleasure-seeking and emotional titillation which formed the goal and nucleus
 of daily life. A house in the suburbs or an apartment in the city would be assigned him, and
 he would be initiated into one of the large affection-groups, including many noblewomen of the
-most extreme and art-enhanced beauty, which in latter-day K&rsquo;n-yan took the place of family
+most extreme and art-enhanced beauty, which in latter-day K'n-yan took the place of family
 units. Several horned gyaa-yothn would be provided for his transportation and errand-running,
 and ten living slaves of intact body would serve to conduct his establishment and protect him
 from thieves and sadists and religious orgiasts on the public highways. There were many mechanical
-devices which he must learn to use, but Gll&rsquo;-Hthaa-Ynn would instruct him immediately
+devices which he must learn to use, but Gll'-Hthaa-Ynn would instruct him immediately
 regarding the principal ones.  
 
   Upon his choosing an apartment in preference to a suburban villa, Zamacona
@@ -1609,9 +1609,9 @@ gorgeous streets to a cliff-like carven structure of some seventy or eighty floo
 for his arrival had already been instituted, and in a spacious ground-floor suite of vaulted
 rooms slaves were busy adjusting hangings and furniture. There were lacquered and inlaid tabourets,
 velvet and silk reclining-corners and squatting-cushions, and infinite rows of teakwood and
-ebony pigeon-holes with metal cylinders containing some of the manuscripts he was soon to read&mdash;standard
+ebony pigeon-holes with metal cylinders containing some of the manuscripts he was soon to read--standard
 classics which all urban apartments possessed. Desks with great stacks of membrane-paper and
-pots of the prevailing green pigment were in every room&mdash;each with graded sets of pigment
+pots of the prevailing green pigment were in every room--each with graded sets of pigment
 brushes and other odd bits of stationery. Mechanical writing devices stood on ornate golden
 tripods, while over all was shed a brilliant blue light from energy-globes set in the ceiling.
 There were windows, but at this shadowy ground-level they were of scant illuminating value.
@@ -1628,12 +1628,12 @@ party would take their place, and so onward in rotation through a group of about
     VI.    
 
 Thus was P&aacute;nfilo de Zamacona y Nu&ntilde;ez absorbed for four years
-into the life of the sinister city of Tsath in the blue-litten nether world of K&rsquo;n-yan.
+into the life of the sinister city of Tsath in the blue-litten nether world of K'n-yan.
 All that he learned and saw and did is clearly not told in his manuscript; for a pious reticence
 overcame him when he began to write in his native Spanish tongue, and he dared not set down
 everything. Much he consistently viewed with repulsion, and many things he steadfastly refrained
 from seeing or doing or eating. For other things he atoned by frequent countings of the beads
-of his rosary. He explored the entire world of K&rsquo;n-yan, including the deserted machine-cities
+of his rosary. He explored the entire world of K'n-yan, including the deserted machine-cities
 of the middle period on the gorse-grown plain of Nith, and made one descent into the red-litten
 world of Yoth to see the Cyclopean ruins. He witnessed prodigies of craft and machinery which
 left him breathless, and beheld human metamorphoses, dematerialisations, rematerialisations,
@@ -1641,15 +1641,15 @@ and reanimations which made him cross himself again and again. His very capacity
 was blunted by the plethora of new marvels which every day brought him.  
 
   But the longer he stayed, the more he wished to leave, for the inner life of
-K&rsquo;n-yan was based on impulses very plainly outside his radius. As he progressed in historical
+K'n-yan was based on impulses very plainly outside his radius. As he progressed in historical
 knowledge, he understood more; but understanding only heightened his distaste. He felt that
-the people of Tsath were a lost and dangerous race&mdash;more dangerous to themselves than they
-knew&mdash;and that their growing frenzy of monotony-warfare and novelty-quest was leading them
+the people of Tsath were a lost and dangerous race--more dangerous to themselves than they
+knew--and that their growing frenzy of monotony-warfare and novelty-quest was leading them
 rapidly toward a precipice of disintegration and utter horror. His own visit, he could see,
 had accelerated their unrest; not only by introducing fears of outside invasion, but by exciting
 in many a wish to sally forth and taste the diverse external world he described. As time progressed,
 he noticed an increasing tendency of the people to resort to dematerialisation as an amusement;
-so that the apartments and amphitheatres of Tsath became a veritable Witches&rsquo; Sabbath
+so that the apartments and amphitheatres of Tsath became a veritable Witches' Sabbath
 of transmutations, age-adjustments, death-experiments, and projections. With the growth of boredom
 and restlessness, he saw, cruelty and subtlety and revolt were growing apace. There was more
 and more cosmic abnormality, more and more curious sadism, more and more ignorance and superstition,
@@ -1658,9 +1658,9 @@ dispersal.
 
   All his efforts to leave, however, came to nothing. Persuasion was useless,
 as repeated trials proved; though the mature disillusion of the upper classes at first prevented
-them from resenting their guest&rsquo;s open wish for departure. In a year which he reckoned
+them from resenting their guest's open wish for departure. In a year which he reckoned
 as 1543 Zamacona made an actual attempt to escape through the tunnel by which he had entered
-K&rsquo;n-yan, but after a weary journey across the deserted plain he encountered forces in
+K'n-yan, but after a weary journey across the deserted plain he encountered forces in
 the dark passage which discouraged him from future attempts in that direction. As a means of
 sustaining hope and keeping the image of home in mind, he began about this time to make rough
 draughts of the manuscript relating his adventures; delighting in the loved, old Spanish words
@@ -1670,7 +1670,7 @@ of the Tulu-metal cylinders used for sacred archives. That alien, magnetic subst
 but support the incredible story he had to tell.  
 
   But even as he planned, he had little real hope of ever establishing contact
-with the earth&rsquo;s surface. Every known gate, he knew, was guarded by persons or forces
+with the earth's surface. Every known gate, he knew, was guarded by persons or forces
 that it were better not to oppose. His attempt at escape had not helped matters, for he could
 now see a growing hostility to the outer world he represented. He hoped that no other European
 would find his way in; for it was possible that later comers might not fare as well as he. He
@@ -1680,33 +1680,33 @@ would happen to him when the sages of Tsath considered him drained dry of fresh 
 self-defence began to be more gradual in his talks on earth-lore, conveying whenever he could
 the impression of vast knowledge held in reserve.  
 
-  One other thing which endangered Zamacona&rsquo;s status in Tsath was his persistent
-curiosity regarding the ultimate abyss of N&rsquo;kai, beneath red-litten Yoth, whose existence
-the dominant religious cults of K&rsquo;n-yan were more and more inclined to deny. When exploring
+  One other thing which endangered Zamacona's status in Tsath was his persistent
+curiosity regarding the ultimate abyss of N'kai, beneath red-litten Yoth, whose existence
+the dominant religious cults of K'n-yan were more and more inclined to deny. When exploring
 Yoth he had vainly tried to find the blocked-up entrance; and later on he experimented in the
 arts of dematerialisation and projection, hoping that he might thereby be able to throw his
 consciousness downward into the gulfs which his physical eyes could not discover. Though never
 becoming truly proficient in these processes, he did manage to achieve a series of monstrous
-and portentous dreams which he believed included some elements of actual projection into N&rsquo;kai;
+and portentous dreams which he believed included some elements of actual projection into N'kai;
 dreams which greatly shocked and perturbed the leaders of Yig and Tulu-worship when he related
 them, and which he was advised by friends to conceal rather than exploit. In time those dreams
 became very frequent and maddening; containing things which he dared not record in his main
 manuscript, but of which he prepared a special record for the benefit of certain learned men
 in Tsath.  
 
-  It may have been unfortunate&mdash;or it may have been mercifully fortunate&mdash;that
+  It may have been unfortunate--or it may have been mercifully fortunate--that
 Zamacona practiced so many reticences and reserved so many themes and descriptions for subsidiary
 manuscripts. The main document leaves one to guess much about the detailed manners, customs,
-thoughts, language, and history of K&rsquo;n-yan, as well as to form any adequate picture of
+thoughts, language, and history of K'n-yan, as well as to form any adequate picture of
 the visual aspect and daily life of Tsath. One is left puzzled, too, about the real motivations
 of the people; their strange passivity and craven unwarlikeness, and their almost cringing fear
 of the outer world despite their possession of atomic and dematerialising powers which would
 have made them unconquerable had they taken the trouble to organise armies as in the old days.
-It is evident that K&rsquo;n-yan was far along in its decadence&mdash;reacting with mixed apathy
+It is evident that K'n-yan was far along in its decadence--reacting with mixed apathy
 and hysteria against the standardised and time-tabled life of stultifying regularity which machinery
 had brought it during its middle period. Even the grotesque and repulsive customs and modes
 of thought and feeling can be traced to this source; for in his historical research Zamacona
-found evidence of bygone eras in which K&rsquo;n-yan had held ideas much like those of the classic
+found evidence of bygone eras in which K'n-yan had held ideas much like those of the classic
 and renaissance outer world, and had possessed a national character and art full of what Europeans
 regard as dignity, kindness, and nobility.  
 
@@ -1721,70 +1721,70 @@ apathy and brokenness and turn like desperate rats against the unknown lands abo
 all before them by virtue of their singular and still-remembered scientific powers. But for
 the present they fought their boredom and sense of emptiness in other ways; multiplying their
 hideous emotional outlets and increasing the mad grotesqueness and abnormality of their diversions.
-The arenas of Tsath must have been accursed and unthinkable places&mdash;Zamacona never went near
+The arenas of Tsath must have been accursed and unthinkable places--Zamacona never went near
 them. And what they would be in another century, or even in another decade, he did not dare
 to think. The pious Spaniard crossed himself and counted his beads more often than usual in
 those days.  
 
   In the year 1545, as he reckoned it, Zamacona began what may well be accepted
-as his final series of attempts to leave K&rsquo;n-yan. His fresh opportunity came from an unexpected
-source&mdash;a female of his affection-group who conceived for him a curious individual infatuation
-based on some hereditary memory of the days of monogamous wedlock in Tsath. Over this female&mdash;a
-noblewoman of moderate beauty and of at least average intelligence named T&rsquo;la-yub&mdash;Zamacona
+as his final series of attempts to leave K'n-yan. His fresh opportunity came from an unexpected
+source--a female of his affection-group who conceived for him a curious individual infatuation
+based on some hereditary memory of the days of monogamous wedlock in Tsath. Over this female--a
+noblewoman of moderate beauty and of at least average intelligence named T'la-yub--Zamacona
 acquired the most extraordinary influence; finally inducing her to help him in an escape, under
 the promise that he would let her accompany him. Chance proved a great factor in the course
-of events, for T&rsquo;la-yub came of a primordial family of gate-lords who had retained oral
+of events, for T'la-yub came of a primordial family of gate-lords who had retained oral
 traditions of at least one passage to the outer world which the mass of people had forgotten
 even at the time of the great closing; a passage to a mound on the level plains of earth which
 had, in consequence, never been sealed up or guarded. She explained that the primordial gate-lords
 were not guards or sentries, but merely ceremonial and economic proprietors, half-feudal and
 baronial in status, of an era preceding the severance of surface-relations. Her own family had
 been so reduced at the time of the closing that their gate had been wholly overlooked; and they
-had ever afterward preserved the secret of its existence as a sort of hereditary secret&mdash;a
+had ever afterward preserved the secret of its existence as a sort of hereditary secret--a
 source of pride, and of a sense of reserve power, to offset the feeling of vanished wealth and
 influence which so constantly irritated them.  
 
   Zamacona, now working feverishly to get his manuscript into final form in case
 anything should happen to him, decided to take with him on his outward journey only five beast-loads
-of unalloyed gold in the form of the small ingots used for minor decorations&mdash;enough, he calculated,
+of unalloyed gold in the form of the small ingots used for minor decorations--enough, he calculated,
 to make him a personage of unlimited power in his own world. He had become somewhat hardened
 to the sight of the monstrous   gyaa-yothn   during his four years of residence in Tsath,
 hence did not shrink from using the creatures; yet he resolved to kill and bury them, and cache
 the gold, as soon as he reached the outer world, since he knew that even a glimpse of one of
 the things would drive any ordinary Indian mad. Later he could arrange for a suitable expedition
-to transport the treasure to Mexico. T&rsquo;la-yub he would perhaps allow to share his fortunes,
+to transport the treasure to Mexico. T'la-yub he would perhaps allow to share his fortunes,
 for she was by no means unattractive; though possibly he would arrange for her sojourn amongst
 the plains Indians, since he was not overanxious to preserve links with the manner of life in
-Tsath. For a wife, of course, he would choose a lady of Spain&mdash;or at worst, an Indian princess
-of normal outer-world descent and a regular and approved past. But for the present T&rsquo;la-yub
+Tsath. For a wife, of course, he would choose a lady of Spain--or at worst, an Indian princess
+of normal outer-world descent and a regular and approved past. But for the present T'la-yub
 must be used as a guide. The manuscript he would carry on his own person, encased in a book-cylinder
 of the sacred and magnetic Tulu-metal.  
 
-  The expedition itself is described in the addendum to Zamacona&rsquo;s manuscript,
+  The expedition itself is described in the addendum to Zamacona's manuscript,
 written later, and in a hand shewing signs of nervous strain. It set out amidst the most careful
 precautions, choosing a rest-period and proceeding as far as possible along the faintly lighted
-passages beneath the city. Zamacona and T&rsquo;la-yub, disguised in slaves&rsquo; garments,
+passages beneath the city. Zamacona and T'la-yub, disguised in slaves' garments,
 bearing provision-knapsacks, and leading the five laden beasts on foot, were readily taken for
-commonplace workers; and they clung as long as possible to the subterranean way&mdash;using
+commonplace workers; and they clung as long as possible to the subterranean way--using
 a long and little-frequented branch which had formerly conducted the mechanical transports to
-the now ruined suburb of L&rsquo;thaa. Amidst the ruins of L&rsquo;thaa they came to the surface,
+the now ruined suburb of L'thaa. Amidst the ruins of L'thaa they came to the surface,
 thereafter passing as rapidly as possible over the deserted, blue-litten plain of Nith toward
-the Grh-yan range of low hills. There, amidst the tangled underbrush, T&rsquo;la-yub found the
+the Grh-yan range of low hills. There, amidst the tangled underbrush, T'la-yub found the
 long disused and half-fabulous entrance to the forgotten tunnel; a thing she had seen but once
-before&mdash;aeons in the past, when her father had taken her thither to shew her this monument to
+before--aeons in the past, when her father had taken her thither to shew her this monument to
 their family pride. It was hard work getting the laden   gyaa-yothn   to scrape through the
 obstructing vines and briers, and one of them displayed a rebelliousness destined to bear dire
-consequences&mdash;bolting away from the party and loping back toward Tsath on its detestable pads,
+consequences--bolting away from the party and loping back toward Tsath on its detestable pads,
 golden burden and all.  
 
   It was nightmare work burrowing by the light of blue-ray torches upward, downward,
 forward, and upward again through a dank, choked tunnel that no foot had trodden since ages
-before the sinking of Atlantis; and at one point T&rsquo;la-yub had to practice the fearsome
+before the sinking of Atlantis; and at one point T'la-yub had to practice the fearsome
 art of dematerialisation on herself, Zamacona, and the laden beasts in order to pass a point
 wholly clogged by shifting earth-strata. It was a terrible experience for Zamacona; for although
 he had often witnessed dematerialisation in others, and even practiced it himself to the extent
-of dream-projection, he had never been fully subjected to it before. But T&rsquo;la-yub was
-skilled in the arts of K&rsquo;n-yan, and accomplished the double metamorphosis in perfect safety.  
+of dream-projection, he had never been fully subjected to it before. But T'la-yub was
+skilled in the arts of K'n-yan, and accomplished the double metamorphosis in perfect safety.  
 
   Thereafter they resumed the hideous burrowing through stalactited crypts of
 horror where monstrous carvings leered at every turn; alternately camping and advancing for
@@ -1796,15 +1796,15 @@ nitre-encrusted images of Yig and Tulu squatted, glaring at each other across th
 they had glared since the earliest youth of the human world. At this point the passage opened
 into a prodigious vaulted and circular chamber of human construction; wholly covered with horrible
 carvings, and revealing at the farther end an arched passageway with the foot of a flight of
-steps. T&rsquo;la-yub knew from family tales that this must be very near the earth&rsquo;s surface,
+steps. T'la-yub knew from family tales that this must be very near the earth's surface,
 but she could not tell just how near. Here the party camped for what they meant to be their
 last rest-period in the subterraneous world.  
 
-  It must have been hours later that the clank of metal and the padding of beasts&rsquo;
-feet awakened Zamacona and T&rsquo;la-yub. A bluish glare was spreading from the narrow passage
+  It must have been hours later that the clank of metal and the padding of beasts'
+feet awakened Zamacona and T'la-yub. A bluish glare was spreading from the narrow passage
 between the images of Yig and Tulu, and in an instant the truth was obvious. An alarm had been
-given at Tsath&mdash;as was later revealed, by the returning gyaa-yoth which had rebelled at the brier-choked
-tunnel-entrance&mdash;and a swift party of pursuers had come to arrest the fugitives. Resistance
+given at Tsath--as was later revealed, by the returning gyaa-yoth which had rebelled at the brier-choked
+tunnel-entrance--and a swift party of pursuers had come to arrest the fugitives. Resistance
 was clearly useless, and none was offered. The party of twelve beast-riders proved studiously
 polite, and the return commenced almost without a word or thought-message on either side.  
 
@@ -1815,59 +1815,59 @@ captors discussing the imminent clearing of this choked place by intensive radia
 henceforward sentries must be maintained at the hitherto unknown outer portal. It would not
 do to let outsiders get within the passage, for then any who might escape without due treatment
 would have a hint of the vastness of the inner world and would perhaps be curious enough to
-return in greater strength. As with the other passages since Zamacona&rsquo;s coming, sentries
+return in greater strength. As with the other passages since Zamacona's coming, sentries
 must be stationed all along, as far as the very outermost gate; sentries drawn from amongst
-all the slaves, the dead-alive   y&rsquo;m-bhi,   or the class of discredited freemen. With
+all the slaves, the dead-alive   y'm-bhi,   or the class of discredited freemen. With
 the overrunning of the American plains by thousands of Europeans, as the Spaniard had predicted,
 every passage was a potential source of danger; and must be rigorously guarded until the technologists
 of Tsath could spare the energy to prepare an ultimate and entrance-hiding obliteration as they
 had done for many passages in earlier and more vigorous times.  
 
-  Zamacona and T&rsquo;la-yub were tried before three   gn&rsquo;agn   of
+  Zamacona and T'la-yub were tried before three   gn'agn   of
 the supreme tribunal in the gold-and-copper palace behind the gardened and fountained park,
 and the Spaniard was given his liberty because of the vital outer-world information he still
 had to impart. He was told to return to his apartment and to his affection-group; taking up
 his life as before, and continuing to meet deputations of scholars according to the latest schedule
 he had been following. No restrictions would be imposed upon him so long as he might remain
-peacefully in K&rsquo;n-yan&mdash;but it was intimated that such leniency would not be repeated
+peacefully in K'n-yan--but it was intimated that such leniency would not be repeated
 after another attempt at escape. Zamacona had felt that there was an element of irony in the
-parting words of the chief   gn&rsquo;ag  &mdash;an assurance that all of   his gyaa-yothn,  
+parting words of the chief   gn'ag  --an assurance that all of   his gyaa-yothn,  
 including the one which had rebelled, would be returned to him.  
 
-  The fate of T&rsquo;la-yub was less happy. There being no object in retaining
-her, and her ancient Tsathic lineage giving her act a greater aspect of treason than Zamacona&rsquo;s
+  The fate of T'la-yub was less happy. There being no object in retaining
+her, and her ancient Tsathic lineage giving her act a greater aspect of treason than Zamacona's
 had possessed, she was ordered to be delivered to the curious diversions of the amphitheatre;
 and afterward, in a somewhat mutilated and half-dematerialised form, to be given the functions
-of a   y&rsquo;m-bhi   or animated corpse-slave and stationed among the sentries guarding
+of a   y'm-bhi   or animated corpse-slave and stationed among the sentries guarding
 the passage whose existence she had betrayed. Zamacona soon heard, not without many pangs of
-regret he could scarcely have anticipated, that poor T&rsquo;la-yub had emerged from the arena
+regret he could scarcely have anticipated, that poor T'la-yub had emerged from the arena
 in a headless and otherwise incomplete state, and had been set as an outermost guard upon the
 mound in which the passage had been found to terminate. She was, he was told, a night-sentinel,
 whose automatic duty was to warn off all comers with a torch; sending down reports to a small
-garrison of twelve dead slave   y&rsquo;m-bhi   and six living but partly dematerialised
+garrison of twelve dead slave   y'm-bhi   and six living but partly dematerialised
 freemen in the vaulted, circular chamber if the approachers did not heed her warning. She worked,
-he was told, in conjunction with a day-sentinel&mdash;a living freeman who chose this post in
+he was told, in conjunction with a day-sentinel--a living freeman who chose this post in
 preference to other forms of discipline for other offences against the state. Zamacona, of course,
 had long known that most of the chief gate-sentries were such discredited freemen.  
 
   It was now made plain to him, though indirectly, that his own penalty for another
-escape-attempt would be service as a gate-sentry&mdash;but in the form of a dead-alive   y&rsquo;m-bhi  
-slave, and after amphitheatre-treatment even more picturesque than that which T&rsquo;la-yub
-was reported to have undergone. It was intimated that he&mdash;or parts of him&mdash;would
+escape-attempt would be service as a gate-sentry--but in the form of a dead-alive   y'm-bhi  
+slave, and after amphitheatre-treatment even more picturesque than that which T'la-yub
+was reported to have undergone. It was intimated that he--or parts of him--would
 be reanimated to guard some inner section of the passage; within sight of others, where his
 abridged person might serve as a permanent symbol of the rewards of treason. But, his informants
 always added, it was of course inconceivable that he would ever court such a fate. So long as
-he remained peaceably in K&rsquo;n-yan, he would continue to be a free, privileged, and respected
+he remained peaceably in K'n-yan, he would continue to be a free, privileged, and respected
 personage.  
 
   Yet in the end P&aacute;nfilo de Zamacona did court the fate so direfully hinted
 to him. True, he did not really expect to encounter it; but the nervous latter part of his manuscript
 makes it clear that he was prepared to face its possibility. What gave him a final hope of scatheless
-escape from K&rsquo;n-yan was his growing mastery of the art of dematerialisation. Having studied
+escape from K'n-yan was his growing mastery of the art of dematerialisation. Having studied
 it for years, and having learned still more from the two instances in which he had been subjected
 to it, he now felt increasingly able to use it independently and effectively. The manuscript
-records several notable experiments in this art&mdash;minor successes accomplished in his apartment&mdash;and
-reflects Zamacona&rsquo;s hope that he might soon be able to assume the spectral form in full,
+records several notable experiments in this art--minor successes accomplished in his apartment--and
+reflects Zamacona's hope that he might soon be able to assume the spectral form in full,
 attaining complete invisibility and preserving that condition as long as he wished.  
 
   Once he reached this stage, he argued, the outward way lay open to him. Of
@@ -1883,9 +1883,9 @@ of the New World.
 
   For many nights after his ultimate resolution Zamacona prayed to St. Pamphilus
 and other guardian saints, and counted the beads of his rosary. The last entry in the manuscript,
-which toward the end took the form of a diary more and more, was merely a single sentence&mdash;&ldquo;  Es
-m&aacute;s tarde de lo que pensaba&mdash;tengo que marcharme  &rdquo;.&nbsp;.&nbsp;.&nbsp;.
-&ldquo;It is later than I thought; I must go.&rdquo; After that, only silence and conjecture&mdash;and
+which toward the end took the form of a diary more and more, was merely a single sentence-- "  Es
+m&aacute;s tarde de lo que pensaba--tengo que marcharme   ". . . .
+ "It is later than I thought; I must go. " After that, only silence and conjecture--and
 such evidence as the presence of the manuscript itself, and what that manuscript could lead
 to, might provide.  
 
@@ -1893,46 +1893,46 @@ to, might provide.
 
 When I looked up from my half-stupefied reading and note-taking the morning
 sun was high in the heavens. The electric bulb was still burning, but such things of the real
-world&mdash;the modern outer world&mdash;were far from my whirling brain. I knew I was in my
-room at Clyde Compton&rsquo;s at Binger&mdash;but upon what monstrous vista had I stumbled?
+world--the modern outer world--were far from my whirling brain. I knew I was in my
+room at Clyde Compton's at Binger--but upon what monstrous vista had I stumbled?
 Was this thing a hoax or a chronicle of madness? If a hoax, was it a jest of the sixteenth century
-or of today? The manuscript&rsquo;s age looked appallingly genuine to my not wholly unpracticed
+or of today? The manuscript's age looked appallingly genuine to my not wholly unpracticed
 eyes, and the problem presented by the strange metal cylinder I dared not even think about.  
 
   Moreover, what a monstrously exact explanation it gave of all the baffling
-phenomena of the mound&mdash;of the seemingly meaningless and paradoxical actions of diurnal
+phenomena of the mound--of the seemingly meaningless and paradoxical actions of diurnal
 and nocturnal ghosts, and of the queer cases of madness and disappearance! It was even an accursedly
-  plausible   explanation&mdash;evilly   consistent  &mdash;if one could adopt the incredible.
+  plausible   explanation--evilly   consistent  --if one could adopt the incredible.
 It must be a shocking hoax devised by someone who knew all the lore of the mound. There was
 even a hint of social satire in the account of that unbelievable nether world of horror and
-decay. Surely this was the clever forgery of some learned cynic&mdash;something like the leaden
+decay. Surely this was the clever forgery of some learned cynic--something like the leaden
 crosses in New Mexico, which a jester once planted and pretended to discover as a relique of
 some forgotten Dark Age colony from Europe.  
 
   Upon going down to breakfast I hardly knew what to tell Compton and his mother,
 as well as the curious callers who had already begun to arrive. Still in a daze, I cut the Gordian
 Knot by giving a few points from the notes I had made, and mumbling my belief that the thing
-was a subtle and ingenious fraud left there by some previous explorer of the mound&mdash;a belief
+was a subtle and ingenious fraud left there by some previous explorer of the mound--a belief
 in which everybody seemed to concur when told of the substance of the manuscript. It is curious
-how all that breakfast group&mdash;and all the others in Binger to whom the discussion was repeated&mdash;seemed
+how all that breakfast group--and all the others in Binger to whom the discussion was repeated--seemed
 to find a great clearing of the atmosphere in the notion that somebody was playing a joke on
 somebody. For the time we all forgot that the known, recent history of the mound presented mysteries
 as strange as any in the manuscript, and as far from acceptable solution as ever.  
 
   The fears and doubts began to return when I asked for volunteers to visit the
-mound with me. I wanted a larger excavating party&mdash;but the idea of going to that uncomfortable
+mound with me. I wanted a larger excavating party--but the idea of going to that uncomfortable
 place seemed no more attractive to the people of Binger than it had seemed on the previous day.
 I myself felt a mounting horror upon looking toward the mound and glimpsing the moving speck
 which I knew was the daylight sentinel; for in spite of all my scepticism the morbidities of
 that manuscript stuck by me and gave everything connected with the place a new and monstrous
 significance. I absolutely lacked the resolution to look at the moving speck with my binoculars.
-Instead, I set out with the kind of bravado we display in nightmares&mdash;when, knowing we
+Instead, I set out with the kind of bravado we display in nightmares--when, knowing we
 are dreaming, we plunge desperately into still thicker horrors, for the sake of having the whole
 thing over the sooner. My pick and shovel were already out there, so I had only my handbag of
 smaller paraphernalia to take. Into this I put the strange cylinder and its contents, feeling
 vaguely that I might possibly find something worth checking up with some part of the green-lettered
 Spanish text. Even a clever hoax might be founded on some actual attribute of the mound which
-a former explorer had discovered&mdash;and that magnetic metal was damnably odd! Grey Eagle&rsquo;s
+a former explorer had discovered--and that magnetic metal was damnably odd! Grey Eagle's
 cryptic talisman still hung from its leathern cord around my neck.  
 
   I did not look very sharply at the mound as I walked toward it, but when I
@@ -1940,16 +1940,16 @@ reached it there was nobody in sight. Repeating my upward scramble of the previo
 troubled by thoughts of what   might   lie close at hand   if,   by any miracle, any part
 of the manuscript   were   actually half-true. In such a case, I could not help reflecting,
 the hypothetical Spaniard Zamacona must have barely reached the outer world when overtaken by
-some disaster&mdash;perhaps an involuntary rematerialisation. He would naturally, in that event,
-have been seized by whichever sentry happened to be on duty at the time&mdash;either the discredited
-freeman, or, as a matter of supreme irony, the very T&rsquo;la-yub who had planned and aided
-his first attempt at escape&mdash;and in the ensuing struggle the cylinder with the manuscript
-might well have been dropped on the mound&rsquo;s summit, to be neglected and gradually buried
+some disaster--perhaps an involuntary rematerialisation. He would naturally, in that event,
+have been seized by whichever sentry happened to be on duty at the time--either the discredited
+freeman, or, as a matter of supreme irony, the very T'la-yub who had planned and aided
+his first attempt at escape--and in the ensuing struggle the cylinder with the manuscript
+might well have been dropped on the mound's summit, to be neglected and gradually buried
 for nearly four centuries. But, I added, as I climbed over the crest, one must not think of
 extravagant things like that. Still, if there   were   anything in the tale, it must have
-been a monstrous fate to which Zamacona had been dragged back&nbsp;.&nbsp;.&nbsp;. the amphitheatre&nbsp;.&nbsp;.&nbsp;.
-mutilation&nbsp;.&nbsp;.&nbsp;. duty somewhere in the dank, nitrous tunnel as a dead-alive slave&nbsp;.&nbsp;.&nbsp;.
-a maimed corpse-fragment as an automatic interior sentry.&nbsp;.&nbsp;.&nbsp;.  
+been a monstrous fate to which Zamacona had been dragged back . . . the amphitheatre . . .
+mutilation . . . duty somewhere in the dank, nitrous tunnel as a dead-alive slave . . .
+a maimed corpse-fragment as an automatic interior sentry. . . .  
 
   It was a very real shock which chased this morbid speculation from my head,
 for upon glancing around the elliptical summit I saw at once that my pick and shovel had been
@@ -1957,26 +1957,26 @@ stolen. This was a highly provoking and disconcerting development; baffling, too
 the seeming reluctance of all the Binger folk to visit the mound. Was this reluctance a pretended
 thing, and had the jokers of the village been chuckling over my coming discomfiture as they
 solemnly saw me off ten minutes before? I took out my binoculars and scanned the gaping crowd
-at the edge of the village. No&mdash;they did not seem to be looking for any comic climax; yet
+at the edge of the village. No--they did not seem to be looking for any comic climax; yet
 was not the whole affair at bottom a colossal joke in which all the villagers and reservation
-people were concerned&mdash;legends, manuscript, cylinder, and all? I thought of how I had seen
+people were concerned--legends, manuscript, cylinder, and all? I thought of how I had seen
 the sentry from a distance, and then found him unaccountably vanished; thought also of the conduct
 of old Grey Eagle, of the speech and expressions of Compton and his mother, and of the unmistakable
 fright of most of the Binger people. On the whole, it could not very well be a village-wide
 joke. The fear and the problem were surely real, though obviously there were one or two jesting
 daredevils in Binger who had stolen out to the mound and made off with the tools I had left.  
 
-  Everything else on the mound was as I had left it&mdash;brush cut by my machete,
+  Everything else on the mound was as I had left it--brush cut by my machete,
 slight, bowl-like depression toward the north end, and the hole I had made with my trench-knife
 in digging up the magnetism-revealed cylinder. Deeming it too great a concession to the unknown
 jokers to return to Binger for another pick and shovel, I resolved to carry out my programme
 as best I could with the machete and trench-knife in my handbag; so extracting these, I set
 to work excavating the bowl-like depression which my eye had picked as the possible site of
 a former entrance to the mound. As I proceeded, I felt again the suggestion of a sudden wind
-blowing against me which I had noticed the day before&mdash;a suggestion which seemed stronger,
+blowing against me which I had noticed the day before--a suggestion which seemed stronger,
 and still more reminiscent of unseen, formless, opposing hands laid on my wrists, as I cut deeper
 and deeper through the root-tangled red soil and reached the exotic black loam beneath. The
-talisman around my neck appeared to twitch oddly in the breeze&mdash;not in any one direction,
+talisman around my neck appeared to twitch oddly in the breeze--not in any one direction,
 as when attracted by the buried cylinder, but vaguely and diffusely, in a manner wholly unaccountable.  
 
   Then, quite without warning, the black, root-woven earth beneath my feet began
@@ -1984,7 +1984,7 @@ to sink cracklingly, while I heard a faint sound of sifting, falling matter far 
 obstructing wind, or forces, or hands now seemed to be operating from the very seat of the sinking,
 and I felt that they aided me by pushing as I leaped back out of the hole to avoid being involved
 in any cave-in. Bending down over the brink and hacking at the mould-caked root-tangle with
-my machete, I felt that they were against me again&mdash;but at no time were they strong enough
+my machete, I felt that they were against me again--but at no time were they strong enough
 to stop my work. The more roots I severed, the more falling matter I heard below. Finally the
 hole began to deepen of itself toward the centre, and I saw that the earth was sifting down
 into some large cavity beneath, so as to leave a good-sized aperture when the roots that had
@@ -2002,7 +2002,7 @@ The talisman around my neck swayed curiously, and I began to regret the disappea
 of daylight above me. The electric torch shewed dank, water-stained, and salt-encrusted walls
 fashioned of huge basalt blocks, and now and then I thought I descried some trace of carving
 beneath the nitrous deposits. I gripped my handbag more tightly, and was glad of the comforting
-weight of the sheriff&rsquo;s heavy revolver in my right-hand coat pocket. After a time the
+weight of the sheriff's heavy revolver in my right-hand coat pocket. After a time the
 passage began to wind this way and that, and the staircase became free from obstructions. Carvings
 on the walls were now definitely traceable, and I shuddered when I saw how clearly the grotesque
 figures resembled the monstrous bas-reliefs on the cylinder I had found. Winds and forces continued
@@ -2018,20 +2018,20 @@ of the steps below me, but that object was such as to put my reason to a severe 
 up a line of the most alarming speculations. That the opening above me had been closed against
 all material forms for generations was utterly obvious from the growth of shrub-roots and accumulation
 of drifting soil; yet the object before me was most distinctly not many generations old. For
-it was an electric torch much like the one I now carried&mdash;warped and encrusted in the tomb-like
+it was an electric torch much like the one I now carried--warped and encrusted in the tomb-like
 dampness, but none the less perfectly unmistakable. I descended a few steps and picked it up,
 wiping off the evil deposits on my rough coat. One of the nickel bands bore an engraved name
-and address, and I recognised it with a start the moment I made it out. It read &ldquo;Jas.
-C. Williams, 17 Trowbridge St., Cambridge, Mass.&rdquo;&mdash;and I knew that it had belonged
+and address, and I recognised it with a start the moment I made it out. It read  "Jas.
+C. Williams, 17 Trowbridge St., Cambridge, Mass. "--and I knew that it had belonged
 to one of the two daring college instructors who had disappeared on June 28, 1915. Only thirteen
 years ago, and yet I had just broken through the sod of centuries! How had the thing got there?
-Another entrance&mdash;or was there something after all in this mad idea of dematerialisation
+Another entrance--or was there something after all in this mad idea of dematerialisation
 and rematerialisation?  
 
   Doubt and horror grew upon me as I wound still farther down the seemingly endless
 staircase. Would the thing never stop? The carvings grew more and more distinct, and assumed
 a narrative pictorial quality which brought me close to panic as I recognised many unmistakable
-correspondences with the history of K&rsquo;n-yan as sketched in the manuscript now resting
+correspondences with the history of K'n-yan as sketched in the manuscript now resting
 in my handbag. For the first time I began seriously to question the wisdom of my descent, and
 to wonder whether I had not better return to the upper air before I came upon
 something which would never let me return as a sane man. But I did not hesitate long, for as
@@ -2041,7 +2041,7 @@ against retreat from any peril known or unknown.
   My descent became swifter rather than slower, and I avoided studying the terrible
 bas-reliefs and intaglios that had unnerved me. All at once I saw an arched opening ahead, and
 realised that the prodigious staircase had ended at last. But with that realisation came horror
-in mounting magnitude, for before me there yawned a vast vaulted crypt of all-too-familiar outline&mdash;a
+in mounting magnitude, for before me there yawned a vast vaulted crypt of all-too-familiar outline--a
 great circular space answering in every least particular to the carving-lined chamber described
 in the Zamacona manuscript.  
 
@@ -2052,13 +2052,13 @@ opposite niches bearing loathsome and titanic images of shockingly familiar patt
 the dark unclean Yig and hideous Tulu squatted eternally, glaring at each other across the passage
 as they had glared since the earliest youth of the human world.  
 
-  From this point onward I ask no credence for what I tell&mdash;for what I   
+  From this point onward I ask no credence for what I tell--for what I   
 think   I saw. It is too utterly unnatural, too utterly monstrous and incredible, to be any
 part of sane human experience or objective reality. My torch, though casting a powerful beam
 ahead, naturally could not furnish any general illumination of the Cyclopean crypt; so I now
 began moving it about to explore the giant walls little by little. As I did so, I saw to my
 horror that the space was by no means vacant, but was instead littered with odd furniture and
-utensils and heaps of packages which bespoke a populous recent occupancy&mdash;no nitrous reliques
+utensils and heaps of packages which bespoke a populous recent occupancy--no nitrous reliques
 of the past, but queerly shaped objects and supplies in modern, every-day use. As my torch rested
 on each article or group of articles, however, the distinctness of the outlines soon began to
 grow blurred; until in the end I could scarcely tell whether the things belonged to the realm
@@ -2067,48 +2067,48 @@ of matter or to the realm of spirit.
   All this while the adverse winds blew against me with increasing fury, and
 the unseen hands plucked malevolently at me and snatched at the strange magnetic talisman I
 wore. Wild conceits surged through my mind. I thought of the manuscript and what it said about
-the garrison stationed in this place&mdash;twelve dead slave   y&rsquo;m-bhi   and six living
-but partly dematerialised freemen&mdash;that was in 1545&mdash;three hundred and eighty-three years
-ago.&nbsp;.&nbsp;.&nbsp;. What since then? Zamacona had predicted change&nbsp;.&nbsp;.&nbsp;. subtle disintegration&nbsp;.&nbsp;.&nbsp;.
-more dematerialisation&nbsp;.&nbsp;.&nbsp;. weaker and weaker&nbsp;.&nbsp;.&nbsp;. was it Grey Eagle&rsquo;s
-talisman that held them at bay&mdash;their sacred Tulu-metal&mdash;and were they feebly trying to
-pluck it off so that they might do to me what they had done to those who had come before?&nbsp;.&nbsp;.&nbsp;.
+the garrison stationed in this place--twelve dead slave   y'm-bhi   and six living
+but partly dematerialised freemen--that was in 1545--three hundred and eighty-three years
+ago. . . . What since then? Zamacona had predicted change . . . subtle disintegration . . .
+more dematerialisation . . . weaker and weaker . . . was it Grey Eagle's
+talisman that held them at bay--their sacred Tulu-metal--and were they feebly trying to
+pluck it off so that they might do to me what they had done to those who had come before? . . .
 It occurred to me with shuddering force that I was building my speculations out of a full belief
-in the Zamacona manuscript&mdash;this must not be&mdash;I must get a grip on myself&mdash;  
+in the Zamacona manuscript--this must not be--I must get a grip on myself--  
 
   But, curse it, every time I tried to get a grip I saw some fresh sight to shatter
 my poise still further. This time, just as my will power was driving the half-seen paraphernalia
 into obscurity, my glance and torch-beam had to light on two things of very different nature;
 two things of the eminently real and sane world; yet they did more to unseat my shaky reason
-than anything I had seen before&mdash;because I knew what they were, and knew how profoundly,
+than anything I had seen before--because I knew what they were, and knew how profoundly,
 in the course of Nature, they ought not to be there.   They were my own missing pick and shovel,
 side by side, and leaning neatly against the blasphemously carved wall of that hellish crypt.  
-God in heaven&mdash;and I had babbled to myself about daring jokers from Binger!  
+God in heaven--and I had babbled to myself about daring jokers from Binger!  
 
   That was the last straw. After that the cursed hypnotism of the manuscript
 got at me, and I actually   saw   the half-transparent shapes of the things that were pushing
-and plucking; pushing and plucking&mdash;those leprous palaeogean things with something of humanity
-still clinging to them&mdash;the   complete   forms, and the forms that were morbidly and
-perversely   incomplete  &nbsp;.&nbsp;.&nbsp;. all these, and hideous   other entities  &mdash;the
-four-footed blasphemies with ape-like face and projecting horn&nbsp;.&nbsp;.&nbsp;. and not
-a sound so far in all that nitrous hell of inner earth.&nbsp;.&nbsp;.&nbsp;.  
+and plucking; pushing and plucking--those leprous palaeogean things with something of humanity
+still clinging to them--the   complete   forms, and the forms that were morbidly and
+perversely   incomplete   . . . all these, and hideous   other entities  --the
+four-footed blasphemies with ape-like face and projecting horn . . . and not
+a sound so far in all that nitrous hell of inner earth. . . .  
 
-  Then there   was   a sound&mdash;a flopping; a padding; a dull, advancing
+  Then there   was   a sound--a flopping; a padding; a dull, advancing
 sound which heralded beyond question a being as structurally material as the pickaxe and the
-shovel&mdash;something wholly unlike the shadow-shapes that ringed me in, yet equally remote
-from any sort of life as life is understood on the earth&rsquo;s wholesome surface. My shattered
+shovel--something wholly unlike the shadow-shapes that ringed me in, yet equally remote
+from any sort of life as life is understood on the earth's wholesome surface. My shattered
 brain tried to prepare me for what was coming, but could not frame any adequate image. I could
-only say over and over again to myself, &ldquo;It is of the abyss, but it is   not   dematerialised.&rdquo;
+only say over and over again to myself,  "It is of the abyss, but it is   not   dematerialised. "
 The padding grew more distinct, and from the mechanical cast of the tread I knew it was a dead
-thing that stalked in the darkness. Then&mdash;  oh, God, I saw it in the full beam of my torch;
+thing that stalked in the darkness. Then--  oh, God, I saw it in the full beam of my torch;
 saw it framed like a sentinel in the narrow passage between the nightmare idols of the serpent
-Yig and the octopus Tulu.&nbsp;.&nbsp;.&nbsp;.    
+Yig and the octopus Tulu. . . .    
 
   Let me collect myself enough to hint at what I saw; to explain why I dropped
 torch and handbag and fled empty-handed in the utter blackness, wrapped in a merciful unconsciousness
 which did not wear off until the sun and the distant yelling and the shouting from the village
 roused me as I lay gasping on the top of the accursed mound. I do not yet know what guided me
-again to the earth&rsquo;s surface. I only know that the watchers in Binger saw me stagger up
+again to the earth's surface. I only know that the watchers in Binger saw me stagger up
 into sight three hours after I had vanished; saw me lurch up and fall flat on the ground as
 if struck by a bullet. None of them dared to come out and help me; but they knew I must be in
 a bad state, so tried to rouse me as best they could by yelling in chorus and firing off revolvers.  
@@ -2124,30 +2124,30 @@ and have never been there since, though they tell me the ghosts still appear on 
 usual.  
 
   But I have resolved to hint here at last what I dared not hint to the people
-of Binger on that terrible August afternoon. I don&rsquo;t know yet just how I can go about
-it&mdash;and if in the end you think my reticence strange, just remember that to imagine such
-a horror is one thing,   but to see it is another thing.   I saw it. I think you&rsquo;ll
+of Binger on that terrible August afternoon. I don't know yet just how I can go about
+it--and if in the end you think my reticence strange, just remember that to imagine such
+a horror is one thing,   but to see it is another thing.   I saw it. I think you'll
 recall my citing early in this tale the case of a bright young man named Heaton who went out
 to that mound one day in 1891 and came back at night as the village idiot, babbling for eight
-years about horrors and then dying in an epileptic fit. What he used to keep moaning was &ldquo;  That
-white man&mdash;oh, my God, what they did to him.&nbsp;.&nbsp;.&nbsp;.  &rdquo;  
+years about horrors and then dying in an epileptic fit. What he used to keep moaning was  "  That
+white man--oh, my God, what they did to him. . . .   "  
 
-  Well, I saw the same thing that poor Heaton saw&mdash;and I saw it after reading
-the manuscript, so I know more of its history than he did. That makes it worse&mdash;for I know
+  Well, I saw the same thing that poor Heaton saw--and I saw it after reading
+the manuscript, so I know more of its history than he did. That makes it worse--for I know
 all that it   implies;   all that must be still brooding and festering and waiting down there.
 I told you it had padded mechanically toward me out of the narrow passage and had stood sentry-like
-at the entrance between the frightful eidola of Yig and Tulu. That was very natural and inevitable&mdash;because
-the thing   was   a sentry. It had been made a sentry for punishment, and it was quite dead&mdash;besides
-lacking head, arms, lower legs, and other customary parts of a human being. Yes&mdash;it had
+at the entrance between the frightful eidola of Yig and Tulu. That was very natural and inevitable--because
+the thing   was   a sentry. It had been made a sentry for punishment, and it was quite dead--besides
+lacking head, arms, lower legs, and other customary parts of a human being. Yes--it had
 been a very human being once; and what is more, it had been   white.   Very obviously, if
 that manuscript was as true as I think it was, this being had been used for the   diversions
 of the amphitheatre   before its life had become wholly extinct and supplanted by automatic
 impulses controlled from outside.  
 
   On its white and only slightly hairy chest some letters had been gashed or
-branded&mdash;I had not stopped to investigate, but had merely noted that they were in an awkward
+branded--I had not stopped to investigate, but had merely noted that they were in an awkward
 and fumbling Spanish; an awkward Spanish implying a kind of ironic use of the language by an
 alien inscriber familiar neither with the idiom nor the Roman letters used to record it. The
-inscription had read &ldquo;  Secuestrado a la voluntad de Xinai&aacute;n en el cuerpo decapitado
-de Tlay&uacute;b&rdquo;&mdash;&ldquo;Seized by the will of K&rsquo;n-yan in the headless body
-of T&rsquo;la-yub.&rdquo;    
+inscription had read  "  Secuestrado a la voluntad de Xinai&aacute;n en el cuerpo decapitado
+de Tlay&uacute;b "-- "Seized by the will of K'n-yan in the headless body
+of T'la-yub. "    

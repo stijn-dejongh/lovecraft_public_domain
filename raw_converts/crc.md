@@ -12,12 +12,12 @@ obscure realms into which the inspired dreamer is transported. But much as has b
 has yet dared intimate the   nature   of the phantasms thus unfolded to the mind, or hint at the
   direction   of the unheard-of roads along whose ornate and exotic course the partaker of the
 drug is so irresistibly borne. De Quincey was drawn back into Asia, that teeming land of nebulous
-shadows whose hideous antiquity is so impressive that &ldquo;the vast age of the race and name
-overpowers the sense of youth in the individual&rdquo;, but farther than that he dared not go. Those
+shadows whose hideous antiquity is so impressive that  "the vast age of the race and name
+overpowers the sense of youth in the individual ", but farther than that he dared not go. Those
 who   have   gone farther seldom returned; and even when they have, they have been either silent
-or quite mad. I took opium but once&mdash;in the year of the plague, when doctors sought to deaden
-the agonies they could not cure. There was an overdose&mdash;my physician was worn out with horror
-and exertion&mdash;and I travelled very far indeed. In the end I returned and lived, but my nights
+or quite mad. I took opium but once--in the year of the plague, when doctors sought to deaden
+the agonies they could not cure. There was an overdose--my physician was worn out with horror
+and exertion--and I travelled very far indeed. In the end I returned and lived, but my nights
 are filled with strange memories, nor have I ever permitted a doctor to give me opium again.  
 
   The pain and pounding in my head had been quite unendurable when the drug was
@@ -43,7 +43,7 @@ tables, chairs, ottomans, and divans, and delicate vases and ornaments which con
 of the exotic without being actually alien. These things I noticed, yet they were not long
 uppermost in my mind. Slowly but inexorably crawling upon my consciousness, and rising above every
 other impression, came a dizzying fear of the unknown; a fear all the greater because I could not
-analyse it, and seeming to concern a stealthily approaching menace&mdash;not death, but some
+analyse it, and seeming to concern a stealthily approaching menace--not death, but some
 nameless, unheard-of thing inexpressibly more ghastly and abhorrent.  
 
   Presently I realised that the direct symbol and excitant of my fear was the
@@ -66,7 +66,7 @@ with full and devastating force.
 
   I beheld such a sight as I had never beheld before, and which no living person can
 have seen save in the delirium of fever or the inferno of opium. The building stood on a narrow
-point of land&mdash;or what was   now   a narrow point of land&mdash;fully 300 feet above what
+point of land--or what was   now   a narrow point of land--fully 300 feet above what
 must lately have been a seething vortex of mad waters. On either side of the house there fell a
 newly washed-out precipice of red earth, whilst ahead of me the hideous waves were still rolling in
 frightfully, eating away the land with ghastly monotony and deliberation. Out a mile or more there
@@ -84,18 +84,18 @@ emerged at once, locking it after me with a curious key which had hung inside. I
 the strange region about me, and marked a singular division which seemed to exist in the hostile
 ocean and firmament. On each side of the jutting promontory different conditions held sway. At my
 left as I faced inland was a gently heaving sea with great green waves rolling peacefully in under
-a brightly shining sun. Something about that sun&rsquo;s nature and position made me shudder, but I
+a brightly shining sun. Something about that sun's nature and position made me shudder, but I
 could not then tell, and cannot tell now, what it was. At my right also was the sea, but it was
 blue, calm, and only gently undulating, while the sky above it was darker and the washed-out bank
 more nearly white than reddish.  
 
   I now turned my attention to the land, and found occasion for fresh surprise; for
 the vegetation resembled nothing I had ever seen or read about. It was apparently tropical or at
-least sub-tropical&mdash;a conclusion borne out by the intense heat of the air. Sometimes I thought
+least sub-tropical--a conclusion borne out by the intense heat of the air. Sometimes I thought
 I could trace strange analogies with the flora of my native land, fancying that the well-known
 plants and shrubs might assume such forms under a radical change of climate; but the gigantic and
-omnipresent palm trees were plainly foreign. The house I had just left was very small&mdash;hardly
-more than a cottage&mdash;but its material was evidently marble, and its architecture was weird and
+omnipresent palm trees were plainly foreign. The house I had just left was very small--hardly
+more than a cottage--but its material was evidently marble, and its architecture was weird and
 composite, involving a quaint fusion of Western and Eastern forms. At the corners were Corinthian
 columns, but the red tile roof was like that of a Chinese pagoda. From the door inland there
 stretched a path of singularly white sand, about four feet wide, and lined on either side with
@@ -105,7 +105,7 @@ flee, as if pursued by some malignant spirit from the pounding ocean. At first i
 uphill, then I reached a gentle crest. Behind me I saw the scene I had left; the entire point with
 the cottage and the black water, with the green sea on one side and the blue sea on the other, and
 a curse unnamed and unnamable lowering over all. I never saw it again, and often
-wonder.&nbsp;.&nbsp;.&nbsp;. After this last look I strode ahead and surveyed the inland panorama
+wonder. . . . After this last look I strode ahead and surveyed the inland panorama
 before me.  
 
   The path, as I have intimated, ran along the right-hand shore as one went inland.
@@ -115,8 +115,8 @@ colossal palm tree which seemed to fascinate and beckon me. By this time wonder 
 imperilled peninsula had largely dissipated my fear, but as I paused and sank fatigued to the path,
 idly digging with my hands into the warm, whitish-golden sand, a new and acute sense of danger
 seized me. Some terror in the swishing tall grass seemed added to that of the diabolically pounding
-sea, and I started up crying aloud and disjointedly, &ldquo;Tiger? Tiger? Is it Tiger? Beast?
-Beast? Is it a Beast that I am afraid of?&rdquo; My mind wandered back to an ancient and classical
+sea, and I started up crying aloud and disjointedly,  "Tiger? Tiger? Is it Tiger? Beast?
+Beast? Is it a Beast that I am afraid of? " My mind wandered back to an ancient and classical
 story of tigers which I had read; I strove to recall the author, but had difficulty. Then in the
 midst of my fear I remembered that the tale was by Rudyard Kipling; nor did the grotesqueness of
 deeming him an ancient author occur to me. I wished for the volume containing this story, and had
@@ -125,7 +125,7 @@ the palm prevented me.
 
   Whether or not I could have resisted the backward beckoning without the
 counter-fascination of the vast palm tree, I do not know. This attraction was now dominant, and I
-left the path and crawled on hands and knees down the valley&rsquo;s slope despite my fear of the
+left the path and crawled on hands and knees down the valley's slope despite my fear of the
 grass and of the serpents it might contain. I resolved to fight for life and reason as long as
 possible against all menaces of sea or land, though I sometimes feared defeat as the maddening
 swish of the uncanny grasses joined the still audible and irritating pounding of the distant
@@ -141,18 +141,18 @@ bore the features of a faun or demigod, and seemed almost to diffuse a radiance 
 of the tree. It smiled and extended its hand, but before I could arise and speak I heard in the
 upper air the exquisite melody of singing; notes high and low blent with a sublime and ethereal
 harmoniousness. The sun had by this time sunk below the horizon, and in the twilight I saw that an
-aureola of lambent light encircled the child&rsquo;s head. Then in a tone of silver it addressed me:
-&ldquo;It is the end. They have come down through the gloaming from the stars. Now all is over, and
-beyond the Arinurian streams we shall dwell blissfully in Teloe.&rdquo; As the child spoke, I beheld
+aureola of lambent light encircled the child's head. Then in a tone of silver it addressed me:
+ "It is the end. They have come down through the gloaming from the stars. Now all is over, and
+beyond the Arinurian streams we shall dwell blissfully in Teloe. " As the child spoke, I beheld
 a soft radiance through the leaves of the palm tree, and rising greeted a pair whom I knew to be
 the chief singers among those I had heard. A god and goddess they must have been, for such beauty
-is not mortal; and they took my hands, saying, &ldquo;Come, child, you have heard the voices, and
+is not mortal; and they took my hands, saying,  "Come, child, you have heard the voices, and
 all is well. In Teloe beyond the Milky Way and the Arinurian streams are cities all of amber and
 chalcedony. And upon their domes of many facets glisten the images of strange and beautiful stars.
 Under the ivory bridges of Teloe flow rivers of liquid gold bearing pleasure-barges bound for
 blossomy Cytharion of the Seven Suns. And in Teloe and Cytharion abide only youth, beauty, and
 pleasure, nor are any sounds heard, save of laughter, song, and the lute. Only the gods dwell in
-Teloe of the golden rivers, but among them shalt thou dwell.&rdquo;  
+Teloe of the golden rivers, but among them shalt thou dwell. "  
 
   As I listened, enchanted, I suddenly became aware of a change in my surroundings.
 The palm tree, so lately overshadowing my exhausted form, was now some distance to my left and

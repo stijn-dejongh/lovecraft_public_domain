@@ -5,9 +5,9 @@
 
   
 
-          &ldquo;Efficiunt
-Daemones, ut quae non sunt, sic tamen  quasi sint, conspicienda hominibus exhibeant.&rdquo;  <div
-align=right>  &mdash;Lactantius.                
+           "Efficiunt
+Daemones, ut quae non sunt, sic tamen  quasi sint, conspicienda hominibus exhibeant. "  <div
+align=right>  --Lactantius.                
 
 I was far from home, and the spell of the eastern sea was upon me. In the twilight I heard it
 pounding on the rocks, and I knew it lay just over the hill where the twisting willows writhed
@@ -28,11 +28,11 @@ And now they were scattered, and shared only the rituals of mysteries that none 
 understand. I was the only one who came back that night to the old fishing town as legend bade,
 for only the poor and the lonely remember.  
 
-  Then beyond the hill&rsquo;s crest I saw Kingsport outspread frostily in the
+  Then beyond the hill's crest I saw Kingsport outspread frostily in the
 gloaming; snowy Kingsport with its ancient vanes and steeples, ridgepoles and chimney-pots,
 wharves and small bridges, willow-trees and graveyards; endless labyrinths of steep, narrow,
 crooked streets, and dizzy church-crowned central peak that time durst not touch; ceaseless
-mazes of colonial houses piled and scattered at all angles and levels like a child&rsquo;s disordered
+mazes of colonial houses piled and scattered at all angles and levels like a child's disordered
 blocks; antiquity hovering on grey wings over winter-whitened gables and gambrel roofs; fanlights
 and small-paned windows one by one gleaming out in the cold dusk to join Orion and the archaic
 stars. And against the rotting wharves the sea pounded; the secretive, immemorial sea out of
@@ -87,17 +87,17 @@ the festive season. An indefinite dampness seemed upon the place, and I marvelle
 should be blazing. The high-backed settle faced the row of curtained windows at the left, and
 seemed to be occupied, though I was not sure. I did not like everything about what I saw, and
 felt again the fear I had had. This fear grew stronger from what had before lessened it, for
-the more I looked at the old man&rsquo;s bland face the more its very blandness terrified me.
+the more I looked at the old man's bland face the more its very blandness terrified me.
 The eyes never moved, and the skin was too like wax. Finally I was sure it was not a face at
 all, but a fiendishly cunning mask. But the flabby hands, curiously gloved, wrote genially on
 the tablet and told me I must wait a while before I could be led to the place of festival.  
 
   Pointing to a chair, table, and pile of books, the old man now left the room;
 and when I sat down to read I saw that the books were hoary and mouldy, and that they included
-old Morryster&rsquo;s wild   Marvells of Science,   the terrible   Saducismus Triumphatus  
+old Morryster's wild   Marvells of Science,   the terrible   Saducismus Triumphatus  
 of Joseph Glanvill, published in 1681, the shocking   Daemonolatreia   of Remigius, printed
 in 1595 at Lyons, and worst of all, the unmentionable   Necronomicon   of the mad Arab Abdul
-Alhazred, in Olaus Wormius&rsquo; forbidden Latin translation; a book which I had never seen,
+Alhazred, in Olaus Wormius' forbidden Latin translation; a book which I had never seen,
 but of which I had heard monstrous things whispered. No one spoke to me, but I could hear the
 creaking of signs in the wind outside, and the whir of the wheel as the bonneted old woman continued
 her silent spinning, spinning. I thought the room and the books and the people very morbid and
@@ -106,7 +106,7 @@ I resolved to expect queer things. So I tried to read, and soon became trembling
 by something I found in that accursed   Necronomicon;   a thought and a legend too hideous
 for sanity or consciousness. But I disliked it when I fancied I heard the closing of one of
 the windows that the settle faced, as if it had been stealthily opened. It had seemed to follow
-a whirring that was not of the old woman&rsquo;s spinning-wheel. This was not much, though,
+a whirring that was not of the old woman's spinning-wheel. This was not much, though,
 for the old woman was spinning very hard, and the aged clock had been striking. After that I
 lost the feeling that there were persons on the settle, and was reading intently and shudderingly
 when the old man came back booted and dressed in a loose antique costume, and sat down on that
@@ -131,14 +131,14 @@ that seemed preternaturally soft, and pressed by chests and stomachs that seemed
 pulpy; but seeing never a face and hearing never a word. Up, up, up the eerie columns slithered,
 and I saw that all the travellers were converging as they flowed near a sort of focus of crazy
 alleys at the top of a high hill in the centre of the town, where perched a great white church.
-I had seen it from the road&rsquo;s crest when I looked at Kingsport in the new dusk, and it
+I had seen it from the road's crest when I looked at Kingsport in the new dusk, and it
 had made me shiver because Aldebaran had seemed to balance itself a moment on the ghostly spire.  
 
   There was an open space around the church; partly a churchyard with spectral
 shafts, and partly a half-paved square swept nearly bare of snow by the wind, and lined with
 unwholesomely archaic houses having peaked roofs and overhanging gables. Death-fires danced
 over the tombs, revealing gruesome vistas, though queerly failing to cast any shadows. Past
-the churchyard, where there were no houses, I could see over the hill&rsquo;s summit and watch
+the churchyard, where there were no houses, I could see over the hill's summit and watch
 the glimmer of stars on the harbour, though the town was invisible in the dark. Only once in
 a while a lanthorn bobbed horribly through serpentine alleys on its way to overtake the throng
 that was now slipping speechlessly into the church. I waited till the crowd had oozed into the
@@ -156,7 +156,7 @@ pews to the trap-door of the vaults which yawned loathsomely open just before th
 were now squirming noiselessly in. I followed dumbly down the footworn steps and into the dank,
 suffocating crypt. The tail of that sinuous line of night-marchers seemed very horrible, and
 as I saw them wriggling into a venerable tomb they seemed more horrible still. Then I noticed
-that the tomb&rsquo;s floor had an aperture down which the throng was sliding, and in a moment
+that the tomb's floor had an aperture down which the throng was sliding, and in a moment
 we were all descending an ominous staircase of rough-hewn stone; a narrow spiral staircase damp
 and peculiarly odorous, that wound endlessly down into the bowels of the hill past monotonous
 walls of dripping stone blocks and crumbling mortar. It was a silent, shocking descent, and
@@ -173,14 +173,14 @@ subterraneous evil.
 of sunless waters. Again I shivered, for I did not like the things that the night had brought,
 and wished bitterly that no forefather had summoned me to this primal rite. As the steps and
 the passage grew broader, I heard another sound, the thin, whining mockery of a feeble flute;
-and suddenly there spread out before me the boundless vista of an inner world&mdash;a vast fungous
+and suddenly there spread out before me the boundless vista of an inner world--a vast fungous
 shore litten by a belching column of sick greenish flame and washed by a wide oily river that
 flowed from abysses frightful and unsuspected to join the blackest gulfs of immemorial ocean.  
 
   Fainting and gasping, I looked at that unhallowed Erebus of titan toadstools,
 leprous fire, and slimy water, and saw the cloaked throngs forming a semicircle around the blazing
 pillar. It was the Yule-rite, older than man and fated to survive him; the primal rite of the
-solstice and of spring&rsquo;s promise beyond the snows; the rite of fire and evergreen, light
+solstice and of spring's promise beyond the snows; the rite of fire and evergreen, light
 and music. And in the Stygian grotto I saw them do the rite, and adore the sick pillar of flame,
 and throw into the water handfuls gouged out of the viscous vegetation which glittered green
 in the chlorotic glare. I saw this, and I saw something amorphously squatted far away from the
@@ -227,10 +227,10 @@ in his face, but I only shuddered, because I was sure that the face was merely a
 mask. The flopping animals were now scratching restlessly at the lichens, and I saw that the
 old man was nearly as restless himself. When one of the things began to waddle and edge away,
 he turned quickly to stop it; so that the suddenness of his motion dislodged the waxen mask
-from what should have been his head. And then, because that nightmare&rsquo;s position barred
+from what should have been his head. And then, because that nightmare's position barred
 me from the stone staircase down which we had come, I flung myself into the oily underground
 river that bubbled somewhere to the caves of the sea; flung myself into that putrescent juice
-of earth&rsquo;s inner horrors before the madness of my screams could bring down upon me all
+of earth's inner horrors before the madness of my screams could bring down upon me all
 the charnel legions these pest-gulfs might conceal.  
 
   At the hospital they told me I had been found half frozen in Kingsport Harbour
@@ -240,25 +240,25 @@ a thing they deduced from prints found in the snow. There was nothing I could sa
 was wrong. Everything was wrong, with the broad window shewing a sea of roofs in which only
 about one in five was ancient, and the sound of trolleys and motors in the streets below. They
 insisted that this was Kingsport, and I could not deny it. When I went delirious at hearing
-that the hospital stood near the old churchyard on Central Hill, they sent me to St. Mary&rsquo;s
+that the hospital stood near the old churchyard on Central Hill, they sent me to St. Mary's
 Hospital in Arkham, where I could have better care. I liked it there, for the doctors were broad-minded,
-and even lent me their influence in obtaining the carefully sheltered copy of Alhazred&rsquo;s
+and even lent me their influence in obtaining the carefully sheltered copy of Alhazred's
 objectionable   Necronomicon   from the library of Miskatonic University. They said something
-about a &ldquo;psychosis&rdquo;, and agreed I had better get any harassing obsessions off my
+about a  "psychosis ", and agreed I had better get any harassing obsessions off my
 mind.  
 
   So I read again that hideous chapter, and shuddered doubly because it was indeed
 not new to me. I had seen it before, let footprints tell what they might; and where it was I
-had seen it were best forgotten. There was no one&mdash;in waking hours&mdash;who could remind
+had seen it were best forgotten. There was no one--in waking hours--who could remind
 me of it; but my dreams are filled with terror, because of phrases I dare not quote. I dare
 quote only one paragraph, put into such English as I can make from the awkward Low Latin.  
 
-  &ldquo;The nethermost caverns,&rdquo; wrote the mad Arab, &ldquo;are not for the fathoming of
+   "The nethermost caverns, " wrote the mad Arab,  "are not for the fathoming of
 eyes that see; for their marvels are strange and terrific. Cursed the ground where dead thoughts
 live new and oddly bodied, and evil the mind that is held by no head. Wisely did Ibn Schacabao
 say, that happy is the tomb where no wizard hath lain, and happy the town at night whose wizards
 are all ashes. For it is of old rumour that the soul of the devil-bought hastes not from his
 charnel clay, but fats and instructs   the very worm that gnaws;   till out of corruption
 horrid life springs, and the dull scavengers of earth wax crafty to vex it and swell monstrous
-to plague it. Great holes secretly are digged where earth&rsquo;s pores ought to suffice, and
-things have learnt to walk that ought to crawl.&rdquo;    
+to plague it. Great holes secretly are digged where earth's pores ought to suffice, and
+things have learnt to walk that ought to crawl. "    

@@ -9,8 +9,8 @@
 
 Life is a hideous thing, and from the background behind what we know of it peer daemoniacal
 hints of truth which make it sometimes a thousandfold more hideous. Science, already oppressive
-with its shocking revelations, will perhaps be the ultimate exterminator of our human species&mdash;if
-separate species we be&mdash;for its reserve of unguessed horrors could never be borne by mortal
+with its shocking revelations, will perhaps be the ultimate exterminator of our human species--if
+separate species we be--for its reserve of unguessed horrors could never be borne by mortal
 brains if loosed upon the world. If we knew what we are, we should do as Sir Arthur Jermyn did;
 and Arthur Jermyn soaked himself in oil and set fire to his clothing one night. No one placed
 the charred fragments in an urn or set a memorial to him who had been; for certain papers and
@@ -32,8 +32,8 @@ fearless explorer had been placed in a madhouse at Huntingdon.
   Madness was in all the Jermyns, and people were glad there were not many of
 them. The line put forth no branches, and Arthur was the last of it. If he had not been, one
 cannot say what he would have done when the   object   came. The Jermyns never seemed to
-look quite right&mdash;something was amiss, though Arthur was the worst, and the old family
-portraits in Jermyn House shewed fine faces enough before Sir Wade&rsquo;s time. Certainly,
+look quite right--something was amiss, though Arthur was the worst, and the old family
+portraits in Jermyn House shewed fine faces enough before Sir Wade's time. Certainly,
 the madness began with Sir Wade, whose wild stories of Africa were at once the delight and terror
 of his few friends. It shewed in his collection of trophies and specimens, which were not such
 as a normal man would accumulate and preserve, and appeared strikingly in the Oriental seclusion
@@ -53,20 +53,20 @@ for a man of learning to talk about wild sights and strange scenes under a Congo
 gigantic walls and pillars of a forgotten city, crumbling and vine-grown, and of damp, silent,
 stone steps leading interminably down into the darkness of abysmal treasure-vaults and inconceivable
 catacombs. Especially was it unwise to rave of the living things that might haunt such a place;
-of creatures half of the jungle and half of the impiously aged city&mdash;fabulous creatures
+of creatures half of the jungle and half of the impiously aged city--fabulous creatures
 which even a Pliny might describe with scepticism; things that might have sprung up after the
 great apes had overrun the dying city with the walls and the pillars, the vaults and the weird
 carvings. Yet after he came home for the last time Sir Wade would speak of such matters with
-a shudderingly uncanny zest, mostly after his third glass at the Knight&rsquo;s Head; boasting
+a shudderingly uncanny zest, mostly after his third glass at the Knight's Head; boasting
 of what he had found in the jungle and of how he had dwelt among terrible ruins known only to
 him. And finally he had spoken of the living things in such a manner that he was taken to the
 madhouse. He had shewn little regret when shut into the barred room at Huntingdon, for his mind
 moved curiously. Ever since his son had commenced to grow out of infancy he had liked his home
-less and less, till at last he had seemed to dread it. The Knight&rsquo;s Head had been his
+less and less, till at last he had seemed to dread it. The Knight's Head had been his
 headquarters, and when he was confined he expressed some vague gratitude as if for protection.
 Three years later he died.  
 
-  Wade Jermyn&rsquo;s son Philip was a highly peculiar person. Despite a strong
+  Wade Jermyn's son Philip was a highly peculiar person. Despite a strong
 physical resemblance to his father, his appearance and conduct were in many particulars so coarse
 that he was universally shunned. Though he did not inherit the madness which was feared by some,
 he was densely stupid and given to brief periods of uncontrollable violence. In frame he was
@@ -93,10 +93,10 @@ who was one day to be the father of Arthur Jermyn.
 
   Friends said that it was this series of griefs which unhinged the mind of Sir
 Robert Jermyn, yet it was probably merely a bit of African folklore which caused the disaster.
-The elderly scholar had been collecting legends of the Onga tribes near the field of his grandfather&rsquo;s
-and his own explorations, hoping in some way to account for Sir Wade&rsquo;s wild tales of a
+The elderly scholar had been collecting legends of the Onga tribes near the field of his grandfather's
+and his own explorations, hoping in some way to account for Sir Wade's wild tales of a
 lost city peopled by strange hybrid creatures. A certain consistency in the strange papers of
-his ancestor suggested that the madman&rsquo;s imagination might have been stimulated by native
+his ancestor suggested that the madman's imagination might have been stimulated by native
 myths. On October 19, 1852, the explorer Samuel Seaton called at Jermyn House with a manuscript
 of notes collected among the Ongas, believing that certain legends of a grey city of white apes
 ruled by a white god might prove valuable to the ethnologist. In his conversation he probably
@@ -105,7 +105,7 @@ of tragedies suddenly burst into being. When Sir Robert Jermyn emerged from his 
 behind the strangled corpse of the explorer, and before he could be restrained, had put an end
 to all three of his children; the two who were never seen, and the son who had run away. Nevil
 Jermyn died in the successful defence of his own two-year-old son, who had apparently been included
-in the old man&rsquo;s madly murderous scheme. Sir Robert himself, after repeated attempts at
+in the old man's madly murderous scheme. Sir Robert himself, after repeated attempts at
 suicide and a stubborn refusal to utter any articulate sound, died of apoplexy in the second
 year of his confinement.  
 
@@ -119,8 +119,8 @@ the two would eye each other for long periods through the intervening bars. Even
 asked and obtained permission to train the animal, astonishing audiences and fellow-performers
 alike with his success. One morning in Chicago, as the gorilla and Alfred Jermyn were rehearsing
 an exceedingly clever boxing match, the former delivered a blow of more than usual force, hurting
-both the body and dignity of the amateur trainer. Of what followed, members of &ldquo;The Greatest
-Show on Earth&rdquo; do not like to speak. They did not expect to hear Sir Alfred Jermyn emit
+both the body and dignity of the amateur trainer. Of what followed, members of  "The Greatest
+Show on Earth " do not like to speak. They did not expect to hear Sir Alfred Jermyn emit
 a shrill, inhuman scream, or to see him seize his clumsy antagonist with both hands, dash it
 to the floor of the cage, and bite fiendishly at its hairy throat. The gorilla was off its guard,
 but not for long, and before anything could be done by the regular trainer the body which had
@@ -131,15 +131,15 @@ belonged to a baronet was past recognition.
 Arthur Jermyn was the son of Sir Alfred Jermyn and a music-hall singer of unknown
 origin. When the husband and father deserted his family, the mother took the child to Jermyn
 House; where there was none left to object to her presence. She was not without notions of what
-a nobleman&rsquo;s dignity should be, and saw to it that her son received the best education
+a nobleman's dignity should be, and saw to it that her son received the best education
 which limited money could provide. The family resources were now sadly slender, and Jermyn House
 had fallen into woeful disrepair, but young Arthur loved the old edifice and all its contents.
 He was not like any other Jermyn who had ever lived, for he was a poet and a dreamer. Some of
-the neighbouring families who had heard tales of old Sir Wade Jermyn&rsquo;s unseen Portuguese
+the neighbouring families who had heard tales of old Sir Wade Jermyn's unseen Portuguese
 wife declared that her Latin blood must be shewing itself; but most persons merely sneered at
 his sensitiveness to beauty, attributing it to his music-hall mother, who was socially unrecognised.
 The poetic delicacy of Arthur Jermyn was the more remarkable because of his uncouth personal
-appearance. Most of the Jermyns had possessed a subtly odd and repellent cast, but Arthur&rsquo;s
+appearance. Most of the Jermyns had possessed a subtly odd and repellent cast, but Arthur's
 case was very striking. It is hard to say just what he resembled, but his expression, his facial
 angle, and the length of his arms gave a thrill of repulsion to those who met him for the first
 time.  
@@ -150,7 +150,7 @@ fame of his family. Though of poetic rather than scientific temperament, he plan
 the work of his forefathers in African ethnology and antiquities, utilising the truly wonderful
 though strange collection of Sir Wade. With his fanciful mind he thought often of the prehistoric
 civilisation in which the mad explorer had so implicitly believed, and would weave tale after
-tale about the silent jungle city mentioned in the latter&rsquo;s wilder notes and paragraphs.
+tale about the silent jungle city mentioned in the latter's wilder notes and paragraphs.
 For the nebulous utterances concerning a nameless, unsuspected race of jungle hybrids he had
 a peculiar feeling of mingled terror and attraction; speculating on the possible basis of such
 a fancy, and seeking to obtain light among the more recent data gleaned by his great-grandfather
@@ -166,7 +166,7 @@ legends. This ancient confirmed every tale which Jermyn had heard, adding his ow
 the stone city and the white apes as it had been told to him.  
 
   According to Mwanu, the grey city and the hybrid creatures were no more, having
-been annihilated by the warlike N&rsquo;bangus many years ago. This tribe, after destroying
+been annihilated by the warlike N'bangus many years ago. This tribe, after destroying
 most of the edifices and killing the live beings, had carried off the stuffed goddess which
 had been the object of their quest; the white ape-goddess which the strange beings worshipped,
 and which was held by Congo tradition to be the form of one who had reigned as a princess among
@@ -181,9 +181,9 @@ death of the princess her divine husband had mummified the body and enshrined it
 of stone, where it was worshipped. Then he had departed alone. The legend here seemed to present
 three variants. According to one story nothing further happened save that the stuffed goddess
 became a symbol of supremacy for whatever tribe might possess it. It was for this reason that
-the N&rsquo;bangus carried it off. A second story told of the god&rsquo;s return and death at
-the feet of his enshrined wife. A third told of the return of the son, grown to manhood&mdash;or
-apehood or godhood, as the case might be&mdash;yet unconscious of his identity. Surely the imaginative
+the N'bangus carried it off. A second story told of the god's return and death at
+the feet of his enshrined wife. A third told of the return of the son, grown to manhood--or
+apehood or godhood, as the case might be--yet unconscious of his identity. Surely the imaginative
 blacks had made the most of whatever events might lie behind the extravagant legendry.  
 
   Of the reality of the jungle city described by old Sir Wade, Arthur Jermyn
@@ -195,23 +195,23 @@ the system of vaults which Sir Wade had mentioned. The white apes and the stuffe
 discussed with all the native chiefs of the region, but it remained for a European to improve
 on the data offered by old Mwanu. M. Verhaeren, Belgian agent at a trading-post on the Congo,
 believed that he could not only locate but obtain the stuffed goddess, of which he had vaguely
-heard; since the once mighty N&rsquo;bangus were now the submissive servants of King Albert&rsquo;s
+heard; since the once mighty N'bangus were now the submissive servants of King Albert's
 government, and with but little persuasion could be induced to part with the gruesome deity
 they had carried off. When Jermyn sailed for England, therefore, it was with the exultant probability
 that he would within a few months receive a priceless ethnological relic confirming the wildest
-of his great-great-great-grandfather&rsquo;s narratives&mdash;that is, the wildest which he
+of his great-great-great-grandfather's narratives--that is, the wildest which he
 had ever heard. Countrymen near Jermyn House had perhaps heard wilder tales handed down from
-ancestors who had listened to Sir Wade around the tables of the Knight&rsquo;s Head.  
+ancestors who had listened to Sir Wade around the tables of the Knight's Head.  
 
   Arthur Jermyn waited very patiently for the expected box from M. Verhaeren,
 meanwhile studying with increased diligence the manuscripts left by his mad ancestor. He began
-to feel closely akin to Sir Wade, and to seek relics of the latter&rsquo;s personal life in
+to feel closely akin to Sir Wade, and to seek relics of the latter's personal life in
 England as well as of his African exploits. Oral accounts of the mysterious and secluded wife
 had been numerous, but no tangible relic of her stay at Jermyn House remained. Jermyn wondered
-what circumstance had prompted or permitted such an effacement, and decided that the husband&rsquo;s
+what circumstance had prompted or permitted such an effacement, and decided that the husband's
 insanity was the prime cause. His great-great-great-grandmother, he recalled, was said to have
 been the daughter of a Portuguese trader in Africa. No doubt her practical heritage and superficial
-knowledge of the Dark Continent had caused her to flout Sir Wade&rsquo;s talk of the interior,
+knowledge of the Dark Continent had caused her to flout Sir Wade's talk of the interior,
 a thing which such a man would not be likely to forgive. She had died in Africa, perhaps dragged
 thither by a husband determined to prove what he had told. But as Jermyn indulged in these reflections
 he could not but smile at their futility, a century and a half after the death of both of his
@@ -222,10 +222,10 @@ the stuffed goddess. It was, the Belgian averred, a most extraordinary object; a
 beyond the power of a layman to classify. Whether it was human or simian only a scientist could
 determine, and the process of determination would be greatly hampered by its imperfect condition.
 Time and the Congo climate are not kind to mummies; especially when their preparation is as
-amateurish as seemed to be the case here. Around the creature&rsquo;s neck had been found a
-golden chain bearing an empty locket on which were armorial designs; no doubt some hapless traveller&rsquo;s
-keepsake, taken by the N&rsquo;bangus and hung upon the goddess as a charm. In commenting on
-the contour of the mummy&rsquo;s face, M. Verhaeren suggested a whimsical comparison; or rather,
+amateurish as seemed to be the case here. Around the creature's neck had been found a
+golden chain bearing an empty locket on which were armorial designs; no doubt some hapless traveller's
+keepsake, taken by the N'bangus and hung upon the goddess as a charm. In commenting on
+the contour of the mummy's face, M. Verhaeren suggested a whimsical comparison; or rather,
 expressed a humorous wonder just how it would strike his correspondent, but was too much interested
 scientifically to waste many words in levity. The stuffed goddess, he wrote, would arrive duly
 packed about a month after receipt of the letter.  
@@ -238,7 +238,7 @@ the family butler, is most ample and coherent. According to this trustworthy man
 Jermyn dismissed everyone from the room before opening the box, though the instant sound of
 hammer and chisel shewed that he did not delay the operation. Nothing was heard for some time;
 just how long Soames cannot exactly estimate; but it was certainly less than a quarter of an
-hour later that the horrible scream, undoubtedly in Jermyn&rsquo;s voice, was heard. Immediately
+hour later that the horrible scream, undoubtedly in Jermyn's voice, was heard. Immediately
 afterward Jermyn emerged from the room, rushing frantically toward the front of the house as
 if pursued by some hideous enemy. The expression on his face, a face ghastly enough in repose,
 was beyond description. When near the front door he seemed to think of something, and turned
@@ -251,14 +251,14 @@ moor surrounding the house. Then, in an exaltation of supreme horror, everyone s
 A spark appeared on the moor, a flame arose, and a pillar of human fire reached to the heavens.
 The house of Jermyn no longer existed.  
 
-  The reason why Arthur Jermyn&rsquo;s charred fragments were not collected and
+  The reason why Arthur Jermyn's charred fragments were not collected and
 buried lies in what was found afterward, principally the thing in the box. The stuffed goddess
 was a nauseous sight, withered and eaten away, but it was clearly a mummified white ape of some
-unknown species, less hairy than any recorded variety, and infinitely nearer mankind&mdash;quite
+unknown species, less hairy than any recorded variety, and infinitely nearer mankind--quite
 shockingly so. Detailed description would be rather unpleasant, but two salient particulars
-must be told, for they fit in revoltingly with certain notes of Sir Wade Jermyn&rsquo;s African
+must be told, for they fit in revoltingly with certain notes of Sir Wade Jermyn's African
 expeditions and with the Congolese legends of the white god and the ape-princess. The two particulars
-in question are these: the arms on the golden locket about the creature&rsquo;s neck were the
+in question are these: the arms on the golden locket about the creature's neck were the
 Jermyn arms, and the jocose suggestion of M. Verhaeren about a certain resemblance as connected
 with the shrivelled face applied with vivid, ghastly, and unnatural horror to none other than
 the sensitive Arthur Jermyn, great-great-great-grandson of Sir Wade Jermyn and an unknown wife.

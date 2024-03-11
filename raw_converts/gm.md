@@ -9,7 +9,7 @@
 
   INTRODUCTORY NOTE: The following very singular narrative or record of impressions
 was discovered under circumstances so extraordinary that they deserve careful description. On
-the evening of Wednesday, August 27, 1913, at about 8:30 o&rsquo;clock, the population of the
+the evening of Wednesday, August 27, 1913, at about 8:30 o'clock, the population of the
 small seaside village of Potowonket, Maine, U.S.A., was aroused by a thunderous report accompanied
 by a blinding flash; and persons near the shore beheld a mammoth ball of fire dart from the
 heavens into the sea but a short distance out, sending up a prodigious column of water. The
@@ -50,7 +50,7 @@ that no explanation can even be attempted. The text, as far as preserved, is her
 literally as our language permits, in the hope that some reader may eventually hit upon an interpretation
 and solve one of the greatest scientific mysteries of recent years.  
 
-  &mdash;E.N.B.&mdash;L.T., Jun.    
+  --E.N.B.--L.T., Jun.    
 
     (THE STORY)    
 
@@ -62,7 +62,7 @@ side was the forest, ancient almost as the sea itself, and stretching infinitely
 was very dark, for the trees were grotesquely huge and luxuriant, and incredibly numerous. Their
 giant trunks were of a horrible green which blended weirdly with the narrow green tract whereon
 I stood. At some distance away, on either side of me, the strange forest extended down to the
-water&rsquo;s edge; obliterating the shore line and completely hemming in the narrow tract. Some
+water's edge; obliterating the shore line and completely hemming in the narrow tract. Some
 of the trees, I observed, stood in the water itself; as though impatient of any barrier to their
 progress.  
 
@@ -77,13 +77,13 @@ things I had dreamed, things I had imagined and yearned for in some other distan
 of long nights when I had gazed up at the stars of heaven and cursed the gods that my free soul
 could not traverse the vast abysses which were inaccessible to my body. I conjured up ancient
 blasphemies, and terrible delvings into the papyri of Democritus; but as memories appeared,
-I shuddered in deeper fear, for I knew that I was alone&mdash;horribly alone. Alone, yet close
+I shuddered in deeper fear, for I knew that I was alone--horribly alone. Alone, yet close
 to sentient impulses of vast, vague kind; which I prayed never to comprehend nor encounter.
 In the voice of the swaying green branches I fancied I could detect a kind of malignant hatred
 and daemoniac triumph. Sometimes they struck me as being in horrible colloquy with ghastly and
 unthinkable things which the scaly green bodies of the trees half hid; hid from sight but not
 from consciousness. The most oppressive of my sensations was a sinister feeling of alienage.
-Though I saw about me objects which I could name&mdash;trees, grass, sea, and sky; I felt that
+Though I saw about me objects which I could name--trees, grass, sea, and sky; I felt that
 their relation to me was not the same as that of the trees, grass, sea, and sky I knew in another
 and dimly remembered life. The nature of the difference I could not tell, yet I shook in stark
 fright as it impressed itself upon me.  
@@ -122,7 +122,7 @@ toward this sound that my shrinking island was drifting, yet I was content.
 to view, yet shivered to behold. For in the sky dark vaporous forms hovered fantastically, brooding
 over trees and seeming to answer the challenge of the waving green branches. Then a thick mist
 arose from the sea to join the sky-forms, and the shore was erased from my sight. Though the
-sun&mdash;what sun I knew not&mdash;shone brightly on the water around me, the land I had left
+sun--what sun I knew not--shone brightly on the water around me, the land I had left
 seemed involved in a daemoniac tempest where clashed the will of the hellish trees and what
 they hid, with that of the sky and the sea. And when the mist vanished, I saw only the blue
 sky and the blue sea, for the land and the trees were no more.  
@@ -132,7 +132,7 @@ the Green Meadow. Hitherto, as I have said, I had encountered no sign of human l
 there arose to my ears a dull chant whose origin and nature were apparently unmistakable. While
 the words were utterly undistinguishable, the chant awaked in me a peculiar train of associations;
 and I was reminded of some vaguely disquieting lines I had once translated out of an Egyptian
-book, which in turn were taken from a papyrus of ancient Mero&euml;. Through my brain ran lines
+book, which in turn were taken from a papyrus of ancient Meroë. Through my brain ran lines
 that I fear to repeat; lines telling of very antique things and forms of life in the days when
 our earth was exceeding young. Of things which thought and moved and were alive, yet which gods
 and men would not consider alive. It was a strange book.  
@@ -158,8 +158,8 @@ some day tell them of my adventurings, even though I might never return.
 and distinct; but though I knew many languages I could not quite interpret the words of the
 chanting. Familiar they indeed were, as I had subtly felt when at a greater distance, but beyond
 a sensation of vague and awesome remembrance I could make nothing of them. A most extraordinary
-  quality   in the voices&mdash;a quality which I cannot describe&mdash;at once frightened
-and fascinated me. My eyes could now discern several things amidst the omnipresent verdure&mdash;rocks,
+  quality   in the voices--a quality which I cannot describe--at once frightened
+and fascinated me. My eyes could now discern several things amidst the omnipresent verdure--rocks,
 covered with bright green moss, shrubs of considerable height, and less definable shapes of
 great magnitude which seemed to move or vibrate amidst the shrubbery in a peculiar way. The
 chanting, whose authors I was so anxious to glimpse, seemed loudest at points where these shapes
@@ -169,12 +169,12 @@ were most numerous and most vigorously in motion.
 grew louder, I saw clearly the   source   of the chanting, and in one horrible instant remembered
 everything. Of such things I cannot, dare not tell, for therein was revealed the hideous solution
 of all which had puzzled me; and that solution would drive you mad, even as it almost drove
-me.&nbsp;.&nbsp;.&nbsp;. I knew now the change through which I had passed, and through which
+me. . . . I knew now the change through which I had passed, and through which
 certain others who once were men had passed! and I knew the endless cycle of the future which
-none like me may escape.&nbsp;.&nbsp;.&nbsp;. I shall live forever, be conscious forever, though
-my soul cries out to the gods for the boon of death and oblivion.&nbsp;.&nbsp;.&nbsp;. All is
+none like me may escape. . . . I shall live forever, be conscious forever, though
+my soul cries out to the gods for the boon of death and oblivion. . . . All is
 before me: beyond the deafening torrent lies the land of Stethelos, where young men are infinitely
-old.&nbsp;.&nbsp;.&nbsp;. The Green Meadow&nbsp;.&nbsp;.&nbsp;. I will send a message across
-the horrible immeasurable abyss.&nbsp;.&nbsp;.&nbsp;.  
+old. . . . The Green Meadow . . . I will send a message across
+the horrible immeasurable abyss. . . .  
 
     [  At this point the text becomes illegible.  ]    

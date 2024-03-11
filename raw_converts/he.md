@@ -20,9 +20,9 @@ golden clouds and the first stars of evening. Then it had lighted up window by w
 the shimmering tides where lanterns nodded and glided and deep horns bayed weird harmonies,
 and itself become a starry firmament of dream, redolent of faery music, and one with the marvels
 of Carcassonne and Samarcand and El Dorado and all glorious and half-fabulous cities. Shortly
-afterward I was taken through those antique ways so dear to my fancy&mdash;narrow, curving alleys
+afterward I was taken through those antique ways so dear to my fancy--narrow, curving alleys
 and passages where rows of red Georgian brick blinked with small-paned dormers above pillared
-doorways that had looked on gilded sedans and panelled coaches&mdash;and in the first flush
+doorways that had looked on gilded sedans and panelled coaches--and in the first flush
 of realisation of these long-wished things I thought I had indeed achieved such treasures as
 would make me in time a poet.  
 
@@ -36,7 +36,7 @@ steeples in his heart.
 
   So instead of the poems I had hoped for, there came only a shuddering blankness
 and ineffable loneliness; and I saw at last a fearful truth which no one had ever dared to breathe
-before&mdash;the unwhisperable secret of secrets&mdash;the fact that this city of stone and
+before--the unwhisperable secret of secrets--the fact that this city of stone and
 stridor is not a sentient perpetuation of Old New York as London is of Old London and Paris
 of Old Paris, but that it is in fact quite dead, its sprawling body imperfectly embalmed and
 infested with queer animate things which have nothing to do with it as it was in life. Upon
@@ -47,7 +47,7 @@ and old white doorways remember the stalwart forms that once passed through them
 mode of relief I even wrote a few poems, and still refrained from going home to my people lest
 I seem to crawl back ignobly in defeat.  
 
-  Then, on a sleepless night&rsquo;s walk, I met the man. It was in a grotesque
+  Then, on a sleepless night's walk, I met the man. It was in a grotesque
 hidden courtyard of the Greenwich section, for there in my ignorance I had settled, having heard
 of the place as the natural home of poets and artists. The archaic lanes and houses and unexpected
 bits of square and court had indeed delighted me, and when I found the poets and artists to
@@ -83,7 +83,7 @@ local information profoundly deeper than any which an obvious newcomer could pos
   As he spoke, I caught a glimpse of his face in the yellow beam from a solitary
 attic window. It was a noble, even a handsome, elderly countenance; and bore the marks of a
 lineage and refinement unusual for the age and place. Yet some quality about it disturbed me
-almost as much as its features pleased me&mdash;perhaps it was too white, or too expressionless,
+almost as much as its features pleased me--perhaps it was too white, or too expressionless,
 or too much out of keeping with the locality, to make me feel easy or comfortable. Nevertheless
 I followed him; for in those dreary days my quest for antique beauty and mystery was all that
 I had to keep my soul alive, and I reckoned it a rare favour of Fate to fall in with one whose
@@ -106,9 +106,9 @@ The street-lights we first encountered had been of oil, and of the ancient lozen
 Later I noticed some with candles; and at last, after traversing a horrible unlighted court
 where my guide had to lead with his gloved hand through total blackness to a narrow wooden gate
 in a high wall, we came upon a fragment of alley lit only by lanterns in front of every seventh
-house&mdash;unbelievably colonial tin lanterns with conical tops and holes punched in the sides.
-This alley led steeply uphill&mdash;more steeply than I thought possible in this part of New
-York&mdash;and the upper end was blocked squarely by the ivy-clad wall of a private estate,
+house--unbelievably colonial tin lanterns with conical tops and holes punched in the sides.
+This alley led steeply uphill--more steeply than I thought possible in this part of New
+York--and the upper end was blocked squarely by the ivy-clad wall of a private estate,
 beyond which I could see a pale cupola, and the tops of trees waving against a vague lightness
 in the sky. In this wall was a small, low-arched gate of nail-studded black oak, which the man
 proceeded to unlock with a ponderous key. Leading me within, he steered a course in utter blackness
@@ -140,7 +140,7 @@ of my original disquiet. When he spoke at length, his soft, hollow, and carefull
 not infrequently quavered; and now and then I had great difficulty in following him as I listened
 with a thrill of amazement and half-disavowed alarm which grew each instant.  
 
-  &ldquo;You behold, Sir,&rdquo; my host began, &ldquo;a man of very eccentrical
+   "You behold, Sir, " my host began,  "a man of very eccentrical
 habits, for whose costume no apology need be offered to one with your wit and inclinations.
 Reflecting upon better times, I have not scrupled to ascertain their ways and adopt their dress
 and manners; an indulgence which offends none if practiced without ostentation. It hath been
@@ -151,44 +151,44 @@ remiss in discharging such obligations. The squire who succeeded to it in 1768 s
 arts and made sartain discoveries, all connected with influences residing in this particular
 plot of ground, and eminently desarving of the strongest guarding. Some curious effects of these
 arts and discoveries I now purpose to shew you, under the strictest secrecy; and I believe I
-may rely on my judgment of men enough to have no distrust of either your interest or your fidelity.&rdquo;  
+may rely on my judgment of men enough to have no distrust of either your interest or your fidelity. "  
 
   He paused, but I could only nod my head. I have said that I was alarmed, yet
 to my soul nothing was more deadly than the material daylight world of New York, and whether
 this man were a harmless eccentric or a wielder of dangerous arts I had no choice save to follow
 him and slake my sense of wonder on whatever he might have to offer. So I listened.  
 
-  &ldquo;To&mdash;my ancestor&mdash;&rdquo; he softly continued, &ldquo;there
+   "To--my ancestor-- " he softly continued,  "there
 appeared to reside some very remarkable qualities in the will of mankind; qualities having a
-little-suspected dominance not only over the acts of one&rsquo;s self and of others, but over
+little-suspected dominance not only over the acts of one's self and of others, but over
 every variety of force and substance in Nature, and over many elements and dimensions deemed
 more univarsal than Nature herself. May I say that he flouted the sanctity of things as great
 as space and time, and that he put to strange uses the rites of sartain half-breed red Indians
 once encamped upon this hill? These Indians shewed choler when the place was built, and were
 plaguy pestilent in asking to visit the grounds at the full of the moon. For years they stole
-over the wall each month when they could, and by stealth performed sartain acts. Then, in &rsquo;68,
+over the wall each month when they could, and by stealth performed sartain acts. Then, in '68,
 the new squire catched them at their doings, and stood still at what he saw. Thereafter he bargained
 with them and exchanged the free access of his grounds for the exact inwardness of what they
 did; larning that their grandfathers got part of their custom from red ancestors and part from
-an old Dutchman in the time of the States-General. And pox on him, I&rsquo;m afeared the squire
-must have sarved them monstrous bad rum&mdash;whether or not by intent&mdash;for a week after
+an old Dutchman in the time of the States-General. And pox on him, I'm afeared the squire
+must have sarved them monstrous bad rum--whether or not by intent--for a week after
 he larnt the secret he was the only man living that knew it. You, Sir, are the first outsider
-to be told there is a secret, and split me if I&rsquo;d have risked tampering that much with&mdash;the
-powers&mdash;had ye not been so hot after bygone things.&rdquo;  
+to be told there is a secret, and split me if I'd have risked tampering that much with--the
+powers--had ye not been so hot after bygone things. "  
 
-  I shuddered as the man grew colloquial&mdash;and with familiar speech of another
+  I shuddered as the man grew colloquial--and with familiar speech of another
 day. He went on.  
 
-  &ldquo;But you must know, Sir, that what&mdash;the squire&mdash;got from those
+   "But you must know, Sir, that what--the squire--got from those
 mongrel salvages was but a small part of the larning he came to have. He had not been at Oxford
 for nothing, nor talked to no account with an ancient chymist and astrologer in Paris. He was,
 in fine, made sensible that all the world is but the smoke of our intellects; past the bidding
 of the vulgar, but by the wise to be puffed out and drawn in like any cloud of prime Virginia
-tobacco. What we want, we may make about us; and what we don&rsquo;t want, we may sweep away.
-I won&rsquo;t say that all this is wholly true in body, but &rsquo;tis sufficient true to furnish
+tobacco. What we want, we may make about us; and what we don't want, we may sweep away.
+I won't say that all this is wholly true in body, but 'tis sufficient true to furnish
 a very pretty spectacle now and then. You, I conceive, would be tickled by a better sight of
 sartain other years than your fancy affords you; so be pleased to hold back any fright at what
-I design to shew. Come to the window and be quiet.&rdquo;  
+I design to shew. Come to the window and be quiet. "  
 
   My host now took my hand to draw me to one of the two windows on the long side
 of the malodorous room, and at the first touch of his ungloved fingers I turned cold. His flesh,
@@ -196,50 +196,50 @@ though dry and firm, was of the quality of ice; and I almost shrank away from hi
 again I thought of the emptiness and horror of reality, and boldly prepared to follow whithersoever
 I might be led. Once at the window, the man drew apart the yellow silk curtains and directed
 my stare into the blackness outside. For a moment I saw nothing save a myriad of tiny dancing
-lights, far, far before me. Then, as if in response to an insidious motion of my host&rsquo;s
+lights, far, far before me. Then, as if in response to an insidious motion of my host's
 hand, a flash of heat-lightning played over the scene, and I looked out upon a sea of luxuriant
-foliage&mdash;foliage unpolluted, and not the sea of roofs to be expected by any normal mind.
+foliage--foliage unpolluted, and not the sea of roofs to be expected by any normal mind.
 On my right the Hudson glittered wickedly, and in the distance ahead I saw the unhealthy shimmer
 of a vast salt marsh constellated with nervous fireflies. The flash died, and an evil smile
 illumined the waxy face of the aged necromancer.  
 
-  &ldquo;That was before my time&mdash;before the new squire&rsquo;s time. Pray
-let us try again.&rdquo;  
+   "That was before my time--before the new squire's time. Pray
+let us try again. "  
 
   I was faint, even fainter than the hateful modernity of that accursed city
 had made me.  
 
-  &ldquo;Good God!&rdquo; I whispered, &ldquo;can you do that for   any time?&rdquo;  
+   "Good God! " I whispered,  "can you do that for   any time? "  
 And as he nodded, and bared the black stumps of what had once been yellow fangs, I clutched
 at the curtains to prevent myself from falling. But he steadied me with that terrible, ice-cold
 claw, and once more made his insidious gesture.  
 
-  Again the lightning flashed&mdash;but this time upon a scene not wholly strange.
+  Again the lightning flashed--but this time upon a scene not wholly strange.
 It was Greenwich, the Greenwich that used to be, with here and there a roof or row of houses
 as we see it now, yet with lovely green lanes and fields and bits of grassy common. The marsh
 still glittered beyond, but in the farther distance I saw the steeples of what was then all
-of New York; Trinity and St. Paul&rsquo;s and the Brick Church dominating their sisters, and
+of New York; Trinity and St. Paul's and the Brick Church dominating their sisters, and
 a faint haze of wood smoke hovering over the whole. I breathed hard, but not so much from the
 sight itself as from the possibilities my imagination terrifiedly conjured up.  
 
-  &ldquo;Can you&mdash;dare you&mdash;go   far?&rdquo;   I spoke with awe,
+   "Can you--dare you--go   far? "   I spoke with awe,
 and I think he shared it for a second, but the evil grin returned.  
 
-    &ldquo;Far?   What I have seen would blast ye to a mad statue of stone!
-Back, back&mdash;forward,   forward  &mdash;look, ye puling lack-wit!&rdquo;  
+     "Far?   What I have seen would blast ye to a mad statue of stone!
+Back, back--forward,   forward  --look, ye puling lack-wit! "  
 
   And as he snarled the phrase under his breath he gestured anew; bringing to
 the sky a flash more blinding than either which had come before. For full three seconds I could
 glimpse that pandaemoniac sight, and in those seconds I saw a vista which will ever afterward
 torment me in dreams. I saw the heavens verminous with strange flying things, and beneath them
 a hellish black city of giant stone terraces with impious pyramids flung savagely to the moon,
-and devil-lights burning from unnumbered windows. And swarming loathsomely on a&euml;rial galleries
+and devil-lights burning from unnumbered windows. And swarming loathsomely on aërial galleries
 I saw the yellow, squint-eyed people of that city, robed horribly in orange and red, and dancing
 insanely to the pounding of fevered kettle-drums, the clatter of obscene crotala, and the maniacal
 moaning of muted horns whose ceaseless dirges rose and fell undulantly like the waves of an
 unhallowed ocean of bitumen.  
 
-  I saw this vista, I say, and heard as with the mind&rsquo;s ear the blasphemous
+  I saw this vista, I say, and heard as with the mind's ear the blasphemous
 domdaniel of cacophony which companioned it. It was the shrieking fulfilment of all the horror
 which that corpse-city had ever stirred in my soul, and forgetting every injunction to silence
 I screamed and screamed and screamed as my nerves gave way and the walls quivered about me.  
@@ -254,11 +254,11 @@ of a barefoot or skin-shod horde; and at last the cautious, purposeful rattling 
 latch that glowed in the feeble candlelight. The old man clawed and spat at me through the mouldy
 air, and barked things in his throat as he swayed with the yellow curtain he clutched.  
 
-  &ldquo;The full moon&mdash;damn ye&mdash;ye&nbsp;.&nbsp;.&nbsp;. ye yelping
-dog&mdash;ye called &rsquo;em, and they&rsquo;ve come for me! Moccasined feet&mdash;dead men&mdash;Gad
-sink ye, ye red devils, but I poisoned no rum o&rsquo; yours&mdash;han&rsquo;t I kept your pox-rotted
-magic safe?&mdash;ye swilled yourselves sick, curse ye, and ye must needs blame the squire&mdash;let
-go, you! Unhand that latch&mdash;I&rsquo;ve naught for ye here&mdash;&rdquo;  
+   "The full moon--damn ye--ye . . . ye yelping
+dog--ye called 'em, and they've come for me! Moccasined feet--dead men--Gad
+sink ye, ye red devils, but I poisoned no rum o' yours--han't I kept your pox-rotted
+magic safe?--ye swilled yourselves sick, curse ye, and ye must needs blame the squire--let
+go, you! Unhand that latch--I've naught for ye here-- "  
 
   At this point three slow and very deliberate raps shook the panels of the door,
 and a white foam gathered at the mouth of the frantic magician. His fright, turning to steely

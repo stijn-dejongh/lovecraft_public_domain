@@ -8,7 +8,7 @@
   I.    
 
 In my tortured ears there sounds unceasingly a nightmare whirring and flapping, and a faint,
-distant baying as of some gigantic hound. It is not dream&mdash;it is not, I fear, even madness&mdash;for
+distant baying as of some gigantic hound. It is not dream--it is not, I fear, even madness--for
 too much has already happened to give me these merciful doubts. St. John is a mangled corpse;
 I alone know why, and such is my knowledge that I am about to blow out my brains for fear I
 shall be mangled in the same way. Down unlit and illimitable corridors of eldritch phantasy
@@ -24,7 +24,7 @@ the Decadents could hold us, and this we found potent only by increasing gradual
 and diabolism of our penetrations. Baudelaire and Huysmans were soon exhausted of thrills, till
 finally there remained for us only the more direct stimuli of unnatural personal experiences
 and adventures. It was this frightful emotional need which led us eventually to that detestable
-course which even in my present fear I mention with shame and timidity&mdash;that hideous extremity
+course which even in my present fear I mention with shame and timidity--that hideous extremity
 of human outrage, the abhorred practice of grave-robbing.  
 
   I cannot reveal the details of our shocking expeditions, or catalogue even
@@ -36,11 +36,11 @@ huge winged daemons carven of basalt and onyx vomited from wide grinning mouths 
 and orange light, and hidden pneumatic pipes ruffled into kaleidoscopic dances of death the
 lines of red charnel things hand in hand woven in voluminous black hangings. Through these pipes
 came at will the odours our moods most craved; sometimes the scent of pale funeral lilies, sometimes
-the narcotic incense of imagined Eastern shrines of the kingly dead, and sometimes&mdash;how
-I shudder to recall it!&mdash;the frightful, soul-upheaving stenches of the uncovered grave.  
+the narcotic incense of imagined Eastern shrines of the kingly dead, and sometimes--how
+I shudder to recall it!--the frightful, soul-upheaving stenches of the uncovered grave.  
 
   Around the walls of this repellent chamber were cases of antique mummies alternating
-with comely, life-like bodies perfectly stuffed and cured by the taxidermist&rsquo;s art, and
+with comely, life-like bodies perfectly stuffed and cured by the taxidermist's art, and
 with headstones snatched from the oldest churchyards of the world. Niches here and there contained
 skulls of all shapes, and heads preserved in various stages of dissolution. There one might
 find the rotting, bald pates of famous noblemen, and the fresh and radiantly golden heads of
@@ -51,7 +51,7 @@ There were nauseous musical instruments, stringed, brass, and wood-wind, on whic
 I sometimes produced dissonances of exquisite morbidity and cacodaemoniacal ghastliness; whilst
 in a multitude of inlaid ebony cabinets reposed the most incredible and unimaginable variety
 of tomb-loot ever assembled by human madness and perversity. It is of this loot in particular
-that I must not speak&mdash;thank God I had the courage to destroy it long before I thought
+that I must not speak--thank God I had the courage to destroy it long before I thought
 of destroying myself.  
 
   The predatory excursions on which we collected our unmentionable treasures
@@ -61,14 +61,14 @@ to us the most exquisite form of aesthetic expression, and we gave their details
 technical care. An inappropriate hour, a jarring lighting effect, or a clumsy manipulation of
 the damp sod, would almost totally destroy for us that ecstatic titillation which followed the
 exhumation of some ominous, grinning secret of the earth. Our quest for novel scenes and piquant
-conditions was feverish and insatiate&mdash;St. John was always the leader, and he it was who
+conditions was feverish and insatiate--St. John was always the leader, and he it was who
 led the way at last to that mocking, that accursed spot which brought us our hideous and inevitable
 doom.  
 
   By what malign fatality were we lured to that terrible Holland churchyard?
 I think it was the dark rumour and legendry, the tales of one buried for five centuries, who
 had himself been a ghoul in his time and had stolen a potent thing from a mighty sepulchre.
-I can recall the scene in these final moments&mdash;the pale autumnal moon over the graves,
+I can recall the scene in these final moments--the pale autumnal moon over the graves,
 casting long horrible shadows; the grotesque trees, drooping sullenly to meet the neglected
 grass and the crumbling slabs; the vast legions of strangely colossal bats that flew against
 the moon; the antique ivied church pointing a huge spectral finger at the livid sky; the phosphorescent
@@ -79,7 +79,7 @@ we could neither see nor definitely place. As we heard this suggestion of baying
 remembering the tales of the peasantry; for he whom we sought had centuries before been found
 in this selfsame spot, torn and mangled by the claws and teeth of some unspeakable beast.  
 
-  I remembered how we delved in this ghoul&rsquo;s grave with our spades, and
+  I remembered how we delved in this ghoul's grave with our spades, and
 how we thrilled at the picture of ourselves, the grave, the pale watching moon, the horrible
 shadows, the grotesque trees, the titanic bats, the antique church, the dancing death-fires,
 the sickening odours, the gently moaning night-wind, and the strange, half-heard, directionless
@@ -88,16 +88,16 @@ than the damp mould, and beheld a rotting oblong box crusted with mineral deposi
 long undisturbed ground. It was incredibly tough and thick, but so old that we finally pried
 it open and feasted our eyes on what it held.  
 
-  Much&mdash;amazingly much&mdash;was left of the object despite the lapse of
+  Much--amazingly much--was left of the object despite the lapse of
 five hundred years. The skeleton, though crushed in places by the jaws of the thing that had
 killed it, held together with surprising firmness, and we gloated over the clean white skull
 and its long, firm teeth and its eyeless sockets that once had glowed with a charnel fever like
 our own. In the coffin lay an amulet of curious and exotic design, which had apparently been
-worn around the sleeper&rsquo;s neck. It was the oddly conventionalised figure of a crouching
+worn around the sleeper's neck. It was the oddly conventionalised figure of a crouching
 winged hound, or sphinx with a semi-canine face, and was exquisitely carved in antique Oriental
 fashion from a small piece of green jade. The expression on its features was repellent in the
 extreme, savouring at once of death, bestiality, and malevolence. Around the base was an inscription
-in characters which neither St. John nor I could identify; and on the bottom, like a maker&rsquo;s
+in characters which neither St. John nor I could identify; and on the bottom, like a maker's
 seal, was graven a grotesque and formidable skull.  
 
   Immediately upon beholding this amulet we knew that we must possess it; that
@@ -112,7 +112,7 @@ souls of those who vexed and gnawed at the dead.
 
   Seizing the green jade object, we gave a last glance at the bleached and cavern-eyed
 face of its owner and closed up the grave as we found it. As we hastened from that abhorrent
-spot, the stolen amulet in St. John&rsquo;s pocket, we thought we saw the bats descend in a
+spot, the stolen amulet in St. John's pocket, we thought we saw the bats descend in a
 body to the earth we had so lately rifled, as if seeking for some cursed and unholy nourishment.
 But the autumn moon shone weak and pale, and we could not be sure. So, too, as we sailed the
 next day away from Holland to our home, we thought we heard the faint distant baying of some
@@ -129,15 +129,15 @@ in the night, not only around the doors but around the windows also, upper as we
 Once we fancied that a large, opaque body darkened the library window when the moon was shining
 against it, and another time we thought we heard a whirring or flapping sound not far off. On
 each occasion investigation revealed nothing, and we began to ascribe the occurrences to imagination
-alone&mdash;that same curiously disturbed imagination which still prolonged in our ears the
+alone--that same curiously disturbed imagination which still prolonged in our ears the
 faint far baying we thought we had heard in the Holland churchyard. The jade amulet now reposed
 in a niche in our museum, and sometimes we burned strangely scented candles before it. We read
-much in Alhazred&rsquo;s   Necronomicon   about its properties, and about the relation of
-ghouls&rsquo; souls to the objects it symbolised; and were disturbed by what we read. Then terror
+much in Alhazred's   Necronomicon   about its properties, and about the relation of
+ghouls' souls to the objects it symbolised; and were disturbed by what we read. Then terror
 came.  
 
   On the night of September 24, 19&ndash;&ndash;, I heard a knock at my chamber
-door. Fancying it St. John&rsquo;s, I bade the knocker enter, but was answered only by a shrill
+door. Fancying it St. John's, I bade the knocker enter, but was answered only by a shrill
 laugh. There was no one in the corridor. When I aroused St. John from his sleep, he professed
 entire ignorance of the event, and became as worried as I. It was that night that the faint,
 distant baying over the moor became to us a certain and dreaded reality. Four days later, whilst
@@ -165,7 +165,7 @@ after dark from the distant railway station, was seized by some frightful carniv
 and torn to ribbons. His screams had reached the house, and I had hastened to the terrible scene
 in time to hear a whir of wings and see a vague black cloudy thing silhouetted against the rising
 moon. My friend was dying when I spoke to him, and he could not answer coherently. All he could
-do was to whisper, &ldquo;The amulet&mdash;that damned thing&mdash;.&rdquo; Then he collapsed,
+do was to whisper,  "The amulet--that damned thing--. " Then he collapsed,
 an inert mass of mangled flesh.  
 
   I buried him the next midnight in one of our neglected gardens, and mumbled
@@ -188,14 +188,14 @@ I knew that what had befallen St. John must soon befall me.
 What mercy I might gain by returning the thing to its silent, sleeping owner I knew not; but
 I felt that I must at least try any step conceivably logical. What the hound was, and why it
 pursued me, were questions still vague; but I had first heard the baying in that ancient churchyard,
-and every subsequent event including St. John&rsquo;s dying whisper had served to connect the
+and every subsequent event including St. John's dying whisper had served to connect the
 curse with the stealing of the amulet. Accordingly I sank into the nethermost abysses of despair
 when, at an inn in Rotterdam, I discovered that thieves had despoiled me of this sole means
 of salvation.  
 
   The baying was loud that evening, and in the morning I read of a nameless deed
 in the vilest quarter of the city. The rabble were in terror, for upon an evil tenement had
-fallen a red death beyond the foulest previous crime of the neighbourhood. In a squalid thieves&rsquo;
+fallen a red death beyond the foulest previous crime of the neighbourhood. In a squalid thieves'
 den an entire family had been torn to shreds by an unknown thing which left no trace, and those
 around had heard all night above the usual clamour of drunken voices a faint, deep, insistent
 note as of a gigantic hound.  
@@ -225,9 +225,9 @@ sardonic bay as of some gigantic hound, and I saw that it held in its gory, filt
 lost and fateful amulet of green jade, I merely screamed and ran away idiotically, my screams
 soon dissolving into peals of hysterical laughter.  
 
-  Madness rides the star-wind&nbsp;.&nbsp;.&nbsp;. claws and teeth sharpened
-on centuries of corpses&nbsp;.&nbsp;.&nbsp;. dripping death astride a Bacchanale of bats from
-night-black ruins of buried temples of Belial.&nbsp;.&nbsp;.&nbsp;. Now, as the baying of that
+  Madness rides the star-wind . . . claws and teeth sharpened
+on centuries of corpses . . . dripping death astride a Bacchanale of bats from
+night-black ruins of buried temples of Belial. . . . Now, as the baying of that
 dead, fleshless monstrosity grows louder and louder, and the stealthy whirring and flapping
 of those accursed web-wings circles closer and closer, I shall seek with my revolver the oblivion
 which is my only refuge from the unnamed and unnamable.  

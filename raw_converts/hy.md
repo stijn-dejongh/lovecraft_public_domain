@@ -7,16 +7,16 @@
 
     To S. L.    
 
-  &ldquo;Apropos of sleep, that sinister adventure of all our nights, we may say that
+   "Apropos of sleep, that sinister adventure of all our nights, we may say that
 men go to bed daily with an audacity that would be incomprehensible if we did not know that
-it is the result of ignorance of the danger.&rdquo;  
-  &mdash;Baudelaire.    
+it is the result of ignorance of the danger. "  
+  --Baudelaire.    
 
 May the merciful gods, if indeed there be such, guard those hours when no power of the will,
 or drug that the cunning of man devises, can keep me from the chasm of sleep. Death is merciful,
 for there is no return therefrom, but with him who has come back out of the nethermost chambers
 of night, haggard and knowing, peace rests nevermore. Fool that I was to plunge with such unsanctioned
-phrensy into mysteries no man was meant to penetrate; fool or god that   he   was&mdash;my
+phrensy into mysteries no man was meant to penetrate; fool or god that   he   was--my
 only friend, who led me and went before me, and who in the end passed into terrors which may
 yet be mine.  
 
@@ -27,41 +27,41 @@ of age, for there were deep lines in the face, wan and hollow-cheeked, but oval 
   beautiful;   and touches of grey in the thick, waving hair and small full beard which had
 once been of the deepest raven black. His brow was white as the marble of Pentelicus, and of
 a height and breadth almost godlike. I said to myself, with all the ardour of a sculptor, that
-this man was a faun&rsquo;s statue out of antique Hellas, dug from a temple&rsquo;s ruins and
+this man was a faun's statue out of antique Hellas, dug from a temple's ruins and
 brought somehow to life in our stifling age only to feel the chill and pressure of devastating
 years. And when he opened his immense, sunken, and wildly luminous black eyes I knew he would
-be thenceforth my only friend&mdash;the only friend of one who had never possessed a friend
-before&mdash;for I saw that such eyes must have looked fully upon the grandeur and the terror
+be thenceforth my only friend--the only friend of one who had never possessed a friend
+before--for I saw that such eyes must have looked fully upon the grandeur and the terror
 of realms beyond normal consciousness and reality; realms which I had cherished in fancy, but
 vainly sought. So as I drove the crowd away I told him he must come home with me and be my teacher
 and leader in unfathomed mysteries, and he assented without speaking a word. Afterward I found
-that his voice was music&mdash;the music of deep viols and of crystalline spheres. We talked
+that his voice was music--the music of deep viols and of crystalline spheres. We talked
 often in the night, and in the day, when I chiselled busts of him and carved miniature heads
 in ivory to immortalise his different expressions.  
 
   Of our studies it is impossible to speak, since they held so slight a connexion
 with anything of the world as living men conceive it. They were of that vaster and more appalling
 universe of dim entity and consciousness which lies deeper than matter, time, and space, and
-whose existence we suspect only in certain forms of sleep&mdash;those rare dreams beyond dreams
+whose existence we suspect only in certain forms of sleep--those rare dreams beyond dreams
 which come never to common men, and but once or twice in the lifetime of imaginative men. The
 cosmos of our waking knowledge, born from such an universe as a bubble is born from the pipe
 of a jester, touches it only as such a bubble may touch its sardonic source when sucked back
-by the jester&rsquo;s whim. Men of learning suspect it little, and ignore it mostly. Wise men
+by the jester's whim. Men of learning suspect it little, and ignore it mostly. Wise men
 have interpreted dreams, and the gods have laughed. One man with Oriental eyes has said that
 all time and space are relative, and men have laughed. But even that man with Oriental eyes
 has done no more than suspect. I had wished and tried to do more than suspect, and my friend
 had tried and partly succeeded. Then we both tried together, and with exotic drugs courted terrible
 and forbidden dreams in the tower studio chamber of the old manor-house in hoary Kent.  
 
-  Among the agonies of these after days is that chief of torments&mdash;inarticulateness.
-What I learned and saw in those hours of impious exploration can never be told&mdash;for want
+  Among the agonies of these after days is that chief of torments--inarticulateness.
+What I learned and saw in those hours of impious exploration can never be told--for want
 of symbols or suggestions in any language. I say this because from first to last our discoveries
 partook only of the nature of   sensations;   sensations correlated with no impression which
 the nervous system of normal humanity is capable of receiving. They were sensations, yet within
-them lay unbelievable elements of time and space&mdash;things which at bottom possess no distinct
+them lay unbelievable elements of time and space--things which at bottom possess no distinct
 and definite existence. Human utterance can best convey the general character of our experiences
 by calling them   plungings   or   soarings;   for in every period of revelation some
-part of our minds broke boldly away from all that is real and present, rushing a&euml;rially
+part of our minds broke boldly away from all that is real and present, rushing aërially
 along shocking, unlighted, and fear-haunted abysses, and occasionally   tearing   through
 certain well-marked and typical obstacles describable only as viscous, uncouth clouds or vapours.
 In these black and bodiless flights we were sometimes alone and sometimes together. When we
@@ -73,13 +73,13 @@ its Olympian brow, and its shadowing hair and growth of beard.
   Of the progress of time we kept no record, for time had become to us the merest
 illusion. I know only that there must have been something very singular involved, since we came
 at length to marvel why we did not grow old. Our discourse was unholy, and always hideously
-ambitious&mdash;no god or daemon could have aspired to discoveries and conquests like those
+ambitious--no god or daemon could have aspired to discoveries and conquests like those
 which we planned in whispers. I shiver as I speak of them, and dare not be explicit; though
 I will say that my friend once wrote on paper a wish which he dared not utter with his tongue,
 and which made me burn the paper and look affrightedly out of the window at the spangled night
-sky. I will hint&mdash;only hint&mdash;that he had designs which involved the rulership of the
+sky. I will hint--only hint--that he had designs which involved the rulership of the
 visible universe and more; designs whereby the earth and the stars would move at his command,
-and the destinies of all living things be his. I affirm&mdash;I swear&mdash;that I had no share
+and the destinies of all living things be his. I affirm--I swear--that I had no share
 in these extreme aspirations. Anything my friend may have said or written to the contrary must
 be erroneous, for I am no man of strength to risk the unmentionable warfare in unmentionable
 spheres by which alone one might achieve success.  
@@ -113,8 +113,8 @@ his wisdom that we must sleep as little as possible, even if drugs were necessar
 awake. That he was right, I soon learned from the unutterable fear which engulfed me whenever
 consciousness lapsed. After each short and inevitable sleep I seemed older, whilst my friend
 aged with a rapidity almost shocking. It is hideous to see wrinkles form and hair whiten almost
-before one&rsquo;s eyes. Our mode of life was now totally altered. Heretofore a recluse so far
-as I know&mdash;his true name and origin never having passed his lips&mdash;my friend now became
+before one's eyes. Our mode of life was now totally altered. Heretofore a recluse so far
+as I know--his true name and origin never having passed his lips--my friend now became
 frantic in his fear of solitude. At night he would not be alone, nor would the company of a
 few persons calm him. His sole relief was obtained in revelry of the most general and boisterous
 sort; so that few assemblies of the young and the gay were unknown to us. Our appearance and
@@ -122,13 +122,13 @@ age seemed to excite in most cases a ridicule which I keenly resented, but which
 a lesser evil than solitude. Especially was he afraid to be out of doors alone when the stars
 were shining, and if forced to this condition he would often glance furtively at the sky as
 if hunted by some monstrous thing therein. He did not always glance at the same place in the
-sky&mdash;it seemed to be a different place at different times. On spring evenings it would
+sky--it seemed to be a different place at different times. On spring evenings it would
 be low in the northeast. In the summer it would be nearly overhead. In the autumn it would be
 in the northwest. In winter it would be in the east, but mostly if in the small hours of morning.
 Midwinter evenings seemed least dreadful to him. Only after two years did I connect this fear
 with anything in particular; but then I began to see that he must be looking at a special spot
 on the celestial vault whose position at different times corresponded to the direction of his
-glance&mdash;a spot roughly marked by the constellation Corona Borealis.  
+glance--a spot roughly marked by the constellation Corona Borealis.  
 
   We now had a studio in London, never separating, but never discussing the days
 when we had sought to plumb the mysteries of the unreal world. We were aged and weak from our
@@ -138,23 +138,23 @@ than an hour or two at a time to the shadow which had now grown so frightful a m
 came one January of fog and rain, when money ran low and drugs were hard to buy. My statues
 and ivory heads were all sold, and I had no means to purchase new materials, or energy to fashion
 them even had I possessed them. We suffered terribly, and on a certain night my friend sank
-into a deep-breathing sleep from which I could not awaken him. I can recall the scene now&mdash;the
+into a deep-breathing sleep from which I could not awaken him. I can recall the scene now--the
 desolate, pitch-black garret studio under the eaves with the rain beating down; the ticking
 of the lone clock; the fancied ticking of our watches as they rested on the dressing-table;
 the creaking of some swaying shutter in a remote part of the house; certain distant city noises
 muffled by fog and space; and worst of all the deep, steady, sinister breathing of my friend
-on the couch&mdash;a rhythmical breathing which seemed to measure moments of supernal fear and
+on the couch--a rhythmical breathing which seemed to measure moments of supernal fear and
 agony for his spirit as it wandered in spheres forbidden, unimagined, and hideously remote.  
 
   The tension of my vigil became oppressive, and a wild train of trivial impressions
-and associations thronged through my almost unhinged mind. I heard a clock strike somewhere&mdash;not
-ours, for that was not a striking clock&mdash;and my morbid fancy found in this a new starting-point
-for idle wanderings. Clocks&mdash;time&mdash;space&mdash;infinity&mdash;and then my fancy reverted
+and associations thronged through my almost unhinged mind. I heard a clock strike somewhere--not
+ours, for that was not a striking clock--and my morbid fancy found in this a new starting-point
+for idle wanderings. Clocks--time--space--infinity--and then my fancy reverted
 to the local as I reflected that even now, beyond the roof and the fog and the rain and the
 atmosphere, Corona Borealis was rising in the northeast. Corona Borealis, which my friend had
 appeared to dread, and whose scintillant semicircle of stars must even now be glowing unseen
 through the measureless abysses of aether. All at once my feverishly sensitive ears seemed to
-detect a new and wholly distinct component in the soft medley of drug-magnified sounds&mdash;a
+detect a new and wholly distinct component in the soft medley of drug-magnified sounds--a
 low and damnably insistent whine from very far away; droning, clamouring, mocking, calling,
   from the northeast.    
 
@@ -162,7 +162,7 @@ low and damnably insistent whine from very far away; droning, clamouring, mockin
 my soul such a seal of fright as may never in life be removed; not that which drew the shrieks
 and excited the convulsions which caused lodgers and police to break down the door. It was not
 what I   heard,   but what I   saw;   for in that dark, locked, shuttered, and curtained
-room there appeared from the black northeast corner a shaft of horrible red-gold light&mdash;a
+room there appeared from the black northeast corner a shaft of horrible red-gold light--a
 shaft which bore with it no glow to disperse the darkness, but which streamed only upon the
 recumbent head of the troubled sleeper, bringing out in hideous duplication the luminous and
 strangely youthful memory-face as I had known it in dreams of abysmal space and unshackled time,
@@ -174,7 +174,7 @@ eyes open in terror, and the thin, shadowed lips part as if for a scream too fri
 uttered. There dwelt in that ghastly and flexible face, as it shone bodiless, luminous, and
 rejuvenated in the blackness, more of stark, teeming, brain-shattering fear than all the rest
 of heaven and earth has ever revealed to me. No word was spoken amidst the distant sound that
-grew nearer and nearer, but as I followed the memory-face&rsquo;s mad stare along that cursed
+grew nearer and nearer, but as I followed the memory-face's mad stare along that cursed
 shaft of light to its source, the source whence also the whining came, I too saw for an instant
 what it saw, and fell with ringing ears in that fit of shrieking and epilepsy which brought
 the lodgers and the police. Never could I tell, try as I might, what it actually was that I
@@ -198,4 +198,4 @@ remains of my friend; the friend who led me on to madness and wreckage; a godlik
 marble as only old Hellas could yield, young with the youth that is outside time, and with beauteous
 bearded face, curved, smiling lips, Olympian brow, and dense locks waving and poppy-crowned.
 They say that that haunting memory-face is modelled from my own, as it was at twenty-five, but
-upon the marble base is carven a single name in the letters of Attica&mdash;  &rsquo;&Upsilon;&Pi;&Nu;&Omicron;&Sigma;.    
+upon the marble base is carven a single name in the letters of Attica--  '&Upsilon;&Pi;&Nu;&Omicron;&Sigma;.    

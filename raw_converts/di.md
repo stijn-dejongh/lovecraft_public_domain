@@ -6,8 +6,8 @@
   
 
 I awoke abruptly from a horrible dream and stared wildly about. Then, seeing the high, arched
-ceiling and the narrow stained windows of my friend&rsquo;s room, a flood of uneasy revelation
-coursed over me; and I knew that all of Andrew&rsquo;s hopes had been realized. I lay supine
+ceiling and the narrow stained windows of my friend's room, a flood of uneasy revelation
+coursed over me; and I knew that all of Andrew's hopes had been realized. I lay supine
 in a large bed, the posts of which reared upward in dizzy perspective; while on vast shelves
 about the chamber were the familiar books and antiques I was accustomed to seeing in that secluded
 corner of the crumbling and ancient mansion which had formed our joint home for many years.
@@ -17,9 +17,9 @@ ghostly luster in the dying light.
 
   I recalled forcibly the events preceding my confinement and seclusion in this
 veritable medieval fortress. They were not pleasant, and I shuddered anew when I remembered
-the couch that had held me before my tenancy of the present one&mdash;the couch that everyone
+the couch that had held me before my tenancy of the present one--the couch that everyone
 supposed would be my last. Memory burned afresh regarding those hideous circumstances which
-had compelled me to choose between a true death and a hypothetical one&mdash;with a later re-animation
+had compelled me to choose between a true death and a hypothetical one--with a later re-animation
 by therapeutic methods known only to my comrade, Marshall Andrews. The whole thing had begun
 when I returned from the Orient a year before and discovered, to my utter horror, that I had
 contracted leprosy while abroad. I had known that I was taking grave chances in caring for my
@@ -34,11 +34,11 @@ never faltered in his faith, taking care not to contract the dread scourge, but 
 life as pleasant and comfortable as possible. His widespread though somewhat sinister fame as
 a surgeon prevented any authority from discovering my plight and shipping me away.  
 
-  It was after nearly a year of this seclusion&mdash;late in August&mdash;that
-Andrews decided on a trip to the West Indies&mdash;to study &ldquo;native&rdquo; medical methods,
+  It was after nearly a year of this seclusion--late in August--that
+Andrews decided on a trip to the West Indies--to study  "native " medical methods,
 he said. I was left in care of venerable Simes, the household factotum. So far no outward signs
 of the disease had developed, and I enjoyed a tolerable though almost completely private existence
-during my colleague&rsquo;s absence. It was during this time that I read many of the tomes Andrews
+during my colleague's absence. It was during this time that I read many of the tomes Andrews
 had acquired in the course of his twenty years as a surgeon, and learned why his reputation,
 though locally of the highest, was just a bit shady. For the volumes included any number of
 fanciful subjects hardly related to modern medical knowledge: treatises and unauthoritative
@@ -54,8 +54,8 @@ when associated with his later experiments.
 four months later; and when he did arrive, I was quite anxious to see him, since my condition
 was at last on the brink of becoming noticeable. I had reached a point where I must seek absolute
 privacy to keep from being discovered. But my anxiety was slight as compared with his exuberance
-over a certain new plan he had hatched while in the Indies&mdash;a plan to be carried out with
-the aid of a curious drug he had learned of from a native &ldquo;doctor&rdquo; in Haiti. When
+over a certain new plan he had hatched while in the Indies--a plan to be carried out with
+the aid of a curious drug he had learned of from a native  "doctor " in Haiti. When
 he explained that his idea concerned me, I became somewhat alarmed; though in my position there
 could be little to make my plight worse. I had, indeed, considered more than once the oblivion
 that would come with a revolver or a plunge from the roof to the jagged rocks below.  
@@ -63,13 +63,13 @@ that would come with a revolver or a plunge from the roof to the jagged rocks be
   On the day after his arrival, in the seclusion of the dimly lit study, he outlined
 the whole grisly scheme. He had found in Haiti a drug, the formula for which he would develop
 later, which induced a state of profound sleep in anyone taking it; a trance so deep that death
-was closely counterfeited&mdash;with all muscular reflexes, even the respiration and heart-beat,
+was closely counterfeited--with all muscular reflexes, even the respiration and heart-beat,
 completely stilled for the time being. Andrews had, he said, seen it demonstrated on natives
 many times. Some of them remained somnolent for days at a time, wholly immobile and as much
 like death as death itself. This suspended animation, he explained further, would even pass
 the closest examination of any medical man. He himself, according to all known laws, would have
-to report as dead a man under the influence of such a drug. He stated, too, that the subject&rsquo;s
-body assumed the precise appearance of a corpse&mdash;even a slight   rigor mortis   developing
+to report as dead a man under the influence of such a drug. He stated, too, that the subject's
+body assumed the precise appearance of a corpse--even a slight   rigor mortis   developing
 in prolonged cases.  
 
   For some time his purpose did not seem wholly clear, but when the full import
@@ -82,8 +82,8 @@ they would fail to notice my leprosy symptoms, which in truth had hardly appeare
 over fifteen months had passed since I had caught the disease, whereas the corruption takes
 seven years to run its entire course.  
 
-  Later, he said, would come resurrection. After my interment in the family graveyard&mdash;beside
-my centuried dwelling and barely a quarter-mile from his own ancient pile&mdash;the appropriate
+  Later, he said, would come resurrection. After my interment in the family graveyard--beside
+my centuried dwelling and barely a quarter-mile from his own ancient pile--the appropriate
 steps would be taken. Finally, when my estate was settled and my decease widely known, he would
 secretly open the tomb and bring me to his own abode again, still alive and none the worse for
 my adventure. It seemed a ghastly and daring plan, but to me it offered the only hope for even
@@ -99,7 +99,7 @@ They must, however, have gone just as Andrews had planned, even to the subsequen
 for after the initial dose of the poison from Haiti I lapsed into a semi-paralytic state and
 from that to a profound, night-black sleep. The drug had been administered in my room, and Andrews
 had told me before giving it that he would recommend to the coroner a verdict of heart failure
-due to nerve strain. Of course, there was no embalming&mdash;Andrews saw to that&mdash;and the
+due to nerve strain. Of course, there was no embalming--Andrews saw to that--and the
 whole procedure, leading up to my secret transportation from the graveyard to his crumbling
 manor, covered a period of three days. Having been buried late in the afternoon of the third
 day, my body was secured by Andrews that very night. He had replaced the fresh sod just as it
@@ -108,7 +108,7 @@ task.
 
   Later I had lain for over a week in my old familiar bed. Owing to some unexpected
 effect of the drug, my whole body was completely paralyzed, so that I could move my head only
-slightly. All my senses, however, were fully alert, and by another week&rsquo;s time I was able
+slightly. All my senses, however, were fully alert, and by another week's time I was able
 to take nourishment in good quantities. Andrews explained that my body would gradually regain
 its former sensibilities; though owing to the presence of the leprosy it might take considerable
 time. He seemed greatly interested in analyzing my daily symptoms, and always asked if there
@@ -124,7 +124,7 @@ neck were quite alive and in good health.
 for the complete bodily paralysis; though my condition seemed to trouble him little considering
 the damnably intent interest he centered upon my reactions and stimuli from the very beginning.
 Many times during lulls in our conversation I would catch a strange gleam in his eyes as he
-viewed me on the couch&mdash;a glint of victorious exultation which, queerly enough, he never
+viewed me on the couch--a glint of victorious exultation which, queerly enough, he never
 voiced aloud; though he seemed to be quite glad that I had run the gauntlet of death and had
 come through alive. Still, there was that horror I was to meet in less than six years, which
 added to my desolation and melancholy during the tedious days in which I awaited the return
@@ -134,7 +134,7 @@ true and ghastly meaning until many days later.
 
   During that awful siege in bed Andrews and I became somewhat estranged. He
 no longer treated me so much like a friend as like an implement in his skilled and greedy fingers.
-I found him possessed of unexpected traits&mdash;little examples of baseness and cruelty, apparent
+I found him possessed of unexpected traits--little examples of baseness and cruelty, apparent
 even to the hardened Simes, which disturbed me in a most unusual manner. Often he would display
 extraordinary cruelty to live specimens in his laboratory, for he was constantly carrying on
 various hidden projects in glandular and muscular transplantation on guinea-pigs and rabbits.
@@ -148,7 +148,7 @@ Andrews and myself.
 my disabled body; and at the reviving symptoms Andrews took a fanatical interest in my case.
 He still seemed more coldly analytical than sympathetic toward me, taking my pulse and heart-beat
 with more than usual zeal. Occasionally, in his fevered examinations, I saw his hands tremble
-slightly&mdash;an uncommon sight with so skilled a surgeon&mdash;but he seemed oblivious of my
+slightly--an uncommon sight with so skilled a surgeon--but he seemed oblivious of my
 scrutiny. I was never allowed even a momentary glimpse of my full body, but with the feeble
 return of the sense of touch, I was aware of a bulk and heaviness which at first seemed awkward
 and unfamiliar.  
@@ -158,10 +158,10 @@ the paralysis came a new and terrible sensation of physical estrangement. My lim
 in following the commands of my mind, and every movement was jerky and uncertain. So clumsy
 were my hands, that I had to become accustomed to them all over again. This must, I thought,
 be due to my disease and the advance of the contagion in my system. Being unaware of how the
-early symptoms affected the victim (my brother&rsquo;s being a more advanced case), I had no
+early symptoms affected the victim (my brother's being a more advanced case), I had no
 means of judging; and since Andrews shunned the subject, I deemed it better to remain silent.  
 
-  One day I asked Andrews&mdash;I no longer considered him a friend&mdash;if I
+  One day I asked Andrews--I no longer considered him a friend--if I
 might try rising and sitting up in bed. At first he objected strenuously, but later, after cautioning
 me to keep the blankets well up around my chin so that I would not be chilled, he permitted
 it. This seemed strange, in view of the comfortable temperature. Now that late autumn was slowly
@@ -192,10 +192,10 @@ upon my unwelcome consciousness.
   By that time a slow plan was forming whereby I might escape the living hell
 into which I had been propelled. Andrews cared less and less about me, seeming intent only on
 my progress and growth and recovery of normal muscular reactions. I was becoming every day more
-convinced of the nefarious doings going on in that laboratory across the threshold&mdash;the
+convinced of the nefarious doings going on in that laboratory across the threshold--the
 animal cries were shocking, and rasped hideously on my overwrought nerves. And I was gradually
 beginning to think that Andrews had not saved me from deportation solely for my own benefit,
-but for some accursed reason of his own. Simes&rsquo;s attention was slowly becoming slighter
+but for some accursed reason of his own. Simes's attention was slowly becoming slighter
 and slighter, and I was convinced that the aged servitor had a hand in the deviltry somewhere.
 Andrews no longer eyed me as a friend, but as an object of experimentation; nor did I like the
 way he fingered his scalpel when he stood in the narrow doorway and stared at me with crafty
@@ -208,8 +208,8 @@ determination to free myself from his bondage as soon as possible.
 fast the days were passing. The curtains were often drawn in the daytime, the room being lit
 by waxen cylinders in the large candelabrum. It was a nightmare of living horror and unreality;
 though through it all I was gradually becoming stronger. I always gave careful responses to
-Andrews&rsquo; inquiries concerning my returning physical control, concealing the fact that a
-new life was vibrating through me with every passing day&mdash;an altogether strange sort of
+Andrews' inquiries concerning my returning physical control, concealing the fact that a
+new life was vibrating through me with every passing day--an altogether strange sort of
 strength, but one which I was counting on to serve me in the coming crisis.  
 
   Finally, one chilly evening when the candles had been extinguished, and a pale
@@ -235,31 +235,31 @@ the laboratory door.
 I was unable to make my way very rapidly. When I reached the threshold, a glance within revealed
 my former friend seated in a large overstuffed chair; while beside him was a smoking-stand upon
 which were assorted bottles and a glass. He reclined half-way in the moonlight through the large
-window, and his greasy features were creased in a drunken smirk. An opened book lay in his lap&mdash;one
+window, and his greasy features were creased in a drunken smirk. An opened book lay in his lap--one
 of the hideous tomes from his private library.  
 
   For a long moment I gloated over the prospect before me, and then, stepping
 forward suddenly, I brought the heavy weapon down upon his unprotected head. The dull crunch
 was followed by a spurt of blood, and the fiend crumpled to the floor, his head laid half open.
-I felt no contrition at taking the man&rsquo;s life in such a manner. In the hideous, half-visible
+I felt no contrition at taking the man's life in such a manner. In the hideous, half-visible
 specimens of his surgical wizardry scattered about the room in various stages of completion
 and preservation, I felt there was enough evidence to blast his soul without my aid. Andrews
-had gone too far in his practices to continue living, and as one of his monstrous specimens&mdash;of
-that I was now hideously certain&mdash;it was my duty to exterminate him.  
+had gone too far in his practices to continue living, and as one of his monstrous specimens--of
+that I was now hideously certain--it was my duty to exterminate him.  
 
   Simes, I realized, would be no such easy matter; indeed, only unusual good
-fortune had caused me to find Andrews unconscious. When I finally reeled up to the servant&rsquo;s
+fortune had caused me to find Andrews unconscious. When I finally reeled up to the servant's
 bedchamber door, faint from exhaustion, I knew it would take all my remaining strength to complete
 the ordeal.  
 
-  The old man&rsquo;s room was in utmost darkness, being on the north side of
+  The old man's room was in utmost darkness, being on the north side of
 the structure, but he must have seen me silhouetted in the doorway as I came in. He screamed
 hoarsely, and I aimed the candelabrum at him from the threshold. It struck something soft, making
 a sloughing sound in the darkness; but the screaming continued. From that time on events became
 hazy and jumbled together, but I remember grappling with the man and choking the life from him
-little by little. He gibbered a host of awful things before I could lay hands on him&mdash;cried
+little by little. He gibbered a host of awful things before I could lay hands on him--cried
 and begged for mercy from my clutching fingers. I hardly realized my own strength in that mad
-moment which left Andrews&rsquo; associate in a condition like his own.  
+moment which left Andrews' associate in a condition like his own.  
 
   Retreating from the darkened chamber, I stumbled for the stairway door, sagged
 through it, and somehow reached the landing below. No lamps were burning, and my only light
@@ -285,7 +285,7 @@ It stood empty on that fateful night, and I hope that it may always remain so.
   In some manner I reached the aged place; though I do not remember the last
 half of the journey at all. It was enough to be near the family cemetery, among whose moss-covered
 and crumbling stones I would seek the oblivion I had desired. As I approached the moonlit spot
-the old familiarity&mdash;so absent during my abnormal existence&mdash;returned to plague me in
+the old familiarity--so absent during my abnormal existence--returned to plague me in
 a wholly unexpected way. I drew close to my own tombstone, and the feeling of homecoming grew
 stronger; with it came a fresh flood of that awful sense of alienation and disembodiment which
 I knew so well. I was satisfied that the end was drawing near; nor did I stop to analyze emotions
@@ -302,11 +302,11 @@ tugged on the heavy lid. It gave a trifle; and I was prepared to lift it complet
 a fetid and nauseous odor assailed my nostrils. I started erect, horrified. Had some idiot placed
 my tombstone on the wrong grave, causing me to unearth another body? For surely there could
 be no mistaking that awful stench. Gradually a hideous uncertainty came over me and I scrambled
-from the hole. One look at the newly made headpiece was enough. This was indeed my own grave&nbsp;.&nbsp;.&nbsp;.
+from the hole. One look at the newly made headpiece was enough. This was indeed my own grave . . .
 but what fool had buried within it another corpse?  
 
   All at once a bit of the unspeakable truth propelled itself upon my brain.
-The odor, in spite of its putrescence, seemed somehow familiar&mdash;horribly   familiar.  &nbsp;.&nbsp;.&nbsp;.
+The odor, in spite of its putrescence, seemed somehow familiar--horribly   familiar.   . . .
 Yet I could not credit my senses with such an idea. Reeling and cursing, I fell into the black
 cavity once more, and by the aid of a hastily lit match, lifted the long lid completely open.
 Then the light went out, as if extinguished by a malignant hand, and I clawed my way out of
@@ -317,7 +317,7 @@ manor, where I must have crawled after that hideous rendezvous in the family cem
 that dawn was close at hand, and rose feebly, opening the aged portal before me and entering
 the place which had known no footsteps for over a decade. A fever was ravaging my weakened body,
 so that I was hardly able to stand, but I made my way slowly through the musty, dimly lit chambers
-and staggered into my own study&mdash;the study I had deserted so many years before.  
+and staggered into my own study--the study I had deserted so many years before.  
 
   When the sun has risen, I shall go to the ancient well beneath the old willow
 tree by the cemetery and cast my deformed   self   into it. No other man shall ever view
@@ -327,14 +327,14 @@ from that which I beheld amidst the crumbling, moss-crusted stones of the hideou
 
   I know now why Andrews was so secretive in his actions; so damnably gloating
 in his attitude toward me after my artificial death. He had meant me for a specimen all the
-time&mdash;a specimen of his greatest feat of surgery, his masterpiece of unclean witchery&nbsp;.&nbsp;.&nbsp;.
+time--a specimen of his greatest feat of surgery, his masterpiece of unclean witchery . . .
 an example of perverted artistry for him alone to see. Where Andrews obtained that   other  
 with which I lay accursed in his moldering mansion I shall probably never know; but I am afraid
 that it was brought from Haiti along with his fiendish medicine. At least these long hairy arms
-and horrible short legs are alien to me&nbsp;.&nbsp;.&nbsp;. alien to all natural and sane laws
+and horrible short legs are alien to me . . . alien to all natural and sane laws
 of mankind. The thought that I shall be tortured with that   other   during the rest of my
 brief existence is another hell.  
 
   Now I can but wish for that which once was mine; that which every man blessed
 of God ought to have at death; that which I saw in that awful moment in the ancient burial ground
-when I raised the lid on the coffin&mdash;my own shrunken, decayed, and headless body.  
+when I raised the lid on the coffin--my own shrunken, decayed, and headless body.  

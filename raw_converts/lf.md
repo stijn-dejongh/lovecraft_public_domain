@@ -15,7 +15,7 @@ the time came; men long associated with me in my ghastly explorations because of
 fitness.  
 
   We had started quietly from the village because of the reporters who still
-lingered about after the eldritch panic of a month before&mdash;the nightmare creeping death.
+lingered about after the eldritch panic of a month before--the nightmare creeping death.
 Later, I thought, they might aid me; but I did not want them then. Would to God I had let them
 share the search, that I might not have had to bear the secret alone so long; to bear it alone
 for fear the world would call me mad or go mad itself at the daemon implications of the thing.
@@ -27,14 +27,14 @@ the wooded ascent checked it. The country bore an aspect more than usually sinis
 it by night and without the accustomed crowds of investigators, so that we were often tempted
 to use the acetylene headlight despite the attention it might attract. It was not a wholesome
 landscape after dark, and I believe I would have noticed its morbidity even had I been ignorant
-of the terror that stalked there. Of wild creatures there were none&mdash;they are wise when
+of the terror that stalked there. Of wild creatures there were none--they are wise when
 death leers close. The ancient lightning-scarred trees seemed unnaturally large and twisted,
 and the other vegetation unnaturally thick and feverish, while curious mounds and hummocks in
-the weedy, fulgurite-pitted earth reminded me of snakes and dead men&rsquo;s skulls swelled
+the weedy, fulgurite-pitted earth reminded me of snakes and dead men's skulls swelled
 to gigantic proportions.  
 
   Fear had lurked on Tempest Mountain for more than a century. This I learned
-at once from newspaper accounts of the catastrophe which first brought the region to the world&rsquo;s
+at once from newspaper accounts of the catastrophe which first brought the region to the world's
 notice. The place is a remote, lonely elevation in that part of the Catskills where Dutch civilisation
 once feebly and transiently penetrated, leaving behind as it receded only a few ruined mansions
 and a degenerate squatter population inhabiting pitiful hamlets on isolated slopes. Normal beings
@@ -63,7 +63,7 @@ of the Martense spectre; myths concerning the Martense family itself, its queer 
 of eyes, its long, unnatural annals, and the murder which had cursed it.  
 
   The terror which brought me to the scene was a sudden and portentous confirmation
-of the mountaineers&rsquo; wildest legends. One summer night, after a thunderstorm of unprecedented
+of the mountaineers' wildest legends. One summer night, after a thunderstorm of unprecedented
 violence, the countryside was aroused by a squatter stampede which no mere delusion could create.
 The pitiful throngs of natives shrieked and whined of the unnamable horror which had descended
 upon them, and they were not doubted. They had not seen it, but had heard such cries from one
@@ -71,7 +71,7 @@ of their hamlets that they knew a creeping death had come.
 
   In the morning citizens and state troopers followed the shuddering mountaineers
 to the place where they said the death had come. Death was indeed there. The ground under one
-of the squatters&rsquo; villages had caved in after a lightning stroke, destroying several of
+of the squatters' villages had caved in after a lightning stroke, destroying several of
 the malodorous shanties; but upon this property damage was superimposed an organic devastation
 which paled it to insignificance. Of a possible 75 natives who had inhabited this spot, not
 one living specimen was visible. The disordered earth was covered with blood and human debris
@@ -93,7 +93,7 @@ left no trace save destruction itself.
 
   By the second day of the search the affair was fully treated by the newspapers,
 whose reporters overran Tempest Mountain. They described it in much detail, and with many interviews
-to elucidate the horror&rsquo;s history as told by local grandams. I followed the accounts languidly
+to elucidate the horror's history as told by local grandams. I followed the accounts languidly
 at first, for I am a connoisseur in horrors; but after a week I detected an atmosphere which
 stirred me oddly, so that on August 5th, 1921, I registered among the reporters who crowded
 the hotel at Lefferts Corners, nearest village to Tempest Mountain and acknowledged headquarters
@@ -119,7 +119,7 @@ had an immense east window and narrow south window, both devoid of panes or shut
 the large window was an enormous Dutch fireplace with scriptural tiles representing the prodigal
 son, and opposite the narrow window was a spacious bed built into the wall.  
 
-  As the tree-muffled thunder grew louder, I arranged my plan&rsquo;s details.
+  As the tree-muffled thunder grew louder, I arranged my plan's details.
 First I fastened side by side to the ledge of the large window three rope ladders which I had
 brought with me. I knew they reached a suitable spot on the grass outside, for I had tested
 them. Then the three of us dragged from another room a wide four-poster bedstead, crowding it
@@ -129,7 +129,7 @@ our potential escape was provided. If it came from within the house, we had the 
 if from outside, the door and the stairs. We did not think, judging from precedent, that it
 would pursue us far even at worst.  
 
-  I watched from midnight to one o&rsquo;clock, when in spite of the sinister
+  I watched from midnight to one o'clock, when in spite of the sinister
 house, the unprotected window, and the approaching thunder and lightning, I felt singularly
 drowsy. I was between my two companions, George Bennett being toward the window and William
 Tobey toward the fireplace. Bennett was asleep, having apparently felt the same anomalous drowsiness
@@ -157,7 +157,7 @@ In the daemon flash of a monstrous fireball the sleeper started up suddenly whil
 from beyond the window threw his shadow vividly upon the chimney above the fireplace from which
 my eyes had never strayed. That I am still alive and sane, is a marvel I cannot fathom. I cannot
 fathom it, for the shadow on that chimney was not that of George Bennett or of any other human
-creature, but a blasphemous abnormality from hell&rsquo;s nethermost craters; a nameless, shapeless
+creature, but a blasphemous abnormality from hell's nethermost craters; a nameless, shapeless
 abomination which no mind could fully grasp and no pen even partly describe. In another second
 I was alone in the accursed mansion, shivering and gibbering. George Bennett and William Tobey
 had left no trace, not even of a struggle. They were never heard of again.  
@@ -171,17 +171,17 @@ of wild-armed titan trees, daemoniac mutterings of thunder, and Charonian shadow
 low mounds that dotted and streaked the region.  
 
   As I shivered and brooded on the casting of that brain-blasting shadow, I knew
-that I had at last pried out one of earth&rsquo;s supreme horrors&mdash;one of those nameless
+that I had at last pried out one of earth's supreme horrors--one of those nameless
 blights of outer voids whose faint daemon scratchings we sometimes hear on the farthest rim
 of space, yet from which our own finite vision has given us a merciful immunity. The shadow
 I had seen, I hardly dared to analyse or identify. Something had lain between me and the window
 that night, but I shuddered whenever I could not cast off the instinct to classify it. If it
-had only snarled, or bayed, or laughed titteringly&mdash;even that would have relieved the abysmal
-hideousness. But it was so silent. It had rested a heavy arm or fore leg on my chest.&nbsp;.&nbsp;.&nbsp;.
-Obviously it was organic, or had once been organic.&nbsp;.&nbsp;.&nbsp;. Jan Martense, whose
-room I had invaded, was buried in the graveyard near the mansion.&nbsp;.&nbsp;.&nbsp;. I must
-find Bennett and Tobey, if they lived&nbsp;.&nbsp;.&nbsp;. why had it picked them, and left
-me for the last?&nbsp;.&nbsp;.&nbsp;. Drowsiness is so stifling, and dreams are so horrible.&nbsp;.&nbsp;.&nbsp;.  
+had only snarled, or bayed, or laughed titteringly--even that would have relieved the abysmal
+hideousness. But it was so silent. It had rested a heavy arm or fore leg on my chest. . . .
+Obviously it was organic, or had once been organic. . . . Jan Martense, whose
+room I had invaded, was buried in the graveyard near the mansion. . . . I must
+find Bennett and Tobey, if they lived . . . why had it picked them, and left
+me for the last? . . . Drowsiness is so stifling, and dreams are so horrible. . . .  
 
   In a short time I realised that I must tell my story to someone or break down
 completely. I had already decided not to abandon the quest for the lurking fear, for in my rash
@@ -204,15 +204,15 @@ until we might become fortified with more detailed historical and geographical d
 initiative we combed the countryside for information regarding the terrible Martense family,
 and discovered a man who possessed a marvellously illuminating ancestral diary. We also talked
 at length with such of the mountain mongrels as had not fled from the terror and confusion to
-remoter slopes, and arranged to precede our culminating task&mdash;the exhaustive and definitive
-examination of the mansion in the light of its detailed history&mdash;with an equally exhaustive
+remoter slopes, and arranged to precede our culminating task--the exhaustive and definitive
+examination of the mansion in the light of its detailed history--with an equally exhaustive
 and definitive examination of spots associated with the various tragedies of squatter legend.  
 
   The results of this examination were not at first very enlightening, though
 our tabulation of them seemed to reveal a fairly significant trend; namely, that the number
 of reported horrors was by far the greatest in areas either comparatively near the avoided house
 or connected with it by stretches of the morbidly overnourished forest. There were, it is true,
-exceptions; indeed, the horror which had caught the world&rsquo;s ear had happened in a treeless
+exceptions; indeed, the horror which had caught the world's ear had happened in a treeless
 space remote alike from the mansion and from any connecting woods.  
 
   As to the nature and appearance of the lurking fear, nothing could be gained
@@ -241,14 +241,14 @@ searches of house and country almost drove us to regard the lurking fear as a no
 We feared that the cold weather would come on and halt our explorations, for all agreed that
 the daemon was generally quiet in winter. Thus there was a kind of haste and desperation in
 our last daylight canvass of the horror-visited hamlet; a hamlet now deserted because of the
-squatters&rsquo; fears.  
+squatters' fears.  
 
   The ill-fated squatter hamlet had borne no name, but had long stood in a sheltered
 though treeless cleft between two elevations called respectively Cone Mountain and Maple Hill.
 It was closer to Maple Hill than to Cone Mountain, some of the crude abodes indeed being dugouts
 on the side of the former eminence. Geographically it lay about two miles northwest of the base
 of Tempest Mountain, and three miles from the oak-girt mansion. Of the distance between the
-hamlet and the mansion, fully two miles and a quarter on the hamlet&rsquo;s side was entirely
+hamlet and the mansion, fully two miles and a quarter on the hamlet's side was entirely
 open country; the plain being of fairly level character save for some of the low snake-like
 mounds, and having as vegetation only grass and scattered weeds. Considering this topography,
 we had finally concluded that the daemon must have come by way of Cone Mountain, a wooded southern
@@ -301,10 +301,10 @@ At the same time the wolfish wind rose to daemoniac crescendoes of ululation. We
 the lone tree on Maple Hill had been struck again, and Munroe rose from his box and went to
 the tiny window to ascertain the damage. When he took down the shutter the wind and rain howled
 deafeningly in, so that I could not hear what he said; but I waited while he leaned out and
-tried to fathom Nature&rsquo;s pandemonium.  
+tried to fathom Nature's pandemonium.  
 
   Gradually a calming of the wind and dispersal of the unusual darkness told
-of the storm&rsquo;s passing. I had hoped it would last into the night to help our quest, but
+of the storm's passing. I had hoped it would last into the night to help our quest, but
 a furtive sunbeam from a knothole behind me removed the likelihood of such a thing. Suggesting
 to Munroe that we had better get some light even if more showers came, I unbarred and opened
 the crude door. The ground outside was a singular mass of mud and pools, with fresh heaps of
@@ -362,7 +362,7 @@ he perceived that the locality was especially liable to such phenomena. At lengt
 these storms injurious to his health, he fitted up a cellar into which he could retreat from
 their wildest pandemonium.  
 
-  Of Gerrit Martense&rsquo;s descendants less is known than of himself; since
+  Of Gerrit Martense's descendants less is known than of himself; since
 they were all reared in hatred of the English civilisation, and trained to shun such of the
 colonists as accepted it. Their life was exceedingly secluded, and people declared that their
 isolation had made them heavy of speech and comprehension. In appearance all were marked by
@@ -375,7 +375,7 @@ yet developing a nervous responsiveness to the frequent thunderstorms.
 
   Most of this information reached the outside world through young Jan Martense,
 who from some kind of restlessness joined the colonial army when news of the Albany Convention
-reached Tempest Mountain. He was the first of Gerrit&rsquo;s descendants to see much of the
+reached Tempest Mountain. He was the first of Gerrit's descendants to see much of the
 world; and when he returned in 1760 after six years of campaigning, he was hated as an outsider
 by his father, uncles, and brothers, in spite of his dissimilar Martense eyes. No longer could
 he share the peculiarities and prejudices of the Martenses, while the very mountain thunderstorms
@@ -383,16 +383,16 @@ failed to intoxicate him as they had before. Instead, his surroundings depressed
 frequently wrote to a friend in Albany of plans to leave the paternal roof.  
 
   In the spring of 1763 Jonathan Gifford, the Albany friend of Jan Martense,
-became worried by his correspondent&rsquo;s silence; especially in view of the conditions and
+became worried by his correspondent's silence; especially in view of the conditions and
 quarrels at the Martense mansion. Determined to visit Jan in person, he went into the mountains
 on horseback. His diary states that he reached Tempest Mountain on September 20, finding the
 mansion in great decrepitude. The sullen, odd-eyed Martenses, whose unclean animal aspect shocked
 him, told him in broken gutturals that Jan was dead. He had, they insisted, been struck by lightning
 the autumn before; and now lay buried behind the neglected sunken gardens. They shewed the visitor
-the grave, barren and devoid of markers. Something in the Martenses&rsquo; manner gave Gifford
+the grave, barren and devoid of markers. Something in the Martenses' manner gave Gifford
 a feeling of repulsion and suspicion, and a week later he returned with spade and mattock to
-explore the sepulchral spot. He found what he expected&mdash;a skull crushed cruelly as if by
-savage blows&mdash;so returning to Albany he openly charged the Martenses with the murder of
+explore the sepulchral spot. He found what he expected--a skull crushed cruelly as if by
+savage blows--so returning to Albany he openly charged the Martenses with the murder of
 their kinsman.  
 
   Legal evidence was lacking, but the story spread rapidly round the countryside;
@@ -415,12 +415,12 @@ furniture and scattered silverware which must have been long abandoned when its 
 But though the dreaded Martenses were gone, the fear of the haunted house continued; and grew
 very acute when new and strange stories arose among the mountain decadents. There it stood;
 deserted, feared, and linked with the vengeful ghost of Jan Martense. There it still stood on
-the night I dug in Jan Martense&rsquo;s grave.  
+the night I dug in Jan Martense's grave.  
 
   I have described my protracted digging as idiotic, and such it indeed was in
-object and method. The coffin of Jan Martense had soon been unearthed&mdash;it now held only
-dust and nitre&mdash;but in my fury to exhume his ghost I delved irrationally and clumsily down
-beneath where he had lain. God knows what I expected to find&mdash;I only felt that I was digging
+object and method. The coffin of Jan Martense had soon been unearthed--it now held only
+dust and nitre--but in my fury to exhume his ghost I delved irrationally and clumsily down
+beneath where he had lain. God knows what I expected to find--I only felt that I was digging
 in the grave of a man whose ghost stalked by night.  
 
   It is impossible to say what monstrous depth I had attained when my spade,
@@ -449,7 +449,7 @@ reflections of my expiring lamp; two reflections glowing with a baneful and unmi
 and provoking maddeningly nebulous memories. I stopped automatically, though lacking the brain
 to retreat. The eyes approached, yet of the thing that bore them I could distinguish only a
 claw. But what a claw! Then far overhead I heard a faint crashing which I recognised. It was
-the wild thunder of the mountain, raised to hysteric fury&mdash;I must have been crawling upward
+the wild thunder of the mountain, raised to hysteric fury--I must have been crawling upward
 for some time, so that the surface was now quite near. And as the muffled thunder clattered,
 those eyes still stared with vacuous viciousness.  
 
@@ -479,7 +479,7 @@ in on the thing with the claw and eyes.
     IV. The Horror in the Eyes    
 
 There can be nothing normal in the mind of one who, knowing what I knew of the horrors of Tempest
-Mountain, would seek alone for the fear that lurked there. That at least two of the fear&rsquo;s
+Mountain, would seek alone for the fear that lurked there. That at least two of the fear's
 embodiments were destroyed, formed but a slight guarantee of mental and physical safety in this
 Acheron of multiform diabolism; yet I continued my quest with even greater zeal as events and
 revelations became more monstrous.  
@@ -501,7 +501,7 @@ I had dug before. Some extensive cave-in had obliterated all trace of the underg
 while the rain had washed so much earth back into the excavation that I could not tell how deeply
 I had dug that other day. I likewise made a difficult trip to the distant hamlet where the death-creature
 had been burnt, and was little repaid for my trouble. In the ashes of the fateful cabin I found
-several bones, but apparently none of the monster&rsquo;s. The squatters said the thing had
+several bones, but apparently none of the monster's. The squatters said the thing had
 had only one victim; but in this I judged them inaccurate, since besides the complete skull
 of a human being, there was another bony fragment which seemed certainly to have belonged to
 a human skull at some time. Though the rapid drop of the monster had been seen, no one could
@@ -545,9 +545,9 @@ my reason for believing these mounds glacial phenomena.
   The more I analysed the less I believed, and against my newly opened mind there
 began to beat grotesque and horrible analogies based on superficial aspects and upon my experience
 beneath the earth. Before I knew it I was uttering frenzied and disjointed words to myself:
-&ldquo;My God!&nbsp;.&nbsp;.&nbsp;. Molehills&nbsp;.&nbsp;.&nbsp;. the damned place must be honeycombed&nbsp;.&nbsp;.&nbsp;.
-how many&nbsp;.&nbsp;.&nbsp;. that night at the mansion&nbsp;.&nbsp;.&nbsp;. they took Bennett
-and Tobey first&nbsp;.&nbsp;.&nbsp;. on each side of us.&nbsp;.&nbsp;.&nbsp;.&rdquo; Then I
+ "My God! . . . Molehills . . . the damned place must be honeycombed . . .
+how many . . . that night at the mansion . . . they took Bennett
+and Tobey first . . . on each side of us. . . . " Then I
 was digging frantically into the mound which had stretched nearest me; digging desperately,
 shiveringly, but almost jubilantly; digging and at last shrieking aloud with some unplaced emotion
 as I came upon a tunnel or burrow just like the one through which I had crawled on that other
@@ -574,7 +574,7 @@ corner of the cellar. My eyes, however, never turned away from the horrible open
 of the chimney; and I began to get glimpses of the crumbling bricks and unhealthy weeds as faint
 glows of lightning penetrated the woods outside and illumined the chinks in the upper wall.
 Every second I was consumed with a mixture of fear and curiosity. What would the storm call
-forth&mdash;or was there anything left for it to call? Guided by a lightning flash I settled
+forth--or was there anything left for it to call? Guided by a lightning flash I settled
 myself down behind a dense clump of vegetation, through which I could see the opening without
 being seen.  
 
@@ -582,17 +582,17 @@ being seen.
 that I saw, and let me live my last years in peace. I cannot sleep at night now, and have to
 take opiates when it thunders. The thing came abruptly and unannounced; a daemon, rat-like scurrying
 from pits remote and unimaginable, a hellish panting and stifled grunting, and then from that
-opening beneath the chimney a burst of multitudinous and leprous life&mdash;a loathsome night-spawned
+opening beneath the chimney a burst of multitudinous and leprous life--a loathsome night-spawned
 flood of organic corruption more devastatingly hideous than the blackest conjurations of mortal
-madness and morbidity. Seething, stewing, surging, bubbling like serpents&rsquo; slime it rolled
+madness and morbidity. Seething, stewing, surging, bubbling like serpents' slime it rolled
 up and out of that yawning hole, spreading like a septic contagion and streaming from the cellar
-at every point of egress&mdash;streaming out to scatter through the accursed midnight forests
+at every point of egress--streaming out to scatter through the accursed midnight forests
 and strew fear, madness, and death.  
 
-  God knows how many there were&mdash;there must have been thousands. To see
+  God knows how many there were--there must have been thousands. To see
 the stream of them in that faint, intermittent lightning was shocking. When they had thinned
 out enough to be glimpsed as separate organisms, I saw that they were dwarfed, deformed hairy
-devils or apes&mdash;monstrous and diabolic caricatures of the monkey tribe. They were so hideously
+devils or apes--monstrous and diabolic caricatures of the monkey tribe. They were so hideously
 silent; there was hardly a squeal when one of the last stragglers turned with the skill of long
 practice to make a meal in accustomed fashion on a weaker companion. Others snapped up what
 it left and ate with slavering relish. Then, in spite of my daze of fright and disgust, my morbid
@@ -600,12 +600,12 @@ curiosity triumphed; and as the last of the monstrosities oozed up alone from th
 of unknown nightmare, I drew my automatic pistol and shot it under cover of the thunder.  
 
   Shrieking, slithering, torrential shadows of red viscous madness chasing one
-another through endless, ensanguined corridors of purple fulgurous sky&nbsp;.&nbsp;.&nbsp;.
+another through endless, ensanguined corridors of purple fulgurous sky . . .
 formless phantasms and kaleidoscopic mutations of a ghoulish, remembered scene; forests of monstrous
 overnourished oaks with serpent roots twisting and sucking unnamable juices from an earth verminous
 with millions of cannibal devils; mound-like tentacles groping from underground nuclei of polypous
-perversion&nbsp;.&nbsp;.&nbsp;. insane lightning over malignant ivied walls and daemon arcades
-choked with fungous vegetation.&nbsp;.&nbsp;.&nbsp;. Heaven be thanked for the instinct which
+perversion . . . insane lightning over malignant ivied walls and daemon arcades
+choked with fungous vegetation. . . . Heaven be thanked for the instinct which
 led me unconscious to places where men dwell; to the peaceful village that slept under the calm
 stars of clearing skies.  
 
@@ -615,9 +615,9 @@ discoverable mound-burrows, and destroy certain overnourished trees whose very e
 an insult to sanity. I could sleep a little after they had done this, but true rest will never
 come as long as I remember that nameless secret of the lurking fear. The thing will haunt me,
 for who can say the extermination is complete, and that analogous phenomena do not exist all
-over the world? Who can, with my knowledge, think of the earth&rsquo;s unknown caverns without
+over the world? Who can, with my knowledge, think of the earth's unknown caverns without
 a nightmare dread of future possibilities? I cannot see a well or a subway entrance without
-shuddering&nbsp;.&nbsp;.&nbsp;. why cannot the doctors give me something to make me sleep, or
+shuddering . . . why cannot the doctors give me something to make me sleep, or
 truly calm my brain when it thunders?  
 
   What I saw in the glow of my flashlight after I shot the unspeakable straggling

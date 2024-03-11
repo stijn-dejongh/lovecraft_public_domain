@@ -8,7 +8,7 @@
 It is said that in Ulthar, which lies beyond the river Skai, no man may kill a cat; and this
 I can verily believe as I gaze upon him who sitteth purring before the fire. For the cat is
 cryptic, and close to strange things which men cannot see. He is the soul of antique Aegyptus,
-and bearer of tales from forgotten cities in Mero&euml; and Ophir. He is the kin of the jungle&rsquo;s
+and bearer of tales from forgotten cities in Meroë and Ophir. He is the kin of the jungle's
 lords, and heir to the secrets of hoary and sinister Africa. The Sphinx is his cousin, and he
 speaks her language; but he is more ancient than the Sphinx, and remembers that which she hath
 forgotten.  
@@ -44,7 +44,7 @@ in the lively antics of a black kitten. So the boy whom the dark people called M
 more often than he wept as he sate playing with his graceful kitten on the steps of an oddly
 painted wagon.  
 
-  On the third morning of the wanderers&rsquo; stay in Ulthar, Menes could not
+  On the third morning of the wanderers' stay in Ulthar, Menes could not
 find his kitten; and as he sobbed aloud in the market-place certain villagers told him of the
 old man and his wife, and of sounds heard in the night. And when he heard these things his sobbing
 gave place to meditation, and finally to prayer. He stretched out his arms toward the sun and
@@ -58,17 +58,17 @@ crowned with horn-flanked discs. Nature is full of such illusions to impress the
 were troubled when they noticed that in all the village there was not a cat to be found. From
 each hearth the familiar cat had vanished; cats large and small, black, grey, striped, yellow,
 and white. Old Kranon, the burgomaster, swore that the dark folk had taken the cats away in
-revenge for the killing of Menes&rsquo; kitten; and cursed the caravan and the little boy. But
+revenge for the killing of Menes' kitten; and cursed the caravan and the little boy. But
 Nith, the lean notary, declared that the old cotter and his wife were more likely persons to
 suspect; for their hatred of cats was notorious and increasingly bold. Still, no one durst complain
-to the sinister couple; even when little Atal, the innkeeper&rsquo;s son, vowed that he had
+to the sinister couple; even when little Atal, the innkeeper's son, vowed that he had
 at twilight seen all the cats of Ulthar in that accursed yard under the trees, pacing very slowly
 and solemnly in a circle around the cottage, two abreast, as if in performance of some unheard-of
 rite of beasts. The villagers did not know how much to believe from so small a boy; and though
 they feared that the evil pair had charmed the cats to their death, they preferred not to chide
 the old cotter till they met him outside his dark and repellent yard.  
 
-  So Ulthar went to sleep in vain anger; and when the people awaked at dawn&mdash;behold!
+  So Ulthar went to sleep in vain anger; and when the people awaked at dawn--behold!
 every cat was back at his accustomed hearth! Large and small, black, grey, striped, yellow,
 and white, none was missing. Very sleek and fat did the cats appear, and sonorous with purring
 content. The citizens talked with one another of the affair, and marvelled not a little. Old
@@ -89,7 +89,7 @@ in the shadowy corners.
 
   There was subsequently much talk among the burgesses of Ulthar. Zath, the coroner,
 disputed at length with Nith, the lean notary; and Kranon and Shang and Thul were overwhelmed
-with questions. Even little Atal, the innkeeper&rsquo;s son, was closely questioned and given
+with questions. Even little Atal, the innkeeper's son, was closely questioned and given
 a sweetmeat as reward. They talked of the old cotter and his wife, of the caravan of dark wanderers,
 of small Menes and his black kitten, of the prayer of Menes and of the sky during that prayer,
 of the doings of the cats on the night the caravan left, and of what was later found in the

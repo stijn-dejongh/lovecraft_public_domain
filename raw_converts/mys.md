@@ -42,16 +42,16 @@ the Florida Keys.
 
 A ship was sent to Florida, and the mystery was solved. In the exitement of the
 fight they would launch a sub-marine boat and take what they wanted. there it lay, tranquilly
-rocking on the waters of the Atlantic when someone called out &ldquo;John Brown has
-dissapeared.&rdquo; And sure enough John Brown was gone.  
+rocking on the waters of the Atlantic when someone called out  "John Brown has
+dissapeared. " And sure enough John Brown was gone.  
 
     Chapter 6.    
 
 The finding of the sub-marine boat, and the dissapearance of John Brown, caused
 renewed exitement amongst the people, when a new discovery was made. In transcribing this discovery
 it is necessary to relate a geographical fact. At the N. Pole there exists a vast continent
-composed of volcanic soil, a portion of which is open to explorers. It is called &ldquo;No-Mans
-Land.&rdquo;  
+composed of volcanic soil, a portion of which is open to explorers. It is called  "No-Mans
+Land. "  
 
     Chapter 7.    
 
@@ -83,11 +83,11 @@ the landing of a strange Brig in the harbour. It carried no flag, and no name wa
 side, and everything about it was such as would excite suspicion. It was from Tripoli, Africa, and
 the captain was named Manuel Ruello. The Excitement increased, however; when John Griggs, (The
 magnate of the villiage) suddenly disappeared from his home. This was the night of October
-4th&mdash;on October 5th the Brig left.  
+4th--on October 5th the Brig left.  
 
     Chapter II    
 
-It was 8 bells on the U.S. Frigate &ldquo;Constitution&rdquo; when Commander Farragut sighted a
+It was 8 bells on the U.S. Frigate  "Constitution " when Commander Farragut sighted a
 strange brig to the westward. It carried no flag, and no name was painted on its side, and
 everything about it was such as would excite suspicion. On hailing it put up the Pirates Flag.
 Farragut ordered a gun fired and no sooner did he fire, than the pirate ship gave them a
@@ -96,8 +96,8 @@ broadside when the Fight was over Commander Farragut Missed one man named Henry 
     Chapter III    
 
 It was Summer on the Island of Madagascar. And Natives were picking corn, when one cried
-&ldquo;Companions! I sight a ship! with no flag and with no name printed on the side and with
-everything about it such as would excite Suspicion!&rdquo; And The Natives fled in all directions
+ "Companions! I sight a ship! with no flag and with no name printed on the side and with
+everything about it such as would excite Suspicion! " And The Natives fled in all directions
 when They came together on The other side of The Island one was missing his name was Dahabea.  
 
     Chapter IV    
@@ -110,35 +110,35 @@ of The Florida Keys in America!
 
     Chapter V    
 
-The People Hurried to Florida and Beheld&mdash;&mdash;&mdash;. A steel spindle shaped object Lay
-placidly on the water Beside the shattered wreck of The brig. &ldquo;A Submarine Boat&rdquo;!
-shouted one &ldquo;Yes!&rdquo; shouted another &ldquo;The mystery is cleared&rdquo; said a wise
-looking man. &ldquo;In the excitement of the fight they launch the submarine boat and take as many
-as they wish, unseen. And&mdash;&mdash;&mdash;.&rdquo; &ldquo;John Brown has disappeared&rdquo;!
+The People Hurried to Florida and Beheld------. A steel spindle shaped object Lay
+placidly on the water Beside the shattered wreck of The brig.  "A Submarine Boat "!
+shouted one  "Yes! " shouted another  "The mystery is cleared " said a wise
+looking man.  "In the excitement of the fight they launch the submarine boat and take as many
+as they wish, unseen. And------. "  "John Brown has disappeared "!
 shouted a voice from the deck. Sure enough John Brown was gone!  
 
     Chapter VI    
 
 The Finding of The Submarine boat and the dissapearance of John Brown caused renewed excitement
 among the People, and a new discovery was made. In relating this discovery It is necessary to
-relate a geographical Fact:&mdash; At the North Pole there is supposed to exist a vast continent
+relate a geographical Fact:-- At the North Pole there is supposed to exist a vast continent
 composed of volcanic soil, a portion is open to travellers and explorers but it is barren and
-unfruitful. and thus absolutely Impassable. It is called &ldquo;No-Mans Land.&rdquo;  
+unfruitful. and thus absolutely Impassable. It is called  "No-Mans Land. "  
 
     Chapter VII    
 
 In the Extreme southern part of No-Mans Land There was found a wharf and a hut &amp;c and every
 sign of former human habitation. A rusty door-plate was nailed to the hut inscribed in old English
-&ldquo;M. Ruello.&rdquo; This, then, was the home of Michael Ruello. the house brought to light a
-note book belonging to John Griggs, and The Log of the &ldquo;Constitution&rdquo; taken from Henry
+ "M. Ruello. " This, then, was the home of Michael Ruello. the house brought to light a
+note book belonging to John Griggs, and The Log of the  "Constitution " taken from Henry
 Johns, and the Madagascar Reaper belong To Dahabea.  
 
     Chapter VIII    
 
-When about to leave, they Observed a spring on the side of the hut. They pressed it.&mdash;A hole
+When about to leave, they Observed a spring on the side of the hut. They pressed it.--A hole
 appeared in the side of the hut which they promptly entered. They were in a subterranean cavern,
 the beach ran down to the edge of a black, murky, sea. on the sea lay a dark oblong
-object&mdash;viz another Submarine boat which they entered. There bound to the cabin Floor Lay
+object--viz another Submarine boat which they entered. There bound to the cabin Floor Lay
 Griggs, Johns, and Dahabea, all alive and well. They, when arriving in London, separated, Griggs
 going to Ruralville, Johns, To the Constitution and Dahabea to Madagascar.  
 

@@ -9,11 +9,11 @@
 
 I am forced into speech because men of science have refused to follow my advice without knowing
 why. It is altogether against my will that I tell my reasons for opposing this contemplated
-invasion of the antarctic&mdash;with its vast fossil-hunt and its wholesale boring and melting
-of the ancient ice-cap&mdash;and I am the more reluctant because my warning may be in vain.
+invasion of the antarctic--with its vast fossil-hunt and its wholesale boring and melting
+of the ancient ice-cap--and I am the more reluctant because my warning may be in vain.
 Doubt of the real facts, as I must reveal them, is inevitable; yet if I suppressed what will
 seem extravagant and incredible there would be nothing left. The hitherto withheld photographs,
-both ordinary and a&euml;rial, will count in my favour; for they are damnably vivid and graphic.
+both ordinary and aërial, will count in my favour; for they are damnably vivid and graphic.
 Still, they will be doubted because of the great lengths to which clever fakery can be carried.
 The ink drawings, of course, will be jeered at as obvious impostures; notwithstanding a strangeness
 of technique which art experts ought to remark and puzzle over.  
@@ -34,7 +34,7 @@ soil from various parts of the antarctic continent, aided by the remarkable dril
 Prof. Frank H. Pabodie of our engineering department. I had no wish to be a pioneer in any other
 field than this; but I did hope that the use of this new mechanical appliance at different points
 along previously explored paths would bring to light materials of a sort hitherto unreached
-by the ordinary methods of collection. Pabodie&rsquo;s drilling apparatus, as the public already
+by the ordinary methods of collection. Pabodie's drilling apparatus, as the public already
 knows from our reports, was unique and radical in its lightness, portability, and capacity to
 combine the ordinary artesian drill principle with the principle of the small circular rock
 drill in such a way as to cope quickly with strata of varying hardness. Steel head, jointed
@@ -42,21 +42,21 @@ rods, gasoline motor, collapsible wooden derrick, dynamiting paraphernalia, cord
 auger, and sectional piping for bores five inches wide and up to 1000 feet deep all formed,
 with needed accessories, no greater load than three seven-dog sledges could carry; this being
 made possible by the clever aluminum alloy of which most of the metal objects were fashioned.
-Four large Dornier a&euml;roplanes, designed especially for the tremendous altitude flying necessary
+Four large Dornier aëroplanes, designed especially for the tremendous altitude flying necessary
 on the antarctic plateau and with added fuel-warming and quick-starting devices worked out by
 Pabodie, could transport our entire expedition from a base at the edge of the great ice barrier
 to various suitable inland points, and from these points a sufficient quota of dogs would serve
 us.  
 
-  We planned to cover as great an area as one antarctic season&mdash;or longer,
-if absolutely necessary&mdash;would permit, operating mostly in the mountain-ranges and on the
+  We planned to cover as great an area as one antarctic season--or longer,
+if absolutely necessary--would permit, operating mostly in the mountain-ranges and on the
 plateau south of Ross Sea; regions explored in varying degree by Shackleton, Amundsen, Scott,
-and Byrd. With frequent changes of camp, made by a&euml;roplane and involving distances great
+and Byrd. With frequent changes of camp, made by aëroplane and involving distances great
 enough to be of geological significance, we expected to unearth a quite unprecedented amount
 of material; especially in the pre-Cambrian strata of which so narrow a range of antarctic specimens
 had previously been secured. We wished also to obtain as great as possible a variety of the
 upper fossiliferous rocks, since the primal life-history of this bleak realm of ice and death
-is of the highest importance to our knowledge of the earth&rsquo;s past. That the antarctic
+is of the highest importance to our knowledge of the earth's past. That the antarctic
 continent was once temperate and even tropical, with a teeming vegetable and animal life of
 which the lichens, marine fauna, arachnida, and penguins of the northern edge are the only survivals,
 is a matter of common information; and we hoped to expand that information in variety, accuracy,
@@ -64,52 +64,52 @@ and detail. When a simple boring revealed fossiliferous signs, we would enlarge 
 by blasting in order to get specimens of suitable size and condition.  
 
   Our borings, of varying depth according to the promise held out by the upper
-soil or rock, were to be confined to exposed or nearly exposed land surfaces&mdash;these inevitably
+soil or rock, were to be confined to exposed or nearly exposed land surfaces--these inevitably
 being slopes and ridges because of the mile or two-mile thickness of solid ice overlying the
 lower levels. We could not afford to waste drilling depth on any considerable amount of mere
 glaciation, though Pabodie had worked out a plan for sinking copper electrodes in thick clusters
 of borings and melting off limited areas of ice with current from a gasoline-driven dynamo.
-It is this plan&mdash;which we could not put into effect except experimentally on an expedition
-such as ours&mdash;that the coming Starkweather-Moore Expedition proposes to follow despite
+It is this plan--which we could not put into effect except experimentally on an expedition
+such as ours--that the coming Starkweather-Moore Expedition proposes to follow despite
 the warnings I have issued since our return from the antarctic.  
 
   The public knows of the Miskatonic Expedition through our frequent wireless
 reports to the   Arkham Advertiser   and Associated Press, and through the later articles
-of Pabodie and myself. We consisted of four men from the University&mdash;Pabodie, Lake of the
+of Pabodie and myself. We consisted of four men from the University--Pabodie, Lake of the
 biology department, Atwood of the physics department (also a meteorologist), and I representing
-geology and having nominal command&mdash;besides sixteen assistants; seven graduate students
-from Miskatonic and nine skilled mechanics. Of these sixteen, twelve were qualified a&euml;roplane
+geology and having nominal command--besides sixteen assistants; seven graduate students
+from Miskatonic and nine skilled mechanics. Of these sixteen, twelve were qualified aëroplane
 pilots, all but two of whom were competent wireless operators. Eight of them understood navigation
-with compass and sextant, as did Pabodie, Atwood, and I. In addition, of course, our two ships&mdash;wooden
-ex-whalers, reinforced for ice conditions and having auxiliary steam&mdash;were fully manned.
+with compass and sextant, as did Pabodie, Atwood, and I. In addition, of course, our two ships--wooden
+ex-whalers, reinforced for ice conditions and having auxiliary steam--were fully manned.
 The Nathaniel Derby Pickman Foundation, aided by a few special contributions, financed the expedition;
 hence our preparations were extremely thorough despite the absence of great publicity. The dogs,
 sledges, machines, camp materials, and unassembled parts of our five planes were delivered in
 Boston, and there our ships were loaded. We were marvellously well-equipped for our specific
 purposes, and in all matters pertaining to supplies, regimen, transportation, and camp construction
 we profited by the excellent example of our many recent and exceptionally brilliant predecessors.
-It was the unusual number and fame of these predecessors which made our own expedition&mdash;ample
-though it was&mdash;so little noticed by the world at large.  
+It was the unusual number and fame of these predecessors which made our own expedition--ample
+though it was--so little noticed by the world at large.  
 
   As the newspapers told, we sailed from Boston Harbour on September 2, 1930;
 taking a leisurely course down the coast and through the Panama Canal, and stopping at Samoa
 and Hobart, Tasmania, at which latter place we took on final supplies. None of our exploring
-party had ever been in the polar regions before, hence we all relied greatly on our ship captains&mdash;J.
+party had ever been in the polar regions before, hence we all relied greatly on our ship captains--J.
 B. Douglas, commanding the brig   Arkham,   and serving as commander of the sea party, and
-Georg Thorfinnssen, commanding the barque   Miskatonic  &mdash;both veteran whalers in antarctic
+Georg Thorfinnssen, commanding the barque   Miskatonic  --both veteran whalers in antarctic
 waters. As we left the inhabited world behind the sun sank lower and lower in the north, and
 stayed longer and longer above the horizon each day. At about 62&deg; South Latitude we sighted
-our first icebergs&mdash;table-like objects with vertical sides&mdash;and just before reaching
+our first icebergs--table-like objects with vertical sides--and just before reaching
 the Antarctic Circle, which we crossed on October 20 with appropriately quaint ceremonies, we
 were considerably troubled with field ice. The falling temperature bothered me considerably
 after our long voyage through the tropics, but I tried to brace up for the worse rigours to
 come. On many occasions the curious atmospheric effects enchanted me vastly; these including
-a strikingly vivid mirage&mdash;the first I had ever seen&mdash;in which distant bergs became
+a strikingly vivid mirage--the first I had ever seen--in which distant bergs became
 the battlements of unimaginable cosmic castles.  
 
   Pushing through the ice, which was fortunately neither extensive nor thickly
 packed, we regained open water at South Latitude 67&deg;, East Longitude 175&deg;. On the morning
-of October 26 a strong &ldquo;land blink&rdquo; appeared on the south, and before noon we all
+of October 26 a strong  "land blink " appeared on the south, and before noon we all
 felt a thrill of excitement at beholding a vast, lofty, and snow-clad mountain chain which opened
 out and covered the whole vista ahead. At last we had encountered an outpost of the great unknown
 continent and its cryptic world of frozen death. These peaks were obviously the Admiralty Range
@@ -139,9 +139,9 @@ the afternoon we entered McMurdo Sound and stood off the coast in the lee of smo
 The scoriac peak towered up some 12,700 feet against the eastern sky, like a Japanese print
 of the sacred Fujiyama; while beyond it rose the white, ghost-like height of Mt. Terror, 10,900
 feet in altitude, and now extinct as a volcano. Puffs of smoke from Erebus came intermittently,
-and one of the graduate assistants&mdash;a brilliant young fellow named Danforth&mdash;pointed
+and one of the graduate assistants--a brilliant young fellow named Danforth--pointed
 out what looked like lava on the snowy slope; remarking that this mountain, discovered in 1840,
-had undoubtedly been the source of Poe&rsquo;s image when he wrote seven years later of  
+had undoubtedly been the source of Poe's image when he wrote seven years later of  
 
   
   
@@ -149,18 +149,18 @@ had undoubtedly been the source of Poe&rsquo;s image when he wrote seven years l
      
         
            
-              &ldquo;&mdash;the lavas that restlessly roll  
+               "--the lavas that restlessly roll  
             Their sulphurous currents down Yaanek  
-              In the ultimate climes of the pole&mdash;  
+              In the ultimate climes of the pole--  
             That groan as they roll down Mount Yaanek  
-              In the realms of the boreal pole.&rdquo;  
+              In the realms of the boreal pole. "  
         
      
   
     
 
 Danforth was a great reader of bizarre material, and had talked a good deal of Poe. I was interested
-myself because of the antarctic scene of Poe&rsquo;s only long story&mdash;the disturbing and
+myself because of the antarctic scene of Poe's only long story--the disturbing and
 enigmatical   Arthur Gordon Pym.   On the barren shore, and on the lofty ice barrier in the
 background, myriads of grotesque penguins squawked and flapped their fins; while many fat seals
 were visible on the water, swimming or sprawling across large cakes of slowly drifting ice.  
@@ -169,25 +169,25 @@ were visible on the water, swimming or sprawling across large cakes of slowly dr
 midnight on the morning of the 9th, carrying a line of cable from each of the ships and preparing
 to unload supplies by means of a breeches-buoy arrangement. Our sensations on first treading
 antarctic soil were poignant and complex, even though at this particular point the Scott and
-Shackleton expeditions had preceded us. Our camp on the frozen shore below the volcano&rsquo;s
+Shackleton expeditions had preceded us. Our camp on the frozen shore below the volcano's
 slope was only a provisional one; headquarters being kept aboard the   Arkham.   We landed
 all our drilling apparatus, dogs, sledges, tents, provisions, gasoline tanks, experimental ice-melting
-outfit, cameras both ordinary and a&euml;rial, a&euml;roplane parts, and other accessories,
+outfit, cameras both ordinary and aërial, aëroplane parts, and other accessories,
 including three small portable wireless outfits (besides those in the planes) capable of communicating
-with the   Arkham&rsquo;s   large outfit from any part of the antarctic continent that we
-would be likely to visit. The ship&rsquo;s outfit, communicating with the outside world, was
-to convey press reports to the   Arkham Advertiser&rsquo;s   powerful wireless station on
+with the   Arkham's   large outfit from any part of the antarctic continent that we
+would be likely to visit. The ship's outfit, communicating with the outside world, was
+to convey press reports to the   Arkham Advertiser's   powerful wireless station on
 Kingsport Head, Mass. We hoped to complete our work during a single antarctic summer; but if
 this proved impossible we would winter on the   Arkham,   sending the   Miskatonic   north
-before the freezing of the ice for another summer&rsquo;s supplies.  
+before the freezing of the ice for another summer's supplies.  
 
   I need not repeat what the newspapers have already published about our early
 work: of our ascent of Mt. Erebus; our successful mineral borings at several points on Ross
-Island and the singular speed with which Pabodie&rsquo;s apparatus accomplished them, even through
+Island and the singular speed with which Pabodie's apparatus accomplished them, even through
 solid rock layers; our provisional test of the small ice-melting equipment; our perilous ascent
-of the great barrier with sledges and supplies; and our final assembling of five huge a&euml;roplanes
-at the camp atop the barrier. The health of our land party&mdash;twenty men and 55 Alaskan sledge
-dogs&mdash;was remarkable, though of course we had so far encountered no really destructive
+of the great barrier with sledges and supplies; and our final assembling of five huge aëroplanes
+at the camp atop the barrier. The health of our land party--twenty men and 55 Alaskan sledge
+dogs--was remarkable, though of course we had so far encountered no really destructive
 temperatures or windstorms. For the most part, the thermometer varied between zero and 20&deg;
 or 25&deg; above, and our experience with New England winters had accustomed us to rigours of
 this sort. The barrier camp was semi-permanent, and destined to be a storage cache for gasoline,
@@ -213,23 +213,23 @@ towering up to its height of almost 15,000 feet.
 
   The successful establishment of the southern base above the glacier in Latitude
 86&deg; 7&prime;, East Longitude 174&deg; 23&prime;, and the phenomenally rapid and effective borings and
-blastings made at various points reached by our sledge trips and short a&euml;roplane flights,
+blastings made at various points reached by our sledge trips and short aëroplane flights,
 are matters of history; as is the arduous and triumphant ascent of Mt. Nansen by Pabodie and
-two of the graduate students&mdash;Gedney and Carroll&mdash;on December 13&ndash;15. We were
+two of the graduate students--Gedney and Carroll--on December 13&ndash;15. We were
 some 8500 feet above sea-level, and when experimental drillings revealed solid ground only twelve
 feet down through the snow and ice at certain points, we made considerable use of the small
 melting apparatus and sunk bores and performed dynamiting at many places where no previous explorer
 had ever thought of securing mineral specimens. The pre-Cambrian granites and beacon sandstones
 thus obtained confirmed our belief that this plateau was homogeneous with the great bulk of
 the continent to the west, but somewhat different from the parts lying eastward below South
-America&mdash;which we then thought to form a separate and smaller continent divided from the
+America--which we then thought to form a separate and smaller continent divided from the
 larger one by a frozen junction of Ross and Weddell Seas, though Byrd has since disproved the
 hypothesis.  
 
   In certain of the sandstones, dynamited and chiselled after boring revealed
-their nature, we found some highly interesting fossil markings and fragments&mdash;notably ferns,
-seaweeds, trilobites, crinoids, and such molluscs as lingulae and gasteropods&mdash;all of which
-seemed of real significance in connexion with the region&rsquo;s primordial history. There was
+their nature, we found some highly interesting fossil markings and fragments--notably ferns,
+seaweeds, trilobites, crinoids, and such molluscs as lingulae and gasteropods--all of which
+seemed of real significance in connexion with the region's primordial history. There was
 also a queer triangular, striated marking about a foot in greatest diameter which Lake pieced
 together from three fragments of slate brought up from a deep-blasted aperture. These fragments
 came from a point to the westward, near the Queen Alexandra Range; and Lake, as a biologist,
@@ -260,45 +260,45 @@ excellent; lime-juice well offsetting the steady diet of tinned and salted food,
 generally above zero enabling us to do without our thickest furs. It was now midsummer, and
 with haste and care we might be able to conclude work by March and avoid a tedious wintering
 through the long antarctic night. Several savage windstorms had burst upon us from the west,
-but we had escaped damage through the skill of Atwood in devising rudimentary a&euml;roplane
+but we had escaped damage through the skill of Atwood in devising rudimentary aëroplane
 shelters and windbreaks of heavy snow blocks, and reinforcing the principal camp buildings with
 snow. Our good luck and efficiency had indeed been almost uncanny.  
 
-  The outside world knew, of course, of our programme, and was told also of Lake&rsquo;s
-strange and dogged insistence on a westward&mdash;or rather, northwestward&mdash;prospecting
+  The outside world knew, of course, of our programme, and was told also of Lake's
+strange and dogged insistence on a westward--or rather, northwestward--prospecting
 trip before our radical shift to the new base. It seems he had pondered a great deal, and with
 alarmingly radical daring, over that triangular striated marking in the slate; reading into
 it certain contradictions in Nature and geological period which whetted his curiosity to the
 utmost, and made him avid to sink more borings and blastings in the west-stretching formation
 to which the exhumed fragments evidently belonged. He was strangely convinced that the marking
 was the print of some bulky, unknown, and radically unclassifiable organism of considerably
-advanced evolution, notwithstanding that the rock which bore it was of so vastly ancient a date&mdash;Cambrian
-if not actually pre-Cambrian&mdash;as to preclude the probable existence not only of all highly
+advanced evolution, notwithstanding that the rock which bore it was of so vastly ancient a date--Cambrian
+if not actually pre-Cambrian--as to preclude the probable existence not only of all highly
 evolved life, but of any life at all above the unicellular or at most the trilobite stage. These
 fragments, with their odd marking, must have been 500 million to a thousand million years old.  
 
     II.    
 
-Popular imagination, I judge, responded actively to our wireless bulletins of Lake&rsquo;s start
+Popular imagination, I judge, responded actively to our wireless bulletins of Lake's start
 northwestward into regions never trodden by human foot or penetrated by human imagination; though
 we did not mention his wild hopes of revolutionising the entire sciences of biology and geology.
-His preliminary sledging and boring journey of January 11&ndash;18 with Pabodie and five others&mdash;marred
-by the loss of two dogs in an upset when crossing one of the great pressure-ridges in the ice&mdash;had
+His preliminary sledging and boring journey of January 11&ndash;18 with Pabodie and five others--marred
+by the loss of two dogs in an upset when crossing one of the great pressure-ridges in the ice--had
 brought up more and more of the Archaean slate; and even I was interested by the singular profusion
 of evident fossil markings in that unbelievably ancient stratum. These markings, however, were
 of very primitive life-forms involving no great paradox except that any life-forms should occur
 in rock as definitely pre-Cambrian as this seemed to be; hence I still failed to see the good
-sense of Lake&rsquo;s demand for an interlude in our time-saving programme&mdash;an interlude
-requiring the use of all four planes, many men, and the whole of the expedition&rsquo;s mechanical
+sense of Lake's demand for an interlude in our time-saving programme--an interlude
+requiring the use of all four planes, many men, and the whole of the expedition's mechanical
 apparatus. I did not, in the end, veto the plan; though I decided not to accompany the northwestward
-party despite Lake&rsquo;s plea for my geological advice. While they were gone, I would remain
+party despite Lake's plea for my geological advice. While they were gone, I would remain
 at the base with Pabodie and five men and work out final plans for the eastward shift. In preparation
 for this transfer one of the planes had begun to move up a good gasoline supply from McMurdo
 Sound; but this could wait temporarily. I kept with me one sledge and nine dogs, since it is
 unwise to be at any time without possible transportation in an utterly tenantless world of aeon-long
 death.  
 
-  Lake&rsquo;s sub-expedition into the unknown, as everyone will recall, sent
+  Lake's sub-expedition into the unknown, as everyone will recall, sent
 out its own reports from the short-wave transmitters on the planes; these being simultaneously
 picked up by our apparatus at the southern base and by the   Arkham   at McMurdo Sound, whence
 they were relayed to the outside world on wave-lengths up to fifty metres. The start was made
@@ -313,51 +313,51 @@ puzzlement.
 the teeth of a raw and piercing gale; and when I despatched a message of protest against further
 hazards, Lake replied curtly that his new specimens made any hazard worth taking. I saw that
 his excitement had reached the point of mutiny, and that I could do nothing to check this headlong
-risk of the whole expedition&rsquo;s success; but it was appalling to think of his plunging
+risk of the whole expedition's success; but it was appalling to think of his plunging
 deeper and deeper into that treacherous and sinister white immensity of tempests and unfathomed
 mysteries which stretched off for some 1500 miles to the half-known, half-suspected coast-line
 of Queen Mary and Knox Lands.  
 
   Then, in about an hour and a half more, came that doubly excited message from
-Lake&rsquo;s moving plane which almost reversed my sentiments and made me wish I had accompanied
+Lake's moving plane which almost reversed my sentiments and made me wish I had accompanied
 the party.  
 
-    &ldquo;10:05 P.M. On the wing. After snowstorm, have spied mountain-range ahead
+     "10:05 P.M. On the wing. After snowstorm, have spied mountain-range ahead
 higher than any hitherto seen. May equal Himalayas allowing for height of plateau. Probable
 Latitude 76&deg; 15&prime;, Longitude 113&deg; 10&prime; E. Reaches far as can see to right and left. Suspicion
-of two smoking cones. All peaks black and bare of snow. Gale blowing off them impedes navigation.&rdquo;  
+of two smoking cones. All peaks black and bare of snow. Gale blowing off them impedes navigation. "  
 
   After that Pabodie, the men, and I hung breathlessly over the receiver. Thought
 of this titanic mountain rampart 700 miles away inflamed our deepest sense of adventure; and
 we rejoiced that our expedition, if not ourselves personally, had been its discoverers. In half
 an hour Lake called us again.  
 
-    &ldquo;Moulton&rsquo;s plane forced down on plateau in foothills, but nobody
+     "Moulton's plane forced down on plateau in foothills, but nobody
 hurt and perhaps can repair. Shall transfer essentials to other three for return or further
 moves if necessary, but no more heavy plane travel needed just now. Mountains surpass anything
-in imagination. Am going up scouting in Carroll&rsquo;s plane, with all weight out. You can&rsquo;t
+in imagination. Am going up scouting in Carroll's plane, with all weight out. You can't
 imagine anything like this. Highest peaks must go over 35,000 feet. Everest out of the running.
 Atwood to work out height with theodolite while Carroll and I go up. Probably wrong about cones,
 for formations look stratified. Possibly pre-Cambrian slate with other strata mixed in. Queer
-skyline effects&mdash;regular sections of cubes clinging to highest peaks. Whole thing marvellous
+skyline effects--regular sections of cubes clinging to highest peaks. Whole thing marvellous
 in red-gold light of low sun. Like land of mystery in a dream or gateway to forbidden world
-of untrodden wonder. Wish you were here to study.&rdquo;  
+of untrodden wonder. Wish you were here to study. "  
 
   Though it was technically sleeping-time, not one of us listeners thought for
 a moment of retiring. It must have been a good deal the same at McMurdo Sound, where the supply
 cache and the   Arkham   were also getting the messages; for Capt. Douglas gave out a call
 congratulating everybody on the important find, and Sherman, the cache operator, seconded his
-sentiments. We were sorry, of course, about the damaged a&euml;roplane; but hoped it could be
+sentiments. We were sorry, of course, about the damaged aëroplane; but hoped it could be
 easily mended. Then, at 11 P.M., came another call from Lake.  
 
-    &ldquo;Up with Carroll over highest foothills. Don&rsquo;t dare try really
+     "Up with Carroll over highest foothills. Don't dare try really
 tall peaks in present weather, but shall later. Frightful work climbing, and hard going at this
-altitude, but worth it. Great range fairly solid, hence can&rsquo;t get any glimpses beyond.
+altitude, but worth it. Great range fairly solid, hence can't get any glimpses beyond.
 Main summits exceed Himalayas, and very queer. Range looks like pre-Cambrian slate, with plain
 signs of many other upheaved strata. Was wrong about volcanism. Goes farther in either direction
 than we can see. Swept clear of snow above about 21,000 feet. Odd formations on slopes of highest
 mountains. Great low square blocks with exactly vertical sides, and rectangular lines of low
-vertical ramparts, like the old Asian castles clinging to steep mountains in Roerich&rsquo;s
+vertical ramparts, like the old Asian castles clinging to steep mountains in Roerich's
 paintings. Impressive from distance. Flew close to some, and Carroll thought they were formed
 of smaller separate pieces, but that is probably weathering. Most edges crumbled and rounded
 off as if exposed to storms and climate changes for millions of years. Parts, especially upper
@@ -366,13 +366,13 @@ evidently crystalline origin. Close flying shews many cave-mouths, some unusuall
 outline, square or semicircular. You must come and investigate. Think I saw rampart squarely
 on top of one peak. Height seems about 30,000 to 35,000 feet. Am up 21,500 myself, in devilish
 gnawing cold. Wind whistles and pipes through passes and in and out of caves, but no flying
-danger so far.&rdquo;  
+danger so far. "  
 
   From then on for another half-hour Lake kept up a running fire of comment,
 and expressed his intention of climbing some of the peaks on foot. I replied that I would join
 him as soon as he could send a plane, and that Pabodie and I would work out the best gasoline
-plan&mdash;just where and how to concentrate our supply in view of the expedition&rsquo;s altered
-character. Obviously, Lake&rsquo;s boring operations, as well as his a&euml;roplane activities,
+plan--just where and how to concentrate our supply in view of the expedition's altered
+character. Obviously, Lake's boring operations, as well as his aëroplane activities,
 would need a great deal delivered for the new base which he was to establish at the foot of
 the mountains; and it was possible that the eastward flight might not be made after all this
 season. In connexion with this business I called Capt. Douglas and asked him to get as much
@@ -381,22 +381,22 @@ A direct route across the unknown region between Lake and McMurdo Sound was what
 to establish.  
 
   Lake called me later to say that he had decided to let the camp stay where
-Moulton&rsquo;s plane had been forced down, and where repairs had already progressed somewhat.
+Moulton's plane had been forced down, and where repairs had already progressed somewhat.
 The ice-sheet was very thin, with dark ground here and there visible, and he would sink some
 borings and blasts at that very point before making any sledge trips or climbing expeditions.
 He spoke of the ineffable majesty of the whole scene, and the queer state of his sensations
 at being in the lee of vast silent pinnacles whose ranks shot up like a wall reaching the sky
-at the world&rsquo;s rim. Atwood&rsquo;s theodolite observations had placed the height of the
+at the world's rim. Atwood's theodolite observations had placed the height of the
 five tallest peaks at from 30,000 to 34,000 feet. The windswept nature of the terrain clearly
 disturbed Lake, for it argued the occasional existence of prodigious gales violent beyond anything
 we had so far encountered. His camp lay a little more than five miles from where the higher
-foothills abruptly rose. I could almost trace a note of subconscious alarm in his words&mdash;flashed
-across a glacial void of 700 miles&mdash;as he urged that we all hasten with the matter and
+foothills abruptly rose. I could almost trace a note of subconscious alarm in his words--flashed
+across a glacial void of 700 miles--as he urged that we all hasten with the matter and
 get the strange new region disposed of as soon as possible. He was about to rest now, after
-a continuous day&rsquo;s work of almost unparalleled speed, strenuousness, and results.  
+a continuous day's work of almost unparalleled speed, strenuousness, and results.  
 
   In the morning I had a three-cornered wireless talk with Lake and Capt. Douglas
-at their widely separated bases; and it was agreed that one of Lake&rsquo;s planes would come
+at their widely separated bases; and it was agreed that one of Lake's planes would come
 to my base for Pabodie, the five men, and myself, as well as for all the fuel it could carry.
 The rest of the fuel question, depending on our decision about an easterly trip, could wait
 for a few days; since Lake had enough for immediate camp heat and borings. Eventually the old
@@ -405,16 +405,16 @@ it till the next summer, and meanwhile Lake must send a plane to explore a direc
 his new mountains and McMurdo Sound.  
 
   Pabodie and I prepared to close our base for a short or long period, as the
-case might be. If we wintered in the antarctic we would probably fly straight from Lake&rsquo;s
+case might be. If we wintered in the antarctic we would probably fly straight from Lake's
 base to the   Arkham   without returning to this spot. Some of our conical tents had already
 been reinforced by blocks of hard snow, and now we decided to complete the job of making a permanent
 Esquimau village. Owing to a very liberal tent supply, Lake had with him all that his base would
 need even after our arrival. I wirelessed that Pabodie and I would be ready for the northwestward
-move after one day&rsquo;s work and one night&rsquo;s rest.  
+move after one day's work and one night's rest.  
 
   Our labours, however, were not very steady after 4 P.M.; for about that time
 Lake began sending in the most extraordinary and excited messages. His working day had started
-unpropitiously; since an a&euml;roplane survey of the nearly exposed rock surfaces shewed an
+unpropitiously; since an aëroplane survey of the nearly exposed rock surfaces shewed an
 entire absence of those Archaean and primordial strata for which he was looking, and which formed
 so great a part of the colossal peaks that loomed up at a tantalising distance from the camp.
 Most of the rocks glimpsed were apparently Jurassic and Comanchian sandstones and Permian and
@@ -424,18 +424,18 @@ years older. It was clear to him that in order to recover the Archaean slate vei
 had found the odd markings, he would have to make a long sledge trip from these foothills to
 the steep slopes of the gigantic mountains themselves.  
 
-  He had resolved, nevertheless, to do some local boring as part of the expedition&rsquo;s
+  He had resolved, nevertheless, to do some local boring as part of the expedition's
 general programme; hence set up the drill and put five men to work with it while the rest finished
-settling the camp and repairing the damaged a&euml;roplane. The softest visible rock&mdash;a
-sandstone about a quarter of a mile from the camp&mdash;had been chosen for the first sampling;
+settling the camp and repairing the damaged aëroplane. The softest visible rock--a
+sandstone about a quarter of a mile from the camp--had been chosen for the first sampling;
 and the drill made excellent progress without much supplementary blasting. It was about three
 hours afterward, following the first really heavy blast of the operation, that the shouting
-of the drill crew was heard; and that young Gedney&mdash;the acting foreman&mdash;rushed into
+of the drill crew was heard; and that young Gedney--the acting foreman--rushed into
 the camp with the startling news.  
 
   They had struck a cave. Early in the boring the sandstone had given place to
 a vein of Comanchian limestone full of minute fossil cephalopods, corals, echini, and spirifera,
-and with occasional suggestions of siliceous sponges and marine vertebrate bones&mdash;the latter
+and with occasional suggestions of siliceous sponges and marine vertebrate bones--the latter
 probably of teliosts, sharks, and ganoids. This in itself was important enough, as affording
 the first vertebrate fossils the expedition had yet secured; but when shortly afterward the
 drill-head dropped through the stratum into apparent vacancy, a wholly new and doubly intense
@@ -453,7 +453,7 @@ Washed down from unknown jungles of Mesozoic tree-ferns and fungi, and forests o
 fan-palms, and primitive angiosperms, this osseous medley contained representatives of more
 Cretaceous, Eocene, and other animal species than the greatest palaeontologist could have counted
 or classified in a year. Molluscs, crustacean armour, fishes, amphibians, reptiles, birds, and
-early mammals&mdash;great and small, known and unknown. No wonder Gedney ran back to the camp
+early mammals--great and small, known and unknown. No wonder Gedney ran back to the camp
 shouting, and no wonder everyone else dropped work and rushed headlong through the biting cold
 to where the tall derrick marked a new-found gateway to secrets of inner earth and vanished
 aeons.  
@@ -463,7 +463,7 @@ message in his notebook and had young Moulton run back to the camp to despatch i
 This was my first word of the discovery, and it told of the identification of early shells,
 bones of ganoids and placoderms, remnants of labyrinthodonts and thecodonts, great mososaur
 skull fragments, dinosaur vertebrae and armour-plates, pterodactyl teeth and wing-bones, archaeopteryx
-debris, Miocene sharks&rsquo; teeth, primitive bird-skulls, and skulls, vertebrae, and other
+debris, Miocene sharks' teeth, primitive bird-skulls, and skulls, vertebrae, and other
 bones of archaic mammals such as palaeotheres, xiphodons, dinocerases, eohippi, oreodons, and
 titanotheres. There was nothing as recent as a mastodon, elephant, true camel, deer, or bovine
 animal; hence Lake concluded that the last deposits had occurred during the Oligocene age, and
@@ -474,26 +474,26 @@ least thirty million years.
 the highest degree. Though the limestone formation was, on the evidence of such typical imbedded
 fossils as ventriculites, positively and unmistakably Comanchian and not a particle earlier;
 the free fragments in the hollow space included a surprising proportion from organisms hitherto
-considered as peculiar to far older periods&mdash;even rudimentary fishes, molluscs, and corals
+considered as peculiar to far older periods--even rudimentary fishes, molluscs, and corals
 as remote as the Silurian or Ordovician. The inevitable inference was that in this part of the
 world there had been a remarkable and unique degree of continuity between the life of over 300
 million years ago and that of only thirty million years ago. How far this continuity had extended
 beyond the Oligocene age when the cavern was closed, was of course past all speculation. In
-any event, the coming of the frightful ice in the Pleistocene some 500,000 years ago&mdash;a
-mere yesterday as compared with the age of this cavity&mdash;must have put an end to any of
+any event, the coming of the frightful ice in the Pleistocene some 500,000 years ago--a
+mere yesterday as compared with the age of this cavity--must have put an end to any of
 the primal forms which had locally managed to outlive their common terms.  
 
   Lake was not content to let his first message stand, but had another bulletin
 written and despatched across the snow to the camp before Moulton could get back. After that
-Moulton stayed at the wireless in one of the planes; transmitting to me&mdash;and to the   
-Arkham   for relaying to the outside world&mdash;the frequent postscripts which Lake sent
+Moulton stayed at the wireless in one of the planes; transmitting to me--and to the   
+Arkham   for relaying to the outside world--the frequent postscripts which Lake sent
 him by a succession of messengers. Those who followed the newspapers will remember the excitement
-created among men of science by that afternoon&rsquo;s reports&mdash;reports which have finally
+created among men of science by that afternoon's reports--reports which have finally
 led, after all these years, to the organisation of that very Starkweather-Moore Expedition which
 I am so anxious to dissuade from its purposes. I had better give the messages literally as Lake
 sent them, and as our base operator McTighe translated them from his pencil shorthand.  
 
-    &ldquo;Fowler makes discovery of highest importance in sandstone and limestone
+     "Fowler makes discovery of highest importance in sandstone and limestone
 fragments from blasts. Several distinct triangular striated prints like those in Archaean slate,
 proving that source survived from over 600 million years ago to Comanchian times without more
 than moderate morphological changes and decrease in average size. Comanchian prints apparently
@@ -503,20 +503,20 @@ with my previous work and amplifies conclusions. Appears to indicate, as I suspe
 has seen whole cycle or cycles of organic life before known one that begins with Archaeozoic
 cells. Was evolved and specialised not later than thousand million years ago, when planet was
 young and recently uninhabitable for any life-forms or normal protoplasmic structure. Question
-arises when, where, and how development took place.&rdquo;  
+arises when, where, and how development took place. "  
 
-  &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;  
+  ----------------  
 
-  &ldquo;Later. Examining certain skeletal fragments of large land and marine
+   "Later. Examining certain skeletal fragments of large land and marine
 saurians and primitive mammals, find singular local wounds or injuries to bony structure not
-attributable to any known predatory or carnivorous animal of any period. Of two sorts&mdash;straight,
+attributable to any known predatory or carnivorous animal of any period. Of two sorts--straight,
 penetrant bores, and apparently hacking incisions. One or two cases of cleanly severed bone.
 Not many specimens affected. Am sending to camp for electric torches. Will extend search area
-underground by hacking away stalactites.&rdquo;  
+underground by hacking away stalactites. "  
 
-  &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;  
+  ----------------  
 
-  &ldquo;Still later. Have found peculiar soapstone fragment about six inches
+   "Still later. Have found peculiar soapstone fragment about six inches
 across and an inch and a half thick, wholly unlike any visible local formation. Greenish, but
 no evidences to place its period. Has curious smoothness and regularity. Shaped like five-pointed
 star with tips broken off, and signs of other cleavage at inward angles and in centre of surface.
@@ -524,11 +524,11 @@ Small, smooth depression in centre of unbroken surface. Arouses much curiosity a
 and weathering. Probably some freak of water action. Carroll, with magnifier, thinks he can
 make out additional markings of geologic significance. Groups of tiny dots in regular patterns.
 Dogs growing uneasy as we work, and seem to hate this soapstone. Must see if it has any peculiar
-odour. Will report again when Mills gets back with light and we start on underground area.&rdquo;  
+odour. Will report again when Mills gets back with light and we start on underground area. "  
 
-  &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;  
+  ----------------  
 
-  &ldquo;10:15 P.M. Important discovery. Orrendorf and Watkins, working underground
+   "10:15 P.M. Important discovery. Orrendorf and Watkins, working underground
 at 9:45 with light, found monstrous barrel-shaped fossil of wholly unknown nature; probably
 vegetable unless overgrown specimen of unknown marine radiata. Tissue evidently preserved by
 mineral salts. Tough as leather, but astonishing flexibility retained in places. Marks of broken-off
@@ -540,25 +540,25 @@ one, which gives almost seven-foot wing spread. Arrangement reminds one of certa
 of primal myth, especially fabled Elder Things in   Necronomicon.   These wings seem to be
 membraneous, stretched on framework of glandular tubing. Apparent minute orifices in frame tubing
 at wing tips. Ends of body shrivelled, giving no clue to interior or to what has been broken
-off there. Must dissect when we get back to camp. Can&rsquo;t decide whether vegetable or animal.
+off there. Must dissect when we get back to camp. Can't decide whether vegetable or animal.
 Many features obviously of almost incredible primitiveness. Have set all hands cutting stalactites
 and looking for further specimens. Additional scarred bones found, but these must wait. Having
-trouble with dogs. They can&rsquo;t endure the new specimen, and would probably tear it to pieces
-if we didn&rsquo;t keep it at a distance from them.&rdquo;  
+trouble with dogs. They can't endure the new specimen, and would probably tear it to pieces
+if we didn't keep it at a distance from them. "  
 
-  &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;  
+  ----------------  
 
-  &ldquo;11:30 P.M. Attention, Dyer, Pabodie, Douglas. Matter of highest&mdash;I
-might say transcendent&mdash;importance.   Arkham   must relay to Kingsport Head Station
+   "11:30 P.M. Attention, Dyer, Pabodie, Douglas. Matter of highest--I
+might say transcendent--importance.   Arkham   must relay to Kingsport Head Station
 at once. Strange barrel growth is the Archaean thing that left prints in rocks. Mills, Boudreau,
 and Fowler discover cluster of thirteen more at underground point forty feet from aperture.
 Mixed with curiously rounded and configured soapstone fragments smaller than one previously
-found&mdash;star-shaped but no marks of breakage except at some of the points. Of organic specimens,
+found--star-shaped but no marks of breakage except at some of the points. Of organic specimens,
 eight apparently perfect, with all appendages. Have brought all to surface, leading off dogs
 to distance. They cannot stand the things. Give close attention to description and repeat back
 for accuracy. Papers must get this right.  
 
-  &ldquo;Objects are eight feet long all over. Six-foot five-ridged barrel torso
+   "Objects are eight feet long all over. Six-foot five-ridged barrel torso
 3.5 feet central diameter, 1 foot end diameters. Dark grey, flexible, and infinitely tough.
 Seven-foot membraneous wings of same colour, found folded, spread out of furrows between ridges.
 Wing framework tubular or glandular, of lighter grey, with orifices at wing tips. Spread wings
@@ -568,7 +568,7 @@ but expansible to maximum length of over 3 feet. Like arms of primitive crinoid.
 3 inches diameter branch after 6 inches into five sub-stalks, each of which branches after 8
 inches into five small, tapering tentacles or tendrils, giving each stalk a total of 25 tentacles.  
 
-  &ldquo;At top of torso blunt bulbous neck of lighter grey with gill-like suggestions
+   "At top of torso blunt bulbous neck of lighter grey with gill-like suggestions
 holds yellowish five-pointed starfish-shaped apparent head covered with three-inch wiry cilia
 of various prismatic colours. Head thick and puffy, about 2 feet point to point, with three-inch
 flexible yellowish tubes projecting from each point. Slit in exact centre of top probably breathing
@@ -580,7 +580,7 @@ with sharp white tooth-like projections. Probable mouths. All these tubes, cilia
 of starfish-head found folded tightly down; tubes and points clinging to bulbous neck and torso.
 Flexibility surprising despite vast toughness.  
 
-  &ldquo;At bottom of torso rough but dissimilarly functioning counterparts of
+   "At bottom of torso rough but dissimilarly functioning counterparts of
 head arrangements exist. Bulbous light-grey pseudo-neck, without gill suggestions, holds greenish
 five-pointed starfish-arrangement. Tough, muscular arms 4 feet long and tapering from 7 inches
 diameter at base to about 2.5 at point. To each point is attached small end of a greenish five-veined
@@ -593,47 +593,47 @@ sort, marine or otherwise. When moved, display suggestions of exaggerated muscul
 all these projections tightly folded over pseudo-neck and end of torso, corresponding to projections
 at other end.  
 
-  &ldquo;Cannot yet assign positively to animal or vegetable kingdom, but odds
+   "Cannot yet assign positively to animal or vegetable kingdom, but odds
 now favour animal. Probably represents incredibly advanced evolution of radiata without loss
 of certain primitive features. Echinoderm resemblances unmistakable despite local contradictory
 evidences. Wing structure puzzles in view of probable marine habitat, but may have use in water
-navigation. Symmetry is curiously vegetable-like, suggesting vegetable&rsquo;s essentially up-and-down
-structure rather than animal&rsquo;s fore-and-aft structure. Fabulously early date of evolution,
+navigation. Symmetry is curiously vegetable-like, suggesting vegetable's essentially up-and-down
+structure rather than animal's fore-and-aft structure. Fabulously early date of evolution,
 preceding even simplest Archaean protozoa hitherto known, baffles all conjecture as to origin.  
 
-  &ldquo;Complete specimens have such uncanny resemblance to certain creatures
+   "Complete specimens have such uncanny resemblance to certain creatures
 of primal myth that suggestion of ancient existence outside antarctic becomes inevitable. Dyer
-and Pabodie have read   Necronomicon   and seen Clark Ashton Smith&rsquo;s nightmare paintings
+and Pabodie have read   Necronomicon   and seen Clark Ashton Smith's nightmare paintings
 based on text, and will understand when I speak of Elder Things supposed to have created all
 earth-life as jest or mistake. Students have always thought conception formed from morbid imaginative
 treatment of very ancient tropical radiata. Also like prehistoric folklore things Wilmarth has
-spoken of&mdash;Cthulhu cult appendages, etc.  
+spoken of--Cthulhu cult appendages, etc.  
 
-  &ldquo;Vast field of study opened. Deposits probably of late Cretaceous or
+   "Vast field of study opened. Deposits probably of late Cretaceous or
 early Eocene period, judging from associated specimens. Massive stalagmites deposited above
 them. Hard work hewing out, but toughness prevented damage. State of preservation miraculous,
 evidently owing to limestone action. No more found so far, but will resume search later. Job
-now to get fourteen huge specimens to camp without dogs, which bark furiously and can&rsquo;t
-be trusted near them. With nine men&mdash;three left to guard the dogs&mdash;we ought to manage
+now to get fourteen huge specimens to camp without dogs, which bark furiously and can't
+be trusted near them. With nine men--three left to guard the dogs--we ought to manage
 the three sledges fairly well, though wind is bad. Must establish plane communication with McMurdo
-Sound and begin shipping material. But I&rsquo;ve got to dissect one of these things before
+Sound and begin shipping material. But I've got to dissect one of these things before
 we take any rest. Wish I had a real laboratory here. Dyer better kick himself for having tried
-to stop my westward trip. First the world&rsquo;s greatest mountains, and then this. If this
-last isn&rsquo;t the high spot of the expedition, I don&rsquo;t know what is. We&rsquo;re made
+to stop my westward trip. First the world's greatest mountains, and then this. If this
+last isn't the high spot of the expedition, I don't know what is. We're made
 scientifically. Congrats, Pabodie, on the drill that opened up the cave. Now will   Arkham  
-please repeat description?&rdquo;  
+please repeat description? "  
 
   The sensations of Pabodie and myself at receipt of this report were almost
 beyond description, nor were our companions much behind us in enthusiasm. McTighe, who had hastily
 translated a few high spots as they came from the droning receiving set, wrote out the entire
-message from his shorthand version as soon as Lake&rsquo;s operator signed off. All appreciated
+message from his shorthand version as soon as Lake's operator signed off. All appreciated
 the epoch-making significance of the discovery, and I sent Lake congratulations as soon as the
-  Arkham&rsquo;s   operator had repeated back the descriptive parts as requested; and my
+  Arkham's   operator had repeated back the descriptive parts as requested; and my
 example was followed by Sherman from his station at the McMurdo Sound supply cache, as well
 as by Capt. Douglas of the   Arkham.   Later, as head of the expedition, I added some remarks
 to be relayed through the   Arkham   to the outside world. Of course, rest was an absurd
-thought amidst this excitement; and my only wish was to get to Lake&rsquo;s camp as quickly
-as I could. It disappointed me when he sent word that a rising mountain gale made early a&euml;rial
+thought amidst this excitement; and my only wish was to get to Lake's camp as quickly
+as I could. It disappointed me when he sent word that a rising mountain gale made early aërial
 travel impossible.  
 
   But within an hour and a half interest again rose to banish disappointment.
@@ -646,7 +646,7 @@ one on which Lake was making crude attempts at dissection.
 
   This dissection seemed to be a greater task than had been expected; for despite
 the heat of a gasoline stove in the newly raised laboratory tent, the deceptively flexible tissues
-of the chosen specimen&mdash;a powerful and intact one&mdash;lost nothing of their more than
+of the chosen specimen--a powerful and intact one--lost nothing of their more than
 leathery toughness. Lake was puzzled as to how he might make the requisite incisions without
 violence destructive enough to upset all the structural niceties he was looking for. He had,
 it is true, seven more perfect specimens; but these were too few to use up recklessly unless
@@ -660,10 +660,10 @@ anomalous tissue, but the little that was achieved left us all awed and bewilder
 biology would have to be wholly revised, for this thing was no product of any cell-growth science
 knows about. There had been scarcely any mineral replacement, and despite an age of perhaps
 forty million years the internal organs were wholly intact. The leathery, undeteriorative, and
-almost indestructible quality was an inherent attribute of the thing&rsquo;s form of organisation;
+almost indestructible quality was an inherent attribute of the thing's form of organisation;
 and pertained to some palaeogean cycle of invertebrate evolution utterly beyond our powers of
 speculation. At first all that Lake found was dry, but as the heated tent produced its thawing
-effect, organic moisture of pungent and offensive odour was encountered toward the thing&rsquo;s
+effect, organic moisture of pungent and offensive odour was encountered toward the thing's
 uninjured side. It was not blood, but a thick, dark-green fluid apparently answering the same
 purpose. By the time Lake reached this stage all 37 dogs had been brought to the still uncompleted
 corral near the camp; and even at that distance set up a savage barking and show of restlessness
@@ -676,7 +676,7 @@ up so many vegetable evidences that Lake was left hopelessly at sea. It had dige
 and eliminated waste matter through the reddish tubes of its starfish-shaped base. Cursorily,
 one would say that its respiratory apparatus handled oxygen rather than carbon dioxide; and
 there were odd evidences of air-storage chambers and methods of shifting respiration from the
-external orifice to at least two other fully developed breathing-systems&mdash;gills and pores.
+external orifice to at least two other fully developed breathing-systems--gills and pores.
 Clearly, it was amphibian and probably adapted to long airless hibernation-periods as well.
 Vocal organs seemed present in connexion with the main respiratory system, but they presented
 anomalies beyond immediate solution. Articulate speech, in the sense of syllable-utterance,
@@ -698,22 +698,22 @@ and evidently developing from a thallus or prothallus.
 but was clearly something more. It was partly vegetable, but had three-fourths of the essentials
 of animal structure. That it was marine in origin, its symmetrical contour and certain other
 attributes clearly indicated; yet one could not be exact as to the limit of its later adaptations.
-The wings, after all, held a persistent suggestion of the a&euml;rial. How it could have undergone
+The wings, after all, held a persistent suggestion of the aërial. How it could have undergone
 its tremendously complex evolution on a new-born earth in time to leave prints in Archaean rocks
 was so far beyond conception as to make Lake whimsically recall the primal myths about Great
 Old Ones who filtered down from the stars and concocted earth-life as a joke or mistake; and
-the wild tales of cosmic hill things from Outside told by a folklorist colleague in Miskatonic&rsquo;s
+the wild tales of cosmic hill things from Outside told by a folklorist colleague in Miskatonic's
 English department.  
 
-  Naturally, he considered the possibility of the pre-Cambrian prints&rsquo;
+  Naturally, he considered the possibility of the pre-Cambrian prints'
 having been made by a less evolved ancestor of the present specimens; but quickly rejected this
 too facile theory upon considering the advanced structural qualities of the older fossils. If
 anything, the later contours shewed decadence rather than higher evolution. The size of the
 pseudo-feet had decreased, and the whole morphology seemed coarsened and simplified. Moreover,
 the nerves and organs just examined held singular suggestions of retrogression from forms still
 more complex. Atrophied and vestigial parts were surprisingly prevalent. Altogether, little
-could be said to have been solved; and Lake fell back on mythology for a provisional name&mdash;jocosely
-dubbing his finds &ldquo;The Elder Ones&rdquo;.  
+could be said to have been solved; and Lake fell back on mythology for a provisional name--jocosely
+dubbing his finds  "The Elder Ones ".  
 
   At about 2:30 A.M., having decided to postpone further work and get a little
 rest, he covered the dissected organism with a tarpaulin, emerged from the laboratory tent,
@@ -727,8 +727,8 @@ a problem even at their substantial distance and behind the higher and higher sn
 an increased quota of the men were hastening to raise around their quarters. He had to weight
 down the corners of the tent-cloth with heavy blocks of snow to hold it in place amidst the
 rising gale, for the titan mountains seemed about to deliver some gravely severe blasts. Early
-apprehensions about sudden antarctic winds were revived, and under Atwood&rsquo;s supervision
-precautions were taken to bank the tents, new dog-corral, and crude a&euml;roplane shelters
+apprehensions about sudden antarctic winds were revived, and under Atwood's supervision
+precautions were taken to bank the tents, new dog-corral, and crude aëroplane shelters
 with snow on the mountainward side. These latter shelters, begun with hard snow blocks during
 odd moments, were by no means as high as they should have been; and Lake finally detached all
 hands from other tasks to work on them.  
@@ -740,17 +740,17 @@ marvellous drills that had helped him make his discovery. Atwood also sent greet
 I gave Lake a warm word of congratulation, owning up that he was right about the western trip;
 and we all agreed to get in touch by wireless at ten in the morning. If the gale was then over,
 Lake would send a plane for the party at my base. Just before retiring I despatched a final
-message to the   Arkham   with instructions about toning down the day&rsquo;s news for the
+message to the   Arkham   with instructions about toning down the day's news for the
 outside world, since the full details seemed radical enough to rouse a wave of incredulity until
 further substantiated.  
 
     III.    
 
 None of us, I imagine, slept very heavily or continuously that morning; for both the excitement
-of Lake&rsquo;s discovery and the mounting fury of the wind were against such a thing. So savage
+of Lake's discovery and the mounting fury of the wind were against such a thing. So savage
 was the blast, even where we were, that we could not help wondering how much worse it was at
-Lake&rsquo;s camp, directly under the vast unknown peaks that bred and delivered it. McTighe
-was awake at ten o&rsquo;clock and tried to get Lake on the wireless, as agreed, but some electrical
+Lake's camp, directly under the vast unknown peaks that bred and delivered it. McTighe
+was awake at ten o'clock and tried to get Lake on the wireless, as agreed, but some electrical
 condition in the disturbed air to the westward seemed to prevent communication. We did, however,
 get the   Arkham,   and Douglas told me that he had likewise been vainly trying to reach
 Lake. He had not known about the wind, for very little was blowing at McMurdo Sound despite
@@ -759,15 +759,15 @@ its persistent rage where we were.
   Throughout the day we all listened anxiously and tried to get Lake at intervals,
 but invariably without results. About noon a positive frenzy of wind stampeded out of the west,
 causing us to fear for the safety of our camp; but it eventually died down, with only a moderate
-relapse at 2 P.M. After three o&rsquo;clock it was very quiet, and we redoubled our efforts
+relapse at 2 P.M. After three o'clock it was very quiet, and we redoubled our efforts
 to get Lake. Reflecting that he had four planes, each provided with an excellent short-wave
 outfit, we could not imagine any ordinary accident capable of crippling all his wireless equipment
 at once. Nevertheless the stony silence continued; and when we thought of the delirious force
 the wind must have had in his locality we could not help making the most direful conjectures.  
 
-  By six o&rsquo;clock our fears had become intense and definite, and after a
+  By six o'clock our fears had become intense and definite, and after a
 wireless consultation with Douglas and Thorfinnssen I resolved to take steps toward investigation.
-The fifth a&euml;roplane, which we had left at the McMurdo Sound supply cache with Sherman and
+The fifth aëroplane, which we had left at the McMurdo Sound supply cache with Sherman and
 two sailors, was in good shape and ready for instant use; and it seemed that the very emergency
 for which it had been saved was now upon us. I got Sherman by wireless and ordered him to join
 me with the plane and the two sailors at the southern base as quickly as possible; the air conditions
@@ -780,13 +780,13 @@ Lake with the wireless, but all to no purpose.
   Sherman, with the sailors Gunnarsson and Larsen, took off at 7:30; and reported
 a quiet flight from several points on the wing. They arrived at our base at midnight, and all
 hands at once discussed the next move. It was risky business sailing over the antarctic in a
-single a&euml;roplane without any line of bases, but no one drew back from what seemed like
-the plainest necessity. We turned in at two o&rsquo;clock for a brief rest after some preliminary
+single aëroplane without any line of bases, but no one drew back from what seemed like
+the plainest necessity. We turned in at two o'clock for a brief rest after some preliminary
 loading of the plane, but were up again in four hours to finish the loading and packing.  
 
-  At 7:15 A.M., January 25th, we started flying northwestward under McTighe&rsquo;s
+  At 7:15 A.M., January 25th, we started flying northwestward under McTighe's
 pilotage with ten men, seven dogs, a sledge, a fuel and food supply, and other items including
-the plane&rsquo;s wireless outfit. The atmosphere was clear, fairly quiet, and relatively mild
+the plane's wireless outfit. The atmosphere was clear, fairly quiet, and relatively mild
 in temperature; and we anticipated very little trouble in reaching the latitude and longitude
 designated by Lake as the site of his camp. Our apprehensions were over what we might find,
 or fail to find, at the end of our journey; for silence continued to answer all calls despatched
@@ -795,8 +795,8 @@ to the camp.
   Every incident of that four-and-a-half-hour flight is burned into my recollection
 because of its crucial position in my life. It marked my loss, at the age of fifty-four, of
 all that peace and balance which the normal mind possesses through its accustomed conception
-of external Nature and Nature&rsquo;s laws. Thenceforward the ten of us&mdash;but the student
-Danforth and myself above all others&mdash;were to face a hideously amplified world of lurking
+of external Nature and Nature's laws. Thenceforward the ten of us--but the student
+Danforth and myself above all others--were to face a hideously amplified world of lurking
 horrors which nothing can erase from our emotions, and which we would refrain from sharing with
 mankind in general if we could. The newspapers have printed the bulletins we sent from the moving
 plane; telling of our non-stop course, our two battles with treacherous upper-air gales, our
@@ -816,14 +816,14 @@ light against the provocative background of iridescent ice-dust clouds. In the w
 there was a persistent, pervasive hint of stupendous secrecy and potential revelation; as if
 these stark, nightmare spires marked the pylons of a frightful gateway into forbidden spheres
 of dream, and complex gulfs of remote time, space, and ultra-dimensionality. I could not help
-feeling that they were evil things&mdash;mountains of madness whose farther slopes looked out
+feeling that they were evil things--mountains of madness whose farther slopes looked out
 over some accursed ultimate abyss. That seething, half-luminous cloud-background held ineffable
 suggestions of a vague, ethereal   beyondness   far more than terrestrially spatial; and
 gave appalling reminders of the utter remoteness, separateness, desolation, and aeon-long death
 of this untrodden and unfathomed austral world.  
 
   It was young Danforth who drew our notice to the curious regularities of the
-higher mountain skyline&mdash;regularities like clinging fragments of perfect cubes, which Lake
+higher mountain skyline--regularities like clinging fragments of perfect cubes, which Lake
 had mentioned in his messages, and which indeed justified his comparison with the dream-like
 suggestions of primordial temple-ruins on cloudy Asian mountain-tops so subtly and strangely
 painted by Roerich. There was indeed something hauntingly Roerich-like about this whole unearthly
@@ -831,7 +831,7 @@ continent of mountainous mystery. I had felt it in October when we first caught 
 Land, and I felt it afresh now. I felt, too, another wave of uneasy consciousness of Archaean
 mythical resemblances; of how disturbingly this lethal realm corresponded to the evilly famed
 plateau of Leng in the primal writings. Mythologists have placed Leng in Central Asia; but the
-racial memory of man&mdash;or of his predecessors&mdash;is long, and it may well be that certain
+racial memory of man--or of his predecessors--is long, and it may well be that certain
 tales have come down from lands and mountains and temples of horror earlier than Asia and earlier
 than any human world we know. A few daring mystics have hinted at a pre-Pleistocene origin for
 the fragmentary Pnakotic Manuscripts, and have suggested that the devotees of Tsathoggua were
@@ -869,13 +869,13 @@ to find in it a taint of latent malignity and infinitely evil portent.
   I was glad when the mirage began to break up, though in the process the various
 nightmare turrets and cones assumed distorted temporary forms of even vaster hideousness. As
 the whole illusion dissolved to churning opalescence we began to look earthward again, and saw
-that our journey&rsquo;s end was not far off. The unknown mountains ahead rose dizzyingly up
+that our journey's end was not far off. The unknown mountains ahead rose dizzyingly up
 like a fearsome rampart of giants, their curious regularities shewing with startling clearness
 even without a field-glass. We were over the lowest foothills now, and could see amidst the
 snow, ice, and bare patches of their main plateau a couple of darkish spots which we took to
-be Lake&rsquo;s camp and boring. The higher foothills shot up between five and six miles away,
+be Lake's camp and boring. The higher foothills shot up between five and six miles away,
 forming a range almost distinct from the terrifying line of more than Himalayan peaks beyond
-them. At length Ropes&mdash;the student who had relieved McTighe at the controls&mdash;began
+them. At length Ropes--the student who had relieved McTighe at the controls--began
 to head downward toward the left-hand dark spot whose size marked it as the camp. As he did
 so, McTighe sent out the last uncensored wireless message the world was to receive from our
 expedition.  
@@ -889,14 +889,14 @@ have caused us, and believed us when we explained that the mangling action of th
 all eleven bodies unsuitable for transportation outside. Indeed, I flatter myself that even
 in the midst of our distress, utter bewilderment, and soul-clutching horror, we scarcely went
 beyond the truth in any specific instance. The tremendous significance lies in what we dared
-not tell&mdash;what I would not tell now but for the need of warning others off from nameless
+not tell--what I would not tell now but for the need of warning others off from nameless
 terrors.  
 
   It is a fact that the wind had wrought dreadful havoc. Whether all could have
 lived through it, even without the other thing, is gravely open to doubt. The storm, with its
 fury of madly driven ice-particles, must have been beyond anything our expedition had encountered
-before. One a&euml;roplane shelter&mdash;all, it seems, had been left in a far too flimsy and
-inadequate state&mdash;was nearly pulverised; and the derrick at the distant boring was entirely
+before. One aëroplane shelter--all, it seems, had been left in a far too flimsy and
+inadequate state--was nearly pulverised; and the derrick at the distant boring was entirely
 shaken to pieces. The exposed metal of the grounded planes and drilling machinery was bruised
 into a high polish, and two of the small tents were flattened despite their snow banking. Wooden
 surfaces left out in the blast were pitted and denuded of paint, and all signs of tracks in
@@ -913,8 +913,8 @@ frantic beasts themselves. All three sledges were gone, and we have tried to exp
 wind may have blown them off into the unknown. The drill and ice-melting machinery at the boring
 were too badly damaged to warrant salvage, so we used them to choke up that subtly disturbing
 gateway to the past which Lake had blasted. We likewise left at the camp the two most shaken-up
-of the planes; since our surviving party had only four real pilots&mdash;Sherman, Danforth,
-McTighe, and Ropes&mdash;in all, with Danforth in a poor nervous shape to navigate. We brought
+of the planes; since our surviving party had only four real pilots--Sherman, Danforth,
+McTighe, and Ropes--in all, with Danforth in a poor nervous shape to navigate. We brought
 back all the books, scientific equipment, and other incidentals we could find, though much was
 rather unaccountably blown away. Spare tents and furs were either missing or badly out of condition.  
 
@@ -922,24 +922,24 @@ rather unaccountably blown away. Spare tents and furs were either missing or bad
 Gedney up for lost, that we sent our guarded message to the   Arkham   for relaying; and
 I think we did well to keep it as calm and non-committal as we succeeded in doing. The most
 we said about agitation concerned our dogs, whose frantic uneasiness near the biological specimens
-was to be expected from poor Lake&rsquo;s accounts. We did not mention, I think, their display
+was to be expected from poor Lake's accounts. We did not mention, I think, their display
 of the same uneasiness when sniffing around the queer greenish soapstones and certain other
-objects in the disordered region; objects including scientific instruments, a&euml;roplanes,
+objects in the disordered region; objects including scientific instruments, aëroplanes,
 and machinery both at the camp and at the boring, whose parts had been loosened, moved, or otherwise
 tampered with by winds that must have harboured singular curiosity and investigativeness.  
 
   About the fourteen biological specimens we were pardonably indefinite. We said
-that the only ones we discovered were damaged, but that enough was left of them to prove Lake&rsquo;s
+that the only ones we discovered were damaged, but that enough was left of them to prove Lake's
 description wholly and impressively accurate. It was hard work keeping our personal emotions
-out of this matter&mdash;and we did not mention numbers or say exactly how we had found those
+out of this matter--and we did not mention numbers or say exactly how we had found those
 which we did find. We had by that time agreed not to transmit anything suggesting madness on
-the part of Lake&rsquo;s men, and it surely looked like madness to find six imperfect monstrosities
+the part of Lake's men, and it surely looked like madness to find six imperfect monstrosities
 carefully buried upright in nine-foot snow graves under five-pointed mounds punched over with
 groups of dots in patterns exactly like those on the queer greenish soapstones dug up from Mesozoic
 or Tertiary times. The eight perfect specimens mentioned by Lake seemed to have been completely
 blown away.   
 
-  We were careful, too, about the public&rsquo;s general peace of mind; hence
+  We were careful, too, about the public's general peace of mind; hence
 Danforth and I said little about that frightful trip over the mountains the next day. It was
 the fact that only a radically lightened plane could possibly cross a range of such height which
 mercifully limited that scouting tour to the two of us. On our return at 1 A.M. Danforth was
@@ -947,29 +947,29 @@ close to hysterics, but kept an admirably stiff upper lip. It took no persuasion
 promise not to shew our sketches and the other things we brought away in our pockets, not to
 say anything more to the others than what we had agreed to relay outside, and to hide our camera
 films for private development later on; so that part of my present story will be as new to Pabodie,
-McTighe, Ropes, Sherman, and the rest as it will be to the world in general. Indeed&mdash;Danforth
-is closer mouthed than I; for he saw&mdash;or thinks he saw&mdash;one thing he will not tell
+McTighe, Ropes, Sherman, and the rest as it will be to the world in general. Indeed--Danforth
+is closer mouthed than I; for he saw--or thinks he saw--one thing he will not tell
 even me.  
 
   As all know, our report included a tale of a hard ascent; a confirmation of
-Lake&rsquo;s opinion that the great peaks are of Archaean slate and other very primal crumpled
+Lake's opinion that the great peaks are of Archaean slate and other very primal crumpled
 strata unchanged since at least middle Comanchian times; a conventional comment on the regularity
 of the clinging cube and rampart formations; a decision that the cave-mouths indicate dissolved
 calcareous veins; a conjecture that certain slopes and passes would permit of the scaling and
 crossing of the entire range by seasoned mountaineers; and a remark that the mysterious other
-side holds a lofty and immense super-plateau as ancient and unchanging as the mountains themselves&mdash;20,000
+side holds a lofty and immense super-plateau as ancient and unchanging as the mountains themselves--20,000
 feet in elevation, with grotesque rock formations protruding through a thin glacial layer and
 with low gradual foothills between the general plateau surface and the sheer precipices of the
 highest peaks.  
 
   This body of data is in every respect true so far as it goes, and it completely
-satisfied the men at the camp. We laid our absence of sixteen hours&mdash;a longer time than
-our announced flying, landing, reconnoitring, and rock-collecting programme called for&mdash;to
+satisfied the men at the camp. We laid our absence of sixteen hours--a longer time than
+our announced flying, landing, reconnoitring, and rock-collecting programme called for--to
 a long mythical spell of adverse wind conditions; and told truly of our landing on the farther
 foothills. Fortunately our tale sounded realistic and prosaic enough not to tempt any of the
 others into emulating our flight. Had any tried to do that, I would have used every ounce of
-my persuasion to stop them&mdash;and I do not know what Danforth would have done. While we were
-gone, Pabodie, Sherman, Ropes, McTighe, and Williamson had worked like beavers over Lake&rsquo;s
+my persuasion to stop them--and I do not know what Danforth would have done. While we were
+gone, Pabodie, Sherman, Ropes, McTighe, and Williamson had worked like beavers over Lake's
 two best planes; fitting them again for use despite the altogether unaccountable juggling of
 their operative mechanism.  
 
@@ -978,36 +978,36 @@ base as soon as possible. Even though indirect, that was the safest way to work 
 Sound; for a straight-line flight across the most utterly unknown stretches of the aeon-dead
 continent would involve many additional hazards. Further exploration was hardly feasible in
 view of our tragic decimation and the ruin of our drilling machinery; and the doubts and horrors
-around us&mdash;which we did not reveal&mdash;made us wish only to escape from this austral
+around us--which we did not reveal--made us wish only to escape from this austral
 world of desolation and brooding madness as swiftly as we could.  
 
   As the public knows, our return to the world was accomplished without further
-disasters. All planes reached the old base on the evening of the next day&mdash;January 27th&mdash;after
+disasters. All planes reached the old base on the evening of the next day--January 27th--after
 a swift non-stop flight; and on the 28th we made McMurdo Sound in two laps, the one pause being
 very brief, and occasioned by a faulty rudder in the furious wind over the ice-shelf after we
 had cleared the great plateau. In five days more the   Arkham   and   Miskatonic,   with
 all hands and equipment on board, were shaking clear of the thickening field ice and working
 up Ross Sea with the mocking mountains of Victoria Land looming westward against a troubled
-antarctic sky and twisting the wind&rsquo;s wails into a wide-ranged musical piping which chilled
+antarctic sky and twisting the wind's wails into a wide-ranged musical piping which chilled
 my soul to the quick. Less than a fortnight later we left the last hint of polar land behind
 us, and thanked heaven that we were clear of a haunted, accursed realm where life and death,
 space and time, have made black and blasphemous alliances in the unknown epochs since matter
-first writhed and swam on the planet&rsquo;s scarce-cooled crust.  
+first writhed and swam on the planet's scarce-cooled crust.  
 
   Since our return we have all constantly worked to discourage antarctic exploration,
 and have kept certain doubts and guesses to ourselves with splendid unity and faithfulness.
-Even young Danforth, with his nervous breakdown, has not flinched or babbled to his doctors&mdash;indeed,
+Even young Danforth, with his nervous breakdown, has not flinched or babbled to his doctors--indeed,
 as I have said, there is one thing he thinks he alone saw which he will not tell even me, though
 I think it would help his psychological state if he would consent to do so. It might explain
 and relieve much, though perhaps the thing was no more than the delusive aftermath of an earlier
 shock. That is the impression I gather after those rare irresponsible moments when he whispers
-disjointed things to me&mdash;things which he repudiates vehemently as soon as he gets a grip
+disjointed things to me--things which he repudiates vehemently as soon as he gets a grip
 on himself again.  
 
   It will be hard work deterring others from the great white south, and some
 of our efforts may directly harm our cause by drawing inquiring notice. We might have known
 from the first that human curiosity is undying, and that the results we announced would be enough
-to spur others ahead on the same age-long pursuit of the unknown. Lake&rsquo;s reports of those
+to spur others ahead on the same age-long pursuit of the unknown. Lake's reports of those
 biological monstrosities had aroused naturalists and palaeontologists to the highest pitch;
 though we were sensible enough not to shew the detached parts we had taken from the actual buried
 specimens, or our photographs of those specimens as they were found. We also refrained from
@@ -1017,13 +1017,13 @@ the crumpled things we smoothed, studied in terror, and brought away in our pock
 that Starkweather-Moore party is organising, and with a thoroughness far beyond anything our
 outfit attempted. If not dissuaded, they will get to the innermost nucleus of the antarctic
 and melt and bore till they bring up that which may end the world we know. So I must break through
-all reticences at last&mdash;even about that ultimate nameless thing beyond the mountains of
+all reticences at last--even about that ultimate nameless thing beyond the mountains of
 madness.  
 
     IV.    
 
-It is only with vast hesitancy and repugnance that I let my mind go back to Lake&rsquo;s camp
-and what we really found there&mdash;and to that other thing beyond the frightful mountain wall.
+It is only with vast hesitancy and repugnance that I let my mind go back to Lake's camp
+and what we really found there--and to that other thing beyond the frightful mountain wall.
 I am constantly tempted to shirk the details, and to let hints stand for actual facts and ineluctable
 deductions. I hope I have said enough already to let me glide briefly over the rest; the rest,
 that is, of the horror at the camp. I have told of the wind-ravaged terrain, the damaged shelters,
@@ -1031,25 +1031,25 @@ the disarranged machinery, the varied uneasinesses of our dogs, the missing sled
 items, the deaths of men and dogs, the absence of Gedney, and the six insanely buried biological
 specimens, strangely sound in texture for all their structural injuries, from a world forty
 million years dead. I do not recall whether I mentioned that upon checking up the canine bodies
-we found one dog missing. We did not think much about that till later&mdash;indeed, only Danforth
+we found one dog missing. We did not think much about that till later--indeed, only Danforth
 and I have thought of it at all.  
 
   The principal things I have been keeping back relate to the bodies, and to
 certain subtle points which may or may not lend a hideous and incredible kind of rationale to
-the apparent chaos. At the time I tried to keep the men&rsquo;s minds off those points; for
-it was so much simpler&mdash;so much more normal&mdash;to lay everything to an outbreak of madness
-on the part of some of Lake&rsquo;s party. From the look of things, that daemon mountain wind
+the apparent chaos. At the time I tried to keep the men's minds off those points; for
+it was so much simpler--so much more normal--to lay everything to an outbreak of madness
+on the part of some of Lake's party. From the look of things, that daemon mountain wind
 must have been enough to drive any man mad in the midst of this centre of all earthly mystery
 and desolation.  
 
-  The crowning abnormality, of course, was the condition of the bodies&mdash;men
+  The crowning abnormality, of course, was the condition of the bodies--men
 and dogs alike. They had all been in some terrible kind of conflict, and were torn and mangled
 in fiendish and altogether inexplicable ways. Death, so far as we could judge, had in each case
 come from strangulation or laceration. The dogs had evidently started the trouble, for the
 state of their ill-built corral bore witness to its forcible breakage from within. It had been
 set some distance from the camp because of the hatred of the animals for those hellish Archaean
 organisms, but the precaution seemed to have been taken in vain. When left alone in that monstrous
-wind behind flimsy walls of insufficient height they must have stampeded&mdash;whether from
+wind behind flimsy walls of insufficient height they must have stampeded--whether from
 the wind itself, or from some subtle, increasing odour emitted by the nightmare specimens, one
 could not say. Those specimens, of course, had been covered with a tent-cloth; yet the low antarctic
 sun had beat steadily upon that cloth, and Lake had mentioned that solar heat tended to make
@@ -1058,34 +1058,34 @@ the cloth from over them, and jostled them about in such a way that their more p
 qualities became manifest despite their unbelievable antiquity.  
 
   But whatever had happened, it was hideous and revolting enough. Perhaps I had
-better put squeamishness aside and tell the worst at last&mdash;though with a categorical statement
+better put squeamishness aside and tell the worst at last--though with a categorical statement
 of opinion, based on the first-hand observations and most rigid deductions of both Danforth
 and myself, that the then missing Gedney was in no way responsible for the loathsome horrors
 we found. I have said that the bodies were frightfully mangled. Now I must add that some were
 incised and subtracted from in the most curious, cold-blooded, and inhuman fashion. It was the
 same with dogs and men. All the healthier, fatter bodies, quadrupedal or bipedal, had had their
 most solid masses of tissue cut out and removed, as by a careful butcher; and around them was
-a strange sprinkling of salt&mdash;taken from the ravaged provision-chests on the planes&mdash;which
-conjured up the most horrible associations. The thing had occurred in one of the crude a&euml;roplane
+a strange sprinkling of salt--taken from the ravaged provision-chests on the planes--which
+conjured up the most horrible associations. The thing had occurred in one of the crude aëroplane
 shelters from which the plane had been dragged out, and subsequent winds had effaced all tracks
 which could have supplied any plausible theory. Scattered bits of clothing, roughly slashed
 from the human incision-subjects, hinted no clues. It is useless to bring up the half-impression
-of certain faint snow-prints in one shielded corner of the ruined enclosure&mdash;because that
+of certain faint snow-prints in one shielded corner of the ruined enclosure--because that
 impression did not concern human prints at all, but was clearly mixed up with all the talk of
 fossil prints which poor Lake had been giving throughout the preceding weeks. One had to be
-careful of one&rsquo;s imagination in the lee of those overshadowing mountains of madness.  
+careful of one's imagination in the lee of those overshadowing mountains of madness.  
 
   As I have indicated, Gedney and one dog turned out to be missing in the end.
 When we came on that terrible shelter we had missed two dogs and two men; but the fairly unharmed
 dissecting tent, which we entered after investigating the monstrous graves, had something to
 reveal. It was not as Lake had left it, for the covered parts of the primal monstrosity had
 been removed from the improvised table. Indeed, we had already realised that one of the six
-imperfect and insanely buried things we had found&mdash;the one with the trace of a peculiarly
-hateful odour&mdash;must represent the collected sections of the entity which Lake had tried
+imperfect and insanely buried things we had found--the one with the trace of a peculiarly
+hateful odour--must represent the collected sections of the entity which Lake had tried
 to analyse. On and around that laboratory table were strown other things, and it did not take
 long for us to guess that those things were the carefully though oddly and inexpertly dissected
 parts of one man and one dog. I shall spare the feelings of survivors by omitting mention of
-the man&rsquo;s identity. Lake&rsquo;s anatomical instruments were missing, but there were evidences
+the man's identity. Lake's anatomical instruments were missing, but there were evidences
 of their careful cleansing. The gasoline stove was also gone, though around it we found a curious
 litter of matches. We buried the human parts beside the other ten men, and the canine parts
 with the other 35 dogs. Concerning the bizarre smudges on the laboratory table, and on the jumble
@@ -1111,22 +1111,22 @@ to buttress our pleas against the departure of the proposed Starkweather-Moore E
 
   Our first act after finding the bodies in the shelter was to photograph and
 open the row of insane graves with the five-pointed snow mounds. We could not help noticing
-the resemblance of these monstrous mounds, with their clusters of grouped dots, to poor Lake&rsquo;s
+the resemblance of these monstrous mounds, with their clusters of grouped dots, to poor Lake's
 descriptions of the strange greenish soapstones; and when we came on some of the soapstones
 themselves in the great mineral pile we found the likeness very close indeed. The whole general
 formation, it must be made clear, seemed abominably suggestive of the starfish-head of the Archaean
 entities; and we agreed that the suggestion must have worked potently upon the sensitised minds
-of Lake&rsquo;s overwrought party. Our own first sight of the actual buried entities formed
+of Lake's overwrought party. Our own first sight of the actual buried entities formed
 a horrible moment, and sent the imaginations of Pabodie and myself back to some of the shocking
 primal myths we had read and heard. We all agreed that the mere sight and continued presence
 of the things must have co&ouml;perated with the oppressive polar solitude and daemon mountain
-wind in driving Lake&rsquo;s party mad.  
+wind in driving Lake's party mad.  
 
-  For madness&mdash;centring in Gedney as the only possible surviving agent&mdash;was
+  For madness--centring in Gedney as the only possible surviving agent--was
 the explanation spontaneously adopted by everybody so far as spoken utterance was concerned;
 though I will not be so naive as to deny that each of us may have harboured wild guesses which
 sanity forbade him to formulate completely. Sherman, Pabodie, and McTighe made an exhaustive
-a&euml;roplane cruise over all the surrounding territory in the afternoon, sweeping the horizon
+aëroplane cruise over all the surrounding territory in the afternoon, sweeping the horizon
 with field-glasses in quest of Gedney and of the various missing things; but nothing came to
 light. The party reported that the titan barrier range extended endlessly to right and left
 alike, without any diminution in height or essential structure. On some of the peaks, though,
@@ -1138,23 +1138,23 @@ snow-denuded summits seemed roughly even as far as the range could be traced.
 zeal and adventurousness to wonder about the unknown realm beyond those mysterious mountains.
 As our guarded messages stated, we rested at midnight after our day of terror and bafflement;
 but not without a tentative plan for one or more range-crossing altitude flights in a lightened
-plane with a&euml;rial camera and geologist&rsquo;s outfit, beginning the following morning.
+plane with aërial camera and geologist's outfit, beginning the following morning.
 It was decided that Danforth and I try it first, and we awaked at 7 A.M. intending an early
-trip; though heavy winds&mdash;mentioned in our brief bulletin to the outside world&mdash;delayed
-our start till nearly nine o&rsquo;clock.  
+trip; though heavy winds--mentioned in our brief bulletin to the outside world--delayed
+our start till nearly nine o'clock.  
 
-  I have already repeated the non-committal story we told the men at camp&mdash;and
-relayed outside&mdash;after our return sixteen hours later. It is now my terrible duty to amplify
+  I have already repeated the non-committal story we told the men at camp--and
+relayed outside--after our return sixteen hours later. It is now my terrible duty to amplify
 this account by filling in the merciful blanks with hints of what we really saw in the hidden
-trans-montane world&mdash;hints of the revelations which have finally driven Danforth to a nervous
-collapse. I wish he would add a really frank word about the thing which he thinks he alone saw&mdash;even
-though it was probably a nervous delusion&mdash;and which was perhaps the last straw that put
+trans-montane world--hints of the revelations which have finally driven Danforth to a nervous
+collapse. I wish he would add a really frank word about the thing which he thinks he alone saw--even
+though it was probably a nervous delusion--and which was perhaps the last straw that put
 him where he is; but he is firm against that. All I can do is to repeat his later disjointed
 whispers about what set him shrieking as the plane soared back through the wind-tortured mountain
 pass after that real and tangible shock which I shared. This will form my last word. If the
 plain signs of surviving elder horrors in what I disclose be not enough to keep others from
-meddling with the inner antarctic&mdash;or at least from prying too deeply beneath the surface
-of that ultimate waste of forbidden secrets and unhuman, aeon-cursed desolation&mdash;the responsibility
+meddling with the inner antarctic--or at least from prying too deeply beneath the surface
+of that ultimate waste of forbidden secrets and unhuman, aeon-cursed desolation--the responsibility
 for unnamable and perhaps immensurable evils will not be mine.  
 
   Danforth and I, studying the notes made by Pabodie in his afternoon flight
@@ -1170,17 +1170,17 @@ of course, in our heaviest furs.
   As we drew near the forbidding peaks, dark and sinister above the line of crevasse-riven
 snow and interstitial glaciers, we noticed more and more the curiously regular formations clinging
 to the slopes; and thought again of the strange Asian paintings of Nicholas Roerich. The ancient
-and wind-weathered rock strata fully verified all of Lake&rsquo;s bulletins, and proved that
+and wind-weathered rock strata fully verified all of Lake's bulletins, and proved that
 these hoary pinnacles had been towering up in exactly the same way since a surprisingly early
-time in earth&rsquo;s history&mdash;perhaps over fifty million years. How much higher they had
+time in earth's history--perhaps over fifty million years. How much higher they had
 once been, it was futile to guess; but everything about this strange region pointed to obscure
 atmospheric influences unfavourable to change, and calculated to retard the usual climatic processes
 of rock disintegration.  
 
   But it was the mountainside tangle of regular cubes, ramparts, and cave-mouths
-which fascinated and disturbed us most. I studied them with a field-glass and took a&euml;rial
-photographs whilst Danforth drove; and at times relieved him at the controls&mdash;though my
-aviation knowledge was purely an amateur&rsquo;s&mdash;in order to let him use the binoculars.
+which fascinated and disturbed us most. I studied them with a field-glass and took aërial
+photographs whilst Danforth drove; and at times relieved him at the controls--though my
+aviation knowledge was purely an amateur's--in order to let him use the binoculars.
 We could easily see that much of the material of the things was a lightish Archaean quartzite,
 unlike any formation visible over broad areas of the general surface; and that their regularity
 was extreme and uncanny to an extent which poor Lake had scarcely hinted.  
@@ -1193,13 +1193,13 @@ primal foundation-walls of Kish as dug up by the Oxford&ndash;Field Museum Exped
 and both Danforth and I obtained that occasional impression of   separate Cyclopean blocks  
 which Lake had attributed to his flight-companion Carroll. How to account for such things in
 this place was frankly beyond me, and I felt queerly humbled as a geologist. Igneous formations
-often have strange regularities&mdash;like the famous Giants&rsquo; Causeway in Ireland&mdash;but
-this stupendous range, despite Lake&rsquo;s original suspicion of smoking cones, was above all
+often have strange regularities--like the famous Giants' Causeway in Ireland--but
+this stupendous range, despite Lake's original suspicion of smoking cones, was above all
 else non-volcanic in evident structure.  
 
   The curious cave-mouths, near which the odd formations seemed most abundant,
 presented another albeit a lesser puzzle because of their regularity of outline. They were,
-as Lake&rsquo;s bulletin had said, often approximately square or semicircular; as if the natural
+as Lake's bulletin had said, often approximately square or semicircular; as if the natural
 orifices had been shaped to greater symmetry by some magic hand. Their numerousness and wide
 distribution were remarkable, and suggested that the whole region was honeycombed with tunnels
 dissolved out of limestone strata. Such glimpses as we secured did not extend far within the
@@ -1225,9 +1225,9 @@ out over an untrodden world can hardly be described on paper; even though we had
 think the regions beyond the range essentially different from those already seen and traversed.
 The touch of evil mystery in these barrier mountains, and in the beckoning sea of opalescent
 sky glimpsed betwixt their summits, was a highly subtle and attenuated matter not to be explained
-in literal words. Rather was it an affair of vague psychological symbolism and aesthetic association&mdash;a
+in literal words. Rather was it an affair of vague psychological symbolism and aesthetic association--a
 thing mixed up with exotic poetry and paintings, and with archaic myths lurking in shunned and
-forbidden volumes. Even the wind&rsquo;s burden held a peculiar strain of conscious malignity;
+forbidden volumes. Even the wind's burden held a peculiar strain of conscious malignity;
 and for a second it seemed that the composite sound included a bizarre musical whistling or
 piping over a wide range as the blast swept in and out of the omnipresent and resonant cave-mouths.
 There was a cloudy note of reminiscent repulsion in this sound, as complex and unplaceable as
@@ -1235,13 +1235,13 @@ any of the other dark impressions.
 
   We were now, after a slow ascent, at a height of 23,570 feet according to the
 aneroid; and had left the region of clinging snow definitely below us. Up here were only dark,
-bare rock slopes and the start of rough-ribbed glaciers&mdash;but with those provocative cubes,
+bare rock slopes and the start of rough-ribbed glaciers--but with those provocative cubes,
 ramparts, and echoing cave-mouths to add a portent of the unnatural, the fantastic, and the
 dream-like. Looking along the line of high peaks, I thought I could see the one mentioned by
 poor Lake, with a rampart exactly on top. It seemed to be half-lost in a queer antarctic haze;
-such a haze, perhaps, as had been responsible for Lake&rsquo;s early notion of volcanism. The
+such a haze, perhaps, as had been responsible for Lake's early notion of volcanism. The
 pass loomed directly before us, smooth and windswept between its jagged and malignly frowning
-pylons. Beyond it was a sky fretted with swirling vapours and lighted by the low polar sun&mdash;the
+pylons. Beyond it was a sky fretted with swirling vapours and lighted by the low polar sun--the
 sky of that mysterious farther realm upon which we felt no human eye had ever gazed.  
 
   A few more feet of altitude and we would behold that realm. Danforth and I,
@@ -1267,7 +1267,7 @@ thickest, and in places obviously thinner.
   The effect of the monstrous sight was indescribable, for some fiendish violation
 of known natural law seemed certain at the outset. Here, on a hellishly ancient table-land fully
 20,000 feet high, and in a climate deadly to habitation since a pre-human age not less than
-500,000 years ago, there stretched nearly to the vision&rsquo;s limit a tangle of orderly stone
+500,000 years ago, there stretched nearly to the vision's limit a tangle of orderly stone
 which only the desperation of mental self-defence could possibly attribute to any but a conscious
 and artificial cause. We had previously dismissed, so far as serious thought was concerned,
 any theory that the cubes and ramparts of the mountainsides were other than natural in origin.
@@ -1277,7 +1277,7 @@ great apes at the time when this region succumbed to the present unbroken reign 
   Yet now the sway of reason seemed irrefutably shaken, for this Cyclopean maze
 of squared, curved, and angled blocks had features which cut off all comfortable refuge. It
 was, very clearly, the blasphemous city of the mirage in stark, objective, and ineluctable reality.
-That damnable portent had had a material basis after all&mdash;there had been some horizontal
+That damnable portent had had a material basis after all--there had been some horizontal
 stratum of ice-dust in the upper air, and this shocking stone survival had projected its image
 across the mountains according to the simple laws of reflection. Of course the phantom had been
 twisted and exaggerated, and had contained things which the real source did not contain; yet
@@ -1285,12 +1285,12 @@ now, as we saw that real source, we thought it even more hideous and menacing th
 image.  
 
   Only the incredible, unhuman massiveness of these vast stone towers and ramparts
-had saved the frightful thing from utter annihilation in the hundreds of thousands&mdash;perhaps
-millions&mdash;of years it had brooded there amidst the blasts of a bleak upland. &ldquo;Corona
-Mundi&nbsp;.&nbsp;.&nbsp;. Roof of the World&nbsp;.&nbsp;.&nbsp;.&rdquo; All sorts of fantastic
+had saved the frightful thing from utter annihilation in the hundreds of thousands--perhaps
+millions--of years it had brooded there amidst the blasts of a bleak upland.  "Corona
+Mundi . . . Roof of the World . . . " All sorts of fantastic
 phrases sprang to our lips as we looked dizzily down at the unbelievable spectacle. I thought
 again of the eldritch primal myths that had so persistently haunted me since my first sight
-of this dead antarctic world&mdash;of the daemoniac plateau of Leng, of the Mi-Go, or Abominable
+of this dead antarctic world--of the daemoniac plateau of Leng, of the Mi-Go, or Abominable
 Snow-Men of the Himalayas, of the Pnakotic Manuscripts with their pre-human implications, of
 the Cthulhu cult, of the   Necronomicon,   and of the Hyperborean legends of formless Tsathoggua
 and the worse than formless star-spawn associated with that semi-entity.  
@@ -1306,15 +1306,15 @@ as well as the queer cave-mouths, were as thick on the inner as on the outer sid
 
   The nameless stone labyrinth consisted, for the most part, of walls from 10
 to 150 feet in ice-clear height, and of a thickness varying from five to ten feet. It was composed
-mostly of prodigious blocks of dark primordial slate, schist, and sandstone&mdash;blocks in
-many cases as large as 4 &times; 6 &times; 8 feet&mdash;though in several places it seemed to
+mostly of prodigious blocks of dark primordial slate, schist, and sandstone--blocks in
+many cases as large as 4 &times; 6 &times; 8 feet--though in several places it seemed to
 be carved out of a solid, uneven bed-rock of pre-Cambrian slate. The buildings were far from
 equal in size; there being innumerable honeycomb-arrangements of enormous extent as well as
 smaller separate structures. The general shape of these things tended to be conical, pyramidal,
 or terraced; though there were many perfect cylinders, perfect cubes, clusters of cubes, and
 other rectangular forms, and a peculiar sprinkling of angled edifices whose five-pointed ground
 plan roughly suggested modern fortifications. The builders had made constant and expert use
-of the principle of the arch, and domes had probably existed in the city&rsquo;s heyday.  
+of the principle of the arch, and domes had probably existed in the city's heyday.  
 
   The whole tangle was monstrously weathered, and the glacial surface from which
 the towers projected was strewn with fallen blocks and immemorial debris. Where the glaciation
@@ -1327,50 +1327,50 @@ and menacing fashion. Many of the ruins, of course, were roofless, and with unev
 upper edges; whilst others, of a more sharply conical or pyramidal model or else protected by
 higher surrounding structures, preserved intact outlines despite the omnipresent crumbling and
 pitting. With the field-glass we could barely make out what seemed to be sculptural decorations
-in horizontal bands&mdash;decorations including those curious groups of dots whose presence
+in horizontal bands--decorations including those curious groups of dots whose presence
 on the ancient soapstones now assumed a vastly larger significance.  
 
   In many places the buildings were totally ruined and the ice-sheet deeply riven
 from various geologic causes. In other places the stonework was worn down to the very level
-of the glaciation. One broad swath, extending from the plateau&rsquo;s interior to a cleft in
+of the glaciation. One broad swath, extending from the plateau's interior to a cleft in
 the foothills about a mile to the left of the pass we had traversed, was wholly free from buildings;
-and probably represented, we concluded, the course of some great river which in Tertiary times&mdash;millions
-of years ago&mdash;had poured through the city and into some prodigious subterranean abyss of
+and probably represented, we concluded, the course of some great river which in Tertiary times--millions
+of years ago--had poured through the city and into some prodigious subterranean abyss of
 the great barrier range. Certainly, this was above all a region of caves, gulfs, and underground
 secrets beyond human penetration.  
 
   Looking back to our sensations, and recalling our dazedness at viewing this
 monstrous survival from aeons we had thought pre-human, I can only wonder that we preserved
-the semblance of equilibrium which we did. Of course we knew that something&mdash;chronology,
-scientific theory, or our own consciousness&mdash;was woefully awry; yet we kept enough poise
+the semblance of equilibrium which we did. Of course we knew that something--chronology,
+scientific theory, or our own consciousness--was woefully awry; yet we kept enough poise
 to guide the plane, observe many things quite minutely, and take a careful series of photographs
 which may yet serve both us and the world in good stead. In my case, ingrained scientific habit
 may have helped; for above all my bewilderment and sense of menace there burned a dominant curiosity
-to fathom more of this age-old secret&mdash;to know what sort of beings had built and lived
+to fathom more of this age-old secret--to know what sort of beings had built and lived
 in this incalculably gigantic place, and what relation to the general world of its time or of
 other times so unique a concentration of life could have had.  
 
   For this place could be no ordinary city. It must have formed the primary nucleus
-and centre of some archaic and unbelievable chapter of earth&rsquo;s history whose outward ramifications,
+and centre of some archaic and unbelievable chapter of earth's history whose outward ramifications,
 recalled only dimly in the most obscure and distorted myths, had vanished utterly amidst the
 chaos of terrene convulsions long before any human race we know had shambled out of apedom.
 Here sprawled a palaeogean megalopolis compared with which the fabled Atlantis and Lemuria,
-Commoriom and Uzuldaroum, and Olatho&euml; in the land of Lomar are recent things of today&mdash;not
+Commoriom and Uzuldaroum, and Olathoë in the land of Lomar are recent things of today--not
 even of yesterday; a megalopolis ranking with such whispered pre-human blasphemies as Valusia,
-R&rsquo;lyeh, Ib in the land of Mnar, and the Nameless City of Arabia Deserta. As we flew above
+R'lyeh, Ib in the land of Mnar, and the Nameless City of Arabia Deserta. As we flew above
 that tangle of stark titan towers my imagination sometimes escaped all bounds and roved aimlessly
-in realms of fantastic associations&mdash;even weaving links betwixt this lost world and some
+in realms of fantastic associations--even weaving links betwixt this lost world and some
 of my own wildest dreams concerning the mad horror at the camp.  
 
-  The plane&rsquo;s fuel-tank, in the interest of greater lightness, had been
+  The plane's fuel-tank, in the interest of greater lightness, had been
 only partly filled; hence we now had to exert caution in our explorations. Even so, however,
-we covered an enormous extent of ground&mdash;or rather, air&mdash;after swooping down to a
+we covered an enormous extent of ground--or rather, air--after swooping down to a
 level where the wind became virtually negligible. There seemed to be no limit to the mountain-range,
 or to the length of the frightful stone city which bordered its inner foothills. Fifty miles
 of flight in each direction shewed no major change in the labyrinth of rock and masonry that
 clawed up corpse-like through the eternal ice. There were, though, some highly absorbing diversifications;
 such as the carvings on the canyon where that broad river had once pierced the foothills and
-approached its sinking-place in the great range. The headlands at the stream&rsquo;s entrance
+approached its sinking-place in the great range. The headlands at the stream's entrance
 had been boldly carved into Cyclopean pylons; and something about the ridgy, barrel-shaped designs
 stirred up oddly vague, hateful, and confusing semi-remembrances in both Danforth and me.  
 
@@ -1402,7 +1402,7 @@ a time and in so comfortable an absence of high winds at this level; hence we me
 the landing skis were safely lodged, and that the vital parts of the mechanism were guarded
 against the cold. For our foot journey we discarded the heaviest of our flying furs, and took
 with us a small outfit consisting of pocket compass, hand camera, light provisions, voluminous
-notebooks and paper, geologist&rsquo;s hammer and chisel, specimen-bags, coil of climbing rope,
+notebooks and paper, geologist's hammer and chisel, specimen-bags, coil of climbing rope,
 and powerful electric torches with extra batteries; this equipment having been carried in the
 plane on the chance that we might be able to effect a landing, take ground pictures, make drawings
 and topographical sketches, and obtain rock specimens from some bare slope, outcropping, or
@@ -1417,7 +1417,7 @@ labyrinth that loomed against the opalescent west, we felt almost as keen a sens
 marvels as we had felt on approaching the unfathomed mountain pass four hours previously. True,
 we had become visually familiar with the incredible secret concealed by the barrier peaks; yet
 the prospect of actually entering primordial walls reared by conscious beings perhaps millions
-of years ago&mdash;before any known race of men could have existed&mdash;was none the less awesome
+of years ago--before any known race of men could have existed--was none the less awesome
 and potentially terrible in its implications of cosmic abnormality. Though the thinness of the
 air at this prodigious altitude made exertion somewhat more difficult than usual; both Danforth
 and I found ourselves bearing up very well, and felt equal to almost any task which might fall
@@ -1453,7 +1453,7 @@ built up.
 vainly and savagely through the skyward peaks in the background, was something whose smallest
 details will always remain engraved on my mind. Only in fantastic nightmares could any human
 beings but Danforth and me conceive such optical effects. Between us and the churning vapours
-of the west lay that monstrous tangle of dark stone towers; its outr&eacute; and incredible forms impressing
+of the west lay that monstrous tangle of dark stone towers; its outré and incredible forms impressing
 us afresh at every new angle of vision. It was a mirage in solid stone, and were it not for
 the photographs I would still doubt that such a thing could be. The general type of masonry
 was identical with that of the rampart we had examined; but the extravagant shapes which this
@@ -1461,7 +1461,7 @@ masonry took in its urban manifestations were past all description.
 
   Even the pictures illustrate only one or two phases of its infinite bizarrerie,
 endless variety, preternatural massiveness, and utterly alien exoticism. There were geometrical
-forms for which an Euclid could scarcely find a name&mdash;cones of all degrees of irregularity
+forms for which an Euclid could scarcely find a name--cones of all degrees of irregularity
 and truncation; terraces of every sort of provocative disproportion; shafts with odd bulbous
 enlargements; broken columns in curious groups; and five-pointed or five-ridged arrangements
 of mad grotesqueness. As we drew nearer we could see beneath certain transparent parts of the
@@ -1472,7 +1472,7 @@ into the mountains.
 
   Our field-glasses shewed the external horizontal bands of nearly effaced sculptures
 and dot-groups to be very prevalent, and we could half imagine what the city must once have
-looked like&mdash;even though most of the roofs and tower-tops had necessarily perished. As
+looked like--even though most of the roofs and tower-tops had necessarily perished. As
 a whole, it had been a complex tangle of twisted lanes and alleys; all of them deep canyons,
 and some little better than tunnels because of the overhanging masonry or overarching bridges.
 Now, outspread below us, it loomed like a dream-phantasy against a westward mist through whose
@@ -1489,12 +1489,12 @@ steps or its equivalent.
 fallen masonry and shrinking from the oppressive nearness and dwarfing height of omnipresent
 crumbling and pitted walls, our sensations again became such that I marvel at the amount of
 self-control we retained. Danforth was frankly jumpy, and began making some offensively irrelevant
-speculations about the horror at the camp&mdash;which I resented all the more because I could
+speculations about the horror at the camp--which I resented all the more because I could
 not help sharing certain conclusions forced upon us by many features of this morbid survival
-from nightmare antiquity. The speculations worked on his imagination, too; for in one place&mdash;where
-a debris-littered alley turned a sharp corner&mdash;he insisted that he saw faint traces of
+from nightmare antiquity. The speculations worked on his imagination, too; for in one place--where
+a debris-littered alley turned a sharp corner--he insisted that he saw faint traces of
 ground markings which he did not like; whilst elsewhere he stopped to listen to a subtle imaginary
-sound from some undefined point&mdash;a muffled musical piping, he said, not unlike that of
+sound from some undefined point--a muffled musical piping, he said, not unlike that of
 the wind in the mountain caves yet somehow disturbingly different. The ceaseless   five-pointedness  
 of the surrounding architecture and of the few distinguishable mural arabesques had a dimly
 sinister suggestiveness we could not escape; and gave us a touch of terrible subconscious certainty
@@ -1514,18 +1514,18 @@ above our reach, whilst others led only into ice-choked ruins as unroofed and ba
 rampart on the hill. One, though spacious and inviting, opened on a seemingly bottomless abyss
 without visible means of descent. Now and then we had a chance to study the petrified wood of
 a surviving shutter, and were impressed by the fabulous antiquity implied in the still discernible
-grain. These things had come from Mesozoic gymnosperms and conifers&mdash;especially Cretaceous
-cycads&mdash;and from fan-palms and early angiosperms of plainly Tertiary date. Nothing definitely
-later than the Pliocene could be discovered. In the placing of these shutters&mdash;whose edges
-shewed the former presence of queer and long-vanished hinges&mdash;usage seemed to be varied;
+grain. These things had come from Mesozoic gymnosperms and conifers--especially Cretaceous
+cycads--and from fan-palms and early angiosperms of plainly Tertiary date. Nothing definitely
+later than the Pliocene could be discovered. In the placing of these shutters--whose edges
+shewed the former presence of queer and long-vanished hinges--usage seemed to be varied;
 some being on the outer and some on the inner side of the deep embrasures. They seemed to have
 become wedged in place, thus surviving the rusting of their former and probably metallic fixtures
 and fastenings.  
 
-  After a time we came across a row of windows&mdash;in the bulges of a colossal
-five-ridged cone of undamaged apex&mdash;which led into a vast, well-preserved room with stone
+  After a time we came across a row of windows--in the bulges of a colossal
+five-ridged cone of undamaged apex--which led into a vast, well-preserved room with stone
 flooring; but these were too high in the room to permit of descent without a rope. We had a
-rope with us, but did not wish to bother with this twenty-foot drop unless obliged to&mdash;especially
+rope with us, but did not wish to bother with this twenty-foot drop unless obliged to--especially
 in this thin plateau air where great demands were made upon the heart action. This enormous
 room was probably a hall or concourse of some sort, and our electric torches shewed bold, distinct,
 and potentially startling sculptures arranged round the walls in broad, horizontal bands separated
@@ -1533,7 +1533,7 @@ by equally broad strips of conventional arabesques. We took careful note of this
 to enter here unless a more easily gained interior were encountered.  
 
   Finally, though, we did encounter exactly the opening we wished; an archway
-about six feet wide and ten feet high, marking the former end of an a&euml;rial bridge which
+about six feet wide and ten feet high, marking the former end of an aërial bridge which
 had spanned an alley about five feet above the present level of glaciation. These archways,
 of course, were flush with upper-story floors; and in this case one of the floors still existed.
 The building thus accessible was a series of rectangular terraces on our left facing westward.
@@ -1611,7 +1611,7 @@ was many million years old.
   We cannot yet explain the engineering principles used in the anomalous balancing
 and adjustment of the vast rock masses, though the function of the arch was clearly much relied
 on. The rooms we visited were wholly bare of all portable contents, a circumstance which sustained
-our belief in the city&rsquo;s deliberate desertion. The prime decorative feature was the almost
+our belief in the city's deliberate desertion. The prime decorative feature was the almost
 universal system of mural sculpture; which tended to run in continuous horizontal bands three
 feet wide and arranged from floor to ceiling in alternation with bands of equal width given
 over to geometrical arabesques. There were exceptions to this rule of arrangement, but its preponderance
@@ -1634,8 +1634,8 @@ represented in our museums. Those who see our photographs will probably find its
 in certain grotesque conceptions of the most daring futurists.  
 
   The arabesque tracery consisted altogether of depressed lines whose depth on
-unweathered walls varied from one to two inches. When cartouches with dot-groups appeared&mdash;evidently
-as inscriptions in some unknown and primordial language and alphabet&mdash;the depression of
+unweathered walls varied from one to two inches. When cartouches with dot-groups appeared--evidently
+as inscriptions in some unknown and primordial language and alphabet--the depression of
 the smooth surface was perhaps an inch and a half, and of the dots perhaps a half-inch more.
 The pictorial bands were in counter-sunk low relief, their background being depressed about
 two inches from the original wall surface. In some specimens marks of a former colouration could
@@ -1651,25 +1651,25 @@ equipment, might have made of profound and poignant significance to us.
 
   The subject-matter of the sculptures obviously came from the life of the vanished
 epoch of their creation, and contained a large proportion of evident history. It is this abnormal
-historic-mindedness of the primal race&mdash;a chance circumstance operating, through coincidence,
-miraculously in our favour&mdash;which made the carvings so awesomely informative to us, and
+historic-mindedness of the primal race--a chance circumstance operating, through coincidence,
+miraculously in our favour--which made the carvings so awesomely informative to us, and
 which caused us to place their photography and transcription above all other considerations.
 In certain rooms the dominant arrangement was varied by the presence of maps, astronomical charts,
-and other scientific designs on an enlarged scale&mdash;these things giving a naive and terrible
+and other scientific designs on an enlarged scale--these things giving a naive and terrible
 corroboration to what we gathered from the pictorial friezes and dadoes. In hinting at what
 the whole revealed, I can only hope that my account will not arouse a curiosity greater than
 sane caution on the part of those who believe me at all. It would be tragic if any were to be
 allured to that realm of death and horror by the very warning meant to discourage them.  
 
   Interrupting these sculptured walls were high windows and massive twelve-foot
-doorways; both now and then retaining the petrified wooden planks&mdash;elaborately carved and
-polished&mdash;of the actual shutters and doors. All metal fixtures had long ago vanished, but
+doorways; both now and then retaining the petrified wooden planks--elaborately carved and
+polished--of the actual shutters and doors. All metal fixtures had long ago vanished, but
 some of the doors remained in place and had to be forced aside as we progressed from room to
-room. Window-frames with odd transparent panes&mdash;mostly elliptical&mdash;survived here and
+room. Window-frames with odd transparent panes--mostly elliptical--survived here and
 there, though in no considerable quantity. There were also frequent niches of great magnitude,
 generally empty, but once in a while containing some bizarre object carved from green soapstone
 which was either broken or perhaps held too inferior to warrant removal. Other apertures were
-undoubtedly connected with bygone mechanical facilities&mdash;heating, lighting, and the like&mdash;of
+undoubtedly connected with bygone mechanical facilities--heating, lighting, and the like--of
 a sort suggested in many of the carvings. Ceilings tended to be plain, but had sometimes been
 inlaid with green soapstone or other tiles, mostly fallen now. Floors were also paved with such
 tiles, though plain stonework predominated.  
@@ -1680,8 +1680,8 @@ Above the glacial sheet the floors were generally thick with detritus, litter, a
 farther down this condition decreased. In some of the lower chambers and corridors there was
 little more than gritty dust or ancient incrustations, while occasional areas had an uncanny
 air of newly swept immaculateness. Of course, where rifts or collapses had occurred, the lower
-levels were as littered as the upper ones. A central court&mdash;as in other structures we had
-seen from the air&mdash;saved the inner regions from total darkness; so that we seldom had to
+levels were as littered as the upper ones. A central court--as in other structures we had
+seen from the air--saved the inner regions from total darkness; so that we seldom had to
 use our electric torches in the upper rooms except when studying sculptured details. Below the
 ice-cap, however, the twilight deepened; and in many parts of the tangled ground level there
 was an approach to absolute blackness.  
@@ -1693,14 +1693,14 @@ of the place were enough to overwhelm almost any sensitive person, but added to 
 were the recent unexplained horror at the camp, and the revelations all too soon effected by
 the terrible mural sculptures around us. The moment we came upon a perfect section of carving,
 where no ambiguity of interpretation could exist, it took only a brief study to give us the
-hideous truth&mdash;a truth which it would be naive to claim Danforth and I had not independently
+hideous truth--a truth which it would be naive to claim Danforth and I had not independently
 suspected before, though we had carefully refrained from even hinting it to each other. There
 could now be no further merciful doubt about the nature of the beings which had built and inhabited
-this monstrous dead city millions of years ago, when man&rsquo;s ancestors were primitive archaic
+this monstrous dead city millions of years ago, when man's ancestors were primitive archaic
 mammals, and vast dinosaurs roamed the tropical steppes of Europe and Asia.  
 
-  We had previously clung to a desperate alternative and insisted&mdash;each
-to himself&mdash;that the omnipresence of the five-pointed motif meant only some cultural or
+  We had previously clung to a desperate alternative and insisted--each
+to himself--that the omnipresence of the five-pointed motif meant only some cultural or
 religious exaltation of the Archaean natural object which had so patently embodied the quality
 of five-pointedness; as the decorative motifs of Minoan Crete exalted the sacred bull, those
 of Egypt the scarabaeus, those of Rome the wolf and the eagle, and those of various savage tribes
@@ -1711,34 +1711,34 @@ perhaps that will not be necessary.
 
   The things once rearing and dwelling in this frightful masonry in the age of
 dinosaurs were not indeed dinosaurs, but far worse. Mere dinosaurs were new and almost brainless
-objects&mdash;but the builders of the city were wise and old, and had left certain traces in
-rocks even then laid down well-nigh a thousand million years&nbsp;.&nbsp;.&nbsp;. rocks laid
-down before the true life of earth had advanced beyond plastic groups of cells&nbsp;.&nbsp;.&nbsp;.
+objects--but the builders of the city were wise and old, and had left certain traces in
+rocks even then laid down well-nigh a thousand million years . . . rocks laid
+down before the true life of earth had advanced beyond plastic groups of cells . . .
 rocks laid down before the true life of earth had existed at all. They were the makers and enslavers
 of that life, and above all doubt the originals of the fiendish elder myths which things like
 the Pnakotic Manuscripts and the   Necronomicon   affrightedly hint about. They were the
-Great Old Ones that had filtered down from the stars when earth was young&mdash;the beings whose
+Great Old Ones that had filtered down from the stars when earth was young--the beings whose
 substance an alien evolution had shaped, and whose powers were such as this planet had never
 bred. And to think that only the day before Danforth and I had actually looked upon fragments
-of their millennially fossilised substance&nbsp;.&nbsp;.&nbsp;. and that poor Lake and his party
-had seen their complete outlines.&nbsp;.&nbsp;.&nbsp;.  
+of their millennially fossilised substance . . . and that poor Lake and his party
+had seen their complete outlines. . . .  
 
   It is of course impossible for me to relate in proper order the stages by which
 we picked up what we know of that monstrous chapter of pre-human life. After the first shock
-of the certain revelation we had to pause a while to recuperate, and it was fully three o&rsquo;clock
+of the certain revelation we had to pause a while to recuperate, and it was fully three o'clock
 before we got started on our actual tour of systematic research. The sculptures in the building
-we entered were of relatively late date&mdash;perhaps two million years ago&mdash;as checked
+we entered were of relatively late date--perhaps two million years ago--as checked
 up by geological, biological, and astronomical features; and embodied an art which would be
 called decadent in comparison with that of specimens we found in older buildings after crossing
 bridges under the glacial sheet. One edifice hewn from the solid rock seemed to go back forty
-or possibly even fifty million years&mdash;to the lower Eocene or upper Cretaceous&mdash;and
+or possibly even fifty million years--to the lower Eocene or upper Cretaceous--and
 contained bas-reliefs of an artistry surpassing anything else, with one tremendous exception,
 that we encountered. That was, we have since agreed, the oldest domestic structure we traversed.  
 
   Were it not for the support of those flashlights soon to be made public, I
 would refrain from telling what I found and inferred, lest I be confined as a madman. Of course,
-the infinitely early parts of the patchwork tale&mdash;representing the pre-terrestrial life
-of the star-headed beings on other planets, and in other galaxies, and in other universes&mdash;can
+the infinitely early parts of the patchwork tale--representing the pre-terrestrial life
+of the star-headed beings on other planets, and in other galaxies, and in other universes--can
 readily be interpreted as the fantastic mythology of those beings themselves; yet such parts
 sometimes involved designs and diagrams so uncannily close to the latest findings of mathematics
 and astrophysics that I scarcely know what to think. Let others judge when they see the photographs
@@ -1749,7 +1749,7 @@ of any connected story; nor did we even begin to come upon the various stages of
 in their proper order. Some of the vast rooms were independent units so far as their designs
 were concerned, whilst in other cases a continuous chronicle would be carried through a series
 of rooms and corridors. The best of the maps and diagrams were on the walls of a frightful abyss
-below even the ancient ground level&mdash;a cavern perhaps 200 feet square and sixty feet high,
+below even the ancient ground level--a cavern perhaps 200 feet square and sixty feet high,
 which had almost undoubtedly been an educational centre of some sort. There were many provoking
 repetitions of the same material in different rooms and buildings; since certain chapters of
 experience, and certain summaries or phases of racial history, had evidently been favourites
@@ -1758,10 +1758,10 @@ proved useful in settling debatable points and filling in gaps.
 
   I still wonder that we deduced so much in the short time at our disposal. Of
 course, we even now have only the barest outline; and much of that was obtained later on from
-a study of the photographs and sketches we made. It may be the effect of this later study&mdash;the
+a study of the photographs and sketches we made. It may be the effect of this later study--the
 revived memories and vague impressions acting in conjunction with his general sensitiveness
-and with that final supposed horror-glimpse whose essence he will not reveal even to me&mdash;which
-has been the immediate source of Danforth&rsquo;s present breakdown. But it had to be; for we
+and with that final supposed horror-glimpse whose essence he will not reveal even to me--which
+has been the immediate source of Danforth's present breakdown. But it had to be; for we
 could not issue our warning intelligently without the fullest possible information, and the
 issuance of that warning is a prime necessity. Certain lingering influences in that unknown
 antarctic world of disordered time and alien natural law make it imperative that further exploration
@@ -1772,13 +1772,13 @@ be discouraged.
 The full story, so far as deciphered, will shortly appear in an official bulletin of Miskatonic
 University. Here I shall sketch only the salient high lights in a formless, rambling way. Myth
 or otherwise, the sculptures told of the coming of those star-headed things to the nascent,
-lifeless earth out of cosmic space&mdash;their coming, and the coming of many other alien entities
+lifeless earth out of cosmic space--their coming, and the coming of many other alien entities
 such as at certain times embark upon spatial pioneering. They seemed able to traverse the interstellar
-ether on their vast membraneous wings&mdash;thus oddly confirming some curious hill folklore
+ether on their vast membraneous wings--thus oddly confirming some curious hill folklore
 long ago told me by an antiquarian colleague. They had lived under the sea a good deal, building
 fantastic cities and fighting terrific battles with nameless adversaries by means of intricate
 devices employing unknown principles of energy. Evidently their scientific and mechanical knowledge
-far surpassed man&rsquo;s today, though they made use of its more widespread and elaborate forms
+far surpassed man's today, though they made use of its more widespread and elaborate forms
 only when obliged to. Some of the sculptures suggested that they had passed through a stage
 of mechanised life on other planets, but had receded upon finding its effects emotionally unsatisfying.
 Their preternatural toughness of organisation and simplicity of natural wants made them peculiarly
@@ -1786,13 +1786,13 @@ able to live on a high plane without the more specialised fruits of artificial m
 and even without garments except for occasional protection against the elements.  
 
   It was under the sea, at first for food and later for other purposes, that
-they first created earth-life&mdash;using available substances according to long-known methods.
+they first created earth-life--using available substances according to long-known methods.
 The more elaborate experiments came after the annihilation of various cosmic enemies. They had
 done the same thing on other planets; having manufactured not only necessary foods, but certain
 multicellular protoplasmic masses capable of moulding their tissues into all sorts of temporary
 organs under hypnotic influence and thereby forming ideal slaves to perform the heavy work of
 the community. These viscous masses were without doubt what Abdul Alhazred whispered about as
-the &ldquo;shoggoths&rdquo; in his frightful   Necronomicon,   though even that mad Arab
+the  "shoggoths " in his frightful   Necronomicon,   though even that mad Arab
 had not hinted that any existed on earth except in the dreams of those who had chewed a certain
 alkaloidal herb. When the star-headed Old Ones on this planet had synthesised their simple food
 forms and bred a good supply of shoggoths, they allowed other cell-groups to develop into other
@@ -1812,19 +1812,19 @@ finials on certain cone and pyramid apexes, and tiers of thin, horizontal scallo
 cylindrical shafts. This was exactly what we had seen in that monstrous and portentous mirage,
 cast by a dead city whence such skyline features had been absent for thousands and tens of thousands
 of years, which loomed on our ignorant eyes across the unfathomed mountains of madness as we
-first approached poor Lake&rsquo;s ill-fated camp.  
+first approached poor Lake's ill-fated camp.  
 
   Of the life of the Old Ones, both under the sea and after part of them migrated
 to land, volumes could be written. Those in shallow water had continued the fullest use of the
 eyes at the ends of their five main head tentacles, and had practiced the arts of sculpture
-and of writing in quite the usual way&mdash;the writing accomplished with a stylus on waterproof
+and of writing in quite the usual way--the writing accomplished with a stylus on waterproof
 waxen surfaces. Those lower down in the ocean depths, though they used a curious phosphorescent
 organism to furnish light, pieced out their vision with obscure special senses operating through
-the prismatic cilia on their heads&mdash;senses which rendered all the Old Ones partly independent
+the prismatic cilia on their heads--senses which rendered all the Old Ones partly independent
 of light in emergencies. Their forms of sculpture and writing had changed curiously during the
-descent, embodying certain apparently chemical coating processes&mdash;probably to secure phosphorescence&mdash;which
-the bas-reliefs could not make clear to us. The beings moved in the sea partly by swimming&mdash;using
-the lateral crinoid arms&mdash;and partly by wriggling with the lower tier of tentacles containing
+descent, embodying certain apparently chemical coating processes--probably to secure phosphorescence--which
+the bas-reliefs could not make clear to us. The beings moved in the sea partly by swimming--using
+the lateral crinoid arms--and partly by wriggling with the lower tier of tentacles containing
 the pseudo-feet. Occasionally they accomplished long swoops with the auxiliary use of two or
 more sets of their fan-like folding wings. On land they locally used the pseudo-feet, but now
 and then flew to great heights or over long distances with their wings. The many slender tentacles
@@ -1837,7 +1837,7 @@ of the deepest sea-bottoms appeared powerless to harm them. Very few seemed to d
 by violence, and their burial-places were very limited. The fact that they covered their vertically
 inhumed dead with five-pointed inscribed mounds set up thoughts in Danforth and me which made
 a fresh pause and recuperation necessary after the sculptures revealed it. The beings multiplied
-by means of spores&mdash;like vegetable pteridophytes as Lake had suspected&mdash;but owing
+by means of spores--like vegetable pteridophytes as Lake had suspected--but owing
 to their prodigious toughness and longevity, and consequent lack of replacement needs, they
 did not encourage the large-scale development of new prothalli except when they had new regions
 to colonise. The young matured swiftly, and received an education evidently beyond any standard
@@ -1848,11 +1848,11 @@ foundations and essentials.
 
   Though able, like vegetables, to derive nourishment from inorganic substances;
 they vastly preferred organic and especially animal food. They ate uncooked marine life under
-the sea, but cooked their viands on land. They hunted game and raised meat herds&mdash;slaughtering
+the sea, but cooked their viands on land. They hunted game and raised meat herds--slaughtering
 with sharp weapons whose odd marks on certain fossil bones our expedition had noted. They resisted
 all ordinary temperatures marvellously; and in their natural state could live in water down
-to freezing. When the great chill of the Pleistocene drew on, however&mdash;nearly a million
-years ago&mdash;the land dwellers had to resort to special measures including artificial heating;
+to freezing. When the great chill of the Pleistocene drew on, however--nearly a million
+years ago--the land dwellers had to resort to special measures including artificial heating;
 until at last the deadly cold appears to have driven them back into the sea. For their prehistoric
 flights through cosmic space, legend said, they had absorbed certain chemicals and became almost
 independent of eating, breathing, or heat conditions; but by the time of the great cold they
@@ -1861,12 +1861,12 @@ indefinitely without harm.
 
   Being non-pairing and semi-vegetable in structure, the Old Ones had no biological
 basis for the family phase of mammal life; but seemed to organise large households on the principles
-of comfortable space-utility and&mdash;as we deduced from the pictured occupations and diversions
-of co-dwellers&mdash;congenial mental association. In furnishing their homes they kept everything
+of comfortable space-utility and--as we deduced from the pictured occupations and diversions
+of co-dwellers--congenial mental association. In furnishing their homes they kept everything
 in the centre of the huge rooms, leaving all the wall spaces free for decorative treatment.
 Lighting, in the case of the land inhabitants, was accomplished by a device probably electro-chemical
 in nature. Both on land and under water they used curious tables, chairs, and couches like cylindrical
-frames&mdash;for they rested and slept upright with folded-down tentacles&mdash;and racks for
+frames--for they rested and slept upright with folded-down tentacles--and racks for
 the hinged sets of dotted surfaces forming their books.  
 
   Government was evidently complex and probably socialistic, though no certainties
@@ -1878,11 +1878,11 @@ stock-raising existed. Mining and a limited amount of manufacturing were also pr
 was very frequent, but permanent migration seemed relatively rare except for the vast colonising
 movements by which the race expanded. For personal locomotion no external aid was used; since
 in land, air, and water movement alike the Old Ones seemed to possess excessively vast capacities
-for speed. Loads, however, were drawn by beasts of burden&mdash;shoggoths under the sea, and
+for speed. Loads, however, were drawn by beasts of burden--shoggoths under the sea, and
 a curious variety of primitive vertebrates in the later years of land existence.  
 
-  These vertebrates, as well as an infinity of other life-forms&mdash;animal
-and vegetable, marine, terrestrial, and a&euml;rial&mdash;were the products of unguided evolution
+  These vertebrates, as well as an infinity of other life-forms--animal
+and vegetable, marine, terrestrial, and aërial--were the products of unguided evolution
 acting on life-cells made by the Old Ones but escaping beyond their radius of attention. They
 had been suffered to develop unchecked because they had not come in conflict with the dominant
 beings. Bothersome forms, of course, were mechanically exterminated. It interested us to see
@@ -1893,7 +1893,7 @@ of the high towers were generally lifted by vast-winged pterodactyls of a specie
 unknown to palaeontology.  
 
   The persistence with which the Old Ones survived various geologic changes and
-convulsions of the earth&rsquo;s crust was little short of miraculous. Though few or none of
+convulsions of the earth's crust was little short of miraculous. Though few or none of
 their first cities seem to have remained beyond the Archaean age, there was no interruption
 in their civilisation or in the transmission of their records. Their original place of advent
 to the planet was the Antarctic Ocean, and it is likely that they came not long after the matter
@@ -1907,19 +1907,19 @@ way the theories of continental drift lately advanced by Taylor, Wegener, and Jo
 
   With the upheaval of new land in the South Pacific tremendous events began.
 Some of the marine cities were hopelessly shattered, yet that was not the worst misfortune.
-Another race&mdash;a land race of beings shaped like octopi and probably corresponding to the
-fabulous pre-human spawn of Cthulhu&mdash;soon began filtering down from cosmic infinity and
-precipitated a monstrous war which for a time drove the Old Ones wholly back to the sea&mdash;a
+Another race--a land race of beings shaped like octopi and probably corresponding to the
+fabulous pre-human spawn of Cthulhu--soon began filtering down from cosmic infinity and
+precipitated a monstrous war which for a time drove the Old Ones wholly back to the sea--a
 colossal blow in view of the increasing land settlements. Later peace was made, and the new
 lands were given to the Cthulhu spawn whilst the Old Ones held the sea and the older lands.
-New land cities were founded&mdash;the greatest of them in the antarctic, for this region of
+New land cities were founded--the greatest of them in the antarctic, for this region of
 first arrival was sacred. From then on, as before, the antarctic remained the centre of the
-Old Ones&rsquo; civilisation, and all the discoverable cities built there by the Cthulhu spawn
+Old Ones' civilisation, and all the discoverable cities built there by the Cthulhu spawn
 were blotted out. Then suddenly the lands of the Pacific sank again, taking with them the frightful
-stone city of R&rsquo;lyeh and all the cosmic octopi, so that the Old Ones were again supreme
+stone city of R'lyeh and all the cosmic octopi, so that the Old Ones were again supreme
 on the planet except for one shadowy fear about which they did not like to speak. At a rather
-later age their cities dotted all the land and water areas of the globe&mdash;hence the recommendation
-in my coming monograph that some archaeologist make systematic borings with Pabodie&rsquo;s
+later age their cities dotted all the land and water areas of the globe--hence the recommendation
+in my coming monograph that some archaeologist make systematic borings with Pabodie's
 type of apparatus in certain widely separated regions.  
 
   The steady trend down the ages was from water to land; a movement encouraged
@@ -1955,12 +1955,12 @@ an ability to live out of water, this transition was not encouraged; since their
 on land would hardly have been commensurate with the trouble of their management.  
 
   During the Jurassic age the Old Ones met fresh adversity in the form of a new
-invasion from outer space&mdash;this time by half-fungous, half-crustacean creatures from a
+invasion from outer space--this time by half-fungous, half-crustacean creatures from a
 planet identifiable as the remote and recently discovered Pluto; creatures undoubtedly the same
 as those figuring in certain whispered hill legends of the north, and remembered in the Himalayas
 as the Mi-Go, or Abominable Snow-Men. To fight these beings the Old Ones attempted, for the
 first time since their terrene advent, to sally forth again into the planetary ether; but despite
-all traditional preparations found it no longer possible to leave the earth&rsquo;s atmosphere.
+all traditional preparations found it no longer possible to leave the earth's atmosphere.
 Whatever the old secret of interstellar travel had been, it was now definitely lost to the race.
 In the end the Mi-Go drove the Old Ones out of all the northern lands, though they were powerless
 to disturb those in the sea. Little by little the slow retreat of the elder race to their original
@@ -1985,20 +1985,20 @@ vividness in many of the sculptured maps and scenes. In certain cases existing s
 require revision, while in other cases its bold deductions are magnificently confirmed. As I
 have said, the hypothesis of Taylor, Wegener, and Joly that all the continents are fragments
 of an original antarctic land mass which cracked from centrifugal force and drifted apart over
-a technically viscous lower surface&mdash;an hypothesis suggested by such things as the complementary
+a technically viscous lower surface--an hypothesis suggested by such things as the complementary
 outlines of Africa and South America, and the way the great mountain chains are rolled and shoved
-up&mdash;receives striking support from this uncanny source.  
+up--receives striking support from this uncanny source.  
 
   Maps evidently shewing the Carboniferous world of an hundred million or more
 years ago displayed significant rifts and chasms destined later to separate Africa from the
 once continuous realms of Europe (then the Valusia of hellish primal legend), Asia, the Americas,
-and the antarctic continent. Other charts&mdash;and most significantly one in connexion with
-the founding fifty million years ago of the vast dead city around us&mdash;shewed all the present
-continents well differentiated. And in the latest discoverable specimen&mdash;dating perhaps
-from the Pliocene age&mdash;the approximate world of today appeared quite clearly despite the
+and the antarctic continent. Other charts--and most significantly one in connexion with
+the founding fifty million years ago of the vast dead city around us--shewed all the present
+continents well differentiated. And in the latest discoverable specimen--dating perhaps
+from the Pliocene age--the approximate world of today appeared quite clearly despite the
 linkage of Alaska with Siberia, of North America with Europe through Greenland, and of South
 America with the antarctic continent through Graham Land. In the Carboniferous map the whole
-globe&mdash;ocean floor and rifted land mass alike&mdash;bore symbols of the Old Ones&rsquo;
+globe--ocean floor and rifted land mass alike--bore symbols of the Old Ones'
 vast stone cities, but in the later charts the gradual recession toward the antarctic became
 very plain. The final Pliocene specimen shewed no land cities except on the antarctic continent
 and the tip of South America, nor any ocean cities north of the fiftieth parallel of South Latitude.
@@ -2013,9 +2013,9 @@ made as the ages wore on. The vast dead megalopolis that yawned around us seemed
 general centre of the race; built early in the Cretaceous age after a titanic earth-buckling
 had obliterated a still vaster predecessor not far distant. It appeared that this general region
 was the most sacred spot of all, where reputedly the first Old Ones had settled on a primal
-sea-bottom. In the new city&mdash;many of whose features we could recognise in the sculptures,
+sea-bottom. In the new city--many of whose features we could recognise in the sculptures,
 but which stretched fully an hundred miles along the mountain-range in each direction beyond
-the farthest limits of our a&euml;rial survey&mdash;there were reputed to be preserved certain
+the farthest limits of our aërial survey--there were reputed to be preserved certain
 sacred stones forming part of the first sea-bottom city, which were thrust up to light after
 long epochs in the course of the general crumpling of strata.  
 
@@ -2031,10 +2031,10 @@ This was the last place we examined in detail, since what we found there gave us
 objective.  
 
   Certainly, we were in one of the strangest, weirdest, and most terrible of
-all the corners of earth&rsquo;s globe. Of all existing lands it was infinitely the most ancient;
+all the corners of earth's globe. Of all existing lands it was infinitely the most ancient;
 and the conviction grew upon us that this hideous upland must indeed be the fabled nightmare
 plateau of Leng which even the mad author of the   Necronomicon   was reluctant to discuss.
-The great mountain chain was tremendously long&mdash;starting as a low range at Luitpold Land
+The great mountain chain was tremendously long--starting as a low range at Luitpold Land
 on the coast of Weddell Sea and virtually crossing the entire continent. The really high part
 stretched in a mighty arc from about Latitude 82&deg;, E. Longitude 60&deg; to Latitude 70&deg;,
 E. Longitude 115&deg;, with its concave side toward our camp and its seaward end in the region
@@ -2043,20 +2043,20 @@ Circle.
 
   Yet even more monstrous exaggerations of Nature seemed disturbingly close at
 hand. I have said that these peaks are higher than the Himalayas, but the sculptures forbid
-me to say that they are earth&rsquo;s highest. That grim honour is beyond doubt reserved for
+me to say that they are earth's highest. That grim honour is beyond doubt reserved for
 something which half the sculptures hesitated to record at all, whilst others approached it
-with obvious repugnance and trepidation. It seems that there was one part of the ancient land&mdash;the
+with obvious repugnance and trepidation. It seems that there was one part of the ancient land--the
 first part that ever rose from the waters after the earth had flung off the moon and the Old
-Ones had seeped down from the stars&mdash;which had come to be shunned as vaguely and namelessly
+Ones had seeped down from the stars--which had come to be shunned as vaguely and namelessly
 evil. Cities built there had crumbled before their time, and had been found suddenly deserted.
 Then when the first great earth-buckling had convulsed the region in the Comanchian age, a frightful
-line of peaks had shot suddenly up amidst the most appalling din and chaos&mdash;and earth had
+line of peaks had shot suddenly up amidst the most appalling din and chaos--and earth had
 received her loftiest and most terrible mountains.  
 
   If the scale of the carvings was correct, these abhorred things must have been
-much over 40,000 feet high&mdash;radically vaster than even the shocking mountains of madness
+much over 40,000 feet high--radically vaster than even the shocking mountains of madness
 we had crossed. They extended, it appeared, from about Latitude 77&deg;, E. Longitude 70&deg;
-to Latitude 70&deg;, E. Longitude 100&deg;&mdash;less than 300 miles away from the dead city,
+to Latitude 70&deg;, E. Longitude 100&deg;--less than 300 miles away from the dead city,
 so that we would have spied their dreaded summits in the dim western distance had it not been
 for that vague opalescent haze. Their northern end must likewise be visible from the long Antarctic
 Circle coast-line at Queen Mary Land.  
@@ -2064,10 +2064,10 @@ Circle coast-line at Queen Mary Land.
   Some of the Old Ones, in the decadent days, had made strange prayers to those
 mountains; but none ever went near them or dared to guess what lay beyond. No human eye had
 ever seen them, and as I studied the emotions conveyed in the carvings I prayed that none ever
-might. There are protecting hills along the coast beyond them&mdash;Queen Mary and Kaiser Wilhelm
-Lands&mdash;and I thank heaven no one has been able to land and climb those hills. I am not
+might. There are protecting hills along the coast beyond them--Queen Mary and Kaiser Wilhelm
+Lands--and I thank heaven no one has been able to land and climb those hills. I am not
 as sceptical about old tales and fears as I used to be, and I do not laugh now at the pre-human
-sculptor&rsquo;s notion that lightning paused meaningfully now and then at each of the brooding
+sculptor's notion that lightning paused meaningfully now and then at each of the brooding
 crests, and that an unexplained glow shone from one of those terrible pinnacles all through
 the long polar night. There may be a very real and very monstrous meaning in the old Pnakotic
 whispers about Kadath in the Cold Waste.  
@@ -2080,12 +2080,12 @@ the caves had appeared, and had been shaped into adjuncts of the temples. With t
 still later epochs all the limestone veins of the region were hollowed out by ground waters,
 so that the mountains, the foothills, and the plains below them were a veritable network of
 connected caverns and galleries. Many graphic sculptures told of explorations deep underground,
-and of the final discovery of the Stygian sunless sea that lurked at earth&rsquo;s bowels.  
+and of the final discovery of the Stygian sunless sea that lurked at earth's bowels.  
 
   This vast nighted gulf had undoubtedly been worn by the great river which flowed
 down from the nameless and horrible westward mountains, and which had formerly turned at the
-base of the Old Ones&rsquo; range and flowed beside that chain into the Indian Ocean between
-Budd and Totten Lands on Wilkes&rsquo;s coast-line. Little by little it had eaten away the limestone
+base of the Old Ones' range and flowed beside that chain into the Indian Ocean between
+Budd and Totten Lands on Wilkes's coast-line. Little by little it had eaten away the limestone
 hill base at its turning, till at last its sapping currents reached the caverns of the ground
 waters and joined with them in digging a deeper abyss. Finally its whole bulk emptied into the
 hollow hills and left the old bed toward the ocean dry. Much of the later city as we now found
@@ -2094,33 +2094,33 @@ their always keen artistic sense, had carved into ornate pylons those headlands 
 where the great stream began its descent into eternal darkness.  
 
   This river, once crossed by scores of noble stone bridges, was plainly the
-one whose extinct course we had seen in our a&euml;roplane survey. Its position in different
+one whose extinct course we had seen in our aëroplane survey. Its position in different
 carvings of the city helped us to orient ourselves to the scene as it had been at various stages
-of the region&rsquo;s age-long, aeon-dead history; so that we were able to sketch a hasty but
-careful map of the salient features&mdash;squares, important buildings, and the like&mdash;for
+of the region's age-long, aeon-dead history; so that we were able to sketch a hasty but
+careful map of the salient features--squares, important buildings, and the like--for
 guidance in further explorations. We could soon reconstruct in fancy the whole stupendous thing
 as it was a million or ten million or fifty million years ago, for the sculptures told us exactly
 what the buildings and mountains and squares and suburbs and landscape setting and luxuriant
 Tertiary vegetation had looked like. It must have had a marvellous and mystic beauty, and as
-I thought of it I almost forgot the clammy sense of sinister oppression with which the city&rsquo;s
+I thought of it I almost forgot the clammy sense of sinister oppression with which the city's
 inhuman age and massiveness and deadness and remoteness and glacial twilight had choked and
 weighed on my spirit. Yet according to certain carvings the denizens of that city had themselves
 known the clutch of oppressive terror; for there was a sombre and recurrent type of scene in
-which the Old Ones were shewn in the act of recoiling affrightedly from some object&mdash;never
-allowed to appear in the design&mdash;found in the great river and indicated as having been
+which the Old Ones were shewn in the act of recoiling affrightedly from some object--never
+allowed to appear in the design--found in the great river and indicated as having been
 washed down through waving, vine-draped cycad-forests from those horrible westward mountains.  
 
   It was only in the one late-built house with the decadent carvings that we
-obtained any foreshadowing of the final calamity leading to the city&rsquo;s desertion. Undoubtedly
+obtained any foreshadowing of the final calamity leading to the city's desertion. Undoubtedly
 there must have been many sculptures of the same age elsewhere, even allowing for the slackened
 energies and aspirations of a stressful and uncertain period; indeed, very certain evidence
 of the existence of others came to us shortly afterward. But this was the first and only set
 we directly encountered. We meant to look farther later on; but as I have said, immediate conditions
-dictated another present objective. There would, though, have been a limit&mdash;for after all
+dictated another present objective. There would, though, have been a limit--for after all
 hope of a long future occupancy of the place had perished among the Old Ones, there could not
 but have been a complete cessation of mural decoration. The ultimate blow, of course, was the
 coming of the great cold which once held most of the earth in thrall, and which has never departed
-from the ill-fated poles&mdash;the great cold that, at the world&rsquo;s other extremity, put
+from the ill-fated poles--the great cold that, at the world's other extremity, put
 an end to the fabled lands of Lomar and Hyperborea.  
 
   Just when this tendency began in the antarctic it would be hard to say in terms
@@ -2128,14 +2128,14 @@ of exact years. Nowadays we set the beginning of the general glacial periods at 
 about 500,000 years from the present, but at the poles the terrible scourge must have commenced
 much earlier. All quantitative estimates are partly guesswork; but it is quite likely that the
 decadent sculptures were made considerably less than a million years ago, and that the actual
-desertion of the city was complete long before the conventional opening of the Pleistocene&mdash;500,000
-years ago&mdash;as reckoned in terms of the earth&rsquo;s whole surface.  
+desertion of the city was complete long before the conventional opening of the Pleistocene--500,000
+years ago--as reckoned in terms of the earth's whole surface.  
 
   In the decadent sculptures there were signs of thinner vegetation everywhere,
 and of a decreased country life on the part of the Old Ones. Heating devices were shewn in the
 houses, and winter travellers were represented as muffled in protective fabrics. Then we saw
 a series of cartouches (the continuous band arrangement being frequently interrupted in these
-late carvings) depicting a constantly growing migration to the nearest refuges of greater warmth&mdash;some
+late carvings) depicting a constantly growing migration to the nearest refuges of greater warmth--some
 fleeing to cities under the sea off the far-away coast, and some clambering down through networks
 of limestone caverns in the hollow hills to the neighbouring black abyss of subterrene waters.  
 
@@ -2146,18 +2146,18 @@ for continuing the use of the great temples on the honeycombed mountains, and fo
 the vast land city as a place of summer residence and base of communication with various mines.
 The linkage of old and new abodes was made more effective by means of several gradings and improvements
 along the connecting routes, including the chiselling of numerous direct tunnels from the ancient
-metropolis to the black abyss&mdash;sharply down-pointing tunnels whose mouths we carefully
+metropolis to the black abyss--sharply down-pointing tunnels whose mouths we carefully
 drew, according to our most thoughtful estimates, on the guide map we were compiling. It was
 obvious that at least two of these tunnels lay within a reasonable exploring distance of where
 we were; both being on the mountainward edge of the city, one less than a quarter-mile toward
 the ancient river-course, and the other perhaps twice that distance in the opposite direction.  
 
   The abyss, it seems, had shelving shores of dry land at certain places; but
-the Old Ones built their new city under water&mdash;no doubt because of its greater certainty
+the Old Ones built their new city under water--no doubt because of its greater certainty
 of uniform warmth. The depth of the hidden sea appears to have been very great, so that the
-earth&rsquo;s internal heat could ensure its habitability for an indefinite period. The beings
-seem to have had no trouble in adapting themselves to part-time&mdash;and eventually, of course,
-whole-time&mdash;residence under water; since they had never allowed their gill systems to atrophy.
+earth's internal heat could ensure its habitability for an indefinite period. The beings
+seem to have had no trouble in adapting themselves to part-time--and eventually, of course,
+whole-time--residence under water; since they had never allowed their gill systems to atrophy.
 There were many sculptures which shewed how they had always frequently visited their submarine
 kinsfolk elsewhere, and how they had habitually bathed on the deep bottom of their great river.
 The darkness of inner earth could likewise have been no deterrent to a race accustomed to long
@@ -2168,7 +2168,7 @@ epic quality where they told of the building of the new city in the cavern sea. 
 had gone about it scientifically; quarrying insoluble rocks from the heart of the honeycombed
 mountains, and employing expert workers from the nearest submarine city to perform the construction
 according to the best methods. These workers brought with them all that was necessary to establish
-the new venture&mdash;shoggoth-tissue from which to breed stone-lifters and subsequent beasts
+the new venture--shoggoth-tissue from which to breed stone-lifters and subsequent beasts
 of burden for the cavern city, and other protoplasmic matter to mould into phosphorescent organisms
 for lighting purposes.  
 
@@ -2177,8 +2177,8 @@ much like that of the city above, and its workmanship displaying relatively litt
 because of the precise mathematical element inherent in building operations. The newly bred
 shoggoths grew to enormous size and singular intelligence, and were represented as taking and
 executing orders with marvellous quickness. They seemed to converse with the Old Ones by mimicking
-their voices&mdash;a sort of musical piping over a wide range, if poor Lake&rsquo;s dissection
-had indicated aright&mdash;and to work more from spoken commands than from hypnotic suggestions
+their voices--a sort of musical piping over a wide range, if poor Lake's dissection
+had indicated aright--and to work more from spoken commands than from hypnotic suggestions
 as in earlier times. They were, however, kept in admirable control. The phosphorescent organisms
 supplied light with vast effectiveness, and doubtless atoned for the loss of the familiar polar
 auroras of the outer-world night.  
@@ -2190,8 +2190,8 @@ their land city, just as the emperor, in a similar age of decline, stripped Gree
 of their finest art to give his new Byzantine capital greater splendours than its own people
 could create. That the transfer of sculptured blocks had not been more extensive, was doubtless
 owing to the fact that the land city was not at first wholly abandoned. By the time total abandonment
-did occur&mdash;and it surely must have occurred before the polar Pleistocene was far advanced&mdash;the
-Old Ones had perhaps become satisfied with their decadent art&mdash;or had ceased to recognise
+did occur--and it surely must have occurred before the polar Pleistocene was far advanced--the
+Old Ones had perhaps become satisfied with their decadent art--or had ceased to recognise
 the superior merit of the older carvings. At any rate, the aeon-silent ruins around us had certainly
 undergone no wholesale sculptural denudation; though all the best separate statues, like other
 moveables, had been taken away.  
@@ -2201,7 +2201,7 @@ the latest we could find in our limited search. They left us with a picture of t
 shuttling back and forth betwixt the land city in summer and the sea-cavern city in winter,
 and sometimes trading with the sea-bottom cities off the antarctic coast. By this time the ultimate
 doom of the land city must have been recognised, for the sculptures shewed many signs of the
-cold&rsquo;s malign encroachments. Vegetation was declining, and the terrible snows of the winter
+cold's malign encroachments. Vegetation was declining, and the terrible snows of the winter
 no longer melted completely even in midsummer. The saurian livestock were nearly all dead, and
 the mammals were standing it none too well. To keep on with the work of the upper world it had
 become necessary to adapt some of the amorphous and curiously cold-resistant shoggoths to land
@@ -2215,25 +2215,25 @@ waters frozen at last? To what fate had the ocean-bottom cities of the outer wor
 Had any of the Old Ones shifted north ahead of the creeping ice-cap? Existing geology shews
 no trace of their presence. Had the frightful Mi-Go been still a menace in the outer land world
 of the north? Could one be sure of what might or might not linger even to this day in the lightless
-and unplumbed abysses of earth&rsquo;s deepest waters? Those things had seemingly been able
-to withstand any amount of pressure&mdash;and men of the sea have fished up curious objects
+and unplumbed abysses of earth's deepest waters? Those things had seemingly been able
+to withstand any amount of pressure--and men of the sea have fished up curious objects
 at times. And has the killer-whale theory really explained the savage and mysterious scars on
 antarctic seals noticed a generation ago by Borchgrevingk?  
 
   The specimens found by poor Lake did not enter into these guesses, for their
 geologic setting proved them to have lived at what must have been a very early date in the land
-city&rsquo;s history. They were, according to their location, certainly not less than thirty
+city's history. They were, according to their location, certainly not less than thirty
 million years old; and we reflected that in their day the sea-cavern city, and indeed the cavern
 itself, had no existence. They would have remembered an older scene, with lush Tertiary vegetation
 everywhere, a younger land city of flourishing arts around them, and a great river sweeping
 northward along the base of the mighty mountains toward a far-away tropic ocean.  
 
-  And yet we could not help thinking about these specimens&mdash;especially about
-the eight perfect ones that were missing from Lake&rsquo;s hideously ravaged camp. There was
-something abnormal about that whole business&mdash;the strange things we had tried so hard to
-lay to somebody&rsquo;s madness&mdash;those frightful graves&mdash;the amount   and nature  
-of the missing material&mdash;Gedney&mdash;the unearthly toughness of those archaic monstrosities,
-and the queer vital freaks the sculptures now shewed the race to have.&nbsp;.&nbsp;.&nbsp;.
+  And yet we could not help thinking about these specimens--especially about
+the eight perfect ones that were missing from Lake's hideously ravaged camp. There was
+something abnormal about that whole business--the strange things we had tried so hard to
+lay to somebody's madness--those frightful graves--the amount   and nature  
+of the missing material--Gedney--the unearthly toughness of those archaic monstrosities,
+and the queer vital freaks the sculptures now shewed the race to have. . . .
 Danforth and I had seen a good deal in the last few hours, and were prepared to believe and
 keep silent about many appalling and incredible secrets of primal Nature.  
 
@@ -2246,21 +2246,21 @@ the evident scale of the carvings we deduced that a steeply descending walk of a
 through either of the neighbouring tunnels would bring us to the brink of the dizzy sunless
 cliffs above the great abyss; down whose side adequate paths, improved by the Old Ones, led
 to the rocky shore of the hidden and nighted ocean. To behold this fabulous gulf in stark reality
-was a lure which seemed impossible of resistance once we knew of the thing&mdash;yet we realised
+was a lure which seemed impossible of resistance once we knew of the thing--yet we realised
 we must begin the quest at once if we expected to include it on our present flight.  
 
   It was now 8 P.M., and we had not enough battery replacements to let our torches
 burn on forever. We had done so much of our studying and copying below the glacial level that
 our battery supply had had at least five hours of nearly continuous use; and despite the special
-dry cell formula would obviously be good for only about four more&mdash;though by keeping one
+dry cell formula would obviously be good for only about four more--though by keeping one
 torch unused, except for especially interesting or difficult places, we might manage to eke
 out a safe margin beyond that. It would not do to be without a light in these Cyclopean catacombs,
 hence in order to make the abyss trip we must give up all further mural deciphering. Of course
-we intended to revisit the place for days and perhaps weeks of intensive study and photography&mdash;curiosity
-having long ago got the better of horror&mdash;but just now we must hasten. Our supply of trail-blazing
+we intended to revisit the place for days and perhaps weeks of intensive study and photography--curiosity
+having long ago got the better of horror--but just now we must hasten. Our supply of trail-blazing
 paper was far from unlimited, and we were reluctant to sacrifice spare notebooks or sketching
 paper to augment it; but we did let one large notebook go. If worst came to worst, we could
-resort to rock-chipping&mdash;and of course it would be possible, even in case of really lost
+resort to rock-chipping--and of course it would be possible, even in case of really lost
 direction, to work up to full daylight by one channel or another if granted sufficient time
 for plentiful trial and error. So at last we set off eagerly in the indicated direction of the
 nearest tunnel.  
@@ -2268,24 +2268,24 @@ nearest tunnel.
   According to the carvings from which we had made our map, the desired tunnel-mouth
 could not be much more than a quarter-mile from where we stood; the intervening space shewing
 solid-looking buildings quite likely to be penetrable still at a sub-glacial level. The opening
-itself would be in the basement&mdash;on the angle nearest the foothills&mdash;of a vast five-pointed
+itself would be in the basement--on the angle nearest the foothills--of a vast five-pointed
 structure of evidently public and perhaps ceremonial nature, which we tried to identify from
-our a&euml;rial survey of the ruins. No such structure came to our minds as we recalled our
+our aërial survey of the ruins. No such structure came to our minds as we recalled our
 flight, hence we concluded that its upper parts had been greatly damaged, or that it had been
 totally shattered in an ice-rift we had noticed. In the latter case the tunnel would probably
-turn out to be choked, so that we would have to try the next nearest one&mdash;the one less
+turn out to be choked, so that we would have to try the next nearest one--the one less
 than a mile to the north. The intervening river-course prevented our trying any of the more
 southerly tunnels on this trip; and indeed, if both of the neighbouring ones were choked it
-was doubtful whether our batteries would warrant an attempt on the next northerly one&mdash;about
+was doubtful whether our batteries would warrant an attempt on the next northerly one--about
 a mile beyond our second choice.  
 
-  As we threaded our dim way through the labyrinth with the aid of map and compass&mdash;traversing
+  As we threaded our dim way through the labyrinth with the aid of map and compass--traversing
 rooms and corridors in every stage of ruin or preservation, clambering up ramps, crossing upper
 floors and bridges and clambering down again, encountering choked doorways and piles of debris,
 hastening now and then along finely preserved and uncannily immaculate stretches, taking false
 leads and retracing our way (in such cases removing the blind paper trail we had left), and
 once in a while striking the bottom of an open shaft through which daylight poured or trickled
-down&mdash;we were repeatedly tantalised by the sculptured walls along our route. Many must
+down--we were repeatedly tantalised by the sculptured walls along our route. Many must
 have told tales of immense historical importance, and only the prospect of later visits reconciled
 us to the need of passing them by. As it was, we slowed down once in a while and turned on our
 second torch. If we had had more films we would certainly have paused briefly to photograph
@@ -2294,14 +2294,14 @@ certain bas-reliefs, but time-consuming hand copying was clearly out of the ques
   I come now once more to a place where the temptation to hesitate, or to hint
 rather than state, is very strong. It is necessary, however, to reveal the rest in order to
 justify my course in discouraging further exploration. We had wormed our way very close to the
-computed site of the tunnel&rsquo;s mouth&mdash;having crossed a second-story bridge to what
+computed site of the tunnel's mouth--having crossed a second-story bridge to what
 seemed plainly the tip of a pointed wall, and descended to a ruinous corridor especially rich
-in decadently elaborate and apparently ritualistic sculptures of late workmanship&mdash;when,
-about 8:30 P.M., Danforth&rsquo;s keen young nostrils gave us the first hint of something unusual.
+in decadently elaborate and apparently ritualistic sculptures of late workmanship--when,
+about 8:30 P.M., Danforth's keen young nostrils gave us the first hint of something unusual.
 If we had had a dog with us, I suppose we would have been warned before. At first we could not
 precisely say what was wrong with the formerly crystal-pure air, but after a few seconds our
 memories reacted only too definitely. Let me try to state the thing without flinching. There
-was an odour&mdash;and that odour was vaguely, subtly, and unmistakably akin to what had nauseated
+was an odour--and that odour was vaguely, subtly, and unmistakably akin to what had nauseated
 us upon opening the insane grave of the horror poor Lake had dissected.  
 
   Of course the revelation was not as clearly cut at the time as it sounds now.
@@ -2309,12 +2309,12 @@ There were several conceivable explanations, and we did a good deal of indecisiv
 Most important of all, we did not retreat without further investigation; for having come this
 far, we were loath to be balked by anything short of certain disaster. Anyway, what we must
 have suspected was altogether too wild to believe. Such things did not happen in any normal
-world. It was probably sheer irrational instinct which made us dim our single torch&mdash;tempted
+world. It was probably sheer irrational instinct which made us dim our single torch--tempted
 no longer by the decadent and sinister sculptures that leered menacingly from the oppressive
-walls&mdash;and which softened our progress to a cautious tiptoeing and crawling over the increasingly
+walls--and which softened our progress to a cautious tiptoeing and crawling over the increasingly
 littered floor and heaps of debris.  
 
-  Danforth&rsquo;s eyes as well as nose proved better than mine, for it was likewise
+  Danforth's eyes as well as nose proved better than mine, for it was likewise
 he who first noticed the queer aspect of the debris after we had passed many half-choked arches
 leading to chambers and corridors on the ground level. It did not look quite as it ought after
 countless thousands of years of desertion, and when we cautiously turned on more light we saw
@@ -2323,24 +2323,24 @@ the litter precluded any definite marks, but in the smoother places there were s
 the dragging of heavy objects. Once we thought there was a hint of parallel tracks, as if of
 runners. This was what made us pause again.  
 
-  It was during that pause that we caught&mdash;simultaneously this time&mdash;the
-other odour ahead. Paradoxically, it was both a less frightful and a more frightful odour&mdash;less
-frightful intrinsically, but infinitely appalling in this place under the known circumstances&nbsp;.&nbsp;.&nbsp;.
-unless, of course, Gedney.&nbsp;.&nbsp;.&nbsp;. For the odour was the plain and familiar one
-of common petrol&mdash;every-day gasoline.  
+  It was during that pause that we caught--simultaneously this time--the
+other odour ahead. Paradoxically, it was both a less frightful and a more frightful odour--less
+frightful intrinsically, but infinitely appalling in this place under the known circumstances . . .
+unless, of course, Gedney. . . . For the odour was the plain and familiar one
+of common petrol--every-day gasoline.  
 
   Our motivation after that is something I will leave to psychologists. We knew
 now that some terrible extension of the camp horrors must have crawled into this nighted burial-place
-of the aeons, hence could not doubt any longer the existence of nameless conditions&mdash;present
-or at least recent&mdash;just ahead. Yet in the end we did let sheer burning curiosity&mdash;or
-anxiety&mdash;or auto-hypnotism&mdash;or vague thoughts of responsibility toward Gedney&mdash;or
-what not&mdash;drive us on. Danforth whispered again of the print he thought he had seen at
-the alley-turning in the ruins above; and of the faint musical piping&mdash;potentially of tremendous
-significance in the light of Lake&rsquo;s dissection report despite its close resemblance to
-the cave-mouth echoes of the windy peaks&mdash;which he thought he had shortly afterward half
-heard from unknown depths below. I, in my turn, whispered of how the camp was left&mdash;of
-what had disappeared, and of how the madness of a lone survivor might have conceived the inconceivable&mdash;a
-wild trip across the monstrous mountains and a descent into the unknown primal masonry&mdash;  
+of the aeons, hence could not doubt any longer the existence of nameless conditions--present
+or at least recent--just ahead. Yet in the end we did let sheer burning curiosity--or
+anxiety--or auto-hypnotism--or vague thoughts of responsibility toward Gedney--or
+what not--drive us on. Danforth whispered again of the print he thought he had seen at
+the alley-turning in the ruins above; and of the faint musical piping--potentially of tremendous
+significance in the light of Lake's dissection report despite its close resemblance to
+the cave-mouth echoes of the windy peaks--which he thought he had shortly afterward half
+heard from unknown depths below. I, in my turn, whispered of how the camp was left--of
+what had disappeared, and of how the madness of a lone survivor might have conceived the inconceivable--a
+wild trip across the monstrous mountains and a descent into the unknown primal masonry--  
 
   But we could not convince each other, or even ourselves, of anything definite.
 We had turned off all light as we stood still, and vaguely noticed that a trace of deeply filtered
@@ -2354,27 +2354,27 @@ out of which the abyssward aperture opened.
 
   The torch, flashing over the grotesquely carven walls of the blocked corridor
 in which we stood, shewed several doorways in various states of obstruction; and from one of
-them the gasoline odour&mdash;quite submerging that other hint of odour&mdash;came with especial
+them the gasoline odour--quite submerging that other hint of odour--came with especial
 distinctness. As we looked more steadily, we saw that beyond a doubt there had been a slight
 and recent clearing away of debris from that particular opening. Whatever the lurking horror
 might be, we believed the direct avenue toward it was now plainly manifest. I do not think anyone
 will wonder that we waited an appreciable time before making any further motion.  
 
   And yet, when we did venture inside that black arch, our first impression was
-one of anticlimax. For amidst the littered expanse of that sculptured crypt&mdash;a perfect
-cube with sides of about twenty feet&mdash;there remained no recent object of instantly discernible
+one of anticlimax. For amidst the littered expanse of that sculptured crypt--a perfect
+cube with sides of about twenty feet--there remained no recent object of instantly discernible
 size; so that we looked instinctively, though in vain, for a farther doorway. In another moment,
-however, Danforth&rsquo;s sharp vision had descried a place where the floor debris had been
+however, Danforth's sharp vision had descried a place where the floor debris had been
 disturbed; and we turned on both torches full strength. Though what we saw in that light was
 actually simple and trifling, I am none the less reluctant to tell of it because of what it
 implied. It was a rough levelling of the debris, upon which several small objects lay carelessly
 scattered, and at one corner of which a considerable amount of gasoline must have been spilled
 lately enough to leave a strong odour even at this extreme super-plateau altitude. In other
-words, it could not be other than a sort of camp&mdash;a camp made by questing beings who like
+words, it could not be other than a sort of camp--a camp made by questing beings who like
 us had been turned back by the unexpectedly choked way to the abyss.  
 
   Let me be plain. The scattered objects were, so far as substance was concerned,
-all from Lake&rsquo;s camp; and consisted of tin cans as queerly opened as those we had seen
+all from Lake's camp; and consisted of tin cans as queerly opened as those we had seen
 at that ravaged place, many spent matches, three illustrated books more or less curiously smudged,
 an empty ink bottle with its pictorial and instructional carton, a broken fountain pen, some
 oddly snipped fragments of fur and tent-cloth, a used electric battery with circular of directions,
@@ -2386,37 +2386,37 @@ city was almost too much to bear.
 
   A mad Gedney might have made the groups of dots in imitation of those found
 on the greenish soapstones, just as the dots on those insane five-pointed grave-mounds might
-have been made; and he might conceivably have prepared rough, hasty sketches&mdash;varying in
-their accuracy or lack of it&mdash;which outlined the neighbouring parts of the city and traced
-the way from a circularly represented place outside our previous route&mdash;a place we identified
-as a great cylindrical tower in the carvings and as a vast circular gulf glimpsed in our a&euml;rial
-survey&mdash;to the present five-pointed structure and the tunnel-mouth therein. He might, I
+have been made; and he might conceivably have prepared rough, hasty sketches--varying in
+their accuracy or lack of it--which outlined the neighbouring parts of the city and traced
+the way from a circularly represented place outside our previous route--a place we identified
+as a great cylindrical tower in the carvings and as a vast circular gulf glimpsed in our aërial
+survey--to the present five-pointed structure and the tunnel-mouth therein. He might, I
 repeat, have prepared such sketches; for those before us were quite obviously compiled as our
 own had been from late sculptures somewhere in the glacial labyrinth, though not from the ones
 which we had seen and used. But what this art-blind bungler could never have done was to execute
 those sketches in a strange and assured technique perhaps superior, despite haste and carelessness,
-to any of the decadent carvings from which they were taken&mdash;the characteristic and unmistakable
-technique of the Old Ones themselves in the dead city&rsquo;s heyday.  
+to any of the decadent carvings from which they were taken--the characteristic and unmistakable
+technique of the Old Ones themselves in the dead city's heyday.  
 
   There are those who will say Danforth and I were utterly mad not to flee for
-our lives after that; since our conclusions were now&mdash;notwithstanding their wildness&mdash;completely
+our lives after that; since our conclusions were now--notwithstanding their wildness--completely
 fixed, and of a nature I need not even mention to those who have read my account as far as this.
-Perhaps we were mad&mdash;for have I not said those horrible peaks were mountains of madness?
-But I think I can detect something of the same spirit&mdash;albeit in a less extreme form&mdash;in
+Perhaps we were mad--for have I not said those horrible peaks were mountains of madness?
+But I think I can detect something of the same spirit--albeit in a less extreme form--in
 the men who stalk deadly beasts through African jungles to photograph them or study their habits.
 Half-paralysed with terror though we were, there was nevertheless fanned within us a blazing
 flame of awe and curiosity which triumphed in the end.  
 
-  Of course we did not mean to face that&mdash;or those&mdash;which we knew had
+  Of course we did not mean to face that--or those--which we knew had
 been there, but we felt that they must be gone by now. They would by this time have found the
 other neighbouring entrance to the abyss, and have passed within to whatever night-black fragments
-of the past might await them in the ultimate gulf&mdash;the ultimate gulf they had never seen.
+of the past might await them in the ultimate gulf--the ultimate gulf they had never seen.
 Or if that entrance, too, was blocked, they would have gone on to the north seeking another.
 They were, we remembered, partly independent of light.  
 
   Looking back to that moment, I can scarcely recall just what precise form our
-new emotions took&mdash;just what change of immediate objective it was that so sharpened our
-sense of expectancy. We certainly did not mean to face what we feared&mdash;yet I will not deny
+new emotions took--just what change of immediate objective it was that so sharpened our
+sense of expectancy. We certainly did not mean to face what we feared--yet I will not deny
 that we may have had a lurking, unconscious wish to spy certain things from some hidden vantage-point.
 Probably we had not given up our zeal to glimpse the abyss itself, though there was interposed
 a new goal in the form of that great circular place shewn on the crumpled sketches we had found.
@@ -2425,20 +2425,20 @@ carvings, but appearing only as a prodigious round aperture from above. Somethin
 impressiveness of its rendering, even in these hasty diagrams, made us think that its sub-glacial
 levels must still form a feature of peculiar importance. Perhaps it embodied architectural marvels
 as yet unencountered by us. It was certainly of incredible age according to the sculptures in
-which it figured&mdash;being indeed among the first things built in the city. Its carvings,
+which it figured--being indeed among the first things built in the city. Its carvings,
 if preserved, could not but be highly significant. Moreover, it might form a good present link
-with the upper world&mdash;a shorter route than the one we were so carefully blazing, and probably
+with the upper world--a shorter route than the one we were so carefully blazing, and probably
 that by which those others had descended.  
 
-  At any rate, the thing we did was to study the terrible sketches&mdash;which
-quite perfectly confirmed our own&mdash;and start back over the indicated course to the circular
+  At any rate, the thing we did was to study the terrible sketches--which
+quite perfectly confirmed our own--and start back over the indicated course to the circular
 place; the course which our nameless predecessors must have traversed twice before us. The other
-neighbouring gate to the abyss would lie beyond that. I need not speak of our journey&mdash;during
-which we continued to leave an economical trail of paper&mdash;for it was precisely the same
+neighbouring gate to the abyss would lie beyond that. I need not speak of our journey--during
+which we continued to leave an economical trail of paper--for it was precisely the same
 in kind as that by which we had reached the cul de sac; except that it tended to adhere more
 closely to the ground level and even descend to basement corridors. Every now and then we could
 trace certain disturbing marks in the debris or litter under foot; and after we had passed outside
-the radius of the gasoline scent we were again faintly conscious&mdash;spasmodically&mdash;of
+the radius of the gasoline scent we were again faintly conscious--spasmodically--of
 that more hideous and more persistent scent. After the way had branched from our former course
 we sometimes gave the rays of our single torch a furtive sweep along the walls; noting in almost
 every case the well-nigh omnipresent sculptures, which indeed seem to have formed a main aesthetic
@@ -2449,9 +2449,9 @@ floor seemed somewhat below the ground level and whose roof grew lower as we adv
 to see strong daylight ahead and were able to turn off our torch. It appeared that we were coming
 to the vast circular place, and that our distance from the upper air could not be very great.
 The corridor ended in an arch surprisingly low for these megalithic ruins, but we could see
-much through it even before we emerged. Beyond there stretched a prodigious round space&mdash;fully
-200 feet in diameter&mdash;strown with debris and containing many choked archways corresponding
-to the one we were about to cross. The walls were&mdash;in available spaces&mdash;boldly sculptured
+much through it even before we emerged. Beyond there stretched a prodigious round space--fully
+200 feet in diameter--strown with debris and containing many choked archways corresponding
+to the one we were about to cross. The walls were--in available spaces--boldly sculptured
 into a spiral band of heroic proportions; and displayed, despite the destructive weathering
 caused by the openness of the spot, an artistic splendour far beyond anything we had encountered
 before. The littered floor was quite heavily glaciated, and we fancied that the true bottom
@@ -2461,45 +2461,45 @@ lay at a considerably lower depth.
 the archways by a sharp turn outward into the open floor, wound spirally up the stupendous cylindrical
 wall like an inside counterpart of those once climbing outside the monstrous towers or ziggurats
 of antique Babylon. Only the rapidity of our flight, and the perspective which confounded the
-descent with the tower&rsquo;s inner wall, had prevented our noticing this feature from the
+descent with the tower's inner wall, had prevented our noticing this feature from the
 air, and thus caused us to seek another avenue to the sub-glacial level. Pabodie might have
 been able to tell what sort of engineering held it in place, but Danforth and I could merely
 admire and marvel. We could see mighty stone corbels and pillars here and there, but what we
 saw seemed inadequate to the function performed. The thing was excellently preserved up to the
-present top of the tower&mdash;a highly remarkable circumstance in view of its exposure&mdash;and
+present top of the tower--a highly remarkable circumstance in view of its exposure--and
 its shelter had done much to protect the bizarre and disturbing cosmic sculptures on the walls.  
 
-  As we stepped out into the awesome half-daylight of this monstrous cylinder-bottom&mdash;fifty
-million years old, and without doubt the most primally ancient structure ever to meet our eyes&mdash;we
+  As we stepped out into the awesome half-daylight of this monstrous cylinder-bottom--fifty
+million years old, and without doubt the most primally ancient structure ever to meet our eyes--we
 saw that the ramp-traversed sides stretched dizzily up to a height of fully sixty feet. This,
-we recalled from our a&euml;rial survey, meant an outside glaciation of some forty feet; since
+we recalled from our aërial survey, meant an outside glaciation of some forty feet; since
 the yawning gulf we had seen from the plane had been at the top of an approximately twenty-foot
 mound of crumbled masonry, somewhat sheltered for three-fourths of its circumference by the
 massive curving walls of a line of higher ruins. According to the sculptures the original tower
 had stood in the centre of an immense circular plaza; and had been perhaps 500 or 600 feet high,
 with tiers of horizontal discs near the top, and a row of needle-like spires along the upper
-rim. Most of the masonry had obviously toppled outward rather than inward&mdash;a fortunate
+rim. Most of the masonry had obviously toppled outward rather than inward--a fortunate
 happening, since otherwise the ramp might have been shattered and the whole interior choked.
 As it was, the ramp shewed sad battering; whilst the choking was such that all the archways
 at the bottom seemed to have been recently half-cleared.  
 
   It took us only a moment to conclude that this was indeed the route by which
 those others had descended, and that this would be the logical route for our own ascent despite
-the long trail of paper we had left elsewhere. The tower&rsquo;s mouth was no farther from the
+the long trail of paper we had left elsewhere. The tower's mouth was no farther from the
 foothills and our waiting plane than was the great terraced building we had entered, and any
 further sub-glacial exploration we might make on this trip would lie in this general region.
-Oddly, we were still thinking about possible later trips&mdash;even after all we had seen and
+Oddly, we were still thinking about possible later trips--even after all we had seen and
 guessed. Then as we picked our way cautiously over the debris of the great floor, there came
 a sight which for the time excluded all other matters.  
 
   It was the neatly huddled array of three sledges in that farther angle of the
-ramp&rsquo;s lower and outward-projecting course which had hitherto been screened from our view.
-There they were&mdash;the three sledges missing from Lake&rsquo;s camp&mdash;shaken by a hard
+ramp's lower and outward-projecting course which had hitherto been screened from our view.
+There they were--the three sledges missing from Lake's camp--shaken by a hard
 usage which must have included forcible dragging along great reaches of snowless masonry and
 debris, as well as much hand portage over utterly unnavigable places. They were carefully and
-intelligently packed and strapped, and contained things memorably familiar enough&mdash;the
+intelligently packed and strapped, and contained things memorably familiar enough--the
 gasoline stove, fuel cans, instrument cases, provision tins, tarpaulins obviously bulging with
-books, and some bulging with less obvious contents&mdash;everything derived from Lake&rsquo;s
+books, and some bulging with less obvious contents--everything derived from Lake's
 equipment. After what we had found in that other room, we were in a measure prepared for this
 encounter. The really great shock came when we stepped over and undid one tarpaulin whose outlines
 had peculiarly disquieted us. It seems that others as well as Lake had been interested in collecting
@@ -2513,35 +2513,35 @@ Many people will probably judge us callous as well as mad for thinking about the
 and the abyss so soon after our sombre discovery, and I am not prepared to say that we would
 have immediately revived such thoughts but for a specific circumstance which broke in upon us
 and set up a whole new train of speculations. We had replaced the tarpaulin over poor Gedney
-and were standing in a kind of mute bewilderment when the sounds finally reached our consciousness&mdash;the
+and were standing in a kind of mute bewilderment when the sounds finally reached our consciousness--the
 first sounds we had heard since descending out of the open where the mountain wind whined faintly
 from its unearthly heights. Well known and mundane though they were, their presence in this
 remote world of death was more unexpected and unnerving than any grotesque or fabulous tones
-could possibly have been&mdash;since they gave a fresh upsetting to all our notions of cosmic
+could possibly have been--since they gave a fresh upsetting to all our notions of cosmic
 harmony.  
 
   Had it been some trace of that bizarre musical piping over a wide range which
-Lake&rsquo;s dissection report had led us to expect in those others&mdash;and which, indeed,
+Lake's dissection report had led us to expect in those others--and which, indeed,
 our overwrought fancies had been reading into every wind-howl we had heard since coming on the
-camp horror&mdash;it would have had a kind of hellish congruity with the aeon-dead region around
+camp horror--it would have had a kind of hellish congruity with the aeon-dead region around
 us. A voice from other epochs belongs in a graveyard of other epochs. As it was, however, the
-noise shattered all our profoundly seated adjustments&mdash;all our tacit acceptance of the
+noise shattered all our profoundly seated adjustments--all our tacit acceptance of the
 inner antarctic as a waste as utterly and irrevocably void of every vestige of normal life as
 the sterile disc of the moon. What we heard was not the fabulous note of any buried blasphemy
 of elder earth from whose supernal toughness an age-denied polar sun had evoked a monstrous
 response. Instead, it was a thing so mockingly normal and so unerringly familiarised by our
 sea days off Victoria Land and our camp days at McMurdo Sound that we shuddered to think of
-it here, where such things ought not to be. To be brief&mdash;it was simply the raucous squawking
+it here, where such things ought not to be. To be brief--it was simply the raucous squawking
 of a penguin.  
 
   The muffled sound floated from sub-glacial recesses nearly opposite to the
-corridor whence we had come&mdash;regions manifestly in the direction of that other tunnel to
-the vast abyss. The presence of a living water-bird in such a direction&mdash;in a world whose
-surface was one of age-long and uniform lifelessness&mdash;could lead to only one conclusion;
+corridor whence we had come--regions manifestly in the direction of that other tunnel to
+the vast abyss. The presence of a living water-bird in such a direction--in a world whose
+surface was one of age-long and uniform lifelessness--could lead to only one conclusion;
 hence our first thought was to verify the objective reality of the sound. It was, indeed, repeated;
 and seemed at times to come from more than one throat. Seeking its source, we entered an archway
-from which much debris had been cleared; resuming our trail-blazing&mdash;with an added paper-supply
-taken with curious repugnance from one of the tarpaulin bundles on the sledges&mdash;when we
+from which much debris had been cleared; resuming our trail-blazing--with an added paper-supply
+taken with curious repugnance from one of the tarpaulin bundles on the sledges--when we
 left daylight behind.  
 
   As the glaciated floor gave place to a litter of detritus, we plainly discerned
@@ -2550,7 +2550,7 @@ would be only too superfluous. The course indicated by the penguin cries was pre
 our map and compass prescribed as an approach to the more northerly tunnel-mouth, and we were
 glad to find that a bridgeless thoroughfare on the ground and basement levels seemed open. The
 tunnel, according to the chart, ought to start from the basement of a large pyramidal structure
-which we seemed vaguely to recall from our a&euml;rial survey as remarkably well preserved.
+which we seemed vaguely to recall from our aërial survey as remarkably well preserved.
 Along our path the single torch shewed a customary profusion of carvings, but we did not pause
 to examine any of these.  
 
@@ -2566,17 +2566,17 @@ to say that the white thing did not profoundly frighten us would be vain. We wer
 for an instant by a primitive dread almost sharper than the worst of our reasoned fears regarding
 those others. Then came a flash of anticlimax as the white shape sidled into a lateral archway
 to our left to join two others of its kind which had summoned it in raucous tones. For it was
-only a penguin&mdash;albeit of a huge, unknown species larger than the greatest of the known
+only a penguin--albeit of a huge, unknown species larger than the greatest of the known
 king penguins, and monstrous in its combined albinism and virtual eyelessness.  
 
   When we had followed the thing into the archway and turned both our torches
 on the indifferent and unheeding group of three we saw that they were all eyeless albinos of
 the same unknown and gigantic species. Their size reminded us of some of the archaic penguins
-depicted in the Old Ones&rsquo; sculptures, and it did not take us long to conclude that they
-were descended from the same stock&mdash;undoubtedly surviving through a retreat to some warmer
+depicted in the Old Ones' sculptures, and it did not take us long to conclude that they
+were descended from the same stock--undoubtedly surviving through a retreat to some warmer
 inner region whose perpetual blackness had destroyed their pigmentation and atrophied their
 eyes to mere useless slits. That their present habitat was the vast abyss we sought, was not
-for a moment to be doubted; and this evidence of the gulf&rsquo;s continued warmth and habitability
+for a moment to be doubted; and this evidence of the gulf's continued warmth and habitability
 filled us with the most curious and subtly perturbing fancies.  
 
   We wondered, too, what had caused these three birds to venture out of their
@@ -2585,9 +2585,9 @@ been an habitual seasonal rookery, whilst the manifest indifference of the trio 
 made it seem odd that any passing party of those others should have startled them. Was it possible
 that those others had taken some aggressive action or tried to increase their meat supply? We
 doubted whether that pungent odour which the dogs had hated could cause an equal antipathy in
-these penguins; since their ancestors had obviously lived on excellent terms with the Old Ones&mdash;an
+these penguins; since their ancestors had obviously lived on excellent terms with the Old Ones--an
 amicable relationship which must have survived in the abyss below as long as any of the Old
-Ones remained. Regretting&mdash;in a flareup of the old spirit of pure science&mdash;that we
+Ones remained. Regretting--in a flareup of the old spirit of pure science--that we
 could not photograph these anomalous creatures, we shortly left them to their squawking and
 pushed on toward the abyss whose openness was now so positively proved to us, and whose exact
 direction occasional penguin tracks made clear.  
@@ -2595,14 +2595,14 @@ direction occasional penguin tracks made clear.
   Not long afterward a steep descent in a long, low, doorless, and peculiarly
 sculptureless corridor led us to believe that we were approaching the tunnel-mouth at last.
 We had passed two more penguins, and heard others immediately ahead. Then the corridor ended
-in a prodigious open space which made us gasp involuntarily&mdash;a perfect inverted hemisphere,
+in a prodigious open space which made us gasp involuntarily--a perfect inverted hemisphere,
 obviously deep underground; fully an hundred feet in diameter and fifty feet high, with low
 archways opening around all parts of the circumference but one, and that one yawning cavernously
 with a black arched aperture which broke the symmetry of the vault to a height of nearly fifteen
 feet. It was the entrance to the great abyss.  
 
   In this vast hemisphere, whose concave roof was impressively though decadently
-carved to a likeness of the primordial celestial dome, a few albino penguins waddled&mdash;aliens
+carved to a likeness of the primordial celestial dome, a few albino penguins waddled--aliens
 there, but indifferent and unseeing. The black tunnel yawned indefinitely off at a steep descending
 grade, its aperture adorned with grotesquely chiselled jambs and lintel. From that cryptical
 mouth we fancied a current of slightly warmer air and perhaps even a suspicion of vapour proceeded;
@@ -2610,9 +2610,9 @@ and we wondered what living entities other than penguins the limitless void belo
 honeycombings of the land and the titan mountains, might conceal. We wondered, too, whether
 the trace of mountain-top smoke at first suspected by poor Lake, as well as the odd haze we
 had ourselves perceived around the rampart-crowned peak, might not be caused by the tortuous-channelled
-rising of some such vapour from the unfathomed regions of earth&rsquo;s core.  
+rising of some such vapour from the unfathomed regions of earth's core.  
 
-  Entering the tunnel, we saw that its outline was&mdash;at least at the start&mdash;about
+  Entering the tunnel, we saw that its outline was--at least at the start--about
 fifteen feet each way; sides, floor, and arched roof composed of the usual megalithic masonry.
 The sides were sparsely decorated with cartouches of conventional designs in a late, decadent
 style; and all the construction and carving were marvellously well preserved. The floor was
@@ -2627,7 +2627,7 @@ diagrams; none of them such as to complicate the problem of our return, and all 
 as possible refuges in case we met unwelcome entities on their way back from the abyss. The
 nameless scent of such things was very distinct. Doubtless it was suicidally foolish to venture
 into that tunnel under the known conditions, but the lure of the unplumbed is stronger in certain
-persons than most suspect&mdash;indeed, it was just such a lure which had brought us to this
+persons than most suspect--indeed, it was just such a lure which had brought us to this
 unearthly polar waste in the first place. We saw several penguins as we passed along, and speculated
 on the distance we would have to traverse. The carvings had led us to expect a steep downhill
 walk of about a mile to the abyss, but our previous wanderings had shewn us that matters of
@@ -2637,14 +2637,14 @@ scale were not wholly to be depended on.
 and we kept very careful track of the various lateral openings we passed. There was no visible
 vapour as at the mouth, but this was doubtless due to the lack of contrasting cooler air. The
 temperature was rapidly ascending, and we were not surprised to come upon a careless heap of
-material shudderingly familiar to us. It was composed of furs and tent-cloth taken from Lake&rsquo;s
+material shudderingly familiar to us. It was composed of furs and tent-cloth taken from Lake's
 camp, and we did not pause to study the bizarre forms into which the fabrics had been slashed.
 Slightly beyond this point we noticed a decided increase in the size and number of the side-galleries,
 and concluded that the densely honeycombed region beneath the higher foothills must now have
 been reached. The nameless scent was now curiously mixed with another and scarcely less offensive
-odour&mdash;of what nature we could not guess, though we thought of decaying organisms and perhaps
+odour--of what nature we could not guess, though we thought of decaying organisms and perhaps
 unknown subterrene fungi. Then came a startling expansion of the tunnel for which the carvings
-had not prepared us&mdash;a broadening and rising into a lofty, natural-looking elliptical cavern
+had not prepared us--a broadening and rising into a lofty, natural-looking elliptical cavern
 with a level floor; some 75 feet long and 50 broad, and with many immense side-passages leading
 away into cryptical darkness.  
 
@@ -2664,26 +2664,26 @@ encountered.
 of penguin-droppings there, prevented all confusion as to the right course amidst this plethora
 of equally great cave-mouths. Nevertheless we resolved to resume our paper trail-blazing if
 any further complexity should develop; for dust tracks, of course, could no longer be expected.
-Upon resuming our direct progress we cast a beam of torchlight over the tunnel walls&mdash;and
+Upon resuming our direct progress we cast a beam of torchlight over the tunnel walls--and
 stopped short in amazement at the supremely radical change which had come over the carvings
-in this part of the passage. We realised, of course, the great decadence of the Old Ones&rsquo;
+in this part of the passage. We realised, of course, the great decadence of the Old Ones'
 sculpture at the time of the tunnelling; and had indeed noticed the inferior workmanship of
 the arabesques in the stretches behind us. But now, in this deeper section beyond the cavern,
-there was a sudden difference wholly transcending explanation&mdash;a difference in basic nature
+there was a sudden difference wholly transcending explanation--a difference in basic nature
 as well as in mere quality, and involving so profound and calamitous a degradation of skill
 that nothing in the hitherto observed rate of decline could have led one to expect it.  
 
   This new and degenerate work was coarse, bold, and wholly lacking in delicacy
 of detail. It was counter-sunk with exaggerated depth in bands following the same general line
 as the sparse cartouches of the earlier sections, but the height of the reliefs did not reach
-the level of the general surface. Danforth had the idea that it was a second carving&mdash;a
+the level of the general surface. Danforth had the idea that it was a second carving--a
 sort of palimpsest formed after the obliteration of a previous design. In nature it was wholly
 decorative and conventional; and consisted of crude spirals and angles roughly following the
 quintile mathematical tradition of the Old Ones, yet seeming more like a parody than a perpetuation
 of that tradition. We could not get it out of our minds that some subtly but profoundly alien
-element had been added to the aesthetic feeling behind the technique&mdash;an alien element,
+element had been added to the aesthetic feeling behind the technique--an alien element,
 Danforth guessed, that was responsible for the manifestly laborious substitution. It was like,
-yet disturbingly unlike, what we had come to recognise as the Old Ones&rsquo; art; and I was
+yet disturbingly unlike, what we had come to recognise as the Old Ones' art; and I was
 persistently reminded of such hybrid things as the ungainly Palmyrene sculptures fashioned in
 the Roman manner. That others had recently noticed this belt of carving was hinted by the presence
 of a used torch battery on the floor in front of one of the most characteristic designs.  
@@ -2697,7 +2697,7 @@ chorus of them somewhere deep within the earth. The new and inexplicable odour w
 strong, and we could detect scarcely a sign of that other nameless scent. Puffs of visible vapour
 ahead bespoke increasing contrasts in temperature, and the relative nearness of the sunless
 sea-cliffs of the great abyss. Then, quite unexpectedly, we saw certain obstructions on the
-polished floor ahead&mdash;obstructions which were quite definitely not penguins&mdash;and turned
+polished floor ahead--obstructions which were quite definitely not penguins--and turned
 on our second torch after making sure that the objects were quite stationary.  
 
     XI.    
@@ -2711,11 +2711,11 @@ of the strange prevailing foetor, now quite plainly mixed with the nameless sten
 others which had gone before us. The light of the second torch left no doubt of what the obstructions
 were, and we dared approach them only because we could see, even from a distance, that they
 were quite as past all harming power as had been the six similar specimens unearthed from the
-monstrous star-mounded graves at poor Lake&rsquo;s camp.  
+monstrous star-mounded graves at poor Lake's camp.  
 
-  They were, indeed, as lacking in completeness as most of those we had unearthed&mdash;though
+  They were, indeed, as lacking in completeness as most of those we had unearthed--though
 it grew plain from the thick, dark-green pool gathering around them that their incompleteness
-was of infinitely greater recency. There seemed to be only four of them, whereas Lake&rsquo;s
+was of infinitely greater recency. There seemed to be only four of them, whereas Lake's
 bulletins would have suggested no less than eight as forming the group which had preceded us.
 To find them in this state was wholly unexpected, and we wondered what sort of monstrous struggle
 had occurred down here in the dark.  
@@ -2741,7 +2741,7 @@ out of the black abyss with great clouds of frantic penguins squawking and scurr
   I say that we approached those sprawling and incomplete obstructions slowly
 and reluctantly. Would to heaven we had never approached them at all, but had run back at top
 speed out of that blasphemous tunnel with the greasily smooth floors and the degenerate murals
-aping and mocking the things they had superseded&mdash;run back, before we had seen what we
+aping and mocking the things they had superseded--run back, before we had seen what we
 did see, and before our minds were burned with something which will never let us breathe easily
 again!  
 
@@ -2753,80 +2753,80 @@ hellish tearing or suction than like any ordinary form of cleavage. Their noisom
 ichor formed a large, spreading pool; but its stench was half overshadowed by that newer and
 stranger stench, here more pungent than at any other point along our route. Only when we had
 come very close to the sprawling obstructions could we trace that second, unexplainable foetor
-to any immediate source&mdash;and the instant we did so Danforth, remembering certain very vivid
-sculptures of the Old Ones&rsquo; history in the Permian age 150 million years ago, gave vent
+to any immediate source--and the instant we did so Danforth, remembering certain very vivid
+sculptures of the Old Ones' history in the Permian age 150 million years ago, gave vent
 to a nerve-tortured cry which echoed hysterically through that vaulted and archaic passage with
 the evil palimpsest carvings.  
 
   I came only just short of echoing his cry myself; for I had seen those primal
 sculptures, too, and had shudderingly admired the way the nameless artist had suggested that
-hideous slime-coating found on certain incomplete and prostrate Old Ones&mdash;those whom the
+hideous slime-coating found on certain incomplete and prostrate Old Ones--those whom the
 frightful shoggoths had characteristically slain and sucked to a ghastly headlessness in the
 great war of re-subjugation. They were infamous, nightmare sculptures even when telling of age-old,
 bygone things; for shoggoths and their work ought not to be seen by human beings or portrayed
 by any beings. The mad author of the   Necronomicon   had nervously tried to swear that none
 had been bred on this planet, and that only drugged dreamers had ever conceived them. Formless
-protoplasm able to mock and reflect all forms and organs and processes&mdash;viscous agglutinations
-of bubbling cells&mdash;rubbery fifteen-foot spheroids infinitely plastic and ductile&mdash;slaves
-of suggestion, builders of cities&mdash;more and more sullen, more and more intelligent, more
-and more amphibious, more and more imitative&mdash;Great God! What madness made even those blasphemous
+protoplasm able to mock and reflect all forms and organs and processes--viscous agglutinations
+of bubbling cells--rubbery fifteen-foot spheroids infinitely plastic and ductile--slaves
+of suggestion, builders of cities--more and more sullen, more and more intelligent, more
+and more amphibious, more and more imitative--Great God! What madness made even those blasphemous
 Old Ones willing to use and to carve such things?  
 
   And now, when Danforth and I saw the freshly glistening and reflectively iridescent
 black slime which clung thickly to those headless bodies and stank obscenely with that new unknown
-odour whose cause only a diseased fancy could envisage&mdash;clung to those bodies and sparkled
+odour whose cause only a diseased fancy could envisage--clung to those bodies and sparkled
 less voluminously on a smooth part of the accursedly re-sculptured wall   in a series of grouped
-dots  &mdash;we understood the quality of cosmic fear to its uttermost depths. It was not
-fear of those four missing others&mdash;for all too well did we suspect they would do no harm
+dots  --we understood the quality of cosmic fear to its uttermost depths. It was not
+fear of those four missing others--for all too well did we suspect they would do no harm
 again. Poor devils! After all, they were not evil things of their kind. They were the men of
-another age and another order of being. Nature had played a hellish jest on them&mdash;as it
+another age and another order of being. Nature had played a hellish jest on them--as it
 will on any others that human madness, callousness, or cruelty may hereafter drag up in that
-hideously dead or sleeping polar waste&mdash;and this was their tragic homecoming.  
+hideously dead or sleeping polar waste--and this was their tragic homecoming.  
 
-  They had not been even savages&mdash;for what indeed had they done? That awful
-awakening in the cold of an unknown epoch&mdash;perhaps an attack by the furry, frantically
+  They had not been even savages--for what indeed had they done? That awful
+awakening in the cold of an unknown epoch--perhaps an attack by the furry, frantically
 barking quadrupeds, and a dazed defence against them and the equally frantic white simians with
-the queer wrappings and paraphernalia&nbsp;.&nbsp;.&nbsp;. poor Lake, poor Gedney&nbsp;.&nbsp;.&nbsp;.
-and poor Old Ones! Scientists to the last&mdash;what had they done that we would not have done
+the queer wrappings and paraphernalia . . . poor Lake, poor Gedney . . .
+and poor Old Ones! Scientists to the last--what had they done that we would not have done
 in their place? God, what intelligence and persistence! What a facing of the incredible, just
 as those carven kinsmen and forbears had faced things only a little less incredible! Radiates,
-vegetables, monstrosities, star-spawn&mdash;whatever they had been, they were men!  
+vegetables, monstrosities, star-spawn--whatever they had been, they were men!  
 
   They had crossed the icy peaks on whose templed slopes they had once worshipped
 and roamed among the tree-ferns. They had found their dead city brooding under its curse, and
 had read its carven latter days as we had done. They had tried to reach their living fellows
-in fabled depths of blackness they had never seen&mdash;and what had they found? All this flashed
+in fabled depths of blackness they had never seen--and what had they found? All this flashed
 in unison through the thoughts of Danforth and me as we looked from those headless, slime-coated
 shapes to the loathsome palimpsest sculptures and the diabolical dot-groups of fresh slime on
-the wall beside them&mdash;looked and understood what must have triumphed and survived down
+the wall beside them--looked and understood what must have triumphed and survived down
 there in the Cyclopean water-city of that nighted, penguin-fringed abyss, whence even now a
-sinister curling mist had begun to belch pallidly as if in answer to Danforth&rsquo;s hysterical
+sinister curling mist had begun to belch pallidly as if in answer to Danforth's hysterical
 scream.  
 
   The shock of recognising that monstrous slime and headlessness had frozen us
 into mute, motionless statues, and it is only through later conversations that we have learned
 of the complete identity of our thoughts at that moment. It seemed aeons that we stood there,
 but actually it could not have been more than ten or fifteen seconds. That hateful, pallid mist
-curled forward as if veritably driven by some remoter advancing bulk&mdash;and then came a sound
+curled forward as if veritably driven by some remoter advancing bulk--and then came a sound
 which upset much of what we had just decided, and in so doing broke the spell and enabled us
 to run like mad past squawking, confused penguins over our former trail back to the city, along
 ice-sunken megalithic corridors to the great open circle, and up that archaic spiral ramp in
 a frenzied automatic plunge for the sane outer air and light of day.  
 
   The new sound, as I have intimated, upset much that we had decided; because
-it was what poor Lake&rsquo;s dissection had led us to attribute to those we had just judged
+it was what poor Lake's dissection had led us to attribute to those we had just judged
 dead. It was, Danforth later told me, precisely what he had caught in infinitely muffled form
 when at that spot beyond the alley-corner above the glacial level; and it certainly had a shocking
 resemblance to the wind-pipings we had both heard around the lofty mountain caves. At the risk
-of seeming puerile I will add another thing, too; if only because of the surprising way Danforth&rsquo;s
+of seeming puerile I will add another thing, too; if only because of the surprising way Danforth's
 impression chimed with mine. Of course common reading is what prepared us both to make the interpretation,
 though Danforth has hinted at queer notions about unsuspected and forbidden sources to which
 Poe may have had access when writing his   Arthur Gordon Pym   a century ago. It will be
 remembered that in that fantastic tale there is a word of unknown but terrible and prodigious
 significance connected with the antarctic and screamed eternally by the gigantic, spectrally
-snowy birds of that malign region&rsquo;s core.   &ldquo;Tekeli-li! Tekeli-li!&rdquo;   That,
+snowy birds of that malign region's core.    "Tekeli-li! Tekeli-li! "   That,
 I may admit, is exactly what we thought we heard conveyed by that sudden sound behind the advancing
-white mist&mdash;that insidious musical piping over a singularly wide range.  
+white mist--that insidious musical piping over a singularly wide range.  
 
   We were in full flight before three notes or syllables had been uttered, though
 we knew that the swiftness of the Old Ones would enable any scream-roused and pursuing survivor
@@ -2836,28 +2836,28 @@ to spare us in case of capture; if only from scientific curiosity. After all, if
 had nothing to fear for itself it would have no motive in harming us. Concealment being futile
 at this juncture, we used our torch for a running glance behind, and perceived that the mist
 was thinning. Would we see, at last, a complete and living specimen of those others? Again came
-that insidious musical piping&mdash;&ldquo;  Tekeli-li! Tekeli-li!&rdquo;    
+that insidious musical piping-- "  Tekeli-li! Tekeli-li! "    
 
   Then, noting that we were actually gaining on our pursuer, it occurred to us
 that the entity might be wounded. We could take no chances, however, since it was very obviously
-approaching in answer to Danforth&rsquo;s scream rather than in flight from any other entity.
+approaching in answer to Danforth's scream rather than in flight from any other entity.
 The timing was too close to admit of doubt. Of the whereabouts of that less conceivable and
-less mentionable nightmare&mdash;that foetid, unglimpsed mountain of slime-spewing protoplasm
+less mentionable nightmare--that foetid, unglimpsed mountain of slime-spewing protoplasm
 whose race had conquered the abyss and sent land pioneers to re-carve and squirm through the
-burrows of the hills&mdash;we could form no guess; and it cost us a genuine pang to leave this
-probably crippled Old One&mdash;perhaps a lone survivor&mdash;to the peril of recapture and
+burrows of the hills--we could form no guess; and it cost us a genuine pang to leave this
+probably crippled Old One--perhaps a lone survivor--to the peril of recapture and
 a nameless fate.  
 
   Thank heaven we did not slacken our run. The curling mist had thickened again,
 and was driving ahead with increased speed; whilst the straying penguins in our rear were squawking
 and screaming and displaying signs of a panic really surprising in view of their relatively
-minor confusion when we had passed them. Once more came that sinister, wide-ranged piping&mdash;&ldquo;  Tekeli-li!
-Tekeli-li!&rdquo;   We had been wrong. The thing was not wounded, but had merely paused on
+minor confusion when we had passed them. Once more came that sinister, wide-ranged piping-- "  Tekeli-li!
+Tekeli-li! "   We had been wrong. The thing was not wounded, but had merely paused on
 encountering the bodies of its fallen kindred and the hellish slime inscription above them.
-We could never know what that daemon message was&mdash;but those burials at Lake&rsquo;s camp
+We could never know what that daemon message was--but those burials at Lake's camp
 had shewn how much importance the beings attached to their dead. Our recklessly used torch now
 revealed ahead of us the large open cavern where various ways converged, and we were glad to
-be leaving those morbid palimpsest sculptures&mdash;almost felt even when scarcely seen&mdash;behind.  
+be leaving those morbid palimpsest sculptures--almost felt even when scarcely seen--behind.  
 
   Another thought which the advent of the cave inspired was the possibility of
 losing our pursuer at this bewildering focus of large galleries. There were several of the blind
@@ -2890,62 +2890,62 @@ instinct of the pursued to gauge the nature and course of its pursuer; or perhap
 automatic attempt to answer a subconscious question raised by one of our senses. In the midst
 of our flight, with all our faculties centred on the problem of escape, we were in no condition
 to observe and analyse details; yet even so our latent brain-cells must have wondered at the
-message brought them by our nostrils. Afterward we realised what it was&mdash;that our retreat
+message brought them by our nostrils. Afterward we realised what it was--that our retreat
 from the foetid slime-coating on those headless obstructions, and the coincident approach of
 the pursuing entity, had not brought us the exchange of stenches which logic called for. In
 the neighbourhood of the prostrate things that new and lately unexplainable foetor had been
 wholly dominant; but by this time it ought to have largely given place to the nameless stench
-associated with those others. This it had not done&mdash;for instead, the newer and less bearable
+associated with those others. This it had not done--for instead, the newer and less bearable
 smell was now virtually undiluted, and growing more and more poisonously insistent each second.  
 
-  So we glanced back&mdash;simultaneously, it would appear; though no doubt the
+  So we glanced back--simultaneously, it would appear; though no doubt the
 incipient motion of one prompted the imitation of the other. As we did so we flashed both torches
 full strength at the momentarily thinned mist; either from sheer primitive anxiety to see all
 we could, or in a less primitive but equally unconscious effort to dazzle the entity before
 we dimmed our light and dodged among the penguins of the labyrinth-centre ahead. Unhappy act!
-Not Orpheus himself, or Lot&rsquo;s wife, paid much more dearly for a backward glance. And again
-came that shocking, wide-ranged piping&mdash;&ldquo;  Tekeli-li! Tekeli-li!&rdquo;    
+Not Orpheus himself, or Lot's wife, paid much more dearly for a backward glance. And again
+came that shocking, wide-ranged piping-- "  Tekeli-li! Tekeli-li! "    
 
-  I might as well be frank&mdash;even if I cannot bear to be quite direct&mdash;in
+  I might as well be frank--even if I cannot bear to be quite direct--in
 stating what we saw; though at the time we felt that it was not to be admitted even to each
 other. The words reaching the reader can never even suggest the awfulness of the sight itself.
 It crippled our consciousness so completely that I wonder we had the residual sense to dim our
 torches as planned, and to strike the right tunnel toward the dead city. Instinct alone must
-have carried us through&mdash;perhaps better than reason could have done; though if that was
+have carried us through--perhaps better than reason could have done; though if that was
 what saved us, we paid a high price. Of reason we certainly had little enough left. Danforth
 was totally unstrung, and the first thing I remember of the rest of the journey was hearing
 him light-headedly chant an hysterical formula in which I alone of mankind could have found
 anything but insane irrelevance. It reverberated in falsetto echoes among the squawks of the
-penguins; reverberated through the vaultings ahead, and&mdash;thank God&mdash;through the now
-empty vaultings behind. He could not have begun it at once&mdash;else we would not have been
+penguins; reverberated through the vaultings ahead, and--thank God--through the now
+empty vaultings behind. He could not have begun it at once--else we would not have been
 alive and blindly racing. I shudder to think of what a shade of difference in his nervous reactions
 might have brought.  
 
-  &ldquo;South Station Under&mdash;Washington Under&mdash;Park Street Under&mdash;Kendall&mdash;Central&mdash;Harvard.&nbsp;.&nbsp;.&nbsp;.&rdquo;
+   "South Station Under--Washington Under--Park Street Under--Kendall--Central--Harvard. . . . "
 The poor fellow was chanting the familiar stations of the Boston-Cambridge tunnel that burrowed
 through our peaceful native soil thousands of miles away in New England, yet to me the ritual
 had neither irrelevance nor home-feeling. It had only horror, because I knew unerringly the
 monstrous, nefandous analogy that had suggested it. We had expected, upon looking back, to see
 a terrible and incredibly moving entity if the mists were thin enough; but of that entity we
-had formed a clear idea. What we did see&mdash;for the mists were indeed all too malignly thinned&mdash;was
+had formed a clear idea. What we did see--for the mists were indeed all too malignly thinned--was
 something altogether different, and immeasurably more hideous and detestable. It was the utter,
-objective embodiment of the fantastic novelist&rsquo;s &lsquo;thing that should not be&rsquo;;
+objective embodiment of the fantastic novelist's &lsquo;thing that should not be';
 and its nearest comprehensible analogue is a vast, onrushing subway train as one sees it from
-a station platform&mdash;the great black front looming colossally out of infinite subterraneous
+a station platform--the great black front looming colossally out of infinite subterraneous
 distance, constellated with strangely coloured lights and filling the prodigious burrow as a
 piston fills a cylinder.  
 
   But we were not on a station platform. We were on the track ahead as the nightmare
 plastic column of foetid black iridescence oozed tightly onward through its fifteen-foot sinus;
 gathering unholy speed and driving before it a spiral, re-thickening cloud of the pallid abyss-vapour.
-It was a terrible, indescribable thing vaster than any subway train&mdash;a shapeless congeries
+It was a terrible, indescribable thing vaster than any subway train--a shapeless congeries
 of protoplasmic bubbles, faintly self-luminous, and with myriads of temporary eyes forming and
 unforming as pustules of greenish light all over the tunnel-filling front that bore down upon
 us, crushing the frantic penguins and slithering over the glistening floor that it and its kind
-had swept so evilly free of all litter. Still came that eldritch, mocking cry&mdash;  &ldquo;Tekeli-li!
-Tekeli-li!&rdquo;   And at last we remembered that the daemoniac shoggoths&mdash;given life,
+had swept so evilly free of all litter. Still came that eldritch, mocking cry--   "Tekeli-li!
+Tekeli-li! "   And at last we remembered that the daemoniac shoggoths--given life,
 thought, and plastic organ patterns solely by the Old Ones, and having no language save that
-which the dot-groups expressed&mdash;  had likewise no voice save the imitated accents of their
+which the dot-groups expressed--  had likewise no voice save the imitated accents of their
 bygone masters.    
 
     XII.    
@@ -2963,8 +2963,8 @@ terrible fatigue and short breath which our race through the thin plateau air ha
 but not even the fear of collapse could make us pause before reaching the normal outer realm
 of sun and sky. There was something vaguely appropriate about our departure from those buried
 epochs; for as we wound our panting way up the sixty-foot cylinder of primal masonry we glimpsed
-beside us a continuous procession of heroic sculptures in the dead race&rsquo;s early and undecayed
-technique&mdash;a farewell from the Old Ones, written fifty million years ago.  
+beside us a continuous procession of heroic sculptures in the dead race's early and undecayed
+technique--a farewell from the Old Ones, written fifty million years ago.  
 
   Finally scrambling out at the top, we found ourselves on a great mound of tumbled
 blocks; with the curved walls of higher stonework rising westward, and the brooding peaks of
@@ -2975,15 +2975,15 @@ such relatively known and accustomed things as the features of the polar landsca
 above was a churning and opalescent mass of tenuous ice-vapours, and the cold clutched at our
 vitals. Wearily resting the outfit-bags to which we had instinctively clung throughout our desperate
 flight, we rebuttoned our heavy garments for the stumbling climb down the mound and the walk
-through the aeon-old stone maze to the foothills where our a&euml;roplane waited. Of what had
-set us fleeing from the darkness of earth&rsquo;s secret and archaic gulfs we said nothing at
+through the aeon-old stone maze to the foothills where our aëroplane waited. Of what had
+set us fleeing from the darkness of earth's secret and archaic gulfs we said nothing at
 all.  
 
-  In less than a quarter of an hour we had found the steep grade to the foothills&mdash;the
-probable ancient terrace&mdash;by which we had descended, and could see the dark bulk of our
+  In less than a quarter of an hour we had found the steep grade to the foothills--the
+probable ancient terrace--by which we had descended, and could see the dark bulk of our
 great plane amidst the sparse ruins on the rising slope ahead. Half way uphill toward our goal
 we paused for a momentary breathing-spell, and turned to look again at the fantastic palaeogean
-tangle of incredible stone shapes below us&mdash;once more outlined mystically against an unknown
+tangle of incredible stone shapes below us--once more outlined mystically against an unknown
 west. As we did so we saw that the sky beyond had lost its morning haziness; the restless ice-vapours
 having moved up to the zenith, where their mocking outlines seemed on the point of settling
 into some bizarre pattern which they feared to make quite definite or conclusive.  
@@ -2992,30 +2992,30 @@ into some bizarre pattern which they feared to make quite definite or conclusive
 a dim, elfin line of pinnacled violet whose needle-pointed heights loomed dream-like against
 the beckoning rose-colour of the western sky. Up toward this shimmering rim sloped the ancient
 table-land, the depressed course of the bygone river traversing it as an irregular ribbon of
-shadow. For a second we gasped in admiration of the scene&rsquo;s unearthly cosmic beauty, and
+shadow. For a second we gasped in admiration of the scene's unearthly cosmic beauty, and
 then vague horror began to creep into our souls. For this far violet line could be nothing else
-than the terrible mountains of the forbidden land&mdash;highest of earth&rsquo;s peaks and focus
-of earth&rsquo;s evil; harbourers of nameless horrors and Archaean secrets; shunned and prayed
+than the terrible mountains of the forbidden land--highest of earth's peaks and focus
+of earth's evil; harbourers of nameless horrors and Archaean secrets; shunned and prayed
 to by those who feared to carve their meaning; untrodden by any living thing of earth, but visited
-by the sinister lightnings and sending strange beams across the plains in the polar night&mdash;beyond
+by the sinister lightnings and sending strange beams across the plains in the polar night--beyond
 doubt the unknown archetype of that dreaded Kadath in the Cold Waste beyond abhorrent Leng,
-whereof unholy primal legends hint evasively. We were the first human beings ever to see them&mdash;and
+whereof unholy primal legends hint evasively. We were the first human beings ever to see them--and
 I hope to God we may be the last.  
 
   If the sculptured maps and pictures in that pre-human city had told truly,
 these cryptic violet mountains could not be much less than 300 miles away; yet none the less
 sharply did their dim elfin essence jut above that remote and snowy rim, like the serrated edge
 of a monstrous alien planet about to rise into unaccustomed heavens. Their height, then, must
-have been tremendous beyond all known comparison&mdash;carrying them up into tenuous atmospheric
+have been tremendous beyond all known comparison--carrying them up into tenuous atmospheric
 strata peopled by such gaseous wraiths as rash flyers have barely lived to whisper of after
 unexplainable falls. Looking at them, I thought nervously of certain sculptured hints of what
-the great bygone river had washed down into the city from their accursed slopes&mdash;and wondered
+the great bygone river had washed down into the city from their accursed slopes--and wondered
 how much sense and how much folly had lain in the fears of those Old Ones who carved them so
 reticently. I recalled how their northerly end must come near the coast at Queen Mary Land,
-where even at that moment Sir Douglas Mawson&rsquo;s expedition was doubtless working less than
+where even at that moment Sir Douglas Mawson's expedition was doubtless working less than
 a thousand miles away; and hoped that no evil fate would give Sir Douglas and his men a glimpse
 of what might lie beyond the protecting coastal range. Such thoughts formed a measure of my
-overwrought condition at the time&mdash;and Danforth seemed to be even worse.  
+overwrought condition at the time--and Danforth seemed to be even worse.  
 
   Yet long before we had passed the great star-shaped ruin and reached our plane
 our fears had become transferred to the lesser but vast enough range whose re-crossing lay ahead
@@ -3025,26 +3025,26 @@ we thought of the damnable honeycombs inside them, and of the frightful amorphou
 might have pushed their foetidly squirming way even to the topmost hollow pinnacles, we could
 not face without panic the prospect of again sailing by those suggestive skyward cave-mouths
 where the wind made sounds like an evil musical piping over a wide range. To make matters worse,
-we saw distinct traces of local mist around several of the summits&mdash;as poor Lake must have
-done when he made that early mistake about volcanism&mdash;and thought shiveringly of that kindred
+we saw distinct traces of local mist around several of the summits--as poor Lake must have
+done when he made that early mistake about volcanism--and thought shiveringly of that kindred
 mist from which we had just escaped; of that, and of the blasphemous, horror-fostering abyss
 whence all such vapours came.  
 
   All was well with the plane, and we clumsily hauled on our heavy flying furs.
 Danforth got the engine started without trouble, and we made a very smooth takeoff over the
 nightmare city. Below us the primal Cyclopean masonry spread out as it had done when first we
-saw it&mdash;so short, yet infinitely long, a time ago&mdash;and we began rising and turning
+saw it--so short, yet infinitely long, a time ago--and we began rising and turning
 to test the wind for our crossing through the pass. At a very high level there must have been
 great disturbance, since the ice-dust clouds of the zenith were doing all sorts of fantastic
 things; but at 24,000 feet, the height we needed for the pass, we found navigation quite practicable.
-As we drew close to the jutting peaks the wind&rsquo;s strange piping again became manifest,
-and I could see Danforth&rsquo;s hands trembling at the controls. Rank amateur though I was,
+As we drew close to the jutting peaks the wind's strange piping again became manifest,
+and I could see Danforth's hands trembling at the controls. Rank amateur though I was,
 I thought at that moment that I might be a better navigator than he in effecting the dangerous
 crossing between pinnacles; and when I made motions to change seats and take over his duties
 he did not protest. I tried to keep all my skill and self-possession about me, and stared at
-the sector of reddish farther sky betwixt the walls of the pass&mdash;resolutely refusing to
+the sector of reddish farther sky betwixt the walls of the pass--resolutely refusing to
 pay attention to the puffs of mountain-top vapour, and wishing that I had wax-stopped ears like
-Ulysses&rsquo; men off the Sirens&rsquo; coast to keep that disturbing wind-piping from my consciousness.  
+Ulysses' men off the Sirens' coast to keep that disturbing wind-piping from my consciousness.  
 
   But Danforth, released from his piloting and keyed up to a dangerous nervous
 pitch, could not keep quiet. I felt him turning and wriggling about as he looked back at the
@@ -3053,17 +3053,17 @@ sea of snowy, rampart-strown foothills, and upward at the seething, grotesquely 
 It was then, just as I was trying to steer safely through the pass, that his mad shrieking brought
 us so close to disaster by shattering my tight hold on myself and causing me to fumble helplessly
 with the controls for a moment. A second afterward my resolution triumphed and we made the crossing
-safely&mdash;yet I am afraid that Danforth will never be the same again.  
+safely--yet I am afraid that Danforth will never be the same again.  
 
   I have said that Danforth refused to tell me what final horror made him scream
-out so insanely&mdash;a horror which, I feel sadly sure, is mainly responsible for his present
-breakdown. We had snatches of shouted conversation above the wind&rsquo;s piping and the engine&rsquo;s
+out so insanely--a horror which, I feel sadly sure, is mainly responsible for his present
+breakdown. We had snatches of shouted conversation above the wind's piping and the engine's
 buzzing as we reached the safe side of the range and swooped slowly down toward the camp, but
 that had mostly to do with the pledges of secrecy we had made as we prepared to leave the nightmare
-city. Certain things, we had agreed, were not for people to know and discuss lightly&mdash;and
+city. Certain things, we had agreed, were not for people to know and discuss lightly--and
 I would not speak of them now but for the need of heading off that Starkweather-Moore Expedition,
 and others, at any cost. It is absolutely necessary, for the peace and safety of mankind, that
-some of earth&rsquo;s dark, dead corners and unplumbed depths be let alone; lest sleeping abnormalities
+some of earth's dark, dead corners and unplumbed depths be let alone; lest sleeping abnormalities
 wake to resurgent life, and blasphemously surviving nightmares squirm and splash out of their
 black lairs to newer and wider conquests.  
 
@@ -3073,15 +3073,15 @@ honeycombed mountains of madness which we crossed; but a single fantastic, daemo
 among the churning zenith-clouds, of what lay back of those other violet westward mountains
 which the Old Ones had shunned and feared. It is very probable that the thing was a sheer delusion
 born of the previous stresses we had passed through, and of the actual though unrecognised mirage
-of the dead transmontane city experienced near Lake&rsquo;s camp the day before; but it was
+of the dead transmontane city experienced near Lake's camp the day before; but it was
 so real to Danforth that he suffers from it still.  
 
   He has on rare occasions whispered disjointed and irresponsible things about
-&ldquo;the black pit&rdquo;, &ldquo;the carven rim&rdquo;, &ldquo;the proto-shoggoths&rdquo;,
-&ldquo;the windowless solids with five dimensions&rdquo;, &ldquo;the nameless cylinder&rdquo;,
-&ldquo;the elder pharos&rdquo;, &ldquo;Yog-Sothoth&rdquo;, &ldquo;the primal white jelly&rdquo;,
-&ldquo;the colour out of space&rdquo;, &ldquo;the wings&rdquo;, &ldquo;the eyes in darkness&rdquo;,
-&ldquo;the moon-ladder&rdquo;, &ldquo;the original, the eternal, the undying&rdquo;, and other
+ "the black pit ",  "the carven rim ",  "the proto-shoggoths ",
+ "the windowless solids with five dimensions ",  "the nameless cylinder ",
+ "the elder pharos ",  "Yog-Sothoth ",  "the primal white jelly ",
+ "the colour out of space ",  "the wings ",  "the eyes in darkness ",
+ "the moon-ladder ",  "the original, the eternal, the undying ", and other
 bizarre conceptions; but when he is fully himself he repudiates all this and attributes it to
 his curious and macabre reading of earlier years. Danforth, indeed, is known to be among the
 few who have ever dared go completely through that worm-riddled copy of the   Necronomicon  
@@ -3091,11 +3091,11 @@ kept under lock and key in the college library.
 enough; and although I did not see the zenith I can well imagine that its swirls of ice-dust
 may have taken strange forms. Imagination, knowing how vividly distant scenes can sometimes
 be reflected, refracted, and magnified by such layers of restless cloud, might easily have supplied
-the rest&mdash;and of course Danforth did not hint any of those specific horrors till after
+the rest--and of course Danforth did not hint any of those specific horrors till after
 his memory had had a chance to draw on his bygone reading. He could never have seen so much
 in one instantaneous glance.  
 
   At the time his shrieks were confined to the repetition of a single mad word
 of all too obvious source:  
 
-    &ldquo;Tekeli-li! Tekeli-li!&rdquo;    
+     "Tekeli-li! Tekeli-li! "    

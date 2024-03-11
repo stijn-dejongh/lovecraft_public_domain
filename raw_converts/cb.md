@@ -12,13 +12,13 @@ tent flap upon the pale August night for some minutes before he roused enough ev
 had wakened him. There was in the keen, clear air of these Canadian woods a soporific as potent as
 any drug. Campbell lay quiet for a moment, sinking slowly back into the delicious borderlands of
 sleep, conscious of an exquisite weariness, an unaccustomed sense of muscles well used, and relaxed
-now into perfect ease. These were vacation&rsquo;s most delightful moments, after all&mdash;rest,
+now into perfect ease. These were vacation's most delightful moments, after all--rest,
 after toil, in the clear, sweet forest night.  
 
   Luxuriously, as his mind sank backward into oblivion, he assured himself once more
-that three long months of freedom lay before him&mdash;freedom from cities and monotony, freedom
+that three long months of freedom lay before him--freedom from cities and monotony, freedom
 from pedagogy and the University and students with no rudiments of interest in the geology he
-earned his daily bread by dinning into their obdurate ears. Freedom from&mdash;  
+earned his daily bread by dinning into their obdurate ears. Freedom from--  
 
   Abruptly the delightful somnolence crashed about him. Somewhere outside the sound
 of tin shrieking across tin slashed into his peace. George Campbell sat up jerkily and reached for
@@ -34,7 +34,7 @@ its rays upon the thing he held.
 
   All sleepiness left him as he saw what it was he had picked up in his idle
 groping. It was clear as rock crystal, this queer, smooth cube. Quartz, unquestionably, but not in
-its usual hexagonal crystallized form. Somehow&mdash;he could not guess the method&mdash;it had been
+its usual hexagonal crystallized form. Somehow--he could not guess the method--it had been
 wrought into a perfect cube, about four inches in measurement over each worn face. For it was
 incredibly worn. The hard, hard crystal was rounded now until its corners were almost gone and the
 thing was beginning to assume the outlines of a sphere. Ages and ages of wearing, years almost
@@ -48,18 +48,18 @@ reminiscent of cuneiform writing.
   George Campbell wrinkled his brows and bent closer above the little enigma in his
 hands, puzzling helplessly. How could such a thing as this have imbedded in pure rock crystal?
 Remotely a memory floated through his mind of ancient legends that called quartz crystals ice which
-had frozen too hard to melt again. Ice&mdash;and wedge-shaped cuneiforms&mdash;yes, didn&rsquo;t that
-sort of writing originate among the Sumerians who came down from the north in history&rsquo;s
+had frozen too hard to melt again. Ice--and wedge-shaped cuneiforms--yes, didn't that
+sort of writing originate among the Sumerians who came down from the north in history's
 remotest beginnings to settle in the primitive Mesopotamian valley? Then hard sense regained
-control and he laughed. Quartz, of course, was formed in the earliest of earth&rsquo;s geological
+control and he laughed. Quartz, of course, was formed in the earliest of earth's geological
 periods, when there was nothing anywhere but heat and heaving rock. Ice had not come for tens of
 millions of years after this thing must have been formed.  
 
-  And yet&mdash;that writing. Man-made, surely, although its characters were
+  And yet--that writing. Man-made, surely, although its characters were
 unfamiliar save in their faint hinting at cuneiform shapes. Or could there, in a Paleozoic world,
 have been things with a written language who might have graven these cryptic wedges upon the
-quartz-enveloped disc he held? Or&mdash;might a thing like this have fallen meteor-like out of space
-into the unformed rock of a still molten world? Could it&mdash;  
+quartz-enveloped disc he held? Or--might a thing like this have fallen meteor-like out of space
+into the unformed rock of a still molten world? Could it--  
 
   Then he caught himself up sharply and felt his ears going hot at the luridness of
 his own imagination. The silence and the solitude and the queer thing in his hands were conspiring
@@ -81,24 +81,24 @@ from the dawn of all history, that constituted a challenge that would not let hi
 
   He lay there, it seemed to him, for hours. It had been the lingering light, the
 luminescence that seemed so reluctant to die, which held his mind. It was as though something in
-the heart of the cube had awakened, stirred drowsily, become suddenly alert&nbsp;.&nbsp;.&nbsp;.
+the heart of the cube had awakened, stirred drowsily, become suddenly alert . . .
 and intent upon him.  
 
   Sheer fantasy, this. He stirred impatiently and flashed his light upon his watch.
-Close to one o&rsquo;clock; three hours more before the dawn. The beam fell and was focused upon the
+Close to one o'clock; three hours more before the dawn. The beam fell and was focused upon the
 warm crystal cube. He held it there closely, for minutes. He snapped it out, then watched.  
 
   There was no doubt about it now. As his eyes accustomed themselves to the
 darkness, he saw that the strange crystal was glimmering with tiny fugitive lights deep within it
 like threads of sapphire lightnings. They were at its center and they seemed to him to come from
 the pale disk with its disturbing markings. And the disc itself was becoming
-larger&nbsp;.&nbsp;.&nbsp;. the markings shifting shapes&nbsp;.&nbsp;.&nbsp;. the cube was
-growing&nbsp;.&nbsp;.&nbsp;. was it illusion brought about by the tiny
-lightnings.&nbsp;.&nbsp;.&nbsp;.  
+larger . . . the markings shifting shapes . . . the cube was
+growing . . . was it illusion brought about by the tiny
+lightnings. . . .  
 
   He heard a sound. It was the very ghost of a sound, like the ghosts of harp
 strings being plucked with ghostly fingers. He bent closer. It came from the
-cube.&nbsp;.&nbsp;.&nbsp;.  
+cube. . . .  
 
   There was squeaking in the underbrush, a flurry of bodies and an agonized wailing
 like a child in death throes and swiftly stilled. Some small tragedy of the wilderness, killer and
@@ -112,10 +112,10 @@ fitfully, withdrawing to the disc from which they had come. There was no sound f
   He sat, watching the luminescence glow and fade, glow and fade, but steadily
 becoming dimmer. It came to him that two elements were necessary to produce the phenomenon. The
 electric ray itself, and his own fixed attention. His mind must travel along the ray, fix itself
-upon the cube&rsquo;s heart, if its beat were to wax, until&nbsp;.&nbsp;.&nbsp;. what?  
+upon the cube's heart, if its beat were to wax, until . . . what?  
 
   He felt a chill of spirit, as though from contact with some alien thing. It was
-alien, he knew it; not of this earth. Not of earth&rsquo;s life. He conquered his shrinking, picked
+alien, he knew it; not of this earth. Not of earth's life. He conquered his shrinking, picked
 up the cube and took it into the tent. It was neither warm nor cold; except for its weight he would
 not have known he held it. He put it upon the table, keeping the torch turned from it; then stepped
 to the flap of the tent and closed it.  
@@ -127,96 +127,96 @@ concentration, along it; focusing will and sight upon the disc as he had the lig
   As though at command, the sapphire lightnings burned forth. They burst from the
 disc into the body of the crystal cube, then beat back, bathing the disc and the markings. Again
 these began to change, shifting, moving, advancing, and retreating in the blue gleaming. They were
-no longer cuneiform. They were things&nbsp;.&nbsp;.&nbsp;. objects.  
+no longer cuneiform. They were things . . . objects.  
 
   He heard the murmuring music, the plucked harp strings. Louder grew the sound and
 louder, and now all the body of the cube vibrated to their rhythm. The crystal walls were melting,
 growing misty as though formed of the mist of diamonds. And the disc itself was
-growing&nbsp;.&nbsp;.&nbsp;. the shapes shifting, dividing and multiplying as though some door had
+growing . . . the shapes shifting, dividing and multiplying as though some door had
 been opened and into it companies of phantasms were pouring. While brighter, more bright grew the
 pulsing light.  
 
   He felt swift panic, tried to withdraw sight and will, dropped the flash. The cube
-had no need now of the ray&nbsp;.&nbsp;.&nbsp;. and he could not withdraw&nbsp;.&nbsp;.&nbsp;.
+had no need now of the ray . . . and he could not withdraw . . .
 could not withdraw? Why, he himself was being sucked into that disc which was now a globe within
 which unnameable shapes danced to a music that bathed the globe with steady radiance.  
 
   There was no tent. There was only a vast curtain of sparkling mist behind which
-shone the globe.&nbsp;.&nbsp;.&nbsp;. He felt himself drawn through that mist, sucked through it as
+shone the globe. . . . He felt himself drawn through that mist, sucked through it as
 if by a mighty wind, straight for the globe.  
 
     [H. P. Lovecraft]    
 
   As the mist-blurred light of the sapphire suns grew more and more intense, the
 outlines of the globe ahead wavered and dissolved to a churning chaos. Its pallor and its motion
-and its music all blended themselves with the engulfing mist&mdash;bleaching it to a pale
+and its music all blended themselves with the engulfing mist--bleaching it to a pale
 steel-colour and setting it undulantly in motion. And the sapphire suns, too, melted imperceptibly
 into the greying infinity of shapeless pulsation.  
 
   Meanwhile the sense of forward, outward motion grew intolerably, incredibly,
 cosmically swift. Every standard of speed known to earth seemed dwarfed, and Campbell knew that any
-such flight in physical reality would mean instant death to a human being. Even as it was&mdash;in
-this strange, hellish hypnosis or nightmare&mdash;the quasi-visual impression of meteor-like
+such flight in physical reality would mean instant death to a human being. Even as it was--in
+this strange, hellish hypnosis or nightmare--the quasi-visual impression of meteor-like
 hurtling almost paralyzed his mind. Though there were no real points of reference in the grey,
 pulsing void, he felt that he was approaching and passing the speed of light itself. Finally his
-consciousness did go under&mdash;and merciful blackness swallowed everything.  
+consciousness did go under--and merciful blackness swallowed everything.  
 
   It was very suddenly, and amidst the most impenetrable darkness, that thoughts and
-ideas again came to George Campbell. Of how many moments&mdash;or years&mdash;or eternities&mdash;had
+ideas again came to George Campbell. Of how many moments--or years--or eternities--had
 elapsed since his flight through the grey void, he could form no estimate. He knew only that he
 seemed to be at rest and without pain. Indeed, the absence of all physical sensation was the
 salient quality of his condition. It made even the blackness seem less solidly
-black&mdash;suggesting as it did that he was rather a disembodied intelligence in a state beyond
+black--suggesting as it did that he was rather a disembodied intelligence in a state beyond
 physical senses, than a corporeal being with senses deprived of their accustomed objects of
-perception. He could think sharply and quickly&mdash;almost preternaturally so&mdash;yet could form
+perception. He could think sharply and quickly--almost preternaturally so--yet could form
 no idea whatsoever of his situation.  
 
   Half by instinct, he realised that he was not in his own tent. True, he might have
 awaked there from a nightmare to a world equally black; yet he knew this was not so. There was no
-camp cot beneath him&mdash;he had no hands to feel the blankets and canvas surface and flashlight
-that ought to be around him&mdash;there was no sensation of cold in the air&mdash;no flap through
-which he could glimpse the pale night outside&nbsp;.&nbsp;.&nbsp;. something was wrong, dreadfully
+camp cot beneath him--he had no hands to feel the blankets and canvas surface and flashlight
+that ought to be around him--there was no sensation of cold in the air--no flap through
+which he could glimpse the pale night outside . . . something was wrong, dreadfully
 wrong.  
 
   He cast his mind backward and thought of the fluorescent cube which had hypnotised
-him&mdash;of that, and all which had followed. He had known that his mind was going, yet had been
-unable to draw back. At the last moment there had been a shocking, panic fear&mdash;a subconscious
+him--of that, and all which had followed. He had known that his mind was going, yet had been
+unable to draw back. At the last moment there had been a shocking, panic fear--a subconscious
 fear beyond even that caused by the sensation of daemonic flight. It had come from some vague flash
-or remote recollection&mdash;just what, he could not at once tell. Some cell-group in the back of
-his head had seemed to find a cloudily familiar quality in the cube&mdash;and that familiarity was
+or remote recollection--just what, he could not at once tell. Some cell-group in the back of
+his head had seemed to find a cloudily familiar quality in the cube--and that familiarity was
 fraught with dim terror. Now he tried to remember what the familiarity and the terror were.  
 
-  Little by little it came to him. Once&mdash;long ago, in connection with his
-geological life-work&mdash;he had read of something like that cube. It had to do with those
+  Little by little it came to him. Once--long ago, in connection with his
+geological life-work--he had read of something like that cube. It had to do with those
 debatable and disquieting clay fragments called the Eltdown Shards, dug up from pre-carboniferous
 strata in southern England thirty years before. Their shape and markings were so queer that a few
 scholars hinted at artificiality, and made wild conjectures about them and their origin. They came,
-clearly, from a time when no human beings could exist on the globe&mdash;but their contours and
+clearly, from a time when no human beings could exist on the globe--but their contours and
 figurings were damnably puzzling. That was how they got their name.  
 
   It was not, however, in the writings of any sober scientist that Campbell had seen
 that reference to a crystal, disc-holding globe. The source was far less reputable, and infinitely
-more vivid. About 1912 a deeply learned Sussex clergyman of occultist leanings&mdash;the Reverend
-Arthur Brooke Winters-Hall&mdash;had professed to identify the markings on the Eltdown Shards with
-some of the so-called &ldquo;pre-human hieroglyphs&rdquo; persistently cherished and esoterically
+more vivid. About 1912 a deeply learned Sussex clergyman of occultist leanings--the Reverend
+Arthur Brooke Winters-Hall--had professed to identify the markings on the Eltdown Shards with
+some of the so-called  "pre-human hieroglyphs " persistently cherished and esoterically
 handed down in certain mystical circles, and had published at his own expense what purported to be
-a &ldquo;translation&rdquo; of the primal and baffling &ldquo;inscriptions&rdquo;&mdash;a
-&ldquo;translation&rdquo; still quoted frequently and seriously by occult writers. In this
-&ldquo;translation&rdquo;&mdash;a surprisingly long brochure in view of the limited number of
-&ldquo;shards&rdquo; existing&mdash;had occurred the narrative, supposedly of pre-human authorship,
+a  "translation " of the primal and baffling  "inscriptions "--a
+ "translation " still quoted frequently and seriously by occult writers. In this
+ "translation "--a surprisingly long brochure in view of the limited number of
+ "shards " existing--had occurred the narrative, supposedly of pre-human authorship,
 containing the now frightening reference.  
 
-  As the story went, there dwelt on a world&mdash;and eventually on countless other
-worlds&mdash;of outer space a mighty order of worm-like beings whose attainments and whose control
+  As the story went, there dwelt on a world--and eventually on countless other
+worlds--of outer space a mighty order of worm-like beings whose attainments and whose control
 of nature surpassed anything within the range of terrestrial imagination. They had mastered the art
 of interstellar travel early in their career, and had peopled every habitable planet in their own
-galaxy&mdash;killing off the races they found.  
+galaxy--killing off the races they found.  
 
-  Beyond the limits of their own galaxy&mdash;which was not ours&mdash;they could not
+  Beyond the limits of their own galaxy--which was not ours--they could not
 navigate in person; but in their quest for knowledge of all space and time they discovered a means
 of spanning certain transgalactic gulfs with their minds. They devised peculiar
-objects&mdash;strangely energized cubes of a curious crystal containing hypnotic talismen and
-enclosed in space-resisting spherical envelopes of an unknown substance&mdash;which could be
+objects--strangely energized cubes of a curious crystal containing hypnotic talismen and
+enclosed in space-resisting spherical envelopes of an unknown substance--which could be
 forcibly expelled beyond the limits of their universe, and which would respond to the attraction of
 cool solid matter only.  
 
@@ -228,58 +228,58 @@ attention. This, when coupled with the action of light, was sufficient to set it
 properties working.  
 
   The mind that noticed the cube would be drawn into it by the power of the disc,
-and would be sent on a thread of obscure energy to the place whence the disc had come&mdash;the
+and would be sent on a thread of obscure energy to the place whence the disc had come--the
 remote world of the worm-like space-explorers across stupendous galactic abysses. Received in one
 of the machines to which each cube was attuned, the captured mind would remain suspended without
 body or senses until examined by one of the dominant race. Then it would, by an obscure process of
-interchange, be pumped of all its contents. The investigator&rsquo;s mind would now occupy the
-strange machine while the captive mind occupied the interrogator&rsquo;s worm-like body. Then, in
-another interchange, the interrogator&rsquo;s mind would leap across boundless space to the
-captive&rsquo;s vacant and unconscious body on the trans-galactic world&mdash;animating the alien
+interchange, be pumped of all its contents. The investigator's mind would now occupy the
+strange machine while the captive mind occupied the interrogator's worm-like body. Then, in
+another interchange, the interrogator's mind would leap across boundless space to the
+captive's vacant and unconscious body on the trans-galactic world--animating the alien
 tenement as best it might, and exploring the alien world in the guise of one of its denizens.  
 
   When done with exploration, the adventurer would use the cube and its disc in
-accomplishing his return&mdash;and sometimes the captured mind would be restored safely to its own
+accomplishing his return--and sometimes the captured mind would be restored safely to its own
 remote world. Not always, however, was the dominant race so kind. Sometimes, when a potentially
 important race capable of space travel was found, the worm-like folk would employ the cube to
 capture and annihilate minds by the thousands, and would extirpate the race for diplomatic
-reasons&mdash;using the exploring minds as agents of destruction.  
+reasons--using the exploring minds as agents of destruction.  
 
   In other cases sections of the worm-folk would permanently occupy a trans-galactic
-planet&mdash;destroying the captured minds and wiping out the remaining inhabitants preparatory to
+planet--destroying the captured minds and wiping out the remaining inhabitants preparatory to
 settling down in unfamiliar bodies. Never, however, could the parent civilization be quite
 duplicated in such a case; since the new planet would not contain all the materials necessary for
-the worm-race&rsquo;s arts. The cubes, for example, could be made only on the home planet.  
+the worm-race's arts. The cubes, for example, could be made only on the home planet.  
 
   Only a few of the numberless cubes sent forth ever found a landing and response on
-an inhabited world&mdash;since there was no such thing as   aiming   them at goals beyond sight or
+an inhabited world--since there was no such thing as   aiming   them at goals beyond sight or
 knowledge. Only three, ran the story, had ever landed on peopled worlds in our own particular
 universe. One of these had struck a planet near the galactic rim two thousand billion years ago,
 while another had lodged three billion years ago on a world near the centre of the galaxy. The
-third&mdash;and the only one ever known to have invaded the solar system&mdash;had reached our own
+third--and the only one ever known to have invaded the solar system--had reached our own
 earth 150,000,000 years ago.  
 
-  It was with this latter that Dr. Winters-Hall&rsquo;s &ldquo;translation&rdquo;
+  It was with this latter that Dr. Winters-Hall's  "translation "
 chiefly dealt. When the cube struck the earth, he wrote, the ruling terrestrial species was a huge,
 cone-shaped race surpassing all others before or since in mentality and achievements. This race was
 so advanced that it had actually sent minds abroad in both space and time to explore the cosmos,
 hence recognised something of what had happened when the cube fell from the sky and certain
 individuals had suffered mental change after gazing at it.  
 
-  Realising that the changed individuals represented invading minds, the race&rsquo;s
-leaders had them destroyed&mdash;even at the cost of leaving the displaced minds exiled in alien
+  Realising that the changed individuals represented invading minds, the race's
+leaders had them destroyed--even at the cost of leaving the displaced minds exiled in alien
 space. They had had experience with even stranger transitions. When, through a mental exploration
 of space and time, they formed a rough idea of what the cube was, they carefully hid the thing from
 light and sight, and guarded it as a menace. They did not wish to destroy a thing so rich in later
 experimental possibilities. Now and then some rash, unscrupulous adventurer would furtively gain
-access to it and sample its perilous powers despite the consequences&mdash;but all such cases were
+access to it and sample its perilous powers despite the consequences--but all such cases were
 discovered, and safely and drastically dealt with.  
 
   Of this evil meddling the only bad result was that the worm-like outside race
 learned from the new exiles what had happened to their explorers on earth, and conceived a violent
 hatred of the planet and all its life-forms. They would have depopulated it if they could, and
 indeed sent additional cubes into space in the wild hope of striking it by accident in unguarded
-places&mdash;but that accident never came to pass.  
+places--but that accident never came to pass.  
 
   The cone-shaped terrestrial beings kept the one existing cube in a special shrine
 as a relique and basis for experiments, till after aeons it was lost amidst the chaos of war and
@@ -289,10 +289,10 @@ the whereabouts of the sinister cube from space were unknown.
 
   This much, according to the learned occultist, the Eltdown Shards had said. What
 now made the account so obscurely frightful to Campbell was the minute accuracy with which the
-alien cube had been described. Every detail tallied&mdash;dimensions, consistency, hieroglyphed
+alien cube had been described. Every detail tallied--dimensions, consistency, hieroglyphed
 central disc, hypnotic effects. As he thought the matter over and over amidst the darkness of his
 strange situation, he began to wonder whether his whole experience with the crystal
-cube&mdash;indeed, its very existence&mdash;were not a nightmare brought on by some freakish
+cube--indeed, its very existence--were not a nightmare brought on by some freakish
 subconscious memory of this old bit of extravagant, charlatanic reading. If so, though, the
 nightmare must still be in force; since his present apparently bodiless state had nothing of
 normality in it.  
@@ -301,21 +301,21 @@ normality in it.
 estimate. Everything about his state was so unreal that ordinary dimensions and measurements became
 meaningless. It seemed an eternity, but perhaps it was not really long before the sudden
 interruption came. What happened was as strange and inexplicable as the blackness it succeeded.
-There was a sensation&mdash;of the mind rather than of the body&mdash;and all at once Campbell felt his
+There was a sensation--of the mind rather than of the body--and all at once Campbell felt his
 thoughts swept or sucked beyond his control in tumultuous and chaotic fashion.  
 
-  Memories arose irresponsibly and irrelevantly. All that he knew&mdash;all his
-personal background, traditions, experiences, scholarship, dreams, ideas, and inspirations&mdash;welled
+  Memories arose irresponsibly and irrelevantly. All that he knew--all his
+personal background, traditions, experiences, scholarship, dreams, ideas, and inspirations--welled
 up abruptly and simultaneously, with a dizzying speed and abundance which soon made him unable to
 keep track of any separate concept. The parade of all his mental contents became an avalanche, a
 cascade, a vortex. It was as horrible and vertiginous as his hypnotic flight through space when the
 crystal cube pulled him. Finally it sapped his consciousness and brought on fresh oblivion.  
 
-  Another measureless blank&mdash;and then a slow trickle of sensation. This time it
+  Another measureless blank--and then a slow trickle of sensation. This time it
 was physical, not mental. Sapphire light, and a low rumble of distant sound. There were tactile
-impressions&mdash;he could realise that he was lying at full length on something, though there was a
+impressions--he could realise that he was lying at full length on something, though there was a
 baffling strangeness about the feel of his posture. He could not reconcile the pressure of the
-supporting surface with his own outlines&mdash;or with the outlines of the human form at all. He
+supporting surface with his own outlines--or with the outlines of the human form at all. He
 tried to move his arms, but found no definite response to the attempt. Instead, there were little,
 ineffectual nervous twitches all over the area which seemed to mark his body.  
 
@@ -326,41 +326,41 @@ indecisively. The limits and qualities of vision were not those which he was use
 roughly correlate the sensation with what he had known as sight. As this sensation gained some
 degree of stability, Campbell realised that he must still be in the throes of nightmare.  
 
-  He seemed to be in a room of considerable extent&mdash;of medium height, but with a
-large proportionate area. On every side&mdash;and he could apparently see all four sides at
-once&mdash;were high, narrowish slits which seemed to serve as combined doors and windows. There
+  He seemed to be in a room of considerable extent--of medium height, but with a
+large proportionate area. On every side--and he could apparently see all four sides at
+once--were high, narrowish slits which seemed to serve as combined doors and windows. There
 were singular low tables or pedestals, but no furniture of normal nature and proportions. Through
 the slits streamed floods of sapphire light, and beyond them could be mistily seen the sides and
-roofs of fantastic buildings like clustered cubes. On the walls&mdash;in the vertical panels between
-the slits&mdash;were strange markings of an oddly disquieting character. It was some time before
-Campbell understood why they disturbed him so&mdash;then he saw that they were, in repeated
-instances, precisely like some of the hieroglyphs on the crystal cube&rsquo;s disc.  
+roofs of fantastic buildings like clustered cubes. On the walls--in the vertical panels between
+the slits--were strange markings of an oddly disquieting character. It was some time before
+Campbell understood why they disturbed him so--then he saw that they were, in repeated
+instances, precisely like some of the hieroglyphs on the crystal cube's disc.  
 
   The actual nightmare element, though, was something more than this. It began with
 the living thing which presently entered through one of the slits, advancing deliberately toward
 him and bearing a metal box of bizarre proportions and glassy, mirror-like surfaces. For this thing
-was nothing human&mdash;nothing of earth&mdash;nothing even of man&rsquo;s myths and dreams. It was a
+was nothing human--nothing of earth--nothing even of man's myths and dreams. It was a
 gigantic, pale-grey worm or centipede, as large around as a man and twice as long, with a
 disc-like, apparently eyeless, cilia-fringed head bearing a purple central orifice. It glided on
-its rear pairs of legs, with its fore part raised vertically&mdash;the legs, or at least two pairs
+its rear pairs of legs, with its fore part raised vertically--the legs, or at least two pairs
 of them, serving as arms. Along its spinal ridge was a curious purple comb, and a fan-shaped tail
 of some grey membrane ended its grotesque bulk. There was a ring of flexible red spikes around its
 neck, and from the twistings of these came clicking, twanging sounds in measured, deliberate
 rhythms.  
 
-  Here, indeed, was outr&eacute; nightmare at its height&mdash;capricious fantasy at its
+  Here, indeed, was outré nightmare at its height--capricious fantasy at its
 apex. But even this vision of delirium was not what caused George Campbell to lapse a third time
-into unconsciousness. It took one more thing&mdash;one final, unbearable touch&mdash;to do that. As
+into unconsciousness. It took one more thing--one final, unbearable touch--to do that. As
 the nameless worm advanced with its glistening box, the reclining man caught in the mirror-like
-surface a glimpse of what should have been his own body. Yet&mdash;horribly verifying his disordered
-and unfamiliar sensations&mdash;it was not his own body at all that he saw reflected in the
+surface a glimpse of what should have been his own body. Yet--horribly verifying his disordered
+and unfamiliar sensations--it was not his own body at all that he saw reflected in the
 burnished metal. It was, instead, the loathsome, pale-grey bulk of one of the great centipedes.  
 
     [Robert E. Howard]    
 
   From that final lap of senselessness, he emerged with a full understanding of his
 situation. His mind was imprisoned in the body of a frightful native of an alien planet, while,
-somewhere on the other side of the universe, his own body was housing the monster&rsquo;s
+somewhere on the other side of the universe, his own body was housing the monster's
 personality.  
 
   He fought down an unreasoning horror. Judged from a cosmic standpoint, why should
@@ -371,7 +371,7 @@ revulsion were drowned in the excitement of titanic adventure.
   What was his former body but a cloak, eventually to be cast off at death anyway?
 He had no sentimental illusions about the life from which he had been exiled. What had it ever
 given him save toil, poverty, continual frustration and repression? If this life before him offered
-no more, at least it offered no less. Intuition told him it offered more&mdash;much more.  
+no more, at least it offered no less. Intuition told him it offered more--much more.  
 
   With the honesty possible only when life is stripped to its naked fundamentals, he
 realized that he remembered with pleasure only the physical delights of his former life. But he had
@@ -381,20 +381,20 @@ joys.
 
   A lawless exultation rose in him. He was a man without a world, free of all
 conventions or inhibitions of Earth, or of this strange planet, free of every artificial restraint
-in the universe. He was a god! With grim amusement he thought of his body moving in earth&rsquo;s
+in the universe. He was a god! With grim amusement he thought of his body moving in earth's
 business and society, with all the while an alien monster staring out of the windows that were
-George Campbell&rsquo;s eyes on people who would flee if they knew.  
+George Campbell's eyes on people who would flee if they knew.  
 
   Let him walk the earth slaying and destroying as he would. Earth and its races no
 longer had any meaning to George Campbell. There he had been one of a billion nonentities, fixed in
 place by a mountainous accumulation of conventions, laws and manners, doomed to live and die in his
 sordid niche. But in one blind bound he had soared above the commonplace. This was not death, but
-re-birth&mdash;the birth of a full-grown mentality, with a new-found freedom that made little of
+re-birth--the birth of a full-grown mentality, with a new-found freedom that made little of
 physical captivity on Yekub.  
 
   He started. Yekub! It was the name of this planet, but how had he known? Then he
-knew, as he knew the name of him whose body he occupied&mdash;Tothe. Memory, deep grooved in
-Tothe&rsquo;s brain, was stirring in him&mdash;shadows of the knowledge Tothe had. Carved deep in the
+knew, as he knew the name of him whose body he occupied--Tothe. Memory, deep grooved in
+Tothe's brain, was stirring in him--shadows of the knowledge Tothe had. Carved deep in the
 physical tissues of the brain, they spoke dimly as implanted instincts to George Campbell; and his
 human consciousness seized them and translated them to show him the way not only to safety and
 freedom, but to the power his soul, stripped to its primitive impulses, craved. Not as a slave
@@ -408,10 +408,10 @@ knew, and what it said he dimly understood, through the implanted thought proces
 as he knew the creature was Yukth, supreme lord of science.  
 
   But Campbell gave no heed, for he had made his desperate plan, a plan so alien to
-the ways of Yekub that it was beyond Yukth&rsquo;s comprehension and caught him wholly unprepared.
+the ways of Yekub that it was beyond Yukth's comprehension and caught him wholly unprepared.
 Yukth, like Campbell, saw the sharp-pointed metal shard on a nearby table, but to Yukth it was only
-a scientific implement. He did not even know it could be used as a weapon. Campbell&rsquo;s earthly
-mind supplied the knowledge and the action that followed, driving Tothe&rsquo;s body into movements
+a scientific implement. He did not even know it could be used as a weapon. Campbell's earthly
+mind supplied the knowledge and the action that followed, driving Tothe's body into movements
 no man of Yekub had ever made before.  
 
   Campbell snatched the pointed shard and struck, ripping savagely upward. Yukth
@@ -419,30 +419,30 @@ reared and toppled, his entrails spilling on the floor. In an instant Campbell w
 door. His speed was amazing, exhilarating, first fulfillment of the promise of novel physical
 sensations.  
 
-  As he ran, guided wholly by the instinctive knowledge implanted in Tothe&rsquo;s
-physical reflexes, it was as if he were borne by a separate consciousness in his legs. Tothe&rsquo;s
+  As he ran, guided wholly by the instinctive knowledge implanted in Tothe's
+physical reflexes, it was as if he were borne by a separate consciousness in his legs. Tothe's
 body was bearing him along a route it had traversed ten thousand times when animated by
-Tothe&rsquo;s mind.  
+Tothe's mind.  
 
   Down a winding corridor he raced, up a twisted stair, through a carved door, and
 the same instincts that had brought him there told him he had found what he sought. He was in a
 circular room with a domed roof from which shone a livid blue light. A strange structure rose in
 the middle of the rainbow-hued floor, tier on tier, each of a separate, vivid color. The ultimate
 tier was a purple cone, from the apex of which a blue smoky mist drifted upward to a sphere that
-poised in mid-air&mdash;a sphere that shone like translucent ivory.  
+poised in mid-air--a sphere that shone like translucent ivory.  
 
   This, the deep-grooved memories of Tothe told Campbell, was the god of Yekub,
 though why the people of Yekub feared and worshipped it had been forgotten a million years. A
 worm-priest stood between him and the altar which no hand of flesh had ever touched. That it could
 be touched was a blasphemy that had never occurred to a man of Yekub. The worm-priest stood in
-frozen horror until Campbell&rsquo;s shard ripped the life out of him.  
+frozen horror until Campbell's shard ripped the life out of him.  
 
   On his centipede-legs Campbell clambered the tiered altar, heedless of its sudden
 quiverings, heedless of the change that was taking place in the floating sphere, heedless of the
 smoke that now billowed out in blue clouds. He was drunk with the feel of power. He feared the
 superstitions of Yekub no more than he feared those of earth. With that globe in his hands he would
 be king of Yekub. The worm men would dare deny him nothing, when he held their god as hostage. He
-reached a hand for the ball&mdash;no longer ivory-hued, but red as blood.&nbsp;.&nbsp;.&nbsp;.  
+reached a hand for the ball--no longer ivory-hued, but red as blood. . . .  
 
     [Frank Belknap Long]    
 
@@ -500,16 +500,16 @@ supermundane spirituality all animal dross.
 face of the drowned man. It was a bestial face, repulsively anthropoid in contour, and from its
 twisted, distorted mouth black ichor poured.  
 
-  &ldquo;He who sought your body in the abysses of Time will occupy an unresponsive
-tenement,&rdquo; said the red god. &ldquo;No spawn of Yekub can control the body of a human.  
+   "He who sought your body in the abysses of Time will occupy an unresponsive
+tenement, " said the red god.  "No spawn of Yekub can control the body of a human.  
 
-  &ldquo;On all earth, living creatures rend one another, and feast with unutterable
+   "On all earth, living creatures rend one another, and feast with unutterable
 cruelty on their kith and kin. No worm-mind can control a bestial man-body when it yearns to raven.
 Only man-minds instinctively conditioned through the course of ten thousand generations can keep
 the human instincts in thrall. Your body will destroy itself on earth, seeking the blood of its
 animal kin, seeking the cool water where it can wallow at its ease. Seeking eventually destruction,
 for the death-instinct is more powerful in it than the instincts of life and it will destroy itself
-in seeking to return to the slime from which it sprang.&rdquo;  
+in seeking to return to the slime from which it sprang. "  
 
   Thus spoke the round red god of Yekub in a far-off segment of the space-time
 continuum to George Campbell as the latter, with all human desire purged away, sat on a throne and

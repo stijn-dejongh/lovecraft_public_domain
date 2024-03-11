@@ -6,7 +6,7 @@
   
 
 When the last days were upon me, and the ugly trifles of existence began to drive me to madness
-like the small drops of water that torturers let fall ceaselessly upon one spot of their victim&rsquo;s
+like the small drops of water that torturers let fall ceaselessly upon one spot of their victim's
 body, I loved the irradiate refuge of sleep. In my dreams I found a little of the beauty I had
 vainly sought in life, and wandered through old gardens and enchanted woods.  
 

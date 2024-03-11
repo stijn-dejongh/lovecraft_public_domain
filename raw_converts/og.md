@@ -5,7 +5,7 @@
 
   
 
-Atop the tallest of earth&rsquo;s peaks dwell the gods of earth, and suffer no man to tell that
+Atop the tallest of earth's peaks dwell the gods of earth, and suffer no man to tell that
 he hath looked upon them. Lesser peaks they once inhabited; but ever the men from the plains
 would scale the slopes of rock and snow, driving the gods to higher and higher mountains till
 now only the last remains. When they left their older peaks they took with them all signs of
@@ -18,7 +18,7 @@ They are grown stern, and where once they suffered men to displace them, they no
 to come, or coming, to depart. It is well for men that they know not of Kadath in the cold waste,
 else they would seek injudiciously to scale it.  
 
-  Sometimes when earth&rsquo;s gods are homesick they visit in the still night
+  Sometimes when earth's gods are homesick they visit in the still night
 the peaks where once they dwelt, and weep softly as they try to play in the olden way on remembered
 slopes. Men have felt the tears of the gods on white-capped Thurai, though they have thought
 it rain; and have heard the sighs of the gods in the plaintive dawn-winds of Lerion. In cloud-ships
@@ -34,7 +34,7 @@ the villagers tell of how he went up a mountain on the night of the strange ecli
 and guessed so many of their secrets that he was deemed half a god himself. It was he who wisely
 advised the burgesses of Ulthar when they passed their remarkable law against the slaying of
 cats, and who first told the young priest Atal where it is that black cats go at midnight on
-St. John&rsquo;s Eve. Barzai was learned in the lore of earth&rsquo;s gods, and had gained a
+St. John's Eve. Barzai was learned in the lore of earth's gods, and had gained a
 desire to look upon their faces. He believed that his great secret knowledge of gods could shield
 him from their wrath, so resolved to go up to the summit of high and rocky Hatheg-Kla on a night
 when he knew the gods would be there.  
@@ -47,13 +47,13 @@ vapours over the slopes as they dance reminiscently on the summit under a clear 
 of Hatheg say it is ill to climb Hatheg-Kla at any time, and deadly to climb it by night when
 pale vapours hide the summit and the moon; but Barzai heeded them not when he came from neighbouring
 Ulthar with the young priest Atal, who was his disciple. Atal was only the son of an innkeeper,
-and was sometimes afraid; but Barzai&rsquo;s father had been a landgrave who dwelt in an ancient
+and was sometimes afraid; but Barzai's father had been a landgrave who dwelt in an ancient
 castle, so he had no common superstition in his blood, and only laughed at the fearful cotters.  
 
   Barzai and Atal went out of Hatheg into the stony desert despite the prayers
-of peasants, and talked of earth&rsquo;s gods by their campfires at night. Many days they travelled,
+of peasants, and talked of earth's gods by their campfires at night. Many days they travelled,
 and from afar saw lofty Hatheg-Kla with his aureole of mournful mist. On the thirteenth day
-they reached the mountain&rsquo;s lonely base, and Atal spoke of his fears. But Barzai was old
+they reached the mountain's lonely base, and Atal spoke of his fears. But Barzai was old
 and learned and had no fears, so led the way boldly up the slope that no man had scaled since
 the time of Sansu, who is written of with fright in the mouldy Pnakotic Manuscripts.  
 
@@ -71,7 +71,7 @@ the full moon, Barzai saw some dense clouds far to the north, and stayed up with
 them draw near. Thick and majestic they sailed, slowly and deliberately onward; ranging themselves
 round the peak high above the watchers, and hiding the moon and the summit from view. For a
 long hour the watchers gazed, whilst the vapours swirled and the screen of clouds grew thicker
-and more restless. Barzai was wise in the lore of earth&rsquo;s gods, and listened hard for
+and more restless. Barzai was wise in the lore of earth's gods, and listened hard for
 certain sounds, but Atal felt the chill of the vapours and the awe of the night, and feared
 much. And when Barzai began to climb higher and beckon eagerly, it was long before Atal would
 follow.  
@@ -84,29 +84,29 @@ man, nor pausing at wide black chasms that Atal scarce could leap. And so they w
 over rocks and gulfs, slipping and stumbling, and sometimes awed at the vastness and horrible
 silence of bleak ice pinnacles and mute granite steeps.  
 
-  Very suddenly Barzai went out of Atal&rsquo;s sight, scaling a hideous cliff
-that seemed to bulge outward and block the path for any climber not inspired of earth&rsquo;s
+  Very suddenly Barzai went out of Atal's sight, scaling a hideous cliff
+that seemed to bulge outward and block the path for any climber not inspired of earth's
 gods. Atal was far below, and planning what he should do when he reached the place, when curiously
 he noticed that the light had grown strong, as if the cloudless peak and moonlit meeting-place
 of the gods were very near. And as he scrambled on toward the bulging cliff and litten sky he
 felt fears more shocking than any he had known before. Then through the high mists he heard
 the voice of unseen Barzai shouting wildly in delight:  
 
-  &ldquo;I have heard the gods! I have heard earth&rsquo;s gods singing in revelry
-on Hatheg-Kla! The voices of earth&rsquo;s gods are known to Barzai the Prophet! The mists are
+   "I have heard the gods! I have heard earth's gods singing in revelry
+on Hatheg-Kla! The voices of earth's gods are known to Barzai the Prophet! The mists are
 thin and the moon is bright, and I shall see the gods dancing wildly on Hatheg-Kla that they
-loved in youth! The wisdom of Barzai hath made him greater than earth&rsquo;s gods, and against
+loved in youth! The wisdom of Barzai hath made him greater than earth's gods, and against
 his will their spells and barriers are as naught; Barzai will behold the gods, the proud gods,
-the secret gods, the gods of earth who spurn the sight of men!&rdquo;  
+the secret gods, the gods of earth who spurn the sight of men! "  
 
   Atal could not hear the voices Barzai heard, but he was now close to the bulging
-cliff and scanning it for foot-holds. Then he heard Barzai&rsquo;s voice grow shriller and louder:  
+cliff and scanning it for foot-holds. Then he heard Barzai's voice grow shriller and louder:  
 
-  &ldquo;The mists are very thin, and the moon casts shadows on the slope; the
-voices of earth&rsquo;s gods are high and wild, and they fear the coming of Barzai the Wise,
-who is greater than they.&nbsp;.&nbsp;.&nbsp;. The moon&rsquo;s light flickers, as earth&rsquo;s
-gods dance against it; I shall see the dancing forms of the gods that leap and howl in the moonlight.&nbsp;.&nbsp;.&nbsp;.
-The light is dimmer and the gods are afraid.&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+   "The mists are very thin, and the moon casts shadows on the slope; the
+voices of earth's gods are high and wild, and they fear the coming of Barzai the Wise,
+who is greater than they. . . . The moon's light flickers, as earth's
+gods dance against it; I shall see the dancing forms of the gods that leap and howl in the moonlight. . . .
+The light is dimmer and the gods are afraid. . . . "  
 
   Whilst Barzai was shouting these things Atal felt a spectral change in the
 air, as if the laws of earth were bowing to greater laws; for though the way was steeper than
@@ -115,30 +115,30 @@ obstacle when he reached it and slid perilously up its convex face. The light of
 strangely failed, and as Atal plunged upward through the mists he heard Barzai the Wise shrieking
 in the shadows:  
 
-  &ldquo;The moon is dark, and the gods dance in the night; there is terror in
-the sky, for upon the moon hath sunk an eclipse foretold in no books of men or of earth&rsquo;s
-gods.&nbsp;.&nbsp;.&nbsp;. There is unknown magic on Hatheg-Kla, for the screams of the frightened
+   "The moon is dark, and the gods dance in the night; there is terror in
+the sky, for upon the moon hath sunk an eclipse foretold in no books of men or of earth's
+gods. . . . There is unknown magic on Hatheg-Kla, for the screams of the frightened
 gods have turned to laughter, and the slopes of ice shoot up endlessly into the black heavens
-whither I am plunging.&nbsp;.&nbsp;.&nbsp;. Hei! Hei! At last!   In the dim light I behold
-the gods of earth!&rdquo;    
+whither I am plunging. . . . Hei! Hei! At last!   In the dim light I behold
+the gods of earth! "    
 
   And now Atal, slipping dizzily up over inconceivable steeps, heard in the dark
 a loathsome laughing, mixed with such a cry as no man else ever heard save in the Phlegethon
 of unrelatable nightmares; a cry wherein reverberated the horror and anguish of a haunted lifetime
 packed into one atrocious moment:  
 
-  &ldquo;The   other   gods! The   other   gods! The gods of the outer
-hells that guard the feeble gods of earth!&nbsp;.&nbsp;.&nbsp;. Look away!&nbsp;.&nbsp;.&nbsp;. Go back!&nbsp;.&nbsp;.&nbsp;.
-Do not see!&nbsp;.&nbsp;.&nbsp;. Do not see!&nbsp;.&nbsp;.&nbsp;. The vengeance of the infinite abysses&nbsp;.&nbsp;.&nbsp;.
-That cursed, that damnable pit&nbsp;.&nbsp;.&nbsp;. Merciful gods of earth,   I am falling
-into the sky!&rdquo;    
+   "The   other   gods! The   other   gods! The gods of the outer
+hells that guard the feeble gods of earth! . . . Look away! . . . Go back! . . .
+Do not see! . . . Do not see! . . . The vengeance of the infinite abysses . . .
+That cursed, that damnable pit . . . Merciful gods of earth,   I am falling
+into the sky! "    
 
   And as Atal shut his eyes and stopped his ears and tried to jump downward against
 the frightful pull from unknown heights, there resounded on Hatheg-Kla that terrible peal of
 thunder which awaked the good cotters of the plains and the honest burgesses of Hatheg and Nir
 and Ulthar, and caused them to behold through the clouds that strange eclipse of the moon that
 no book ever predicted. And when the moon came out at last Atal was safe on the lower snows
-of the mountain without sight of earth&rsquo;s gods, or of the   other   gods.  
+of the mountain without sight of earth's gods, or of the   other   gods.  
 
   Now it is told in the mouldy Pnakotic Manuscripts that Sansu found naught but
 wordless ice and rock when he climbed Hatheg-Kla in the youth of the world. Yet when the men
@@ -149,8 +149,8 @@ was like to one that learned men have discerned in those frightful parts of the 
 which are too ancient to be read. This they found.  
 
   Barzai the Wise they never found, nor could the holy priest Atal ever be persuaded
-to pray for his soul&rsquo;s repose. Moreover, to this day the people of Ulthar and Nir and
+to pray for his soul's repose. Moreover, to this day the people of Ulthar and Nir and
 Hatheg fear eclipses, and pray by night when pale vapours hide the mountain-top and the moon.
-And above the mists on Hatheg-Kla earth&rsquo;s gods sometimes dance reminiscently; for they
+And above the mists on Hatheg-Kla earth's gods sometimes dance reminiscently; for they
 know they are safe, and love to come from unknown Kadath in ships of cloud and play in the olden
 way, as they did when earth was new and men not given to the climbing of inaccessible places.  

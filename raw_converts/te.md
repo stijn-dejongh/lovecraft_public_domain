@@ -24,18 +24,18 @@ first, the stern rising high out of the water whilst the hull shot down perpendi
 bottom of the sea. Our camera missed nothing, and I regret that so fine a reel of film should never
 reach Berlin. After that we sank the lifeboats with our guns and submerged.  
 
-  When we rose to the surface about sunset a seaman&rsquo;s body was found on
+  When we rose to the surface about sunset a seaman's body was found on
 the deck, hands gripping the railing in curious fashion. The poor fellow was young, rather dark,
-and very handsome; probably an Italian or Greek, and undoubtedly of the   Victory&rsquo;  s
-crew. He had evidently sought refuge on the very ship which had been forced to destroy his own&mdash;one
+and very handsome; probably an Italian or Greek, and undoubtedly of the   Victory'  s
+crew. He had evidently sought refuge on the very ship which had been forced to destroy his own--one
 more victim of the unjust war of aggression which the English pig-dogs are waging upon the Fatherland.
 Our men searched him for souvenirs, and found in his coat pocket a very odd bit of ivory carved
-to represent a youth&rsquo;s head crowned with laurel. My fellow-officer, Lieut. Klenze, believed
+to represent a youth's head crowned with laurel. My fellow-officer, Lieut. Klenze, believed
 that the thing was of great age and artistic value, so took it from the men for himself. How
 it had ever come into the possession of a common sailor, neither he nor I could imagine.  
 
   As the dead man was thrown overboard there occurred two incidents which created
-much disturbance amongst the crew. The fellow&rsquo;s eyes had been closed; but in the dragging
+much disturbance amongst the crew. The fellow's eyes had been closed; but in the dragging
 of his body to the rail they were jarred open, and many seemed to entertain a queer delusion
 that they gazed steadily and mockingly at Schmidt and Zimmer, who were bent over the corpse.
 The Boatswain M&uuml;ller, an elderly man who would have known better had he not been a superstitious
@@ -80,7 +80,7 @@ suicide as a result of the fears which had seemed to harass them, though they we
 in the act of jumping overboard. I was rather glad to be rid of M&uuml;ller, for even his silence
 had unfavourably affected the crew. Everyone seemed inclined to be silent now, as though holding
 a secret fear. Many were ill, but none made a disturbance. Lieut. Klenze chafed under the strain,
-and was annoyed by the merest trifles&mdash;such as the school of dolphins which gathered about
+and was annoyed by the merest trifles--such as the school of dolphins which gathered about
 the U-29 in increasing numbers, and the growing intensity of that southward current which was
 not on our chart.  
 
@@ -116,7 +116,7 @@ but in this case there was no choice. We did not descend far, and when after sev
 sea was calmer, we decided to return to the surface. Here, however, a new trouble developed;
 for the ship failed to respond to our direction in spite of all that the mechanics could do.
 As the men grew more frightened at this undersea imprisonment, some of them began to mutter
-again about Lieut. Klenze&rsquo;s ivory image, but the sight of an automatic pistol calmed them.
+again about Lieut. Klenze's ivory image, but the sight of an automatic pistol calmed them.
 We kept the poor devils as busy as we could, tinkering at the machinery even when we knew it
 was useless.  
 
@@ -177,16 +177,16 @@ from the organisms passed at higher levels.
   It was at 3:15 P.M., August 12, that poor Klenze went wholly mad. He had been
 in the conning tower using the searchlight when I saw him bound into the library compartment
 where I sat reading, and his face at once betrayed him. I will repeat here what he said, underlining
-the words he emphasised: &ldquo;    He     is calling!     He     is calling! I
-hear him! We must go!&rdquo; As he spoke he took his ivory image from the table, pocketed it,
+the words he emphasised:  "    He     is calling!     He     is calling! I
+hear him! We must go! " As he spoke he took his ivory image from the table, pocketed it,
 and seized my arm in an effort to drag me up the companionway to the deck. In a moment I understood
 that he meant to open the hatch and plunge with me into the water outside, a vagary of suicidal
 and homicidal mania for which I was scarcely prepared. As I hung back and attempted to soothe
-him he grew more violent, saying: &ldquo;Come now&mdash;do not wait until later; it is better
-to repent and be forgiven than to defy and be condemned.&rdquo; Then I tried the opposite of
-the soothing plan, and told him he was mad&mdash;pitifully demented. But he was unmoved, and
-cried: &ldquo;If I am mad, it is mercy! May the gods pity the man who in his callousness can
-remain sane to the hideous end! Come and be mad whilst   he   still calls with mercy!&rdquo;  
+him he grew more violent, saying:  "Come now--do not wait until later; it is better
+to repent and be forgiven than to defy and be condemned. " Then I tried the opposite of
+the soothing plan, and told him he was mad--pitifully demented. But he was unmoved, and
+cried:  "If I am mad, it is mercy! May the gods pity the man who in his callousness can
+remain sane to the hideous end! Come and be mad whilst   he   still calls with mercy! "  
 
   This outburst seemed to relieve a pressure in his brain; for as he finished
 he grew much milder, asking me to let him depart alone if I would not accompany him. My course
@@ -204,7 +204,7 @@ unaffected, like those extraordinary dolphins. I did not, however, succeed in fi
 companion, for the dolphins were massed thickly and obscuringly about the conning tower.  
 
   That evening I regretted that I had not taken the ivory image surreptitiously
-from poor Klenze&rsquo;s pocket as he left, for the memory of it fascinated me. I could not
+from poor Klenze's pocket as he left, for the memory of it fascinated me. I could not
 forget the youthful, beautiful head with its leafy crown, though I am not by nature an artist.
 I was also sorry that I had no one with whom to converse. Klenze, though not my mental equal,
 was much better than no one. I did not sleep well that night, and wondered exactly when the
@@ -235,7 +235,7 @@ I was the most eager of explorers. At the bottom of that valley a river once had
 as I examined the scene more closely I beheld the remains of stone and marble bridges and sea-walls,
 and terraces and embankments once verdant and beautiful. In my enthusiasm I became nearly as
 idiotic and sentimental as poor Klenze, and was very tardy in noticing that the southward current
-had ceased at last, allowing the U-29 to settle slowly down upon the sunken city as an a&euml;roplane
+had ceased at last, allowing the U-29 to settle slowly down upon the sunken city as an aëroplane
 settles upon a town of the upper earth. I was slow, too, in realising that the school of unusual
 dolphins had vanished.  
 
@@ -255,13 +255,13 @@ terrible antiquity, as though it were the remotest rather than the immediate anc
 art. Nor can I doubt that every detail of this massive product was fashioned from the virgin
 hillside rock of our planet. It is palpably a part of the valley wall, though how the vast interior
 was ever excavated I cannot imagine. Perhaps a cavern or series of caverns furnished the nucleus.
-Neither age nor submersion has corroded the pristine grandeur of this awful fane&mdash;for fane
-indeed it must be&mdash;and today after thousands of years it rests untarnished and inviolate
+Neither age nor submersion has corroded the pristine grandeur of this awful fane--for fane
+indeed it must be--and today after thousands of years it rests untarnished and inviolate
 in the endless night and silence of an ocean chasm.  
 
   I cannot reckon the number of hours I spent in gazing at the sunken city with
 its buildings, arches, statues, and bridges, and the colossal temple with its beauty and mystery.
-Though I knew that death was near, my curiosity was consuming; and I threw the searchlight&rsquo;s
+Though I knew that death was near, my curiosity was consuming; and I threw the searchlight's
 beam about in eager quest. The shaft of light permitted me to learn many details, but refused
 to shew anything within the gaping door of the rock-hewn temple; and after a time I turned off
 the current, conscious of the need of conserving power. The rays were now perceptibly dimmer
@@ -293,7 +293,7 @@ U-29, and with its aid walk up the temple steps and study the exterior carvings.
 light entered the door at an upward angle, and I peered in to see if I could glimpse anything,
 but all in vain. Not even the roof was visible; and though I took a step or two inside after
 testing the floor with a staff, I dared not go farther. Moreover, for the first time in my life
-I experienced the emotion of dread. I began to realise how some of poor Klenze&rsquo;s moods
+I experienced the emotion of dread. I began to realise how some of poor Klenze's moods
 had arisen, for as the temple drew me more and more, I feared its aqueous abysses with a blind
 and mounting terror. Returning to the submarine, I turned off the lights and sat thinking in
 the dark. Electricity must now be saved for emergencies.  
@@ -363,13 +363,13 @@ For the door and windows of the undersea temple hewn from the rocky hill were vi
 with a flickering radiance, as from a mighty altar-flame far within.    
 
   Later incidents are chaotic. As I stared at the uncannily lighted door and
-windows, I became subject to the most extravagant visions&mdash;visions so extravagant that
-I cannot even relate them. I fancied that I discerned objects in the temple&mdash;objects both
-stationary and moving&mdash;and seemed to hear again the unreal chant that had floated to me
+windows, I became subject to the most extravagant visions--visions so extravagant that
+I cannot even relate them. I fancied that I discerned objects in the temple--objects both
+stationary and moving--and seemed to hear again the unreal chant that had floated to me
 when first I awaked. And over all rose thoughts and fears which centred in the youth from the
 sea and the ivory image whose carving was duplicated on the frieze and columns of the temple
 before me. I thought of poor Klenze, and wondered where his body rested with the image he had
-carried back into the sea. He had warned me of something, and I had not heeded&mdash;but he
+carried back into the sea. He had warned me of something, and I had not heeded--but he
 was a soft-headed Rhinelander who went mad at troubles a Prussian could bear with ease.  
 
   The rest is very simple. My impulse to visit and enter the temple has now become

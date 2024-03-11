@@ -21,8 +21,8 @@ fourteen years ago, and has been avoided by me for several reasons. For one thin
 to exploiting certain unmistakably actual facts and conditions obviously unknown to the myriad
 tourists who throng about the pyramids and apparently secreted with much diligence by the authorities
 at Cairo, who cannot be wholly ignorant of them. For another thing, I dislike to recount an
-incident in which my own fantastic imagination must have played so great a part. What I saw&mdash;or
-thought I saw&mdash;certainly did not take place; but is rather to be viewed as a result of
+incident in which my own fantastic imagination must have played so great a part. What I saw--or
+thought I saw--certainly did not take place; but is rather to be viewed as a result of
 my then recent readings in Egyptology, and of the speculations anent this theme which my environment
 naturally prompted. These imaginative stimuli, magnified by the excitement of an actual event
 terrible enough in itself, undoubtedly gave rise to the culminating horror of that grotesque
@@ -40,7 +40,7 @@ which befall a magical performer apart from his work. I had intended, for the sa
 travel, to keep my name a secret; but was goaded into betraying myself by a fellow-magician
 whose anxiety to astound the passengers with ordinary tricks tempted me to duplicate and exceed
 his feats in a manner quite destructive of my incognito. I mention this because of its ultimate
-effect&mdash;an effect I should have foreseen before unmasking to a shipload of tourists about
+effect--an effect I should have foreseen before unmasking to a shipload of tourists about
 to scatter throughout the Nile Valley. What it did was to herald my identity wherever I subsequently
 went, and deprive my wife and me of all the placid inconspicuousness we had sought. Travelling
 to seek curiosities, I was often forced to stand inspection as a sort of curiosity myself!  
@@ -63,7 +63,7 @@ became a blaze as we halted at the great Gare Centrale.
 save the costumes and the crowds. A prosaic subway led to a square teeming with carriages, taxicabs,
 and trolley-cars, and gorgeous with electric lights shining on tall buildings; whilst the very
 theatre where I was vainly requested to play, and which I later attended as a spectator, had
-recently been renamed the &ldquo;American Cosmograph&rdquo;. We stopped at Shepherd&rsquo;s
+recently been renamed the  "American Cosmograph ". We stopped at Shepherd's
 Hotel, reached in a taxi that sped along broad, smartly built-up streets; and amidst the perfect
 service of its restaurant, elevators, and generally Anglo-American luxuries the mysterious East
 and immemorial past seemed very far away.  
@@ -72,16 +72,16 @@ and immemorial past seemed very far away.
 Nights atmosphere; and in the winding ways and exotic skyline of Cairo, the Bagdad of Haroun-al-Raschid
 seemed to live again. Guided by our Baedeker, we had struck east past the Ezbekiyeh Gardens
 along the Mouski in quest of the native quarter, and were soon in the hands of a clamorous cicerone
-who&mdash;notwithstanding later developments&mdash;was assuredly a master at his trade. Not
+who--notwithstanding later developments--was assuredly a master at his trade. Not
 until afterward did I see that I should have applied at the hotel for a licenced guide. This
 man, a shaven, peculiarly hollow-voiced, and relatively cleanly fellow who looked like a Pharaoh
-and called himself &ldquo;Abdul Reis el Drogman&rdquo;, appeared to have much power over others
+and called himself  "Abdul Reis el Drogman ", appeared to have much power over others
 of his kind; though subsequently the police professed not to know him, and to suggest that   
-reis   is merely a name for any person in authority, whilst &ldquo;Drogman&rdquo; is obviously
-no more than a clumsy modification of the word for a leader of tourist parties&mdash;  dragoman.    
+reis   is merely a name for any person in authority, whilst  "Drogman " is obviously
+no more than a clumsy modification of the word for a leader of tourist parties--  dragoman.    
 
   Abdul led us among such wonders as we had before only read and dreamed of.
-Old Cairo is itself a story-book and a dream&mdash;labyrinths of narrow alleys redolent of aromatic
+Old Cairo is itself a story-book and a dream--labyrinths of narrow alleys redolent of aromatic
 secrets; Arabesque balconies and oriels nearly meeting above the cobbled streets; maelstroms
 of Oriental traffic with strange cries, cracking whips, rattling carts, jingling money, and
 braying donkeys; kaleidoscopes of polychrome robes, veils, turbans, and tarbushes; water-carriers
@@ -90,12 +90,12 @@ crouched in alcoves, and the sonorous chanting of muezzins from minarets limned 
 a sky of deep, unchanging blue.  
 
   The roofed, quieter bazaars were hardly less alluring. Spice, perfume, incense,
-beads, rugs, silks, and brass&mdash;old Mahmoud Suleiman squats cross-legged amidst his gummy
+beads, rugs, silks, and brass--old Mahmoud Suleiman squats cross-legged amidst his gummy
 bottles while chattering youths pulverise mustard in the hollowed-out capital of an ancient
-classic column&mdash;a Roman Corinthian, perhaps from neighbouring Heliopolis, where Augustus
+classic column--a Roman Corinthian, perhaps from neighbouring Heliopolis, where Augustus
 stationed one of his three Egyptian legions. Antiquity begins to mingle with exoticism. And
-then the mosques and the museum&mdash;we saw them all, and tried not to let our Arabian revel
-succumb to the darker charm of Pharaonic Egypt which the museum&rsquo;s priceless treasures
+then the mosques and the museum--we saw them all, and tried not to let our Arabian revel
+succumb to the darker charm of Pharaonic Egypt which the museum's priceless treasures
 offered. That was to be our climax, and for the present we concentrated on the mediaeval Saracenic
 glories of the Caliphs whose magnificent tomb-mosques form a glittering faery necropolis on
 the edge of the Arabian Desert.  
@@ -104,16 +104,16 @@ the edge of the Arabian Desert.
 of Sultan Hassan, and the tower-flanked Bab-el-Azab, beyond which climbs the steep-walled pass
 to the mighty citadel that Saladin himself built with the stones of forgotten pyramids. It was
 sunset when we scaled that cliff, circled the modern mosque of Mohammed Ali, and looked down
-from the dizzying parapet over mystic Cairo&mdash;mystic Cairo all golden with its carven domes,
+from the dizzying parapet over mystic Cairo--mystic Cairo all golden with its carven domes,
 its ethereal minarets, and its flaming gardens. Far over the city towered the great Roman dome
-of the new museum; and beyond it&mdash;across the cryptic yellow Nile that is the mother of
-aeons and dynasties&mdash;lurked the menacing sands of the Libyan Desert, undulant and iridescent
+of the new museum; and beyond it--across the cryptic yellow Nile that is the mother of
+aeons and dynasties--lurked the menacing sands of the Libyan Desert, undulant and iridescent
 and evil with older arcana. The red sun sank low, bringing the relentless chill of Egyptian
-dusk; and as it stood poised on the world&rsquo;s rim like that ancient god of Heliopolis&mdash;Re-Harakhte,
-the Horizon-Sun&mdash;we saw silhouetted against its vermeil holocaust the black outlines of
-the Pyramids of Gizeh&mdash;the palaeogean tombs there were hoary with a thousand years when
+dusk; and as it stood poised on the world's rim like that ancient god of Heliopolis--Re-Harakhte,
+the Horizon-Sun--we saw silhouetted against its vermeil holocaust the black outlines of
+the Pyramids of Gizeh--the palaeogean tombs there were hoary with a thousand years when
 Tut-Ankh-Amen mounted his golden throne in distant Thebes. Then we knew that we were done with
-Saracen Cairo, and that we must taste the deeper mysteries of primal Egypt&mdash;the black Khem
+Saracen Cairo, and that we must taste the deeper mysteries of primal Egypt--the black Khem
 of Re and Amen, Isis and Osiris.  
 
   The next morning we visited the pyramids, riding out in a Victoria across the
@@ -143,13 +143,13 @@ height. In a line southwest from this are successively the Second Pyramid, built
 later by King Khephren, and though slightly smaller, looking even larger because set on higher
 ground, and the radically smaller Third Pyramid of King Mycerinus, built about 2700 B. C. Near
 the edge of the plateau and due east of the Second Pyramid, with a face probably altered to
-form a colossal portrait of Khephren, its royal restorer, stands the monstrous Sphinx&mdash;mute,
+form a colossal portrait of Khephren, its royal restorer, stands the monstrous Sphinx--mute,
 sardonic, and wise beyond mankind and memory.  
 
   Minor pyramids and the traces of ruined minor pyramids are found in several
 places, and the whole plateau is pitted with the tombs of dignitaries of less than royal rank.
 These latter were originally marked by   mastabas,   or stone bench-like structures about
-the deep burial shafts, as found in other Memphian cemeteries and exemplified by Perneb&rsquo;s
+the deep burial shafts, as found in other Memphian cemeteries and exemplified by Perneb's
 Tomb in the Metropolitan Museum of New York. At Gizeh, however, all such visible things have
 been swept away by time and pillage; and only the rock-hewn shafts, either sand-filled or cleared
 out by archaeologists, remain to attest their former existence. Connected with each tomb was
@@ -160,10 +160,10 @@ lay, were separate temples, each to the east of its corresponding pyramid, and c
 a causeway to a massive gate-chapel or propylon at the edge of the rock plateau.  
 
   The gate-chapel leading to the Second Pyramid, nearly buried in the drifting
-sands, yawns subterraneously southeast of the Sphinx. Persistent tradition dubs it the &ldquo;Temple
-of the Sphinx&rdquo;; and it may perhaps be rightly called such if the Sphinx indeed represents
-the Second Pyramid&rsquo;s builder Khephren. There are unpleasant tales of the Sphinx before
-Khephren&mdash;but whatever its elder features were, the monarch replaced them with his own
+sands, yawns subterraneously southeast of the Sphinx. Persistent tradition dubs it the  "Temple
+of the Sphinx "; and it may perhaps be rightly called such if the Sphinx indeed represents
+the Second Pyramid's builder Khephren. There are unpleasant tales of the Sphinx before
+Khephren--but whatever its elder features were, the monarch replaced them with his own
 that men might look at the colossus without fear. It was in the great gateway-temple that the
 life-size diorite statue of Khephren now in the Cairo Museum was found; a statue before which
 I stood in awe when I beheld it. Whether the whole edifice is now excavated I am not certain,
@@ -189,20 +189,20 @@ Re-Harakhte, for whose image the Sphinx was mistaken in a late dynasty; and thou
 the tablet between the great paws, we recalled what Thutmosis IV inscribed thereon, and the
 dream he had when a prince. It was then that the smile of the Sphinx vaguely displeased us,
 and made us wonder about the legends of subterranean passages beneath the monstrous creature,
-leading down, down, to depths none might dare hint at&mdash;depths connected with mysteries
+leading down, down, to depths none might dare hint at--depths connected with mysteries
 older than the dynastic Egypt we excavate, and having a sinister relation to the persistence
 of abnormal, animal-headed gods in the ancient Nilotic pantheon. Then, too, it was I asked myself
 an idle question whose hideous significance was not to appear for many an hour.  
 
   Other tourists now began to overtake us, and we moved on to the sand-choked
 Temple of the Sphinx, fifty yards to the southeast, which I have previously mentioned as the
-great gate of the causeway to the Second Pyramid&rsquo;s mortuary chapel on the plateau. Most
+great gate of the causeway to the Second Pyramid's mortuary chapel on the plateau. Most
 of it was still underground, and although we dismounted and descended through a modern passageway
 to its alabaster corridor and pillared hall, I felt that Abdul and the local German attendant
 had not shewn us all there was to see. After this we made the conventional circuit of the pyramid
 plateau, examining the Second Pyramid and the peculiar ruins of its mortuary chapel to the east,
 the Third Pyramid and its miniature southern satellites and ruined eastern chapel, the rock
-tombs and the honeycombings of the Fourth and Fifth Dynasties, and the famous Campell&rsquo;s
+tombs and the honeycombings of the Fourth and Fifth Dynasties, and the famous Campell's
 Tomb whose shadowy shaft sinks precipitously for 53 feet to a sinister sarcophagus which one
 of our camel-drivers divested of the cumbering sand after a vertiginous descent by rope.  
 
@@ -216,7 +216,7 @@ not only remote and glittering Cairo with its crowned citadel and background of 
 hills, but all the pyramids of the Memphian district as well, from Abu Roash on the north to
 the Dashur on the south. The Sakkara step-pyramid, which marks the evolution of the low   mastaba  
 into the true pyramid, shewed clearly and alluringly in the sandy distance. It is close to this
-transition-monument that the famed Tomb of Perneb was found&mdash;more than 400 miles north
+transition-monument that the famed Tomb of Perneb was found--more than 400 miles north
 of the Theban rock valley where Tut-Ankh-Amen sleeps. Again I was forced to silence through
 sheer awe. The prospect of such antiquity, and the secrets each hoary monument seemed to hold
 and brood over, filled me with a reverence and sense of immensity nothing else ever gave me.  
@@ -224,14 +224,14 @@ and brood over, filled me with a reverence and sense of immensity nothing else e
   Fatigued by our climb, and disgusted with the importunate Bedouins whose actions
 seemed to defy every rule of taste, we omitted the arduous detail of entering the cramped interior
 passages of any of the pyramids, though we saw several of the hardiest tourists preparing for
-the suffocating crawl through Cheops&rsquo; mightiest memorial. As we dismissed and overpaid
+the suffocating crawl through Cheops' mightiest memorial. As we dismissed and overpaid
 our local bodyguard and drove back to Cairo with Abdul Reis under the afternoon sun, we half
 regretted the omission we had made. Such fascinating things were whispered about lower pyramid
 passages not in the guide-books; passages whose entrances had been hastily blocked up and concealed
 by certain uncommunicative archaeologists who had found and begun to explore them. Of course,
 this whispering was largely baseless on the face of it; but it was curious to reflect how persistently
 visitors were forbidden to enter the pyramids at night, or to visit the lowest burrows and crypt
-of the Great Pyramid. Perhaps in the latter case it was the psychological effect which was feared&mdash;the
+of the Great Pyramid. Perhaps in the latter case it was the psychological effect which was feared--the
 effect on the visitor of feeling himself huddled down beneath a gigantic world of solid masonry;
 joined to the life he has known by the merest tube, in which he may only crawl, and which any
 accident or evil design might block. The whole subject seemed so weird and alluring that we
@@ -246,11 +246,11 @@ crowds were thinning, but were still very noisy and numerous when we came upon a
 Bedouins in the Suken-Nahhasin, or bazaar of the coppersmiths. Their apparent leader, an insolent
 youth with heavy features and saucily cocked tarbush, took some notice of us; and evidently
 recognised with no great friendliness my competent but admittedly supercilious and sneeringly
-disposed guide. Perhaps, I thought, he resented that odd reproduction of the Sphinx&rsquo;s half-smile
+disposed guide. Perhaps, I thought, he resented that odd reproduction of the Sphinx's half-smile
 which I had often remarked with amused irritation; or perhaps he did not like the hollow and
-sepulchral resonance of Abdul&rsquo;s voice. At any rate, the exchange of ancestrally opprobrious
+sepulchral resonance of Abdul's voice. At any rate, the exchange of ancestrally opprobrious
 language became very brisk; and before long Ali Ziz, as I heard the stranger called when called
-by no worse name, began to pull violently at Abdul&rsquo;s robe, an action quickly reciprocated,
+by no worse name, began to pull violently at Abdul's robe, an action quickly reciprocated,
 and leading to a spirited scuffle in which both combatants lost their sacredly cherished headgear
 and would have reached an even direr condition had I not intervened and separated them by main
 force.  
@@ -258,7 +258,7 @@ force.
   My interference, at first seemingly unwelcome on both sides, succeeded at last
 in effecting a truce. Sullenly each belligerent composed his wrath and his attire; and with
 an assumption of dignity as profound as it was sudden, the two formed a curious pact of honour
-which I soon learned is a custom of great antiquity in Cairo&mdash;a pact for the settlement
+which I soon learned is a custom of great antiquity in Cairo--a pact for the settlement
 of their difference by means of a nocturnal fist fight atop the Great Pyramid, long after the
 departure of the last moonlight sightseer. Each duellist was to assemble a party of seconds,
 and the affair was to begin at midnight, proceeding by rounds in the most civilised possible
@@ -267,11 +267,11 @@ to be unique and spectacular, while the thought of the scene on that hoary pile 
 the antediluvian plateau of Gizeh under the wan moon of the pallid small hours appealed to every
 fibre of imagination in me. A request found Abdul exceedingly willing to admit me to his party
 of seconds; so that all the rest of the early evening I accompanied him to various dens in the
-most lawless regions of the town&mdash;mostly northeast of the Ezbekiyeh&mdash;where he gathered
+most lawless regions of the town--mostly northeast of the Ezbekiyeh--where he gathered
 one by one a select and formidable band of congenial cutthroats as his pugilistic background.  
 
   Shortly after nine our party, mounted on donkeys bearing such royal or tourist-reminiscent
-names as &ldquo;Rameses&rdquo;, &ldquo;Mark Twain&rdquo;, &ldquo;J. P. Morgan&rdquo;, and &ldquo;Minnehaha&rdquo;,
+names as  "Rameses ",  "Mark Twain ",  "J. P. Morgan ", and  "Minnehaha ",
 edged through street labyrinths both Oriental and Occidental, crossed the muddy and mast-forested
 Nile by the bridge of the bronze lions, and cantered philosophically between the lebbakhs on
 the road to Gizeh. Slightly over two hours were consumed by the trip, toward the end of which
@@ -280,22 +280,22 @@ alone with the night and the past and the spectral moon.
 
   Then we saw the vast pyramids at the end of the avenue, ghoulish with a dim
 atavistical menace which I had not seemed to notice in the daytime. Even the smallest of them
-held a hint of the ghastly&mdash;for was it not in this that they had buried Queen Nitokris
+held a hint of the ghastly--for was it not in this that they had buried Queen Nitokris
 alive in the Sixth Dynasty; subtle Queen Nitokris, who once invited all her enemies to a feast
 in a temple below the Nile, and drowned them by opening the water-gates? I recalled that the
 Arabs whisper things about Nitokris, and shun the Third Pyramid at certain phases of the moon.
 It must have been over her that Thomas Moore was brooding when he wrote a thing muttered about
-by Memphian boatmen&mdash;    
+by Memphian boatmen--    
 
-          &ldquo;The
-subterranean nymph that dwells  &rsquo;Mid sunless gems and glories hid&mdash;  The lady
-of the Pyramid!&rdquo;            
+           "The
+subterranean nymph that dwells  'Mid sunless gems and glories hid--  The lady
+of the Pyramid! "            
 
   Early as we were, Ali Ziz and his party were ahead of us; for we saw their
 donkeys outlined against the desert plateau at Kafr-el-Haram; toward which squalid Arab settlement,
 close to the Sphinx, we had diverged instead of following the regular road to the Mena House,
 where some of the sleepy, inefficient police might have observed and halted us. Here, where
-filthy Bedouins stabled camels and donkeys in the rock tombs of Khephren&rsquo;s courtiers,
+filthy Bedouins stabled camels and donkeys in the rock tombs of Khephren's courtiers,
 we were led up the rocks and over the sand to the Great Pyramid, up whose time-worn sides the
 Arabs swarmed eagerly, Abdul Reis offering me the assistance I did not need.  
 
@@ -304,7 +304,7 @@ away, leaving a reasonably flat platform twelve yards square. On this eerie pinn
 circle was formed, and in a few moments the sardonic desert moon leered down upon a battle which,
 but for the quality of the ringside cries, might well have occurred at some minor athletic club
 in America. As I watched it, I felt that some of our less desirable institutions were not lacking;
-for every blow, feint, and defence bespoke &ldquo;stalling&rdquo; to my not inexperienced eye.
+for every blow, feint, and defence bespoke  "stalling " to my not inexperienced eye.
 It was quickly over, and despite my misgivings as to methods I felt a sort of proprietary pride
 when Abdul Reis was adjudged the winner.  
 
@@ -316,13 +316,13 @@ escapes from every sort of manacle and confinement, in a manner which indicated 
 knowledge of me, but a distinct hostility and scepticism concerning my feats of escape. It gradually
 dawned on me that the elder magic of Egypt did not depart without leaving traces, and that fragments
 of a strange secret lore and priestly cult-practices have survived surreptitiously amongst the
-fellaheen to such an extent that the prowess of a strange &ldquo;hahwi&rdquo; or magician is
+fellaheen to such an extent that the prowess of a strange  "hahwi " or magician is
 resented and disputed. I thought of how much my hollow-voiced guide Abdul Reis looked like an
-old Egyptian priest or Pharaoh or smiling Sphinx&nbsp;.&nbsp;.&nbsp;. and wondered.  
+old Egyptian priest or Pharaoh or smiling Sphinx . . . and wondered.  
 
   Suddenly something happened which in a flash proved the correctness of my reflections
-and made me curse the denseness whereby I had accepted this night&rsquo;s events as other than
-the empty and malicious &ldquo;frameup&rdquo; they now shewed themselves to be. Without warning,
+and made me curse the denseness whereby I had accepted this night's events as other than
+the empty and malicious  "frameup " they now shewed themselves to be. Without warning,
 and doubtless in answer to some subtle sign from Abdul, the entire band of Bedouins precipitated
 itself upon me; and having produced heavy ropes, soon had me bound as securely as I was ever
 bound in the course of my life, either on the stage or off. I struggled at first, but soon saw
@@ -331,8 +331,8 @@ were tied behind my back, my knees bent to their fullest extent, and my wrists a
 linked together with unyielding cords. A stifling gag was forced into my mouth, and a blindfold
 fastened tightly over my eyes. Then, as the Arabs bore me aloft on their shoulders and began
 a jouncing descent of the pyramid, I heard the taunts of my late guide Abdul, who mocked and
-jeered delightedly in his hollow voice, and assured me that I was soon to have my &ldquo;magic
-powers&rdquo; put to a supreme test which would quickly remove any egotism I might have gained
+jeered delightedly in his hollow voice, and assured me that I was soon to have my  "magic
+powers " put to a supreme test which would quickly remove any egotism I might have gained
 through triumphing over all the tests offered by America and Europe. Egypt, he reminded me,
 is very old; and full of inner mysteries and antique powers not even conceivable to the experts
 of today, whose devices had so uniformly failed to entrap me.  
@@ -341,7 +341,7 @@ of today, whose devices had so uniformly failed to entrap me.
 were all against the formation of any accurate judgment. I know, however, that it could not
 have been a great distance; since my bearers at no point hastened beyond a walk, yet kept me
 aloft a surprisingly short time. It is this perplexing brevity which makes me feel almost like
-shuddering whenever I think of Gizeh and its plateau&mdash;for one is oppressed by hints of
+shuddering whenever I think of Gizeh and its plateau--for one is oppressed by hints of
 the closeness to every-day tourist routes of what existed then and must exist still.  
 
   The evil abnormality I speak of did not become manifest at first. Setting me
@@ -370,13 +370,13 @@ pain. My nostrils, too, were assailed by a scarcely definable menace; a creeping
 and staleness curiously unlike anything I had ever smelt before, and having faint overtones
 of spice and incense that lent an element of mockery.  
 
-  Then the mental cataclysm came. It was horrible&mdash;hideous beyond all articulate
+  Then the mental cataclysm came. It was horrible--hideous beyond all articulate
 description because it was all of the soul, with nothing of detail to describe. It was the ecstasy
-of nightmare and the summation of the fiendish. The suddenness of it was apocalyptic and daemoniac&mdash;one
+of nightmare and the summation of the fiendish. The suddenness of it was apocalyptic and daemoniac--one
 moment I was plunging agonisingly down that narrow well of million-toothed torture, yet the
 next moment I was soaring on bat-wings in the gulfs of hell; swinging free and swoopingly through
 illimitable miles of boundless, musty space; rising dizzily to measureless pinnacles of chilling
-ether, then diving gaspingly to sucking nadirs of ravenous, nauseous lower vacua.&nbsp;.&nbsp;.&nbsp;.
+ether, then diving gaspingly to sucking nadirs of ravenous, nauseous lower vacua. . . .
 Thank God for the mercy that shut out in oblivion those clawing Furies of consciousness which
 half unhinged my faculties, and tore Harpy-like at my spirit! That one respite, short as it
 was, gave me the strength and sanity to endure those still greater sublimations of cosmic panic
@@ -388,7 +388,7 @@ It was very gradually that I regained my senses after that eldritch flight throu
 The process was infinitely painful, and coloured by fantastic dreams in which my bound and gagged
 condition found singular embodiment. The precise nature of these dreams was very clear while
 I was experiencing them, but became blurred in my recollection almost immediately afterward,
-and was soon reduced to the merest outline by the terrible events&mdash;real or imaginary&mdash;which
+and was soon reduced to the merest outline by the terrible events--real or imaginary--which
 followed. I dreamed that I was in the grasp of a great and horrible paw; a yellow, hairy, five-clawed
 paw which had reached out of the earth to crush and engulf me. And when I stopped to reflect
 what the paw was, it seemed to me that it was Egypt. In the dream I looked back at the events
@@ -413,17 +413,17 @@ heart.
   Then the dream-faces took on human resemblances, and I saw my guide Abdul Reis
 in the robes of a king, with the sneer of the Sphinx on his features. And I knew that those
 features were the features of Khephren the Great, who raised the Second Pyramid, carved over
-the Sphinx&rsquo;s face in the likeness of his own, and built that titanic gateway temple whose
+the Sphinx's face in the likeness of his own, and built that titanic gateway temple whose
 myriad corridors the archaeologists think they have dug out of the cryptical sand and the uninformative
 rock. And I looked at the long, lean, rigid hand of Khephren; the long, lean, rigid hand as
-I had seen it on the diorite statue in the Cairo Museum&mdash;the statue they had found in the
-terrible gateway temple&mdash;and wondered that I had not shrieked when I saw it on Abdul Reis.&nbsp;.&nbsp;.&nbsp;.
+I had seen it on the diorite statue in the Cairo Museum--the statue they had found in the
+terrible gateway temple--and wondered that I had not shrieked when I saw it on Abdul Reis. . . .
 That hand! It was hideously cold, and it was crushing me; it was the cold and cramping of the
-sarcophagus&nbsp;.&nbsp;.&nbsp;. the chill and constriction of unrememberable Egypt.&nbsp;.&nbsp;.&nbsp;.
-It was nighted, necropolitan Egypt itself&nbsp;.&nbsp;.&nbsp;. that yellow paw&nbsp;.&nbsp;.&nbsp;.
-and they whisper such things of Khephren.&nbsp;.&nbsp;.&nbsp;.  
+sarcophagus . . . the chill and constriction of unrememberable Egypt. . . .
+It was nighted, necropolitan Egypt itself . . . that yellow paw . . .
+and they whisper such things of Khephren. . . .  
 
-  But at this juncture I began to awake&mdash;or at least, to assume a condition
+  But at this juncture I began to awake--or at least, to assume a condition
 less completely that of sleep than the one just preceding. I recalled the fight atop the pyramid,
 the treacherous Bedouins and their attack, my frightful descent by rope through endless rock
 depths, and my mad swinging and plunging in a chill void redolent of aromatic putrescence. I
@@ -441,7 +441,7 @@ which had characterised my descent.
 
   Knowing at least that I was in a space of considerable extent reached from
 the surface directly above by an opening in the rock, I doubtfully conjectured that my prison
-was perhaps the buried gateway chapel of old Khephren&mdash;the Temple of the Sphinx&mdash;perhaps
+was perhaps the buried gateway chapel of old Khephren--the Temple of the Sphinx--perhaps
 some inner corridor which the guides had not shewn me during my morning visit, and from which
 I might easily escape if I could find my way to the barred entrance. It would be a labyrinthine
 wandering, but no worse than others out of which I had in the past found my way. The first step
@@ -452,7 +452,7 @@ and varied career as an exponent of escape, yet had never succeeded in defeating
   Then it occurred to me that the Arabs might be ready to meet and attack me
 at the entrance upon any evidence of my probable escape from the binding cords, as would be
 furnished by any decided agitation of the rope which they probably held. This, of course, was
-taking for granted that my place of confinement was indeed Khephren&rsquo;s Temple of the Sphinx.
+taking for granted that my place of confinement was indeed Khephren's Temple of the Sphinx.
 The direct opening in the roof, wherever it might lurk, could not be beyond easy reach of the
 ordinary modern entrance near the Sphinx; if in truth it were any great distance at all on the
 surface, since the total area known to visitors is not at all enormous. I had not noticed any
@@ -467,8 +467,8 @@ betray an effective or even problematical attempt at freedom.
 trials made it clear that little could be accomplished without considerable motion; and it did
 not surprise me when, after one especially energetic struggle, I began to feel the coils of
 falling rope as they piled up about me and upon me. Obviously, I thought, the Bedouins had felt
-my movements and released their end of the rope; hastening no doubt to the temple&rsquo;s true
-entrance to lie murderously in wait for me. The prospect was not pleasing&mdash;but I had faced
+my movements and released their end of the rope; hastening no doubt to the temple's true
+entrance to lie murderously in wait for me. The prospect was not pleasing--but I had faced
 worse in my time without flinching, and would not flinch now. At present I must first of all
 free myself of bonds, then trust to ingenuity to escape from the temple unharmed. It is curious
 how implicitly I had come to believe myself in the old temple of Khephren beside the Sphinx,
@@ -482,8 +482,8 @@ could possibly do. It gained in momentum and became an avalanche of hemp, accumu
 on the floor, and half burying me beneath its swiftly multiplying coils. Soon I was completely
 engulfed and gasping for breath as the increasing convolutions submerged and stifled me. My
 senses tottered again, and I vainly tried to fight off a menace desperate and ineluctable. It
-was not merely that I was tortured beyond human endurance&mdash;not merely that life and breath
-seemed to be crushed slowly out of me&mdash;it was the knowledge of   what those unnatural
+was not merely that I was tortured beyond human endurance--not merely that life and breath
+seemed to be crushed slowly out of me--it was the knowledge of   what those unnatural
 lengths of rope implied,   and the consciousness of what unknown and incalculable gulfs of
 inner earth must at this moment be surrounding me. My endless descent and swinging flight through
 goblin space, then, must have been real; and even now I must be lying helpless in some nameless
@@ -492,7 +492,7 @@ insupportable, and a second time I lapsed into merciful oblivion.
 
   When I say oblivion, I do not imply that I was free from dreams. On the contrary,
 my absence from the conscious world was marked by visions of the most unutterable hideousness.
-God!&nbsp;.&nbsp;.&nbsp;. If only I had not read so much Egyptology before coming to this land which
+God! . . . If only I had not read so much Egyptology before coming to this land which
 is the fountain of all darkness and terror! This second spell of fainting filled my sleeping
 mind anew with shivering realisation of the country and its archaic secrets, and through some
 damnable chance my dreams turned to the ancient notions of the dead and their sojournings in
@@ -507,50 +507,50 @@ vital organs in canopic jars near the corpse; whilst besides the body they belie
 elements, the soul, which after its weighing and approval by Osiris dwelt in the land of the
 blest, and the obscure and portentous   ka   or life-principle which wandered about the upper
 and lower worlds in a horrible way, demanding occasional access to the preserved body, consuming
-the food offerings brought by priests and pious relatives to the mortuary chapel, and sometimes&mdash;as
-men whispered&mdash;taking its body or the wooden double always buried beside it and stalking
+the food offerings brought by priests and pious relatives to the mortuary chapel, and sometimes--as
+men whispered--taking its body or the wooden double always buried beside it and stalking
 noxiously abroad on errands peculiarly repellent.  
 
   For thousands of years those bodies rested gorgeously encased and staring glassily
 upward when not visited by the   ka,   awaiting the day when Osiris should restore both   
 ka   and soul, and lead forth the stiff legions of the dead from the sunken houses of sleep.
-It was to have been a glorious rebirth&mdash;but not all souls were approved, nor were all tombs
+It was to have been a glorious rebirth--but not all souls were approved, nor were all tombs
 inviolate, so that certain grotesque   mistakes   and fiendish   abnormalities   were
 to be looked for. Even today the Arabs murmur of unsanctified convocations and unwholesome worship
 in forgotten nether abysses, which only winged invisible   kas   and soulless mummies may
 visit and return unscathed.  
 
   Perhaps the most leeringly blood-congealing legends are those which relate
-to certain perverse products of decadent priestcraft&mdash;  composite mummies   made by
+to certain perverse products of decadent priestcraft--  composite mummies   made by
 the artificial union of human trunks and limbs with the heads of animals in imitation of the
 elder gods. At all stages of history the sacred animals were mummified, so that consecrated
 bulls, cats, ibises, crocodiles, and the like might return some day to greater glory. But only
-in the decadence did they mix the human and animal in the same mummy&mdash;only in the decadence,
+in the decadence did they mix the human and animal in the same mummy--only in the decadence,
 when they did not understand the rights and prerogatives of the   ka   and the soul. What
-happened to those composite mummies is not told of&mdash;at least publicly&mdash;and it is certain
+happened to those composite mummies is not told of--at least publicly--and it is certain
 that no Egyptologist ever found one. The whispers of Arabs are very wild, and cannot be relied
-upon. They even hint that old Khephren&mdash;he of the Sphinx, the Second Pyramid, and the yawning
-gateway temple&mdash;lives far underground wedded to the ghoul-queen Nitokris and ruling over
+upon. They even hint that old Khephren--he of the Sphinx, the Second Pyramid, and the yawning
+gateway temple--lives far underground wedded to the ghoul-queen Nitokris and ruling over
 the mummies that are neither of man nor of beast.  
 
-  It was of these&mdash;of Khephren and his consort and his strange armies of
-the hybrid dead&mdash;that I dreamed, and that is why I am glad the exact dream-shapes have
+  It was of these--of Khephren and his consort and his strange armies of
+the hybrid dead--that I dreamed, and that is why I am glad the exact dream-shapes have
 faded from my memory. My most horrible vision was connected with an idle question I had asked
 myself the day before when looking at the great carven riddle of the desert and wondering with
 what unknown depths the temple so close to it might be secretly connected. That question, so
-innocent and whimsical then, assumed in my dream a meaning of frenetic and hysterical madness&nbsp;.&nbsp;.&nbsp;.
+innocent and whimsical then, assumed in my dream a meaning of frenetic and hysterical madness . . .
   what huge and loathsome abnormality was the Sphinx originally carven to represent?    
 
-  My second awakening&mdash;if awakening it was&mdash;is a memory of stark hideousness
-which nothing else in my life&mdash;save one thing which came after&mdash;can parallel; and
-that life has been full and adventurous beyond most men&rsquo;s. Remember that I had lost consciousness
+  My second awakening--if awakening it was--is a memory of stark hideousness
+which nothing else in my life--save one thing which came after--can parallel; and
+that life has been full and adventurous beyond most men's. Remember that I had lost consciousness
 whilst buried beneath a cascade of falling rope whose immensity revealed the cataclysmic depth
 of my present position. Now, as perception returned, I felt the entire weight gone; and realised
 upon rolling over that although I was still tied, gagged, and blindfolded,   some agency had
 removed completely the suffocating hempen landslide which had overwhelmed me.   The significance
 of this condition, of course, came to me only gradually; but even so I think it would have brought
 unconsciousness again had I not by this time reached such a state of emotional exhaustion that
-no new horror could make much difference. I was alone&nbsp;.&nbsp;.&nbsp;. with   what?    
+no new horror could make much difference. I was alone . . . with   what?    
 
   Before I could torture myself with any new reflection, or make any fresh effort
 to escape from my bonds, an additional circumstance became manifest. Pains not formerly felt
@@ -594,8 +594,8 @@ to keep track of this landmark and to walk consistently toward it.
 course the pockets of my tossed and tattered clothing were long since emptied of all heavy articles.
 As I walked cautiously in the blackness, the draught grew stronger and more offensive, till
 at length I could regard it as nothing less than a tangible stream of detestable vapour pouring
-out of some aperture like the smoke of the genie from the fisherman&rsquo;s jar in the Eastern
-tale. The East&nbsp;.&nbsp;.&nbsp;. Egypt&nbsp;.&nbsp;.&nbsp;. truly, this dark cradle of civilisation
+out of some aperture like the smoke of the genie from the fisherman's jar in the Eastern
+tale. The East . . . Egypt . . . truly, this dark cradle of civilisation
 was ever the well-spring of horrors and marvels unspeakable! The more I reflected on the nature
 of this cavern wind, the greater my sense of disquiet became; for although despite its odour
 I had sought its source as at least an indirect clue to the outer world, I now saw plainly that
@@ -603,19 +603,19 @@ this foul emanation could have no admixture or connexion whatsoever with the cle
 Libyan Desert, but must be essentially a thing vomited from sinister gulfs still lower down.
 I had, then, been walking in the wrong direction!  
 
-  After a moment&rsquo;s reflection I decided not to retrace my steps. Away from
+  After a moment's reflection I decided not to retrace my steps. Away from
 the draught I would have no landmarks, for the roughly level rock floor was devoid of distinctive
 configurations. If, however, I followed up the strange current, I would undoubtedly arrive at
 an aperture of some sort, from whose gate I could perhaps work round the walls to the opposite
 side of this Cyclopean and otherwise unnavigable hall. That I might fail, I well realised. I
-saw that this was no part of Khephren&rsquo;s gateway temple which tourists know, and it struck
+saw that this was no part of Khephren's gateway temple which tourists know, and it struck
 me that this particular hall might be unknown even to archaeologists, and merely stumbled upon
 by the inquisitive and malignant Arabs who had imprisoned me. If so, was there any present gate
 of escape to the known parts or to the outer air?  
 
   What evidence, indeed, did I now possess that this was the gateway temple at
 all? For a moment all my wildest speculations rushed back upon me, and I thought of that vivid
-m&eacute;lange of impressions&mdash;descent, suspension in space, the rope, my wounds, and the
+mélange of impressions--descent, suspension in space, the rope, my wounds, and the
 dreams that were frankly dreams. Was this the end of life for me? Or indeed, would it be merciful
 if this moment   were   the end? I could answer none of my own questions, but merely kept
 on till Fate for a third time reduced me to oblivion. This time there were no dreams, for the
@@ -634,54 +634,54 @@ the healing balm of the outer air and of the rising sun which found me stretched
 of Gizeh before the sardonic and dawn-flushed face of the Great Sphinx.  
 
   I prefer to believe this latter explanation as much as I can, hence was glad
-when the police told me that the barrier to Khephren&rsquo;s gateway temple had been found unfastened,
+when the police told me that the barrier to Khephren's gateway temple had been found unfastened,
 and that a sizeable rift to the surface did actually exist in one corner of the still buried
 part. I was glad, too, when the doctors pronounced my wounds only those to be expected from
-my seizure, blindfolding, lowering, struggling with bonds, falling some distance&mdash;perhaps
-into a depression in the temple&rsquo;s inner gallery&mdash;dragging myself to the outer barrier
-and escaping from it, and experiences like that&nbsp;.&nbsp;.&nbsp;. a very soothing diagnosis. And
+my seizure, blindfolding, lowering, struggling with bonds, falling some distance--perhaps
+into a depression in the temple's inner gallery--dragging myself to the outer barrier
+and escaping from it, and experiences like that . . . a very soothing diagnosis. And
 yet I know that there must be more than appears on the surface. That extreme descent is too
-vivid a memory to be dismissed&mdash;and it is odd that no one has ever been able to find a
-man answering the description of my guide Abdul Reis el Drogman&mdash;the tomb-throated guide
+vivid a memory to be dismissed--and it is odd that no one has ever been able to find a
+man answering the description of my guide Abdul Reis el Drogman--the tomb-throated guide
 who looked and smiled like King Khephren.  
 
-  I have digressed from my connected narrative&mdash;perhaps in the vain hope
+  I have digressed from my connected narrative--perhaps in the vain hope
 of evading the telling of that final incident; that incident which of all is most certainly
-an hallucination. But I promised to relate it, and do not break promises. When I recovered&mdash;or
-seemed to recover&mdash;my senses after that fall down the black stone stairs, I was quite as
+an hallucination. But I promised to relate it, and do not break promises. When I recovered--or
+seemed to recover--my senses after that fall down the black stone stairs, I was quite as
 alone and in darkness as before. The windy stench, bad enough before, was now fiendish; yet
 I had acquired enough familiarity by this time to bear it stoically. Dazedly I began to crawl
 away from the place whence the putrid wind came, and with my bleeding hands felt the colossal
 blocks of a mighty pavement. Once my head struck against a hard object, and when I felt of it
-I learned that it was the base of a column&mdash;a column of unbelievable immensity&mdash;whose
+I learned that it was the base of a column--a column of unbelievable immensity--whose
 surface was covered with gigantic chiselled hieroglyphics very perceptible to my touch. Crawling
 on, I encountered other titan columns at incomprehensible distances apart; when suddenly my
 attention was captured by the realisation of something which must have been impinging on my
 subconscious hearing long before the conscious sense was aware of it.  
 
-  From some still lower chasm in earth&rsquo;s bowels were proceeding certain
+  From some still lower chasm in earth's bowels were proceeding certain
   sounds,   measured and definite, and like nothing I had ever heard before. That they were
 very ancient and distinctly ceremonial, I felt almost intuitively; and much reading in Egyptology
 led me to associate them with the flute, the sambuke, the sistrum, and the tympanum. In their
 rhythmic piping, droning, rattling, and beating I felt an element of terror beyond all the known
-terrors of earth&mdash;a terror peculiarly dissociated from personal fear, and taking the form
+terrors of earth--a terror peculiarly dissociated from personal fear, and taking the form
 of a sort of objective pity for our planet, that it should hold within its depths such horrors
 as must lie beyond these aegipanic cacophonies. The sounds increased in volume, and I felt that
-they were approaching. Then&mdash;and may all the gods of all pantheons unite to keep the like
-from my ears again&mdash;I began to hear, faintly and afar off,   the morbid and millennial
+they were approaching. Then--and may all the gods of all pantheons unite to keep the like
+from my ears again--I began to hear, faintly and afar off,   the morbid and millennial
 tramping of the marching things.    
 
   It was hideous that footfalls so   dissimilar   should move in such perfect
-rhythm. The training of unhallowed thousands of years must lie behind that march of earth&rsquo;s
-inmost monstrosities&nbsp;.&nbsp;.&nbsp;. padding, clicking, walking, stalking, rumbling, lumbering,
-crawling&nbsp;.&nbsp;.&nbsp;. and all to the abhorrent discords of those mocking instruments.
-And then&nbsp;.&nbsp;.&nbsp;. God keep the memory of those Arab legends out of my head! The
-mummies without souls&nbsp;.&nbsp;.&nbsp;. the meeting-place of the wandering   kas  &nbsp;.&nbsp;.&nbsp;.
-the hordes of the devil-cursed pharaonic dead of forty centuries&nbsp;.&nbsp;.&nbsp;. the   
+rhythm. The training of unhallowed thousands of years must lie behind that march of earth's
+inmost monstrosities . . . padding, clicking, walking, stalking, rumbling, lumbering,
+crawling . . . and all to the abhorrent discords of those mocking instruments.
+And then . . . God keep the memory of those Arab legends out of my head! The
+mummies without souls . . . the meeting-place of the wandering   kas   . . .
+the hordes of the devil-cursed pharaonic dead of forty centuries . . . the   
 composite mummies   led through the uttermost onyx voids by King Khephren and his ghoul-queen
-Nitokris.&nbsp;.&nbsp;.&nbsp;.  
+Nitokris. . . .  
 
-  The tramping drew nearer&mdash;heaven save me from the sound of those feet
+  The tramping drew nearer--heaven save me from the sound of those feet
 and paws and hooves and pads and talons as it commenced to acquire detail! Down limitless reaches
 of sunless pavement a spark of light flickered in the malodorous wind, and I drew behind the
 enormous circumference of a Cyclopic column that I might escape for a while the horror that
@@ -689,46 +689,46 @@ was stalking million-footed toward me through gigantic hypostyles of inhuman dre
 antiquity. The flickers increased, and the tramping and dissonant rhythm grew sickeningly loud.
 In the quivering orange light there stood faintly forth a scene of such stony awe that I gasped
 from a sheer wonder that conquered even fear and repulsion. Bases of columns whose middles were
-higher than human sight&nbsp;.&nbsp;.&nbsp;. mere bases of things that must each dwarf the Eiffel
-Tower to insignificance&nbsp;.&nbsp;.&nbsp;. hieroglyphics carved by unthinkable hands in caverns
-where daylight can be only a remote legend.&nbsp;.&nbsp;.&nbsp;.  
+higher than human sight . . . mere bases of things that must each dwarf the Eiffel
+Tower to insignificance . . . hieroglyphics carved by unthinkable hands in caverns
+where daylight can be only a remote legend. . . .  
 
   I   would not   look at the marching things. That I desperately resolved
 as I heard their creaking joints and nitrous wheezing above the dead music and the dead tramping.
-It was merciful that they did not speak&nbsp;.&nbsp;.&nbsp;. but God!   their crazy torches
+It was merciful that they did not speak . . . but God!   their crazy torches
 began to cast shadows on the surface of those stupendous columns.   Heaven take it away!   
-Hippopotami should not have human hands and carry torches&nbsp;.&nbsp;.&nbsp;. men should not
-have the heads of crocodiles.&nbsp;.&nbsp;.&nbsp;.    
+Hippopotami should not have human hands and carry torches . . . men should not
+have the heads of crocodiles. . . .    
 
   I tried to turn away, but the shadows and the sounds and the stench were everywhere.
 Then I remembered something I used to do in half-conscious nightmares as a boy, and began to
-repeat to myself, &ldquo;This is a dream! This is a dream!&rdquo; But it was of no use, and
-I could only shut my eyes and pray&nbsp;.&nbsp;.&nbsp;. at least, that is what I think I did,
-for one is never sure in visions&mdash;and I know this can have been nothing more. I wondered
+repeat to myself,  "This is a dream! This is a dream! " But it was of no use, and
+I could only shut my eyes and pray . . . at least, that is what I think I did,
+for one is never sure in visions--and I know this can have been nothing more. I wondered
 whether I should ever reach the world again, and at times would furtively open my eyes to see
 if I could discern any feature of the place other than the wind of spiced putrefaction, the
 topless columns, and the thaumatropically grotesque shadows of abnormal horror. The sputtering
 glare of multiplying torches now shone, and unless this hellish place were wholly without walls,
 I could not fail to see some boundary or fixed landmark soon. But I had to shut my eyes again
-when I realised   how many   of the things were assembling&mdash;and when I glimpsed a certain
+when I realised   how many   of the things were assembling--and when I glimpsed a certain
 object walking solemnly and steadily   without any body above the waist.    
 
-  A fiendish and ululant corpse-gurgle or death-rattle now split the very atmosphere&mdash;the
-charnel atmosphere poisonous with naphtha and bitumen blasts&mdash;in one concerted chorus from
+  A fiendish and ululant corpse-gurgle or death-rattle now split the very atmosphere--the
+charnel atmosphere poisonous with naphtha and bitumen blasts--in one concerted chorus from
 the ghoulish legion of hybrid blasphemies. My eyes, perversely shaken open, gazed for an instant
 upon a sight which no human creature could even imagine without panic fear and physical exhaustion.
 The things had filed ceremonially in one direction, the direction of the noisome wind, where
-the light of their torches shewed their bended heads&nbsp;.&nbsp;.&nbsp;. or the bended heads of
-such as had heads.&nbsp;.&nbsp;.&nbsp;. They were worshipping before a great black foetor-belching
+the light of their torches shewed their bended heads . . . or the bended heads of
+such as had heads. . . . They were worshipping before a great black foetor-belching
 aperture which reached up almost out of sight, and which I could see was flanked at right angles
 by two giant staircases whose ends were far away in shadow. One of these was indubitably the
 staircase I had fallen down.  
 
-  The dimensions of the hole were fully in proportion with those of the columns&mdash;an
+  The dimensions of the hole were fully in proportion with those of the columns--an
 ordinary house would have been lost in it, and any average public building could easily have
 been moved in and out. It was so vast a surface that only by moving the eye could one trace
-its boundaries&nbsp;.&nbsp;.&nbsp;. so vast, so hideously black, and so aromatically stinking.&nbsp;.&nbsp;.&nbsp;.
-Directly in front of this yawning Polyphemus-door the things were throwing objects&mdash;evidently
+its boundaries . . . so vast, so hideously black, and so aromatically stinking. . . .
+Directly in front of this yawning Polyphemus-door the things were throwing objects--evidently
 sacrifices or religious offerings, to judge by their gestures. Khephren was their leader; sneering
 King Khephren   or the guide Abdul Reis,   crowned with a golden pshent and intoning endless
 formulae with the hollow voice of the dead. By his side knelt beautiful Queen Nitokris, whom
@@ -739,16 +739,16 @@ offerings to the foetid aperture or its possible local deity.
   It occurred to me that judging from the elaborateness of this worship, the
 concealed deity must be one of considerable importance. Was it Osiris or Isis, Horus or Anubis,
 or some vast unknown God of the Dead still more central and supreme? There is a legend that
-terrible altars and colossi were reared to an Unknown One before ever the known gods were worshipped.&nbsp;.&nbsp;.&nbsp;.  
+terrible altars and colossi were reared to an Unknown One before ever the known gods were worshipped. . . .  
 
   And now, as I steeled myself to watch the rapt and sepulchral adorations of
 those nameless things, a thought of escape flashed upon me. The hall was dim, and the columns
 heavy with shadow. With every creature of that nightmare throng absorbed in shocking raptures,
 it might be barely possible for me to creep past to the faraway end of one of the staircases
 and ascend unseen; trusting to Fate and skill to deliver me from the upper reaches. Where I
-was, I neither knew nor seriously reflected upon&mdash;and for a moment it struck me as amusing
+was, I neither knew nor seriously reflected upon--and for a moment it struck me as amusing
 to plan a serious escape from that which I knew to be a dream. Was I in some hidden and unsuspected
-lower realm of Khephren&rsquo;s gateway temple&mdash;that temple which generations have persistently
+lower realm of Khephren's gateway temple--that temple which generations have persistently
 called the Temple of the Sphinx? I could not conjecture, but I resolved to ascend to life and
 consciousness if wit and muscle could carry me.  
 
@@ -770,7 +770,7 @@ the ascent seemed virtually interminable. Dread of discovery and the pain which 
 had brought to my wounds combined to make that upward crawl a thing of agonising memory. I had
 intended, on reaching the landing, to climb immediately onward along whatever upper staircase
 might mount from there; stopping for no last look at the carrion abominations that pawed and
-genuflected some seventy or eighty feet below&mdash;yet a sudden repetition of that thunderous
+genuflected some seventy or eighty feet below--yet a sudden repetition of that thunderous
 corpse-gurgle and death-rattle chorus, coming as I had nearly gained the top of the flight and
 shewing by its ceremonial rhythm that it was not an alarm of my discovery, caused me to pause
 and peer cautiously over the parapet.  
@@ -788,20 +788,20 @@ occasionally it would retreat into its den in a very odd manner. Its locomotion 
 that I stared in fascination, wishing it would emerge further from the cavernous lair beneath
 me.  
 
-  Then it   did   emerge&nbsp;.&nbsp;.&nbsp;. it   did   emerge, and at
+  Then it   did   emerge . . . it   did   emerge, and at
 the sight I turned and fled into the darkness up the higher staircase that rose behind me; fled
 unknowingly up incredible steps and ladders and inclined planes to which no human sight or logic
 guided me, and which I must ever relegate to the world of dreams for want of any confirmation.
 It must have been dream, or the dawn would never have found me breathing on the sands of Gizeh
 before the sardonic dawn-flushed face of the Great Sphinx.  
 
-  The Great Sphinx! God!&mdash;that   idle question   I asked myself on that
-sun-blest morning before&nbsp;.&nbsp;.&nbsp;.   what huge and loathsome abnormality was the
+  The Great Sphinx! God!--that   idle question   I asked myself on that
+sun-blest morning before . . .   what huge and loathsome abnormality was the
 Sphinx originally carven to represent?   Accursed is the sight, be it in dream or not, that
-revealed to me the supreme horror&mdash;the Unknown God of the Dead, which licks its colossal
+revealed to me the supreme horror--the Unknown God of the Dead, which licks its colossal
 chops in the unsuspected abyss, fed hideous morsels by soulless absurdities that should not
-exist. The five-headed monster that emerged&nbsp;.&nbsp;.&nbsp;. that five-headed monster as
-large as a hippopotamus&nbsp;.&nbsp;.&nbsp;. the five-headed monster&mdash;  and that of which it
-is the merest fore paw.&nbsp;.&nbsp;.&nbsp;.    
+exist. The five-headed monster that emerged . . . that five-headed monster as
+large as a hippopotamus . . . the five-headed monster--  and that of which it
+is the merest fore paw. . . .    
 
   But I survived, and I know it was only a dream.  

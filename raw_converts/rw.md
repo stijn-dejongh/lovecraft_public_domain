@@ -21,7 +21,7 @@ family which by the next century had become known as Delapore.
   Exham Priory had remained untenanted, though later allotted to the estates
 of the Norrys family and much studied because of its peculiarly composite architecture; an architecture
 involving Gothic towers resting on a Saxon or Romanesque substructure, whose foundation in turn
-was of a still earlier order or blend of orders&mdash;Roman, and even Druidic or native Cymric,
+was of a still earlier order or blend of orders--Roman, and even Druidic or native Cymric,
 if legends speak truly. This foundation was a very singular thing, being merged on one side
 with the solid limestone of the precipice from whose brink the priory overlooked a desolate
 valley three miles west of the village of Anchester. Architects and antiquarians loved to examine
@@ -57,7 +57,7 @@ and cobwebs!
 child, Alfred, a motherless boy of ten. It was this boy who reversed the order of family information;
 for although I could give him only jesting conjectures about the past, he wrote me of some very
 interesting ancestral legends when the late war took him to England in 1917 as an aviation officer.
-Apparently the Delapores had a colourful and perhaps sinister history, for a friend of my son&rsquo;s,
+Apparently the Delapores had a colourful and perhaps sinister history, for a friend of my son's,
 Capt. Edward Norrys of the Royal Flying Corps, dwelt near the family seat at Anchester and related
 some peasant superstitions which few novelists could equal for wildness and incredibility. Norrys
 himself, of course, did not take them seriously; but they amused my son and made good material
@@ -74,7 +74,7 @@ young, I resolved to divert my remaining years with my new possession. Visiting 
 December, I was entertained by Capt. Norrys, a plump, amiable young man who had thought much
 of my son, and secured his assistance in gathering plans and anecdotes to guide in the coming
 restoration. Exham Priory itself I saw without emotion, a jumble of tottering mediaeval ruins
-covered with lichens and honeycombed with rooks&rsquo; nests, perched perilously upon a precipice,
+covered with lichens and honeycombed with rooks' nests, perched perilously upon a precipice,
 and denuded of floors or other interior features save the stone walls of the separate towers.  
 
   As I gradually recovered the image of the edifice as it had been when my ancestor
@@ -97,7 +97,7 @@ stood on the site of a prehistoric temple; a Druidical or ante-Druidical thing w
 been contemporary with Stonehenge. That indescribable rites had been celebrated there, few doubted;
 and there were unpleasant tales of the transference of these rites into the Cybele-worship which
 the Romans had introduced. Inscriptions still visible in the sub-cellar bore such unmistakable
-letters as &ldquo;DIV&nbsp;.&nbsp;.&nbsp;. OPS&nbsp;.&nbsp;.&nbsp;. MAGNA. MAT&nbsp;.&nbsp;.&nbsp;.&rdquo;
+letters as  "DIV . . . OPS . . . MAGNA. MAT . . . "
 sign of the Magna Mater whose dark worship was once vainly forbidden to Roman citizens.
 Anchester had been the camp of the third Augustan legion, as many remains attest, and it was
 said that the temple of Cybele was splendid and thronged with worshippers who performed nameless
@@ -113,8 +113,8 @@ Conquest it must have declined tremendously; since there was no impediment when 
 granted the site to my ancestor, Gilbert de la Poer, First Baron Exham, in 1261.  
 
   Of my family before this date there is no evil report, but something strange
-must have happened then. In one chronicle there is a reference to a de la Poer as &ldquo;cursed
-of God&rdquo; in 1307, whilst village legendry had nothing but evil and frantic fear to tell
+must have happened then. In one chronicle there is a reference to a de la Poer as  "cursed
+of God " in 1307, whilst village legendry had nothing but evil and frantic fear to tell
 of the castle that went up on the foundations of the old temple and priory. The fireside tales
 were of the most grisly description, all the ghastlier because of their frightened reticence
 and cloudy evasiveness. They represented my ancestors as a race of hereditary daemons beside
@@ -137,27 +137,27 @@ to whom they confessed what they dared not repeat to the world.
   These myths and ballads, typical as they were of crude superstition, repelled
 me greatly. Their persistence, and their application to so long a line of my ancestors, were
 especially annoying; whilst the imputations of monstrous habits proved unpleasantly reminiscent
-of the one known scandal of my immediate forbears&mdash;the case of my cousin, young Randolph
+of the one known scandal of my immediate forbears--the case of my cousin, young Randolph
 Delapore of Carfax, who went among the negroes and became a voodoo priest after he returned
 from the Mexican War.  
 
   I was much less disturbed by the vaguer tales of wails and howlings in the
 barren, windswept valley beneath the limestone cliff; of the graveyard stenches after the spring
-rains; of the floundering, squealing white thing on which Sir John Clave&rsquo;s horse had trod
+rains; of the floundering, squealing white thing on which Sir John Clave's horse had trod
 one night in a lonely field; and of the servant who had gone mad at what he saw in the priory
 in the full light of day. These things were hackneyed spectral lore, and I was at that time
 a pronounced sceptic. The accounts of vanished peasants were less to be dismissed, though not
 especially significant in view of mediaeval custom. Prying curiosity meant death, and more than
-one severed head had been publicly shewn on the bastions&mdash;now effaced&mdash;around Exham
+one severed head had been publicly shewn on the bastions--now effaced--around Exham
 Priory.  
 
   A few of the tales were exceedingly picturesque, and made me wish I had learnt
 more of comparative mythology in my youth. There was, for instance, the belief that a legion
-of bat-winged devils kept Witches&rsquo; Sabbath each night at the priory&mdash;a legion whose
+of bat-winged devils kept Witches' Sabbath each night at the priory--a legion whose
 sustenance might explain the disproportionate abundance of coarse vegetables harvested in the
-vast gardens. And, most vivid of all, there was the dramatic epic of the rats&mdash;the scampering
+vast gardens. And, most vivid of all, there was the dramatic epic of the rats--the scampering
 army of obscene vermin which had burst forth from the castle three months after the tragedy
-that doomed it to desertion&mdash;the lean, filthy, ravenous army which had swept all before
+that doomed it to desertion--the lean, filthy, ravenous army which had swept all before
 it and devoured fowl, cats, dogs, hogs, sheep, and even two hapless human beings before its
 fury was spent. Around that unforgettable rodent army a whole separate cycle of myths revolves,
 for it scattered among the village homes and brought curses and horrors in its train.  
@@ -177,9 +177,9 @@ augmented by the fact that, although Exham Priory was mediaevally fitted, its in
 truth wholly new and free from old vermin and old ghosts alike.  
 
   As I have said, I moved in on July 16, 1923. My household consisted of seven
-servants and nine cats, of which latter species I am particularly fond. My eldest cat, &ldquo;Nigger-Man&rdquo;,
+servants and nine cats, of which latter species I am particularly fond. My eldest cat,  "Nigger-Man ",
 was seven years old and had come with me from my home in Bolton, Massachusetts; the others I
-had accumulated whilst living with Capt. Norrys&rsquo; family during the restoration of the
+had accumulated whilst living with Capt. Norrys' family during the restoration of the
 priory. For five days our routine proceeded with the utmost placidity, my time being spent mostly
 in the codification of old family data. I had now obtained some very circumstantial accounts
 of the final tragedy and flight of Walter de la Poer, which I conceived to be the probable contents
@@ -206,12 +206,12 @@ time, takes on a preternatural significance in relation to later events. It was 
 to be almost negligible, and could not possibly have been noticed under the circumstances; for
 it must be recalled that since I was in a building practically fresh and new except for the
 walls, and surrounded by a well-balanced staff of servitors, apprehension would have been absurd
-despite the locality. What I afterward remembered is merely this&mdash;that my old black cat,
+despite the locality. What I afterward remembered is merely this--that my old black cat,
 whose moods I know so well, was undoubtedly alert and anxious to an extent wholly out of keeping
 with his natural character. He roved from room to room, restless and disturbed, and sniffed
 constantly about the walls which formed part of the old Gothic structure. I realise how trite
-this sounds&mdash;like the inevitable dog in the ghost story, which always growls before his
-master sees the sheeted figure&mdash;yet I cannot consistently suppress it.  
+this sounds--like the inevitable dog in the ghost story, which always growls before his
+master sees the sheeted figure--yet I cannot consistently suppress it.  
 
   The following day a servant complained of restlessness among all the cats in
 the house. He came to me in my study, a lofty west room on the second story, with groined arches,
@@ -227,7 +227,7 @@ I called on Capt. Norrys, and he assured me that it would be quite incredible fo
 to infest the priory in such a sudden and unprecedented fashion.  
 
   That night, dispensing as usual with a valet, I retired in the west tower chamber
-which I had chosen as my own, reached from the study by a stone staircase and short gallery&mdash;the
+which I had chosen as my own, reached from the study by a stone staircase and short gallery--the
 former partly ancient, the latter entirely restored. This room was circular, very high, and
 without wainscotting, being hung with arras which I had myself chosen in London. Seeing that
 Nigger-Man was with me, I shut the heavy Gothic door and retired by the light of the electric
@@ -257,7 +257,7 @@ noticed anything unusual, save that the cook remembered the actions of a cat whi
 on her windowsill. This cat had howled at some unknown hour of the night, awaking the cook in
 time for her to see him dart purposefully out of the open door down the stairs. I drowsed away
 the noontime, and in the afternoon called again on Capt. Norrys, who became exceedingly interested
-in what I told him. The odd incidents&mdash;so slight yet so curious&mdash;appealed to his sense
+in what I told him. The odd incidents--so slight yet so curious--appealed to his sense
 of the picturesque, and elicited from him a number of reminiscences of local ghostly lore. We
 were genuinely perplexed at the presence of rats, and Norrys lent me some traps and Paris green,
 which I had the servants place in strategic localities when I returned.  
@@ -272,9 +272,9 @@ to devouring beasts and man alike.
   From this terrific vision I was abruptly awaked by the motions of Nigger-Man,
 who had been sleeping as usual across my feet. This time I did not have to question the source
 of his snarls and hisses, and of the fear which made him sink his claws into my ankle, unconscious
-of their effect; for on every side of the chamber the walls were alive with nauseous sound&mdash;the
+of their effect; for on every side of the chamber the walls were alive with nauseous sound--the
 verminous slithering of ravenous, gigantic rats. There was now no aurora to shew the state of
-the arras&mdash;the fallen section of which had been replaced&mdash;but I was not too frightened
+the arras--the fallen section of which had been replaced--but I was not too frightened
 to switch on the light.  
 
   As the bulbs leapt into radiance I saw a hideous shaking all over the tapestry,
@@ -313,12 +313,12 @@ every scrap of legend I had unearthed concerning the building I inhabited.
 which my mediaeval plan of furnishing could not banish. Later I telephoned to Capt. Norrys,
 who came over and helped me explore the sub-cellar. Absolutely nothing untoward was found, although
 we could not repress a thrill at the knowledge that this vault was built by Roman hands. Every
-low arch and massive pillar was Roman&mdash;not the debased Romanesque of the bungling Saxons,
+low arch and massive pillar was Roman--not the debased Romanesque of the bungling Saxons,
 but the severe and harmonious classicism of the age of the Caesars; indeed, the walls abounded
-with inscriptions familiar to the antiquarians who had repeatedly explored the place&mdash;things
-like &ldquo;P.GETAE. PROP&nbsp;.&nbsp;.&nbsp;. TEMP&nbsp;.&nbsp;.&nbsp;. DONA&nbsp;.&nbsp;.&nbsp;.&rdquo;
-and &ldquo;L. PRAEC&nbsp;.&nbsp;.&nbsp;. VS&nbsp;.&nbsp;.&nbsp;. PONTIFI&nbsp;.&nbsp;.&nbsp;.
-ATYS&nbsp;.&nbsp;.&nbsp;.&rdquo;  
+with inscriptions familiar to the antiquarians who had repeatedly explored the place--things
+like  "P.GETAE. PROP . . . TEMP . . . DONA . . . "
+and  "L. PRAEC . . . VS . . . PONTIFI . . .
+ATYS . . . "  
 
   The reference to Atys made me shiver, for I had read Catullus and knew something
 of the hideous rites of the Eastern god, whose worship was so mixed with that of Cybele. Norrys
@@ -328,13 +328,13 @@ of them. We remembered that one pattern, a sort of rayed sun, was held by studen
 a non-Roman origin, suggesting that these altars had merely been adopted by the Roman priests
 from some older and perhaps aboriginal temple on the same site. On one of these blocks were
 some brown stains which made me wonder. The largest, in the centre of the room, had certain
-features on the upper surface which indicated its connexion with fire&mdash;probably burnt offerings.  
+features on the upper surface which indicated its connexion with fire--probably burnt offerings.  
 
   Such were the sights in that crypt before whose door the cats had howled, and
 where Norrys and I now determined to pass the night. Couches were brought down by the servants,
 who were told not to mind any nocturnal actions of the cats, and Nigger-Man was admitted as
-much for help as for companionship. We decided to keep the great oak door&mdash;a modern replica
-with slits for ventilation&mdash;tightly closed; and, with this attended to, we retired with
+much for help as for companionship. We decided to keep the great oak door--a modern replica
+with slits for ventilation--tightly closed; and, with this attended to, we retired with
 lanterns still burning to await whatever might occur.  
 
   The vault was very deep in the foundations of the priory, and undoubtedly far
@@ -344,10 +344,10 @@ tell. As we lay there expectantly, I found my vigil occasionally mixed with half
 from which the uneasy motions of the cat across my feet would rouse me. These dreams were not
 wholesome, but horribly like the one I had had the night before. I saw again the twilit grotto,
 and the swineherd with his unmentionable fungous beasts wallowing in filth, and as I looked
-at these things they seemed nearer and more distinct&mdash;so distinct that I could almost observe
-their features. Then I did observe the flabby features of one of them&mdash;and awaked with
+at these things they seemed nearer and more distinct--so distinct that I could almost observe
+their features. Then I did observe the flabby features of one of them--and awaked with
 such a scream that Nigger-Man started up, whilst Capt. Norrys, who had not slept, laughed considerably.
-Norrys might have laughed more&mdash;or perhaps less&mdash;had he known what it was that made
+Norrys might have laughed more--or perhaps less--had he known what it was that made
 me scream. But I did not remember myself till later. Ultimate horror often paralyses memory
 in a merciful way.  
 
@@ -360,9 +360,9 @@ had troubled me the night before.
 
   An acute terror now rose within me, for here were anomalies which nothing normal
 could well explain. These rats, if not the creatures of a madness which I shared with the cats
-alone, must be burrowing and sliding in Roman walls I had thought to be of solid limestone blocks&nbsp;.&nbsp;.&nbsp;.
+alone, must be burrowing and sliding in Roman walls I had thought to be of solid limestone blocks . . .
 unless perhaps the action of water through more than seventeen centuries had eaten winding tunnels
-which rodent bodies had worn clear and ample.&nbsp;.&nbsp;.&nbsp;. But even so, the spectral
+which rodent bodies had worn clear and ample. . . . But even so, the spectral
 horror was no less; for if these were living vermin why did not Norrys hear their disgusting
 commotion? Why did he urge me to watch Nigger-Man and listen to the cats outside, and why did
 he guess wildly and vaguely at what could have aroused them?  
@@ -374,11 +374,11 @@ cliff below were riddled with questing rats. Norrys was not as sceptical as I ha
 but instead seemed profoundly moved. He motioned to me to notice that the cats at the door had
 ceased their clamour, as if giving up the rats for lost; whilst Nigger-Man had a burst of renewed
 restlessness, and was clawing frantically around the bottom of the large stone altar in the
-centre of the room, which was nearer Norrys&rsquo; couch than mine.  
+centre of the room, which was nearer Norrys' couch than mine.  
 
   My fear of the unknown was at this point very great. Something astounding had
 occurred, and I saw that Capt. Norrys, a younger, stouter, and presumably more naturally materialistic
-man, was affected fully as much as myself&mdash;perhaps because of his lifelong and intimate
+man, was affected fully as much as myself--perhaps because of his lifelong and intimate
 familiarity with local legend. We could for the moment do nothing but watch the old black cat
 as he pawed with decreasing fervour at the base of the altar, occasionally looking up and mewing
 to me in that persuasive manner which he used when he wished me to perform some favour for him.  
@@ -389,14 +389,14 @@ pre-Roman block to the tessellated floor. He did not find anything, and was abou
 his effort when I noticed a trivial circumstance which made me shudder, even though it implied
 nothing more than I had already imagined. I told him of it, and we both looked at its almost
 imperceptible manifestation with the fixedness of fascinated discovery and acknowledgment. It
-was only this&mdash;that the flame of the lantern set down near the altar was slightly but certainly
+was only this--that the flame of the lantern set down near the altar was slightly but certainly
 flickering from a draught of air which it had not before received, and which came indubitably
 from the crevice between floor and altar where Norrys was scraping away the lichens.  
 
   We spent the rest of the night in the brilliantly lighted study, nervously
 discussing what we should do next. The discovery that some vault deeper than the deepest known
-masonry of the Romans underlay this accursed pile&mdash;some vault unsuspected by the curious
-antiquarians of three centuries&mdash;would have been sufficient to excite us without any background
+masonry of the Romans underlay this accursed pile--some vault unsuspected by the curious
+antiquarians of three centuries--would have been sufficient to excite us without any background
 of the sinister. As it was, the fascination became twofold; and we paused in doubt whether to
 abandon our search and quit the priory forever in superstitious caution, or to gratify our sense
 of adventure and brave whatever horrors might await us in the unknown depths. By morning we
@@ -425,7 +425,7 @@ platter. Then came that damnable, recurrent thing about the swineherd and his fi
 the twilit grotto. Yet when I awoke it was full daylight, with normal sounds in the house below.
 The rats, living or spectral, had not troubled me; and Nigger-Man was quietly asleep.
 On going down, I found that the same tranquillity had prevailed elsewhere; a condition which
-one of the assembled savants&mdash;a fellow named Thornton, devoted to the psychic&mdash;rather
+one of the assembled savants--a fellow named Thornton, devoted to the psychic--rather
 absurdly laid to the fact that I had now been shewn the thing which certain forces had wished
 to shew me.  
 
@@ -457,21 +457,21 @@ been chiselled   from beneath.
 was light ahead; not any mystic phosphorescence, but a filtered daylight which could not come
 except from unknown fissures in the cliff that overlooked the waste valley. That such fissures
 had escaped notice from outside was hardly remarkable, for not only is the valley wholly uninhabited,
-but the cliff is so high and beetling that only an a&euml;ronaut could study its face in detail.
+but the cliff is so high and beetling that only an aëronaut could study its face in detail.
 A few steps more, and our breaths were literally snatched from us by what we saw; so literally
 that Thornton, the psychic investigator, actually fainted in the arms of the dazed man who stood
 behind him. Norrys, his plump face utterly white and flabby, simply cried out inarticulately;
-whilst I think that what I did was to gasp or hiss, and cover my eyes. The man behind me&mdash;the
-only one of the party older than I&mdash;croaked the hackneyed &ldquo;My God!&rdquo; in the
+whilst I think that what I did was to gasp or hiss, and cover my eyes. The man behind me--the
+only one of the party older than I--croaked the hackneyed  "My God! " in the
 most cracked voice I ever heard. Of seven cultivated men, only Sir William Brinton retained
 his composure; a thing more to his credit because he led the party and must have seen the sight
 first.  
 
   It was a twilit grotto of enormous height, stretching away farther than any
 eye could see; a subterraneous world of limitless mystery and horrible suggestion. There were
-buildings and other architectural remains&mdash;in one terrified glance I saw a weird pattern
+buildings and other architectural remains--in one terrified glance I saw a weird pattern
 of tumuli, a savage circle of monoliths, a low-domed Roman ruin, a sprawling Saxon pile, and
-an early English edifice of wood&mdash;but all these were dwarfed by the ghoulish spectacle
+an early English edifice of wood--but all these were dwarfed by the ghoulish spectacle
 presented by the general surface of the ground. For yards about the steps extended an insane
 tangle of human bones, or bones at least as human as those on the steps. Like a foamy sea they
 stretched, some fallen apart, but others wholly or partly articulated as skeletons; these latter
@@ -483,7 +483,7 @@ a degraded mixture which utterly baffled him. They were mostly lower than the Pi
 the scale of evolution, but in every case definitely human. Many were of higher grade, and a
 very few were the skulls of supremely and sensitively developed types. All the bones were gnawed,
 mostly by rats, but somewhat by others of the half-human drove. Mixed with them were many tiny
-bones of rats&mdash;fallen members of the lethal army which closed the ancient epic.  
+bones of rats--fallen members of the lethal army which closed the ancient epic.  
 
   I wonder that any man among us lived and kept his sanity through that hideous
 day of discovery. Not Hoffmann or Huysmans could conceive a scene more wildly incredible, more
@@ -495,20 +495,20 @@ fainted again when Trask told him that some of the skeleton things must have des
 through the last twenty or more generations.  
 
   Horror piled on horror as we began to interpret the architectural remains.
-The quadruped things&mdash;with their occasional recruits from the biped class&mdash;had been
+The quadruped things--with their occasional recruits from the biped class--had been
 kept in stone pens, out of which they must have broken in their last delirium of hunger or rat-fear.
 There had been great herds of them, evidently fattened on the coarse vegetables whose remains
 could be found as a sort of poisonous ensilage at the bottom of huge stone bins older than Rome.
-I knew now why my ancestors had had such excessive gardens&mdash;would to heaven I could forget!
+I knew now why my ancestors had had such excessive gardens--would to heaven I could forget!
 The purpose of the herds I did not have to ask.  
 
   Sir William, standing with his searchlight in the Roman ruin, translated aloud
 the most shocking ritual I have ever known; and told of the diet of the antediluvian cult which
 the priests of Cybele found and mingled with their own. Norrys, used as he was to the trenches,
 could not walk straight when he came out of the English building. It was a butcher shop and
-kitchen&mdash;he had expected that&mdash;but it was too much to see familiar English implements
+kitchen--he had expected that--but it was too much to see familiar English implements
 in such a place, and to read familiar English   graffiti   there, some as recent as 1610.
-I could not go in that building&mdash;that building whose daemon activities were stopped only
+I could not go in that building--that building whose daemon activities were stopped only
 by the dagger of my ancestor Walter de la Poer.  
 
   What I did venture to enter was the low Saxon building, whose oaken door had
@@ -518,12 +518,12 @@ coat-of-arms. Sir William found a vault with far older cells below the Roman cha
 cells were empty. Below them was a low crypt with cases of formally arranged bones, some of
 them bearing terrible parallel inscriptions carved in Latin, Greek, and the tongue of Phrygia.
 Meanwhile, Dr. Trask had opened one of the prehistoric tumuli, and brought to light skulls which
-were slightly more human than a gorilla&rsquo;s, and which bore indescribable ideographic carvings.
+were slightly more human than a gorilla's, and which bore indescribable ideographic carvings.
 Through all this horror my cat stalked unperturbed. Once I saw him monstrously perched atop
 a mountain of bones, and wondered at the secrets that might lie behind his yellow eyes.  
 
   Having grasped to some slight degree the frightful revelations of this twilit
-area&mdash;an area so hideously foreshadowed by my recurrent dream&mdash;we turned to that apparently
+area--an area so hideously foreshadowed by my recurrent dream--we turned to that apparently
 boundless depth of midnight cavern where no ray of light from the cliff could penetrate. We
 shall never know what sightless Stygian worlds yawn beyond the little distance we went, for
 it was decided that such secrets are not good for mankind. But there was plenty to engross us
@@ -545,27 +545,27 @@ Capt. Norrys. Then there came a sound from that inky, boundless, farther distanc
 I knew; and I saw my old black cat dart past me like a winged Egyptian god, straight into the
 illimitable gulf of the unknown. But I was not far behind, for there was no doubt after another
 second. It was the eldritch scurrying of those fiend-born rats, always questing for new horrors,
-and determined to lead me on even unto those grinning caverns of earth&rsquo;s centre where
+and determined to lead me on even unto those grinning caverns of earth's centre where
 Nyarlathotep, the mad faceless god, howls blindly to the piping of two amorphous idiot
 flute-players.  
 
   My searchlight expired, but still I ran. I heard voices, and yowls, and echoes,
 but above all there gently rose that impious, insidious scurrying; gently rising, rising, as
 a stiff bloated corpse gently rises above an oily river that flows under endless onyx bridges
-to a black, putrid sea. Something bumped into me&mdash;something soft and plump. It must have
-been the rats; the viscous, gelatinous, ravenous army that feast on the dead and the living.&nbsp;.&nbsp;.&nbsp;.
-Why shouldn&rsquo;t rats eat a de la Poer as a de la Poer eats forbidden things?&nbsp;.&nbsp;.&nbsp;.
-The war ate my boy, damn them all&nbsp;.&nbsp;.&nbsp;. and the Yanks ate Carfax with flames
-and burnt Grandsire Delapore and the secret&nbsp;.&nbsp;.&nbsp;. No, no, I tell you, I am   
-not   that daemon swineherd in the twilit grotto! It was   not   Edward Norrys&rsquo; fat
-face on that flabby, fungous thing! Who says I am a de la Poer? He lived, but my boy died!&nbsp;.&nbsp;.&nbsp;.
-Shall a Norrys hold the lands of a de la Poer?&nbsp;.&nbsp;.&nbsp;. It&rsquo;s voodoo, I tell you&nbsp;.&nbsp;.&nbsp;.
-that spotted snake&nbsp;.&nbsp;.&nbsp;. Curse you, Thornton, I&rsquo;ll teach you to faint at
-what my family do!&nbsp;.&nbsp;.&nbsp;. &rsquo;Sblood, thou stinkard, I&rsquo;ll learn ye how to
-gust&nbsp;.&nbsp;.&nbsp;. wolde ye swynke me thilke wys?&nbsp;.&nbsp;.&nbsp;.   Magna Mater! Magna
-Mater!&nbsp;.&nbsp;.&nbsp;. Atys&nbsp;.&nbsp;.&nbsp;. Dia ad aghaidh &rsquo;s ad aodann&nbsp;.&nbsp;.&nbsp;.
-agus bas dunach ort! Dhonas &rsquo;s dholas ort, agus leat-sa!&nbsp;.&nbsp;.&nbsp;. Ungl&nbsp;.&nbsp;.&nbsp;.
-ungl&nbsp;.&nbsp;.&nbsp;. rrrlh&nbsp;.&nbsp;.&nbsp;. chchch&nbsp;.&nbsp;.&nbsp;.    
+to a black, putrid sea. Something bumped into me--something soft and plump. It must have
+been the rats; the viscous, gelatinous, ravenous army that feast on the dead and the living. . . .
+Why shouldn't rats eat a de la Poer as a de la Poer eats forbidden things? . . .
+The war ate my boy, damn them all . . . and the Yanks ate Carfax with flames
+and burnt Grandsire Delapore and the secret . . . No, no, I tell you, I am   
+not   that daemon swineherd in the twilit grotto! It was   not   Edward Norrys' fat
+face on that flabby, fungous thing! Who says I am a de la Poer? He lived, but my boy died! . . .
+Shall a Norrys hold the lands of a de la Poer? . . . It's voodoo, I tell you . . .
+that spotted snake . . . Curse you, Thornton, I'll teach you to faint at
+what my family do! . . . 'Sblood, thou stinkard, I'll learn ye how to
+gust . . . wolde ye swynke me thilke wys? . . .   Magna Mater! Magna
+Mater! . . . Atys . . . Dia ad aghaidh 's ad aodann . . .
+agus bas dunach ort! Dhonas 's dholas ort, agus leat-sa! . . . Ungl . . .
+ungl . . . rrrlh . . . chchch . . .    
 
   That is what they say I said when they found me in the blackness after three
 hours; found me crouching in the blackness over the plump, half-eaten body of Capt. Norrys,

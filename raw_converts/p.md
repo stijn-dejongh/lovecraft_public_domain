@@ -10,7 +10,7 @@ long hellish hours of blackness it shines there. And in the autumn of the year, 
 from the north curse and whine, and the red-leaved trees of the swamp mutter things to one another
 in the small hours of the morning under the horned waning moon, I sit by the casement and watch
 that star. Down from the heights reels the glittering Cassiopeia as the hours wear on, while
-Charles&rsquo; Wain lumbers up from behind the vapour-soaked swamp trees that sway in the night-wind.
+Charles' Wain lumbers up from behind the vapour-soaked swamp trees that sway in the night-wind.
 Just before dawn Arcturus winks ruddily from above the cemetery on the low hillock, and Coma
 Berenices shimmers weirdly afar off in the mysterious east; but still the Pole Star leers down
 from the same place in the black vault, winking hideously like an insane watching eye which
@@ -42,16 +42,16 @@ Pole Star leered as never before.
   Gradually I came to wonder what might be my place in that city on the strange
 plateau betwixt strange peaks. At first content to view the scene as an all-observant uncorporeal
 presence, I now desired to define my relation to it, and to speak my mind amongst the grave
-men who conversed each day in the public squares. I said to myself, &ldquo;This is no dream,
+men who conversed each day in the public squares. I said to myself,  "This is no dream,
 for by what means can I prove the greater reality of that other life in the house of stone and
 brick south of the sinister swamp and the cemetery on the low hillock, where the Pole Star peers
-into my north window each night?&rdquo;  
+into my north window each night? "  
 
   One night as I listened to the discourse in the large square containing many
 statues, I felt a change; and perceived that I had at last a bodily form. Nor was I a stranger
-in the streets of Olatho&euml;, which lies on the plateau of Sarkis, betwixt the peaks Noton
+in the streets of Olathoë, which lies on the plateau of Sarkis, betwixt the peaks Noton
 and Kadiphonek. It was my friend Alos who spoke, and his speech was one that pleased my soul,
-for it was the speech of a true man and patriot. That night had the news come of Daikos&rsquo;
+for it was the speech of a true man and patriot. That night had the news come of Daikos'
 fall, and of the advance of the Inutos; squat, hellish, yellow fiends who five years ago had
 appeared out of the unknown west to ravage the confines of our kingdom, and finally to besiege
 our towns. Having taken the fortified places at the foot of the mountains, their way now lay
@@ -61,11 +61,11 @@ back our tall, grey-eyed men of Lomar from ruthless conquest.
 
   Alos, my friend, was commander of all the forces on the plateau, and in him
 lay the last hope of our country. On this occasion he spoke of the perils to be faced, and exhorted
-the men of Olatho&euml;, bravest of the Lomarians, to sustain the traditions of their ancestors,
+the men of Olathoë, bravest of the Lomarians, to sustain the traditions of their ancestors,
 who when forced to move southward from Zobna before the advance of the great ice-sheet (even
 as our descendants must some day flee from the land of Lomar), valiantly and victoriously swept
 aside the hairy, long-armed, cannibal Gnophkehs that stood in their way. To me Alos denied a
-warrior&rsquo;s part, for I was feeble and given to strange faintings when subjected to stress
+warrior's part, for I was feeble and given to strange faintings when subjected to stress
 and hardships. But my eyes were the keenest in the city, despite the long hours I gave each
 day to the study of the Pnakotic manuscripts and the wisdom of the Zobnarian Fathers; so my
 friend, desiring not to doom me to inaction, rewarded me with that duty which was second to
@@ -76,26 +76,26 @@ the waiting soldiers and save the town from immediate disaster.
 
   Alone I mounted the tower, for every man of stout body was needed in the passes
 below. My brain was sore dazed with excitement and fatigue, for I had not slept in many days;
-yet was my purpose firm, for I loved my native land of Lomar, and the marble city of Olatho&euml;
+yet was my purpose firm, for I loved my native land of Lomar, and the marble city of Olathoë
 that lies betwixt the peaks of Noton and Kadiphonek.  
 
-  But as I stood in the tower&rsquo;s topmost chamber, I beheld the horned waning
+  But as I stood in the tower's topmost chamber, I beheld the horned waning
 moon, red and sinister, quivering through the vapours that hovered over the distant valley of
 Banof. And through an opening in the roof glittered the pale Pole Star, fluttering as if alive,
 and leering like a fiend and tempter. Methought its spirit whispered evil counsel, soothing
 me to traitorous somnolence with a damnable rhythmical promise which it repeated over and over:  
 
             
-&ldquo;Slumber, watcher, till the spheres  
+ "Slumber, watcher, till the spheres  
 Six and twenty thousand years  
-Have revolv&rsquo;d, and I return  
+Have revolv'd, and I return  
 To the spot where now I burn.  
 Other stars anon shall rise  
 To the axis of the skies;  
 Stars that soothe and stars that bless  
 With a sweet forgetfulness:  
-Only when my round is o&rsquo;er  
-Shall the past disturb thy door.&rdquo;
+Only when my round is o'er  
+Shall the past disturb thy door. "
             
 
 Vainly did I struggle with my drowsiness, seeking to connect these strange words with some lore
@@ -107,12 +107,12 @@ through a window from over the horrible swaying trees of a dream-swamp. And I am
 around me to waken me ere the Inutos steal up the pass behind the peak Noton and take the citadel
 by surprise; but these creatures are daemons, for they laugh at me and tell me I am not dreaming.
 They mock me whilst I sleep, and whilst the squat yellow foe may be creeping silently upon us.
-I have failed in my duty and betrayed the marble city of Olatho&euml;; I have proven false to
+I have failed in my duty and betrayed the marble city of Olathoë; I have proven false to
 Alos, my friend and commander. But still these shadows of my dream deride me. They say there
 is no land of Lomar, save in my nocturnal imaginings; that in those realms where the Pole Star
 shines high and red Aldebaran crawls low around the horizon, there has been naught save ice
 and snow for thousands of years, and never a man save squat yellow creatures, blighted by the
-cold, whom they call &ldquo;Esquimaux&rdquo;.  
+cold, whom they call  "Esquimaux ".  
 
   And as I writhe in my guilty agony, frantic to save the city whose peril every
 moment grows, and vainly striving to shake off this unnatural dream of a house of stone and

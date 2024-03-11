@@ -1,4 +1,4 @@
-% "Herbert West&mdash;Reanimator" 
+% "Herbert West--Reanimator" 
 %  H. P. Lovecraft
 
         
@@ -30,12 +30,12 @@ a lifetime of research. It likewise became clear that, since the same solution n
 alike on different organic species, he would require human subjects for further and more specialised
 progress. It was here that he first came into conflict with the college authorities, and was
 debarred from future experiments by no less a dignitary than the dean of the medical school
-himself&mdash;the learned and benevolent Dr. Allan Halsey, whose work in behalf of the stricken
+himself--the learned and benevolent Dr. Allan Halsey, whose work in behalf of the stricken
 is recalled by every old resident of Arkham.  
 
-  I had always been exceptionally tolerant of West&rsquo;s pursuits, and we frequently
+  I had always been exceptionally tolerant of West's pursuits, and we frequently
 discussed his theories, whose ramifications and corollaries were almost infinite. Holding with
-Haeckel that all life is a chemical and physical process, and that the so-called &ldquo;soul&rdquo;
+Haeckel that all life is a chemical and physical process, and that the so-called  "soul "
 is a myth, my friend believed that artificial reanimation of the dead can depend only on the
 condition of the tissues; and that unless actual decomposition has set in, a corpse fully equipped
 with organs may with suitable measures be set going again in the peculiar fashion known as life.
@@ -55,8 +55,8 @@ for at the college we had never procured anatomical specimens ourselves. Wheneve
 proved inadequate, two local negroes attended to this matter, and they were seldom questioned.
 West was then a small, slender, spectacled youth with delicate features, yellow hair, pale blue
 eyes, and a soft voice, and it was uncanny to hear him dwelling on the relative merits of Christchurch
-Cemetery and the potter&rsquo;s field. We finally decided on the potter&rsquo;s field, because
-practically every body in Christchurch was embalmed; a thing of course ruinous to West&rsquo;s
+Cemetery and the potter's field. We finally decided on the potter's field, because
+practically every body in Christchurch was embalmed; a thing of course ruinous to West's
 researches.  
 
   I was by this time his active and enthralled assistant, and helped him make
@@ -68,22 +68,22 @@ other house, yet precautions were none the less necessary; since rumours of stra
 started by chance nocturnal roamers, would soon bring disaster on our enterprise. It was agreed
 to call the whole thing a chemical laboratory if discovery should occur. Gradually we equipped
 our sinister haunt of science with materials either purchased in Boston or quietly borrowed
-from the college&mdash;materials carefully made unrecognisable save to expert eyes&mdash;and
+from the college--materials carefully made unrecognisable save to expert eyes--and
 provided spades and picks for the many burials we should have to make in the cellar. At the
 college we used an incinerator, but the apparatus was too costly for our unauthorised laboratory.
-Bodies were always a nuisance&mdash;even the small guinea-pig bodies from the slight clandestine
-experiments in West&rsquo;s room at the boarding-house.  
+Bodies were always a nuisance--even the small guinea-pig bodies from the slight clandestine
+experiments in West's room at the boarding-house.  
 
   We followed the local death-notices like ghouls, for our specimens demanded
 particular qualities. What we wanted were corpses interred soon after death and without artificial
 preservation; preferably free from malforming disease, and certainly with all organs present.
 Accident victims were our best hope. Not for many weeks did we hear of anything suitable; though
-we talked with morgue and hospital authorities, ostensibly in the college&rsquo;s interest,
+we talked with morgue and hospital authorities, ostensibly in the college's interest,
 as often as we could without exciting suspicion. We found that the college had first choice
 in every case, so that it might be necessary to remain in Arkham during the summer, when only
 the limited summer-school classes were held. In the end, though, luck favoured us; for one day
-we heard of an almost ideal case in the potter&rsquo;s field; a brawny young workman drowned
-only the morning before in Sumner&rsquo;s Pond, and buried at the town&rsquo;s expense without
+we heard of an almost ideal case in the potter's field; a brawny young workman drowned
+only the morning before in Sumner's Pond, and buried at the town's expense without
 delay or embalming. That afternoon we found the new grave, and determined to begin work soon
 after midnight.  
 
@@ -91,8 +91,8 @@ after midnight.
 we lacked at that time the special horror of graveyards which later experiences brought to us.
 We carried spades and oil dark lanterns, for although electric torches were then manufactured,
 they were not as satisfactory as the tungsten contrivances of today. The process of unearthing
-was slow and sordid&mdash;it might have been gruesomely poetical if we had been artists instead
-of scientists&mdash;and we were glad when our spades struck wood. When the pine box was fully
+was slow and sordid--it might have been gruesomely poetical if we had been artists instead
+of scientists--and we were glad when our spades struck wood. When the pine box was fully
 uncovered West scrambled down and removed the lid, dragging out and propping up the contents.
 I reached down and hauled the contents out of the grave, and then both toiled hard to restore
 the spot to its former appearance. The affair made us rather nervous, especially the stiff form
@@ -102,29 +102,29 @@ out for the old Chapman place beyond Meadow Hill.
 
   On an improvised dissecting-table in the old farmhouse, by the light of a powerful
 acetylene lamp, the specimen was not very spectral looking. It had been a sturdy and apparently
-unimaginative youth of wholesome plebeian type&mdash;large-framed, grey-eyed, and brown-haired&mdash;a
+unimaginative youth of wholesome plebeian type--large-framed, grey-eyed, and brown-haired--a
 sound animal without psychological subtleties, and probably having vital processes of the simplest
 and healthiest sort. Now, with the eyes closed, it looked more asleep than dead; though the
 expert test of my friend soon left no doubt on that score. We had at last what West had always
-longed for&mdash;a real dead man of the ideal kind, ready for the solution as prepared according
+longed for--a real dead man of the ideal kind, ready for the solution as prepared according
 to the most careful calculations and theories for human use. The tension on our part became
 very great. We knew that there was scarcely a chance for anything like complete success, and
 could not avoid hideous fears at possible grotesque results of partial animation. Especially
 were we apprehensive concerning the mind and impulses of the creature, since in the space following
 death some of the more delicate cerebral cells might well have suffered deterioration. I, myself,
-still held some curious notions about the traditional &ldquo;soul&rdquo; of man, and felt an
+still held some curious notions about the traditional  "soul " of man, and felt an
 awe at the secrets that might be told by one returning from the dead. I wondered what sights
 this placid youth might have seen in inaccessible spheres, and what he could relate if fully
 restored to life. But my wonder was not overwhelming, since for the most part I shared the materialism
 of my friend. He was calmer than I as he forced a large quantity of his fluid into a vein of
-the body&rsquo;s arm, immediately binding the incision securely.  
+the body's arm, immediately binding the incision securely.  
 
   The waiting was gruesome, but West never faltered. Every now and then he applied
 his stethoscope to the specimen, and bore the negative results philosophically. After about
 three-quarters of an hour without the least sign of life he disappointedly pronounced the solution
 inadequate, but determined to make the most of his opportunity and try one change in the formula
 before disposing of his ghastly prize. We had that afternoon dug a grave in the cellar, and
-would have to fill it by dawn&mdash;for although we had fixed a lock on the house we wished
+would have to fill it by dawn--for although we had fixed a lock on the house we wished
 to shun even the remotest risk of a ghoulish discovery. Besides, the body would not be even approximately
 fresh the next night. So taking the solitary acetylene lamp into the adjacent laboratory, we
 left our silent guest on the slab in the dark, and bent every energy to the mixing of a new
@@ -136,21 +136,21 @@ for a Bunsen burner in this gasless edifice, when from the pitch-black room we h
 burst the most appalling and daemoniac succession of cries that either of us had ever heard.
 Not more unutterable could have been the chaos of hellish sound if the pit itself had opened
 to release the agony of the damned, for in one inconceivable cacophony was centred all the supernal
-terror and unnatural despair of animate nature. Human it could not have been&mdash;it is not
-in man to make such sounds&mdash;and without a thought of our late employment or its possible
+terror and unnatural despair of animate nature. Human it could not have been--it is not
+in man to make such sounds--and without a thought of our late employment or its possible
 discovery both West and I leaped to the nearest window like stricken animals; overturning tubes,
 lamp, and retorts, and vaulting madly into the starred abyss of the rural night. I think we
 screamed ourselves as we stumbled frantically toward the town, though as we reached the outskirts
-we put on a semblance of restraint&mdash;just enough to seem like belated revellers staggering
+we put on a semblance of restraint--just enough to seem like belated revellers staggering
 home from a debauch.  
 
-  We did not separate, but managed to get to West&rsquo;s room, where we whispered
+  We did not separate, but managed to get to West's room, where we whispered
 with the gas up until dawn. By then we had calmed ourselves a little with rational theories
-and plans for investigation, so that we could sleep through the day&mdash;classes being disregarded.
+and plans for investigation, so that we could sleep through the day--classes being disregarded.
 But that evening two items in the paper, wholly unrelated, made it again impossible for us to
 sleep. The old deserted Chapman house had inexplicably burned to an amorphous heap of ashes;
 that we could understand because of the upset lamp. Also, an attempt had been made to disturb
-a new grave in the potter&rsquo;s field, as if by futile and spadeless clawing at the earth.
+a new grave in the potter's field, as if by futile and spadeless clawing at the earth.
 That we could not understand, for we had patted down the mould very carefully.  
 
   And for seventeen years after that West would look frequently over his shoulder,
@@ -161,7 +161,7 @@ and complain of fancied footsteps behind him. Now he has disappeared.
 I shall never forget that hideous summer sixteen years ago, when like a noxious afrite from
 the halls of Eblis typhoid stalked leeringly through Arkham. It is by that satanic scourge that
 most recall the year, for truly terror brooded with bat-wings over the piles of coffins in the
-tombs of Christchurch Cemetery; yet for me there is a greater horror in that time&mdash;a horror
+tombs of Christchurch Cemetery; yet for me there is a greater horror in that time--a horror
 known to me alone now that Herbert West has disappeared.  
 
   West and I were doing post-graduate work in summer classes at the medical school
@@ -170,12 +170,12 @@ leading toward the revivification of the dead. After the scientific slaughter of
 animals the freakish work had ostensibly stopped by order of our sceptical dean, Dr. Allan Halsey;
 though West had continued to perform certain secret tests in his dingy boarding-house room,
 and had on one terrible and unforgettable occasion taken a human body from its grave in the
-potter&rsquo;s field to a deserted farmhouse beyond Meadow Hill.  
+potter's field to a deserted farmhouse beyond Meadow Hill.  
 
   I was with him on that odious occasion, and saw him inject into the still veins
-the elixir which he thought would to some extent restore life&rsquo;s chemical and physical
-processes. It had ended horribly&mdash;in a delirium of fear which we gradually came to attribute
-to our own overwrought nerves&mdash;and West had never afterward been able to shake off a maddening
+the elixir which he thought would to some extent restore life's chemical and physical
+processes. It had ended horribly--in a delirium of fear which we gradually came to attribute
+to our own overwrought nerves--and West had never afterward been able to shake off a maddening
 sensation of being haunted and hunted. The body had not been quite fresh enough; it is obvious
 that to restore normal mental attributes a body must be very fresh indeed; and a burning of
 the old house had prevented us from burying the thing. It would have been better if we could
@@ -188,8 +188,8 @@ he regarded as so overwhelmingly important. His pleas, however, were wholly in v
 decision of Dr. Halsey was inflexible, and the other professors all endorsed the verdict of
 their leader. In the radical theory of reanimation they saw nothing but the immature vagaries
 of a youthful enthusiast whose slight form, yellow hair, spectacled blue eyes, and soft voice
-gave no hint of the supernormal&mdash;almost diabolical&mdash;power of the cold brain within.
-I can see him now as he was then&mdash;and I shiver. He grew sterner of face, but never elderly.
+gave no hint of the supernormal--almost diabolical--power of the cold brain within.
+I can see him now as he was then--and I shiver. He grew sterner of face, but never elderly.
 And now Sefton Asylum has had the mishap and West has vanished.  
 
   West clashed disagreeably with Dr. Halsey near the end of our last undergraduate
@@ -198,13 +198,13 @@ He felt that he was needlessly and irrationally retarded in a supremely great wo
 he could of course conduct to suit himself in later years, but which he wished to begin while
 still possessed of the exceptional facilities of the university. That the tradition-bound elders
 should ignore his singular results on animals, and persist in their denial of the possibility
-of reanimation, was inexpressibly disgusting and almost incomprehensible to a youth of West&rsquo;s
+of reanimation, was inexpressibly disgusting and almost incomprehensible to a youth of West's
 logical temperament. Only greater maturity could help him understand the chronic mental limitations
-of the &ldquo;professor-doctor&rdquo; type&mdash;the product of generations of pathetic Puritanism;
+of the  "professor-doctor " type--the product of generations of pathetic Puritanism;
 kindly, conscientious, and sometimes gentle and amiable, yet always narrow, intolerant, custom-ridden,
 and lacking in perspective. Age has more charity for these incomplete yet high-souled characters,
 whose worst real vice is timidity, and who are ultimately punished by general ridicule for their
-intellectual sins&mdash;sins like Ptolemaism, Calvinism, anti-Darwinism, anti-Nietzscheism,
+intellectual sins--sins like Ptolemaism, Calvinism, anti-Darwinism, anti-Nietzscheism,
 and every sort of Sabbatarianism and sumptuary legislation. West, young despite his marvellous
 scientific acquirements, had scant patience with good Dr. Halsey and his erudite colleagues;
 and nursed an increasing resentment, coupled with a desire to prove his theories to these obtuse
@@ -219,11 +219,11 @@ pressed frantically into public service as the numbers of the stricken grew. The
 almost past management, and deaths ensued too frequently for the local undertakers fully to
 handle. Burials without embalming were made in rapid succession, and even the Christchurch Cemetery
 receiving tomb was crammed with coffins of the unembalmed dead. This circumstance was not without
-effect on West, who thought often of the irony of the situation&mdash;so many fresh specimens,
+effect on West, who thought often of the irony of the situation--so many fresh specimens,
 yet none for his persecuted researches! We were frightfully overworked, and the terrific mental
 and nervous strain made my friend brood morbidly.  
 
-  But West&rsquo;s gentle enemies were no less harassed with prostrating duties.
+  But West's gentle enemies were no less harassed with prostrating duties.
 College had all but closed, and every doctor of the medical faculty was helping to fight the
 typhoid plague. Dr. Halsey in particular had distinguished himself in sacrificing service, applying
 his extreme skill with whole-hearted energy to cases which many others shunned because of danger
@@ -235,7 +235,7 @@ Taking advantage of the disorganisation of both college work and municipal healt
 he managed to get a recently deceased body smuggled into the university dissecting-room one
 night, and in my presence injected a new modification of his solution. The thing actually opened
 its eyes, but only stared at the ceiling with a look of soul-petrifying horror before collapsing
-into an inertness from which nothing could rouse it. West said it was not fresh enough&mdash;the
+into an inertness from which nothing could rouse it. West said it was not fresh enough--the
 hot summer air does not favour corpses. That time we were almost caught before we incinerated
 the thing, and West doubted the advisability of repeating his daring misuse of the college laboratory.  
 
@@ -247,29 +247,29 @@ the dean had surely been a public benefactor. After the entombment we were all s
 and spent the afternoon at the bar of the Commercial House; where West, though shaken by the
 death of his chief opponent, chilled the rest of us with references to his notorious theories.
 Most of the students went home, or to various duties, as the evening advanced; but West persuaded
-me to aid him in &ldquo;making a night of it&rdquo;. West&rsquo;s landlady saw us arrive at
+me to aid him in  "making a night of it ". West's landlady saw us arrive at
 his room about two in the morning, with a third man between us; and told her husband that we
 had all evidently dined and wined rather well.  
 
   Apparently this acidulous matron was right; for about 3 a.m. the whole house
-was aroused by cries coming from West&rsquo;s room, where when they broke down the door they
+was aroused by cries coming from West's room, where when they broke down the door they
 found the two of us unconscious on the blood-stained carpet, beaten, scratched, and mauled,
-and with the broken remnants of West&rsquo;s bottles and instruments around us. Only an open
+and with the broken remnants of West's bottles and instruments around us. Only an open
 window told what had become of our assailant, and many wondered how he himself had fared after
 the terrific leap from the second story to the lawn which he must have made. There were some
 strange garments in the room, but West upon regaining consciousness said they did not belong
 to the stranger, but were specimens collected for bacteriological analysis in the course of
 investigations on the transmission of germ diseases. He ordered them burnt as soon as possible
-in the capacious fireplace. To the police we both declared ignorance of our late companion&rsquo;s
+in the capacious fireplace. To the police we both declared ignorance of our late companion's
 identity. He was, West nervously said, a congenial stranger whom we had met at some downtown
 bar of uncertain location. We had all been rather jovial, and West and I did not wish to have
 our pugnacious companion hunted down.  
 
-  That same night saw the beginning of the second Arkham horror&mdash;the horror
+  That same night saw the beginning of the second Arkham horror--the horror
 that to me eclipsed the plague itself. Christchurch Cemetery was the scene of a terrible killing;
 a watchman having been clawed to death in a manner not only too hideous for description, but
 raising a doubt as to the human agency of the deed. The victim had been seen alive considerably
-after midnight&mdash;the dawn revealed the unutterable thing. The manager of a circus at the
+after midnight--the dawn revealed the unutterable thing. The manager of a circus at the
 neighbouring town of Bolton was questioned, but he swore that no beast had at any time escaped
 from its cage. Those who found the body noted a trail of blood leading to the receiving tomb,
 where a small pool of red lay on the concrete just outside the gate. A fainter trail led away
@@ -278,7 +278,7 @@ toward the woods, but it soon gave out.
   The next night devils danced on the roofs of Arkham, and unnatural madness
 howled in the wind. Through the fevered town had crept a curse which some said was greater than
 the plague, and which some whispered was the embodied daemon-soul of the plague itself. Eight
-houses were entered by a nameless thing which strewed red death in its wake&mdash;in all, seventeen
+houses were entered by a nameless thing which strewed red death in its wake--in all, seventeen
 maimed and shapeless remnants of bodies were left behind by the voiceless, sadistic monster
 that crept abroad. A few persons had half seen it in the dark, and said it was white and like
 a malformed ape or anthropomorphic fiend. It had not left behind quite all that it had attacked,
@@ -295,18 +295,18 @@ a fatal one, and was rushed to the local hospital amidst universal excitement an
 
   For it had been a man. This much was clear despite the nauseous eyes, the voiceless
 simianism, and the daemoniac savagery. They dressed its wound and carted it to the asylum at
-Sefton, where it beat its head against the walls of a padded cell for sixteen years&mdash;until
+Sefton, where it beat its head against the walls of a padded cell for sixteen years--until
 the recent mishap, when it escaped under circumstances that few like to mention. What had most
-disgusted the searchers of Arkham was the thing they noticed when the monster&rsquo;s face was
-cleaned&mdash;the mocking, unbelievable resemblance to a learned and self-sacrificing martyr
-who had been entombed but three days before&mdash;the late Dr. Allan Halsey, public benefactor
+disgusted the searchers of Arkham was the thing they noticed when the monster's face was
+cleaned--the mocking, unbelievable resemblance to a learned and self-sacrificing martyr
+who had been entombed but three days before--the late Dr. Allan Halsey, public benefactor
 and dean of the medical school of Miskatonic University.  
 
   To the vanished Herbert West and to me the disgust and horror were supreme.
 I shudder tonight as I think of it; shudder even more than I did that morning when West muttered
 through his bandages,  
 
-  &ldquo;Damn it, it wasn&rsquo;t   quite   fresh enough!&rdquo;  
+   "Damn it, it wasn't   quite   fresh enough! "  
 
         III. Six Shots by Midnight    
 
@@ -316,87 +316,87 @@ not often that a young physician leaving college is obliged to conceal the princ
 guide his selection of a home and office, yet that was the case with Herbert West. When he and
 I obtained our degrees at the medical school of Miskatonic University, and sought to relieve
 our poverty by setting up as general practitioners, we took great care not to say that we chose
-our house because it was fairly well isolated, and as near as possible to the potter&rsquo;s
+our house because it was fairly well isolated, and as near as possible to the potter's
 field.  
 
   Reticence such as this is seldom without a cause, nor indeed was ours; for
 our requirements were those resulting from a life-work distinctly unpopular. Outwardly we were
-doctors only, but beneath the surface were aims of far greater and more terrible moment&mdash;for
-the essence of Herbert West&rsquo;s existence was a quest amid black and forbidden realms of
+doctors only, but beneath the surface were aims of far greater and more terrible moment--for
+the essence of Herbert West's existence was a quest amid black and forbidden realms of
 the unknown, in which he hoped to uncover the secret of life and restore to perpetual animation
-the graveyard&rsquo;s cold clay. Such a quest demands strange materials, among them fresh human
+the graveyard's cold clay. Such a quest demands strange materials, among them fresh human
 bodies; and in order to keep supplied with these indispensable things one must live quietly
 and not far from a place of informal interment.  
 
   West and I had met in college, and I had been the only one to sympathise with
 his hideous experiments. Gradually I had come to be his inseparable assistant, and now that
 we were out of college we had to keep together. It was not easy to find a good opening for two
-doctors in company, but finally the influence of the university secured us a practice in Bolton&mdash;a
+doctors in company, but finally the influence of the university secured us a practice in Bolton--a
 factory town near Arkham, the seat of the college. The Bolton Worsted Mills are the largest
 in the Miskatonic Valley, and their polyglot employees are never popular as patients with the
 local physicians. We chose our house with the greatest care, seizing at last on a rather run-down
 cottage near the end of Pond Street; five numbers from the closest neighbour, and separated
-from the local potter&rsquo;s field by only a stretch of meadow land, bisected by a narrow neck
+from the local potter's field by only a stretch of meadow land, bisected by a narrow neck
 of the rather dense forest which lies to the north. The distance was greater than we wished,
 but we could get no nearer house without going on the other side of the field, wholly out of
 the factory district. We were not much displeased, however, since there were no people between
 us and our sinister source of supplies. The walk was a trifle long, but we could haul our silent
 specimens undisturbed.  
 
-  Our practice was surprisingly large from the very first&mdash;large enough
+  Our practice was surprisingly large from the very first--large enough
 to please most young doctors, and large enough to prove a bore and a burden to students whose
 real interest lay elsewhere. The mill-hands were of somewhat turbulent inclinations; and besides
 their many natural needs, their frequent clashes and stabbing affrays gave us plenty to do.
-But what actually absorbed our minds was the secret laboratory we had fitted up in the cellar&mdash;the
+But what actually absorbed our minds was the secret laboratory we had fitted up in the cellar--the
 laboratory with the long table under the electric lights, where in the small hours of the morning
-we often injected West&rsquo;s various solutions into the veins of the things we dragged from
-the potter&rsquo;s field. West was experimenting madly to find something which would start man&rsquo;s
+we often injected West's various solutions into the veins of the things we dragged from
+the potter's field. West was experimenting madly to find something which would start man's
 vital motions anew after they had been stopped by the thing we call death, but had encountered
-the most ghastly obstacles. The solution had to be differently compounded for different types&mdash;what
+the most ghastly obstacles. The solution had to be differently compounded for different types--what
 would serve for guinea-pigs would not serve for human beings, and different human specimens
 required large modifications.  
 
   The bodies had to be exceedingly fresh, or the slight decomposition of brain
 tissue would render perfect reanimation impossible. Indeed, the greatest problem was to get
-them fresh enough&mdash;West had had horrible experiences during his secret college researches
+them fresh enough--West had had horrible experiences during his secret college researches
 with corpses of doubtful vintage. The results of partial or imperfect animation were much more
 hideous than were the total failures, and we both held fearsome recollections of such things.
 Ever since our first daemoniac session in the deserted farmhouse on Meadow Hill in Arkham, we
 had felt a brooding menace; and West, though a calm, blond, blue-eyed scientific automaton in
 most respects, often confessed to a shuddering sensation of stealthy pursuit. He half felt that
-he was followed&mdash;a psychological delusion of shaken nerves, enhanced by the undeniably
-disturbing fact that at least one of our reanimated specimens was still alive&mdash;a frightful
-carnivorous thing in a padded cell at Sefton. Then there was another&mdash;our first&mdash;whose
+he was followed--a psychological delusion of shaken nerves, enhanced by the undeniably
+disturbing fact that at least one of our reanimated specimens was still alive--a frightful
+carnivorous thing in a padded cell at Sefton. Then there was another--our first--whose
 exact fate we had never learned.  
 
-  We had fair luck with specimens in Bolton&mdash;much better than in Arkham.
+  We had fair luck with specimens in Bolton--much better than in Arkham.
 We had not been settled a week before we got an accident victim on the very night of burial,
 and made it open its eyes with an amazingly rational expression before the solution failed.
-It had lost an arm&mdash;if it had been a perfect body we might have succeeded better. Between
+It had lost an arm--if it had been a perfect body we might have succeeded better. Between
 then and the next January we secured three more; one total failure, one case of marked muscular
-motion, and one rather shivery thing&mdash;it rose of itself and uttered a sound. Then came
+motion, and one rather shivery thing--it rose of itself and uttered a sound. Then came
 a period when luck was poor; interments fell off, and those that did occur were of specimens
 either too diseased or too maimed for use. We kept track of all the deaths and their circumstances
 with systematic care.  
 
   One March night, however, we unexpectedly obtained a specimen which did not
-come from the potter&rsquo;s field. In Bolton the prevailing spirit of Puritanism had outlawed
-the sport of boxing&mdash;with the usual result. Surreptitious and ill-conducted bouts among
+come from the potter's field. In Bolton the prevailing spirit of Puritanism had outlawed
+the sport of boxing--with the usual result. Surreptitious and ill-conducted bouts among
 the mill-workers were common, and occasionally professional talent of low grade was imported.
 This late winter night there had been such a match; evidently with disastrous results, since
 two timorous Poles had come to us with incoherently whispered entreaties to attend to a very
 secret and desperate case. We followed them to an abandoned barn, where the remnants of a crowd
 of frightened foreigners were watching a silent black form on the floor.  
 
-  The match had been between Kid O&rsquo;Brien&mdash;a lubberly and now quaking
-youth with a most un-Hibernian hooked nose&mdash;and Buck Robinson, &ldquo;The Harlem Smoke&rdquo;.
-The negro had been knocked out, and a moment&rsquo;s examination shewed us that he would permanently
+  The match had been between Kid O'Brien--a lubberly and now quaking
+youth with a most un-Hibernian hooked nose--and Buck Robinson,  "The Harlem Smoke ".
+The negro had been knocked out, and a moment's examination shewed us that he would permanently
 remain so. He was a loathsome, gorilla-like thing, with abnormally long arms which I could not
 help calling fore legs, and a face that conjured up thoughts of unspeakable Congo secrets and
-tom-tom poundings under an eerie moon. The body must have looked even worse in life&mdash;but
+tom-tom poundings under an eerie moon. The body must have looked even worse in life--but
 the world holds many ugly things. Fear was upon the whole pitiful crowd, for they did not know
 what the law would exact of them if the affair were not hushed up; and they were grateful when
-West, in spite of my involuntary shudders, offered to get rid of the thing quietly&mdash;for
+West, in spite of my involuntary shudders, offered to get rid of the thing quietly--for
 a purpose I knew too well.  
 
   There was bright moonlight over the snowless landscape, but we dressed the
@@ -409,9 +409,9 @@ avoid the solitary patrolman of that section.
   The result was wearily anticlimactic. Ghastly as our prize appeared, it was
 wholly unresponsive to every solution we injected in its black arm; solutions prepared from
 experience with white specimens only. So as the hour grew dangerously near to dawn, we did as
-we had done with the others&mdash;dragged the thing across the meadows to the neck of the woods
-near the potter&rsquo;s field, and buried it there in the best sort of grave the frozen ground
-would furnish. The grave was not very deep, but fully as good as that of the previous specimen&mdash;the
+we had done with the others--dragged the thing across the meadows to the neck of the woods
+near the potter's field, and buried it there in the best sort of grave the frozen ground
+would furnish. The grave was not very deep, but fully as good as that of the previous specimen--the
 thing which had risen of itself and uttered a sound. In the light of our dark lanterns we carefully
 covered it with leaves and dead vines, fairly certain that the police would never find it in
 a forest so dim and dense.  
@@ -419,47 +419,47 @@ a forest so dim and dense.
   The next day I was increasingly apprehensive about the police, for a patient
 brought rumours of a suspected fight and death. West had still another source of worry, for
 he had been called in the afternoon to a case which ended very threateningly. An Italian woman
-had become hysterical over her missing child&mdash;a lad of five who had strayed off early in
-the morning and failed to appear for dinner&mdash;and had developed symptoms highly alarming
+had become hysterical over her missing child--a lad of five who had strayed off early in
+the morning and failed to appear for dinner--and had developed symptoms highly alarming
 in view of an always weak heart. It was a very foolish hysteria, for the boy had often run away
 before; but Italian peasants are exceedingly superstitious, and this woman seemed as much harassed
-by omens as by facts. About seven o&rsquo;clock in the evening she had died, and her frantic
+by omens as by facts. About seven o'clock in the evening she had died, and her frantic
 husband had made a frightful scene in his efforts to kill West, whom he wildly blamed for not
 saving her life. Friends had held him when he drew a stiletto, but West departed amidst his
 inhuman shrieks, curses, and oaths of vengeance. In his latest affliction the fellow seemed
 to have forgotten his child, who was still missing as the night advanced. There was some talk
-of searching the woods, but most of the family&rsquo;s friends were busy with the dead woman
+of searching the woods, but most of the family's friends were busy with the dead woman
 and the screaming man. Altogether, the nervous strain upon West must have been tremendous. Thoughts
 of the police and of the mad Italian both weighed heavily.  
 
   We retired about eleven, but I did not sleep well. Bolton had a surprisingly
 good police force for so small a town, and I could not help fearing the mess which would ensue
 if the affair of the night before were ever tracked down. It might mean the end of all our local
-work&mdash;and perhaps prison for both West and me. I did not like those rumours of a fight
+work--and perhaps prison for both West and me. I did not like those rumours of a fight
 which were floating about. After the clock had struck three the moon shone in my eyes, but I
 turned over without rising to pull down the shade. Then came the steady rattling at the back
 door.  
 
-  I lay still and somewhat dazed, but before long heard West&rsquo;s rap on my
+  I lay still and somewhat dazed, but before long heard West's rap on my
 door. He was clad in dressing-gown and slippers, and had in his hands a revolver and an electric
 flashlight. From the revolver I knew that he was thinking more of the crazed Italian than of
 the police.  
 
-  &ldquo;We&rsquo;d better both go,&rdquo; he whispered. &ldquo;It wouldn&rsquo;t
-do not to answer it anyway, and it may be a patient&mdash;it would be like one of those fools
-to try the back door.&rdquo;  
+   "We'd better both go, " he whispered.  "It wouldn't
+do not to answer it anyway, and it may be a patient--it would be like one of those fools
+to try the back door. "  
 
   So we both went down the stairs on tiptoe, with a fear partly justified and
 partly that which comes only from the soul of the weird small hours. The rattling continued,
 growing somewhat louder. When we reached the door I cautiously unbolted it and threw it open,
 and as the moon streamed revealingly down on the form silhouetted there, West did a peculiar
 thing. Despite the obvious danger of attracting notice and bringing down on our heads the dreaded
-police investigation&mdash;a thing which after all was mercifully averted by the relative isolation
-of our cottage&mdash;my friend suddenly, excitedly, and unnecessarily emptied all six chambers
+police investigation--a thing which after all was mercifully averted by the relative isolation
+of our cottage--my friend suddenly, excitedly, and unnecessarily emptied all six chambers
 of his revolver into the nocturnal visitor.  
 
   For that visitor was neither Italian nor policeman. Looming hideously against
-the spectral moon was a gigantic misshapen thing not to be imagined save in nightmares&mdash;a
+the spectral moon was a gigantic misshapen thing not to be imagined save in nightmares--a
 glassy-eyed, ink-black apparition nearly on all fours, covered with bits of mould, leaves, and
 vines, foul with caked blood, and having between its glistening teeth a snow-white, terrible,
 cylindrical object terminating in a tiny hand.  
@@ -467,15 +467,15 @@ cylindrical object terminating in a tiny hand.
         IV. The Scream of the Dead    
 
 The scream of a dead man gave to me that acute and added horror of Dr. Herbert West which harassed
-the latter years of our companionship. It is natural that such a thing as a dead man&rsquo;s
+the latter years of our companionship. It is natural that such a thing as a dead man's
 scream should give horror, for it is obviously not a pleasing or ordinary occurrence; but I
 was used to similar experiences, hence suffered on this occasion only because of a particular
 circumstance. And, as I have implied, it was not of the dead man himself that I became afraid.  
 
   Herbert West, whose associate and assistant I was, possessed scientific interests
 far beyond the usual routine of a village physician. That was why, when establishing his practice
-in Bolton, he had chosen an isolated house near the potter&rsquo;s field. Briefly and brutally
-stated, West&rsquo;s sole absorbing interest was a secret study of the phenomena of life and
+in Bolton, he had chosen an isolated house near the potter's field. Briefly and brutally
+stated, West's sole absorbing interest was a secret study of the phenomena of life and
 its cessation, leading toward the reanimation of the dead through injections of an excitant
 solution. For this ghastly experimenting it was necessary to have a constant supply of very
 fresh human bodies; very fresh because even the least decay hopelessly damaged the brain structure,
@@ -486,13 +486,13 @@ a corpse sufficiently fresh. What he wanted were bodies from which vitality had 
 bodies with every cell intact and capable of receiving again the impulse toward that mode of
 motion called life. There was hope that this second and artificial life might be made perpetual
 by repetitions of the injection, but we had learned that an ordinary natural life would not
-respond to the action. To establish the artificial motion, natural life must be extinct&mdash;the
+respond to the action. To establish the artificial motion, natural life must be extinct--the
 specimens must be very fresh, but genuinely dead.  
 
   The awesome quest had begun when West and I were students at the Miskatonic
 University Medical School in Arkham, vividly conscious for the first time of the thoroughly
 mechanical nature of life. That was seven years before, but West looked scarcely a day older
-now&mdash;he was small, blond, clean-shaven, soft-voiced, and spectacled, with only an occasional
+now--he was small, blond, clean-shaven, soft-voiced, and spectacled, with only an occasional
 flash of a cold blue eye to tell of the hardening and growing fanaticism of his character under
 the pressure of his terrible investigations. Our experiences had often been hideous in the extreme;
 the results of defective reanimation, when lumps of graveyard clay had been galvanised into
@@ -501,9 +501,9 @@ morbid, unnatural, and brainless motion by various modifications of the vital so
   One thing had uttered a nerve-shattering scream; another had risen violently,
 beaten us both to unconsciousness, and run amuck in a shocking way before it could be placed
 behind asylum bars; still another, a loathsome African monstrosity, had clawed out of its shallow
-grave and done a deed&mdash;West had had to shoot that object. We could not get bodies fresh
+grave and done a deed--West had had to shoot that object. We could not get bodies fresh
 enough to shew any trace of reason when reanimated, so had perforce created nameless horrors.
-It was disturbing to think that one, perhaps two, of our monsters still lived&mdash;that thought
+It was disturbing to think that one, perhaps two, of our monsters still lived--that thought
 haunted us shadowingly, till finally West disappeared under frightful circumstances. But at
 the time of the scream in the cellar laboratory of the isolated Bolton cottage, our fears were
 subordinate to our anxiety for extremely fresh specimens. West was more avid than I, so that
@@ -512,7 +512,7 @@ it almost seemed to me that he looked half-covetously at any very healthy living
   It was in July, 1910, that the bad luck regarding specimens began to turn.
 I had been on a long visit to my parents in Illinois, and upon my return found West in a state
 of singular elation. He had, he told me excitedly, in all likelihood solved the problem of freshness
-through an approach from an entirely new angle&mdash;that of artificial preservation. I had
+through an approach from an entirely new angle--that of artificial preservation. I had
 known that he was working on a new and highly unusual embalming compound, and was not surprised
 that it had turned out well; but until he explained the details I was rather puzzled as to how
 such a compound could help in our work, since the objectionable staleness of the specimens was
@@ -535,18 +535,18 @@ expected, seemed to West a heaven-sent gift. In his brief conversation the stran
 it clear that he was unknown in Bolton, and a search of his pockets subsequently revealed him
 to be one Robert Leavitt of St. Louis, apparently without a family to make instant inquiries
 about his disappearance. If this man could not be restored to life, no one would know of our
-experiment. We buried our materials in a dense strip of woods between the house and the potter&rsquo;s
+experiment. We buried our materials in a dense strip of woods between the house and the potter's
 field. If, on the other hand, he could be restored, our fame would be brilliantly and perpetually
-established. So without delay West had injected into the body&rsquo;s wrist the compound which
+established. So without delay West had injected into the body's wrist the compound which
 would hold it fresh for use after my arrival. The matter of the presumably weak heart, which
 to my mind imperiled the success of our experiment, did not appear to trouble West extensively.
-He hoped at last to obtain what he had never obtained before&mdash;a rekindled spark of reason
+He hoped at last to obtain what he had never obtained before--a rekindled spark of reason
 and perhaps a normal, living creature.  
 
   So on the night of July 18, 1910, Herbert West and I stood in the cellar laboratory
 and gazed at a white, silent figure beneath the dazzling arc-light. The embalming compound had
 worked uncannily well, for as I stared fascinatedly at the sturdy frame which had lain two weeks
-without stiffening I was moved to seek West&rsquo;s assurance that the thing was really dead.
+without stiffening I was moved to seek West's assurance that the thing was really dead.
 This assurance he gave readily enough; reminding me that the reanimating solution was never
 used without careful tests as to life; since it could have no effect if any of the original
 vitality were present. As West proceeded to take preliminary steps, I was impressed by the vast
@@ -561,15 +561,15 @@ The pale enthusiast now applied some last perfunctory tests for absolute lifeles
 satisfied, and finally injected into the left arm an accurately measured amount of the vital
 elixir, prepared during the afternoon with a greater care than we had used since college days,
 when our feats were new and groping. I cannot express the wild, breathless suspense with which
-we waited for results on this first really fresh specimen&mdash;the first we could reasonably
+we waited for results on this first really fresh specimen--the first we could reasonably
 expect to open its lips in rational speech, perhaps to tell of what it had seen beyond the unfathomable
 abyss.  
 
   West was a materialist, believing in no soul and attributing all the working
 of consciousness to bodily phenomena; consequently he looked for no revelation of hideous secrets
-from gulfs and caverns beyond death&rsquo;s barrier. I did not wholly disagree with him theoretically,
+from gulfs and caverns beyond death's barrier. I did not wholly disagree with him theoretically,
 yet held vague instinctive remnants of the primitive faith of my forefathers; so that I could
-not help eyeing the corpse with a certain amount of awe and terrible expectation. Besides&mdash;I
+not help eyeing the corpse with a certain amount of awe and terrible expectation. Besides--I
 could not extract from my memory that hideous, inhuman shriek we heard on the night we tried
 our first experiment in the deserted farmhouse at Arkham.  
 
@@ -577,22 +577,22 @@ our first experiment in the deserted farmhouse at Arkham.
 failure. A touch of colour came to cheeks hitherto chalk-white, and spread out under the curiously
 ample stubble of sandy beard. West, who had his hand on the pulse of the left wrist, suddenly
 nodded significantly; and almost simultaneously a mist appeared on the mirror inclined above
-the body&rsquo;s mouth. There followed a few spasmodic muscular motions, and then an audible
+the body's mouth. There followed a few spasmodic muscular motions, and then an audible
 breathing and visible motion of the chest. I looked at the closed eyelids, and thought I detected
 a quivering. Then the lids opened, shewing eyes which were grey, calm, and alive, but still
 unintelligent and not even curious.  
 
   In a moment of fantastic whim I whispered questions to the reddening ears;
 questions of other worlds of which the memory might still be present. Subsequent terror drove
-them from my mind, but I think the last one, which I repeated, was: &ldquo;Where have you been?&rdquo;
+them from my mind, but I think the last one, which I repeated, was:  "Where have you been? "
 I do not yet know whether I was answered or not, for no sound came from the well-shaped mouth;
 but I do know that at that moment I firmly thought the thin lips moved silently, forming syllables
-I would have vocalised as &ldquo;only now&rdquo; if that phrase had possessed any sense or relevancy.
+I would have vocalised as  "only now " if that phrase had possessed any sense or relevancy.
 At that moment, as I say, I was elated with the conviction that the one great goal had been
 attained; and that for the first time a reanimated corpse had uttered distinct words impelled
 by actual reason. In the next moment there was no doubt about the triumph; no doubt that the
 solution had truly accomplished, at least temporarily, its full mission of restoring rational
-and articulate life to the dead. But in that triumph there came to me the greatest of all horrors&mdash;not
+and articulate life to the dead. But in that triumph there came to me the greatest of all horrors--not
 horror of the thing that spoke, but of the deed that I had witnessed and of the man with whom
 my professional fortunes were joined.  
 
@@ -602,26 +602,26 @@ life and death struggle with the air; and suddenly collapsing into a second and 
 from which there could be no return, screamed out the cry that will ring eternally in my aching
 brain:  
 
-  &ldquo;Help! Keep off, you cursed little tow-head fiend&mdash;keep that damned
-needle away from me!&rdquo;  
+   "Help! Keep off, you cursed little tow-head fiend--keep that damned
+needle away from me! "  
 
         V. The Horror from the Shadows    
 
 Many men have related hideous things, not mentioned in print, which happened on the battlefields
 of the Great War. Some of these things have made me faint, others have convulsed me with devastating
 nausea, while still others have made me tremble and look behind me in the dark; yet despite
-the worst of them I believe I can myself relate the most hideous thing of all&mdash;the shocking,
+the worst of them I believe I can myself relate the most hideous thing of all--the shocking,
 the unnatural, the unbelievable horror from the shadows.  
 
   In 1915 I was a physician with the rank of First Lieutenant in a Canadian regiment
 in Flanders, one of many Americans to precede the government itself into the gigantic struggle.
 I had not entered the army on my own initiative, but rather as a natural result of the enlistment
-of the man whose indispensable assistant I was&mdash;the celebrated Boston surgical specialist,
+of the man whose indispensable assistant I was--the celebrated Boston surgical specialist,
 Dr. Herbert West. Dr. West had been avid for a chance to serve as surgeon in a great war, and
 when the chance had come he carried me with him almost against my will. There were reasons why
 I would have been glad to let the war separate us; reasons why I found the practice of medicine
 and the companionship of West more and more irritating; but when he had gone to Ottawa and through
-a colleague&rsquo;s influence secured a medical commission as Major, I could not resist the
+a colleague's influence secured a medical commission as Major, I could not resist the
 imperious persuasion of one determined that I should accompany him in my usual capacity.  
 
   When I say that Dr. West was avid to serve in battle, I do not mean to imply
@@ -644,7 +644,7 @@ veins of dead things, and if they were fresh enough they responded in strange wa
 much trouble in discovering the proper formula, for each type of organism was found to need
 a stimulus especially adapted to it. Terror stalked him when he reflected on his partial failures;
 nameless things resulting from imperfect solutions or from bodies insufficiently fresh. A certain
-number of these failures had remained alive&mdash;one was in an asylum while others had vanished&mdash;and
+number of these failures had remained alive--one was in an asylum while others had vanished--and
 as he thought of conceivable yet virtually impossible eventualities he often shivered beneath
 his usual stolidity.  
 
@@ -660,13 +660,13 @@ a loathsome cost, had completely hardened him.
 
   Of his methods in the intervening five years I dare not speak. I was held to
 him by sheer force of fear, and witnessed sights that no human tongue could repeat. Gradually
-I came to find Herbert West himself more horrible than anything he did&mdash;that was when it
+I came to find Herbert West himself more horrible than anything he did--that was when it
 dawned on me that his once normal scientific zeal for prolonging life had subtly degenerated
 into a mere morbid and ghoulish curiosity and secret sense of charnel picturesqueness. His interest
 became a hellish and perverse addiction to the repellently and fiendishly abnormal; he gloated
 calmly over artificial monstrosities which would make most healthy men drop dead from fright
 and disgust; he became, behind his pallid intellectuality, a fastidious Baudelaire of physical
-experiment&mdash;a languid Elagabalus of the tombs.  
+experiment--a languid Elagabalus of the tombs.  
 
   Dangers he met unflinchingly; crimes he committed unmoved. I think the climax
 came when he had proved his point that rational life can be restored, and had sought new worlds
@@ -674,12 +674,12 @@ to conquer by experimenting on the reanimation of detached parts of bodies. He h
 original ideas on the independent vital properties of organic cells and nerve-tissue separated
 from natural physiological systems; and achieved some hideous preliminary results in the form
 of never-dying, artificially nourished tissue obtained from the nearly hatched eggs of an indescribable
-tropical reptile. Two biological points he was exceedingly anxious to settle&mdash;first, whether
+tropical reptile. Two biological points he was exceedingly anxious to settle--first, whether
 any amount of consciousness and rational action be possible without the brain, proceeding from
 the spinal cord and various nerve-centres; and second, whether any kind of ethereal, intangible
 relation distinct from the material cells may exist to link the surgically separated parts of
 what has previously been a single living organism. All this research work required a prodigious
-supply of freshly slaughtered human flesh&mdash;and that was why Herbert West had entered the
+supply of freshly slaughtered human flesh--and that was why Herbert West had entered the
 Great War.  
 
   The phantasmal, unmentionable thing occurred one midnight late in March, 1915,
@@ -687,25 +687,25 @@ in a field hospital behind the lines at St. Eloi. I wonder even now if it could 
 than a daemoniac dream of delirium. West had a private laboratory in an east room of the barn-like
 temporary edifice, assigned him on his plea that he was devising new and radical methods for
 the treatment of hitherto hopeless cases of maiming. There he worked like a butcher in the midst
-of his gory wares&mdash;I could never get used to the levity with which he handled and classified
+of his gory wares--I could never get used to the levity with which he handled and classified
 certain things. At times he actually did perform marvels of surgery for the soldiers; but his
 chief delights were of a less public and philanthropic kind, requiring many explanations of
 sounds which seemed peculiar even amidst that babel of the damned. Among these sounds were frequent
-revolver-shots&mdash;surely not uncommon on a battlefield, but distinctly uncommon in an hospital.
-Dr. West&rsquo;s reanimated specimens were not meant for long existence or a large audience.
+revolver-shots--surely not uncommon on a battlefield, but distinctly uncommon in an hospital.
+Dr. West's reanimated specimens were not meant for long existence or a large audience.
 Besides human tissue, West employed much of the reptile embryo tissue which he had cultivated
 with such singular results. It was better than human material for maintaining life in organless
-fragments, and that was now my friend&rsquo;s chief activity. In a dark corner of the laboratory,
+fragments, and that was now my friend's chief activity. In a dark corner of the laboratory,
 over a queer incubating burner, he kept a large covered vat full of this reptilian cell-matter;
 which multiplied and grew puffily and hideously.  
 
-  On the night of which I speak we had a splendid new specimen&mdash;a man at
+  On the night of which I speak we had a splendid new specimen--a man at
 once physically powerful and of such high mentality that a sensitive nervous system was assured.
 It was rather ironic, for he was the officer who had helped West to his commission, and who
 was now to have been our associate. Moreover, he had in the past secretly studied the theory
 of reanimation to some extent under West. Major Sir Eric Moreland Clapham-Lee, D.S.O., was the
 greatest surgeon in our division, and had been hastily assigned to the St. Eloi sector when
-news of the heavy fighting reached headquarters. He had come in an a&euml;roplane piloted by
+news of the heavy fighting reached headquarters. He had come in an aëroplane piloted by
 the intrepid Lieut. Ronald Hill, only to be shot down when directly over his destination. The
 fall had been spectacular and awful; Hill was unrecognisable afterward, but the wreck yielded
 up the great surgeon in a nearly decapitated but otherwise intact condition. West had greedily
@@ -714,13 +714,13 @@ when he finished severing the head, placed it in his hellish vat of pulpy reptil
 preserve it for future experiments, and proceeded to treat the decapitated body on the operating
 table. He injected new blood, joined certain veins, arteries, and nerves at the headless neck,
 and closed the ghastly aperture with engrafted skin from an unidentified specimen which had
-borne an officer&rsquo;s uniform. I knew what he wanted&mdash;to see if this highly organised
+borne an officer's uniform. I knew what he wanted--to see if this highly organised
 body could exhibit, without its head, any of the signs of mental life which had distinguished
 Sir Eric Moreland Clapham-Lee. Once a student of reanimation, this silent trunk was now gruesomely
 called upon to exemplify it.  
 
   I can still see Herbert West under the sinister electric light as he injected
-his reanimating solution into the arm of the headless body. The scene I cannot describe&mdash;I
+his reanimating solution into the arm of the headless body. The scene I cannot describe--I
 should faint if I tried it, for there is madness in a room full of classified charnel things,
 with blood and lesser human debris almost ankle-deep on the slimy floor, and with hideous reptilian
 abnormalities sprouting, bubbling, and baking over a winking bluish-green spectre of dim flame
@@ -728,28 +728,28 @@ in a far corner of black shadows.
 
   The specimen, as West repeatedly observed, had a splendid nervous system. Much
 was expected of it; and as a few twitching motions began to appear, I could see the feverish
-interest on West&rsquo;s face. He was ready, I think, to see proof of his increasingly strong
-opinion that consciousness, reason, and personality can exist independently of the brain&mdash;that
+interest on West's face. He was ready, I think, to see proof of his increasingly strong
+opinion that consciousness, reason, and personality can exist independently of the brain--that
 man has no central connective spirit, but is merely a machine of nervous matter, each section
 more or less complete in itself. In one triumphant demonstration West was about to relegate
 the mystery of life to the category of myth. The body now twitched more vigorously, and beneath
 our avid eyes commenced to heave in a frightful way. The arms stirred disquietingly, the legs
 drew up, and various muscles contracted in a repulsive kind of writhing. Then the headless thing
-threw out its arms in a gesture which was unmistakably one of desperation&mdash;an intelligent
+threw out its arms in a gesture which was unmistakably one of desperation--an intelligent
 desperation apparently sufficient to prove every theory of Herbert West. Certainly, the nerves
-were recalling the man&rsquo;s last act in life; the struggle to get free of the falling a&euml;roplane.  
+were recalling the man's last act in life; the struggle to get free of the falling aëroplane.  
 
   What followed, I shall never positively know. It may have been wholly an hallucination
 from the shock caused at that instant by the sudden and complete destruction of the building
-in a cataclysm of German shell-fire&mdash;who can gainsay it, since West and I were the only
+in a cataclysm of German shell-fire--who can gainsay it, since West and I were the only
 proved survivors? West liked to think that before his recent disappearance, but there were times
 when he could not; for it was queer that we both had the same hallucination. The hideous occurrence
 itself was very simple, notable only for what it implied.  
 
   The body on the table had risen with a blind and terrible groping, and we had
 heard a sound. I should not call that sound a voice, for it was too awful. And yet its timbre
-was not the most awful thing about it. Neither was its message&mdash;it had merely screamed,
-&ldquo;Jump, Ronald, for God&rsquo;s sake, jump!&rdquo; The awful thing was its source.  
+was not the most awful thing about it. Neither was its message--it had merely screamed,
+ "Jump, Ronald, for God's sake, jump! " The awful thing was its source.  
 
   For it had come from the large covered vat in that ghoulish corner of crawling
 black shadows.  
@@ -764,16 +764,16 @@ in the reanimation of dead bodies had long been too extensive to admit of perfec
 the final soul-shattering catastrophe held elements of daemoniac phantasy which make even me
 doubt the reality of what I saw.  
 
-  I was West&rsquo;s closest friend and only confidential assistant. We had met
+  I was West's closest friend and only confidential assistant. We had met
 years before, in medical school, and from the first I had shared his terrible researches. He
 had slowly tried to perfect a solution which, injected into the veins of the newly deceased,
 would restore life; a labour demanding an abundance of fresh corpses and therefore involving
-the most unnatural actions. Still more shocking were the products of some of the experiments&mdash;grisly
+the most unnatural actions. Still more shocking were the products of some of the experiments--grisly
 masses of flesh that had been dead, but that West waked to a blind, brainless, nauseous animation.
 These were the usual results, for in order to reawaken the mind it was necessary to have specimens
 so absolutely fresh that no decay could possibly affect the delicate brain-cells.  
 
-  This need for very fresh corpses had been West&rsquo;s moral undoing. They
+  This need for very fresh corpses had been West's moral undoing. They
 were hard to get, and one awful day he had secured his specimen while it was still alive and
 vigorous. A struggle, a needle, and a powerful alkaloid had transformed it to a very fresh corpse,
 and the experiment had succeeded for a brief and memorable moment; but West had emerged with
@@ -789,32 +789,32 @@ his nervousness was deeper and more nebulous, touching on certain indescribable 
 which he had injected a morbid life, and from which he had not seen that life depart. He usually
 finished his experiments with a revolver, but a few times he had not been quick enough. There
 was that first specimen on whose rifled grave marks of clawing were later seen. There was also
-that Arkham professor&rsquo;s body which had done cannibal things before it had been captured
+that Arkham professor's body which had done cannibal things before it had been captured
 and thrust unidentified into a madhouse cell at Sefton, where it beat the walls for sixteen
-years. Most of the other possibly surviving results were things less easy to speak of&mdash;for
-in later years West&rsquo;s scientific zeal had degenerated to an unhealthy and fantastic mania,
+years. Most of the other possibly surviving results were things less easy to speak of--for
+in later years West's scientific zeal had degenerated to an unhealthy and fantastic mania,
 and he had spent his chief skill in vitalising not entire human bodies but isolated parts of
 bodies, or parts joined to organic matter other than human. It had become fiendishly disgusting
 by the time he disappeared; many of the experiments could not even be hinted at in print. The
 Great War, through which both of us served as surgeons, had intensified this side of West.  
 
-  In saying that West&rsquo;s fear of his specimens was nebulous, I have in mind
+  In saying that West's fear of his specimens was nebulous, I have in mind
 particularly its complex nature. Part of it came merely from knowing of the existence of such
 nameless monsters, while another part arose from apprehension of the bodily harm they might
-under certain circumstances do him. Their disappearance added horror to the situation&mdash;of
+under certain circumstances do him. Their disappearance added horror to the situation--of
 them all West knew the whereabouts of only one, the pitiful asylum thing. Then there was a more
-subtle fear&mdash;a very fantastic sensation resulting from a curious experiment in the Canadian
+subtle fear--a very fantastic sensation resulting from a curious experiment in the Canadian
 army in 1915. West, in the midst of a severe battle, had reanimated Major Sir Eric Moreland
 Clapham-Lee, D.S.O., a fellow-physician who knew about his experiments and could have duplicated
 them. The head had been removed, so that the possibilities of quasi-intelligent life in the
 trunk might be investigated. Just as the building was wiped out by a German shell, there had
 been a success. The trunk had moved intelligently; and, unbelievable to relate, we were both
 sickeningly sure that articulate sounds had come from the detached head as it lay in a shadowy
-corner of the laboratory. The shell had been merciful, in a way&mdash;but West could never feel
+corner of the laboratory. The shell had been merciful, in a way--but West could never feel
 as certain as he wished, that we two were the only survivors. He used to make shuddering conjectures
 about the possible actions of a headless physician with the power of reanimating the dead.  
 
-  West&rsquo;s last quarters were in a venerable house of much elegance, overlooking
+  West's last quarters were in a venerable house of much elegance, overlooking
 one of the oldest burying-grounds in Boston. He had chosen the place for purely symbolic and
 fantastically aesthetic reasons, since most of the interments were of the colonial period and
 therefore of little use to a scientist seeking very fresh bodies. The laboratory was in a sub-cellar
@@ -827,11 +827,11 @@ a number of calculations West decided that it represented some secret chamber be
 of the Averills, where the last interment had been made in 1768. I was with him when he studied
 the nitrous, dripping walls laid bare by the spades and mattocks of the men, and was prepared
 for the gruesome thrill which would attend the uncovering of centuried grave-secrets; but for
-the first time West&rsquo;s new timidity conquered his natural curiosity, and he betrayed his
+the first time West's new timidity conquered his natural curiosity, and he betrayed his
 degenerating fibre by ordering the masonry left intact and plastered over. Thus it remained
-till that final hellish night; part of the walls of the secret laboratory. I speak of West&rsquo;s
+till that final hellish night; part of the walls of the secret laboratory. I speak of West's
 decadence, but must add that it was a purely mental and intangible thing. Outwardly he was the
-same to the last&mdash;calm, cold, slight, and yellow-haired, with spectacled blue eyes and
+same to the last--calm, cold, slight, and yellow-haired, with spectacled blue eyes and
 a general aspect of youth which years and fears seemed never to change. He seemed calm even
 when he thought of that clawed grave and looked over his shoulder; even when he thought of the
 carnivorous thing that gnawed and pawed at Sefton bars.  
@@ -844,7 +844,7 @@ neighbourhood and baffling the police. In the small hours of the morning a body 
 had entered the grounds and their leader had aroused the attendants. He was a menacing military
 figure who talked without moving his lips and whose voice seemed almost ventriloquially connected
 with an immense black case he carried. His expressionless face was handsome to the point of
-radiant beauty, but had shocked the superintendent when the hall light fell on it&mdash;for
+radiant beauty, but had shocked the superintendent when the hall light fell on it--for
 it was a wax face with eyes of painted glass. Some nameless accident had befallen this man.
 A larger man guided his steps; a repellent hulk whose bluish face seemed half eaten away by
 some unknown malady. The speaker had asked for the custody of the cannibal monster committed
@@ -859,19 +859,19 @@ trace of the men and of their mad charge had vanished.
 At midnight the doorbell rang, startling him fearfully. All the servants were asleep in the
 attic, so I answered the bell. As I have told the police, there was no wagon in the street;
 but only a group of strange-looking figures bearing a large square box which they deposited
-in the hallway after one of them had grunted in a highly unnatural voice, &ldquo;Express&mdash;prepaid.&rdquo;
+in the hallway after one of them had grunted in a highly unnatural voice,  "Express--prepaid. "
 They filed out of the house with a jerky tread, and as I watched them go I had an odd idea that
 they were turning toward the ancient cemetery on which the back of the house abutted. When I
 slammed the door after them West came downstairs and looked at the box. It was about two feet
-square, and bore West&rsquo;s correct name and present address. It also bore the inscription,
-&ldquo;From Eric Moreland Clapham-Lee, St. Eloi, Flanders&rdquo;. Six years before, in Flanders,
+square, and bore West's correct name and present address. It also bore the inscription,
+ "From Eric Moreland Clapham-Lee, St. Eloi, Flanders ". Six years before, in Flanders,
 a shelled hospital had fallen upon the headless reanimated trunk of Dr. Clapham-Lee, and upon
-the detached head which&mdash;perhaps&mdash;had uttered articulate sounds.  
+the detached head which--perhaps--had uttered articulate sounds.  
 
   West was not even excited now. His condition was more ghastly. Quickly he said,
-&ldquo;It&rsquo;s the finish&mdash;but let&rsquo;s incinerate&mdash;this.&rdquo; We carried
-the thing down to the laboratory&mdash;listening. I do not remember many particulars&mdash;you
-can imagine my state of mind&mdash;but it is a vicious lie to say it was Herbert West&rsquo;s
+ "It's the finish--but let's incinerate--this. " We carried
+the thing down to the laboratory--listening. I do not remember many particulars--you
+can imagine my state of mind--but it is a vicious lie to say it was Herbert West's
 body which I put into the incinerator. We both inserted the whole unopened wooden box, closed
 the door, and started the electricity. Nor did any sound come from the box, after all.  
 
@@ -880,14 +880,14 @@ where the ancient tomb masonry had been covered up. I was going to run, but he s
 I saw a small black aperture, felt a ghoulish wind of ice, and smelled the charnel bowels of
 a putrescent earth. There was no sound, but just then the electric lights went out and I saw
 outlined against some phosphorescence of the nether world a horde of silent toiling things which
-only insanity&mdash;or worse&mdash;could create. Their outlines were human, semi-human, fractionally
-human, and not human at all&mdash;the horde was grotesquely heterogeneous. They were removing
+only insanity--or worse--could create. Their outlines were human, semi-human, fractionally
+human, and not human at all--the horde was grotesquely heterogeneous. They were removing
 the stones quietly, one by one, from the centuried wall. And then, as the breach became large
 enough, they came out into the laboratory in single file; led by a stalking thing with a beautiful
 head made of wax. A sort of mad-eyed monstrosity behind the leader seized on Herbert West. West
 did not resist or utter a sound. Then they all sprang at him and tore him to pieces before my
-eyes, bearing the fragments away into that subterranean vault of fabulous abominations. West&rsquo;s
-head was carried off by the wax-headed leader, who wore a Canadian officer&rsquo;s uniform.
+eyes, bearing the fragments away into that subterranean vault of fabulous abominations. West's
+head was carried off by the wax-headed leader, who wore a Canadian officer's uniform.
 As it disappeared I saw that the blue eyes behind the spectacles were hideously blazing with
 their first touch of frantic, visible emotion.  
 
@@ -895,5 +895,5 @@ their first touch of frantic, visible emotion.
 contained only unidentifiable ashes. Detectives have questioned me, but what can I say? The
 Sefton tragedy they will not connect with West; not that, nor the men with the box, whose existence
 they deny. I told them of the vault, and they pointed to the unbroken plaster wall and laughed.
-So I told them no more. They imply that I am a madman or a murderer&mdash;probably I am mad.
+So I told them no more. They imply that I am a madman or a murderer--probably I am mad.
 But I might not be mad if those accursed tomb-legions had not been so silent.  

@@ -1,4 +1,4 @@
-% "Till A&rsquo; the Seas" 
+% "Till A' the Seas" 
 %  R. H. Barlow and H. P. Lovecraft
 
         
@@ -10,15 +10,15 @@
 Upon an eroded cliff-top rested the man, gazing far across the valley. Lying thus, he could
 see a great distance, but in all the sere expanse there was no visible motion. Nothing stirred
 the dusty plain, the disintegrated sand of long-dry river-beds, where once coursed the gushing
-streams of Earth&rsquo;s youth. There was little greenery in this ultimate world, this final
-stage of mankind&rsquo;s prolonged presence upon the planet. For unnumbered aeons the drought
+streams of Earth's youth. There was little greenery in this ultimate world, this final
+stage of mankind's prolonged presence upon the planet. For unnumbered aeons the drought
 and sandstorms had ravaged all the lands. The trees and bushes had given way to small, twisted
 shrubs that persisted long through their sturdiness; but these, in turn, perished before the
 onslaught of coarse grasses and stringy, tough vegetation of strange evolution.  
 
   The ever-present heat, as Earth drew nearer to the sun, withered and killed
 with pitiless rays. It had not come at once; long aeons had gone before any could feel the change.
-And all through those first ages man&rsquo;s adaptable form had followed the slow mutation and
+And all through those first ages man's adaptable form had followed the slow mutation and
 modelled itself to fit the more and more torrid air. Then the day had come when men could bear
 their hot cities but ill, and a gradual recession began, slow yet deliberate. Those towns and
 settlements closest to the equator had been first, of course, but later there were others. Man,
@@ -42,14 +42,14 @@ know that they must forever abandon them to nature. The other colonists in the h
 from their brave posts, and total silence reigned within the high basalt walls of a thousand
 empty towns. Of the dense throngs and multitudinous activities of the past, nothing finally
 remained. There now loomed against the rainless deserts only the blistered towers of vacant
-houses, factories, and structures of every sort, reflecting the sun&rsquo;s dazzling radiance
+houses, factories, and structures of every sort, reflecting the sun's dazzling radiance
 and parching in the more and more intolerable heat.  
 
   Many lands, however, had still escaped the scorching blight, so that the refugees
 were soon absorbed in the life of a newer world. During strangely prosperous centuries the hoary
 deserted cities of the equator grew half-forgotten and entwined with fantastic fables. Few thought
-of those spectral, rotting towers&nbsp;.&nbsp;.&nbsp;. those huddles of shabby walls and cactus-choked
-streets, darkly silent and abandoned.&nbsp;.&nbsp;.&nbsp;.  
+of those spectral, rotting towers . . . those huddles of shabby walls and cactus-choked
+streets, darkly silent and abandoned. . . .  
 
   Wars came, sinful and prolonged, but the times of peace were greater. Yet always
 the swollen sun increased its radiance as Earth drew closer to its fiery parent. It was as if
@@ -57,22 +57,22 @@ the planet meant to return to that source whence it was snatched, aeons ago, thr
 of cosmic growth.  
 
   After a time the blight crept outward from the central belt. Southern Yarat
-burned as a tenantless desert&mdash;and then the north. In Perath and Baling, those ancient
+burned as a tenantless desert--and then the north. In Perath and Baling, those ancient
 cities where brooding centuries dwelt, there moved only the scaly shapes of the serpent and
 the salamander, and at last Loton echoed only to the fitful falling of tottering spires and
 crumbling domes.  
 
   Steady, universal, and inexorable was the great eviction of man from the realms
 he had always known. No land within the widening stricken belt was spared; no people left unrouted.
-It was an epic, a titan tragedy whose plot was unrevealed to the actors&mdash;this wholesale
+It was an epic, a titan tragedy whose plot was unrevealed to the actors--this wholesale
 desertion of the cities of men. It took not years or even centuries, but millennia of ruthless
-change. And still it kept on&mdash;sullen, inevitable, savagely devastating.  
+change. And still it kept on--sullen, inevitable, savagely devastating.  
 
   Agriculture was at a standstill, the world fast became too arid for crops.
 This was remedied by artificial substitutes, soon universally used. And as the old places that
 had known the great things of mortals were left, the loot salvaged by the fugitives grew smaller
-and smaller. Things of the greatest value and importance were left in dead museums&mdash;lost
-amid the centuries&mdash;and in the end the heritage of the immemorial past was abandoned. A
+and smaller. Things of the greatest value and importance were left in dead museums--lost
+amid the centuries--and in the end the heritage of the immemorial past was abandoned. A
 degeneracy both physical and cultural set in with the insidious heat. For man had so long dwelt
 in comfort and security that this exodus from past scenes was difficult. Nor were these events
 received phlegmatically; their very slowness was terrifying. Degradation and debauchery were
@@ -90,10 +90,10 @@ the forthcoming disasters. In the city of Borligo a wholesale execution of the n
 took place, after months of unfulfilled expectations. They thought the flight to the northland
 unnecessary, and looked no longer for the threatened ending.  
 
-  How they perished must have been terrible indeed&mdash;those vain, foolish creatures
-who thought to defy the universe. But the blackened, scorched towns are mute.&nbsp;.&nbsp;.&nbsp;.  
+  How they perished must have been terrible indeed--those vain, foolish creatures
+who thought to defy the universe. But the blackened, scorched towns are mute. . . .  
 
-  These events, however, must not be chronicled&mdash;for there are larger things
+  These events, however, must not be chronicled--for there are larger things
 to consider than this complex and unhastening downfall of a lost civilization. During a long
 period morale was at lowest ebb among the courageous few who settled upon the alien arctic and
 antarctic shores, now mild as were those of southern Yarat in the long-dead past. But here there
@@ -115,9 +115,9 @@ ocean wasted slowly away; enriching the air and the desiccated soil, but sinking
 each century. The splashing surf still glistened bright, and the swirling eddies were still
 there, but a doom of dryness hung over the whole watery expanse. However, the shrinkage could
 not have been detected save by instruments more delicate than any then known to the race. Even
-had the people realized the ocean&rsquo;s contraction, it is not likely that any vast alarm or
-great disturbance would have resulted, for the losses were so slight, and the seas so great.&nbsp;.&nbsp;.&nbsp;.
-Only a few inches during many centuries&mdash;but in many centuries; increasing&mdash;  
+had the people realized the ocean's contraction, it is not likely that any vast alarm or
+great disturbance would have resulted, for the losses were so slight, and the seas so great. . . .
+Only a few inches during many centuries--but in many centuries; increasing--  
 
     *  *  *    
 
@@ -137,17 +137,17 @@ had once dwelt on the doomed planet.
   And the hundreds became small, till man was to be reckoned only in tens. These
 tens clung to the shrinking dampness of the caves, and knew at last that the end was near. So
 slight was their range that none had ever seen the tiny, fabled spots of ice left close to the
-planet&rsquo;s poles&mdash;if such indeed remained. Even had they existed and been known to man,
+planet's poles--if such indeed remained. Even had they existed and been known to man,
 none could have reached them across the trackless and formidable deserts. And so the last pathetic
-few dwindled.&nbsp;.&nbsp;.&nbsp;.   
+few dwindled. . . .   
 
   It cannot be described, this awesome chain of events that depopulated the whole
-Earth; the range is too tremendous for any to picture or encompass. Of the people of Earth&rsquo;s
+Earth; the range is too tremendous for any to picture or encompass. Of the people of Earth's
 fortunate ages, billions of years before, only a few prophets and madmen could have conceived
-that which was to come&mdash;could have grasped visions of the still, dead lands, and long-empty
-sea-beds. The rest would have doubted&nbsp;.&nbsp;.&nbsp;. doubted alike the shadow of change
+that which was to come--could have grasped visions of the still, dead lands, and long-empty
+sea-beds. The rest would have doubted . . . doubted alike the shadow of change
 upon the planet and the shadow of doom upon the race. For man has always thought himself the
-immortal master of natural things.&nbsp;.&nbsp;.&nbsp;.  
+immortal master of natural things. . . .  
 
     II.    
 
@@ -157,11 +157,11 @@ withered leaves. Her face had been the colour of the sickly yellow grasses that 
 hot wind, and she was loathsomely old.  
 
   But she had been a companion; someone to stammer out vague fears to, to talk
-to about this incredible thing; a comrade to share one&rsquo;s hopes for succour from those silent
+to about this incredible thing; a comrade to share one's hopes for succour from those silent
 other colonies beyond the mountains. He could not believe none lived elsewhere, for Ull was young,
 and not certain as are the old.  
 
-  For many years he had known none but the old woman&mdash;her name was Mladdna.
+  For many years he had known none but the old woman--her name was Mladdna.
 She had come that day in his eleventh year, when all the hunters went to seek food, and did
 not return. Ull had no mother that he could remember, and there were few women in the tiny group.
 When the men vanished, those three women, the young one and the two old, had screamed fearfully,
@@ -182,15 +182,15 @@ of patience, and threatened to die too. Then, hearkening, he became quiet at onc
 not desirous of complete solitude. After that he lived with Mladdna and they gathered roots
 to eat.  
 
-  Mladdna&rsquo;s rotten teeth were ill suited to the food they gathered, but
+  Mladdna's rotten teeth were ill suited to the food they gathered, but
 they contrived to chop it up till she could manage it. This weary routine of seeking and eating
-was Ull&rsquo;s childhood.  
+was Ull's childhood.  
 
   Now he was strong, and firm, in his nineteenth year, and the old woman was
 dead. There was naught to stay for, so he determined at once to seek out those fabled huts beyond
 the mountains, and live with the people there. There was nothing to take on the journey. Ull
-closed the door of his cabin&mdash;why, he could not have told, for no animals had been there
-for many years&mdash;and left the dead woman within. Half-dazed, and fearful at his own audacity,
+closed the door of his cabin--why, he could not have told, for no animals had been there
+for many years--and left the dead woman within. Half-dazed, and fearful at his own audacity,
 he walked long hours in the dry grasses, and at length reached the first of the foothills. The
 afternoon came, and he climbed until he was weary, and lay down on the grasses. Sprawled there,
 he thought of many things. He wondered at the strange life, passionately anxious to seek out
@@ -210,7 +210,7 @@ morning, and at mid-day surmounted the first peak, where he lay for a time, surv
 before the next range.  
 
   Upon an eroded cliff-top rested the man, gazing far across the valley. Lying
-thus he could see a great distance, but in all the sere expanse there was no visible motion.&nbsp;.&nbsp;.&nbsp;.  
+thus he could see a great distance, but in all the sere expanse there was no visible motion. . . .  
 
   The second night came, and found Ull amid the rough peaks, the valley and the
 place where he had rested far behind. He was nearly out of the second range now, and hurrying
@@ -233,7 +233,7 @@ was nearly gone; the hateful, devastating sun that had slain humanity. He could 
 of details, but soon the cabins were near.  
 
   They were very old, for clay blocks lasted long in the still dryness of the
-dying world. Little, indeed, changed but the living things&mdash;the grasses and these last men.  
+dying world. Little, indeed, changed but the living things--the grasses and these last men.  
 
   Before him an open door swung upon rude pegs. In the fading light Ull entered,
 weary unto death, seeking painfully the expected faces.  
@@ -245,31 +245,31 @@ ancient skeleton.
 
   He rose at last, crazed by thirst, aching unbearably, and suffering the greatest
 disappointment any mortal could know. He was, then, the last living thing upon the globe. His
-the heritage of the Earth&nbsp;.&nbsp;.&nbsp;. all the lands, and all to him equally useless.
+the heritage of the Earth . . . all the lands, and all to him equally useless.
 He staggered up, not looking at the dim white form in the reflected moonlight, and went through
 the door. About the empty village he wandered, searching for water and sadly inspecting this
 long-empty place so spectrally preserved by the changeless air. Here there was a dwelling, there
-a rude place where things had been made&mdash;clay vessels holding only dust, and nowhere any
+a rude place where things had been made--clay vessels holding only dust, and nowhere any
 liquid to quench his burning thirst.  
 
   Then, in the centre of the little town, Ull saw a well-curb. He knew what it
 was, for he had heard tales of such things from Mladdna. With pitiful joy, he reeled forward
-and leaned upon the edge. There, at last, was the end of his search. Water&mdash;slimy, stagnant,
-and shallow, but water&mdash;before his sight.  
+and leaned upon the edge. There, at last, was the end of his search. Water--slimy, stagnant,
+and shallow, but water--before his sight.  
 
   Ull cried out in the voice of a tortured animal, groping for the chain and
 bucket. His hand slipped on the slimy edge; and he fell upon his chest across the brink. For
-a moment he lay there&mdash;then soundlessly his body was precipitated down the black shaft.  
+a moment he lay there--then soundlessly his body was precipitated down the black shaft.  
 
   There was a slight splash in the murky shallowness as he struck some long-sunken
 stone, dislodged aeons ago from the massive coping. The disturbed water subsided into quietness.  
 
   And now at last the Earth was dead. The final, pitiful survivor had perished.
 All the teeming billions; the slow aeons; the empires and civilizations of mankind were summed
-up in this poor twisted form&mdash;and how titanically meaningless it all had been! Now indeed
-had come an end and climax to all the efforts of humanity&mdash;how monstrous and incredible
+up in this poor twisted form--and how titanically meaningless it all had been! Now indeed
+had come an end and climax to all the efforts of humanity--how monstrous and incredible
 a climax in the eyes of those poor complacent fools of the prosperous days! Not ever again would
-the planet know the thunderous tramping of human millions&mdash;or even the crawling of lizards
+the planet know the thunderous tramping of human millions--or even the crawling of lizards
 and the buzz of insects, for they, too, had gone. Now was come the reign of sapless branches
 and endless fields of tough grasses. Earth, like its cold, imperturbable moon, was given over
 to silence and blackness forever.  
@@ -280,5 +280,5 @@ new-born, flourishing, and dying. The race of man, too puny and momentary to hav
 or purpose, was as if it had never existed. To such a conclusion the aeons of its farcically
 toilsome evolution had led.  
 
-  But when the deadly sun&rsquo;s first rays darted across the valley, a light
+  But when the deadly sun's first rays darted across the valley, a light
 found its way to the weary face of a broken figure that lay in the slime.  

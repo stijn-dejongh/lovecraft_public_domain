@@ -42,13 +42,13 @@ silver minted two centuries ago.
   Messrs. Ricci, Czanek, and Silva selected the night of April 11th for their
 call. Mr. Ricci and Mr. Silva were to interview the poor old gentleman, whilst Mr. Czanek waited
 for them and their presumable metallic burden with a covered motor-car in Ship Street, by the
-gate in the tall rear wall of their host&rsquo;s grounds. Desire to avoid needless explanations
+gate in the tall rear wall of their host's grounds. Desire to avoid needless explanations
 in case of unexpected police intrusions prompted these plans for a quiet and unostentatious
 departure.  
 
   As prearranged, the three adventurers started out separately in order to prevent
 any evil-minded suspicions afterward. Messrs. Ricci and Silva met in Water Street by the old
-man&rsquo;s front gate, and although they did not like the way the moon shone down upon the
+man's front gate, and although they did not like the way the moon shone down upon the
 painted stones through the budding branches of the gnarled trees, they had more important things
 to think about than mere idle superstition. They feared it might be unpleasant work making the
 Terrible Old Man loquacious concerning his hoarded gold and silver, for aged sea-captains are
@@ -59,7 +59,7 @@ to the one lighted window and heard the Terrible Old Man talking childishly to h
 pendulums. Then they donned masks and knocked politely at the weather-stained oaken door.  
 
   Waiting seemed very long to Mr. Czanek as he fidgeted restlessly in the covered
-motor-car by the Terrible Old Man&rsquo;s back gate in Ship Street. He was more than ordinarily
+motor-car by the Terrible Old Man's back gate in Ship Street. He was more than ordinarily
 tender-hearted, and he did not like the hideous screams he had heard in the ancient house just
 after the hour appointed for the deed. Had he not told his colleagues to be as gentle as possible
 with the pathetic old sea-captain? Very nervously he watched that narrow oaken gate in the high
@@ -71,7 +71,7 @@ and saw the narrow, heavy door swing inward. And in the pallid glow of the singl
 he strained his eyes to see what his colleagues had brought out of that sinister house which
 loomed so close behind. But when he looked, he did not see what he had expected; for his colleagues
 were not there at all, but only the Terrible Old Man leaning quietly on his knotted cane and
-smiling hideously. Mr. Czanek had never before noticed the colour of that man&rsquo;s eyes;
+smiling hideously. Mr. Czanek had never before noticed the colour of that man's eyes;
 now he saw that they were yellow.  
 
   Little things make considerable excitement in little towns, which is the reason
@@ -81,5 +81,5 @@ boot-heels, which the tide washed in. And some people even spoke of things as tr
 deserted motor-car found in Ship Street, or certain especially inhuman cries, probably of a
 stray animal or migratory bird, heard in the night by wakeful citizens. But in this idle village
 gossip the Terrible Old Man took no interest at all. He was by nature reserved, and when one
-is aged and feeble one&rsquo;s reserve is doubly strong. Besides, so ancient a sea-captain must
+is aged and feeble one's reserve is doubly strong. Besides, so ancient a sea-captain must
 have witnessed scores of things much more stirring in the far-off days of his unremembered youth.  

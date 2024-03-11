@@ -8,8 +8,8 @@
   
      
         
-           &ldquo;I have an exposition of sleep come upon me.&rdquo;  
-              &mdash;Shakespeare.  
+            "I have an exposition of sleep come upon me. "  
+              --Shakespeare.  
            
         
      
@@ -20,7 +20,7 @@
 I have frequently wondered if the majority of mankind ever pause to reflect upon the occasionally
 titanic significance of dreams, and of the obscure world to which they belong. Whilst the greater
 number of our nocturnal visions are perhaps no more than faint and fantastic reflections of
-our waking experiences&mdash;Freud to the contrary with his puerile symbolism&mdash;there are
+our waking experiences--Freud to the contrary with his puerile symbolism--there are
 still a certain remainder whose immundane and ethereal character permits of no ordinary interpretation,
 and whose vaguely exciting and disquieting effect suggests possible minute glimpses into a sphere
 of mental existence no less important than physical life, yet separated from that life by an
@@ -41,8 +41,8 @@ was that of the typical denizen of the Catskill Mountain region; one of those st
 scions of a primitive colonial peasant stock whose isolation for nearly three centuries in the
 hilly fastnesses of a little-travelled countryside has caused them to sink to a kind of barbaric
 degeneracy, rather than advance with their more fortunately placed brethren of the thickly settled
-districts. Among these odd folk, who correspond exactly to the decadent element of &ldquo;white
-trash&rdquo; in the South, law and morals are non-existent; and their general mental status
+districts. Among these odd folk, who correspond exactly to the decadent element of  "white
+trash " in the South, law and morals are non-existent; and their general mental status
 is probably below that of any other section of the native American people.  
 
   Joe Slater, who came to the institution in the vigilant custody of four state
@@ -71,23 +71,23 @@ increased in frequency and violence; till about a month before his arrival at th
 had occurred the shocking tragedy which caused his arrest by the authorities. One day near noon,
 after a profound sleep begun in a whiskey debauch at about five of the previous afternoon, the
 man had roused himself most suddenly; with ululations so horrible and unearthly that they brought
-several neighbours to his cabin&mdash;a filthy sty where he dwelt with a family as indescribable
+several neighbours to his cabin--a filthy sty where he dwelt with a family as indescribable
 as himself. Rushing out into the snow, he had flung his arms aloft and commenced a series of
 leaps directly upward in the air; the while shouting his determination to reach some &lsquo;big,
-big cabin with brightness in the roof and walls and floor, and the loud queer music far away&rsquo;.
+big cabin with brightness in the roof and walls and floor, and the loud queer music far away'.
 As two men of moderate size sought to restrain him, he had struggled with maniacal force and
 fury, screaming of his desire and need to find and kill a certain &lsquo;thing that shines and
-shakes and laughs&rsquo;. At length, after temporarily felling one of his detainers with a sudden
+shakes and laughs'. At length, after temporarily felling one of his detainers with a sudden
 blow, he had flung himself upon the other in a daemoniac ecstasy of bloodthirstiness, shrieking
 fiendishly that he would &lsquo;jump high in the air and burn his way through anything that
-stopped him&rsquo;. Family and neighbours had now fled in a panic, and when the more courageous
+stopped him'. Family and neighbours had now fled in a panic, and when the more courageous
 of them returned, Slater was gone, leaving behind an unrecognisable pulp-like thing that had
 been a living man but an hour before. None of the mountaineers had dared to pursue him, and
 it is likely that they would have welcomed his death from the cold; but when several mornings
 later they heard his screams from a distant ravine, they realised that he had somehow managed
 to survive, and that his removal in one way or another would be necessary. Then had followed
 an armed searching party, whose purpose (whatever it may have been originally) became that of
-a sheriff&rsquo;s posse after one of the seldom popular state troopers had by accident observed,
+a sheriff's posse after one of the seldom popular state troopers had by accident observed,
 then questioned, and finally joined the seekers.  
 
   On the third day Slater was found unconscious in the hollow of a tree, and
@@ -104,7 +104,7 @@ quality; and in the flaccid lips an all but imperceptible tightening, as if of i
 But when questioned, Slater relapsed into the habitual vacancy of the mountaineer, and only
 reiterated what he had said on the preceding day.  
 
-  On the third morning occurred the first of the man&rsquo;s mental attacks.
+  On the third morning occurred the first of the man's mental attacks.
 After some show of uneasiness in sleep, he burst forth into a frenzy so powerful that the combined
 efforts of four men were needed to bind him in a strait-jacket. The alienists listened with
 keen attention to his words, since their curiosity had been aroused to a high pitch by the suggestive
@@ -121,7 +121,7 @@ till night, when he succeeded in persuading Slater to don it of his own volition
 good. The man had now admitted that he sometimes talked queerly, though he knew not why.  
 
   Within a week two more attacks appeared, but from them the doctors learned
-little. On the   source   of Slater&rsquo;s visions they speculated at length, for since
+little. On the   source   of Slater's visions they speculated at length, for since
 he could neither read nor write, and had apparently never heard a legend or fairy tale, his
 gorgeous imagery was quite inexplicable. That it could not come from any known myth or romance
 was made especially clear by the fact that the unfortunate lunatic expressed himself only in
@@ -185,7 +185,7 @@ at that crude, pre-radio period. These I had tested with a fellow-student; but a
 result, had soon packed them away with other scientific odds and ends for possible future use.
 Now, in my intense desire to probe into the dream life of Joe Slater, I sought these instruments
 again; and spent several days in repairing them for action. When they were complete once more
-I missed no opportunity for their trial. At each outburst of Slater&rsquo;s violence, I would
+I missed no opportunity for their trial. At each outburst of Slater's violence, I would
 fit the transmitter to his forehead and the receiver to my own; constantly making delicate adjustments
 for various hypothetical wave-lengths of intellectual energy. I had but little notion of how
 the thought-impressions would, if successfully conveyed, arouse an intelligent response in my
@@ -198,7 +198,7 @@ It was on the twenty-first of February, 1901, that the thing finally occurred. A
 across the years I realise how unreal it seems; and sometimes half wonder if old Dr. Fenton
 was not right when he charged it all to my excited imagination. I recall that he listened with
 great kindness and patience when I told him, but afterward gave me a nerve-powder and arranged
-for the half-year&rsquo;s vacation on which I departed the next week. That fateful night I was
+for the half-year's vacation on which I departed the next week. That fateful night I was
 wildly agitated and perturbed, for despite the excellent care he had received, Joe Slater was
 unmistakably dying. Perhaps it was his mountain freedom that he missed, or perhaps the turmoil
 in his brain had grown too acute for his rather sluggish physique; but at all events the flame
@@ -206,7 +206,7 @@ of vitality flickered low in the decadent body. He was drowsy near the end, and 
 fell he dropped off into a troubled sleep. I did not strap on the strait-jacket as was customary
 when he slept, since I saw that he was too feeble to be dangerous, even if he woke in mental
 disorder once more before passing away. But I did place upon his head and mine the two ends
-of my cosmic &ldquo;radio&rdquo;; hoping against hope for a first and last message from the
+of my cosmic  "radio "; hoping against hope for a first and last message from the
 dream-world in the brief time remaining. In the cell with us was one nurse, a mediocre fellow
 who did not understand the purpose of the apparatus, or think to inquire into my course. As
 the hours wore on I saw his head droop awkwardly in sleep, but I did not disturb him. I myself,
@@ -233,7 +233,7 @@ triumph, for was not my fellow-being escaping at last from a degrading periodic 
 forever, and preparing to follow the accursed oppressor even unto the uttermost fields of ether,
 that upon it might be wrought a flaming cosmic vengeance which would shake the spheres? We floated
 thus for a little time, when I perceived a slight blurring and fading of the objects around
-us, as though some force were recalling me to earth&mdash;where I least wished to go. The form
+us, as though some force were recalling me to earth--where I least wished to go. The form
 near me seemed to feel a change also, for it gradually brought its discourse toward a conclusion,
 and itself prepared to quit the scene; fading from my sight at a rate somewhat less rapid than
 that of the other objects. A few more thoughts were exchanged, and I knew that the luminous
@@ -247,9 +247,9 @@ from my sudden and somewhat shamefaced awakening and straightening up in my chai
 dying figure on the couch move hesitantly. Joe Slater was indeed awaking, though probably for
 the last time. As I looked more closely, I saw that in the sallow cheeks shone spots of colour
 which had never before been present. The lips, too, seemed unusual; being tightly compressed,
-as if by the force of a stronger character than had been Slater&rsquo;s. The whole face finally
+as if by the force of a stronger character than had been Slater's. The whole face finally
 began to grow tense, and the head turned restlessly with closed eyes. I did not arouse the sleeping
-nurse, but readjusted the slightly disarranged head-bands of my telepathic &ldquo;radio&rdquo;,
+nurse, but readjusted the slightly disarranged head-bands of my telepathic  "radio ",
 intent to catch any parting message the dreamer might have to deliver. All at once the head
 turned sharply in my direction and the eyes fell open, causing me to stare in blank amazement
 at what I beheld. The man who had been Joe Slater, the Catskill decadent, was now gazing at
@@ -264,10 +264,10 @@ idea formed rapidly in my mind, and though no actual language was employed, my h
 of conception and expression was so great that I seemed to be receiving the message in ordinary
 English.  
 
-    &ldquo;Joe Slater is dead,&rdquo;   came the soul-petrifying voice or
+     "Joe Slater is dead, "   came the soul-petrifying voice or
 agency from beyond the wall of sleep. My opened eyes sought the couch of pain in curious horror,
 but the blue eyes were still calmly gazing, and the countenance was still intelligently animated.
-&ldquo;He is better dead, for he was unfit to bear the active intellect of cosmic entity. His
+ "He is better dead, for he was unfit to bear the active intellect of cosmic entity. His
 gross body could not undergo the needed adjustments between ethereal life and planet life. He
 was too much of an animal, too little a man; yet it is through his deficiency that you have
 come to discover me, for the cosmic and planet souls rightly should never meet. He has been
@@ -280,20 +280,20 @@ which is to come three thousand years hence. You and I have drifted to the world
 about the red Arcturus, and dwelt in the bodies of the insect-philosophers that crawl proudly
 over the fourth moon of Jupiter. How little does the earth-self know of life and its extent!
 How little, indeed, ought it to know for its own tranquillity! Of the oppressor I cannot speak.
-You on earth have unwittingly felt its distant presence&mdash;you who without knowing idly gave
+You on earth have unwittingly felt its distant presence--you who without knowing idly gave
 to its blinking beacon the name of   Algol, the Daemon-Star.   It is to meet and conquer
 the oppressor that I have vainly striven for aeons, held back by bodily encumbrances. Tonight
 I go as a Nemesis bearing just and blazingly cataclysmic vengeance.   Watch me in the sky close
 by the Daemon-Star.   I cannot speak longer, for the body of Joe Slater grows cold and rigid,
 and the coarse brains are ceasing to vibrate as I wish. You have been my friend in the cosmos;
-you have been my only friend on this planet&mdash;the only soul to sense and seek for me within
-the repellent form which lies on this couch. We shall meet again&mdash;perhaps in the shining
-mists of Orion&rsquo;s Sword, perhaps on a bleak plateau in prehistoric Asia. Perhaps in unremembered
+you have been my only friend on this planet--the only soul to sense and seek for me within
+the repellent form which lies on this couch. We shall meet again--perhaps in the shining
+mists of Orion's Sword, perhaps on a bleak plateau in prehistoric Asia. Perhaps in unremembered
 dreams tonight; perhaps in some other form an aeon hence, when the solar system shall have been
-swept away.&rdquo;  
+swept away. "  
 
-  At this point the thought-waves abruptly ceased, and the pale eyes of the dreamer&mdash;or
-can I say dead man?&mdash;commenced to glaze fishily. In a half-stupor I crossed over to the
+  At this point the thought-waves abruptly ceased, and the pale eyes of the dreamer--or
+can I say dead man?--commenced to glaze fishily. In a half-stupor I crossed over to the
 couch and felt of his wrist, but found it cold, stiff, and pulseless. The sallow cheeks paled
 again, and the thick lips fell open, disclosing the repulsively rotten fangs of the degenerate
 Joe Slater. I shivered, pulled a blanket over the hideous face, and awakened the nurse. Then
@@ -307,14 +307,14 @@ everything I have related. He vows that I was broken down with nervous strain, a
 need of the long vacation on full pay which he so generously gave me. He assures me on his professional
 honour that Joe Slater was but a low-grade paranoiac, whose fantastic notions must have come
 from the crude hereditary folk-tales which circulate in even the most decadent of communities.
-All this he tells me&mdash;yet I cannot forget what I saw in the sky on the night after Slater
-died. Lest you think me a biassed witness, another&rsquo;s pen must add this final testimony,
+All this he tells me--yet I cannot forget what I saw in the sky on the night after Slater
+died. Lest you think me a biassed witness, another's pen must add this final testimony,
 which may perhaps supply the climax you expect. I will quote the following account of the star
   Nova Persei   verbatim from the pages of that eminent astronomical authority, Prof. Garrett
 P. Serviss:  
 
-    &ldquo;On February 22, 1901, a marvellous new star was discovered by Dr. Anderson,
+     "On February 22, 1901, a marvellous new star was discovered by Dr. Anderson,
 of Edinburgh,   not very far from Algol.   No star had been visible at that point before.
 Within twenty-four hours the stranger had become so bright that it outshone Capella. In a week
 or two it had visibly faded, and in the course of a few months it was hardly discernible with
-the naked eye.&rdquo;  
+the naked eye. "  

@@ -21,4 +21,5 @@ header-right: "\\leftmark"
 footer-left: "\\tiny \\thedate \\hspace{0.3cm}| \\hspace{0.3cm} DRAFT VERSION"
 footer-center: "\\thepage"
 footer-right: "\\tiny \\textcolor{black!60!blue}{\\textbf{Lovecraft's short stories}} - \\theauthor"
+titlepage-background: "/root/docGen/documents/resources/cover.pdf"
 ...

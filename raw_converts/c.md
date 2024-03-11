@@ -42,7 +42,7 @@ and the window-panes on either side were either broken or filmily staring. Kuran
 but had plodded on as though summoned toward some goal. He dared not disobey the summons for
 fear it might prove an illusion like the urges and aspirations of waking life, which do not
 lead to any goal. Then he had been drawn down a lane that led off from the village street toward
-the channel cliffs, and had come to the end of things&mdash;to the precipice and the abyss where
+the channel cliffs, and had come to the end of things--to the precipice and the abyss where
 all the village and all the world fell abruptly into the unechoing emptiness of infinity, and
 where even the sky ahead was empty and unlit by the crumbling moon and the peering stars. Faith
 had urged him on, over the precipice and into the gulf, where he had floated down, down, down;
@@ -98,7 +98,7 @@ the keel Kuranes could see strange lands and rivers and cities of surpassing bea
 indolently in the sunshine which seemed never to lessen or disappear. At length Athib told him
 that their journey was near its end, and that they would soon enter the harbour of Serannian,
 the pink marble city of the clouds, which is built on that ethereal coast where the west wind
-flows into the sky; but as the highest of the city&rsquo;s carven towers came into sight there
+flows into the sky; but as the highest of the city's carven towers came into sight there
 was a sound somewhere in space, and Kuranes awaked in his London garret.  
 
   For many months after that Kuranes sought the marvellous city of Celepha&iuml;s

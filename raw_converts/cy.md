@@ -10,7 +10,7 @@ will last me the rest of my life. I admit it is foolish, since there are natural
 for everything I saw and heard, but it masters me none the less. If the old story had been all
 there was to it, I would not have been so badly shaken. My work as an American Indian ethnologist
 has hardened me to all kinds of extravagant legendry, and I know that simple white people can
-beat the redskins at their own game when it comes to fanciful inventions. But I can&rsquo;t forget
+beat the redskins at their own game when it comes to fanciful inventions. But I can't forget
 what I saw with my own eyes at the insane asylum in Guthrie.  
 
   I called at that asylum because a few of the oldest settlers told me I would
@@ -25,8 +25,8 @@ the autumn days and nights hideous with the ceaseless beating of tom-toms in lon
 
   It was with the scent of a hound on the trail that I went to Guthrie, for I
 had spent many years collecting data on the evolution of serpent-worship among the Indians.
-I had always felt, from well-defined undertones of legend and archaeology, that great Quetzalcoatl&mdash;benign
-snake-god of the Mexicans&mdash;had had an older and darker prototype; and during recent months
+I had always felt, from well-defined undertones of legend and archaeology, that great Quetzalcoatl--benign
+snake-god of the Mexicans--had had an older and darker prototype; and during recent months
 I had well-nigh proved it in a series of researches stretching from Guatemala to the Oklahoma
 plains. But everything was tantalising and incomplete, for above the border the cult of the
 snake was hedged about by fear and furtiveness.  
@@ -39,33 +39,33 @@ and doubtful when I first made known my errand, his face grew thoughtful as he c
 my credentials and the letter of introduction which a kindly old ex-Indian agent had given
 me.  
 
-  &ldquo;So you&rsquo;ve been studying the Yig legend, eh?&rdquo; he reflected sententiously.
-&ldquo;I know that many of our Oklahoma ethnologists have tried to connect it with Quetzalcoatl,
-but I don&rsquo;t think any of them have traced the intermediate steps so well. You&rsquo;ve done
+   "So you've been studying the Yig legend, eh? " he reflected sententiously.
+ "I know that many of our Oklahoma ethnologists have tried to connect it with Quetzalcoatl,
+but I don't think any of them have traced the intermediate steps so well. You've done
 remarkable work for a man as young as you seem to be, and you certainly deserve all the data
 we can give.  
 
-  &ldquo;I don&rsquo;t suppose old Major Moore or any of the others told you what
-it is I have here. They don&rsquo;t like to talk about it, and neither do I. It is very tragic
-and very horrible, but that is all. I refuse to consider it anything supernatural. There&rsquo;s
-a story about it that I&rsquo;ll tell you after you see it&mdash;a devilish sad story, but one
-that I won&rsquo;t call magic. It merely shews the potency that belief has over some people.
-I&rsquo;ll admit there are times when I feel a shiver that&rsquo;s more than physical, but in
-daylight I set all that down to nerves. I&rsquo;m not a young fellow any more, alas!  
+   "I don't suppose old Major Moore or any of the others told you what
+it is I have here. They don't like to talk about it, and neither do I. It is very tragic
+and very horrible, but that is all. I refuse to consider it anything supernatural. There's
+a story about it that I'll tell you after you see it--a devilish sad story, but one
+that I won't call magic. It merely shews the potency that belief has over some people.
+I'll admit there are times when I feel a shiver that's more than physical, but in
+daylight I set all that down to nerves. I'm not a young fellow any more, alas!  
 
-  &ldquo;To come to the point, the thing I have is what you might call a victim
-of Yig&rsquo;s curse&mdash;a physically living victim. We don&rsquo;t let the bulk of the nurses
-see it, although most of them know it&rsquo;s here. There are just two steady old chaps whom
-I let feed it and clean out its quarters&mdash;used to be three, but good old Stevens passed
-on a few years ago. I suppose I&rsquo;ll have to break in a new group pretty soon; for the thing
-doesn&rsquo;t seem to age or change much, and we old boys can&rsquo;t last forever. Maybe the
-ethics of the near future will let us give it a merciful release, but it&rsquo;s hard to tell.  
+   "To come to the point, the thing I have is what you might call a victim
+of Yig's curse--a physically living victim. We don't let the bulk of the nurses
+see it, although most of them know it's here. There are just two steady old chaps whom
+I let feed it and clean out its quarters--used to be three, but good old Stevens passed
+on a few years ago. I suppose I'll have to break in a new group pretty soon; for the thing
+doesn't seem to age or change much, and we old boys can't last forever. Maybe the
+ethics of the near future will let us give it a merciful release, but it's hard to tell.  
 
-  &ldquo;Did you see that single ground-glass basement window over in the east
-wing when you came up the drive? That&rsquo;s where it is. I&rsquo;ll take you there myself now.
-You needn&rsquo;t make any comment. Just look through the moveable panel in the door and thank
-God the light isn&rsquo;t any stronger. Then I&rsquo;ll tell you the story&mdash;or as much as
-I&rsquo;ve been able to piece together.&rdquo;  
+   "Did you see that single ground-glass basement window over in the east
+wing when you came up the drive? That's where it is. I'll take you there myself now.
+You needn't make any comment. Just look through the moveable panel in the door and thank
+God the light isn't any stronger. Then I'll tell you the story--or as much as
+I've been able to piece together. "  
 
   We walked downstairs very quietly, and did not talk as we threaded the corridors
 of the seemingly deserted basement. Dr. McNeill unlocked a grey-painted steel door, but it was
@@ -90,8 +90,8 @@ flat. As it looked up to hiss at me I saw that the beady little black eyes were 
 but I could not bear to study them long. They fastened themselves on me with a horrible persistence,
 so that I closed the panel gaspingly and left the creature to wriggle about unseen in its matted
 straw and spectral twilight. I must have reeled a bit, for I saw that the doctor was gently
-holding my arm as he guided me away. I was stuttering over and over again: &ldquo;B-but for God&rsquo;s
-sake,   what is it?&rdquo;    
+holding my arm as he guided me away. I was stuttering over and over again:  "B-but for God's
+sake,   what is it? "    
 
   Dr. McNeill told me the story in his private office as I sprawled opposite
 him in an easy-chair. The gold and crimson of late afternoon changed to the violet of early
@@ -102,8 +102,8 @@ on all the lights. Scientist though I was, my zeal for research was half forgott
 breathless ecstasies of fright as a small boy might feel when whispered witch-tales go the rounds
 of the chimney-corner.  
 
-  It seems that Yig, the snake-god of the central plains tribes&mdash;presumably
-the primal source of the more southerly Quetzalcoatl or Kukulcan&mdash;was an odd, half-anthropomorphic
+  It seems that Yig, the snake-god of the central plains tribes--presumably
+the primal source of the more southerly Quetzalcoatl or Kukulcan--was an odd, half-anthropomorphic
 devil of highly arbitrary and capricious nature. He was not wholly evil, and was usually quite
 well-disposed toward those who gave proper respect to him and his children, the serpents; but
 in the autumn he became abnormally ravenous, and had to be driven away by means of suitable
@@ -111,7 +111,7 @@ rites. That was why the tom-toms in the Pawnee, Wichita, and Caddo country pound
 week in and week out in August, September, and October; and why the medicine-men made strange
 noises with rattles and whistles curiously like those of the Aztecs and Mayas.  
 
-  Yig&rsquo;s chief trait was a relentless devotion to his children&mdash;a devotion
+  Yig's chief trait was a relentless devotion to his children--a devotion
 so great that the redskins almost feared to protect themselves from the venomous rattlesnakes
 which thronged the region. Frightful clandestine tales hinted of his vengeance upon mortals
 who flouted him or wreaked harm upon his wriggling progeny; his chosen method being to turn
@@ -121,26 +121,26 @@ his victim, after suitable tortures, to a spotted snake.
 quite so much secrecy about Yig. The plains tribes, less cautious than the desert nomads and
 Pueblos, talked quite freely of their legends and autumn ceremonies with the first Indian agents,
 and let considerable of the lore spread out through the neighbouring regions of white settlement.
-The great fear came in the land-rush days of &rsquo;89, when some extraordinary incidents had
+The great fear came in the land-rush days of '89, when some extraordinary incidents had
 been rumoured, and the rumours sustained, by what seemed to be hideously tangible proofs. Indians
 said that the new white men did not know how to get on with Yig, and afterward the settlers
 came to take that theory at face value. Now no old-timer in middle Oklahoma, white or red, could
 be induced to breathe a word about the snake-god except in vague hints. Yet after all, the doctor
 added with almost needless emphasis, the only truly authenticated horror had been a thing of
-pitiful tragedy rather than of bewitchment. It was all very material and cruel&mdash;even that
+pitiful tragedy rather than of bewitchment. It was all very material and cruel--even that
 last phase which had caused so much dispute.  
 
   Dr. McNeill paused and cleared his throat before getting down to his special
 story, and I felt a tingling sensation as when a theatre curtain rises. The thing had begun
 when Walker Davis and his wife Audrey left Arkansas to settle in the newly opened public lands
-in the spring of 1889, and the end had come in the country of the Wichitas&mdash;north of the
+in the spring of 1889, and the end had come in the country of the Wichitas--north of the
 Wichita River, in what is at present Caddo County. There is a small village called Binger there
 now, and the railway goes through; but otherwise the place is less changed than other parts
-of Oklahoma. It is still a section of farms and ranches&mdash;quite productive in these days&mdash;since
+of Oklahoma. It is still a section of farms and ranches--quite productive in these days--since
 the great oil-fields do not come very close.  
 
   Walker and Audrey had come from Franklin County in the Ozarks with a canvas-topped
-wagon, two mules, an ancient and useless dog called &ldquo;Wolf&rdquo;, and all their household
+wagon, two mules, an ancient and useless dog called  "Wolf ", and all their household
 goods. They were typical hill-folk, youngish and perhaps a little more ambitious than most,
 and looked forward to a life of better returns for their hard work than they had had in Arkansas.
 Both were lean, raw-boned specimens; the man tall, sandy, and grey-eyed, and the woman short
@@ -148,7 +148,7 @@ and rather dark, with a black straightness of hair suggesting a slight Indian ad
 
   In general, there was very little of distinction about them, and but for one
 thing their annals might not have differed from those of thousands of other pioneers who flocked
-into the new country at that time. That thing was Walker&rsquo;s almost epileptic fear of snakes,
+into the new country at that time. That thing was Walker's almost epileptic fear of snakes,
 which some laid to prenatal causes, and some said came from a dark prophecy about his end with
 which an old Indian squaw had tried to scare him when he was small. Whatever the cause, the
 effect was marked indeed; for despite his strong general courage the very mention of a snake
@@ -172,7 +172,7 @@ white man at Okmulgee in the Creek country who gave the Davises the first hint o
 a hint which had a curiously fascinating effect on Walker, and caused him to ask questions very
 freely after that.  
 
-  Before long Walker&rsquo;s fascination had developed into a bad case of fright.
+  Before long Walker's fascination had developed into a bad case of fright.
 He took the most extraordinary precautions at each of the nightly camps, always clearing away
 whatever vegetation he found, and avoiding stony places whenever he could. Every clump of stunted
 bushes and every cleft in the great, slab-like rocks seemed to him now to hide malevolent serpents,
@@ -213,24 +213,24 @@ Walker had seen everything. Audrey made a move to catch him if he should faint, 
 more than sway. Then the look of pure fright on his bloodless face turned slowly to something
 like mingled awe and anger, and he began to upbraid his wife in trembling tones.  
 
-  &ldquo;Gawd&rsquo;s sake, Aud, but why&rsquo;d ye go for to do that? Hain&rsquo;t
-ye heerd all the things they&rsquo;ve been tellin&rsquo; about this snake-devil Yig? Ye&rsquo;d
-ought to a told me, and we&rsquo;d a moved on. Don&rsquo;t ye know they&rsquo;s a devil-god what
-gets even if ye hurts his children? What for d&rsquo;ye think the Injuns all dances and beats
-their drums in the fall about? This land&rsquo;s under a curse, I tell ye&mdash;nigh every soul
-we&rsquo;ve a-talked to sence we come in&rsquo;s said the same. Yig rules here, an&rsquo; he comes
-out every fall for to git his victims and turn &rsquo;em into snakes. Why, Aud, they won&rsquo;t
+   "Gawd's sake, Aud, but why'd ye go for to do that? Hain't
+ye heerd all the things they've been tellin' about this snake-devil Yig? Ye'd
+ought to a told me, and we'd a moved on. Don't ye know they's a devil-god what
+gets even if ye hurts his children? What for d'ye think the Injuns all dances and beats
+their drums in the fall about? This land's under a curse, I tell ye--nigh every soul
+we've a-talked to sence we come in's said the same. Yig rules here, an' he comes
+out every fall for to git his victims and turn 'em into snakes. Why, Aud, they won't
 none of them Injuns acrost the Canayjin kill a snake for love nor money!  
 
-  &ldquo;Gawd knows what ye done to yourself, gal, a-stompin&rsquo; out a hull
-brood o&rsquo; Yig&rsquo;s chillen. He&rsquo;ll git ye, sure, sooner or later, unlessen I kin buy
-a charm offen some o&rsquo; the Injun medicine-men. He&rsquo;ll git ye, Aud, as sure&rsquo;s they&rsquo;s
-a Gawd in heaven&mdash;he&rsquo;ll come outa the night and turn ye into a crawlin&rsquo; spotted
-snake!&rdquo;  
+   "Gawd knows what ye done to yourself, gal, a-stompin' out a hull
+brood o' Yig's chillen. He'll git ye, sure, sooner or later, unlessen I kin buy
+a charm offen some o' the Injun medicine-men. He'll git ye, Aud, as sure's they's
+a Gawd in heaven--he'll come outa the night and turn ye into a crawlin' spotted
+snake! "  
 
   All the rest of the journey Walker kept up the frightened reproofs and prophecies.
 They crossed the Canadian near Newcastle, and soon afterward met with the first of the real
-plains Indians they had seen&mdash;a party of blanketed Wichitas, whose leader talked freely
+plains Indians they had seen--a party of blanketed Wichitas, whose leader talked freely
 under the spell of the whiskey offered him, and taught poor Walker a long-winded protective
 charm against Yig in exchange for a quart bottle of the same inspiring fluid. By the end of
 the week the chosen site in the Wichita country was reached, and the Davises made haste to trace
@@ -243,7 +243,7 @@ soil of decomposed red sandstone, and here and there a great flat rock would str
 surface of the ground like a man-made floor. There seemed to be a very few snakes, or possible
 dens for them; so Audrey at last persuaded Walker to build the one-room cabin over a vast, smooth
 slab of exposed stone. With such a flooring and with a good-sized fireplace the wettest weather
-might be defied&mdash;though it soon became evident that dampness was no salient quality of the
+might be defied--though it soon became evident that dampness was no salient quality of the
 district. Logs were hauled in the wagon from the nearest belt of woods, many miles toward the
 Wichita Mountains.  
 
@@ -263,14 +263,14 @@ state. Sally and Audrey used to visit each other often, for their cabins were on
 apart; and in the long spring and summer afternoons they exchanged many a tale of old Arkansas
 and many a rumour about the new country.  
 
-  Sally was very sympathetic about Walker&rsquo;s weakness regarding snakes, but
+  Sally was very sympathetic about Walker's weakness regarding snakes, but
 perhaps did more to aggravate than cure the parallel nervousness which Audrey was acquiring
 through his incessant praying and prophesying about the curse of Yig. She was uncommonly full
 of gruesome snake stories, and produced a direfully strong impression with her acknowledged
-masterpiece&mdash;the tale of a man in Scott County who had been bitten by a whole horde of rattlers
+masterpiece--the tale of a man in Scott County who had been bitten by a whole horde of rattlers
 at once, and had swelled so monstrously from poison that his body had finally burst with a pop.
 Needless to say, Audrey did not repeat this anecdote to her husband, and she implored the Comptons
-to beware of starting it on the rounds of the countryside. It is to Joe&rsquo;s and Sally&rsquo;s
+to beware of starting it on the rounds of the countryside. It is to Joe's and Sally's
 credit that they heeded this plea with the utmost fidelity.  
 
   Walker did his corn-planting early, and in midsummer improved his time by harvesting
@@ -287,7 +287,7 @@ autumn his children were hungry and wild, and Yig was hungry and wild, too. All 
 medicine against Yig when the corn harvest came. They gave him some corn, and danced in proper
 regalia to the sound of whistle, rattle, and drum. They kept the drums pounding to drive Yig
 away, and called down the aid of Tir&aacute;wa, whose children men are, even as the snakes are
-Yig&rsquo;s children. It was bad that the squaw of Davis killed the children of Yig. Let Davis
+Yig's children. It was bad that the squaw of Davis killed the children of Yig. Let Davis
 say the charms many times when the corn harvest comes. Yig is Yig. Yig is a great god.  
 
   By the time the corn harvest did come, Walker had succeeded in getting his
@@ -303,33 +303,33 @@ in his corn crop and prepared cabin and stable for the coming winter.
   The autumn was abnormally warm, and except for their primitive cookery the
 Davises found scant use for the stone fireplace Walker had built with such care. Something in
 the unnaturalness of the hot dust-clouds preyed on the nerves of all the settlers, but most
-of all on Audrey&rsquo;s and Walker&rsquo;s. The notions of a hovering snake-curse and the weird,
+of all on Audrey's and Walker's. The notions of a hovering snake-curse and the weird,
 endless rhythm of the distant Indian drums formed a bad combination which any added element
 of the bizarre went far to render utterly unendurable.  
 
   Notwithstanding this strain, several festive gatherings were held at one or
 another of the cabins after the crops were reaped; keeping naively alive in modernity those
 curious rites of the harvest-home which are as old as human agriculture itself. Lafayette Smith,
-who came from southern Missouri and had a cabin about three miles east of Walker&rsquo;s, was
+who came from southern Missouri and had a cabin about three miles east of Walker's, was
 a very passable fiddler; and his tunes did much to make the celebrants forget the monotonous
-beating of the distant tom-toms. Then Hallowe&rsquo;en drew near, and the settlers planned another
-frolic&mdash;this time, had they but known it, of a lineage older than even agriculture; the
+beating of the distant tom-toms. Then Hallowe'en drew near, and the settlers planned another
+frolic--this time, had they but known it, of a lineage older than even agriculture; the
 dread Witch-Sabbath of the primal pre-Aryans, kept alive through ages in the midnight blackness
 of secret woods, and still hinting at vague terrors under its latter-day mask of comedy and
-lightness. Hallowe&rsquo;en was to fall on a Thursday, and the neighbours agreed to gather for
+lightness. Hallowe'en was to fall on a Thursday, and the neighbours agreed to gather for
 their first revel at the Davis cabin.  
 
   It was on that thirty-first of October that the warm spell broke. The morning
 was grey and leaden, and by noon the incessant winds had changed from searingness to rawness.
-People shivered all the more because they were not prepared for the chill, and Walker Davis&rsquo;
+People shivered all the more because they were not prepared for the chill, and Walker Davis'
 old dog Wolf dragged himself wearily indoors to a place beside the hearth. But the distant drums
 still thumped on, nor were the white citizenry less inclined to pursue their chosen rites. As
-early as four in the afternoon the wagons began to arrive at Walker&rsquo;s cabin; and in the
-evening, after a memorable barbecue, Lafayette Smith&rsquo;s fiddle inspired a very fair-sized
+early as four in the afternoon the wagons began to arrive at Walker's cabin; and in the
+evening, after a memorable barbecue, Lafayette Smith's fiddle inspired a very fair-sized
 company to great feats of saltatory grotesqueness in the one good-sized but crowded room. The
 younger folk indulged in the amiable inanities proper to the season, and now and then old Wolf
 would howl with doleful and spine-tickling ominousness at some especially spectral strain from
-Lafayette&rsquo;s squeaky violin&mdash;a device he had never heard before. Mostly, though, this
+Lafayette's squeaky violin--a device he had never heard before. Mostly, though, this
 battered veteran slept through the merriment; for he was past the age of active interests and
 lived largely in his dreams. Tom and Jennie Rigby had brought their collie Zeke along, but the
 canines did not fraternise. Zeke seemed strangely uneasy over something, and nosed around curiously
@@ -338,9 +338,9 @@ all the evening.
   Audrey and Walker made a fine couple on the floor, and Grandma Compton still
 likes to recall her impression of their dancing that night. Their worries seemed forgotten for
 the nonce, and Walker was shaved and trimmed into a surprising degree of spruceness. By ten
-o&rsquo;clock all hands were healthily tired, and the guests began to depart family by family
+o'clock all hands were healthily tired, and the guests began to depart family by family
 with many handshakings and bluff assurances of what a fine time everybody had had. Tom and Jennie
-thought Zeke&rsquo;s eerie howls as he followed them to their wagon were marks of regret at having
+thought Zeke's eerie howls as he followed them to their wagon were marks of regret at having
 to go home; though Audrey said it must be the far-away tom-toms which annoyed him, for the distant
 thumping was surely ghastly enough after the merriment within.  
 
@@ -354,9 +354,9 @@ of those hellish tom-toms still pulsed on the chill night-wind.
   Dr. McNeill paused here and removed his glasses, as if a blurring of the objective
 world might make the reminiscent vision clearer.  
 
-  &ldquo;You&rsquo;ll soon appreciate,&rdquo; he said, &ldquo;that I had a great
+   "You'll soon appreciate, " he said,  "that I had a great
 deal of difficulty in piecing out all that happened after the guests left. There were times,
-though&mdash;at first&mdash;when I was able to make a try at it.&rdquo; After a moment of silence
+though--at first--when I was able to make a try at it. " After a moment of silence
 he went on with the tale.  
 
   Audrey had terrible dreams of Yig, who appeared to her in the guise of Satan
@@ -365,8 +365,8 @@ that she started suddenly awake to find Walker already conscious and sitting up 
 to be listening intently to something, and silenced her with a whisper when she began to ask
 what had roused him.  
 
-  &ldquo;Hark, Aud!&rdquo; he breathed. &ldquo;Don&rsquo;t ye hear somethin&rsquo;
-a-singin&rsquo; and buzzin&rsquo; and rustlin&rsquo;? D&rsquo;ye reckon it&rsquo;s the fall crickets?&rdquo;  
+   "Hark, Aud! " he breathed.  "Don't ye hear somethin'
+a-singin' and buzzin' and rustlin'? D'ye reckon it's the fall crickets? "  
 
   Certainly, there was distinctly audible within the cabin such a sound as he
 had described. Audrey tried to analyse it, and was impressed with some element at once horrible
@@ -374,15 +374,15 @@ and familiar, which hovered just outside the rim of her memory. And beyond it al
 hideous thought, the monotonous beating of the distant tom-toms came incessantly across the
 black plains on which a cloudy half-moon had set.  
 
-  &ldquo;Walker&mdash;s&rsquo;pose it&rsquo;s&mdash;the&mdash;the&mdash;curse o&rsquo;
-Yig?&rdquo;  
+   "Walker--s'pose it's--the--the--curse o'
+Yig? "  
 
   She could feel him tremble.  
 
-  &ldquo;No, gal, I don&rsquo;t reckon he comes that away. He&rsquo;s shapen like
-a man, except ye look at him clost. That&rsquo;s what Chief Grey Eagle says. This here&rsquo;s
-some varmints come in outen the cold&mdash;not crickets, I calc&rsquo;late, but summat like &rsquo;em.
-I&rsquo;d orter git up and stomp &rsquo;em out afore they make much headway or git at the cupboard.&rdquo;  
+   "No, gal, I don't reckon he comes that away. He's shapen like
+a man, except ye look at him clost. That's what Chief Grey Eagle says. This here's
+some varmints come in outen the cold--not crickets, I calc'late, but summat like 'em.
+I'd orter git up and stomp 'em out afore they make much headway or git at the cupboard. "  
 
   He rose, felt for the lantern that hung within easy reach, and rattled the
 tin match-box nailed to the wall beside it. Audrey sat up in bed and watched the flare of the
@@ -394,10 +394,10 @@ to menace the fright-blasted lantern-bearer.
 
   It was only for an instant that Audrey saw the things. The reptiles were of
 every size, of uncountable numbers, and apparently of several varieties; and even as she looked,
-two or three of them reared their heads as if to strike at Walker. She did not faint&mdash;it
-was Walker&rsquo;s crash to the floor that extinguished the lantern and plunged her into blackness.
-He had not screamed a second time&mdash;fright had paralysed him, and he fell as if shot by
-a silent arrow from no mortal&rsquo;s bow. To Audrey the entire world seemed to whirl about fantastically,
+two or three of them reared their heads as if to strike at Walker. She did not faint--it
+was Walker's crash to the floor that extinguished the lantern and plunged her into blackness.
+He had not screamed a second time--fright had paralysed him, and he fell as if shot by
+a silent arrow from no mortal's bow. To Audrey the entire world seemed to whirl about fantastically,
 mingling with the nightmare from which she had started.  
 
   Voluntary motion of any sort was impossible, for will and the sense of reality
@@ -409,36 +409,36 @@ her mute.
 
   Walker was gone, and she had not been able to help him. He had died of snakes,
 just as the old witch-woman had predicted when he was a little boy. Poor Wolf had not been able
-to help, either&mdash;probably he had not even awaked from his senile stupor. And now the crawling
+to help, either--probably he had not even awaked from his senile stupor. And now the crawling
 things must be coming for her, writhing closer and closer every moment in the dark, perhaps
 even now twining slipperily about the bedposts and oozing up over the coarse woollen blankets.
 Unconsciously she crept under the clothes and trembled.  
 
-  It must be the curse of Yig. He had sent his monstrous children on All-Hallows&rsquo;
-Night, and they had taken Walker first. Why was that&mdash;wasn&rsquo;t he innocent enough? Why
-not come straight for her&mdash;hadn&rsquo;t she killed those little rattlers alone? Then she
-thought of the curse&rsquo;s form as told by the Indians. She wouldn&rsquo;t be killed&mdash;just
-turned to a spotted snake. Ugh! So she would be like those things she had glimpsed on the floor&mdash;those
+  It must be the curse of Yig. He had sent his monstrous children on All-Hallows'
+Night, and they had taken Walker first. Why was that--wasn't he innocent enough? Why
+not come straight for her--hadn't she killed those little rattlers alone? Then she
+thought of the curse's form as told by the Indians. She wouldn't be killed--just
+turned to a spotted snake. Ugh! So she would be like those things she had glimpsed on the floor--those
 things which Yig had sent to get her and enroll her among their number! She tried to mumble
 a charm that Walker had taught her, but found she could not utter a single sound.  
 
   The noisy ticking of the alarm-clock sounded above the maddening beat of the
-distant tom-toms. The snakes were taking a long time&mdash;did they mean to delay on purpose
+distant tom-toms. The snakes were taking a long time--did they mean to delay on purpose
 to play on her nerves? Every now and then she thought she felt a steady, insidious pressure
 on the bedclothes, but each time it turned out to be only the automatic twitchings of her overwrought
 nerves. The clock ticked on in the dark, and a change came slowly over her thoughts.  
 
-  Those snakes   couldn&rsquo;t   have taken so long! They couldn&rsquo;t be
-Yig&rsquo;s messengers after all, but just natural rattlers that were nested below the rock and
-had been drawn there by the fire. They weren&rsquo;t coming for her, perhaps&mdash;perhaps they
+  Those snakes   couldn't   have taken so long! They couldn't be
+Yig's messengers after all, but just natural rattlers that were nested below the rock and
+had been drawn there by the fire. They weren't coming for her, perhaps--perhaps they
 had sated themselves on poor Walker. Where were they now? Gone? Coiled by the fire? Still crawling
 over the prone corpse of their victim? The clock ticked, and the distant drums throbbed on.  
 
-  At the thought of her husband&rsquo;s body lying there in the pitch blackness
-a thrill of purely physical horror passed over Audrey. That story of Sally Compton&rsquo;s about
+  At the thought of her husband's body lying there in the pitch blackness
+a thrill of purely physical horror passed over Audrey. That story of Sally Compton's about
 the man back in Scott County! He, too, had been bitten by a whole bunch of rattlesnakes, and
 what had happened to him? The poison had rotted the flesh and swelled the whole corpse, and
-in the end the bloated thing had   burst   horribly&mdash;burst horribly with a detestable
+in the end the bloated thing had   burst   horribly--burst horribly with a detestable
 popping noise. Was that what was happening to Walker down there on the rock floor? Instinctively
 she felt she had begun to   listen   for something too terrible even to name to herself.  
 
@@ -446,13 +446,13 @@ she felt she had begun to   listen   for something too terrible even to name to 
 drumming that the night-wind brought. She wished it were a striking clock, so that she could
 know how long this eldritch vigil must last. She cursed the toughness of fibre that kept her
 from fainting, and wondered what sort of relief the dawn could bring, after all. Probably neighbours
-would pass&mdash;no doubt somebody would call&mdash;would they find her still sane? Was she still
+would pass--no doubt somebody would call--would they find her still sane? Was she still
 sane now?  
 
   Morbidly listening, Audrey all at once became aware of something which she
 had to verify with every effort of her will before she could believe it; and which, once verified,
 she did not know whether to welcome or dread.   The distant beating of the Indian tom-toms
-had ceased.   They had always maddened her&mdash;but had not Walker regarded them as a bulwark
+had ceased.   They had always maddened her--but had not Walker regarded them as a bulwark
 against nameless evil from outside the universe? What were some of those things he had repeated
 to her in whispers after talking with Grey Eagle and the Wichita medicine-men?  
 
@@ -462,10 +462,10 @@ last of conscious motion, she shook the covers from her face and looked into the
 the window. It must have cleared after the moon set, for she saw the square aperture distinctly
 against the background of stars.  
 
-  Then without warning came that shocking, unutterable sound&mdash;ugh!&mdash;that
-dull, putrid   pop   of cleft skin and escaping poison in the dark. God!&mdash;Sally&rsquo;s
-story&mdash;that obscene stench, and this gnawing, clawing silence! It was too much. The bonds
-of muteness snapped, and the black night waxed reverberant with Audrey&rsquo;s screams of stark,
+  Then without warning came that shocking, unutterable sound--ugh!--that
+dull, putrid   pop   of cleft skin and escaping poison in the dark. God!--Sally's
+story--that obscene stench, and this gnawing, clawing silence! It was too much. The bonds
+of muteness snapped, and the black night waxed reverberant with Audrey's screams of stark,
 unbridled frenzy.  
 
   Consciousness did not pass away with the shock. How merciful if only it had!
@@ -474,30 +474,30 @@ and heard the doom-boding ticking of that frightful clock. Did she hear another 
 square window still a perfect square? She was in no condition to weigh the evidence of her senses
 or distinguish between fact and hallucination.  
 
-  No&mdash;that window was not a perfect square.   Something had encroached on
+  No--that window was not a perfect square.   Something had encroached on
 the lower edge.   Nor was the ticking of the clock the only sound in the room. There was,
-beyond dispute, a heavy breathing neither her own nor poor Wolf&rsquo;s. Wolf slept very silently,
+beyond dispute, a heavy breathing neither her own nor poor Wolf's. Wolf slept very silently,
 and his wakeful wheezing was unmistakable. Then Audrey saw against the stars the black, daemoniac
-silhouette of something anthropoid&mdash;the undulant bulk of a gigantic head and shoulders fumbling
+silhouette of something anthropoid--the undulant bulk of a gigantic head and shoulders fumbling
 slowly toward her.  
 
-  &ldquo;Y&rsquo;aaaah! Y&rsquo;aaaah! Go away! Go away! Go away, snake-devil! Go
-&rsquo;way, Yig! I didn&rsquo;t mean to kill &rsquo;em&mdash;I was feared he&rsquo;d be scairt of
-&rsquo;em. Don&rsquo;t, Yig, don&rsquo;t! I didn&rsquo;t go for to hurt yore chillen&mdash;don&rsquo;t
-come nigh me&mdash;don&rsquo;t change me into no spotted snake!&rdquo;  
+   "Y'aaaah! Y'aaaah! Go away! Go away! Go away, snake-devil! Go
+'way, Yig! I didn't mean to kill 'em--I was feared he'd be scairt of
+'em. Don't, Yig, don't! I didn't go for to hurt yore chillen--don't
+come nigh me--don't change me into no spotted snake! "  
 
   But the half-formless head and shoulders only lurched onward toward the bed,
 very silently.  
 
-  Everything snapped at once inside Audrey&rsquo;s head, and in a second she had
-turned from a cowering child to a raging madwoman. She knew where the axe was&mdash;hung against
+  Everything snapped at once inside Audrey's head, and in a second she had
+turned from a cowering child to a raging madwoman. She knew where the axe was--hung against
 the wall on those pegs near the lantern. It was within easy reach, and she could find it in
 the dark. Before she was conscious of anything further it was in her hands, and she was creeping
-toward the foot of the bed&mdash;toward the monstrous head and shoulders that every moment groped
+toward the foot of the bed--toward the monstrous head and shoulders that every moment groped
 their way nearer. Had there been any light, the look on her face would not have been pleasant
 to see.  
 
-  &ldquo;Take   that,   you! And   that,   and   that,   and   that!&rdquo;    
+   "Take   that,   you! And   that,   and   that,   and   that! "    
 
   She was laughing shrilly now, and her cackles mounted higher as she saw that
 the starlight beyond the window was yielding to the dim prophetic pallor of coming dawn.  
@@ -505,12 +505,12 @@ the starlight beyond the window was yielding to the dim prophetic pallor of comi
   Dr. McNeill wiped the perspiration from his forehead and put on his glasses
 again. I waited for him to resume, and as he kept silent I spoke softly.  
 
-  &ldquo;She lived? She was found? Was it ever explained?&rdquo;  
+   "She lived? She was found? Was it ever explained? "  
 
   The doctor cleared his throat.  
 
-  &ldquo;Yes&mdash;she lived, in a way. And it was explained. I told you there
-was no bewitchment&mdash;only cruel, pitiful, material horror.&rdquo;  
+   "Yes--she lived, in a way. And it was explained. I told you there
+was no bewitchment--only cruel, pitiful, material horror. "  
 
   It was Sally Compton who had made the discovery. She had ridden over to the
 Davis cabin the next afternoon to talk over the party with Audrey, and had seen no smoke from
@@ -528,11 +528,11 @@ her balance.
 had stunned her. It was what she had seen. For within that shadowy cabin monstrous things had
 happened and three shocking objects remained on the floor to awe and baffle the beholder.  
 
-  Near the burned-out fireplace was the great dog&mdash;purple decay on the skin
+  Near the burned-out fireplace was the great dog--purple decay on the skin
 left bare by mange and old age, and the whole carcass burst by the puffing effect of rattlesnake
 poison. It must have been bitten by a veritable legion of the reptiles.  
 
-  To the right of the door was the axe-hacked remnant of what had been a man&mdash;clad
+  To the right of the door was the axe-hacked remnant of what had been a man--clad
 in a nightshirt, and with the shattered bulk of a lantern clenched in one hand.   He was totally
 free from any sign of snake-bite.   Near him lay the ensanguined axe, carelessly discarded.  
 
@@ -544,28 +544,28 @@ and hiss, and hiss.
 He poured something from a flask on his desk, took a nip, and handed another glass to me. I
 could only suggest tremulously and stupidly:  
 
-  &ldquo;So Walker had only fainted that first time&mdash;the screams roused him,
-and the axe did the rest?&rdquo;  
+   "So Walker had only fainted that first time--the screams roused him,
+and the axe did the rest? "  
 
-  &ldquo;Yes.&rdquo; Dr. McNeill&rsquo;s voice was low. &ldquo;But he met his death
-from snakes just the same. It was his fear working in two ways&mdash;it made him faint, and it
+   "Yes. " Dr. McNeill's voice was low.  "But he met his death
+from snakes just the same. It was his fear working in two ways--it made him faint, and it
 made him fill his wife with the wild stories that caused her to strike out when she thought
-she saw the snake-devil.&rdquo;  
+she saw the snake-devil. "  
 
   I thought for a moment.  
 
-  &ldquo;And Audrey&mdash;wasn&rsquo;t it queer how the curse of Yig seemed to work
-itself out on her? I suppose the impression of hissing snakes had been fairly ground into her.&rdquo;  
+   "And Audrey--wasn't it queer how the curse of Yig seemed to work
+itself out on her? I suppose the impression of hissing snakes had been fairly ground into her. "  
 
-  &ldquo;Yes. There were lucid spells at first, but they got to be fewer and fewer.
+   "Yes. There were lucid spells at first, but they got to be fewer and fewer.
 Her hair came white at the roots as it grew, and later began to fall out. The skin grew blotchy,
-and when she died&mdash;&rdquo;  
+and when she died-- "  
 
   I interrupted with a start.  
 
-  &ldquo;  Died?   Then what was that&mdash;that thing downstairs?&rdquo;  
+   "  Died?   Then what was that--that thing downstairs? "  
 
   McNeill spoke gravely.  
 
-  &ldquo;  That   is what was born to her three-quarters of a year afterward.
-There were three more of them&mdash;two were even worse&mdash;but this is the only one that lived.&rdquo;  
+   "  That   is what was born to her three-quarters of a year afterward.
+There were three more of them--two were even worse--but this is the only one that lived. "  
