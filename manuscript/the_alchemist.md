@@ -245,4 +245,5 @@ the dreadful curse upon your house? Have I not told you of the great elixir of e
 Know you not how the secret of Alchemy was solved? I tell you, it is I! I!   I! that have lived
 for six hundred years to maintain my revenge, FOR I AM CHARLES LE SORCIER!" 
 
+\clearpage
 \pagebreak

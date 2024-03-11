@@ -171,7 +171,7 @@ in 1763, and followed the theme with an unusual amount of detail. The shunned ho
 was first inhabited by William Harris and his wife Rhoby Dexter, with their children, Elkanah,
 born in 1755, Abigail, born in 1757, William, Jr., born in 1759, and Ruth, born in 1761. Harris
 was a substantial merchant and seaman in the West India trade, connected with the firm of Obadiah
-Brown and his nephews. After Brown's death in 1761, the new firm of Nicholas Brown &amp;
+Brown and his nephews. After Brown's death in 1761, the new firm of Nicholas Brown &
 Co. made him master of the brig   Prudence,   Providence-built, of 120 tons, thus enabling
 him to erect the new homestead he had desired ever since his marriage.  
 

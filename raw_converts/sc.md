@@ -5,36 +5,36 @@
 
   
 
- "Now be good children " Said Mrs. Lee  "While I am away &amp; dont get into
-mischief ". Mr. &amp; Mrs. Lee were going off for the day &amp; To leave The Two children
-John 10 yrs old &amp; Alice 2 yrs old  "Yes " replied John  
+ "Now be good children " Said Mrs. Lee  "While I am away & dont get into
+mischief ". Mr. & Mrs. Lee were going off for the day & To leave The Two children
+John 10 yrs old & Alice 2 yrs old  "Yes " replied John  
 
-  As Soon as The Elder Lees were away the younger Lees went down cellar &amp;
+  As Soon as The Elder Lees were away the younger Lees went down cellar &
 began to rummage among the rubbish little alice leaned against the wall watching John. As John
 was making a boat of barrel staves the Little girl gave a piercing cry as the bricks behind
-her crumbled away he rushed up to her &amp; Lifted her out screaming loudly as soon as her screams
-subsided she said  "the wall went away " John went up &amp; saw that there was a passage
-he said to the little girl  "lets come &amp; see what this is "  "Yes "
+her crumbled away he rushed up to her & Lifted her out screaming loudly as soon as her screams
+subsided she said  "the wall went away " John went up & saw that there was a passage
+he said to the little girl  "lets come & see what this is "  "Yes "
 she said the entered the place they could stand up it the passage was farther than they could
-see they John went back upstairs &amp; went to the kitchen drawer &amp; got 2 candles &amp;
-some matches &amp; then they went back to the cellar passage. the two once more entered there
-was plastering on the walls ceiling &amp; floor nothing was visible but a box this was for a
-seat nevertheless they examined it &amp; found it to contain nothing the walked on farther &amp;
-pretty soon the plastering left off &amp; they were in a cave Little alice was frightened at
+see they John went back upstairs & went to the kitchen drawer & got 2 candles &
+some matches & then they went back to the cellar passage. the two once more entered there
+was plastering on the walls ceiling & floor nothing was visible but a box this was for a
+seat nevertheless they examined it & found it to contain nothing the walked on farther &
+pretty soon the plastering left off & they were in a cave Little alice was frightened at
 first but at her brothers assurance that it was  "all right " she allayed her fears.
-soon they came to a small box which John took up &amp; carried within pretty soon they came
+soon they came to a small box which John took up & carried within pretty soon they came
 on a   boat   in it were two oars he dragged it with difficulty along with him soon they
-found the passage came to an abrupt stop he pulled the obstacle away &amp; to his dismay water
-rushed in in torrents John was an expert swimmer &amp; long breathede he had Just taken a breath
-so he tried to rise but with the box &amp; his sister he found it quite impossible then he caught
+found the passage came to an abrupt stop he pulled the obstacle away & to his dismay water
+rushed in in torrents John was an expert swimmer & long breathede he had Just taken a breath
+so he tried to rise but with the box & his sister he found it quite impossible then he caught
 sight of the boat rising he grasped it. . . .    
 
-The next he knew he was on the surface clinging tightly to the body of his sister &amp; the
+The next he knew he was on the surface clinging tightly to the body of his sister & the
 mysterious box he could not imagine how the water got in but a new peril menaced them if the
 water continued rising it would rise to the top suddenly a thought presented itself. he could
-shut off the water he speedily did this &amp; lifting the now lifeless body of his sister into
-the boat he himself climed in &amp; sailed down the passage it was gruesome &amp; uncanny absolutely
-dark his candle being put out by the flood &amp; a dead body lying near he did not gaze about
+shut off the water he speedily did this & lifting the now lifeless body of his sister into
+the boat he himself climed in & sailed down the passage it was gruesome & uncanny absolutely
+dark his candle being put out by the flood & a dead body lying near he did not gaze about
 him but rowed for his life when he did look up he was floating in his own cellar he quickly
 rushed up stairs with the body, to find his parents had come home He told them the story  
 

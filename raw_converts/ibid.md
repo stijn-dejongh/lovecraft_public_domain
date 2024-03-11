@@ -153,7 +153,7 @@ of Ibid!
       4     Following Jornandes, Codex Murat. xxj.
 4144.  
 
-      5     After Pagi, 50&ndash;50.  
+      5     After Pagi, 50-50.  
 
       6     Not till the appearance of von Schweinkopf's
 work in 1797 were St. Ibid and the rhetorician properly re-identified.  

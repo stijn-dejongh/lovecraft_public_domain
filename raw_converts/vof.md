@@ -8,7 +8,7 @@
         <font
 size=-1>Thursday  [November 3, 1927]          
 
-Dear Melmoth:&ndash;  
+Dear Melmoth:-  
 
   . . . So you are busy delving into the shady past of that
 insufferable young Asiatic Varius Avitus Bassianus?  Ugh!  There are few persons I loathe more than
@@ -198,5 +198,5 @@ town at least was saved--for encyclop&aelig;dias tell of the survival of Pompelo
 under the modern Spanish name of Pompelona. . . .  
 
           Yrs for Gothick
-Supremacy&ndash;    C &middot; IVLIVS &middot; VERVS &middot;
+Supremacy-    C &middot; IVLIVS &middot; VERVS &middot;
 MAXIMINVS.          

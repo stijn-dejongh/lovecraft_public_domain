@@ -42,9 +42,9 @@ written by J. Chapman Miske and published in the January 1941 issue of   Bizarre
      
             At several points the passage was roof'd
          over by the choaking of the upper parts of the narrow fissure; these places being
-         exceedingly dark, &amp; forbidding the perception of such burrows as may have existed
+         exceedingly dark, & forbidding the perception of such burrows as may have existed
          there. In one such dark space I felt conscious of a singular accession of fright, as if
-         some subtile &amp; bodiless emanation from the abyss were ingulphing my spirit; but the
+         some subtile & bodiless emanation from the abyss were ingulphing my spirit; but the
          blackness was too great for me to perceive the source of my alarm.    
             
               At several points the passage
@@ -57,7 +57,7 @@ written by J. Chapman Miske and published in the January 1941 issue of   Bizarre
 
      
             At length I emerg'd upon a table-land of
-         moss-grown rock &amp; scanty soil, lit up by a faint moonlight which had replac'd
+         moss-grown rock & scanty soil, lit up by a faint moonlight which had replac'd
          the expiring orb of day. Casting my eyes about, I beheld no living object; but was
          sensible of a very peculiar stirring far below me, amongst the whispering rushes of the
          pestilential swamp I had lately quitted.    
@@ -71,18 +71,18 @@ written by J. Chapman Miske and published in the January 1941 issue of   Bizarre
 
      
             After walking for some distance, I
-         encounter'd the rusty tracks of a street-railway, &amp; the worm-eaten poles which
-         still held the limp &amp; sagging trolley wire. Following this line, I soon came upon a
+         encounter'd the rusty tracks of a street-railway, & the worm-eaten poles which
+         still held the limp & sagging trolley wire. Following this line, I soon came upon a
          yellow, vestibuled car numbered 1852--of a plain, double-trucked type common from
          1900 to 1910. It was untenanted, but evidently ready to start; the trolley being on the
-         wire &amp; the air-brake pump now and then throbbing beneath the floor. I boarded it &amp;
+         wire & the air-brake pump now and then throbbing beneath the floor. I boarded it &
          looked vainly about for the light switch--noting as I did so the absence of
          controller handle which implied the brief absence of the motorman. Then I sat down in one
-         of the cross seats toward the middle, awaiting the arrival of the crew &amp; the starting
-         of the vehicle. Presently I heard a swishing in the sparce grass toward the left, &amp;
+         of the cross seats toward the middle, awaiting the arrival of the crew & the starting
+         of the vehicle. Presently I heard a swishing in the sparce grass toward the left, &
          saw the dark forms of two men looming up in the moonlight. They had the regulation caps of
-         a railway company, &amp; I could not doubt but that they were the conductor &amp;
-         motorman. Then one of them   sniffed   with singular sharpness, &amp; raised his face
+         a railway company, & I could not doubt but that they were the conductor &
+         motorman. Then one of them   sniffed   with singular sharpness, & raised his face
          to howl to the moon. The other dropped on all fours to run toward the car.    
             
               After walking for some distance,
@@ -101,8 +101,8 @@ written by J. Chapman Miske and published in the January 1941 issue of   Bizarre
      
 
      
-            I leaped up at once &amp; raced madly out of that
-         car &amp; away across endless leagues of plateau till exhaustion waked me--doing this
+            I leaped up at once & raced madly out of that
+         car & away across endless leagues of plateau till exhaustion waked me--doing this
          not because the conductor had dropped on all fours, but because the face of the motorman
          was a mere white cone tapering to one blood-red tentacle. . . .    
             

@@ -9,8 +9,8 @@
 
 On August 20, 1917, I, Karl Heinrich, Graf von Altberg-Ehrenstein, Lieutenant-Commander in the
 Imperial German Navy and in charge of the submarine U-29, deposit this bottle and record in
-the Atlantic Ocean at a point to me unknown but probably about N. Latitude 20&deg;, W. Longitude
-35&deg;, where my ship lies disabled on the ocean floor. I do so because of my desire to set
+the Atlantic Ocean at a point to me unknown but probably about N. Latitude 20°, W. Longitude
+35°, where my ship lies disabled on the ocean floor. I do so because of my desire to set
 certain unusual facts before the public; a thing I shall not in all probability survive to accomplish
 in person, since the circumstances surrounding me are as menacing as they are extraordinary,
 and involve not only the hopeless crippling of the U-29, but the impairment of my iron German
@@ -18,7 +18,7 @@ will in a manner most disastrous.
 
   On the afternoon of June 18, as reported by wireless to the U-61, bound for
 Kiel, we torpedoed the British freighter   Victory,   New York to Liverpool, in N. Latitude
-45&deg; 16&prime;, W. Longitude 28&deg; 34&prime;; permitting the crew to leave in boats in order
+45° 16', W. Longitude 28° 34'; permitting the crew to leave in boats in order
 to obtain a good cinema view for the admiralty records. The ship sank quite picturesquely, bow
 first, the stern rising high out of the water whilst the hull shot down perpendicularly to the
 bottom of the sea. Our camera missed nothing, and I regret that so fine a reel of film should never

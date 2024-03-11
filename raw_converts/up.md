@@ -31,7 +31,7 @@ night so long past.
   In January, 1910, I had finished a professional engagement in England and signed
 a contract for a tour of Australian theatres. A liberal time being allowed for the trip, I determined
 to make the most of it in the sort of travel which chiefly interests me; so accompanied by my
-wife I drifted pleasantly down the Continent and embarked at Marseilles on the P. &amp; O. Steamer
+wife I drifted pleasantly down the Continent and embarked at Marseilles on the P. & O. Steamer
   Malwa,   bound for Port Said. From that point I proposed to visit the principal historical
 localities of lower Egypt before leaving finally for Australia.  
 

@@ -337,7 +337,7 @@ follow him about or float ahead as he changed position among the titan prisms, l
 clusters, and quasi-buildings; and all the while the vague shrieking and roaring waxed louder
 and louder, as if approaching some monstrous climax of utterly unendurable intensity.  
 
-  During the night of April 19&ndash;20 the new development occurred. Gilman
+  During the night of April 19-20 the new development occurred. Gilman
 was half-involuntarily moving about in the twilight abysses with the bubble-mass and the small
 polyhedron floating ahead, when he noticed the peculiarly regular angles formed by the edges
 of some gigantic neighbouring prism-clusters. In another second he was out of the abyss and

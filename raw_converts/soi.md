@@ -7,7 +7,7 @@
 
     I.    
 
-During the winter of 1927&ndash;28 officials of the Federal government made a strange and secret
+During the winter of 1927-28 officials of the Federal government made a strange and secret
 investigation of certain conditions in the ancient Massachusetts seaport of Innsmouth. The public
 first learned of it in February, when a vast series of raids and arrests occurred, followed
 by the deliberate burning and dynamiting--under suitable precautions--of an enormous
@@ -86,7 +86,7 @@ superior to what he said.
 
    "Innsmouth? Well, it's a queer kind of a town down at the mouth
 of the Manuxet. Used to be almost a city--quite a port before the War of 1812--but
-all gone to pieces in the last hundred years or so. No railroad now--B. &amp; M. never
+all gone to pieces in the last hundred years or so. No railroad now--B. & M. never
 went through, and the branch line from Rowley was given up years ago.  
 
    "More empty houses than there are people, I guess, and no business to
@@ -2027,7 +2027,7 @@ killed himself after an ancestral quest in New England?
 
   For more than two years I fought off these reflections with partial success.
 My father secured me a place in an insurance office, and I buried myself in routine as deeply
-as possible. In the winter of 1930&ndash;31, however, the dreams began. They were very sparse
+as possible. In the winter of 1930-31, however, the dreams began. They were very sparse
 and insidious at first, but increased in frequency and vividness as the weeks went by. Great
 watery spaces opened out before me, and I seemed to wander through titanic sunken porticos and
 labyrinths of weedy Cyclopean walls with grotesque fishes as my companions. Then the   other

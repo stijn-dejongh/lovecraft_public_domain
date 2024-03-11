@@ -5,7 +5,7 @@
 
   
 
-[pp. 1&ndash;6:]  
+[pp. 1-6:]  
 
 It was in the summer of 1927 that I suddenly cut short my sightseeing tour of New England and
 returned to Cleveland under a nervous strain. I have seldom mentioned the particulars of this trip,
@@ -51,7 +51,7 @@ he said.
    "Innsmouth? Well, it's a queer kind of a town down at the mouth of the
 Manuxet. It used to be almost a city--quite a seaport before the War of 1812--but the
 place has all gone to pieces in the last hundred years or so. There's no railroad--the B
-&amp; M never went through there, and the branch line from Rowley was given up years ago. More
+& M never went through there, and the branch line from Rowley was given up years ago. More
 empty houses than there are people, I guess, and no business to speak of. Everybody trades either
 here or in Arkham or Ipswich. At one time they had quite a number of mills there, but
 nothing's left now but one jewellery refinery.  

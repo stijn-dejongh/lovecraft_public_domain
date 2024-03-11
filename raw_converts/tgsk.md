@@ -1145,7 +1145,7 @@ mask clutched in his hand, had nothing further to reveal.
 
 A year has passed, and nothing has been heard of Randolph Carter. His estate is still unsettled.
 The Boston address from which one  "Swami Chandraputra " sent inquiries to various
-mystics in 1930&ndash;31&ndash;32 was indeed tenanted by a strange Hindoo, but he left shortly
+mystics in 1930-31-32 was indeed tenanted by a strange Hindoo, but he left shortly
 before the date of the New Orleans conference and has never been seen since. He was said to
 be dark, expressionless, and bearded, and his landlord thinks the swarthy mask--which was
 duly exhibited--looks very much like him. He was never, however, suspected of any connexion

@@ -146,7 +146,7 @@ felt.
 incense till his room smelled like the vault of a sepulchred Pharaoh in the Valley of Kings.
 At the same time his demands for cold air increased, and with my aid he amplified the ammonia
 piping of his room and modified the pumps and feed of his refrigerating machine till he could
-keep the temperature as low as 34&deg; or 40&deg; and finally even 28&deg;; the bathroom and
+keep the temperature as low as 34° or 40° and finally even 28°; the bathroom and
 laboratory, of course, being less chilled, in order that water might not freeze, and that chemical
 processes might not be impeded. The tenant adjoining him complained of the icy air from around
 the connecting door, so I helped him fit heavy hangings to obviate the difficulty. A kind of

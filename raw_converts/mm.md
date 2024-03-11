@@ -98,7 +98,7 @@ party had ever been in the polar regions before, hence we all relied greatly on 
 B. Douglas, commanding the brig   Arkham,   and serving as commander of the sea party, and
 Georg Thorfinnssen, commanding the barque   Miskatonic  --both veteran whalers in antarctic
 waters. As we left the inhabited world behind the sun sank lower and lower in the north, and
-stayed longer and longer above the horizon each day. At about 62&deg; South Latitude we sighted
+stayed longer and longer above the horizon each day. At about 62° South Latitude we sighted
 our first icebergs--table-like objects with vertical sides--and just before reaching
 the Antarctic Circle, which we crossed on October 20 with appropriately quaint ceremonies, we
 were considerably troubled with field ice. The falling temperature bothered me considerably
@@ -108,14 +108,14 @@ a strikingly vivid mirage--the first I had ever seen--in which distant bergs bec
 the battlements of unimaginable cosmic castles.  
 
   Pushing through the ice, which was fortunately neither extensive nor thickly
-packed, we regained open water at South Latitude 67&deg;, East Longitude 175&deg;. On the morning
+packed, we regained open water at South Latitude 67°, East Longitude 175°. On the morning
 of October 26 a strong  "land blink " appeared on the south, and before noon we all
 felt a thrill of excitement at beholding a vast, lofty, and snow-clad mountain chain which opened
 out and covered the whole vista ahead. At last we had encountered an outpost of the great unknown
 continent and its cryptic world of frozen death. These peaks were obviously the Admiralty Range
 discovered by Ross, and it would now be our task to round Cape Adare and sail down the east
 coast of Victoria Land to our contemplated base on the shore of McMurdo Sound at the foot of
-the volcano Erebus in South Latitude 77&deg; 9&prime;.  
+the volcano Erebus in South Latitude 77° 9'.  
 
   The last lap of the voyage was vivid and fancy-stirring, great barren peaks
 of mystery looming up constantly against the west as the low northern sun of noon or the still
@@ -188,8 +188,8 @@ solid rock layers; our provisional test of the small ice-melting equipment; our 
 of the great barrier with sledges and supplies; and our final assembling of five huge aëroplanes
 at the camp atop the barrier. The health of our land party--twenty men and 55 Alaskan sledge
 dogs--was remarkable, though of course we had so far encountered no really destructive
-temperatures or windstorms. For the most part, the thermometer varied between zero and 20&deg;
-or 25&deg; above, and our experience with New England winters had accustomed us to rigours of
+temperatures or windstorms. For the most part, the thermometer varied between zero and 20°
+or 25° above, and our experience with New England winters had accustomed us to rigours of
 this sort. The barrier camp was semi-permanent, and destined to be a storage cache for gasoline,
 provisions, dynamite, and other supplies. Only four of our planes were needed to carry the actual
 exploring material, the fifth being left with a pilot and two men from the ships at the storage
@@ -205,17 +205,17 @@ and probable efficiency.
 of our squadron on November 21 over the lofty shelf ice, with vast peaks rising on the west,
 and the unfathomed silences echoing to the sound of our engines. Wind troubled us only moderately,
 and our radio compasses helped us through the one opaque fog we encountered. When the vast rise
-loomed ahead, between Latitudes 83&deg; and 84&deg;, we knew we had reached Beardmore Glacier,
+loomed ahead, between Latitudes 83° and 84°, we knew we had reached Beardmore Glacier,
 the largest valley glacier in the world, and that the frozen sea was now giving place to a frowning
 and mountainous coastline. At last we were truly entering the white, aeon-dead world of the
 ultimate south, and even as we realised it we saw the peak of Mt. Nansen in the eastern distance,
 towering up to its height of almost 15,000 feet.  
 
   The successful establishment of the southern base above the glacier in Latitude
-86&deg; 7&prime;, East Longitude 174&deg; 23&prime;, and the phenomenally rapid and effective borings and
+86° 7', East Longitude 174° 23', and the phenomenally rapid and effective borings and
 blastings made at various points reached by our sledge trips and short aëroplane flights,
 are matters of history; as is the arduous and triumphant ascent of Mt. Nansen by Pabodie and
-two of the graduate students--Gedney and Carroll--on December 13&ndash;15. We were
+two of the graduate students--Gedney and Carroll--on December 13-15. We were
 some 8500 feet above sea-level, and when experimental drillings revealed solid ground only twelve
 feet down through the snow and ice at certain points, we made considerable use of the small
 melting apparatus and sunk bores and performed dynamiting at many places where no previous explorer
@@ -282,7 +282,7 @@ fragments, with their odd marking, must have been 500 million to a thousand mill
 Popular imagination, I judge, responded actively to our wireless bulletins of Lake's start
 northwestward into regions never trodden by human foot or penetrated by human imagination; though
 we did not mention his wild hopes of revolutionising the entire sciences of biology and geology.
-His preliminary sledging and boring journey of January 11&ndash;18 with Pabodie and five others--marred
+His preliminary sledging and boring journey of January 11-18 with Pabodie and five others--marred
 by the loss of two dogs in an upset when crossing one of the great pressure-ridges in the ice--had
 brought up more and more of the Archaean slate; and even I was interested by the singular profusion
 of evident fossil markings in that unbelievably ancient stratum. These markings, however, were
@@ -324,7 +324,7 @@ the party.
 
      "10:05 P.M. On the wing. After snowstorm, have spied mountain-range ahead
 higher than any hitherto seen. May equal Himalayas allowing for height of plateau. Probable
-Latitude 76&deg; 15&prime;, Longitude 113&deg; 10&prime; E. Reaches far as can see to right and left. Suspicion
+Latitude 76° 15', Longitude 113° 10' E. Reaches far as can see to right and left. Suspicion
 of two smoking cones. All peaks black and bare of snow. Gale blowing off them impedes navigation. "  
 
   After that Pabodie, the men, and I hung breathlessly over the receiver. Thought
@@ -1189,7 +1189,7 @@ was extreme and uncanny to an extent which poor Lake had scarcely hinted.
 savage weathering; but their preternatural solidity and tough material had saved them from obliteration.
 Many parts, especially those closest to the slopes, seemed identical in substance with the surrounding
 rock surface. The whole arrangement looked like the ruins of Machu Picchu in the Andes, or the
-primal foundation-walls of Kish as dug up by the Oxford&ndash;Field Museum Expedition in 1929;
+primal foundation-walls of Kish as dug up by the Oxford-Field Museum Expedition in 1929;
 and both Danforth and I obtained that occasional impression of   separate Cyclopean blocks  
 which Lake had attributed to his flight-companion Carroll. How to account for such things in
 this place was frankly beyond me, and I felt queerly humbled as a geologist. Igneous formations
@@ -2036,8 +2036,8 @@ and the conviction grew upon us that this hideous upland must indeed be the fabl
 plateau of Leng which even the mad author of the   Necronomicon   was reluctant to discuss.
 The great mountain chain was tremendously long--starting as a low range at Luitpold Land
 on the coast of Weddell Sea and virtually crossing the entire continent. The really high part
-stretched in a mighty arc from about Latitude 82&deg;, E. Longitude 60&deg; to Latitude 70&deg;,
-E. Longitude 115&deg;, with its concave side toward our camp and its seaward end in the region
+stretched in a mighty arc from about Latitude 82°, E. Longitude 60° to Latitude 70°,
+E. Longitude 115°, with its concave side toward our camp and its seaward end in the region
 of that long, ice-locked coast whose hills were glimpsed by Wilkes and Mawson at the Antarctic
 Circle.  
 
@@ -2055,8 +2055,8 @@ received her loftiest and most terrible mountains.
 
   If the scale of the carvings was correct, these abhorred things must have been
 much over 40,000 feet high--radically vaster than even the shocking mountains of madness
-we had crossed. They extended, it appeared, from about Latitude 77&deg;, E. Longitude 70&deg;
-to Latitude 70&deg;, E. Longitude 100&deg;--less than 300 miles away from the dead city,
+we had crossed. They extended, it appeared, from about Latitude 77°, E. Longitude 70°
+to Latitude 70°, E. Longitude 100°--less than 300 miles away from the dead city,
 so that we would have spied their dreaded summits in the dim western distance had it not been
 for that vague opalescent haze. Their northern end must likewise be visible from the long Antarctic
 Circle coast-line at Queen Mary Land.  

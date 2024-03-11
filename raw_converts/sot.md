@@ -9,7 +9,7 @@
 
 After twenty-two years of nightmare and terror, saved only by a desperate conviction of the
 mythical source of certain impressions, I am unwilling to vouch for the truth of that which
-I think I found in Western Australia on the night of July 17&ndash;18, 1935. There is reason
+I think I found in Western Australia on the night of July 17-18, 1935. There is reason
 to hope that my experience was wholly or partly an hallucination--for which, indeed, abundant
 causes existed. And yet, its realism was so hideous that I sometimes find hope impossible. If
 the thing did happen, then man must be prepared to accept notions of the cosmos, and of his
@@ -45,7 +45,7 @@ a fairly ample summary of its background.
   My name is Nathaniel Wingate Peaslee, and those who recall the newspaper tales
 of a generation back--or the letters and articles in psychological journals six or seven
 years ago--will know who and what I am. The press was filled with the details of my strange
-amnesia in 1908&ndash;13, and much was made of the traditions of horror, madness, and witchcraft
+amnesia in 1908-13, and much was made of the traditions of horror, madness, and witchcraft
 which lurk behind the ancient Massachusetts town then and now forming my place of residence.
 Yet I would have it known that there is nothing whatever of the mad or sinister in my heredity
 and early life. This is a highly important fact in view of the shadow which fell so suddenly
@@ -436,7 +436,7 @@ of some months, however, the element of terror did figure with accumulating forc
 when the dreams began so unfailingly to have the aspect of   memories,   and when my mind
 began to link them with my growing abstract disturbances--the feeling of mnemonic restraint,
 the curious impressions regarding   time,   the sense of a loathsome exchange with my secondary
-personality of 1908&ndash;13, and, considerably later, the inexplicable loathing of my own person.  
+personality of 1908-13, and, considerably later, the inexplicable loathing of my own person.  
 
   As certain definite details began to enter the dreams, their horror increased
 a thousandfold--until by October, 1915, I felt I must do something. It was then that I
@@ -1090,7 +1090,7 @@ nothing to others, for you very obviously ought to have precedence in any discov
 we'd need for our apparatus. It is somewhat west and south of Warburton's path of
 1873, and 100 miles southeast of Joanna Spring. We could float things up the De Grey River instead
 of starting from Pilbarra--but all that can be talked over later. Roughly, the stones lie
-at a point about 22&deg; 3&prime; 14&Prime; South Latitude, 125&deg; 0&prime; 39&Prime; East
+at a point about 22° 3' 14' South Latitude, 125° 0' 39' East
 Longitude. The climate is tropical, and the desert conditions are trying. Any expedition had better
 be made in winter--June or July or August. I shall welcome further correspondence upon this
 subject, and am keenly eager to assist in any plan you may devise. After studying your articles I
@@ -1112,7 +1112,7 @@ were sparing; but enough appeared to tell of our quest for reported Australian r
 chronicle our various preparatory steps.  
 
   Professors William Dyer of the college's geology department (leader of
-the Miskatonic Antarctic Expedition of 1930&ndash;31), Ferdinand C. Ashley of the department
+the Miskatonic Antarctic Expedition of 1930-31), Ferdinand C. Ashley of the department
 of ancient history, and Tyler M. Freeborn of the department of anthropology--together with
 my son Wingate--accompanied me. My correspondent Mackenzie came to Arkham early in 1935
 and assisted in our final preparations. He proved to be a tremendously competent and affable
@@ -1221,7 +1221,7 @@ My son--a trained psychologist with the fullest and most sympathetic knowledge o
 case--shall be the primary judge of what I have to tell.  
 
   First let me outline the externals of the matter, as those at the camp know
-them. On the night of July 17&ndash;18, after a windy day, I retired early but could not sleep.
+them. On the night of July 17-18, after a windy day, I retired early but could not sleep.
 Rising shortly before eleven, and afflicted as usual with that strange feeling regarding the
 northeastward terrain, I set out on one of my typical nocturnal walks; seeing and greeting only
 one person--an Australian miner named Tupper--as I left our precincts. The moon, slightly

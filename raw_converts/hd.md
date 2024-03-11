@@ -51,7 +51,7 @@ of the picture as Robert Blake saw it--or thought he saw it--or pretended to see
 Now, studying the diary closely, dispassionately, and at leisure, let us summarise the dark
 chain of events from the expressed point of view of their chief actor.  
 
-  Young Blake returned to Providence in the winter of 1934&ndash;5, taking the
+  Young Blake returned to Providence in the winter of 1934-5, taking the
 upper floor of a venerable dwelling in a grassy court off College Street--on the crest
 of the great eastward hill near the Brown University campus and behind the marble John Hay Library.
 It was a cosy and fascinating place, in a little garden oasis of village-like antiquity where
@@ -337,7 +337,7 @@ cards with the name  "Edwin M. Lillibridge ", and a paper covered with pencilled
 dim westward window. Its disjointed text included such phrases as the following:  
 
    "Prof. Enoch Bowen home from Egypt May 1844--buys old Free-Will Church
-in July--his archaeological work &amp; studies in occult well known. "  
+in July--his archaeological work & studies in occult well known. "  
 
    "Dr. Drowne of 4th Baptist warns against Starry Wisdom in sermon Dec.
 29, 1844. "  
@@ -354,11 +354,11 @@ in July--his archaeological work &amp; studies in occult well known. "
 ruins--says they call up something that can't exist in light. Flees a little light,
 and banished by strong light. Then has to be summoned again. Probably got this from deathbed
 confession of Francis X. Feeney, who had joined Starry Wisdom in '49. These people say
-the Shining Trapezohedron shews them heaven &amp; other worlds, &amp; that the Haunter of the
+the Shining Trapezohedron shews them heaven & other worlds, & that the Haunter of the
 Dark tells them secrets in some way. "  
 
    "Story of Orrin B. Eddy 1857. They call it up by gazing at the crystal,
-&amp; have a secret language of their own. "  
+& have a secret language of their own. "  
 
    "200 or more in cong. 1863, exclusive of men at front. "  
 

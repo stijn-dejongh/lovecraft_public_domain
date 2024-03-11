@@ -80,7 +80,7 @@ said the negro  "I hab'n't got a decent pair of hosses an' I hab-- "
     Chapter VIII  Bells Surprise.    
 
 It was 11 o'clock at Kent, all of the stores were closed but one, a dingy,
-dirty, little shop, down at the west end. It lay between Kent Harbour, &amp; the Kent &amp;
+dirty, little shop, down at the west end. It lay between Kent Harbour, & the Kent &
 Mainville R.R. In the Front room a shabbily dressed person of doubtful age was conversing with
 a middle aged woman with gray haire,  "I have agreed to do the job, Lindy, " he said,
  "Bell will arrive at 11.30 and the carraige is ready to take him down to the wharf, where
@@ -113,7 +113,7 @@ tomb and touch a certain spot marked  "A " you will find out "
    "Now where is Mr Dobson "? queried the judge,  "Here "!
 said a voice behind them, and The   figure of Mr Dobson HIMSELF   loomed up in the doorway.  
 
-   "How did you get here "!&amp;c was chorused.  "'Tis
+   "How did you get here "!&c was chorused.  "'Tis
 a long story, " said Dobson.  
 
     Chapter X  Dobson's Story.    

@@ -14,7 +14,7 @@
   Chapter 1.    
 
 In the spring of 1847, the little village of Ruralville was thrown into a state of exitement by the
-arrival of a strange brig in the harbour. It carried no flag, &amp; everything about it was such as
+arrival of a strange brig in the harbour. It carried no flag, & everything about it was such as
 would exite suspicion. It had no name. Its captain was named Manuel Ruello. The exitement increased
 however when John Griggs dissapeared from his home. This was Oct. 4. on Oct. 5 the brig was
 gone.  
@@ -57,8 +57,8 @@ Land. "
 
 In the extreme southern part of No-Mans Land, there was found a hut, and several
 other signs of human habitation. they promptly entered, and, chained to the floor, lay Griggs,
-Johns, &amp; Dahabea. They, upon arriving in London, separated, Griggs going to Ruralville, Johns
-to the Frigate, &amp; Dahabea to Madagascar.  
+Johns, & Dahabea. They, upon arriving in London, separated, Griggs going to Ruralville, Johns
+to the Frigate, & Dahabea to Madagascar.  
 
     Chapter 8.    
 
@@ -69,8 +69,8 @@ recovered.
 
     Chapter 9.    
 
-Griggs was royally recieved at Ruralville, &amp; a dinner was given in honour of
-Henry Johns, Dahabea was made King of Madagascar., &amp; Brown was made Captain of his ship.  
+Griggs was royally recieved at Ruralville, & a dinner was given in honour of
+Henry Johns, Dahabea was made King of Madagascar., & Brown was made Captain of his ship.  
 
     THE END.    
 
@@ -105,7 +105,7 @@ when They came together on The other side of The Island one was missing his name
 At length it was Decided Something must be done, Notes were compared. Three abductions were found
 to have taken place Dissapearance of John Griggs, Henry John, & Dahabea, were recalled. Finally
 Advertisements were issued offering &pound;5000 reward for the capture of Manuel Ruello, Ship,
-Prisoners, &amp; crew. When exciting News reached London! An unknown Brig with no name was wrecked
+Prisoners, & crew. When exciting News reached London! An unknown Brig with no name was wrecked
 of The Florida Keys in America!  
 
     Chapter V    
@@ -127,7 +127,7 @@ unfruitful. and thus absolutely Impassable. It is called  "No-Mans Land. "
 
     Chapter VII    
 
-In the Extreme southern part of No-Mans Land There was found a wharf and a hut &amp;c and every
+In the Extreme southern part of No-Mans Land There was found a wharf and a hut &c and every
 sign of former human habitation. A rusty door-plate was nailed to the hut inscribed in old English
  "M. Ruello. " This, then, was the home of Michael Ruello. the house brought to light a
 note book belonging to John Griggs, and The Log of the  "Constitution " taken from Henry

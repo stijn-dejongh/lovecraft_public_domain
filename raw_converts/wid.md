@@ -685,7 +685,7 @@ sent a loathsomely disturbing kodak picture to prove it. That was after a night 
 dogs had outdone themselves in barking and howling.  
 
   On the morning of Wednesday, July 18, I received a telegram from Bellows Falls,
-in which Akeley said he was expressing the black stone over the B. &amp; M. on Train No. 5508,
+in which Akeley said he was expressing the black stone over the B. & M. on Train No. 5508,
 leaving Bellows Falls at 12:15 p.m., standard time, and due at the North Station in Boston at
 4:12 p.m. It ought, I calculated, to get up to Arkham at least by the next noon; and accordingly
 I stayed in all Thursday morning to receive it. But noon came and went without its advent, and
@@ -1114,7 +1114,7 @@ things beyond all human conjecture. Don't tell anyone about it, of course--for t
 matter must not get to the promiscuous public.  
 
   The train service to Brattleboro is not bad--you can get a time-table
-in Boston. Take the B. &amp; M. to Greenfield, and then change for the brief remainder of the
+in Boston. Take the B. & M. to Greenfield, and then change for the brief remainder of the
 way. I suggest your taking the convenient 4:10 p.m.--standard--from Boston. This gets
 into Greenfield at 7:35, and at 9:19 a train leaves there which reaches Brattleboro at 10:01.
 That is week-days. Let me know the date and I'll have my car on hand at the station.  

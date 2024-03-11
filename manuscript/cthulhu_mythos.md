@@ -3,7 +3,10 @@
 From “Dagon” to “The Call of Cthulhu” to “The Haunter of the Dark,” each story connects to the ancient cosmic entities known as the Great Old
 Ones, buried in a deep sleep beneath the earth and incomprehensible to mankind. For the few mortals who dare to glimpse this unknowable world, the
 result is a complete disconnection from what was once considered reality. Lovecraft’s stories are grim, fantastical, dark, horrifying—and yet
-endlessly fascinating. 
+endlessly fascinating.  
+  
+
+![rendition of Chtulhu, the great old one](images/cthulhu-drawing.png){ width=20% }
 
 ## List of stories in the Cthulhu Mythos
 
@@ -31,4 +34,5 @@ endlessly fascinating.
 * The Shadow out of Time
 * The Haunter of the Dark
 
+\clearpage
 \pagebreak

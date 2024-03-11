@@ -408,7 +408,7 @@ little hills nor deep valleys with stone caves. Still more back, those old ones 
 out and make villages. Bring plenty gold. Me them. You them. Then big waters come. All change.
 Nobody come out, let nobody in. Get in, no get out. They no die--no get old like Grey Eagle
 with valleys in face and snow on head. Just same like air--some man, some spirit. Bad medicine.
-Sometimes at night spirit come out on half-man&ndash;half-horse-with-horn and fight where men once
+Sometimes at night spirit come out on half-man-half-horse-with-horn and fight where men once
 fight. Keep 'way them place. No good. You good boy--go 'way and let them old
 ones 'lone. "  
 

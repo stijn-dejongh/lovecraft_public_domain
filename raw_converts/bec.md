@@ -88,7 +88,7 @@ former discourse delivered at the burial of a favourite horse.]
 Klarkash-Ton (who esoterically depicted the fighters as boneless fungi), was printed after repeated
 rejections by the discriminating editor of the   Windy City Grab-Bag  --as a broadside by W.
 Peter Chef[, with typographical supervision by Vrest Orton.]. This, through the efforts of Otis
-Adelbert Kline, was finally placed on sale in the bookshop of Smearum &amp; Weep, three and a half
+Adelbert Kline, was finally placed on sale in the bookshop of Smearum & Weep, three and a half
 copies finally being disposed of through the alluring catalogue description supplied by Samuelus
 Philanthropus, Esq.  
 
@@ -157,7 +157,7 @@ Klarkash-Ton--Clark Ashton Smith
 
 W. Peter Chef--W. Paul Cook  
 
-Smearum &amp; Weep--Dauber &amp; Pine  
+Smearum & Weep--Dauber & Pine  
 
 Samuelus Philanthropus--Samuel Loveman  
 

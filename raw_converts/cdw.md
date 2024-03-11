@@ -104,7 +104,7 @@ especially by his continual search through town records and among old burying-gr
 grave dug in 1771; the grave of an ancestor named Joseph Curwen, some of whose papers he professed
 to have found behind the panelling of a very old house in Olney Court, on Stampers' Hill,
 which Curwen was known to have built and occupied. It is, broadly speaking, undeniable that the
-winter of 1919&ndash;20 saw a great change in Ward; whereby he abruptly stopped his general
+winter of 1919-20 saw a great change in Ward; whereby he abruptly stopped his general
 antiquarian pursuits and embarked on a desperate delving into occult subjects both at home and
 abroad, varied only by this strangely persistent search for his forefather's grave.  
 
@@ -112,7 +112,7 @@ abroad, varied only by this strangely persistent search for his forefather's gra
 on his close and continuous knowledge of the patient, and on certain frightful investigations and
 discoveries which he made toward the last. Those investigations and discoveries have left their
 mark upon him; so that his voice trembles when he tells them, and his hand trembles when he tries
-to write of them. Willett admits that the change of 1919&ndash;20 would ordinarily appear to mark
+to write of them. Willett admits that the change of 1919-20 would ordinarily appear to mark
 the beginning of a progressive decadence which culminated in the horrible and uncanny alienation of
 1928; but believes from personal observation that a finer distinction must be made. Granting freely
 that the boy was always ill-balanced temperamentally, and prone to be unduly susceptible and
@@ -243,7 +243,7 @@ holds unchanged the fine estates and bits of walled garden and steep green lane 
 fragrant memories linger. These rambles, together with the diligent studies which accompanied them,
 certainly account for a large amount of the antiquarian lore which at last crowded the modern world
 from Charles Ward's mind; and illustrate the mental soil upon which fell, in that fateful
-winter of 1919&ndash;20, the seeds that came to such strange and terrible fruition.  
+winter of 1919-20, the seeds that came to such strange and terrible fruition.  
 
   Dr. Willett is certain that, up to this ill-omened winter of first change, Charles
 Ward's antiquarianism was free from every trace of the morbid. Graveyards held for him no
@@ -1083,7 +1083,7 @@ will ever be able to forget. It thundered out of the sky like a doom, and window
 echoes died away. It was deep and musical; powerful as a bass organ, but evil as the forbidden
 books of the Arabs. What it said no man can tell, for it spoke in an unknown tongue, but this is
 the writing Luke Fenner set down to portray the daemoniac intonations:
- "DEESMEES&ndash;JESHET&ndash;BONE DOSEFE DUVEMA&ndash;ENITEMOSS ". Not till the year
+ "DEESMEES-JESHET-BONE DOSEFE DUVEMA-ENITEMOSS ". Not till the year
 1919 did any soul link this crude transcript with anything else in mortal knowledge, but Charles
 Ward paled as he recognised what Mirandola had denounced in shudders as the ultimate horror among
 black magic's incantations.  
@@ -1210,7 +1210,7 @@ there, which he did during the Easter vacation of 1919. At the Essex Institute, 
 known to him from former sojourns in the glamorous old town of crumbling Puritan gables and
 clustered gambrel roofs, he was very kindly received, and unearthed there a considerable amount of
 Curwen data. He found that his ancestor was born in Salem-Village, now Danvers, seven miles from
-town, on the eighteenth of February (O.S.) 1662&ndash;3; and that he had run away to sea at the age
+town, on the eighteenth of February (O.S.) 1662-3; and that he had run away to sea at the age
 of fifteen, not appearing again for nine years, when he returned with the speech, dress, and
 manners of a native Englishman and settled in Salem proper. At that time he had little to do with
 his family, but spent most of his hours with the curious books he had brought from Europe, and the
@@ -1448,7 +1448,7 @@ workmen beside him. Their testimony is absolute as to the nature and genuineness
 and Dr. Willett relies on them to help establish his theory that the youth was not mad when he
 began his major eccentricities. All the other papers were likewise in Curwen's handwriting,
 and one of them seemed especially portentous because of its inscription:    "To Him Who Shal
-Come After, &amp; How He May Gett Beyonde Time &amp; y    e    
+Come After, & How He May Gett Beyonde Time & y    e    
 Spheres. "   Another was in a cipher; the same, Ward hoped, as the Hutchinson cipher which
 had hitherto baffled him. A third, and here the searcher rejoiced, seemed to be a key to the
 cipher; whilst the fourth and fifth were addressed respectively to  "Edw: Hutchinson,

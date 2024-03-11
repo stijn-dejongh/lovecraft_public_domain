@@ -34,7 +34,7 @@ Sometimes I believe that this less material life is our truer life, and that our
 on the terraqueous globe is itself the secondary or merely virtual phenomenon.  
 
   It was from a youthful reverie filled with speculations of this sort that I
-arose one afternoon in the winter of 1900&ndash;1901, when to the state psychopathic institution
+arose one afternoon in the winter of 1900-1901, when to the state psychopathic institution
 in which I served as an interne was brought the man whose case has ever since haunted me so
 unceasingly. His name, as given on the records, was Joe Slater, or Slaader, and his appearance
 was that of the typical denizen of the Catskill Mountain region; one of those strange, repellent
