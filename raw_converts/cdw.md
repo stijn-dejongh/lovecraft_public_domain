@@ -92,7 +92,7 @@ such knowledge of his own life and of the ordinary practical and cultural backgr
 twentieth century as ought to have been his by virtue of his birth in 1902 and his education in the
 schools of our own time. Alienists are now wondering how, in view of his vitally impaired range of
 data, the escaped patient manages to cope with the complicated world of today; the dominant opinion
-being that he is &lsquo;lying low' in some humble and unexacting position till his stock of
+being that he is "lying low' in some humble and unexacting position till his stock of
 modern information can be brought up to the normal.  
 
   The beginning of Ward's madness is a matter of dispute among alienists. Dr.
@@ -255,11 +255,11 @@ in March of 1692, and about whom a whispered series of highly peculiar and disqu
 clustered.  
 
   Ward's great-great-grandfather Welcome Potter had in 1785 married a certain
- "Ann Tillinghast, daughter of Mrs. Eliza, daughter to Capt. James Tillinghast ", of
+ "Ann Tillinghast, daughter of Mrs. Eliza, daughter to Capt. James Tillinghast", of
 whose paternity the family had preserved no trace. Late in 1918, whilst examining a volume of
 original town records in manuscript, the young genealogist encountered an entry describing a legal
 change of name, by which in 1772 a Mrs. Eliza Curwen, widow of Joseph Curwen, resumed, along with
-her seven-year-old daughter Ann, her maiden name of Tillinghast; on the ground &lsquo;that her
+her seven-year-old daughter Ann, her maiden name of Tillinghast; on the ground "that her
 Husband's name was become a publick Reproach by Reason of what was knowne after his Decease;
 the which confirming an antient common Rumour, tho' not to be credited by a loyall Wife till
 so proven as to be wholely past Doubting'. This entry came to light upon the accidental
@@ -742,7 +742,7 @@ after a short pursuit one early morning the snow   Fortaleza   of Barcelona,
 Spain, under Capt. Manuel Arruda, bound according to its log from Grand Cairo,
 Egypt, to Providence. When searched for contraband material, this ship revealed
 the astonishing fact that its cargo consisted exclusively of Egyptian mummies,
-consigned to  "Sailor A. B. C. ", who would come to remove his goods in a lighter
+consigned to  "Sailor A. B. C.", who would come to remove his goods in a lighter
 just off Namquit Point and whose identity Capt. Arruda felt himself in honour
 bound not to reveal. The Vice-Admiralty Court at Newport, at a loss what to do
 in view of the non-contraband nature of the cargo on the one hand and of the
@@ -1068,7 +1068,7 @@ and the flaming thing fell to the ground. A second flaming thing appeared, and a
 origin was plainly distinguished. Fenner wrote that he could even gather a few words belched in
 frenzy:  "Almighty, protect thy lamb! " Then there were more shots, and the second
 flaming thing fell. After that came silence for about three-quarters of an hour; at the end of
-which time little Arthur Fenner, Luke's brother, exclaimed that he saw &lsquo;a red
+which time little Arthur Fenner, Luke's brother, exclaimed that he saw "a red
 fog' going up to the stars from the accursed farm in the distance. No one but the child can
 testify to this, but Luke admits the significant coincidence implied by the panic of almost
 convulsive fright which at the same moment arched the backs and stiffened the fur of the three cats
@@ -1238,9 +1238,9 @@ the Essex Institute, the Court House, and the Registry of Deeds, and included bo
 commonplaces such as land titles and bills of sale, and furtive fragments of a more provocative
 nature. There were four or five unmistakable allusions to them on the witchcraft trial records; as
 when one Hepzibah Lawson swore on July 10, 1692, at the Court of Oyer and Terminer under Judge
-Hathorne, that &lsquo;fortie Witches and the Blacke Man were wont to meete in the Woodes behind Mr.
+Hathorne, that "fortie Witches and the Blacke Man were wont to meete in the Woodes behind Mr.
 Hutchinson's house', and one Amity How declared at a session of August 8th before Judge
-Gedney that &lsquo;Mr. G. B. (Rev. George Burroughs) on that Nighte putt y<font
+Gedney that "Mr. G. B. (Rev. George Burroughs) on that Nighte putt y<font
 size=-2>  e     Divell his Marke upon Bridget S., Jonathan A.,   Simon O.,  
 Deliverance W.,   Joseph C.,   Susan P., Mehitable C., and Deborah B.' Then there was a
 catalogue of Hutchinson's uncanny library as found after his disappearance, and an unfinished
@@ -1265,7 +1265,7 @@ Curwen's.
   This Curwen letter, though undated as to the year, was evidently not the one in
 answer to which Orne had written the confiscated missive; and from internal evidence Ward placed it
 not much later than 1750. It may not be amiss to give the text in full, as a sample of the style of
-one whose history was so dark and terrible. The recipient is addressed as  "Simon ", but
+one whose history was so dark and terrible. The recipient is addressed as  "Simon", but
 a line (whether drawn by Curwen or Orne Ward could not tell) is run through the word.  
 
     Prouidence, I. May (Ut. vulgo)  
@@ -1452,7 +1452,7 @@ Come After, & How He May Gett Beyonde Time & y    e
 Spheres. "   Another was in a cipher; the same, Ward hoped, as the Hutchinson cipher which
 had hitherto baffled him. A third, and here the searcher rejoiced, seemed to be a key to the
 cipher; whilst the fourth and fifth were addressed respectively to  "Edw: Hutchinson,
-Armiger " and  "Jedediah Orne, Esq. ", &lsquo;or Their Heir or Heirs, or Those
+Armiger " and  "Jedediah Orne, Esq.", "or Their Heir or Heirs, or Those
 Represent'g Them'. The sixth and last was inscribed:    "Joseph Curwen his Life
 and Travells Bet'n y    e     yeares 1678 and 1687: Of Whither He
 Voyag'd, Where He Stay'd, Whom He Sawe, and What He Learnt. "    
@@ -1468,7 +1468,7 @@ genealogical significance of the find could hardly account. Upon returning home 
 with an almost embarrassed air, as if he wished to convey an idea of its supreme importance without
 having to exhibit the evidence itself. He did not even shew the titles to his parents, but simply
 told them that he had found some documents in Joseph Curwen's handwriting,  "mostly in
-cipher ", which would have to be studied very carefully before yielding up their true meaning.
+cipher", which would have to be studied very carefully before yielding up their true meaning.
 It is unlikely that he would have shewn what he did to the workmen, had it not been for their
 unconcealed curiosity. As it was he doubtless wished to avoid any display of peculiar reticence
 which would increase their discussion of the matter.  
@@ -1588,7 +1588,7 @@ care; and had consequently distributed the data in an exceedingly curious fashio
 asked to see the mystic documents, Ward displayed much reluctance and tried to put him off with
 such things as photostatic copies of the Hutchinson cipher and Orne formulae and diagrams; but
 finally shewed him the exteriors of some of the real Curwen finds--the    "Journall and
-Notes ",   the cipher (title in cipher also), and the formula-filled message    "To
+Notes",   the cipher (title in cipher also), and the formula-filled message    "To
 Him Who Shal Come After "  --and let him glance inside such as were in obscure
 characters.  
 
@@ -1668,7 +1668,7 @@ whose mystic convolutions and sudden vistas alternately beckon and surprise, was
 parents as a good index of the degree to which his new interests had engrossed his mind.  
 
   In June, 1924, a brief note told of his departure for Paris, to which he had
-before made one or two flying trips for material in the Biblioth&egrave;que Nationale. For three months
+before made one or two flying trips for material in the Bibliothèque Nationale. For three months
 thereafter he sent only postal cards, giving an address in the Rue St. Jacques and referring to a
 special search among rare manuscripts in the library of an unnamed private collector. He avoided
 acquaintances, and no tourists brought back reports of having seen him. Then came a silence, and in
@@ -1853,7 +1853,7 @@ over the entire house. The formula was so plainly audible in the hall outside th
 Mrs. Ward could not help memorising it as she waited and listened anxiously, and later on she was
 able to write it down at Dr. Willett's request. It ran as follows, and experts have told Dr.
 Willett that its very close analogue can be found in the mystic writings of  "Eliphas
-Levi ", that cryptic soul who crept through a crack in the forbidden door and glimpsed the
+Levi", that cryptic soul who crept through a crack in the forbidden door and glimpsed the
 frightful vistas of the void beyond:  
 
      "Per Adonai Eloim, Adonai Jehova,  
@@ -2006,7 +2006,7 @@ noted on that turbulent Good Friday. The youth was arguing or remonstrating hotl
 there suddenly burst forth a perfectly distinguishable series of clashing shouts in differentiated
 tones like alternate demands and denials which caused Mrs. Ward to run upstairs and listen at the
 door. She could hear no more than a fragment whose only plain words were  "must have it red
-for three months ", and upon her knocking all sounds ceased at once. When Charles was later
+for three months", and upon her knocking all sounds ceased at once. When Charles was later
 questioned by his father he said that there were certain conflicts of spheres of consciousness
 which only great skill could avoid, but which he would try to transfer to other realms.  
 
@@ -2251,9 +2251,9 @@ his annoyance that Charles had not adhered to his determination to remain indoor
 there, but said that the young man seemed to have lost part of his timidity. He had that morning
 done much apparently frightened arguing and protesting over the telephone, one of the detectives
 said, replying to some unknown voice with phrases such as  "I am very tired and must rest a
-while ",  "I can't receive anyone for some time, you'll have to excuse
-me ",  "Please postpone decisive action till we can arrange some sort of
-compromise ", or  "I am very sorry, but I must take a complete vacation from everything;
+while",  "I can't receive anyone for some time, you'll have to excuse
+me",  "Please postpone decisive action till we can arrange some sort of
+compromise", or  "I am very sorry, but I must take a complete vacation from everything;
 I'll talk with you later ". Then, apparently gaining boldness through meditation, he had
 slipped out so quietly that no one had seen him depart or knew that he had gone until he returned
 about one o'clock and entered the house without a word. He had gone upstairs, where a bit of
@@ -3024,7 +3024,7 @@ on the nitrous stone floor. He tried to drive them out, and repeated the Lord's 
 himself; eventually trailing off into a mnemonic hodge-podge like the modernistic   Waste Land  
 of Mr. T. S. Eliot and finally reverting to the oft-repeated dual formula he had lately found in
 Ward's underground library:    "Y'ai 'ng'ngah,
-Yog-Sothoth ",   and so on till the final underlined    "Zhro ".   It seemed to
+Yog-Sothoth",   and so on till the final underlined    "Zhro ".   It seemed to
 soothe him, and he staggered to his feet after a time; lamenting bitterly his fright-lost torch and
 looking wildly about for any gleam of light in the clutching inkiness of the chilly air. Think he
 would not; but he strained his eyes in every direction for some faint glint or reflection of the
@@ -3129,8 +3129,8 @@ remained on its palm.
 
   The meaning of the two signs puzzled him, and he wondered why this battery of
 chemicals was separated so radically from those in glass jars on the shelves of the laboratory
-proper.  "Custodes ",  "Materia "; that was the Latin for  "Guards "
-and  "Materials ", respectively--and then there came a flash of memory as to where
+proper.  "Custodes",  "Materia "; that was the Latin for  "Guards "
+and  "Materials", respectively--and then there came a flash of memory as to where
 he had seen that word  "Guards " before in connexion with this dreadful mystery. It was,
 of course, in the recent letter to Dr. Allen purporting to be from old Edward Hutchinson; and the
 phrase had read:  "There was no Neede to keep the Guards in Shape and eat'g off their
@@ -3142,7 +3142,7 @@ and Weeden on the Curwen farm, and in that dreadful chronicle there had been a m
 conversations overheard before the old wizard betook himself wholly beneath the earth. There had
 been, Smith and Weeden insisted, terrible colloquies wherein figured Curwen, certain captives of
 his,   and the guards of those captives.   Those guards, according to Hutchinson or his avatar,
-had &lsquo;eaten their heads off', so that now Dr. Allen did not keep them   in shape.  
+had "eaten their heads off', so that now Dr. Allen did not keep them   in shape.  
 And if not   in shape,   how save as the  "salts " to which it appears this wizard
 band was engaged in reducing as many human bodies or skeletons as they could?  
 
@@ -3153,11 +3153,11 @@ who were not so willing? Willett shuddered at the thought of what he had been po
 his hands, and for a moment felt an impulse to flee in panic from that cavern of hideous shelves
 with their silent and perhaps watching sentinels. Then he thought of the
  "Materia "--in the myriad Phaleron jugs on the other side of the room. Salts
-too--and if not the salts of  "guards ", then the salts of what? God! Could it be
+too--and if not the salts of  "guards", then the salts of what? God! Could it be
 possible that here lay the mortal relics of half the titan thinkers of all the ages; snatched by
 supreme ghouls from crypts where the world thought them safe, and subject to the beck and call of
 madmen who sought to drain their knowledge for some still wilder end whose ultimate effect would
-concern, as poor Charles had hinted in his frantic note, &lsquo;all civilisation, all natural law,
+concern, as poor Charles had hinted in his frantic note, "all civilisation, all natural law,
 perhaps even the fate of the solar system and the universe'? And Marinus Bicknell Willett had
 sifted their dust through his hands!  
 
@@ -3211,7 +3211,7 @@ Within its shallow area, and saved from scattering only by the absence of wind i
 cavern, lay a small amount of a dry, dull-greenish efflorescent powder which must have belonged in
 the jug; and Willett almost reeled at the implications that came sweeping over him as he correlated
 little by little the several elements and antecedents of the scene. The whips and the instruments
-of torture, the dust or salts from the jug of  "Materia ", the two lekythoi from the
+of torture, the dust or salts from the jug of  "Materia", the two lekythoi from the
  "Custodes " shelf, the robes, the formulae on the walls, the notes on the pad, the hints
 from letters and legends, and the thousand glimpses, doubts, and suppositions which had come to
 torment the friends and parents of Charles Ward--all these engulfed the doctor in a tidal wave
@@ -3239,7 +3239,7 @@ from that of the modern versions, as if old Curwen had had a different way of re
 as if later study had evolved more powerful and perfected variants of the invocations in question.
 The doctor tried to reconcile the chiselled version with the one which still ran persistently in
 his head, and found it hard to do. Where the script he had memorised began    "Y'ai
-'ng'ngah, Yog-Sothoth ",   this epigraph started out as    "Aye, engengah,
+'ng'ngah, Yog-Sothoth",   this epigraph started out as    "Aye, engengah,
 Yogge-Sothotha ";   which to his mind would seriously interfere with the syllabification of
 the second word.  
 
@@ -3370,7 +3370,7 @@ unknown source had come a message saying that  "Curwen " must be killed and diss
 acid. The linkage was too unmistakable to be factitious; and besides, was not Allen planning to
 murder young Ward upon the advice of the creature called Hutchinson? Of course, the letter they had
 seen had never reached the bearded stranger; but from its text they could see that Allen had
-already formed plans for dealing with the youth if he grew too &lsquo;squeamish'. Without
+already formed plans for dealing with the youth if he grew too "squeamish'. Without
 doubt, Allen must be apprehended; and even if the most drastic directions were not carried out, he
 must be placed where he could inflict no harm upon Charles Ward.  
 
@@ -3510,7 +3510,7 @@ leered. Then the men returned. Yes.   The altered photograph was a very passable
 Allen.   Mr. Ward turned pale, and Willett wiped a suddenly dampened brow with his handkerchief.
 Allen--Ward--Curwen--it was becoming too hideous for coherent thought. What had the
 boy called out of the void, and what had it done to him? What, really, had happened from first to
-last? Who was this Allen who sought to kill Charles as too &lsquo;squeamish', and why had his
+last? Who was this Allen who sought to kill Charles as too "squeamish', and why had his
 destined victim said in the postscript to that frantic letter that he must be so completely
 obliterated in acid? Why, too, had the minuscule message, of whose origin no one dared think, said
 that  "Curwen " must be likewise obliterated? What was the   change,   and when had
@@ -3618,7 +3618,7 @@ these repeated outrages.
 nerving himself for something to come. In the evening he wrote a note to Mr. Ward, which was
 delivered the next morning and which caused the half-dazed parent to ponder long and deeply. Mr.
 Ward had not been able to go down to business since the shock of Monday with its baffling reports
-and its sinister  "purgation ", but he found something calming about the doctor's
+and its sinister  "purgation", but he found something calming about the doctor's
 letter in spite of the despair it seemed to promise and the fresh mysteries it seemed to
 evoke.  
 
@@ -3667,7 +3667,7 @@ it will mark any abnormality or changeling. The ashes in that grave will be thos
 unaltered bone and sinew--of the real Charles Dexter Ward whose mind you watched from
 infancy--the real Charles with the olive-mark on his hip and without the black witch-mark on
 his chest or the pit on his forehead. The Charles who never did actual evil, and who will have paid
-with his life for his &lsquo;squeamishness'.  
+with his life for his "squeamishness'.  
 
    "That is all. Charles will have escaped, and a year from now you can put up
 his stone. Do not question me tomorrow. And believe that the honour of your ancient family remains
@@ -3758,7 +3758,7 @@ the speech and the voice and the handwriting? It hasn't worked, you see, after a
 better than I who or what wrote that message in minuscules, but I will warn you it was not written
 in vain. There are abominations and blasphemies which must be stamped out, and I believe that the
 writer of those words will attend to Orne and Hutchinson. One of those creatures wrote you once,
-&lsquo;do not call up any that you can not put down'. You were undone once before, perhaps in
+"do not call up any that you can not put down'. You were undone once before, perhaps in
 that very way, and it may be that your own evil magic will undo you all again. Curwen, a man
 can't tamper with Nature beyond certain limits, and every horror you have woven will rise up
 to wipe you out. "  
@@ -3783,7 +3783,7 @@ Dragon's Tail, sign of the   descending node  --
      "OGTHROD AI'F  
 GEB'L--EE'H  
   YOG-SOTHOTH    
-&lsquo;NGAH'NG AI'Y  
+"NGAH'NG AI'Y  
   ZHRO! "      
 
   At the very first word from Willett's mouth the previously commenced formula

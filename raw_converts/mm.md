@@ -2929,7 +2929,7 @@ monstrous, nefandous analogy that had suggested it. We had expected, upon lookin
 a terrible and incredibly moving entity if the mists were thin enough; but of that entity we
 had formed a clear idea. What we did see--for the mists were indeed all too malignly thinned--was
 something altogether different, and immeasurably more hideous and detestable. It was the utter,
-objective embodiment of the fantastic novelist's &lsquo;thing that should not be';
+objective embodiment of the fantastic novelist's "thing that should not be';
 and its nearest comprehensible analogue is a vast, onrushing subway train as one sees it from
 a station platform--the great black front looming colossally out of infinite subterraneous
 distance, constellated with strangely coloured lights and filling the prodigious burrow as a
@@ -3077,11 +3077,11 @@ of the dead transmontane city experienced near Lake's camp the day before; but i
 so real to Danforth that he suffers from it still.  
 
   He has on rare occasions whispered disjointed and irresponsible things about
- "the black pit ",  "the carven rim ",  "the proto-shoggoths ",
- "the windowless solids with five dimensions ",  "the nameless cylinder ",
- "the elder pharos ",  "Yog-Sothoth ",  "the primal white jelly ",
- "the colour out of space ",  "the wings ",  "the eyes in darkness ",
- "the moon-ladder ",  "the original, the eternal, the undying ", and other
+ "the black pit",  "the carven rim",  "the proto-shoggoths",
+ "the windowless solids with five dimensions",  "the nameless cylinder",
+ "the elder pharos",  "Yog-Sothoth",  "the primal white jelly",
+ "the colour out of space",  "the wings",  "the eyes in darkness",
+ "the moon-ladder",  "the original, the eternal, the undying", and other
 bizarre conceptions; but when he is fully himself he repudiates all this and attributes it to
 his curious and macabre reading of earlier years. Danforth, indeed, is known to be among the
 few who have ever dared go completely through that worm-riddled copy of the   Necronomicon  

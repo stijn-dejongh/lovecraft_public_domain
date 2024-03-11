@@ -204,7 +204,7 @@ Are sweeter; therefore, ye soft pipes, play on. . . .
 When old age shall this generation waste,  
 Thou shalt remain, in midst of other woe  
 Than ours, a friend to man, to whom thou say'st,  
-&lsquo;Beauty is truth--truth beauty'--that is all  
+"Beauty is truth--truth beauty'--that is all  
 Ye know on earth, and all ye need to know. "
             
 

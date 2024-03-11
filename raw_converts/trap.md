@@ -578,7 +578,7 @@ What happened to   them,   when I--opened the exit? "
   Robert paused half-way across the room and looked at me very gravely.  
 
    "I saw them fade away--into nothingness--Mr. Canevin, " he
-said with solemnity;  "and with them--everything. There isn't any more &lsquo;inside,'
+said with solemnity;  "and with them--everything. There isn't any more "inside,'
 sir--thank God, and you, sir! "  
 
   And young Robert, at last yielding to the sustained strain which he had borne

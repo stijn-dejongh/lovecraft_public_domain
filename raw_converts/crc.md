@@ -13,7 +13,7 @@ has yet dared intimate the   nature   of the phantasms thus unfolded to the mind
   direction   of the unheard-of roads along whose ornate and exotic course the partaker of the
 drug is so irresistibly borne. De Quincey was drawn back into Asia, that teeming land of nebulous
 shadows whose hideous antiquity is so impressive that  "the vast age of the race and name
-overpowers the sense of youth in the individual ", but farther than that he dared not go. Those
+overpowers the sense of youth in the individual", but farther than that he dared not go. Those
 who   have   gone farther seldom returned; and even when they have, they have been either silent
 or quite mad. I took opium but once--in the year of the plague, when doctors sought to deaden
 the agonies they could not cure. There was an overdose--my physician was worn out with horror

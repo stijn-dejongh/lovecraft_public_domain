@@ -120,7 +120,7 @@ remoteness   in the earth most impressed me. To my mind rushed fragments of a pa
 Glanvill which Poe has quoted with tremendous effect--  
 
      "--the vastness, profundity, and unsearchableness of His works,
-  which have a depth in them greater than the well of Democritus.   "  
+  which have a depth in them greater than the well of Democritus. " 
 
   Suddenly Romero leaped from his bunk; pausing before me to gaze at the strange
 ring on my hand, which glistened queerly in every flash of lightning, and then staring intently

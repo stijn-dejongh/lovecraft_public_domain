@@ -75,8 +75,8 @@ in dream if ever he tried to seek it out and enter it in person.
 suitable to his quarters and settled down to write and paint--living alone, and attending
 to the simple housework himself. His studio was in a north attic room, where the panes of the
 monitor roof furnished admirable lighting. During that first winter he produced five of his
-best-known short stories-- "The Burrower Beneath ",  "The Stairs in the
-Crypt ",  "Shaggai ",  "In the Vale of Pnath ", and  "The Feaster
+best-known short stories-- "The Burrower Beneath",  "The Stairs in the
+Crypt",  "Shaggai",  "In the Vale of Pnath", and  "The Feaster
 from the Stars "--and painted seven canvases; studies of nameless, unhuman monsters,
 and profoundly alien, non-terrestrial landscapes.  
 
@@ -331,7 +331,7 @@ There were other bits of evidence--shoes, metal clasps, huge buttons for round c
 stickpin of bygone pattern, a reporter's badge with the name of the old   Providence
 Telegram,   and a crumbling leather pocketbook. Blake examined the latter with care, finding
 within it several bills of antiquated issue, a celluloid advertising calendar for 1893, some
-cards with the name  "Edwin M. Lillibridge ", and a paper covered with pencilled memoranda.  
+cards with the name  "Edwin M. Lillibridge", and a paper covered with pencilled memoranda.  
 
   This paper held much of a puzzling nature, and Blake read it carefully at the
 dim westward window. Its disjointed text included such phrases as the following:  
@@ -743,7 +743,7 @@ It knows where I am. . . .
 
    "I am Robert Blake, but I see the tower in the dark. There is a monstrous
 odour . . . senses transfigured . . . boarding at that tower window
-cracking and giving way. . . . I&auml; . . . ngai . . .
+cracking and giving way. . . . Iä . . . ngai . . .
 ygg. . . .  
 
    "I see it--coming here--hell-wind--titan blur--black

@@ -68,11 +68,11 @@ windows, but we did not move. Our seat on the tomb was very comfortable, and I k
 prosaic friend would not mind the cavernous rift in the ancient, root-disturbed brickwork close
 behind us, or the utter blackness of the spot brought by the intervention of a tottering, deserted
 seventeenth-century house between us and the nearest lighted road. There in the dark, upon that
-riven tomb by the deserted house, we talked on about the  "unnamable ", and after
+riven tomb by the deserted house, we talked on about the  "unnamable", and after
 my friend had finished his scoffing I told him of the awful evidence behind the story at which
 he had scoffed the most.  
 
-  My tale had been called  "The Attic Window ", and appeared in the
+  My tale had been called  "The Attic Window", and appeared in the
 January, 1922, issue of   Whispers.   In a good many places, especially the South and the
 Pacific coast, they took the magazines off the stands at the complaints of silly milksops; but
 New England didn't get the thrill and merely shrugged its shoulders at my extravagance.

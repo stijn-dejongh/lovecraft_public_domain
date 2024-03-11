@@ -25,7 +25,7 @@ with sponge-reservoir instead of tubes would give just as good air at half the w
 
   The crystal-detector seemed to function well, pointing steadily in a direction
 verifying Anderson's report. It is curious how that principle of affinity works--without
-any of the fakery of the old &lsquo;divining rods' back home. There must be a great deposit of
+any of the fakery of the old "divining rods' back home. There must be a great deposit of
 crystals within a thousand miles, though I suppose those damnable man-lizards always watch and
 guard it. Possibly they think we are just as foolish for coming to Venus to hunt the stuff as we
 think they are for grovelling in the mud whenever they see a piece of it, or for keeping that great

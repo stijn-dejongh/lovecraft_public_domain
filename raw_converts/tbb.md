@@ -358,7 +358,7 @@ smaller and more shriveled than before. His face was slowly turning greenish-bla
 
    "Curse ye! " said the voice again, hardly sounding as though it came
 from his lips.  "I'm done fer! That one in there was mine!   Dominie Slott took it
-out two hundred years ago!   "  
+out two hundred years ago! " 
 
   He slid slowly toward the floor, gazing at me with hatred in eyes that were
 rapidly dimming. His flesh changed from white to black, and then to yellow. I saw with horror

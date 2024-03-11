@@ -54,7 +54,7 @@ somewhat, he could tell his story straighter. He had seen three men in the grave
  "Bell! Bell! where are you old man!? " and acting very suspiciously. He then followed
 them, and   they entered The Burns's Tomb!   He then followed them in and they touched
 a spring at a point marked  "A " and then Dissapeared ".  "I wish king John
-were here ", Said Gibson,  "What's your name, "?  "John Spratt ".
+were here", Said Gibson,  "What's your name, "?  "John Spratt ".
 replied the visitor.  
 
     Chapter VI  The chase for Bell.    
@@ -71,7 +71,7 @@ train had Just Started!
 The Kent train started at 10.35, and about 10.36 an exited, dusty, and tired
 man    1     rushed into the Mainville hack. office and said to a
 negro hackman who was standing by the door-- "If you can take me to Kent in 15 minutes
-I will give you a dollar ".  "I doan' see how I'm ter git there ",
+I will give you a dollar ".  "I doan' see how I'm ter git there",
 said the negro  "I hab'n't got a decent pair of hosses an' I hab-- "
  "Two Dollars "! Shouted The Traveller,  "all right " said the Hackman.  
 

@@ -196,7 +196,7 @@ of course, but thrillingly suggestive of the times of Andros and Phipps and the 
 Then he took me through a door on the left, lighted an oil lamp, and told me to make myself
 at home.  
 
-  Now, Eliot, I'm what the man in the street would call fairly  "hard-boiled ",
+  Now, Eliot, I'm what the man in the street would call fairly  "hard-boiled",
 but I'll confess that what I saw on the walls of that room gave me a bad turn. They were
 his pictures, you know--the ones he couldn't paint or even shew in Newbury Street--and
 he was right when he said he had  "let himself go ". Here--have another drink--I
@@ -264,7 +264,7 @@ forced a real scream out of me, and I had to clutch at the doorway to keep from 
 The other chamber had shewn a pack of ghouls and witches overrunning the world of our forefathers,
 but this one brought the horror right into our own daily life!  
 
-  Gad, how that man could paint! There was a study called  "Subway Accident ",
+  Gad, how that man could paint! There was a study called  "Subway Accident",
 in which a flock of the vile things were clambering up from some unknown catacomb through a
 crack in the floor of the Boylston Street subway and attacking a crowd of people on the platform.
 Another shewed a dance on Copp's Hill among the tombs with the background of today. Then

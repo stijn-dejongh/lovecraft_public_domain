@@ -156,7 +156,7 @@ specialists. Had such circulation occurred at this early date, the later history
 might have been very different; indeed, a glance at the hieroglyphs by any reader of von Junzt's
 horrible   Nameless Cults   would have established a linkage of unmistakable significance.
 At this period, however, the readers of that monstrous blasphemy were exceedingly few; copies
-having been incredibly scarce in the interval between the suppression of the original D&uuml;sseldorf
+having been incredibly scarce in the interval between the suppression of the original Düsseldorf
 edition (1839) and of the Bridewell translation (1845) and the publication of the expurgated
 reprint by the Golden Goblin Press in 1909. Practically speaking, no occultist or student of
 the primal past's esoteric lore had his attention called to the strange scroll until the
@@ -222,7 +222,7 @@ primal monoliths or from the secret rituals of hidden bands of esoteric students
 reproduced in the hellish and suppressed   Black Book   or   Nameless Cults   of von Junzt.  
 
   De Marigny recalled the frightful death of von Junzt in 1840, a year after
-the publication of his terrible volume at D&uuml;sseldorf, and commented on his blood-curdling and
+the publication of his terrible volume at Düsseldorf, and commented on his blood-curdling and
 partly suspected sources of information. Above all, he emphasised the enormous relevance of
 the tales with which von Junzt linked most of the monstrous ideographs he had reproduced. That
 these tales, in which a cylinder and scroll were expressly mentioned, held a remarkable suggestion
@@ -432,7 +432,7 @@ of the stolen scroll of cantrips against Ghatanothoa, and on the ultimate uses t
 scroll might be put. Despite all my assurance that the whole matter was purely mythical, I could
 not help shivering at the notion of a latter-day emergence of the monstrous god, and at the
 picture of an humanity turned suddenly to a race of abnormal statues, each encasing a living
-brain doomed to inert and helpless consciousness for untold aeons of futurity. The old D&uuml;sseldorf
+brain doomed to inert and helpless consciousness for untold aeons of futurity. The old Düsseldorf
 savant had a poisonous way of suggesting more than he stated, and I could understand why his
 damnable book was suppressed in so many countries as blasphemous, dangerous, and unclean.  
 
@@ -469,14 +469,14 @@ a hideous and suggestive kinship to the monstrous name rendered by von Junzt as 
 
   There were other disquieting features, too. Again and again the reports cited
 vague, awestruck references to a  "true scroll "--something on which tremendous
-consequences seemed to hinge, and which was mentioned as being in the custody of a certain  "Nagob ",
+consequences seemed to hinge, and which was mentioned as being in the custody of a certain  "Nagob",
 whoever and whatever he might be. Likewise, there was an insistent repetition of a name which
 sounded like Tog, Tiok, Yog, Zob, or Yob, and which my more and more excited consciousness involuntarily
 linked with the name of the hapless heretic T'yog as given in the   Black Book.   This
 name was usually uttered in connexion with such cryptical phrases as  "It is none other
-than he ",  "He had looked upon its face ",  "He knows all, though he can neither
-see nor feel ",  "He has brought the memory down through the aeons ",  "The
-true scroll will release him ",  "Nagob has the true scroll ",  "He can tell
+than he",  "He had looked upon its face",  "He knows all, though he can neither
+see nor feel",  "He has brought the memory down through the aeons",  "The
+true scroll will release him",  "Nagob has the true scroll",  "He can tell
 where to find it ".  
 
   Something very queer was undoubtedly in the air, and I did not wonder when

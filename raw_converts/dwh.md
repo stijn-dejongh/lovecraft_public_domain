@@ -939,7 +939,7 @@ blackness. The witch--old Keziah--Nahab--that must have meant her death. And
 mixed with the distant chant of the Sabbat and the whimpers of Brown Jenkin in the gulf below
 he thought he heard another and wilder whine from unknown depths. Joe Mazurewicz--the prayers
 against the Crawling Chaos now turning to an inexplicably triumphant shriek--worlds of
-sardonic actuality impinging on vortices of febrile dream--I&auml;! Shub-Niggurath! The
+sardonic actuality impinging on vortices of febrile dream--Iä! Shub-Niggurath! The
 Goat with a Thousand Young. . . .  
 
   They found Gilman on the floor of his queerly angled old garret room long before

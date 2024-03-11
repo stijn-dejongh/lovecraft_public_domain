@@ -29,7 +29,7 @@ looked like it--but this time it was a man's. It lay on the floor, on its side, 
 clothes, and had a peculiar smile on its face. This time Henry didn't stop to do any
 touching, but beat it straight for the village, Mountain Top, you know. Of course he asked
 questions--but they did not get him very far. He found he was on a ticklish subject, for the
-natives only shook their heads, crossed their fingers, and muttered something about a &lsquo;Mad
+natives only shook their heads, crossed their fingers, and muttered something about a "Mad
 Dan'--whoever he was.  
 
    "It was too much for Jackson, so he came home weeks ahead of his planned
@@ -222,7 +222,7 @@ and city reporters who flocked around--even though they burned a certain book an
 found in attic boxes, and destroyed considerable apparatus in the deepest part of that sinister
 hillside cave. But here is the text itself:  
 
-   "Nov. 5--My name is Daniel Morris. Around here they call me &lsquo;Mad
+   "Nov. 5--My name is Daniel Morris. Around here they call me "Mad
 Dan' because I believe in powers that nobody else believes in nowadays. When I go up on
 Thunder Hill to keep the Feast of the Foxes they think I am crazy--all except the back country
 folks that are afraid of me. They try to stop me from sacrificing the Black Goat at Hallow Eve,
@@ -280,7 +280,7 @@ good! Yes, indeed, that damned sneak is going to produce a statue that will sell
 any of the things he's been carving these past weeks! A realist, eh? Well--the new
 statuary won't lack any realism! I found the formula in a manuscript insert opposite page
 679 of the   Book.   From the handwriting I judge it was put there by my great-grandfather
-Bareut Picterse Van Kauran--the one who disappeared from New Paltz in 1839.   I&auml;!
+Bareut Picterse Van Kauran--the one who disappeared from New Paltz in 1839.   Iä!
 Shub-Niggurath!   The Goat with a Thousand Young!  
 
    "To be plain, I've found a way to turn those wretched rats into stone
@@ -344,7 +344,7 @@ out here and Rose at home. Have just fixed a strong solution and cleared away al
 in front of the cave. Rose whimpered like a puppy when I told her a wolf had got Rex, and Wheeler
 gurgled a lot of sympathy.  
 
-   "March 1--  I&auml; R'lyeh!   Praise the Lord Tsathoggua!
+   "March 1--  Iä R'lyeh!   Praise the Lord Tsathoggua!
 I've got the son of hell at last! Told him I'd found a new ledge of friable limestone
 down this way, and he trotted after me like the yellow cur he is! I had the wine-flavoured stuff
 in a bottle on my hip, and he was glad of a swig when we got here. Gulped it down without a
@@ -354,7 +354,7 @@ come into his face as he keeled over. In two minutes he was solid stone.
 
    "I dragged him into the cave and put Rex's figure outside again.
 That bristling dog shape will help to scare people off. It's getting time for the spring
-hunters, and besides, there's a damned &lsquo;lunger' named Jackson in a cabin over
+hunters, and besides, there's a damned "lunger' named Jackson in a cabin over
 the hill who does a lot of snooping around in the snow. I wouldn't want my laboratory and
 storeroom to be found just yet! When I got home I told Rose that Wheeler had found a telegram
 at the village summoning him suddenly home. I don't know whether she believed me or not

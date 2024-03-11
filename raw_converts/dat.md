@@ -633,7 +633,7 @@ lightning is not there. The peals of thunder are deafening, and every one seems 
 begun to chant and howl and scream in a degraded, half-simian version of the ancient ritual.
 Rain pours down like a flood, yet they leap and emit sounds in a kind of diabolic ecstasy.  
 
-     "I&auml;! Shub-Niggurath! The Goat with a Thousand Young! "    
+     "Iä! Shub-Niggurath! The Goat with a Thousand Young! "    
 
   But the worst thing is within the house. Even at this height, I have begun
 to hear sounds from the cellar.   It is the padding and muttering and slithering and muffled

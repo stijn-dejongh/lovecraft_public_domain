@@ -25,7 +25,7 @@ a pen and writing-pad, a physician's medical case, a bottle of hydrochloric acid
 tumbler about a quarter full of black oxide of manganese.  
 
   The worn leather book was the journal of the dead man on the floor, and had
-at once made it clear that the name  "Frederick N. Mason, Mining Properties, Toronto, Canada ",
+at once made it clear that the name  "Frederick N. Mason, Mining Properties, Toronto, Canada",
 signed in the hotel register, was a false one. There were other things--terrible things--which
 it likewise made clear; and still other things of far greater terror at which it hinted
 hideously without making them clear or even fully believable. It was the half-belief of the

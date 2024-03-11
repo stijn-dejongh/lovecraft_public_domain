@@ -6,7 +6,7 @@
   
 
           ( ". . . as
-Ibid says in his famous   Lives of the Poets.   "  --From a student
+Ibid says in his famous   Lives of the Poets. " --From a student
 theme.)              
 
 The erroneous idea that Ibid is the author of the   Lives   is so frequently met with, even

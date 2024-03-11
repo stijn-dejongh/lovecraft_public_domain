@@ -194,7 +194,7 @@ the college. Asenath had bought the old Crowninshield place in the country at th
 Street, and they proposed to settle there after a short trip to Innsmouth, whence three servants
 and some books and household goods were to be brought. It was probably not so much consideration
 for Edward and his father as a personal wish to be near the college, its library, and its crowd
-of  "sophisticates ", that made Asenath settle in Arkham instead of returning permanently
+of  "sophisticates", that made Asenath settle in Arkham instead of returning permanently
 home.  
 
   When Edward called on me after the honeymoon I thought he looked slightly changed.
@@ -255,8 +255,8 @@ of the gay college circle--not through their own disgust, we heard, but because 
 about their present studies shocked even the most callous of the other decadents.   
 
   It was in the third year of the marriage that Edward began to hint openly to
-me of a certain fear and dissatisfaction. He would let fall remarks about things &lsquo;going
-too far', and would talk darkly about the need of &lsquo;saving his identity'. At
+me of a certain fear and dissatisfaction. He would let fall remarks about things "going
+too far', and would talk darkly about the need of "saving his identity'. At
 first I ignored such references, but in time I began to question him guardedly, remembering
 what my friend's daughter had said about Asenath's hypnotic influence over the other
 girls at school--the cases where students had thought they were in her body looking across
@@ -294,7 +294,7 @@ on other worlds, and in different space-time continua.
   He would now and then back up certain crazy hints by exhibiting objects which
 utterly nonplussed me--elusively coloured and bafflingly textured objects like nothing
 ever heard of on earth, whose insane curves and surfaces answered no conceivable purpose and
-followed no conceivable geometry. These things, he said, came &lsquo;from outside'; and
+followed no conceivable geometry. These things, he said, came "from outside'; and
 his wife knew how to get them. Sometimes--but always in frightened and ambiguous whispers--he
 would suggest things about old Ephraim Waite, whom he had seen occasionally at the college library
 in the old days. These adumbrations were never specific, but seemed to revolve around some especially
@@ -308,7 +308,7 @@ she suspected that he told me things, for as the weeks passed she tried to stop 
 words and glances of a most inexplicable potency. Only with difficulty could he get to see me,
 for although he would pretend to be going somewhere else, some invisible force would generally
 clog his motions or make him forget his destination for the time being. His visits usually came
-when Asenath was away--&lsquo;away in her own body', as he once oddly put it. She
+when Asenath was away--"away in her own body', as he once oddly put it. She
 always found out later--the servants watched his goings and comings--but evidently
 she thought it inexpedient to do anything drastic.  
 
@@ -330,9 +330,9 @@ of words in my direction.
 
    "Dan--for God's sake! The pit of the shoggoths! Down the six
 thousand steps . . . the abomination of abominations . . . I never
-would let her take me, and then I found myself there. . . . I&auml;!
+would let her take me, and then I found myself there. . . . Iä!
 Shub-Niggurath! . . . The shape rose up from the altar, and there were 500 that howled. . . .
-The Hooded Thing bleated &lsquo;Kamog! Kamog!'--that was old Ephraim's secret
+The Hooded Thing bleated "Kamog! Kamog!'--that was old Ephraim's secret
 name in the coven. . . . I was there, where she promised she wouldn't take
 me. . . . A minute before I was locked in the library, and then I was there where
 she had gone with my body--in the place of utter blasphemy, the unholy pit where the black
@@ -452,7 +452,7 @@ voice seemed utterly unfamiliar. It was deeper, firmer, and more decisive than I
 it to be; while its accent and pronunciation were altogether changed--though vaguely, remotely,
 and rather disturbingly recalling something I could not quite place. There was, I thought, a
 trace of very profound and very genuine irony in the timbre--not the flashy, meaninglessly
-jaunty pseudo-irony of the callow  "sophisticate ", which Derby had habitually affected,
+jaunty pseudo-irony of the callow  "sophisticate", which Derby had habitually affected,
 but something grim, basic, pervasive, and potentially evil. I marvelled at the self-possession
 so soon following the spell of panic-struck muttering.  
 
@@ -644,7 +644,7 @@ from his chair with a look of shocking, uncontrollable fright--a cosmic panic an
 such as only the nether gulfs of nightmare could bring to any sane mind.  
 
    "My brain! My brain! God, Dan--it's tugging--from beyond--knocking--clawing--that
-she-devil--even now--Ephraim--Kamog! Kamog!--The pit of the shoggoths--I&auml;!
+she-devil--even now--Ephraim--Kamog! Kamog!--The pit of the shoggoths--Iä!
 Shub-Niggurath! The Goat with a Thousand Young! . . .   
 
    "The flame--the flame . . . beyond body, beyond life . . .
@@ -655,7 +655,7 @@ frenzy sank to a dull apathy. He did not resist, but kept his lips moving as if 
 Presently I realised that he was trying to talk to me, and bent my ear to his mouth to catch
 the feeble words.  
 
-   " . . . again, again . . . she's
+ ". . . again, again . . . she's
 trying . . . I might have known . . . nothing can stop that force;
 not distance, nor magic, nor death . . . it comes and comes, mostly in the night . . .
 I can't leave . . . it's horrible . . . oh, God, Dan,   
@@ -715,7 +715,7 @@ not reach. This was a sane person--but was it indeed the Edward Derby I had know
 who or what was it--  and where was Edward?   Ought it to be free or confined . . .
 or ought it to be extirpated from the face of the earth? There was a hint of the abysmally sardonic
 in everything the creature said--the Asenath-like eyes lent a special and baffling mockery
-to certain words about the &lsquo;early liberty earned by an   especially close confinement'.  
+to certain words about the "early liberty earned by an   especially close confinement'.  
 I must have behaved very awkwardly, and was glad to beat a retreat.  
 
   All that day and the next I racked my brain over the problem. What had happened?

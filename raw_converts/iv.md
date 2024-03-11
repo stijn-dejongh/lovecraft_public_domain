@@ -188,7 +188,7 @@ answered his feeble clawing at the door.
 
   Armington helped Birch to the outside of a spare bed and sent his little son
 Edwin for Dr. Davis. The afflicted man was fully conscious, but would say nothing of any consequence;
-merely muttering such things as  "oh, my ankles! ",  "let go! ", or  "shut
+merely muttering such things as  "oh, my ankles!",  "let go!", or  "shut
 in the tomb ". Then the doctor came with his medicine-case and asked crisp questions, and
 removed the patient's outer clothing, shoes, and socks. The wounds--for both ankles
 were frightfully lacerated about the Achilles' tendons--seemed to puzzle the old
@@ -215,8 +215,8 @@ of his life till he told me his story; and when I saw the scars--ancient and whi
 they then were--I agreed that he was wise in so doing. He always remained lame, for the
 great tendons had been severed; but I think the greatest lameness was in his soul. His thinking
 processes, once so phlegmatic and logical, had become ineffaceably scarred; and it was pitiful
-to note his response to certain chance allusions such as  "Friday ",  "tomb ",
- "coffin ", and words of less obvious concatenation. His frightened horse had gone
+to note his response to certain chance allusions such as  "Friday",  "tomb",
+ "coffin", and words of less obvious concatenation. His frightened horse had gone
 home, but his frightened wits never quite did that. He changed his business, but something always
 preyed upon him. It may have been just fear, and it may have been fear mixed with a queer belated
 sort of remorse for bygone crudities. His drinking, of course, only aggravated what it was meant

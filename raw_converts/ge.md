@@ -22,7 +22,7 @@ for a guide I was met with refusal and evasion.
 
   Stranger that I was, it seemed odd that everyone should have glib excuses.
 There was too much  "important business " on hand for such a sleepy village, and I knew
-that the natives were lying. But they all had  "imperative duties ", or said that they
+that the natives were lying. But they all had  "imperative duties", or said that they
 had; and would do no more than assure me that the trail through the woods was very plain, running
 due north, and not in the least difficult for a vigorous young fellow. If I started while the
 morning was still early, they averred, I could get to Glendale by sundown and avoid a night
@@ -131,7 +131,7 @@ as well sit in the kitchen as here. "
 the woodpile in the corner and the cupboard on the wall. A few moments later, when the fire
 was going nicely, I asked him if I might not prepare food for both; but he courteously declined.  
 
-   "It's too hot to eat, " he told me. &lsquo;Besides, I had a bite
+   "It's too hot to eat, " he told me. "Besides, I had a bite
 before you came. "  
 
   After washing the dishes left from my lone meal, I sat down for a while, smoking

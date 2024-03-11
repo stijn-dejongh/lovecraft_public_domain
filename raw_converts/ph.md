@@ -199,7 +199,7 @@ about the walls of the shop were ghastly, while the butcher with his axe was hid
 But my host seemed to relish the view as much as I disliked it.  
 
    "What d'ye think o' this--ain't never see the
-like hereabouts, eh? When I see this I telled Eb Holt, &lsquo;That's suthin' ta
+like hereabouts, eh? When I see this I telled Eb Holt, "That's suthin' ta
 stir ye up an' make yer blood tickle!' When I read in Scripter about slayin'--like
 them Midianites was slew--I kinder think things, but I ain't got no picter of it.
 Here a body kin see all they is to it--I s'pose 'tis sinful, but ain't

@@ -15,11 +15,11 @@ titlepage-text-color: "08142B"
 titlepage-rule-color: "f39200"
 titlepage-rule-height: 4
 logo-width: 128
-header-left: "\\hspace{1cm}"
-header-center: "\\textbf{\\tiny \\thetitle}"
-header-right: "\\leftmark"
-footer-left: "\\tiny \\thedate \\hspace{0.3cm}| \\hspace{0.3cm} DRAFT VERSION"
+header-left: "\\tiny \\leftmark"
+header-center: ""
+header-right: "\\small \\rightmark"
+footer-left: "\\theauthor \\hspace{0.3cm}| \\hspace{0.3cm} \\tiny public domain works"
 footer-center: "\\thepage"
-footer-right: "\\tiny \\textcolor{black!60!blue}{\\textbf{Lovecraft's short stories}} - \\theauthor"
+footer-right: "\\small \\textcolor{black!60!blue}{\\textbf{\\thetitle}}"
 titlepage-background: "/root/docGen/documents/resources/cover.pdf"
 ...

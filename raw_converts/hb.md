@@ -122,7 +122,7 @@ lay out the body. Doc always did say as how he thought Henry talked too much--a-
 what a fine workman he was, an' how lucky it was that Stillwater had a reg'lar undertaker
 instead of buryin' folks jest as they was, like they do over to Whitby.  
 
-   "&lsquo;Suppose,' says he, &lsquo;some fellow was to be took with some
+   ""Suppose,' says he, "some fellow was to be took with some
 of them paralysin' cramps like you read about. How'd a body like it when they lowered
 him down and begun shovelin' the dirt back? How'd he like it when he was chokin'
 down there under the new headstone, scratchin' an' tearin' if he chanced to get
@@ -135,7 +135,7 @@ no trouble.'
 to poor Tom's remains; and old Doc Pratt he didn't like what he was able to catch
 of it, even though Henry did call him a smart doctor. Crazy Johnny kept watchin' of the
 corpse, and it didn't make it none too pleasant the way he'd slobber about things
-like, &lsquo;He ain't cold, Doc,' or &lsquo;I see his eyelids move,' or &lsquo;There's
+like, "He ain't cold, Doc,' or "I see his eyelids move,' or "There's
 a hole in his arm jest like the ones I git when Henry gives me a syringe full of what makes
 me feel good.' Thorndike shut him up on that, though we all knowed he'd been givin'
 poor Johnny drugs. It's a wonder the poor fellow ever got clear of the habit.  
@@ -151,7 +151,7 @@ as neat a dose of his own embalmin'-fluid as you'd wish to see. That got Henry p
 scared, though he yanked the point out and managed to get the body down again and shot full
 of the fluid. He kept measurin' more of the stuff out as though he wanted to be sure there
 was enough, and kept reassurin' himself as not much had got into him, but crazy Johnny
-begun singin' out, &lsquo;That's what you give Lige Hopkins's dog when it got
+begun singin' out, "That's what you give Lige Hopkins's dog when it got
 all dead an' stiff an' then waked up agin. Now you're a-going to get dead an'
 stiff like Tom Sprague be! Remember it don't set to work till after a long spell if you
 don't get much.'  
@@ -449,11 +449,11 @@ hour--never said nothin' about hearin' no sounds at all.
 been words. I made out a few, but don't want to say as I'd back up all Steve claimed
 to have caught. . . .  
 
-   "&lsquo;She-devil' . . . &lsquo;all the time' . . .
-&lsquo;Henry' . . . and &lsquo;alive' was plain . . . and so
-was &lsquo;you know' . . . &lsquo;said you'd stand by' . . . &lsquo;get
-rid of him' and &lsquo;bury me' . . . in a kind of changed voice. . . .
-Then there was that awful &lsquo;comin' again some day'--in a death-like squawk . . .
+   ""She-devil' . . . "all the time' . . .
+"Henry' . . . and "alive' was plain . . . and so
+was "you know' . . . "said you'd stand by' . . . "get
+rid of him' and "bury me' . . . in a kind of changed voice. . . .
+Then there was that awful "comin' again some day'--in a death-like squawk . . .
 but you can't tell me Johnny couldn't have made those sounds. . . .  
 
    "Hey, you! What's takin' you off in such a hurry? Mebbe there's

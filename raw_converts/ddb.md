@@ -17,7 +17,7 @@ sound of Richard Blake's typewriter.
 
   Less than an hour before, a grown man had fled from that house, hatless, coatless,
 and screaming, to fall upon the doorstep of his nearest neighbor, half a mile away, babbling
-incoherently of  "house ",  "dark ",  "swamp ", and  "room ".
+incoherently of  "house",  "dark",  "swamp", and  "room ".
 Dr. Morehouse had needed no further spur to excited action when told that a slavering, maddened
 creature had burst out of the old Tanner home by the edge of the swamp. He had known that something
 would happen when the two men had taken the accursed stone house--the man who had fled;

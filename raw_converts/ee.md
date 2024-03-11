@@ -224,7 +224,7 @@ available will power--that is all. I realised, as no one else has yet realised, 
 it is to remove everybody from the earth before Quetzalcoatl comes back, and realised also that
 it must be done elegantly. I hate butchery of any kind, and hanging is barbarously crude. You
 know last year the New York legislature voted to adopt electric execution for condemned men--but
-all the apparatus they have in mind is as primitive as Stephenson's &lsquo;Rocket'
+all the apparatus they have in mind is as primitive as Stephenson's "Rocket'
 or Davenport's first electric engine. I knew of a better way, and told them so, but they
 paid no attention to me. God, the fools! As if I didn't know all there is to know about
 men and death and electricity--student, man, and boy--technologist and engineer--soldier
@@ -246,8 +246,8 @@ old ones. . . . "
 
   His voice changed to a chanting and not unmelodious howl.  
 
-   "I&auml;! Huitzilopotchli! . . . Nahuatlacatl! Seven, seven, seven . . .
-Xochimilca, Chalca, Tepaneca, Acolhua, Tlahuica, Tlascalteca, Azteca! . . . I&auml;! I&auml;!
+   "Iä! Huitzilopotchli! . . . Nahuatlacatl! Seven, seven, seven . . .
+Xochimilca, Chalca, Tepaneca, Acolhua, Tlahuica, Tlascalteca, Azteca! . . . Iä! Iä!
 I have been to the Seven Caves of Chicomoztoc, but no one shall ever know! I tell you   because
 you will never repeat it.    
 
@@ -276,7 +276,7 @@ come to use it in the end. "
 
   Evidently my tact was not great enough, for his response shewed fresh irritation.  
 
-   "&lsquo;Sure,' are you? Nice, mild, conservative assurance! Cursed
+   ""Sure,' are you? Nice, mild, conservative assurance! Cursed
 lot you care--  but you'll soon know!   Why, damn you, all the good there ever will
 be in that electric chair will have been stolen from me. The ghost of Nezahualpilli told me
 that on the sacred mountain. They watched, and watched, and watched-- "  
@@ -469,7 +469,7 @@ his religious side and spring the divine prophecy.
   Mustering up my scraps of Nahuan-Aztec mythology, I suddenly threw down pencil
 and paper and commenced to chant.  
 
-   "I&auml;! I&auml;! Tloquenahuaque, Thou Who Art All In Thyself! Thou too, Ipalnemoan,
+   "Iä! Iä! Tloquenahuaque, Thou Who Art All In Thyself! Thou too, Ipalnemoan,
 By Whom We Live! I hear, I hear! I see, I see! Serpent-bearing Eagle, hail! A message! A message!
 Huitzilopotchli, in my soul echoes thy thunder! "  
 
@@ -479,7 +479,7 @@ to go blank a moment, and then to recrystallise in another pattern. Raising his 
 he chanted as if in a dream.  
 
    "Mictlanteuctli, Great Lord, a sign! A sign from within thy black cave!
-I&auml;! Tonatiuh-Metztli! Cthulhutl! Command, and I serve! "  
+Iä! Tonatiuh-Metztli! Cthulhutl! Command, and I serve! "  
 
   Now in all this responsive gibberish there was one word which struck an odd
 chord in my memory. Odd, because it never occurs in any printed account of Mexican mythology,

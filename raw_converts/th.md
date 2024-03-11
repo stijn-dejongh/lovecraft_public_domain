@@ -234,7 +234,7 @@ hunger again till the cycles roll back to the year of the Black Goat. "
   Theunis paused while I stared, bewildered. Finally he spoke.  "Now, Single,
 I suppose you can guess how all this links up. There is no need of going deep into the primal
 lore behind this business, but I may as well tell you that according to the old legends this
-is the so-called &lsquo;Year of the Black Goat'--when certain horrors from the fathomless
+is the so-called "Year of the Black Goat'--when certain horrors from the fathomless
 Outside are supposed to visit the earth and do infinite harm. We don't know how they'll
 be manifest, but there's reason to think that strange mirages and hallucinations will be
 mixed up in the matter. I don't like the thing you've run up against--the story or the

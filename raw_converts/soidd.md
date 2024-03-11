@@ -128,7 +128,7 @@ the old days to trade with savages. But it's a straight fact that all inspectors
 against queer things at the plant. Twenty odd years ago one of them disappeared at
 Innsmouth--never heard of again--and I myself knew George Cole, who went insane down
 there one night, and had to be lugged away by two men from the Danvers asylum, where he is now. He
-talks of some kind of sound and shrieks things about &lsquo;scaly water-devils'.  
+talks of some kind of sound and shrieks things about "scaly water-devils'.  
 
    "And that makes me think of another of the old stories--about the black
 reef off the coast. Devil's Reef, they call it. It's almost above water a good part of
@@ -144,7 +144,7 @@ China or somewhere by the shipping.
 
    "Maybe that plague took off the best blood in Innsmouth. Anyway,
 they're a doubtful lot now--and there can't be more than 500 or 600 of them. The
-rich Marshes are as bad as any. I guess they're all what people call &lsquo;white
+rich Marshes are as bad as any. I guess they're all what people call "white
 trash' down South--lawless and sly, and full of secret doings. Lobster fishermen,
 mostly--exporting by truck. Nobody can ever keep track of 'em, and state school
 officials and census people have a devil of a time. That's why I wouldn't go at night

@@ -1092,7 +1092,7 @@ could give if necessary,   and I warned you not to provoke me to it. This red-fa
 is right--I'm not really an East Indian.   This face is a mask, and what it covers
 is not human.   You others have guessed--I felt that minutes ago. It wouldn't be
 pleasant if I took that mask off--let it alone, Ernest. I may as well tell you that   
-I am Randolph Carter.   "  
+I am Randolph Carter. " 
 
   No one moved. Aspinwall snorted and made vague motions. De Marigny and Phillips,
 across the room, watched the workings of his red face and studied the back of the turbaned figure
@@ -1150,7 +1150,7 @@ before the date of the New Orleans conference and has never been seen since. He 
 be dark, expressionless, and bearded, and his landlord thinks the swarthy mask--which was
 duly exhibited--looks very much like him. He was never, however, suspected of any connexion
 with the nightmare apparitions whispered of by local Slavs. The hills behind Arkham were searched
-for the  "metal envelope ", but nothing of the sort was ever found. However, a clerk
+for the  "metal envelope", but nothing of the sort was ever found. However, a clerk
 in Arkham's First National Bank does recall a queer turbaned man who cashed an odd bit
 of gold bullion in October, 1930.  
 

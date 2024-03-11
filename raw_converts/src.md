@@ -185,7 +185,7 @@ me--are you there? "
 unthinkable, almost unmentionable thing. I have said that aeons seemed to elapse after Warren
 shrieked forth his last despairing warning, and that only my own cries now broke the hideous
 silence. But after a while there was a further clicking in the receiver, and I strained my ears
-to listen. Again I called down,  "Warren, are you there? ", and in answer heard the
+to listen. Again I called down,  "Warren, are you there?", and in answer heard the
   thing   which has brought this cloud over my mind. I do not try, gentlemen, to account
 for that   thing  --that voice--nor can I venture to describe it in detail, since
 the first words took away my consciousness and created a mental blank which reaches to the time

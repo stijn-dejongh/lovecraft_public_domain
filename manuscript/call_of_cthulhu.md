@@ -80,7 +80,7 @@ in Professor Angell's most recent hand; and made no pretence to literary style. 
 to be the main document was headed  "CTHULHU CULT " in characters painstakingly printed
 to avoid the erroneous reading of a word so unheard-of. The manuscript was divided into two
 sections, the first of which was headed  "1925--Dream and Dream Work of H. A. Wilcox,
-7 Thomas St., Providence, R.I. ", and the second,  "Narrative of Inspector John R.
+7 Thomas St., Providence, R.I.", and the second,  "Narrative of Inspector John R.
 Legrasse, 121 Bienville St., New Orleans, La., at 1908 A. A. S. Mtg.--Notes on Same, &
 Prof. Webb's Acct. " The other manuscript papers were all brief notes, some of them
 accounts of the queer dreams of different persons, some of them citations from theosophical
@@ -98,7 +98,7 @@ son of an excellent family slightly known to him, who had latterly been studying
 the Rhode Island School of Design and living alone at the Fleur-de-Lys Building near that institution.
 Wilcox was a precocious youth of known genius but great eccentricity, and had from childhood
 excited attention through the strange stories and odd dreams he was in the habit of relating.
-He called himself  "psychically hypersensitive ", but the staid folk of the ancient
+He called himself  "psychically hypersensitive", but the staid folk of the ancient
 commercial city dismissed him as merely  "queer ". Never mingling much with his kind,
 he had dropped gradually from social visibility, and was now known only to a small group of
 aesthetes from other towns. Even the Providence Art Club, anxious to preserve its conservatism,
@@ -140,7 +140,7 @@ interview the manuscript records daily calls of the young man, during which he r
 fragments of nocturnal imagery whose burden was always some terrible Cyclopean vista of dark
 and dripping stone, with a subterrene voice or intelligence shouting monotonously in enigmatical
 sense-impacts uninscribable save as gibberish. The two sounds most frequently repeated are those
-rendered by the letters  "  Cthulhu   " and  "  R'lyeh   ".
+rendered by the letters" Cthulhu "and  "  R'lyeh   ".
 
 On March 23d, the manuscript continued, Wilcox failed to appear; and inquiries
 at his quarters revealed that he had been stricken with an obscure sort of fever and taken to
@@ -550,7 +550,7 @@ have received the weird impressions.
 He talked of his dreams in a strangely poetic fashion; making me see with terrible
 vividness the damp Cyclopean city of slimy green stone--whose geometry, he oddly
 said, was all wrong --and hear with frightened expectancy the ceaseless, half-mental
-calling from underground:  "  Cthulhu fhtagn   ",  "  Cthulhu fhtagn   ".
+calling from underground:  "  Cthulhu fhtagn  ",  "  Cthulhu fhtagn   ".
 These words had formed part of that dread ritual which told of dead Cthulhu's dream-vigil
 in his stone vault at R'lyeh, and I felt deeply moved despite my rational beliefs. Wilcox,
 I was sure, had heard of the cult in some casual way, and had soon forgotten it amidst the mass
@@ -593,7 +593,7 @@ bureau which had at the time of its issuance been avidly collecting material for
 research.
 
 I had largely given over my inquiries into what Professor Angell called the
-"Cthulhu Cult ", and was visiting a learned friend in Paterson, New Jersey; the curator
+"Cthulhu Cult", and was visiting a learned friend in Paterson, New Jersey; the curator
 of a local museum and a mineralogist of note. Examining one day the reserve specimens roughly
 set on the storage shelves in a rear room of the museum, my eye was caught by an odd picture
 in one of the old papers spread beneath the stones. It was the Sydney Bulletin I have

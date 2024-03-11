@@ -70,7 +70,7 @@ population.
   The general fact is, that the house was never regarded by the solid part of
 the community as in any real sense  "haunted ". There were no widespread tales of
 rattling chains, cold currents of air, extinguished lights, or faces at the window. Extremists
-sometimes said the house was  "unlucky ", but that is as far as even they went. What
+sometimes said the house was  "unlucky", but that is as far as even they went. What
 was really beyond dispute is that a frightful proportion of persons died there; or more accurately,
   had   died there, since after some peculiar happenings over sixty years ago the building
 had become deserted through the sheer impossibility of renting it. These persons were not all

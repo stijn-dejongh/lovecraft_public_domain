@@ -117,7 +117,7 @@ counties it seemed to be a fashion about 1800 to accuse eccentric and unpopular 
 being allies or representatives of the abhorred things.  
 
   As to what the things were--explanations naturally varied. The common
-name applied to them was  "those ones ", or  "the old ones ", though other
+name applied to them was  "those ones", or  "the old ones", though other
 terms had a local and transient use. Perhaps the bulk of the Puritan settlers set them down
 bluntly as familiars of the devil, and made them a basis of awed theological speculation. Those
 with Celtic legendry in their heritage--mainly the Scotch-Irish element of New Hampshire,
@@ -429,7 +429,7 @@ knowledge and belief. The worst thing of all was the footprint--a view taken whe
 sun shone on a mud patch somewhere in a deserted upland. This was no cheaply counterfeited thing,
 I could see at a glance; for the sharply defined pebbles and grass-blades in the field of vision
 gave a clear index of scale and left no possibility of a tricky double exposure. I have called
-the thing a  "footprint ", but  "claw-print " would be a better term. Even
+the thing a  "footprint", but  "claw-print " would be a better term. Even
 now I can scarcely describe it save to say that it was hideously crab-like, and that there seemed
 to be some ambiguity about its direction. It was not a very deep or fresh print, but seemed
 to be about the size of an average man's foot. From a central pad, pairs of saw-toothed
@@ -580,11 +580,11 @@ record itself over and over again. It is not a thing which one might readily for
 and the gifts of the men of Leng . . . so from the wells of night to the gulfs
 of space, and from the gulfs of space to the wells of night, ever the praises of Great Cthulhu,
 of Tsathoggua, and of Him Who is not to be Named. Ever Their praises, and abundance to the Black
-Goat of the Woods. I&auml;! Shub-Niggurath! The Goat with a Thousand Young!  
+Goat of the Woods. Iä! Shub-Niggurath! The Goat with a Thousand Young!  
   
   (A BUZZING IMITATION OF HUMAN SPEECH)  
   
-    I&auml;! Shub-Niggurath! The Black Goat of the Woods with a Thousand Young!    
+    Iä! Shub-Niggurath! The Black Goat of the Woods with a Thousand Young!    
   
   (HUMAN VOICE)  
   
@@ -614,7 +614,7 @@ scratching of the sapphire point, and I was glad that the first faint, fragmenta
 in a human voice--a mellow, educated voice which seemed vaguely Bostonian in accent, and
 which was certainly not that of any native of the Vermont hills. As I listened to the tantalisingly
 feeble rendering, I seemed to find the speech identical with Akeley's carefully prepared
-transcript. On it chanted, in that mellow Bostonian voice . . .  "I&auml;!
+transcript. On it chanted, in that mellow Bostonian voice . . .  "Iä!
 Shub-Niggurath! The Goat with a Thousand Young! . . . "  
 
   And then I heard   the other voice.   To this hour I shudder retrospectively
@@ -631,7 +631,7 @@ unimaginable abysses from unimaginable outer hells. It is more than two years no
 ran off that blasphemous waxen cylinder; but at this moment, and at all other moments, I can
 still hear that feeble, fiendish buzzing as it reached me for the first time.  
 
-     "I&auml;! Shub-Niggurath! The Black Goat of the Woods with a Thousand
+     "Iä! Shub-Niggurath! The Black Goat of the Woods with a Thousand
 Young! "    
 
   But though that voice is always in my ears, I have not even yet been able to
@@ -1003,7 +1003,7 @@ is the substance of the text, carefully transcribed from a memory in which I tak
 My dear Wilmarth:--  
 
   It gives me great pleasure to be able to set you at rest regarding all the
-silly things I've been writing you. I say  "silly ", although by that I mean
+silly things I've been writing you. I say  "silly", although by that I mean
 my frightened attitude rather than my descriptions of certain phenomena. Those phenomena are
 real and important enough; my mistake had been in establishing an anomalous attitude toward
 them.  
@@ -1661,7 +1661,7 @@ experiment.
    "Here--take the three machines I point to and set them on the table.
 That tall one with the two glass lenses in front--then the box with the vacuum tubes and
 sounding-board--and now the one with the metal disc on top. Now for the cylinder with the
-label &lsquo;B-67' pasted on it. Just stand in that Windsor chair to reach the shelf.
+label "B-67' pasted on it. Just stand in that Windsor chair to reach the shelf.
 Heavy? Never mind! Be sure of the number--B-67. Don't bother that fresh, shiny cylinder
 joined to the two testing instruments--the one with my name on it. Set B-67 on the table
 near where you've put the machines--and see that the dial switch on all three machines

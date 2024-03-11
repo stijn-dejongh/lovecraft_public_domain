@@ -73,13 +73,13 @@ after a profound sleep begun in a whiskey debauch at about five of the previous 
 man had roused himself most suddenly; with ululations so horrible and unearthly that they brought
 several neighbours to his cabin--a filthy sty where he dwelt with a family as indescribable
 as himself. Rushing out into the snow, he had flung his arms aloft and commenced a series of
-leaps directly upward in the air; the while shouting his determination to reach some &lsquo;big,
+leaps directly upward in the air; the while shouting his determination to reach some "big,
 big cabin with brightness in the roof and walls and floor, and the loud queer music far away'.
 As two men of moderate size sought to restrain him, he had struggled with maniacal force and
-fury, screaming of his desire and need to find and kill a certain &lsquo;thing that shines and
+fury, screaming of his desire and need to find and kill a certain "thing that shines and
 shakes and laughs'. At length, after temporarily felling one of his detainers with a sudden
 blow, he had flung himself upon the other in a daemoniac ecstasy of bloodthirstiness, shrieking
-fiendishly that he would &lsquo;jump high in the air and burn his way through anything that
+fiendishly that he would "jump high in the air and burn his way through anything that
 stopped him'. Family and neighbours had now fled in a panic, and when the more courageous
 of them returned, Slater was gone, leaving behind an unrecognisable pulp-like thing that had
 been a living man but an hour before. None of the mountaineers had dared to pursue him, and
@@ -249,7 +249,7 @@ the last time. As I looked more closely, I saw that in the sallow cheeks shone s
 which had never before been present. The lips, too, seemed unusual; being tightly compressed,
 as if by the force of a stronger character than had been Slater's. The whole face finally
 began to grow tense, and the head turned restlessly with closed eyes. I did not arouse the sleeping
-nurse, but readjusted the slightly disarranged head-bands of my telepathic  "radio ",
+nurse, but readjusted the slightly disarranged head-bands of my telepathic  "radio",
 intent to catch any parting message the dreamer might have to deliver. All at once the head
 turned sharply in my direction and the eyes fell open, causing me to stare in blank amazement
 at what I beheld. The man who had been Joe Slater, the Catskill decadent, was now gazing at

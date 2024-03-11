@@ -29,11 +29,11 @@ desir'd to write; I will pass over my Youth for the present.
 not at that Time meet him. Mr.   Pope   had just compleated his Epilogue to his   Satires  
 (the Piece beginning:  "Not twice a Twelvemonth you appear in Print. "), and had arrang'd
 for its Publication. On the very Day it appear'd, there was also publish'd a Satire
-in Imitation of   Juvenal,   intitul'd  "  London   ", by the then unknown
+in Imitation of   Juvenal,   intitul'd" London  ", by the then unknown
   Johnson;   and this so struck the Town, that many Gentlemen of Taste declared, it was the
 Work of a greater Poet than Mr.   Pope.   Notwithstanding what some Detractors have said
 of Mr.   Pope's   petty Jealousy, he gave the Verses of his new Rival no small Praise;
-and having learnt thro' Mr.   Richardson   who the Poet was, told me &lsquo;that Mr.
+and having learnt thro' Mr.   Richardson   who the Poet was, told me "that Mr.
   Johnson   wou'd soon be   deterré.'    
 
   I had no personal Acquaintance with the Doctor till 1763, when I was presented
@@ -65,7 +65,7 @@ Friends, we convers'd on many Matters. When, to agree with him, I said I was dis
 of the Authenticity of   Ossian's   Poems, Mr.   Johnson   said:  "That, Sir,
 does not do your Understanding particular Credit; for what all the Town is sensible of, is no
 great Discovery for a   Grub-Street   Critick to make. You might as well say, you have a
-strong Suspicion that   Milton   wrote   Paradise Lost!   "  
+strong Suspicion that   Milton   wrote   Paradise Lost! " 
 
   I thereafter saw   Johnson   very frequently, most often at Meetings of
 THE LITERARY CLUB, which was founded the next Year by the Doctor, together with Mr.   Burke,  
@@ -91,7 +91,7 @@ after which Incident he came no more to our Meetings. However, he never openly f
 the Doctor, and was the Executor of his Will; tho' Mr.   Boswell   and others have
 Reason to question the genuineness of his Attachment. Other and later Members of the CLUB were
 Mr.   David Garrick,   the Actor and early Friend of Dr.   Johnson,   Messieurs   Tho.  
-and   Jos. Warton,   Dr.   Adam Smith,   Dr.   Percy,   Author of the  "Reliques ",
+and   Jos. Warton,   Dr.   Adam Smith,   Dr.   Percy,   Author of the  "Reliques",
 Mr.   Edw. Gibbon,   the Historian, Dr.   Burney,   the Musician, Mr.   Malone,   the
 Critick, and Mr.   Boswell.   Mr.   Garrick   obtain'd Admittance only with Difficulty;
 for the Doctor, notwithstanding his great Friendship, was for ever affecting to decry the Stage

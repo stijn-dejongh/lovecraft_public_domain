@@ -82,7 +82,7 @@ luminosity increased, waned again, then assumed a pale, outré colour or blend o
 which I could neither place nor describe. Tillinghast had been watching me, and noted my puzzled
 expression.  
 
-   "Do you know what that is? " he whispered.  "  That is ultra-violet.   "
+   "Do you know what that is? " he whispered." That is ultra-violet.   "
 He chuckled oddly at my surprise.  "You thought ultra-violet was invisible, and so it is--but
 you can see that and many other invisible things   now.    
 
@@ -135,7 +135,7 @@ safe. Remember we're dealing with a hideous world in which we are practically he
 
   The combined shock of the revelation and of the abrupt command gave me a kind
 of paralysis, and in my terror my mind again opened to the impressions coming from what Tillinghast
-called  "  beyond   ". I was now in a vortex of sound and motion, with confused
+called" beyond   ". I was now in a vortex of sound and motion, with confused
 pictures before my eyes. I saw the blurred outlines of the room, but from some point in space
 there seemed to be pouring a seething column of unrecognisable shapes or clouds, penetrating
 the solid roof at a point ahead and to the right of me. Then I glimpsed the temple-like effect

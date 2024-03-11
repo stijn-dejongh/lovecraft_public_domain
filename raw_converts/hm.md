@@ -343,7 +343,7 @@ was incredible--and yet the photograph proved that it existed.
 
    "Well--what do you think of It? Now do you wonder what crushed the
 dog and sucked it dry with a million mouths? It needed nourishment--and It will need more.
-It is a god, and I am the first priest of Its latter-day hierarchy. I&auml;! Shub-Niggurath!
+It is a god, and I am the first priest of Its latter-day hierarchy. Iä! Shub-Niggurath!
 The Goat with a Thousand Young! "  
 
   Jones lowered the photograph in disgust and pity.  
@@ -465,7 +465,7 @@ and coloured glass had done for the world of botany.
   At midnight the strokes of a distant clock filtered through the darkness, and
 Jones felt cheered by the message from a still-surviving outside world. The vaulted museum chamber
 was like a tomb--ghastly in its utter solitude. Even a mouse would be cheering company;
-yet Rogers had once boasted that--for  "certain reasons ", as he said--no mice
+yet Rogers had once boasted that--for  "certain reasons", as he said--no mice
 or even insects ever came near the place. That was very curious, yet it seemed to be true. The
 deadness and silence were virtually complete. If only something would make a sound! He shuffled
 his feet, and the echoes came spectrally out of the absolute stillness. He coughed, but there
@@ -597,13 +597,13 @@ What started him fully awake were the sounds which the thing was making--or rath
 voice with which it was making them. That voice was human, and it was familiar. Only one living
 being could be behind the hoarse, feverish accents which were chanting to an unknown horror.  
 
-   "I&auml;! I&auml;! " it was howling.  "I am coming, O Rhan-Tegoth,
+   "Iä! Iä! " it was howling.  "I am coming, O Rhan-Tegoth,
 coming with the nourishment. You have waited long and fed ill, but now you shall have what was
 promised. That and more, for instead of Orabona it will be one of high degree who had doubted
 you. You shall crush and drain him, with all his doubts, and grow strong thereby. And ever after
 among men he shall be shewn as a monument to your glory. Rhan-Tegoth, infinite and invincible,
 I am your slave and high-priest. You are hungry, and I provide. I read the sign and have led
-you forth. I shall feed you with blood, and you shall feed me with power. I&auml;! Shub-Niggurath!
+you forth. I shall feed you with blood, and you shall feed me with power. Iä! Shub-Niggurath!
 The Goat with a Thousand Young! "  
 
   In an instant all the terrors of the night dropped from Jones like a discarded
@@ -631,7 +631,7 @@ clothing ripped, and Jones at last felt the actual throat of the maniac, shorn o
 mask. He spoke not a word, but put every ounce of energy into the defence of his life. Rogers
 kicked, gouged, butted, bit, clawed, and spat--yet found strength to yelp out actual sentences
 at times. Most of his speech was in a ritualistic jargon full of references to  "It "
-or  "Rhan-Tegoth ", and to Jones's overwrought nerves it seemed as if the cries
+or  "Rhan-Tegoth", and to Jones's overwrought nerves it seemed as if the cries
 echoed from an infinite distance of daemoniac snortings and bayings. Toward the last they were
 rolling on the floor, overturning benches or striking against the walls and the brick foundations
 of the central melting-furnace. Up to the very end Jones could not be certain of saving himself,
@@ -666,13 +666,13 @@ are betraying It and Its priest! Beware--for It is hungry! It would have been Or
 damned treacherous dog ready to turn against me and It--but I give you the first honour
 instead. Now you must both beware, for It is not gentle without Its priest.  
 
-   "I&auml;! I&auml;! Vengeance is at hand! Do you know you would have been
+   "Iä! Iä! Vengeance is at hand! Do you know you would have been
 immortal? Look at the furnace! There is a fire ready to light, and there is wax in the kettle.
 I would have done with you as I have done with other once-living forms. Hei! You, who have vowed
 all my effigies are waxen, would have become a waxen effigy yourself! The furnace was all ready!
 When It had had Its fill, and you were like that dog I shewed you, I would have made your flattened,
 punctured fragments immortal! Wax would have done it. Haven't you said I'm a great
-artist? Wax in every pore--wax over every square inch of you--I&auml;! I&auml;! And
+artist? Wax in every pore--wax over every square inch of you--Iä! Iä! And
 ever after the world would have looked at your mangled carcass and wondered how I ever imagined
 and made such a thing! Hei! And Orabona would have come next, and others after him--and
 thus would my waxen family have grown!  
@@ -681,7 +681,7 @@ thus would my waxen family have grown!
   preserved?   You know by this time the strange places I've been to, and the strange
 things I've brought back. Coward--you could never face the dimensional shambler whose
 hide I put on to scare you--the mere sight of it alive, or even the full-fledged thought
-of it, would kill you instantly with fright! I&auml;! I&auml;! It waits hungry for the blood
+of it, would kill you instantly with fright! Iä! Iä! It waits hungry for the blood
 that is the life! "  
 
   Rogers, propped against the wall, swayed to and fro in his bonds.  
@@ -690,7 +690,7 @@ that is the life! "
 care of by Its high-priest. Orabona will be enough to keep It alive--and when he is finished
 I will make his fragments immortal in wax for the world to see. It could have been you, but
 you have rejected the honour. I won't bother you again. Let me go, and I will share with
-you the power that It will bring me. I&auml;! I&auml;! Great is Rhan-Tegoth! Let me go! Let
+you the power that It will bring me. Iä! Iä! Great is Rhan-Tegoth! Let me go! Let
 me go! It is starving down there beyond that door, and if It dies the Old Ones can never come
 back. Hei! Hei! Let me go! "  
 
@@ -805,7 +805,7 @@ no reference to anything queer at the museum. How much, after all, had been real
 reality end and morbid dream begin? Had his mind gone wholly to pieces in that dark exhibition
 chamber, and had the whole fight with Rogers been a phantasm of fever? It would help to put
 him on his feet if he could settle some of these maddening points. He   must   have seen
-that damnable photograph of the wax image called  "It ", for no brain but Rogers'
+that damnable photograph of the wax image called  "It", for no brain but Rogers'
 could ever have conceived such a blasphemy.  
 
   It was a fortnight before he dared to enter Southwark Street again. He went
@@ -868,7 +868,7 @@ Orabona was leading him forward by the arm with an artist's enthusiasm. The adul
 crowded with nameless horrors, held no visitors. In the farther corner a large niche had been
 curtained off, and to this the smiling assistant advanced.  
 
-   "You must know, Mr. Jones, that the title of this specimen is &lsquo;The
+   "You must know, Mr. Jones, that the title of this specimen is "The
 Sacrifice to Rhan-Tegoth'. "  
 
   Jones started violently, but Orabona appeared not to notice.  

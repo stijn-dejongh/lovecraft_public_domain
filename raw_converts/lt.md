@@ -246,7 +246,7 @@ than maintain the basic necessities of a nearly dead city.
 
   Business, save for quack doctors with  "sure cures " and  "preventives "
 for use against the fever, fell rapidly to the vanishing-point. At first the saloons offered
- "medicated drinks ", but soon found that the populace preferred to be duped by charlatans
+ "medicated drinks", but soon found that the populace preferred to be duped by charlatans
 of more professional aspect. In strangely noiseless streets persons peered into one another's
 faces to glimpse possible plague symptoms, and shopkeepers began more and more to refuse admission
 to their clientele, each customer seeming to them a fresh fever menace. Legal and judicial machinery
@@ -1099,7 +1099,7 @@ powers--I didn't go to China for nothing, and there are things in Alhazred's
   Azif   which weren't known in Atlantis! We've both meddled in dangerous things,
 but you needn't think you know all my resources. How about the Nemesis of Flame? I talked in
 Yemen with an old man who had come back alive from the Crimson Desert--he had seen Irem, the
-City of Pillars, and had worshipped at the underground shrines of Nug and Yeb--I&auml;!
+City of Pillars, and had worshipped at the underground shrines of Nug and Yeb--Iä!
 Shub-Niggurath! "  
 
   Through Clarendon's shrieking falsetto cut the deep chuckle of the clinic-man.  
@@ -1268,7 +1268,7 @@ but I thought you ought to see this article at once. "
 
   He drew forth the magazine given him by Dr. MacNeil and handed it to Clarendon.  
 
-  On page 542--you see the heading, &lsquo;Black Fever Conquered by New Serum
+  On page 542--you see the heading, "Black Fever Conquered by New Serum
 It's by Dr. Miller of Philadelphia--and he thinks he's got ahead of you with your
 cure. They were discussing it at the club, and MacNeil thought the exposition very convincing.
 I, as a layman, couldn't pretend to judge; but at all events I thought you oughtn't
@@ -1504,7 +1504,7 @@ the world.   And above all burn Surama!   That--that   thing  --must not breathe
 the wholesome air of heaven. You know now--what I told you--you know why such an entity
 can't be allowed on earth. It won't be murder--Surama isn't human--if
 you're as pious as you used to be, James, I shan't have to urge you. Remember the
-old text--&lsquo;Thou shalt not suffer a witch to live'--or something of the sort.  
+old text--"Thou shalt not suffer a witch to live'--or something of the sort.  
 
      "Burn him, James!   Don't let him chuckle again over the torture
 of mortal flesh! I say,   burn him  --the Nemesis of Flame--that's all that

@@ -75,7 +75,7 @@ along the Mouski in quest of the native quarter, and were soon in the hands of a
 who--notwithstanding later developments--was assuredly a master at his trade. Not
 until afterward did I see that I should have applied at the hotel for a licenced guide. This
 man, a shaven, peculiarly hollow-voiced, and relatively cleanly fellow who looked like a Pharaoh
-and called himself  "Abdul Reis el Drogman ", appeared to have much power over others
+and called himself  "Abdul Reis el Drogman", appeared to have much power over others
 of his kind; though subsequently the police professed not to know him, and to suggest that   
 reis   is merely a name for any person in authority, whilst  "Drogman " is obviously
 no more than a clumsy modification of the word for a leader of tourist parties--  dragoman.    
@@ -271,7 +271,7 @@ most lawless regions of the town--mostly northeast of the Ezbekiyeh--where he ga
 one by one a select and formidable band of congenial cutthroats as his pugilistic background.  
 
   Shortly after nine our party, mounted on donkeys bearing such royal or tourist-reminiscent
-names as  "Rameses ",  "Mark Twain ",  "J. P. Morgan ", and  "Minnehaha ",
+names as  "Rameses",  "Mark Twain",  "J. P. Morgan", and  "Minnehaha",
 edged through street labyrinths both Oriental and Occidental, crossed the muddy and mast-forested
 Nile by the bridge of the bronze lions, and cantered philosophically between the lebbakhs on
 the road to Gizeh. Slightly over two hours were consumed by the trip, toward the end of which

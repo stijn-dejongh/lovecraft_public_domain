@@ -53,7 +53,7 @@ ere hfotuol leheht teg. "   After this It vanished suddenly in a cloud of pink s
 seemed to issue from behind the curtain where the acolytes were. The acolytes then came forth from
 their hiding-place and spoke to Yalden, saying:  "Since you have pleased the deity with your
 concise statement of a very deplorable state of affairs, we are honored by interpreting its
-directions. The aphorism you heard signifies no less than the equally mystic phrase &lsquo;Go thou
+directions. The aphorism you heard signifies no less than the equally mystic phrase "Go thou
 unto thy destination' or more properly speaking, you are to slay the monster-wizard Anathas,
 and replenish the treasury with its fabled hoard. "  
 

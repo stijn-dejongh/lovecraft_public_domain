@@ -24,7 +24,7 @@ torpid heart to pound with delirious joy--for the presence of death is life to m
 
   My early childhood was one long, prosaic, and monotonous apathy. Strictly ascetic,
 wan, pallid, undersized, and subject to protracted spells of morbid moroseness, I was ostracized
-by the healthy normal youngsters of my own age. They dubbed me a spoil-sport, an  "old woman ",
+by the healthy normal youngsters of my own age. They dubbed me a spoil-sport, an  "old woman",
 because I had no interest in the rough, childish games they played, or any stamina to participate
 in them, had I so desired.  
 

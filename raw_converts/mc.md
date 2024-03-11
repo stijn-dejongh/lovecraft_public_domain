@@ -219,7 +219,7 @@ Medical School. Then he hit on the idea of keeping to the old French tradition o
 and argued me into sending him across to the Sorbonne. I did--and proudly enough, though
 I knew how lonely I'd be with him so far off. Would to God I hadn't! I thought he
 was the safest kind of a boy to be in Paris. He had a room in the Rue St. Jacques--that's
-near the University in the &lsquo;Latin Quarter'--but according to his letters and his
+near the University in the "Latin Quarter'--but according to his letters and his
 friends he didn't cut up with the gayer dogs at all. The people he knew were mostly young
 fellows from home--serious students and artists who thought more of their work than of striking
 attitudes and painting the town red.  
@@ -249,7 +249,7 @@ save her husband-brother, and had it set in the sky as the constellation Coma Be
 
    "I don't think this business made much impression on Denis until
 the night of the queer ritual at Marsh's rooms when he met the priestess. Most of the devotees
-of this cult were young fellows, but the head of it was a young woman who called herself &lsquo;Tanit-Isis'--letting
+of this cult were young fellows, but the head of it was a young woman who called herself "Tanit-Isis'--letting
 it be known that her real name--her name in this latest incarnation, as she put it--was
 Marceline Bedard. She claimed to be the left-handed daughter of Marquis de Chameaux, and seemed
 to have been both a petty artist and an artist's model before adopting this more lucrative
@@ -264,7 +264,7 @@ absurdly sure that Denis' touchy personal honour and family pride would always k
 out of the most serious complications.  
 
    "As time went on, though, his letters began to make me nervous. He mentioned
-this Marceline more and more, and his friends less and less; and began talking about the &lsquo;cruel
+this Marceline more and more, and his friends less and less; and began talking about the "cruel
 and silly way' they declined to introduce her to their mothers and sisters. He seems to
 have asked her no questions about herself, and I don't doubt but that she filled him full
 of romantic legendry concerning her origin and divine revelations and the way people slighted
@@ -468,7 +468,7 @@ about art, and the curious, capricious environmental elements needed to jolt an 
 producing the real article, when Marsh suddenly swerved from abstractions to the personal application
 he must have had in mind from the start.  
 
-   "&lsquo;I suppose,' he was saying, &lsquo;that nobody can tell just
+   ""I suppose,' he was saying, "that nobody can tell just
 what it is in some scenes or objects that makes them aesthetic stimuli for certain individuals.
 Basically, of course, it must have some reference to each man's background of stored-up
 mental associations, for no two people have the same scale of sensitiveness and responses. We
@@ -478,13 +478,13 @@ Now take me, for instance. . . .'
 
    "He paused and resumed.  
 
-   "&lsquo;I know, Denny, that I can say these things to you because you have
+   ""I know, Denny, that I can say these things to you because you have
 such a preternaturally unspoiled mind--clean, fine, direct, objective, and all that. You
 won't misunderstand as an oversubtilised, effete man of the world might.'  
 
    "He paused once more.  
 
-   "&lsquo;The fact is, I think I know what's needed to set my imagination
+   ""The fact is, I think I know what's needed to set my imagination
 working again. I've had a dim idea of it ever since we were in Paris, but I'm sure
 now. It's Marceline, old chap--that face and that hair, and the train of shadowy images
 they bring up. Not merely visible beauty--though God knows there's enough of that--but
@@ -503,16 +503,16 @@ aback, for I'd expected no such overt development like this; and I wondered what
 be thinking. My heart began to pound violently, and I strained my ears in the frankest of intentional
 eavesdropping. Then Marsh resumed.  
 
-   "&lsquo;Of course you're jealous--I know how a speech like mine
+   ""Of course you're jealous--I know how a speech like mine
 must sound--but I can swear to you that you needn't be.'  
 
    "Denis did not answer, and Marsh went on.  
 
-   "&lsquo;To tell the truth, I could never be in love with Marceline--I
+   ""To tell the truth, I could never be in love with Marceline--I
 couldn't even be a cordial friend of hers in the warmest sense. Why, damn it all, I felt
 like a hypocrite talking with her these days as I've been doing.  
 
-   "&lsquo;The case simply is, that one phase of her half hypnotises me in
+   ""The case simply is, that one phase of her half hypnotises me in
 a certain way--a very strange, fantastic, and dimly terrible way--just as another phase
 half hypnotises you in a much more normal way. I see something in her--or to be psychologically
 exact, something through her or beyond her--that you don't see at all. Something that
@@ -526,7 +526,7 @@ of Marsh's expressed statement, plus the flattery he was now heaping on Marcelin
 not fail to disarm and mollify one as fondly proud of his consort as Denis always was. Marsh
 evidently caught the change himself, for there was more confidence in his tone as he continued.  
 
-   "&lsquo;I must paint her, Denny--must paint that hair--and you won't
+   ""I must paint her, Denny--must paint that hair--and you won't
 regret it. There's something more than mortal about that hair--something more than
 beautiful--'  
 
@@ -542,7 +542,7 @@ have been affirmative.
    "There was a sound of someone slapping another on the back, and then a
 grateful speech from Marsh that I was long to remember.  
 
-   "&lsquo;That's great, Denny; and just as I told you, you'll never
+   ""That's great, Denny; and just as I told you, you'll never
 regret it. In a sense, I'm half doing it for you. You'll be a different man when you
 see it. I'll put you back where you used to be--give you a waking-up and a sort of
 salvation--but you can't see what I mean as yet. Just remember old friendship, and
@@ -592,18 +592,18 @@ parlour and stretched out on the sofa near the window.
 as of a chair being shifted, followed by a short, sharp breath and a sort of inarticulately
 hurt exclamation from Marceline. Then I heard Marsh speaking in a strained, almost formal voice.  
 
-   "&lsquo;I'd enjoy working tonight if you're not too tired.'  
+   ""I'd enjoy working tonight if you're not too tired.'  
 
    "Marceline's reply was in the same hurt tone which had marked her
 exclamation. She used English as he had done.  
 
-   "&lsquo;Oh, Frank, is that really all you care about? Forever working!
+   ""Oh, Frank, is that really all you care about? Forever working!
 Can't we just sit out in this glorious moonlight?'  
 
    "He answered impatiently, his voice shewing a certain contempt beneath
 the dominant quality of artistic enthusiasm.  
 
-   "&lsquo;Moonlight! Good God, what cheap sentimentality! For a supposedly
+   ""Moonlight! Good God, what cheap sentimentality! For a supposedly
 sophisticated person you surely do hang on to some of the crudest claptrap that ever escaped
 from the dime novels! With art at your elbow, you have to think of the moon--cheap as a
 spotlight at the varieties! Or perhaps it makes you think of the Roodmas dance around the stone
@@ -616,18 +616,18 @@ that is going to capture wonder and crystallise the secrets of 75,000 years. . .
 
    "Marceline interrupted in a voice full of mixed emotions.  
 
-   "&lsquo;It's you who are cheaply sentimental now! You know well that
+   ""It's you who are cheaply sentimental now! You know well that
 the old things had better be let alone. All of you had better look out if ever I chant the old
 rites or try to call up what lies hidden in Yuggoth, Zimbabwe, and R'lyeh. I thought you
 had more sense!  
 
-   "&lsquo;You lack logic. You want me to be interested in this precious painting
+   ""You lack logic. You want me to be interested in this precious painting
 of yours, yet you never let me see what you're doing. Always that black cloth over it!
 It's of me--I shouldn't think it would matter if I saw it. . . .'  
 
    "Marsh was interrupting this time, his voice curiously hard and strained.  
 
-   "&lsquo;No. Not now. You'll see it in due course of time. You say
+   ""No. Not now. You'll see it in due course of time. You say
 it's of you--yes, it's that, but it's more. If you knew, you mightn't
 be so impatient. Poor Denis! My God, it's a shame!'  
 
@@ -644,7 +644,7 @@ for with poor Denis gone she took out her abusiveness on everybody. When she cou
 indoors to quarrel with she would go out to Sophonisba's cabin and spend hours talking
 with the queer old Zulu woman. Aunt Sophy was the only person who would fawn abjectly enough
 to suit her, and when I tried once to overhear their conversation I found Marceline whispering
-about &lsquo;elder secrets' and &lsquo;unknown Kadath' while the negress rocked to and
+about "elder secrets' and "unknown Kadath' while the negress rocked to and
 fro in her chair, making inarticulate sounds of reverence and admiration every now and then.  
 
    "But nothing could break her dog-like infatuation for Marsh. She would
@@ -663,13 +663,13 @@ the day when Marsh said he'd have everything finished within a week. Marceline b
 up perceptibly, though not without a venomous look at me. It seemed as if her coiled hair visibly
 tightened about her head.  
 
-   "&lsquo;I'm to be the first to see it!' she snapped. Then, smiling
-at Marsh, she said, &lsquo;And if I don't like it I shall slash it to pieces!'  
+   ""I'm to be the first to see it!' she snapped. Then, smiling
+at Marsh, she said, "And if I don't like it I shall slash it to pieces!'  
 
    "Marsh's face took on the most curious look I have ever seen it wear
 as he answered her.  
 
-   "&lsquo;I can't vouch for your taste, Marceline, but I swear it will
+   ""I can't vouch for your taste, Marceline, but I swear it will
 be magnificent! Not that I want to take much credit--art creates itself--and this thing
 had to be done. Just wait!'  
 
@@ -781,14 +781,14 @@ and which seemed to be tangled in the coils of some dark, ropy object. The shift
 apparently produced some impression in the twisted brain of the boy, for suddenly he began to
 mutter in a hoarse whisper whose purport I was soon able to catch.  
 
-   "&lsquo;I had to exterminate her--she was the devil--the summit
+   ""I had to exterminate her--she was the devil--the summit
 and high-priestess of all evil--the spawn of the pit--Marsh knew, and tried to warn
 me. Good old Frank--I didn't kill him, though I was ready to before I realised. But
 I went down there and killed her--then that cursed hair--'  
 
    "I listened in horror as Denis choked, paused, and began again.  
 
-   "&lsquo;You didn't know--her letters got queer and I knew she
+   ""You didn't know--her letters got queer and I knew she
 was in love with Marsh. Then she nearly stopped writing. He never mentioned her--I felt
 something was wrong, and thought I ought to come back and find out. Couldn't tell you--your
 manner would have given it away. Wanted to surprise them. Got here about noon today--came
@@ -803,7 +803,7 @@ nigger boarding-house.'
 every word. Again I thought I heard that wild, far-off wail, but the story had first place for
 the present.  
 
-   "&lsquo;Saw you sleeping in the parlour, and took a chance you wouldn't
+   ""Saw you sleeping in the parlour, and took a chance you wouldn't
 wake up. Then went upstairs on the quiet to hunt up Marsh and . . . that
 woman!'  
 
@@ -811,7 +811,7 @@ woman!'
 the same time I saw his eyes dilate in unison with a bursting of the distant crying, whose vague
 familiarity had now become very great.  
 
-   "&lsquo;She was not in her room, so I went up to the studio. Door was shut,
+   ""She was not in her room, so I went up to the studio. Door was shut,
 and I could hear voices inside. Didn't knock--just burst in and found her posing for
 the picture. Nude, but with that hellish hair all draped around her. And making all sorts of
 sheep's eyes at Marsh. He had the easel turned half away from the door, so I couldn't
@@ -820,7 +820,7 @@ brush. I was in a rage and told him he'd have to shew me the portrait, but he go
 every minute. Told me it wasn't quite done, but would be in a day or two--said I could
 see it then--she--hadn't seen it.  
 
-   "&lsquo;But that didn't go with me. I stepped up, and he dropped a
+   ""But that didn't go with me. I stepped up, and he dropped a
 velvet curtain over the thing before I could see it. He was ready to fight before letting me
 see it, but that--that--she--stepped up and sided with me. Said we ought to see
 it. Frank got horribly worked up, and gave me a punch when I tried to get at the curtain. I
@@ -833,7 +833,7 @@ out of the room--  then I saw the picture.'
 and I thought for a minute he was going to spring at me with his machete. But after a pause
 he partly steadied himself.  
 
-   "&lsquo;Oh, God--that thing! Don't ever look at it! Burn it with
+   ""Oh, God--that thing! Don't ever look at it! Burn it with
 the hangings around it and throw the ashes into the river! Marsh knew--and was warning me.
 He knew what it was--what that woman--that leopardess, or gorgon, or lamia, or whatever
 she was--actually represented. He'd tried to hint to me ever since I met her in his
@@ -841,7 +841,7 @@ Paris studio, but it couldn't be told in words. I thought they all wronged her w
 whispered horrors about her--she had me hypnotised so that I couldn't believe the plain
 facts--but this picture has caught the whole secret--the whole monstrous background!  
 
-   "&lsquo;God, but Frank is an artist! That thing is the greatest piece of
+   ""God, but Frank is an artist! That thing is the greatest piece of
 work any living soul has produced since Rembrandt! It's a crime to burn it--but it
 would be a greater crime to let it exist--just as it would have been an abhorrent sin to
 let--that she-daemon--exist any longer. The minute I saw it I understood what--she--was,
@@ -852,20 +852,20 @@ For you know she was the real thing. It wasn't any fake. It would have been merc
 it had been a fake. It was the old, hideous shadow that philosophers never dared mention--the
 thing hinted at in the   Necronomicon   and symbolised in the Easter Island colossi.  
 
-   "&lsquo;She thought we couldn't see through--that the false front
+   ""She thought we couldn't see through--that the false front
 would hold till we had bartered away our immortal souls. And she was half right--she'd
 have got me in the end. She was only--waiting. But Frank--good old Frank--was too
 much for me.   He knew what it all meant, and painted it.   I don't wonder she shrieked
 and ran off when she saw it. It wasn't quite done, but God knows   enough was there.    
 
-   "&lsquo;Then I knew I'd got to kill her--kill her, and everything
+   ""Then I knew I'd got to kill her--kill her, and everything
 connected with her. It was a taint that wholesome human blood couldn't bear. There was
 something else, too--but you'll never know that if you burn the picture without looking.
 I staggered down to her room with this machete that I got off the wall here, leaving Frank still
 knocked out. He was breathing, though, and I knew and thanked heaven that I hadn't killed
 him.  
 
-   "&lsquo;I found her in front of the mirror braiding that accursed hair.
+   ""I found her in front of the mirror braiding that accursed hair.
 She turned on me like a wild beast, and began spitting out her hatred of Marsh. The fact that
 she'd been in love with him--and I knew she had--only made it worse. For a minute
 I couldn't move, and she came within an ace of completely hypnotising me. Then I thought
@@ -877,17 +877,17 @@ and it was all over.'
    "Denis had to stop again there, and I saw the perspiration running down
 his forehead through the spattered blood. But in a moment he hoarsely resumed.  
 
-   "&lsquo;I said it was all over--but God! some of it had only just begun!
+   ""I said it was all over--but God! some of it had only just begun!
 I felt I had fought the legions of Satan, and put my foot on the back of the thing I had annihilated.
   Then I saw that blasphemous braid of coarse black hair begin to twist and squirm of itself.    
 
-   "&lsquo;I might have known it. It was all in the old tales. That damnable
+   ""I might have known it. It was all in the old tales. That damnable
 hair had a life of its own, that couldn't be ended by killing the creature itself. I knew
 I'd have to burn it, so I started to hack it off with the machete. God, but it was devilish
 work! Tough--like iron wires--but I managed to do it. And it was loathsome the way the
 big braid writhed and struggled in my grasp.  
 
-   "&lsquo;About the time I had the last strand cut or pulled off I heard
+   ""About the time I had the last strand cut or pulled off I heard
 that eldritch wailing from behind the house. You know--it's still going off and on.
 I don't know what it is, but it must be something springing from this hellish business.
 It half seems like something I ought to know but can't quite place. It got my nerves the
@@ -907,7 +907,7 @@ swing it freely or it would have slashed Frank to pieces. So I saw those monstro
 poor Frank crushed to death before my eyes--and all the time that awful faint howling came
 from somewhere beyond the fields.  
 
-   "&lsquo;That's all. I pulled the velvet cloth over the picture and
+   ""That's all. I pulled the velvet cloth over the picture and
 hope it'll never be lifted. The thing must be burnt. I couldn't pry the coils off
 poor, dead Frank--they cling to him like a leach, and seem to have lost their motion altogether.
 It's as if that snaky rope of hair has a kind of perverse fondness for the man it killed--it's
@@ -924,14 +924,14 @@ We could both hear some of the things she howled, and knew that secret and primo
 linked this savage sorceress with that other inheritor of elder secrets who had just been extirpated.
 Some of the words she used betrayed her closeness to daemonic and palaeogean traditions.  
 
-   "  &lsquo;I&auml;! I&auml;! Shub-Niggurath! Ya-R'lyeh! N'gagi n'bulu
+   "  "Iä! Iä! Shub-Niggurath! Ya-R'lyeh! N'gagi n'bulu
 bwana n'lolo!   Ya, yo, pore Missy Tanit, pore Missy Isis! Marse Clooloo, come up outen
 de water an' git yo chile--she done daid! She done daid! De hair ain' got no missus
 no mo', Marse Clooloo. Ol' Sophy, she know! Ol' Sophy, she done got de black
 stone outen Big Zimbabwe in ol' Affriky! Ol' Sophy, she done dance in de moonshine
 roun' de crocodile-stone befo' de N'bangus cotch her and sell her to de ship
 folks! No mo' Tanit! No mo' Isis! No mo' witch-woman to keep de fire a-goin'
-in de big stone place! Ya, yo!   N'gagi n'bulu bwana n'lolo! I&auml;! Shub-Niggurath!  
+in de big stone place! Ya, yo!   N'gagi n'bulu bwana n'lolo! Iä! Shub-Niggurath!  
 She daid! Ol' Sophy know!'  
 
    "That wasn't the end of the wailing, but it was all I could pay attention

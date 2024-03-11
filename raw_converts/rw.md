@@ -177,7 +177,7 @@ augmented by the fact that, although Exham Priory was mediaevally fitted, its in
 truth wholly new and free from old vermin and old ghosts alike.  
 
   As I have said, I moved in on July 16, 1923. My household consisted of seven
-servants and nine cats, of which latter species I am particularly fond. My eldest cat,  "Nigger-Man ",
+servants and nine cats, of which latter species I am particularly fond. My eldest cat,  "Nigger-Man",
 was seven years old and had come with me from my home in Bolton, Massachusetts; the others I
 had accumulated whilst living with Capt. Norrys' family during the restoration of the
 priory. For five days our routine proceeded with the utmost placidity, my time being spent mostly

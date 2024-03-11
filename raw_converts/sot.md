@@ -1039,7 +1039,7 @@ the peculiar legends about old cities with huge stonework and strange designs an
 which you describe, that I have come upon something very important.  
 
   The blackfellows have always been full of talk about  "great stones with
-marks on them ", and seem to have a terrible fear of such things. They connect them in
+marks on them", and seem to have a terrible fear of such things. They connect them in
 some way with their common racial legends about Buddai, the gigantic old man who lies asleep
 for ages underground with his head on his arm, and who will some day awake and eat up the world.
 There are some very old and half-forgotten tales of enormous underground huts of great stones,

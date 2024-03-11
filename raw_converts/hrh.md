@@ -77,7 +77,7 @@ many poignant things to his credit in the   Dublin Review  --even write a truly 
 story of New York low life; and now, looking back, he perceived that cosmic irony had justified
 the prophet's words while secretly confuting their flippant meaning. The horror, as glimpsed
 at last, could not make a story--for like the book cited by Poe's German authority,
-   "es l&auml;sst sich nicht lesen  --it does not permit itself to be read. "  
+   "es lässt sich nicht lesen  --it does not permit itself to be read. "  
 
     II.    
 
@@ -189,7 +189,7 @@ with the years, and now prowled about like a veritable mendicant; seen occasiona
 friends in subway stations, or loitering on the benches around Borough Hall in conversation
 with groups of swarthy, evil-looking strangers. When he spoke it was to babble of unlimited
 powers almost within his grasp, and to repeat with knowing leers such mystical words or names
-as  "Sephiroth ",  "Ashmodai ", and  "Samaël ". The court
+as  "Sephiroth",  "Ashmodai", and  "Samaël ". The court
 action revealed that he was using up his income and wasting his principal in the purchase of
 curious tomes imported from London and Paris, and in the maintenance of a squalid basement flat
 in the Red Hook district where he spent nearly every night, receiving odd delegations of mixed

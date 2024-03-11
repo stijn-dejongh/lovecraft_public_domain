@@ -23,10 +23,10 @@ wicked whiskey--a precious kind of forbidden fruit indeed in this year of grace 
 traffic in liquor and narcotics, and as such has a certain dignity which extends even to the
 unkempt attachés of the place; but there was until lately one who lay outside the pale
 of that dignity--one who shared the squalor and filth, but not the importance, of Sheehan's.
-He was called  "Old Bugs ", and was the most disreputable object in a disreputable
+He was called  "Old Bugs", and was the most disreputable object in a disreputable
 environment. What he had once been, many tried to guess; for his language and mode of utterance
 when intoxicated to a certain degree were such as to excite wonderment; but what he   was,  
-presented less difficulty--for  "Old Bugs ", in superlative degree, epitomised
+presented less difficulty--for  "Old Bugs", in superlative degree, epitomised
 the pathetic species known as the  "bum " or the  "down-and-outer ". Whence
 he had come, no one could tell. One night he had burst wildly into Sheehan's, foaming
 at the mouth and screaming for whiskey and hasheesh; and having been supplied in exchange for
@@ -77,7 +77,7 @@ once more to his mop or cleaning-rag.
   I do not think that many of Sheehan's regular patrons will ever forget
 the day that young Alfred Trever came. He was rather a  "find "--a rich and high-spirited
 youth who would  "go the limit " in anything he undertook--at least, that was
-the verdict of Pete Schultz, Sheehan's  "runner ", who had come across
+the verdict of Pete Schultz, Sheehan's  "runner", who had come across
 the boy at Lawrence College, in the small town of Appleton, Wisconsin. Trever was the son of
 prominent parents in Appleton. His father, Karl Trever, was an attorney and citizen of distinction,
 whilst his mother had made an enviable reputation as a poetess under her maiden name of Eleanor
@@ -85,7 +85,7 @@ Wing. Alfred was himself a scholar and poet of distinction, though cursed with a
 irresponsibility which made him an ideal prey for Sheehan's runner. He was blond, handsome,
 and spoiled; vivacious and eager to taste the several forms of dissipation about which he had
 read and heard. At Lawrence he had been prominent in the mock-fraternity of  "Tappa Tappa
-Keg ", where he was the wildest and merriest of the wild and merry young roysterers; but
+Keg", where he was the wildest and merriest of the wild and merry young roysterers; but
 this immature, collegiate frivolity did not satisfy him. He knew deeper vices through books,
 and he now longed to know them at first hand. Perhaps this tendency toward wildness had been
 stimulated somewhat by the repression to which he had been subjected at home; for Mrs. Trever
@@ -201,7 +201,7 @@ interferin'. Now get th' hell outa here afore I kick hell outa ya. "
 and the effects of nervous stimulus. Old Bugs, obtaining a firmer hold on his mop, began to
 wield it like the javelin of a Macedonian hoplite, and soon cleared a considerable space around
 himself, meanwhile shouting various disconnected bits of quotation, among which was prominently
-repeated,  " . . . the sons of Belial, blown with insolence and wine. "  
+repeated,". . . the sons of Belial, blown with insolence and wine. "  
 
   The room became pandemonium, and men screamed and howled in fright at the sinister
 being they had aroused. Trever seemed dazed in the confusion, and shrank to the wall as the

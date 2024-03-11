@@ -38,11 +38,11 @@ it had ever come into the possession of a common sailor, neither he nor I could 
 much disturbance amongst the crew. The fellow's eyes had been closed; but in the dragging
 of his body to the rail they were jarred open, and many seemed to entertain a queer delusion
 that they gazed steadily and mockingly at Schmidt and Zimmer, who were bent over the corpse.
-The Boatswain M&uuml;ller, an elderly man who would have known better had he not been a superstitious
+The Boatswain Müller, an elderly man who would have known better had he not been a superstitious
 Alsatian swine, became so excited by this impression that he watched the body in the water;
 and swore that after it sank a little it drew its limbs into a swimming position and sped away
 to the south under the waves. Klenze and I did not like these displays of peasant ignorance,
-and severely reprimanded the men, particularly M&uuml;ller.  
+and severely reprimanded the men, particularly Müller.  
 
   The next day a very troublesome situation was created by the indisposition
 of some of the crew. They were evidently suffering from the nervous strain of our long voyage,
@@ -57,12 +57,12 @@ in New York.
 
   In the early evening we rose to the surface, and found the sea less heavy.
 The smoke of a battleship was on the northern horizon, but our distance and ability to submerge
-made us safe. What worried us more was the talk of Boatswain M&uuml;ller, which grew wilder
+made us safe. What worried us more was the talk of Boatswain Müller, which grew wilder
 as night came on. He was in a detestably childish state, and babbled of some illusion of dead
 bodies drifting past the undersea portholes; bodies which looked at him intensely, and which
 he recognised in spite of bloating as having seen dying during some of our victorious German
 exploits. And he said that the young man we had found and tossed overboard was their leader.
-This was very gruesome and abnormal, so we confined M&uuml;ller in irons and had him soundly
+This was very gruesome and abnormal, so we confined Müller in irons and had him soundly
 whipped. The men were not pleased at his punishment, but discipline was necessary. We also denied
 the request of a delegation headed by Seaman Zimmer, that the curious carved ivory head be cast
 into the sea.  
@@ -71,13 +71,13 @@ into the sea.
 violently insane. I regretted that no physician was included in our complement of officers,
 since German lives are precious; but the constant ravings of the two concerning a terrible curse
 were most subversive of discipline, so drastic steps were taken. The crew accepted the event
-in a sullen fashion, but it seemed to quiet M&uuml;ller; who thereafter gave us no trouble.
+in a sullen fashion, but it seemed to quiet Müller; who thereafter gave us no trouble.
 In the evening we released him, and he went about his duties silently.  
 
   In the week that followed we were all very nervous, watching for the   Dacia    .  
-The tension was aggravated by the disappearance of M&uuml;ller and Zimmer, who undoubtedly committed
+The tension was aggravated by the disappearance of Müller and Zimmer, who undoubtedly committed
 suicide as a result of the fears which had seemed to harass them, though they were not observed
-in the act of jumping overboard. I was rather glad to be rid of M&uuml;ller, for even his silence
+in the act of jumping overboard. I was rather glad to be rid of Müller, for even his silence
 had unfavourably affected the crew. Everyone seemed inclined to be silent now, as though holding
 a secret fear. Many were ill, but none made a disturbance. Lieut. Klenze chafed under the strain,
 and was annoyed by the merest trifles--such as the school of dolphins which gathered about
@@ -177,7 +177,7 @@ from the organisms passed at higher levels.
   It was at 3:15 P.M., August 12, that poor Klenze went wholly mad. He had been
 in the conning tower using the searchlight when I saw him bound into the library compartment
 where I sat reading, and his face at once betrayed him. I will repeat here what he said, underlining
-the words he emphasised:  "    He     is calling!     He     is calling! I
+the words he emphasised:"   He     is calling!     He     is calling! I
 hear him! We must go! " As he spoke he took his ivory image from the table, pocketed it,
 and seized my arm in an effort to drag me up the companionway to the deck. In a moment I understood
 that he meant to open the hatch and plunge with me into the water outside, a vagary of suicidal

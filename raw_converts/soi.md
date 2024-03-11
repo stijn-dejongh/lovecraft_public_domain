@@ -200,7 +200,7 @@ Guinea savages.
    "That plague of '46 must have taken off the best blood in the place.
 Anyway, they're a doubtful lot now, and the Marshes and the other rich folks are as bad
 as any. As I told you, there probably ain't more'n 400 people in the whole town
-in spite of all the streets they say there are. I guess they're what they call &lsquo;white
+in spite of all the streets they say there are. I guess they're what they call "white
 trash' down South--lawless and sly, and full of secret doings. They get a lot of
 fish and lobsters and do exporting by truck. Queer how the fish swarm right there and nowhere
 else.  
@@ -307,7 +307,7 @@ at a community slipping far down the cultural scale, and she assured me that the
 devil-worship were partly justified by a peculiar secret cult which had gained force there and
 engulfed all the orthodox churches.  
 
-  It was called, she said,  "The Esoteric Order of Dagon ", and was
+  It was called, she said,  "The Esoteric Order of Dagon", and was
 undoubtedly a debased, quasi-pagan thing imported from the East a century before, at a time
 when the Innsmouth fisheries seemed to be going barren. Its persistence among a simple people
 was quite natural in view of the sudden and permanent return of abundantly fine fishing, and
@@ -763,7 +763,7 @@ than an hour or two at a time.
 
   A quart bottle of whiskey was easily, though not cheaply, obtained in the rear
 of a dingy variety-store just off the Square in Eliot Street. The dirty-looking fellow who waited
-on me had a touch of the staring  "Innsmouth look ", but was quite civil in his way;
+on me had a touch of the staring  "Innsmouth look", but was quite civil in his way;
 being perhaps used to the custom of such convivial strangers--truckmen, gold-buyers, and
 the like--as were occasionally in town.  
 
@@ -1120,8 +1120,8 @@ secrets.
 in the taown when they wanted it, an' they'd let well enough alone. Wudn't
 bother no strangers as might bear tales aoutside--that is, withaout they got pryin'.
 All in the band of the faithful--Order o' Dagon--an' the children shud
-never die, but go back to the Mother Hydra an' Father Dagon what we all come from onct--  I&auml;!
-I&auml;! Cthulhu fhtagn! Ph'nglui mglw'nafh Cthulhu R'lyeh wgah-nagl fhtagn-- "    
+never die, but go back to the Mother Hydra an' Father Dagon what we all come from onct--  Iä!
+Iä! Cthulhu fhtagn! Ph'nglui mglw'nafh Cthulhu R'lyeh wgah-nagl fhtagn-- "    
 
   Old Zadok was fast lapsing into stark raving, and I held my breath. Poor old
 soul--to what pitiful depths of hallucination had his liquor, plus his hatred of the decay,
@@ -1228,7 +1228,7 @@ set of ripples more local than the long-flung line of breakers. But now Zadok wa
 and I turned back to watch the melting of that fear-frozen face into a chaos of twitching eyelids
 and mumbling gums. Presently his voice came back--albeit as a trembling whisper.  
 
-   "  Git aout o' here!   Git aout o' here!   They seen
+ " Git aout o' here!   Git aout o' here!   They seen
 us  --git aout fer your life! Dun't wait fer nothin'--  they know naow  --
 Run fer it--quick--  aout o' this taown  -- "  
 
@@ -2076,8 +2076,8 @@ and I feel queerly drawn toward the unknown sea-deeps instead of fearing them. I
 strange things in sleep, and awake with a kind of exaltation instead of terror. I do not believe
 I need to wait for the full change as most have waited. If I did, my father would probably shut
 me up in a sanitarium as my poor little cousin is shut up. Stupendous and unheard-of splendours
-await me below, and I shall seek them soon.   I&auml;-R'lyeh! Cthulhu fhtagn! I&auml;!
-I&auml;!   No, I shall not shoot myself--I cannot be made to shoot myself!  
+await me below, and I shall seek them soon.   Iä-R'lyeh! Cthulhu fhtagn! Iä!
+Iä!   No, I shall not shoot myself--I cannot be made to shoot myself!  
 
   I shall plan my cousin's escape from that Canton madhouse, and together
 we shall go to marvel-shadowed Innsmouth. We shall swim out to that brooding reef in the sea

@@ -239,7 +239,7 @@ that the hospital stood near the old churchyard on Central Hill, they sent me to
 Hospital in Arkham, where I could have better care. I liked it there, for the doctors were broad-minded,
 and even lent me their influence in obtaining the carefully sheltered copy of Alhazred's
 objectionable Necronomicon from the library of Miskatonic University. They said something
-about a "psychosis ", and agreed I had better get any harassing obsessions off my
+about a "psychosis", and agreed I had better get any harassing obsessions off my
 mind.
 
 So I read again that hideous chapter, and shuddered doubly because it was indeed

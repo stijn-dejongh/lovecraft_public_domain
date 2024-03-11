@@ -73,10 +73,10 @@ ceremonies the theoretical corpse strolled away for a bite of bologna, but a tas
 supplied to furnish a focus for the rites. The funeral procession was headed by a gaily bedecked
 hearse driven by Malik Taus, the Peacock Sultan, who sat on the box in West Point uniform and
 turban, and steered an expert course over several formidable hedges and stone walls. About half way
-to the cemetery the cort&egrave;ge was rejoined by the corpse, who sat beside Sultan Malik on the box and
+to the cemetery the cortège was rejoined by the corpse, who sat beside Sultan Malik on the box and
 finished his bologna sandwich--his ample girth having made it impossible to enter the hastily
 selected cenotaph. An appropriate dirge was rendered by Maestro Sing Lee Bawledout on the piccolo;
-Messrs. De Silva, Brown, and Henderson's celebrated aria,  "Never Swat a Fly ", from
+Messrs. De Silva, Brown, and Henderson's celebrated aria,  "Never Swat a Fly", from
 the old cantata   Just Imagine,   being chosen for the occasion. The only detail omitted from
 the funeral was the interment, which was interrupted by the disconcerting news that the official
 gate-taker--the celebrated financier and publisher Ivar K. Rodent, Esq.--had absconded with
