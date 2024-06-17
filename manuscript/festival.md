@@ -1,4 +1,4 @@
-# The Festival (1923)
+# The Festival
 
 > "Efficiunt Daemones, ut quae non sunt, sic tamen quasi sint, conspicienda hominibus exhibeant."
 >

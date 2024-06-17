@@ -41,7 +41,7 @@ was wet and dripping; the soaking apparently proceeding from a corner on the sid
 street. Anxious to stop the matter at its source, I hastened to the basement to tell the landlady;
 and was assured by her that the trouble would quickly be set right.  
 
-   "Doctair Mu&ntilde;oz, " she cried as she rushed upstairs ahead
+   "Doctair Muñoz, " she cried as she rushed upstairs ahead
 of me,  "he have speel hees chemicals. He ees too seeck for doctair heemself--seecker
 and seecker all the time--but he weel not have no othair for help. He ees vairy queer in
 hees seeckness--all day he take funnee-smelling baths, and he cannot get excite or warm.
@@ -53,14 +53,14 @@ My Gawd, the sal-ammoniac that man use for keep heem cool! "
 
   Mrs. Herrero disappeared up the staircase to the fourth floor, and I returned
 to my room. The ammonia ceased to drip, and as I cleaned up what had spilled and opened the
-window for air, I heard the landlady's heavy footsteps above me. Dr. Mu&ntilde;oz I had
+window for air, I heard the landlady's heavy footsteps above me. Dr. Muñoz I had
 never heard, save for certain sounds as of some gasoline-driven mechanism; since his step was
 soft and gentle. I wondered for a moment what the strange affliction of this man might be, and
 whether his obstinate refusal of outside aid were not the result of a rather baseless eccentricity.
 There is, I reflected tritely, an infinite deal of pathos in the state of an eminent person
 who has come down in the world.  
 
-  I might never have known Dr. Mu&ntilde;oz had it not been for the heart attack
+  I might never have known Dr. Muñoz had it not been for the heart attack
 that suddenly seized me one forenoon as I sat writing in my room. Physicians had told me of
 the danger of those spells, and I knew there was no time to be lost; so remembering what the
 landlady had said about the invalid's help of the injured workman, I dragged myself upstairs
@@ -76,7 +76,7 @@ bookshelves all bespoke a gentleman's study rather than a boarding-house bedroom
 saw that the hall room above mine--the  "leetle room " of bottles and machines
 which Mrs. Herrero had mentioned--was merely the laboratory of the doctor; and that his
 main living quarters lay in the spacious adjoining room whose convenient alcoves and large contiguous
-bathroom permitted him to hide all dressers and obtrusive utilitarian devices. Dr. Mu&ntilde;oz,
+bathroom permitted him to hide all dressers and obtrusive utilitarian devices. Dr. Muñoz,
 most certainly, was a man of birth, cultivation, and discrimination.  
 
   The figure before me was short but exquisitely proportioned, and clad in somewhat
@@ -87,7 +87,7 @@ dominantly Celtiberian. Thick, well-trimmed hair that argued the punctual calls 
 was parted gracefully above a high forehead; and the whole picture was one of striking intelligence
 and superior blood and breeding.  
 
-  Nevertheless, as I saw Dr. Mu&ntilde;oz in that blast of cool air, I felt a
+  Nevertheless, as I saw Dr. Muñoz in that blast of cool air, I felt a
 repugnance which nothing in his aspect could justify. Only his lividly inclined complexion and
 coldness of touch could have afforded a physical basis for this feeling, and even these things
 should have been excusable considering the man's known invalidism. It might, too, have
@@ -130,7 +130,7 @@ of a nervous system from which organic pulsations had fled. I was touched by his
 the aged Dr. Torres of Valencia, who had shared his earlier experiments with him through the
 great illness of eighteen years before, whence his present disorders proceeded. No sooner had
 the venerable practitioner saved his colleague than he himself succumbed to the grim enemy he
-had fought. Perhaps the strain had been too great; for Dr. Mu&ntilde;oz made it whisperingly
+had fought. Perhaps the strain had been too great; for Dr. Muñoz made it whisperingly
 clear--though not in detail--that the methods of healing had been most extraordinary,
 involving scenes and processes not welcomed by elderly and conservative Galens.  
 
@@ -186,7 +186,7 @@ so thorough.
 
   Then, in the middle of October, the horror of horrors came with stupefying
 suddenness. One night about eleven the pump of the refrigerating machine broke down, so that
-within three hours the process of ammonia cooling became impossible. Dr. Mu&ntilde;oz summoned
+within three hours the process of ammonia cooling became impossible. Dr. Muñoz summoned
 me by thumping on the floor, and I worked desperately to repair the injury while my host cursed
 in a tone whose lifeless, rattling hollowness surpassed description. My amateur efforts, however,
 proved of no use; and when I had brought in a mechanic from a neighbouring all-night garage

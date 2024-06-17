@@ -96,7 +96,7 @@ the bunk above, that awakened me; a voice excited and tense with some vague expe
 not understand:  
 
      "&iexcl;Madre de Dios!--el sonido--ese sonido--&iexcl;oiga
-Vd! &iquest;lo oye Vd?--Se&ntilde;or,   THAT SOUND! "  
+Vd! &iquest;lo oye Vd?--Señor,   THAT SOUND! "  
 
   I listened, wondering what sound he meant. The coyote, the dog, the storm,
 all were audible; the last named now gaining ascendancy as the wind shrieked more and more frantically.
@@ -107,7 +107,7 @@ repeating the sounds I had heard:
 
   But Romero did not reply. Then he commenced whispering as in awe:  
 
-     "El ritmo, Se&ntilde;or--el ritmo de la tierra--  THAT
+     "El ritmo, Señor--el ritmo de la tierra--  THAT
 THROB DOWN IN THE GROUND! "  
 
   And now I also heard; heard and shivered and without knowing why. Deep, deep,

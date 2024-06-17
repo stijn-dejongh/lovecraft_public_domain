@@ -1,4 +1,4 @@
-# Nyarlathotep  (1920)
+# Nyarlathotep 
 
 > Nyarlathotep . . . the crawling chaos . . . I am the last . . . I will tell the audient void. . . .
 

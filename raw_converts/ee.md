@@ -67,7 +67,7 @@ were due in Mexico City at noon Friday, but I soon saw that countless delays wer
 hours. There were waits on sidings all along the single-tracked route, and now and then a hot-box
 or other difficulty would further complicate the schedule.  
 
-  At Torre&oacute;n we were six hours late, and it was almost eight o'clock
+  At Torreón we were six hours late, and it was almost eight o'clock
 on Friday evening--fully twelve hours behind schedule--when the conductor consented
 to do some speeding in an effort to make up time. My nerves were on edge, and I could do nothing
 but pace the car in desperation. In the end I found that the speeding had been purchased at

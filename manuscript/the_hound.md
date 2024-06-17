@@ -1,4 +1,4 @@
-# The Hound (1922)
+# The Hound
 
 ## I.
 

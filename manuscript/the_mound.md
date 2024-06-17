@@ -11,8 +11,8 @@ older things, too--of primitive man contemporaneous with extinct animals and kno
 only through a few fragmentary bones and artifacts--so that the idea of newness is fading out
 pretty rapidly. Europeans usually catch the sense of immemorial ancientness and deep deposits
 from successive life-streams better than we do. Only a couple of years ago a British author
-spoke of Arizona as a "moon-dim region, very lovely in its way, and stark and old--an
-ancient, lonely land ".
+spoke of Arizona as a _"moon-dim region, very lovely in its way, and stark and old--an
+ancient, lonely land"_.
 
 Yet I believe I have a deeper sense of the stupefying--almost horrible--ancientness
 of the West than any European. It all comes from an incident that happened in 1928; an incident
@@ -25,7 +25,7 @@ tribes with old, old memories there; and when the tom-toms beat ceaselessly over
 in the autumn the spirits of men are brought dangerously close to primal, whispered things.
 I am white and Eastern enough myself, but anybody is welcome to know that the rites of Yig,
 Father of Snakes, can get a real shudder out of me any day. I have heard and seen too much to
-be"sophisticated" in such matters. And so it is with this incident of 1928. I'd
+be "sophisticated" in such matters. And so it is with this incident of 1928. I'd
 like to laugh it off--but I can't.
 
 I had gone into Oklahoma to track down and correlate one of the many ghost
@@ -51,15 +51,15 @@ and weapons. They even went so far as to say that they could not be sure the hor
 horses.
 
 The Indians, on the other hand, did not seem to claim the spectres as kinsfolk.
-They referred to them as"those people","the old people", or"they
-who dwell below", and appeared to hold them in too great a frightened veneration to talk
+They referred to them as _"those people"_, _"the old people"_, or _"they
+who dwell below"_, and appeared to hold them in too great a frightened veneration to talk
 much about them. No ethnologist had been able to pin any tale-teller down to a specific description
 of the beings, and apparently nobody had ever had a very clear look at them. The Indians had
-one or two old proverbs about these phenomena, saying that"men very old, make very big
+one or two old proverbs about these phenomena, saying that _"men very old, make very big
 spirit; not so old, not so big; older than all time, then spirit he so big he near flesh; those
-old people and spirits they mix up--get all the same ".
+old people and spirits they mix up--get all the same"_.
 
-Now all of this, of course, is"old stuff " to an ethnologist--of
+Now all of this, of course, is _"old stuff"_ to an ethnologist--of
 a piece with the persistent legends of rich hidden cities and buried races which abound among
 the Pueblo and plains Indians, and which lured Coronado centuries ago on his vain search for
 the fabled Quivira. What took me into western Oklahoma was something far more definite and tangible--a
@@ -106,7 +106,7 @@ I had letters of introduction. I was ushered along a commonplace main street who
 was red with the sandstone soil of the country, and finally delivered at the door of my prospective
 host. Those who had arranged things for me had done well; for Mr. Compton was a man of high
 intelligence and local responsibility, while his mother--who lived with him and was familiarly
-known as"Grandma Compton "--was one of the first pioneer generation, and a veritable
+known as _"Grandma Compton"_ --was one of the first pioneer generation, and a veritable
 mine of anecdote and folklore.
 
 That evening the Comptons summed up for me all the legends current among the
@@ -151,13 +151,13 @@ the dusk drew on, and the torch of the headless squaw glimmered ghoulishly on th
 About two hours after nightfall he staggered into the village minus his spade and other belongings,
 and burst into a shrieking monologue of disconnected ravings. He howled of shocking abysses
 and monsters, of terrible carvings and statues, of inhuman captors and grotesque tortures, and
-of other fantastic abnormalities too complex and chimerical even to remember."Old! Old!
-Old! " he would moan over and over again,"great God, they are older than the earth,
+of other fantastic abnormalities too complex and chimerical even to remember. _"Old! Old!
+Old!"_ he would moan over and over again, _"great God, they are older than the earth,
 and came here from somewhere else--they know what you think, and make you know what they
 think--they're half-man, half-ghost--crossed the line--melt and take shape again--getting
 more and more so, yet we're all descended from them in the beginning--children of
 Tulu--everything made of gold--monstrous animals, half-human--dead slaves--madness--Iä!
-Shub-Niggurath!--that white man--oh, my God, what they did to him! . . . "
+Shub-Niggurath!--that white man--oh, my God, what they did to him! . . ."_
 
 Heaton was the village idiot for about eight years, after which he died in
 an epileptic fit. Since his ordeal there had been two more cases of mound-madness, and eight
@@ -201,15 +201,15 @@ and its face--now distorted with nameless fright--free from wrinkles. But it did
 Grandma Compton most uncannily of the captain as he had looked back in '89. Its feet were
 cut off neatly at the ankles, and the stumps were smoothly healed to an extent almost incredible
 if the being really were the man who had walked upright a week before. It babbled of incomprehensible
-things, and kept repeating the name"George Lawton, George E. Lawton " as if trying
+things, and kept repeating the name _"George Lawton, George E. Lawton"_ as if trying
 to reassure itself of its own identity. The things it babbled of, Grandma Compton thought, were
 curiously like the hallucinations of poor young Heaton in '91; though there were minor
-differences."The blue light!--the blue light! . . . " muttered the
-object,"always down there, before there were any living things--older than the dinosaurs--always
+differences. _"The blue light!--the blue light! . . ."_ muttered the
+object, _"always down there, before there were any living things--older than the dinosaurs--always
 the same, only weaker--never death--brooding and brooding and brooding--the
 same people, half-man and half-gas--the dead that walk and work--oh, those beasts,
 those half-human unicorns--houses and cities of gold--old, old, old, older than time--came
-down from the stars--Great Tulu--Azathoth--Nyarlathotep--waiting, waiting. . . . "
+down from the stars--Great Tulu--Azathoth--Nyarlathotep--waiting, waiting. . . ."_
 The object died before dawn.
 
 Of course there was an investigation, and the Indians at the reservation were
@@ -217,14 +217,14 @@ grilled unmercifully. But they knew nothing, and had nothing to say. At least, n
 had anything to say except old Grey Eagle, a Wichita chieftain whose more than a century of
 age put him above common fears. He alone deigned to grunt some advice.
 
-"You let um 'lone, white man. No good--those people. All under
+_"You let um 'lone, white man. No good--those people. All under
 here, all under there, them old ones. Yig, big father of snakes, he there. Yig is Yig. Tiráwa,
 big father of men, he there. Tiráwa is Tiráwa. No die. No get old. Just same like
 air. Just live and wait. One time they come out here, live and fight. Build um dirt tepee. Bring
 up gold--they got plenty. Go off and make new lodges. Me them. You them. Then big waters
 come. All change. Nobody come out, let nobody in. Get in, no get out. You let um 'lone,
 you have no bad medicine. Red man know, he no get catch. White man meddle, he no come back.
-Keep 'way little hills. No good. Grey Eagle say this. "
+Keep 'way little hills. No good. Grey Eagle say this."_
 
 If Joe Norton and Rance Wheelock had taken the old chief's advice, they would
 probably be here today; but they didn't. They were great readers and materialists, and
@@ -328,12 +328,12 @@ anything in the vault above. In another moment it was clear that this spark came
 of a long distant rise in the outspread and faintly litten plain; and I turned to Compton with
 a question.
 
-"Yes, " he answered,"it's the blue ghost-light--and
+_"Yes"_, he answered, _"it's the blue ghost-light--and
 that is the mound. There's not a night in history that we haven't seen it--and
 not a living soul in Binger that would walk out over that plain toward it. It's a bad
 business, young man, and if you're wise you'll let it rest where it is. Better call
 your search off, son, and tackle some of the other Injun legends around here. We've plenty
-to keep you busy, heaven knows! "
+to keep you busy, heaven knows!"_
 
 ## II.
 
@@ -358,7 +358,7 @@ Compton had quietly offered me. Focussing them hastily, I saw at first only a ta
 on the distant mound's rim--and then something stalked into the field.
 
 It was unmistakably a human shape, and I knew at once that I was seeing the
-daytime"Indian ghost " I did not wonder at the description, for surely the tall,
+daytime _"Indian ghost"_ I did not wonder at the description, for surely the tall,
 lean, darkly robed being with the filleted black hair and seamed, coppery, expressionless, aquiline
 face looked more like an Indian than anything else in my previous experience. And yet my trained
 ethnologist's eye told me at once that this was no redskin of any sort hitherto known
@@ -378,8 +378,8 @@ man, whoever or whatever he might be, was certainly not a savage. He was the pro
 of a civilisation, I felt instinctively, though of what civilisation I could not guess.
 At length he disappeared beyond the farther edge of the mound, as if descending the opposite
 and unseen slope; and I lowered the glass with a curious mixture of puzzled feelings. Compton
-was looking quizzically at me, and I nodded non-committally,"What do you make of that? "
-he ventured."This is what we've seen here in Binger every day of our lives. "
+was looking quizzically at me, and I nodded non-committally, _"What do you make of that?"_
+he ventured. _"This is what we've seen here in Binger every day of our lives."_
 
 That noon found me at the Indian reservation talking with old Grey Eagle--who,
 through some miracle, was still alive; though he must have been close to a hundred and fifty
@@ -390,7 +390,7 @@ him, he appeared to like me. His liking, however, took an unfortunately obstruct
 soon as he learned what I wanted; for all he would do was to warn me against the search I was
 about to make.
 
-"You good boy--you no bother that hill. Bad medicine. Plenty devil
+_"You good boy--you no bother that hill. Bad medicine. Plenty devil
 under there--catchum when you dig. No dig, no hurt. Go and dig, no come back. Just same
 when me boy, just same when my father and he father boy. All time buck he walk in day, squaw
 with no head she walk in night. All time since white man with tin coats they come from sunset
@@ -402,7 +402,7 @@ Nobody come out, let nobody in. Get in, no get out. They no die--no get old like
 with valleys in face and snow on head. Just same like air--some man, some spirit. Bad medicine.
 Sometimes at night spirit come out on half-man-half-horse-with-horn and fight where men once
 fight. Keep 'way them place. No good. You good boy--go 'way and let them old
-ones 'lone. "
+ones 'lone."_
 
 That was all I could get out of the ancient chief, and the rest of the Indians
 would say nothing at all. But if I was troubled, Grey Eagle was clearly more so; for he obviously
@@ -413,13 +413,13 @@ half-timidly from a buckskin pouch he wore, and extended it toward me very solem
 a worn but finely minted metal disc about two inches in diameter, oddly figured and perforated,
 and suspended from a leathern cord.
 
-"You no promise, then Grey Eagle no can tell what get you. But if anything
+_"You no promise, then Grey Eagle no can tell what get you. But if anything
 help um, this good medicine. Come from my father--he get from he father--he get from
 he father--all way back, close to Tiráwa, all men's father. My father say,
-"You keep 'way from those old ones, keep 'way from little hills and valleys
+'You keep 'way from those old ones, keep 'way from little hills and valleys
 with stone caves. But if old ones they come out to get you, then you shew um this medicine.
 They know. They make him long way back. They look, then they no do such bad medicine maybe.
-But no can tell. You keep 'way, just same. Them no good. No tell what they do.' "
+But no can tell. You keep 'way, just same. Them no good. No tell what they do.'"_
 
 As he spoke, Grey Eagle was hanging the thing around my neck, and I saw it
 was a very curious object indeed. The more I looked at it, the more I marvelled; for not only
@@ -488,7 +488,7 @@ were no signs of a path toward the top; and, burdened as I was, I managed to scr
 with considerable difficulty. When I reached the summit I found a roughly level elliptical plateau
 about 300 by 50 feet in dimensions; uniformly covered with rank grass and dense underbrush,
 and utterly incompatible with the constant presence of a pacing sentinel. This condition gave
-me a real shock, for it shewed beyond question that the"Old Indian", vivid though
+me a real shock, for it shewed beyond question that the "Old Indian", vivid though
 he seemed, could not be other than a collective hallucination.
 
 I looked about with considerable perplexity and alarm, glancing wistfully back
@@ -550,18 +550,18 @@ quest they startlingly confirmed me in that very effort.
 The yellow scroll with the green script began with a bold, identifying caption
 and a ceremoniously desperate appeal for belief in incredible revelations to follow:
 
-> RELACI&Oacute;N DE PáNFILO DE ZAMACONA Y NU&Ntilde;EZ, HIDALGO DE LUARCA
-> EN ASTURIAS, TOCANTE AL MUNDO SOTERRáNEO DE XINAIáN, A. D. MDXLV
+> RELACIÓN DE PÁNFILO DE ZAMACONA Y NUñEZ, HIDALGO DE LUARCA
+> EN ASTURIAS, TOCANTE AL MUNDO SOTERRÁNEO DE XINAIÁN, A. D. MDXLV
 >  
-> En el nombre de la sant&iacute;sima Trinidad, Padre, Hijo, y Esp&iacute;ritu-Santo,
-> tres personas distintas y un solo. Dios verdadero, y de la sant&iacute;sima Virgen muestra Se&ntilde;ora,
-> YO, PáNFILO DE ZAMACONA, HIJO DE PEDRO GUZMAN Y ZAMACONA, HIDALGO, Y DE LA DO&Ntilde;A
-> YNéS ALVARADO Y NU&Ntilde;EZ, DE LUARCA EN ASTURIAS, juro para que todo que deco está
+> En el nombre de la santísima Trinidad, Padre, Hijo, y Espíritu-Santo,
+> tres personas distintas y un solo. Dios verdadero, y de la santísima Virgen muestra Señora,
+> YO, PáNFILO DE ZAMACONA, HIJO DE PEDRO GUZMAN Y ZAMACONA, HIDALGO, Y DE LA DOÑA
+> YNÉS ALVARADO Y NUÑEZ, DE LUARCA EN ASTURIAS, juro para que todo que deco está
 > verdadero como sacramento. . . .
 
-I paused to reflect on the portentous significance of what I was reading."The
-Narrative of Pánfilo de Zamacona y Nu&ntilde;ez, gentleman, of Luarca in Asturias,
-Concerning the Subterranean World of Xinaián, A. D. 1545 " . . . Here,
+I paused to reflect on the portentous significance of what I was reading. _"The
+Narrative of Pánfilo de Zamacona y Nuñez, gentleman, of Luarca in Asturias,
+Concerning the Subterranean World of Xinaián, A. D. 1545"_ . . . Here,
 surely, was too much for any mind to absorb all at once. A subterranean world--again that
 persistent idea which filtered through all the Indian tales and through all the utterances of
 those who had come back from the mound. And the date--1545--what could this mean?
@@ -601,7 +601,7 @@ not help shivering as I studied the abnormal and blasphemous forms that leered a
 exquisite workmanship. I wish now that I had carefully photographed all these designs--though
 perhaps it is just as well that I did not. Of one thing I am really glad, and that is that I
 could not then identify the squatting octopus-headed thing which dominated most of the ornate
-cartouches, and which the manuscript called"Tulu ". Recently I have associated it,
+cartouches, and which the manuscript called _"Tulu"_. Recently I have associated it,
 and the legends in the manuscript connected with it, with some new-found folklore of monstrous
 and unmentioned Cthulhu, a horror which seeped down from the stars while the young earth was
 still half-formed; and had I known of the connexion then, I could not have stayed in the same
@@ -633,14 +633,14 @@ Of his youth in Luarca, a small, placid port on the Bay of Biscay, Zamacona
 told little. He had been wild, and a younger son, and had come to New Spain in 1532, when only
 twenty years old. Sensitively imaginative, he had listened spellbound to the floating rumours
 of rich cities and unknown worlds to the north--and especially to the tale of the Franciscan
-friar Marcos de Niza, who came back from a trip in 1539 with glowing accounts of fabulous C&iacute;bola
+friar Marcos de Niza, who came back from a trip in 1539 with glowing accounts of fabulous Cíbola
 and its great walled towns with terraced stone houses. Hearing of Coronado's contemplated
 expedition in search of these wonders--and of the greater wonders whispered to lie beyond
 them in the land of buffaloes--young Zamacona managed to join the picked party of 300,
 and started north with the rest in 1540.
 
-History knows the story of that expedition--how C&iacute;bola was found
-to be merely the squalid Pueblo village of Zu&ntilde;i, and how de Niza was sent back to Mexico
+History knows the story of that expedition--how Cíbola was found
+to be merely the squalid Pueblo village of Zuñi, and how de Niza was sent back to Mexico
 in disgrace for his florid exaggerations; how Coronado first saw the Grand Canyon, and how at
 Cicuyé, on the Pecos, he heard from the Indian called El Turco of the rich and mysterious
 land of Quivira, far to the northeast, where gold, silver, and buffaloes abounded, and where
@@ -657,7 +657,7 @@ with its villages of grass houses, its brooks and rivers, its good black soil, i
 grapes, and mulberries, and its maize-growing and copper-using Indians. The execution of El
 Turco, the false native guide, was casually touched upon, and there was a mention of the cross
 which Coronado raised on the bank of a great river in the autumn of 1541--a cross bearing
-the inscription,"Thus far came the great general, Francisco Vásquez de Coronado ".
+the inscription, _"Thus far came the great general, Francisco Vásquez de Coronado"_.
 
 This supposed Quivira lay at about the fortieth parallel of north latitude,
 and I see that quite lately the New York archaeologist Dr. Hodge has identified it with the
@@ -885,8 +885,8 @@ confusion indicating a large herd aimlessly wandering, Zamacona found the abnorm
 is to be regretted that he could not describe them more exactly, but the manuscript displayed
 far more vague fear than accurate observation. Just what it was that so frightened the Spaniard
 can only be inferred from his later hints regarding the beasts. He referred to the prints as
-"not hooves, nor hands, nor feet, nor precisely paws--nor so large as to cause alarm
-on that account'. Just why or how long ago the things had been there, was not easy to
+_"not hooves, nor hands, nor feet, nor precisely paws--nor so large as to cause alarm
+on that account"_. Just why or how long ago the things had been there, was not easy to
 guess. There was no vegetation visible, hence grazing was out of the question; but of course
 if the beasts were carnivorous they might well have been hunting smaller animals, whose tracks
 their own would tend to obliterate.
@@ -1058,7 +1058,7 @@ it was. There could be no mistake about it--it was a definite, human, and peremp
 performed apparently with some metallic object, and with all the measured quality of conscious
 thought or will behind it. As the awakening man rose clumsily to his feet, a sharp vocal note
 was added to the summons--someone calling out, in a not unmusical voice, a formula which
-the manuscript tries to represent as"oxi, oxi, giathcán ycá relex ".
+the manuscript tries to represent as _"oxi, oxi, giathcán ycá relex"_.
 Feeling sure that his visitors were men and not daemons, and arguing that they could have no
 reason for considering him an enemy, Zamacona decided to face them openly and at once; and accordingly
 fumbled with the ancient latch till the golden door creaked open from the pressure of those
@@ -1102,7 +1102,7 @@ succeed very well. So he nodded, and tried to describe himself and his journey b
 pointed upward, as if to the outer world, then closed his eyes and made signs as of a mole burrowing.
 Then he opened his eyes again and pointed downward, in order to indicate his descent of the
 great slope. Experimentally he blended a spoken word or two with his gestures--for example,
-pointing successively to himself and to all of his visitors and saying"un hombre",
+pointing successively to himself and to all of his visitors and saying _"un hombre"_,
 and then pointing to himself alone and very carefully pronouncing his individual name, Pánfilo
 de Zamacona.
 
@@ -1113,7 +1113,7 @@ absorbed many beginnings of an elementary Spanish vocabulary. Their own old lang
 unlike anything the Spaniard had ever heard, though there were times later on when he was to
 fancy an infinitely remote linkage with the Aztec, as if the latter represented some far stage
 of corruption, or some very thin infiltration of loan-words. The underground world, Zamacona
-learned, bore an ancient name which the manuscript records as"Xinaián",
+learned, bore an ancient name which the manuscript records as __"Xinaián"__,
 but which, from the writer's supplementary explanations and diacritical marks, could probably
 be best represented to Anglo-Saxon ears by the phonetic arrangement K'n-yan.
 
@@ -1390,7 +1390,7 @@ Tsath agreed that the present beasts had been very much inclined toward reptilia
 they had been crossed with the mammal slave-class of K'n-yan.
 
 It argues well for the intrepid fire of those Renaissance Spaniards who conquered
-half the unknown world, that Pánfilo de Zamacona y Nu&ntilde;ez actually mounted one
+half the unknown world, that Pánfilo de Zamacona y Nuñez actually mounted one
 of the morbid beasts of Tsath and fell into place beside the leader of the cavalcade--the
 man named Gll'-Hthaa-Ynn, who had been most active in the previous exchange of information.
 It was a repulsive business; but after all, the seat was very easy, and the gait of the clumsy
@@ -1619,7 +1619,7 @@ party would take their place, and so onward in rotation through a group of about
 
 ## VI.
 
-Thus was Pánfilo de Zamacona y Nu&ntilde;ez absorbed for four years
+Thus was Pánfilo de Zamacona y Nuñez absorbed for four years
 into the life of the sinister city of Tsath in the blue-litten nether world of K'n-yan.
 All that he learned and saw and did is clearly not told in his manuscript; for a pious reticence
 overcame him when he began to write in his native Spanish tongue, and he dared not set down
@@ -1875,9 +1875,9 @@ of the New World.
 
 For many nights after his ultimate resolution Zamacona prayed to St. Pamphilus
 and other guardian saints, and counted the beads of his rosary. The last entry in the manuscript,
-which toward the end took the form of a diary more and more, was merely a single sentence-- "Es
-más tarde de lo que pensaba--tengo que marcharme ". . . .
-"It is later than I thought; I must go. " After that, only silence and conjecture--and
+which toward the end took the form of a diary more and more, was merely a single sentence-- _"Es
+más tarde de lo que pensaba--tengo que marcharme"_ . . . .
+_"It is later than I thought; I must go."_ After that, only silence and conjecture--and
 such evidence as the presence of the manuscript itself, and what that manuscript could lead
 to, might provide.
 
@@ -2013,8 +2013,8 @@ of drifting soil; yet the object before me was most distinctly not many generati
 it was an electric torch much like the one I now carried--warped and encrusted in the tomb-like
 dampness, but none the less perfectly unmistakable. I descended a few steps and picked it up,
 wiping off the evil deposits on my rough coat. One of the nickel bands bore an engraved name
-and address, and I recognised it with a start the moment I made it out. It read"Jas.
-C. Williams, 17 Trowbridge St., Cambridge, Mass. "--and I knew that it had belonged
+and address, and I recognised it with a start the moment I made it out. It reads.
+_"C. Williams, 17 Trowbridge St., Cambridge, Mass."_ --and I knew that it had belonged
 to one of the two daring college instructors who had disappeared on June 28, 1915. Only thirteen
 years ago, and yet I had just broken through the sod of centuries! How had the thing got there?
 Another entrance--or was there something after all in this mad idea of dematerialisation
@@ -2090,7 +2090,7 @@ sound which heralded beyond question a being as structurally material as the pic
 shovel--something wholly unlike the shadow-shapes that ringed me in, yet equally remote
 from any sort of life as life is understood on the earth's wholesome surface. My shattered
 brain tried to prepare me for what was coming, but could not frame any adequate image. I could
-only say over and over again to myself,"It is of the abyss, but it is not dematerialised. "
+only say over and over again to myself, _"It is of the abyss, but it is not dematerialised."_
 The padding grew more distinct, and from the mechanical cast of the tread I knew it was a dead
 thing that stalked in the darkness. Then--oh, God, I saw it in the full beam of my torch;
 saw it framed like a sentinel in the narrow passage between the nightmare idols of the serpent
@@ -2121,8 +2121,8 @@ it--and if in the end you think my reticence strange, just remember that to imag
 a horror is one thing, but to see it is another thing. I saw it. I think you'll
 recall my citing early in this tale the case of a bright young man named Heaton who went out
 to that mound one day in 1891 and came back at night as the village idiot, babbling for eight
-years about horrors and then dying in an epileptic fit. What he used to keep moaning was"That
-white man--oh, my God, what they did to him. . . . "
+years about horrors and then dying in an epileptic fit. What he used to keep moaning was _"That
+white man--oh, my God, what they did to him. . . ."_
 
 Well, I saw the same thing that poor Heaton saw--and I saw it after reading
 the manuscript, so I know more of its history than he did. That makes it worse--for I know
@@ -2140,6 +2140,6 @@ On its white and only slightly hairy chest some letters had been gashed or
 branded--I had not stopped to investigate, but had merely noted that they were in an awkward
 and fumbling Spanish; an awkward Spanish implying a kind of ironic use of the language by an
 alien inscriber familiar neither with the idiom nor the Roman letters used to record it. The
-inscription had read"Secuestrado a la voluntad de Xinaián en el cuerpo decapitado
-de Tlay&uacute;b "-- "Seized by the will of K'n-yan in the headless body
-of T'la-yub. " 
+inscription had read _"Secuestrado a la voluntad de Xinaián en el cuerpo decapitado
+de Tlayúb"_ -- _"Seized by the will of K'n-yan in the headless body
+of T'la-yub."_ 

@@ -1,4 +1,4 @@
-# The Dunwich Horror (1928)
+# The Dunwich Horror
 
 {aside}
 Gorgons, and Hydras, and Chimaeras--dire stories of Celaeno and the

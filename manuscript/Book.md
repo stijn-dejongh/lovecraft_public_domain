@@ -13,3 +13,5 @@ curse_of_yig.md
 dunwich_horror.md
 whisperer_in_darkness.md
 the_mound.md
+mountains_of_madness.md
+shadow-over-insmouth.md

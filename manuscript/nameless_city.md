@@ -1,4 +1,4 @@
-# The Nameless City (1921)
+# The Nameless City
 
 When I drew nigh the nameless city I knew it was accursed. I was travelling
 in a parched and terrible valley under the moon, and afar I saw it protruding uncannily above

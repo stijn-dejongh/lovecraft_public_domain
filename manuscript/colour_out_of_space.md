@@ -1,4 +1,4 @@
-# The Colour out of Space (1927)
+# The Colour out of Space
 
 West of Arkham the hills rise wild, and there are valleys with deep woods that no axe has ever
 cut. There are dark narrow glens where the trees slope fantastically, and where thin brooklets

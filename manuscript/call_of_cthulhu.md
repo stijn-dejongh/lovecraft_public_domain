@@ -1,4 +1,4 @@
-# The Call of Cthulhu (1928)
+# The Call of Cthulhu
 
 > (Found Among the Papers of the Late Francis Wayland Thurston, of Boston)
 >

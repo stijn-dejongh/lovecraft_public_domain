@@ -1,4 +1,4 @@
-## The Curse of Yig (1928)
+## The Curse of Yig
 
 In 1925 I went into Oklahoma looking for snake lore, and I came out with a fear of snakes that
 will last me the rest of my life. I admit it is foolish, since there are natural explanations

@@ -1,4 +1,4 @@
-# Azathoth (1922)
+# Azathoth
 
 When age fell upon the world, and wonder went out of the minds of men; when grey cities reared
 to smoky skies tall towers grim and ugly, in whose shadow none might dream of the sun or of

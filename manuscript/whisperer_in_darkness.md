@@ -1,4 +1,4 @@
-# The Whisperer in Darkness (1930)
+# The Whisperer in Darkness
 
 ## I.
 
@@ -112,12 +112,12 @@ counties it seemed to be a fashion about 1800 to accuse eccentric and unpopular 
 being allies or representatives of the abhorred things.
 
 As to what the things were--explanations naturally varied. The common
-name applied to them was  "those ones", or  "the old ones", though other
+name applied to them was _"those ones"_, or _"the old ones"_, though other
 terms had a local and transient use. Perhaps the bulk of the Puritan settlers set them down
 bluntly as familiars of the devil, and made them a basis of awed theological speculation. Those
 with Celtic legendry in their heritage--mainly the Scotch-Irish element of New Hampshire,
 and their kindred who had settled in Vermont on Governor Wentworth's colonial grants--linked
-them vaguely with the malign fairies and  "little people " of the bogs and raths,
+them vaguely with the malign fairies and  _"little people"_ of the bogs and raths,
 and protected themselves with scraps of incantation handed down through many generations. But
 the Indians had the most fantastic theories of all. While different tribal legends differed,
 there was a marked consensus of belief in certain vital particulars; it being unanimously agreed
@@ -167,9 +167,8 @@ but little in essence from those universal legends of natural personification wh
 ancient world with fauns and dryads and satyrs, suggested the kallikanzari of modern
 Greece, and gave to wild Wales and Ireland their dark hints of strange, small, and terrible
 hidden races of troglodytes and burrowers. No use, either, to point out the even more startlingly
-similar belief of the Nepalese hill tribes in the dreaded Mi-Go or  "Abominable
-Snow-Men " who lurk hideously amidst the ice and rock pinnacles of the Himalayan summits.
-When I brought up this evidence, my opponents turned it against me by claiming that it must
+similar belief of the Nepalese hill tribes in the dreaded Mi-Go or _"Abominable Snow-Men"_ who lurk hideously amidst the ice and rock pinnacles 
+of the Himalayan summits. When I brought up this evidence, my opponents turned it against me by claiming that it must
 imply some actual historicity for the ancient tales; that it must argue the real existence of
 some queer elder earth-race, driven to hiding after the advent and dominance of mankind, which
 might very conceivably have survived in reduced numbers to relatively recent times--or
@@ -182,7 +181,7 @@ extremists went so far as to hint at possible meanings in the ancient Indian tal
 the hidden beings a non-terrestrial origin; citing the extravagant books of Charles Fort with
 their claims that voyagers from other worlds and outer space have often visited earth. Most
 of my foes, however, were merely romanticists who insisted on trying to transfer to real life
-the fantastic lore of lurking "little people " made popular by the magnificent horror-fiction
+the fantastic lore of lurking _"little people"_ made popular by the magnificent horror-fiction
 of Arthur Machen.
 
 ## II.
@@ -192,7 +191,7 @@ got into print in the form of letters to the Arkham Advertiser; some of which we
 in the press of those Vermont regions whence the flood-stories came. The Rutland Herald
 gave half a page of extracts from the letters on both sides, while the Brattleboro Reformer
 reprinted one of my long historical and mythological summaries in full, with some accompanying
-comments in "The Pendrifter's " thoughtful column which supported and applauded
+comments in _"The Pendrifter's"_ thoughtful column which supported and applauded
 my sceptical conclusions. By the spring of 1928 I was almost a well-known figure in Vermont,
 notwithstanding the fact that I had never set foot in the state. Then came the challenging letters
 from Henry Akeley which impressed me so profoundly, and which took me for the first and last
@@ -243,7 +242,7 @@ My dear Sir:--
 I have read with great interest the Brattleboro Reformer's reprint (Apr. 23, '28)
 of your letter on the recent stories of strange bodies seen floating in our flooded streams
 last fall, and on the curious folklore they so well agree with. It is easy to see why an outlander
-would take the position you take, and even why  "Pendrifter " agrees with you. That
+would take the position you take, and even why  _"Pendrifter"_ agrees with you. That
 is the attitude generally taken by educated persons both in and out of Vermont, and was my own
 attitude as a young man (I am now 57) before my studies, both general and in Davenport's
 book, led me to do some exploring in parts of the hills hereabouts not usually visited.
@@ -277,7 +276,7 @@ a dictaphone attachment and wax blank--and I shall try to arrange to have you he
 record I got. I have run it on the machine for some of the old people up here, and one of the
 voices had nearly scared them paralysed by reason of its likeness to a certain voice (that buzzing
 voice in the woods which Davenport mentions) that their grandmothers have told about and mimicked
-for them. I know what most people think of a man who tells about  "hearing voices "--but
+for them. I know what most people think of a man who tells about  _"hearing voices"_ --but
 before you draw conclusions just listen to this record and ask some of the older backwoods people
 what they think of it. If you can account for it normally, very well; but there must be something
 behind it. Ex nihilo nihil fit, you know.
@@ -318,7 +317,7 @@ bungalows.
 
 I shall welcome further communication with you, and shall try to send you that
 phonograph record and black stone (which is so worn that photographs don't shew much)
-by express if you are willing. I say  "try " because I think those creatures have
+by express if you are willing. I say "try" because I think those creatures have
 a way of tampering with things around here. There is a sullen, furtive fellow named Brown, on
 a farm near the village, who I think is their spy. Little by little they are trying to cut me
 off from our world because I know too much about their world.
@@ -352,7 +351,7 @@ Hoping that I am not bothering you unduly, and that you will decide to get
 in touch with me rather than throw this letter into the waste basket as a madman's raving,
 I am
 
-Yrs. very truly,        
+Yrs. very truly,  
 HENRY W. AKELEY
 
 P.S. I am making some extra prints of certain photographs taken by me, which I think will help
@@ -415,7 +414,7 @@ knowledge and belief. The worst thing of all was the footprint--a view taken whe
 sun shone on a mud patch somewhere in a deserted upland. This was no cheaply counterfeited thing,
 I could see at a glance; for the sharply defined pebbles and grass-blades in the field of vision
 gave a clear index of scale and left no possibility of a tricky double exposure. I have called
-the thing a  "footprint", but  "claw-print " would be a better term. Even
+the thing a "footprint", but "claw-print" would be a better term. Even
 now I can scarcely describe it save to say that it was hideously crab-like, and that there seemed
 to be some ambiguity about its direction. It was not a very deep or fresh print, but seemed
 to be about the size of an average man's foot. From a central pad, pairs of saw-toothed
@@ -763,8 +762,8 @@ but had not received the letter from me to which it was an obvious reply. Hasty 
 him at Bellows Falls had brought out that the message was deposited by a strange sandy-haired
 man with a curiously thick, droning voice, though more than this he could not learn. The clerk
 shewed him the original text as scrawled in pencil by the sender, but the handwriting was wholly
-unfamiliar. It was noticeable that the signature was misspelled--A-K-E-L-Y, without the
-second  "E ". Certain conjectures were inevitable, but amidst the obvious crisis he
+unfamiliar. It was noticeable that the signature was misspelled -- _A-K-E-L-Y_, without the
+second _"E"_. Certain conjectures were inevitable, but amidst the obvious crisis he
 did not stop to elaborate upon them.
 
 He spoke of the death of more dogs and the purchase of still others, and of
@@ -974,7 +973,7 @@ with beginners in typing. The text, though, was marvellously accurate for a tyro
 and I concluded that Akeley must have used a machine at some previous period--perhaps in
 college. To say that the letter relieved me would be only fair, yet beneath my relief lay a
 substratum of uneasiness. If Akeley had been sane in his terror, was he now sane in his deliverance?
-And the sort of  "improved rapport " mentioned . . . what was it? The
+And the sort of _"improved rapport"_ mentioned . . . what was it? The
 entire thing implied such a diametrical reversal of Akeley's previous attitude! But here
 is the substance of the text, carefully transcribed from a memory in which I take some pride.
 
@@ -985,7 +984,7 @@ Thursday, Sept. 6, 1928.
 My dear Wilmarth:--
 
 It gives me great pleasure to be able to set you at rest regarding all the
-silly things I've been writing you. I say  "silly", although by that I mean
+silly things I've been writing you. I say "silly", although by that I mean
 my frightened attitude rather than my descriptions of certain phenomena. Those phenomena are
 real and important enough; my mistake had been in establishing an anomalous attitude toward
 them.
@@ -1064,7 +1063,7 @@ as still use speech.
 
 Their main immediate abode is a still undiscovered and almost lightless
 planet at the very edge of our solar system--beyond Neptune, and the ninth in distance
-from the sun. It is, as we have inferred, the object mystically hinted at as  "Yuggoth "
+from the sun. It is, as we have inferred, the object mystically hinted at as  __"Yuggoth"__
 in certain ancient and forbidden writings; and it will soon be the scene of a strange focussing
 of thought upon our world in an effort to facilitate mental rapport. I would not be surprised
 if astronomers became sufficiently sensitive to these thought-currents to discover Yuggoth when
@@ -1247,7 +1246,7 @@ him as a comparative outsider. Remembering what a hermit Akeley had been, I was 
 at the ready availability of such a friend; but did not let my puzzlement deter me from entering
 the motor to which he gestured me. It was not the small ancient car I had expected from Akeley's
 descriptions, but a large and immaculate specimen of recent pattern--apparently Noyes's
-own, and bearing Massachusetts licence plates with the amusing  "sacred codfish "
+own, and bearing Massachusetts licence plates with the amusing _"sacred codfish"_
 device of that year. My guide, I concluded, must be a summer transient in the Townshend region.
 
 Noyes climbed into the car beside me and started it at once. I was glad that
@@ -1455,7 +1454,7 @@ all movements of the lips, and something in its timbre disturbed me greatly; but
 my attention I could soon make out its purport surprisingly well. The accent was by no means
 a rustic one, and the language was even more polished than correspondence had led me to expect.
 
-"Mr. Wilmarth, I presume? You must pardon my not rising. I am quite ill,
+_"Mr. Wilmarth, I presume? You must pardon my not rising. I am quite ill,
 as Mr. Noyes must have told you; but I could not resist having you come just the same. You know
 what I wrote in my last letter--there is so much to tell you tomorrow when I shall feel
 better. I can't say how glad I am to see you in person after all our many letters. You
@@ -1465,21 +1464,21 @@ to a great extent. Your room is upstairs--the one over this--and you'll see
 the bathroom door open at the head of the staircase. There's a meal spread for you in
 the dining-room--right through this door at your right--which you can take whenever
 you feel like it. I'll be a better host tomorrow--but just now weakness leaves me
-helpless.
+helpless."_
 
-"Make yourself at home--you might take out the letters and pictures
+_"Make yourself at home--you might take out the letters and pictures
 and record and put them on the table here before you go upstairs with your bag. It is here that
-we shall discuss them--you can see my phonograph on that corner stand.
+we shall discuss them--you can see my phonograph on that corner stand."_
 
-"No, thanks--there's nothing you can do for me. I know these
+_"No, thanks--there's nothing you can do for me. I know these
 spells of old. Just come back for a little quiet visiting before night, and then go to bed when
 you please. I'll rest right here--perhaps sleep here all night as I often do. In
 the morning I'll be far better able to go into the things we must go into. You realise,
 of course, the utterly stupendous nature of the matter before us. To us, as to only a few men
 on this earth, there will be opened up gulfs of time and space and knowledge beyond anything
-within the conception of human science and philosophy.
+within the conception of human science and philosophy."_
 
-"Do you know that Einstein is wrong, and that certain objects and forces
+_"Do you know that Einstein is wrong, and that certain objects and forces
 can move with a velocity greater than that of light? With proper aid I expect to go backward
 and forward in time, and actually see and feel the earth of remote past and future
 epochs. You can't imagine the degree to which those beings have carried science. There
@@ -1488,9 +1487,9 @@ other planets, and even other stars and galaxies. The first trip will be to Yugg
 world fully peopled by the beings. It is a strange dark orb at the very rim of our solar system--unknown
 to earthly astronomers as yet. But I must have written you about this. At the proper time, you
 know, the beings there will direct thought-currents toward us and cause it to be discovered--or
-perhaps let one of their human allies give the scientists a hint.
+perhaps let one of their human allies give the scientists a hint."_
 
-"There are mighty cities on Yuggoth--great tiers of terraced towers
+_"There are mighty cities on Yuggoth--great tiers of terraced towers
 built of black stone like the specimen I tried to send you. That came from Yuggoth. The sun
 shines there no brighter than a star, but the beings need no light. They have other, subtler
 senses, and put no windows in their great houses and temples. Light even hurts and hampers and
@@ -1499,9 +1498,9 @@ they came from originally. To visit Yuggoth would drive any weak man mad--yet I 
 there. The black rivers of pitch that flow under those mysterious Cyclopean bridges--things
 built by some elder race extinct and forgotten before the things came to Yuggoth from the ultimate
 voids--ought to be enough to make any man a Dante or Poe if he can keep sane long enough
-to tell what he has seen.
+to tell what he has seen."_
 
-"But remember--that dark world of fungoid gardens and windowless
+_"But remember--that dark world of fungoid gardens and windowless
 cities isn't really terrible. It is only to us that it would seem so. Probably this world
 seemed just as terrible to the beings when they first explored it in the primal age. You know
 they were here long before the fabulous epoch of Cthulhu was over, and remember all about sunken
@@ -1510,11 +1509,11 @@ are openings which human beings know nothing of--some of them in these very Verm
 great worlds of unknown life down there; blue-litten K'n-yan, red-litten Yoth, and black,
 lightless N'kai. It's from N'kai that frightful Tsathoggua came--you
 know, the amorphous, toad-like god-creature mentioned in the Pnakotic Manuscripts and the   
-Necronomicon and the Commoriom myth-cycle preserved by the Atlantean high-priest Klarkash-Ton.
+Necronomicon and the Commoriom myth-cycle preserved by the Atlantean high-priest Klarkash-Ton."_
 
-"But we will talk of all this later on. It must be four or five o'clock
+_"But we will talk of all this later on. It must be four or five o'clock
 by this time. Better bring the stuff from your bag, take a bite, and then come back for a comfortable
-chat. "
+chat."_
 
 Very slowly I turned and began to obey my host; fetching my valise, extracting
 and depositing the desired articles, and finally ascending to the room designated as mine. With
@@ -1622,8 +1621,8 @@ as with ague. Then I saw the hand point to a much nearer corner where some intri
 with attached cords and plugs, several of them much like the two devices on the shelf behind
 the cylinders, were huddled together.
 
-"There are four kinds of instruments here, Wilmarth, " whispered
-the voice.  "Four kinds--three faculties each--makes twelve pieces in all. You
+_"There are four kinds of instruments here, Wilmarth"_, whispered
+the voice. _"Four kinds--three faculties each--makes twelve pieces in all. You
 see there are four different sorts of beings presented in those cylinders up there. Three humans,
 six fungoid beings who can't navigate space corporeally, two beings from Neptune (God!
 if you could see the body this type has on its own planet!), and the rest entities from the
@@ -1634,23 +1633,23 @@ the uttermost Outside--and special machines for giving them impressions and expr
 in the several ways suited at once to them and to the comprehensions of different types of listeners.
 Round Hill, like most of the beings' main outposts all through the various universes,
 is a very cosmopolitan place! Of course, only the more common types have been lent to me for
-experiment.
+experiment._
 
-"Here--take the three machines I point to and set them on the table.
+_"Here--take the three machines I point to and set them on the table.
 That tall one with the two glass lenses in front--then the box with the vacuum tubes and
 sounding-board--and now the one with the metal disc on top. Now for the cylinder with the
 label "B-67' pasted on it. Just stand in that Windsor chair to reach the shelf.
 Heavy? Never mind! Be sure of the number--B-67. Don't bother that fresh, shiny cylinder
 joined to the two testing instruments--the one with my name on it. Set B-67 on the table
 near where you've put the machines--and see that the dial switch on all three machines
-is jammed over to the extreme left.
+is jammed over to the extreme left."_
 
-"Now connect the cord of the lens machine with the upper socket on the
+_"Now connect the cord of the lens machine with the upper socket on the
 cylinder--there! Join the tube machine to the lower left-hand socket, and the disc apparatus
 to the outer socket. Now move all the dial switches on the machines over to the extreme right--first
 the lens one, then the disc one, and then the tube one. That's right. I might as well
 tell you that this is a human being--just like any of us. I'll give you a taste of
-some of the others tomorrow. "
+some of the others tomorrow."_
 
 To this day I do not know why I obeyed those whispers so slavishly, or whether
 I thought Akeley was mad or sane. After what had gone before, I ought to have been prepared
@@ -1674,7 +1673,7 @@ and observing us. The voice was loud, metallic, lifeless, and plainly mechanical
 of its production. It was incapable of inflection or expressiveness, but scraped and rattled
 on with a deadly precision and deliberation.
 
-"Mr. Wilmarth, " it said,  "I hope I do not startle you. I
+_"Mr. Wilmarth"_, it said, _"I hope I do not startle you. I
 am a human being like yourself, though my body is now resting safely under proper vitalising
 treatment inside Round Hill, about a mile and a half east of here. I myself am here with you--my
 brain is in that cylinder and I see, hear, and speak through these electronic vibrators. In
@@ -1683,37 +1682,37 @@ pleasure of Mr. Akeley's company. I wish I might have yours as well; for I know 
 sight and reputation, and have kept close track of your correspondence with our friend. I am,
 of course, one of the men who have become allied with the outside beings visiting our planet.
 I met them first in the Himalayas, and have helped them in various ways. In return they have
-given me experiences such as few men have ever had.
+given me experiences such as few men have ever had."_
 
-"Do you realise what it means when I say I have been on thirty-seven
+_"Do you realise what it means when I say I have been on thirty-seven
 different celestial bodies--planets, dark stars, and less definable objects--including
 eight outside our galaxy and two outside the curved cosmos of space and time? All this has not
 harmed me in the least. My brain has been removed from my body by fissions so adroit that it
 would be crude to call the operation surgery. The visiting beings have methods which make these
 extractions easy and almost normal--and one's body never ages when the brain is out
 of it. The brain, I may add, is virtually immortal with its mechanical faculties and a limited
-nourishment supplied by occasional changes of the preserving fluid.
+nourishment supplied by occasional changes of the preserving fluid."_
 
-"Altogether, I hope most heartily that you will decide to come with Mr.
+_"Altogether, I hope most heartily that you will decide to come with Mr.
 Akeley and me. The visitors are eager to know men of knowledge like yourself, and to shew them
 the great abysses that most of us have had to dream about in fanciful ignorance. It may seem
 strange at first to meet them, but I know you will be above minding that. I think Mr. Noyes
 will go along, too--the man who doubtless brought you up here in his car. He has been one
 of us for years--I suppose you recognised his voice as one of those on the record Mr. Akeley
-sent you. "
+sent you."_
 
 At my violent start the speaker paused a moment before concluding.
 
-"So, Mr. Wilmarth, I will leave the matter to you; merely adding that
+_"So, Mr. Wilmarth, I will leave the matter to you; merely adding that
 a man with your love of strangeness and folklore ought never to miss such a chance as this.
 There is nothing to fear. All transitions are painless, and there is much to enjoy in a wholly
 mechanised state of sensation. When the electrodes are disconnected, one merely drops off into
-a sleep of especially vivid and fantastic dreams.
+a sleep of especially vivid and fantastic dreams."_
 
-"And now, if you don't mind, we might adjourn our session till
+_"And now, if you don't mind, we might adjourn our session till
 tomorrow. Good night--just turn all the switches back to the left; never mind the exact
 order, though you might let the lens machine be last. Good night, Mr. Akeley--treat our
-guest well! Ready now with those switches? "
+guest well! Ready now with those switches?"_
 
 That was all. I obeyed mechanically and shut off all three switches, though
 dazed with doubt of everything that had occurred. My head was still reeling as I heard Akeley's
@@ -1831,7 +1830,7 @@ When I left Brattleboro I resolved never to go back to Vermont, and I feel
 quite certain I shall keep my resolution. Those wild hills are surely the outpost of a frightful
 cosmic race--as I doubt all the less since reading that a new ninth planet has been glimpsed
 beyond Neptune, just as those influences had said it would be glimpsed. Astronomers, with a
-hideous appropriateness they little suspect, have named this thing  "Pluto ". I feel,
+hideous appropriateness they little suspect, have named this thing _"Pluto"_. I feel,
 beyond question, that it is nothing less than nighted Yuggoth--and I shiver when I try
 to figure out the real reason why its monstrous denizens wish it to be known in this
 way at this especial time. I vainly try to assure myself that these daemoniac creatures are
@@ -2050,8 +2049,7 @@ not form any conjecture. I hope--devoutly hope--that they were the waxen product
 of a master artist, despite what my inmost fears tell me. Great God! That whisperer in darkness
 with its morbid odour and vibrations! Sorcerer, emissary, changeling, outsider . . .
 that hideous repressed buzzing . . . and all the time in that fresh, shiny cylinder
-on the shelf . . . poor devil . . .  "prodigious surgical,
-biological, chemical, and mechanical skill ". . .
+on the shelf . . . poor devil . . .  _"prodigious surgical, biological, chemical, and mechanical skill"_. . .
 
 For the things in the chair, perfect to the last, subtle detail of microscopic
 resemblance--or identity--were the face and hands of Henry Wentworth Akeley.  
