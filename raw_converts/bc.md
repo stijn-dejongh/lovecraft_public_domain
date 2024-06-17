@@ -1,10 +1,6 @@
 % "The Beast in the Cave" 
 %  H. P. Lovecraft
 
-        
-
-  
-
 The horrible conclusion which had been gradually obtruding itself upon my confused and reluctant
 mind was now an awful certainty. I was lost, completely, hopelessly lost in the vast and labyrinthine
 recesses of the Mammoth Cave. Turn as I might, in no direction could my straining vision seize

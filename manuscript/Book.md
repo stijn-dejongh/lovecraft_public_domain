@@ -15,3 +15,12 @@ whisperer_in_darkness.md
 the_mound.md
 mountains_of_madness.md
 shadow-over-insmouth.md
+dreams_in_the_witch_house.md
+man_of_stone.md
+horror_in_the_museum.md
+thing_on_the_doorstep.md
+out-of-the-aeons.md
+tree_on_the_hill.md
+shadow-out-of-time.md
+haunter-of-the-dark.md
+Appendix.md

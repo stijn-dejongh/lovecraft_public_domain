@@ -448,7 +448,7 @@ prescribed thought, there would be born the nucleus of a manifestation visible t
 eyes. When the dreams of all the Shapes had achieved a oneness, that manifestation would occur,
 and everything he required be materialised, through concentration. He had seen such things
 on earth--in India, where the combined, projected will of a circle of adepts can make a
-thought take tangible substance, and in hoary Atlaan&acirc;t, of which few men dare speak.  
+thought take tangible substance, and in hoary Atlaanât, of which few men dare speak.  
 
   Just what the Ultimate Gate was, and how it was to be passed, Carter could
 not be certain; but a feeling of tense expectancy surged over him. He was conscious of having

@@ -58,3 +58,4 @@ To help readers navigate the Lovecraft universe, we have compiled a list of the 
 
 This timeline encapsulates the cyclical nature of the Mythos, where ancient cosmic entities periodically interact with human history, often leading
 to catastrophic and horrifying outcomes. Lovecraft's work emphasizes the insignificance of humanity in the face of these vast, timeless forces.
+
