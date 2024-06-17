@@ -4,9 +4,16 @@ From “Dagon” to “The Call of Cthulhu” to “The Haunter of the Dark,” 
 Ones, buried in a deep sleep beneath the earth and incomprehensible to mankind. For the few mortals who dare to glimpse this unknowable world, the
 result is a complete disconnection from what was once considered reality. Lovecraft’s stories are grim, fantastical, dark, horrifying—and yet
 endlessly fascinating.  
-  
 
-![rendition of Chtulhu, the great old one](images/cthulhu-drawing.png){ width=20% }
+Lovecraft created a universe of cosmic horror fiction that features a pantheon of ancient, powerful, and malevolent entities. The central
+figure, Cthulhu, is a massive, tentacled Great Old One who lies dormant beneath the ocean in the sunken city of R'lyeh. Lovecraft's mythos includes
+other deities and creatures, such as Nyarlathotep, Yog-Sothoth, and Azathoth, as well as a variety of human and non-human cultists who worship these
+beings. The stories are known for their themes of forbidden knowledge, the insignificance of humanity in the face of vast, incomprehensible forces,
+and the fragility of sanity.
+
+
+{float: inside, width: 40%}
+![rendition of Chtulhu, the great old one](cthulhu-drawing.png)
 
 ## List of stories in the Cthulhu Mythos
 
