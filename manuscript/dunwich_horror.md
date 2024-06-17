@@ -1,20 +1,24 @@
-## The Dunwich Horror (1928)
+# The Dunwich Horror (1928)
 
-> "Gorgons, and Hydras, and Chimaeras--dire stories of Celaeno and the
-> Harpies--may reproduce themselves in the brain of superstition-- but they were there
-> before. They are transcripts, types--the archetypes are in us, and eternal. How else
-> should the recital of that which we know in a waking sense to be false come to affect us at
-> all? Is it that we naturally conceive terror from such objects, considered in their capacity
-> of being able to inflict upon us bodily injury? O, least of all!   These terrors are of older
-> standing. They date beyond body --or without the body, they would have been the
-> same. . . . That the kind of fear here treated is purely spiritual--that
-> it is strong in proportion as it is objectless on earth, that it predominates in the period
-> of our sinless infancy--are difficulties the solution of which might afford some probable
-> insight into our ante-mundane condition, and a peep at least into the shadowland of pre-existence."
->
->  -- Charles Lamb: "Witches and Other Night-Fears"
+{aside}
+Gorgons, and Hydras, and Chimaeras--dire stories of Celaeno and the
+Harpies--may reproduce themselves in the brain of superstition-- but they were there
+before. They are transcripts, types--the archetypes are in us, and eternal. How else
+should the recital of that which we know in a waking sense to be false come to affect us at
+all? Is it that we naturally conceive terror from such objects, considered in their capacity
+of being able to inflict upon us bodily injury? O, least of all!   These terrors are of older
+standing. They date beyond body --or without the body, they would have been the
+same. . . . That the kind of fear here treated is purely spiritual--that
+it is strong in proportion as it is objectless on earth, that it predominates in the period
+of our sinless infancy--are difficulties the solution of which might afford some probable
+insight into our ante-mundane condition, and a peep at least into the shadowland of pre-existence.
 
-### Part I.
+-- Charles Lamb: "Witches and Other Night-Fears"
+{/aside}
+
+{pagebreak}
+
+## Part I.
 
 When a traveller in north central Massachusetts takes the wrong fork at the junction of the
 Aylesbury pike just beyond Dean's Corners he comes upon a lonely and curious country.
@@ -114,7 +118,7 @@ circles and around the sizeable table-like rock on Sentinel Hill, sustain the po
 that such spots were once the burial-places of the Pocumtucks; even though many ethnologists,
 disregarding the absurd improbability of such a theory, persist in believing the remains Caucasian.
 
-### Part II.
+## Part II.
 
 It was in the township of Dunwich, in a large and partly inhabited farmhouse set against a hillside
 four miles from the village and a mile and a half from any other dwelling, that Wilbur Whateley
@@ -221,7 +225,7 @@ in the midst of a circle of stones with a great book open in his arms before him
 the boy, and he was always obliged to take various defensive measures against their barking
 menace.
 
-### Part III.
+## Part III.
 
 Meanwhile Old Whateley continued to buy cattle without measurably increasing the size of his
 herd. He also cut timber and began to repair the unused parts of his house--a spacious,
@@ -310,7 +314,7 @@ so much of the fact that Old Whateley always paid for his cattle in gold pieces 
 ancient date. The Whateleys had received their visitors with ill-concealed distaste, though
 they did not dare court further publicity by a violent resistance or refusal to talk.
 
-### Part IV.
+## Part IV.
 
 For a decade the annals of the Whateleys sink indistinguishably into the general life of a morbid
 community used to their queer ways and hardened to their May-Eve and All-Hallows orgies. Twice
@@ -414,7 +418,7 @@ seemed unusually worried and tremulous. People generally suspected him of knowin
 about his mother's disappearance, and very few ever approached his neighbourhood now.
 His height had increased to more than seven feet, and shewed no signs of ceasing its development.
 
-### Part V.
+## Part V.
 
 The following winter brought an event no less strange than Wilbur's first trip outside
 the Dunwich region. Correspondence with the Widener Library at Harvard, the Bibliothèque Nationale
@@ -529,7 +533,7 @@ acute spiritual fear. As the summer drew on he felt dimly that something ought t
 the lurking terrors of the upper Miskatonic valley, and about the monstrous being known to the
 human world as Wilbur Whateley.
 
-### Part VI.
+## Part VI.
 
 The Dunwich horror itself came between Lammas and the equinox in 1928, and Dr. Armitage was
 among those who witnessed its monstrous prologue. He had heard, meanwhile, of Whateley's
@@ -637,7 +641,7 @@ small. When the medical examiner came, there was only a sticky whitish mass on t
 and the monstrous odour had nearly disappeared. Apparently Whateley had had no skull or bony
 skeleton; at least, in any true or stable sense. He had taken somewhat after his unknown father.
 
-### Part VII.
+## Part VII.
 
 Yet all this was only the prologue of the actual Dunwich horror. Formalities were gone through
 by bewildered officials, abnormal details were duly kept from press and public, and men were
@@ -826,7 +830,7 @@ prints, but there was no longer any house. It had caved in like an egg-shell, an
 ruins nothing living or dead could be discovered. Only a stench and a tarry stickiness. The
 Elmer Fryes had been erased from Dunwich.
 
-### Part VIII.
+## Part VIII.
 
 In the meantime a quieter yet even more spiritually poignant phase of the horror had been blackly
 unwinding itself behind the closed door of a shelf-lined room in Arkham. The curious manuscript
@@ -976,7 +980,7 @@ and the next day was a whirlwind of preparation on the part of them all. Armitag
 be meddling with terrible powers, yet saw that there was no other way to annul the deeper and
 more malign meddling which others had done before him.
 
-### Part IX.
+## Part IX.
 
 Friday morning Armitage, Rice, and Morgan set out by motor for Dunwich, arriving at the village
 about one in the afternoon. The day was pleasant, but even in the brightest sunlight a kind
@@ -1184,7 +1188,7 @@ suppose they weren't? Voices began questioning Armitage about what he knew of th
 and no reply seemed quite to satisfy. Everyone seemed to feel himself in close proximity to
 phases of Nature and of being utterly forbidden, and wholly outside the sane experience of mankind.
 
-### Part X.
+## Part X.
 
 In the end the three men from Arkham--old, white-bearded Dr. Armitage, stocky, iron-grey
 Professor Rice, and lean, youngish Dr. Morgan--ascended the mountain alone. After much
@@ -1365,5 +1369,4 @@ of the outsideness in it. You needn't ask how Wilbur called it out of the air.
 He didn't call it out. It was his twin brother, but it looked more like the father
 than he did."*
 
-\clearpage
-\pagebreak
+

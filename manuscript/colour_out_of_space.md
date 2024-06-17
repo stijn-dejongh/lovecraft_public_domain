@@ -1,4 +1,4 @@
-## The Colour out of Space (1927)
+# The Colour out of Space (1927)
 
 West of Arkham the hills rise wild, and there are valleys with deep woods that no axe has ever
 cut. There are dark narrow glens where the trees slope fantastically, and where thin brooklets
@@ -842,5 +842,4 @@ tain't no use. . . . "* Ammi is such a good old man--when the reservoir gang get
 him. I would hate to think of him as the grey, twisted, brittle monstrosity which persists more and
 more in troubling my sleep.  
 
-\clearpage
-\pagebreak
+

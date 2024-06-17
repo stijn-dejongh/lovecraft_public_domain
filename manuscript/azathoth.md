@@ -1,4 +1,4 @@
-## Azathoth (1922)
+# Azathoth (1922)
 
 When age fell upon the world, and wonder went out of the minds of men; when grey cities reared
 to smoky skies tall towers grim and ugly, in whose shadow none might dream of the sun or of
@@ -32,5 +32,4 @@ of far spheres bare him gently to join the dreams for which he longed; the dream
 lost. And in the course of many cycles they tenderly left him sleeping on a green sunrise shore;
 a green shore fragrant with lotus-blossoms and starred by red camalotes.  
 
-\clearpage
-\pagebreak
+

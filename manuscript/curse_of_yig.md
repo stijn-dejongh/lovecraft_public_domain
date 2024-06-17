@@ -563,5 +563,4 @@ McNeill spoke gravely.
 *"That is what was born to her three-quarters of a year afterward.
 There were three more of them--two were even worse--but this is the only one that lived."*  
 
-\clearpage
-\pagebreak
+

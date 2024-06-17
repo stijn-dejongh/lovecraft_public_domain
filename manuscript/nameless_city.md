@@ -1,4 +1,4 @@
-## The Nameless City (1921)
+# The Nameless City (1921)
 
 When I drew nigh the nameless city I knew it was accursed. I was travelling
 in a parched and terrible valley under the moon, and afar I saw it protruding uncannily above
@@ -360,5 +360,4 @@ earth's bowels; for behind the last of the creatures the great brazen door clang
 with a deafening peal of metallic music whose reverberations swelled out to the distant world
 to hail the rising sun as Memnon hails it from the banks of the Nile.  
 
-\clearpage
-\pagebreak
+

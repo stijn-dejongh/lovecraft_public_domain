@@ -1,4 +1,4 @@
-## History of the Necronomicon (1927)
+# History of the Necronomicon (1927)
 
 > Original title Al Azif--azif being the word used by Arabs to designate that nocturnal
 > sound (made by insects) suppos'd to be the howling of daemons.
@@ -46,7 +46,7 @@ consequences. It was from rumours of this book (of which relatively few of the g
 know) that R.W. Chambers is said to have derived the idea of his early novel The King in
 Yellow.
 
-### Chronology      
+## Chronology      
 
 Al Azif written circa 730 A.D. at Damascus by Abdul Alhazred Tr. to Greek 950 A.D. as
 Necronomicon by Theodorus Philetas Burnt by Patriarch Michael 1050 (i.e., Greek text).
@@ -54,5 +54,4 @@ Arabic text now lost. Olaus translates Gr. to Latin 1228 1232 Latin ed. (and Gr.
 Pope Gregory IX 14... Black-letter printed edition (Germany)  15... Gr. text printed in
 Italy 16... Spanish reprint of Latin text  
 
-\clearpage
-\pagebreak
+

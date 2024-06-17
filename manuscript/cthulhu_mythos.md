@@ -1,4 +1,12 @@
+{mainmatter}
+
+{class: part}
 # The Cthulhu Mythos
+
+{width: 40%, align: middle}
+![](cthulhu-drawing.png)
+
+{pagebreak}
 
 From “Dagon” to “The Call of Cthulhu” to “The Haunter of the Dark,” each story connects to the ancient cosmic entities known as the Great Old
 Ones, buried in a deep sleep beneath the earth and incomprehensible to mankind. For the few mortals who dare to glimpse this unknowable world, the
@@ -11,10 +19,7 @@ other deities and creatures, such as Nyarlathotep, Yog-Sothoth, and Azathoth, as
 beings. The stories are known for their themes of forbidden knowledge, the insignificance of humanity in the face of vast, incomprehensible forces,
 and the fragility of sanity.
 
-
-{float: inside, width: 40%}
-![rendition of Chtulhu, the great old one](cthulhu-drawing.png)
-
+{full: false, sample: false}
 ## List of stories in the Cthulhu Mythos
 
 * Dagon
@@ -40,6 +45,3 @@ and the fragility of sanity.
 * The Tree on the Hill
 * The Shadow out of Time
 * The Haunter of the Dark
-
-\clearpage
-\pagebreak

@@ -1,4 +1,4 @@
-## The Festival (1923)
+# The Festival (1923)
 
 > "Efficiunt Daemones, ut quae non sunt, sic tamen quasi sint, conspicienda hominibus exhibeant."
 >
@@ -258,5 +258,4 @@ horrid life springs, and the dull scavengers of earth wax crafty to vex it and s
 to plague it. Great holes secretly are digged where earth's pores ought to suffice, and
 things have learnt to walk that ought to crawl. "  
 
-\clearpage
-\pagebreak
+

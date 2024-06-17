@@ -1,6 +1,6 @@
-## The Hound (1922)
+# The Hound (1922)
 
-### I.
+## I.
 
 In my tortured ears there sounds unceasingly a nightmare whirring and flapping, and a faint,
 distant baying as of some gigantic hound. It is not dream--it is not, I fear, even madness--for
@@ -114,7 +114,7 @@ next day away from Holland to our home, we thought we heard the faint distant ba
 gigantic hound in the background. But the autumn wind moaned sad and wan, and we could not be
 sure.
 
-### II.
+## II.
 
 Less than a week after our return to England, strange things began to happen.
 We lived as recluses; devoid of friends, alone, and without servants in a few rooms of an ancient
@@ -227,5 +227,4 @@ dead, fleshless monstrosity grows louder and louder, and the stealthy whirring a
 of those accursed web-wings circles closer and closer, I shall seek with my revolver the oblivion
 which is my only refuge from the unnamed and unnamable.  
 
-\clearpage
-\pagebreak
+

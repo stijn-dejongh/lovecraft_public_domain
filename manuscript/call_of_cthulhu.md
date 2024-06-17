@@ -1,4 +1,4 @@
-## The Call of Cthulhu (1928)
+# The Call of Cthulhu (1928)
 
 > (Found Among the Papers of the Late Francis Wayland Thurston, of Boston)
 >
@@ -10,7 +10,7 @@
 >
 > --Algernon Blackwood.
 
-### I. The Horror in Clay.
+## I. The Horror in Clay.
 
 The most merciful thing in the world, I think, is the inability of the human mind to correlate
 all its contents. We live on a placid island of ignorance in the midst of black seas of infinity,
@@ -223,7 +223,7 @@ of cuttings, all told; and I can at this date scarcely envisage the callous rati
 which I set them aside. But I was then convinced that young Wilcox had known of the older matters
 mentioned by the professor.
 
-### II. The Tale of Inspector Legrasse.
+## II. The Tale of Inspector Legrasse.
 
 The older matters which had made the sculptor's dream and bas-relief so significant to
 my uncle formed the subject of the second half of his long manuscript. Once before, it appears,
@@ -583,7 +583,7 @@ uncle after encountering the sculptor's data have come to sinister ears? I think
 Angell died because he knew too much, or because he was likely to learn too much. Whether I
 shall go as he did remains to be seen, for I have learned much now.
 
-### III.    The Madness from the Sea.      
+## III. The Madness from the Sea.      
 
 If heaven ever wishes to grant me a boon, it will be a total effacing of the results of a mere
 chance which fixed my eye on a certain stray piece of shelf-paper. It was nothing on which I
@@ -898,5 +898,4 @@ and dreams in the deep, and decay spreads over the tottering cities of men. A ti
 I must not and cannot think! Let me pray that, if I do not survive this manuscript, my executors
 may put caution before audacity and see that it meets no other eye.  
 
-\clearpage
-\pagebreak
+
