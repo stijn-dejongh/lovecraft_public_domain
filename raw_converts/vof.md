@@ -187,7 +187,7 @@ nameless beasts as had never a Phrygian priest or Campanian grandam whispered of
 furtive tales. And above the nighted screaming of men and horses that d&aelig;monic drumming rose
 to louder pitch, whilst an ice-cold wind of shocking sentience and deliberateness swept down from
 those forbidden heights and coiled about each man separately, till all the cohort was struggling
-and screaming in the dark, as if acting out the fate of Laoco&ouml;n and his sons. Only old
+and screaming in the dark, as if acting out the fate of Laocoön and his sons. Only old
 Scribonius Libo seemed resigned. He uttered words amidst the screaming, and they echo still in my
 ears.    "Malitia vetus--malitia vetus est . . . venit . . .
 tandem venit . . . "    

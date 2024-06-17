@@ -11,3 +11,5 @@ colour_out_of_space.md
 the_history_of_necronomicon.md
 curse_of_yig.md
 dunwich_horror.md
+whisperer_in_darkness.md
+the_mound.md

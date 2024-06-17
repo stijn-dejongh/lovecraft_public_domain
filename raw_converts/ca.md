@@ -137,7 +137,7 @@ involving scenes and processes not welcomed by elderly and conservative Galens.
   As the weeks passed, I observed with regret that my new friend was indeed slowly
 but unmistakably losing ground physically, as Mrs. Herrero had suggested. The livid aspect of
 his countenance was intensified, his voice became more hollow and indistinct, his muscular motions
-were less perfectly co&ouml;rdinated, and his mind and will displayed less resilience and initiative.
+were less perfectly coördinated, and his mind and will displayed less resilience and initiative.
 Of this sad change he seemed by no means unaware, and little by little his expression and conversation
 both took on a gruesome irony which restored in me something of the subtle repulsion I had originally
 felt.  

@@ -762,7 +762,7 @@ paralysis held him immobile and half-conscious, with wild images racing phantasm
 his helpless imagination. There   was   a splashing. There   was   a padding or shuffling,
 as of great wet paws on a solid surface. Something   was   approaching. Into his nostrils,
 from the cracks in that nightmare plank door, poured a noisome animal stench like and yet unlike
-that of the mammal cages at the zo&ouml;logical gardens in Regent's Park.  
+that of the mammal cages at the zoölogical gardens in Regent's Park.  
 
   He did not know now whether Rogers was talking or not. Everything real had
 faded away, and he was a statue obsessed with dreams and hallucinations so unnatural that they

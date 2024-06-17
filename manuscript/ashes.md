@@ -90,7 +90,7 @@ she wore.
 
 "Day before yesterday Van Allister invited us into his workshop.
 
-"&lsquo;At last I have achieved success,' he announced, holding up
+'At last I have achieved success,' he announced, holding up
 for our inspection a small bottle containing a colorless liquid. &lsquo;I have here what will
 rank as the greatest chemical discovery ever known. I am going to prove its efficacy right before
 your eyes. Bruce, will you bring me one of the rabbits, please?'
@@ -104,7 +104,7 @@ we drew nearer to watch the experiment.
 
 "He uncorked the bottle, and poised it above the rabbit's prison.
 
-"&lsquo;Now to prove whether my weeks of effort have resulted in success
+'Now to prove whether my weeks of effort have resulted in success
 or failure!'
 
 "Slowly, methodically, he emptied the contents of the bottle into the
@@ -118,7 +118,7 @@ terrified rabbit, there was now nothing but a pile of soft, white ashes!
 His face radiated ghoulish glee and his eyes were alight with a weird, insane gleam. When he
 spoke, his voice took on a tone of mastery.
 
-"&lsquo;Bruce-and you, too, Miss Purdy-it has been your privilege
+'Bruce-and you, too, Miss Purdy-it has been your privilege
 to witness the first successful trial of a preparation that will revolutionize the world. It
 will instantaneously reduce to a fine ash anything with which it comes into contact, except
 glass! Just think what that means. An army equipped with glass bombs filled with my compound

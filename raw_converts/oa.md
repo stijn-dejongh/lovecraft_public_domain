@@ -739,7 +739,7 @@ scroll "-- "He can tell where to find it. " Only the healing greyness of the
 dawn brought us back to sanity; a sanity which made of that glimpse of mine a closed topic--something
 not to be explained or thought of again.  
 
-  We gave out only partial reports to the press, and later on co&ouml;perated
+  We gave out only partial reports to the press, and later on coöperated
 with the papers in making other suppressions. For example, when the autopsy shewed the brain
 and several other internal organs of the petrified Fijian to be fresh and unpetrified, though
 hermetically sealed by the petrification of the exterior flesh--an anomaly about which physicians

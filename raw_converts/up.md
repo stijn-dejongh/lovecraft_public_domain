@@ -119,7 +119,7 @@ of Re and Amen, Isis and Osiris.
   The next morning we visited the pyramids, riding out in a Victoria across the
 great Nile bridge with its bronze lions, the island of Ghizereh with its massive lebbakh trees,
 and the smaller English bridge to the western shore. Down the shore road we drove, between great
-rows of lebbakhs and past the vast Zo&ouml;logical Gardens to the suburb of Gizeh, where a new
+rows of lebbakhs and past the vast Zoölogical Gardens to the suburb of Gizeh, where a new
 bridge to Cairo proper has since been built. Then, turning inland along the Sharia-el-Haram,
 we crossed a region of glassy canals and shabby native villages till before us loomed the objects
 of our quest, cleaving the mists of dawn and forming inverted replicas in the roadside pools.

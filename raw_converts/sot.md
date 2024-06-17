@@ -1080,7 +1080,7 @@ about it.
 
   In view of your previous diligent work in tracking down the legends and everything
 connected with them, I cannot doubt but that you will want to lead an expedition to the desert
-and make some archaeological excavations. Both Dr. Boyle and I are prepared to co&ouml;perate
+and make some archaeological excavations. Both Dr. Boyle and I are prepared to coöperate
 in such work if you--or organisations known to you--can furnish the funds. I can get
 together a dozen miners for the heavy digging--the blacks would be of no use, for I've
 found that they have an almost maniacal fear of this particular spot. Boyle and I are saying

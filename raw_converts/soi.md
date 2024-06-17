@@ -26,7 +26,7 @@ only beginning to shew signs of a sluggishly revived existence.
   Complaints from many liberal organisations were met with long confidential
 discussions, and representatives were taken on trips to certain camps and prisons. As a result,
 these societies became surprisingly passive and reticent. Newspaper men were harder to manage,
-but seemed largely to co&ouml;perate with the government in the end. Only one paper--a
+but seemed largely to coöperate with the government in the end. Only one paper--a
 tabloid always discounted because of its wild policy--mentioned the deep-diving submarine
 that discharged torpedoes downward in the marine abyss just beyond Devil Reef. That item, gathered
 by chance in a haunt of sailors, seemed indeed rather far-fetched; since the low, black reef
@@ -1418,7 +1418,7 @@ doors of the rooms; the locks and bolts of which I would have to force violently
 as a battering-ram whenever they were set against me. This, I thought, would be possible owing
 to the rickety nature of the house and its fixtures; but I realised I could not do it noiselessly.
 I would have to count on sheer speed, and the chance of getting to a window before any hostile
-forces became co&ouml;rdinated enough to open the right door toward me with a pass-key. My
+forces became coördinated enough to open the right door toward me with a pass-key. My
 own outer door I reinforced by pushing the bureau against it--little by little, in order
 to make a minimum of sound.  
 

@@ -1119,7 +1119,7 @@ entities; and we agreed that the suggestion must have worked potently upon the s
 of Lake's overwrought party. Our own first sight of the actual buried entities formed
 a horrible moment, and sent the imaginations of Pabodie and myself back to some of the shocking
 primal myths we had read and heard. We all agreed that the mere sight and continued presence
-of the things must have co&ouml;perated with the oppressive polar solitude and daemon mountain
+of the things must have coöperated with the oppressive polar solitude and daemon mountain
 wind in driving Lake's party mad.  
 
   For madness--centring in Gedney as the only possible surviving agent--was
@@ -1829,7 +1829,7 @@ the pseudo-feet. Occasionally they accomplished long swoops with the auxiliary u
 more sets of their fan-like folding wings. On land they locally used the pseudo-feet, but now
 and then flew to great heights or over long distances with their wings. The many slender tentacles
 into which the crinoid arms branched were infinitely delicate, flexible, strong, and accurate
-in muscular-nervous co&ouml;rdination; ensuring the utmost skill and dexterity in all artistic
+in muscular-nervous coördination; ensuring the utmost skill and dexterity in all artistic
 and other manual operations.  
 
   The toughness of the things was almost incredible. Even the terrific pressures

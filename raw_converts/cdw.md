@@ -819,7 +819,7 @@ inform the Governor of the Colony, Joseph Wanton of Newport, before taking actio
   The mission of Capt. Mathewson prospered beyond his highest expectations; for
 whilst he found one or two of the chosen confidants somewhat sceptical of the possible ghastly side
 of Weeden's tale, there was not one who did not think it necessary to take some sort of
-secret and co&ouml;rdinated action. Curwen, it was clear, formed a vague potential menace to the
+secret and coördinated action. Curwen, it was clear, formed a vague potential menace to the
 welfare of the town and Colony; and must be eliminated at any cost. Late in December 1770 a group
 of eminent townsmen met at the home of Stephen Hopkins and debated tentative measures.
 Weeden's notes, which he had given to Capt. Mathewson, were carefully read; and he and Smith
@@ -875,7 +875,7 @@ Lane and opened a grave. They found it vacant, precisely as they had expected.
 
   Meanwhile arrangements had been made with the post riders to intercept Joseph
 Curwen's mail, and shortly before the incident of the naked body there was found a letter
-from one Jedediah Orne of Salem which made the co&ouml;perating citizens think deeply. Parts of it,
+from one Jedediah Orne of Salem which made the coöperating citizens think deeply. Parts of it,
 copied and preserved in the private archives of the Smith family where Charles Ward found it, ran
 as follows:  
 
@@ -2987,7 +2987,7 @@ terrible hints of obscure cosmic relationships and unnamable realities behind th
 illusions of common vision. In that second look Willett saw such an outline or entity, for during
 the next few instants he was undoubtedly as stark mad as any inmate of Dr. Waite's private
 hospital. He dropped the electric torch from a hand drained of muscular power or nervous
-co&ouml;rdination, nor heeded the sound of crunching teeth which told of its fate at the bottom of
+coördination, nor heeded the sound of crunching teeth which told of its fate at the bottom of
 the pit. He screamed and screamed and screamed in a voice whose falsetto panic no acquaintance of
 his would ever have recognised; and though he could not rise to his feet he crawled and rolled
 desperately away over the damp pavement where dozens of Tartarean wells poured forth their
