@@ -1,7 +1,35 @@
 {class: part}
 # Background information
 
-# The Lovecraft Universe
+# Thematic and stylistic groupings
+
+H.P. Lovecraft's works can be categorized into several thematic and stylistic groups. While _"The Cthulhu Mythos"_ and _"The Dream Cycle"_ are the 
+most
+famous, there are other categories that encompass his diverse range of stories:
+
+* **The Cthulhu Mythos:** This includes stories featuring Lovecraft's pantheon of ancient, cosmic deities and the lore surrounding them. Key
+  stories include _"The Call of Cthulhu"_, _"At the Mountains of Madness"_, and _"The Shadow over Innsmouth"_.
+* **The Dream Cycle (or Dreamlands):** These stories are set in a fantastical, dream-like realm. Notable works include _"The Dream-Quest of Unknown
+  Kadath"_, _"The Cats of Ulthar"_, and _"The Silver Key"_.
+* **The Arkham Cycle:** Stories set in the fictional New England towns of Arkham, Dunwich, Innsmouth, and Kingsport. These towns often overlap with
+  the Cthulhu Mythos. Important stories include _"The Dunwich Horror"_, _"The Colour Out of Space"_, and _"The Shadow over Innsmouth"_.
+* **The Miskatonic University Stories:** These stories revolve around the fictional Miskatonic University, which appears in many of Lovecraft's
+  works, often as a repository of forbidden knowledge and arcane books like the Necronomicon. Stories include _"Herbert West – Reanimator"_, _"The
+  Dunwich Horror"_, and _"The Whisperer in Darkness"_
+* **The Providence Stories:** Stories inspired by Lovecraft's hometown of Providence, Rhode Island, and often featuring antiquarian themes.
+  Examples are _"The Case of Charles Dexter Ward"_ and _"The Haunter of the Dark"_.
+* **Macabre and Gothic Tales:** These stories emphasize horror and the macabre without necessarily fitting into the larger mythos or dream cycles.
+  Examples include _"The Outsider"_, _"The Rats in the Walls"_, and _"The Picture in the House"_.
+* **Collaborations and Ghostwritten Stories:** Lovecraft ghostwrote or revised stories for other authors, often incorporating his own mythos
+  elements. Notable examples are _"The Mound"_ (with Zealia Bishop), _"The Diary of Alonzo Typer"_ (with William Lumley), and _"The Horror in the
+  Museum"_ (with Hazel Heald).
+* **Poetry and Non-Fiction:** Though less known, Lovecraft wrote a significant amount of poetry and non-fiction, including essays on writing,
+  travelogues, and letters that provide insight into his thoughts and influences.
+
+These categories help organize Lovecraft's extensive body of work and highlight the recurring themes and settings that define his unique
+contribution to the genre of weird fiction.
+
+# The Lovecraft Universe: Timeline and Key Events
 
 The timeline of Lovecraft's universe is a vast and complex chronology that spans eons, detailing the rise and fall of cosmic entities and ancient
 civilizations. The universe is populated by a pantheon of ancient, powerful, and malevolent entities known as the Great Old Ones. These beings

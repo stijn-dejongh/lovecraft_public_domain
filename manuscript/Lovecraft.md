@@ -17,3 +17,4 @@ including "The Call of Cthulhu", At the Mountains of Madness, The Shadow over In
 for 11 years until his death from intestinal cancer at the age of 46.
 
 > Retrieved from [Wikipedia](https://en.wikipedia.org/wiki/H._P._Lovecraft)
+
