@@ -31,4 +31,6 @@ mountains_of_madness.md
 the_history_of_necronomicon.md
 dream_lands.md
 unknown_kadath.md
+lovecraft_extended_mythos.md
+ashes.md
 Appendix.md
