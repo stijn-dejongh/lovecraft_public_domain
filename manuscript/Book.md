@@ -43,6 +43,7 @@ strange_high_house.md
 silver_key.md
 unknown_kadath.md
 the_gates_of_the_silver_key.md
+beyond_walls_of_sleep.md
 lovecraft_extended_mythos.md
 ashes.md
 Appendix.md
