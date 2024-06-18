@@ -40,7 +40,9 @@ quest_of_iranon.md
 the_other_gods.md
 hypnos.md
 strange_high_house.md
+silver_key.md
 unknown_kadath.md
+the_gates_of_the_silver_key.md
 lovecraft_extended_mythos.md
 ashes.md
 Appendix.md
