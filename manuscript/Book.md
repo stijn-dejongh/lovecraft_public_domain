@@ -35,6 +35,11 @@ the_doom_that_came_to_sarnath.md
 the_white_ship.md
 cats_of_ulthar.md
 celephais.md
+ex_oblivione.md
+quest_of_iranon.md
+the_other_gods.md
+hypnos.md
+strange_high_house.md
 unknown_kadath.md
 lovecraft_extended_mythos.md
 ashes.md
