@@ -440,7 +440,7 @@ where the mummy was found had once lain under a vast building . . . somehow I
 was vaguely glad that the volcanic island had sunk before that massive suggestion of a trap-door
 could be opened.
 
-IV.
+## IV.
 
 What I read in the Black Book formed a fiendishly apt preparation for
 the news items and closer events which began to force themselves upon me in the spring of 1932.
@@ -607,7 +607,7 @@ we knew the core of the trouble must lurk. We felt a bit more steadied after flo
 with light from the central switches in the corridor, and finally crept reluctantly up the curving
 staircase and through a lofty archway to the hall of mummies.
 
-V.
+## V.
 
 It is from this point onward that reports of the hideous case have been censored--for
 we have all agreed that no good can be accomplished by a public knowledge of those terrestrial

@@ -25,7 +25,7 @@ fantasy could spawn, moulded with devilish skill, and coloured in a horribly lif
 Some were the figures of well-known myth--gorgons, chimaeras, dragons,
 cyclops, and all their shuddersome congeners. Others were drawn from darker and more furtively
 whispered cycles of subterranean legend--black, formless Tsathoggua, many-tentacled Cthulhu,
-proboscidian Chaugnar Faugn, and other rumoured blasphemies from forbidden books like the 
+proboscidian Chaugnar Faugn, and other rumoured blasphemies from forbidden books like the
 Necronomicon, the Book of Eibon, or the Unaussprechlichen Kulten of von Junzt.
 But the worst were wholly original with Rogers, and represented shapes which no tale of antiquity
 had ever dared to suggest. Several were hideous parodies on forms of organic life we know, while
@@ -269,7 +269,7 @@ showman paused and rose, crossing the room to the piece of burlap at which he ha
 often. Bending down, he took hold of one corner as he spoke again.
 
 _"You've laughed enough at my work--now it's time for you
-to get some facts. Orabona tells me you heard a dog screaming around here this afternoon. 
+to get some facts. Orabona tells me you heard a dog screaming around here this afternoon.
 Do you know what that meant?"_
 
 Jones started. For all his curiosity he would have been glad to get out without
@@ -389,7 +389,7 @@ This time it was Jones who was struck with an idea. He continued in a tone of co
 
 _"See here, Rogers--I've just asked you what it would prove if
 I stayed, when we both know. It would prove that your effigies are just effigies, and that you
-oughtn't to let your imagination go the way it's been going lately. Suppose I do 
+oughtn't to let your imagination go the way it's been going lately. Suppose I do
 stay. If I stick it out till morning, will you agree to take a new view of things--go on
 a vacation for three months or so and let Orabona destroy that new thing of yours? Come, now--isn't
 that fair?"_
@@ -401,7 +401,7 @@ the upper hand. His voice held a choking quality as he replied.
 _"Fair enough! If you do stick it out, I'll take your advice.
 But stick you must. We'll go out for dinner and come back. I'll lock you in the display
 room and go home. In the morning I'll come down ahead of Orabona--he comes half an
-hour before the rest--and see how you are. But don't try it unless you are very 
+hour before the rest--and see how you are. But don't try it unless you are very
 sure of your scepticism. Others have backed out--you have that chance. And I suppose a pounding
 on the outer door would always bring a constable. You may not like it so well after a while--you'll
 be in the same building, though not in the same room with It."_
@@ -767,7 +767,7 @@ The stench was horrible. And now the assault on that door from the inside was a 
 pounding like the strokes of a battering-ram. There was an ominous cracking--a splintering--a
 welling foetor--a falling plank-- a black paw ending in a crab-like claw. . . .
 
-_"Help! Help! God help me! . . . Aaaaaaa! . . ."_ 
+_"Help! Help! God help me! . . . Aaaaaaa! . . ."_
 
 With intense effort Jones is today able to recall a sudden bursting of his
 fear-paralysis into the liberation of frenzied automatic flight. What he evidently did must
@@ -820,7 +820,7 @@ _"Oh, yes, Mr. Jones--the twenty-eighth of last month. I remember it
 for many reasons. In the morning--before Mr. Rogers got here, you understand--I found
 the workroom in quite a mess. There was a great deal of--cleaning up--to do. There had
 been--late work, you see. Important new specimen given its secondary baking process. I took
-complete charge when I came."_ 
+complete charge when I came."_
 
 _"It was a hard specimen to prepare--but of course Mr. Rogers has taught
 me a great deal. He is, as you know, a very great artist. When he came he helped me complete
