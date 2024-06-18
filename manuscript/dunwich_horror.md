@@ -6,7 +6,7 @@ Harpies--may reproduce themselves in the brain of superstition-- but they were t
 before. They are transcripts, types--the archetypes are in us, and eternal. How else
 should the recital of that which we know in a waking sense to be false come to affect us at
 all? Is it that we naturally conceive terror from such objects, considered in their capacity
-of being able to inflict upon us bodily injury? O, least of all!   These terrors are of older
+of being able to inflict upon us bodily injury? O, least of all!  These terrors are of older
 standing. They date beyond body --or without the body, they would have been the
 same. . . . That the kind of fear here treated is purely spiritual--that
 it is strong in proportion as it is objectless on earth, that it predominates in the period
@@ -205,7 +205,7 @@ the disarrangement or threatened disarrangement of which always seemed to fill h
 and alarm. His contrast with his squalid mother and grandfather in this respect was thought
 very notable until the horror of 1928 suggested the most valid of reasons.
 
-The next January gossips were mildly interested in the fact that  "Lavinny's
+The next January gossips were mildly interested in the fact that "Lavinny's
 black brat " had commenced to talk, and at the age of only eleven months. His speech was
 somewhat remarkable both because of its difference from the ordinary accents of the region,
 and because it displayed a freedom from infantile lisping of which many children of three or
@@ -220,7 +220,7 @@ He was, however, exceedingly ugly despite his appearance of brilliancy; there be
 almost goatish or animalistic about his thick lips, large-pored, yellowish skin, coarse crinkly
 hair, and oddly elongated ears. He was soon disliked even more decidedly than his mother and
 grandsire, and all conjectures about him were spiced with references to the bygone magic of
-Old Whateley, and how the hills once shook when he shrieked the dreadful name of Yog-Sothoth  
+Old Whateley, and how the hills once shook when he shrieked the dreadful name of Yog-Sothoth 
 in the midst of a circle of stones with a great book open in his arms before him. Dogs abhorred
 the boy, and he was always obliged to take various defensive measures against their barking
 menace.
@@ -245,7 +245,7 @@ in apparently careful order, all the rotting ancient books and parts of books wh
 own day had been heaped promiscuously in odd corners of the various rooms.
 
 "I made some use of 'em, " he would say as he tried to mend
-a torn black-letter page with paste prepared on the rusty kitchen stove,  "but the boy's
+a torn black-letter page with paste prepared on the rusty kitchen stove, "but the boy's
 fitten to make better use of 'em. He'd orter hev 'em as well sot as he kin,
 for they're goin' to be all of his larnin'. "
 
@@ -360,9 +360,9 @@ of the region he had entered so reluctantly in response to the urgent call.
 Toward one o'clock Old Whateley gained consciousness, and interrupted
 his wheezing to choke out a few words to his grandson.
 
-"More space, Willy, more space soon. Yew grows--an' that  
+"More space, Willy, more space soon. Yew grows--an' that 
 grows faster. It'll be ready to sarve ye soon, boy. Open up the gates to Yog-Sothoth with
-the long chant that ye'll find on page 751 of the complete edition, an'   
+the long chant that ye'll find on page 751 of the complete edition, an'  
 then put a match to the prison. Fire from airth can't burn it nohaow. "
 
 He was obviously quite mad. After a pause, during which the flock of whippoorwills
@@ -397,7 +397,7 @@ a growing contempt, finally forbidding her to go to the hills with him on May-Ev
 and in 1926 the poor creature complained to Mamie Bishop of being afraid of him.
 
 "They's more abaout him as I knows than I kin tell ye, Mamie, "
-she said,  "an' naowadays they's more nor what I know myself. I vaow afur Gawd,
+she said, "an' naowadays they's more nor what I know myself. I vaow afur Gawd,
 I dun't know what he wants nor what he's a-tryin' to dew. "
 
 That Hallowe'en the hill noises sounded louder than ever, and fire burned
@@ -451,8 +451,8 @@ the peace and sanity of the world.
 it, *"that man is either the oldest or the last of earth's masters, or that the common
 bulk of life and substance walks alone. The Old Ones were, the Old Ones are, and the Old Ones
 shall be. Not in the spaces we know, but between them, They walk serene and primal, undimensioned
-and to us unseen. Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth  
-is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth.  
+and to us unseen. Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth 
+is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth. 
 He knows where the Old Ones broke through of old, and where They shall break through again.
 He knows where They have trod earth's fields, and where They still tread them, and why
 no one can behold Them as They tread. By Their smell can men sometimes know Them near, but of
@@ -465,7 +465,7 @@ They bend the forest and crush the city, yet may not forest or city behold the h
 Kadath in the cold waste hath known Them, and what man knows Kadath? The ice desert of the South
 and the sunken isles of Ocean hold stones whereon Their seal is engraven, but who hath seen
 the deep frozen city or the sealed tower long garlanded with seaweed and barnacles? Great Cthulhu
-is Their cousin, yet can he spy Them only dimly. Iä! Shub-Niggurath!   As a foulness
+is Their cousin, yet can he spy Them only dimly. Iä! Shub-Niggurath!  As a foulness
 shall ye know Them. Their hand is at your throats, yet ye see Them not; and Their habitation
 is even one with your guarded threshold. Yog-Sothoth is the key to the gate, whereby
 the spheres meet. Man rules now where They ruled once; They shall soon rule where man rules
@@ -507,7 +507,7 @@ foetid and horrible through New England's glens, and brooded obscenely on the mo
 Of this he had long felt certain. Now he seemed to sense the close presence of some terrible
 part of the intruding horror, and to glimpse a hellish advance in the black dominion of the
 ancient and once passive nightmare. He locked away the Necronomicon with a shudder of
-disgust, but the room still reeked with an unholy and unidentifiable stench.  "As a foulness
+disgust, but the room still reeked with an unholy and unidentifiable stench. "As a foulness
 shall ye know them, " he quoted. Yes--the odour was the same as that which had sickened
 him at the Whateley farmhouse less than three years before. He thought of Wilbur, goatish and
 ominous, once again, and laughed mockingly at the village rumours of his parentage.
@@ -524,7 +524,7 @@ During the ensuing weeks Dr. Armitage set about to collect all possible data
 on Wilbur Whateley and the formless presences around Dunwich. He got in communication with Dr.
 Houghton of Aylesbury, who had attended Old Whateley in his last illness, and found much to
 ponder over in the grandfather's last words as quoted by the physician. A visit to Dunwich
-Village failed to bring out much that was new; but a close survey of the Necronomicon,  
+Village failed to bring out much that was new; but a close survey of the Necronomicon, 
 in those parts which Wilbur had sought so avidly, seemed to supply new and terrible clues to
 the nature, methods, and desires of the strange evil so vaguely threatening this planet. Talks
 with several students of archaic lore in Boston, and letters to many others elsewhere, gave
@@ -537,7 +537,7 @@ human world as Wilbur Whateley.
 
 The Dunwich horror itself came between Lammas and the equinox in 1928, and Dr. Armitage was
 among those who witnessed its monstrous prologue. He had heard, meanwhile, of Whateley's
-grotesque trip to Cambridge, and of his frantic efforts to borrow or copy from the Necronomicon  
+grotesque trip to Cambridge, and of his frantic efforts to borrow or copy from the Necronomicon 
 at the Widener Library. Those efforts had been in vain, since Armitage had issued warnings of
 the keenest intensity to all librarians having charge of the dreaded volume. Wilbur had been
 shockingly nervous at Cambridge; anxious for the book, yet almost equally anxious to get home
@@ -612,8 +612,8 @@ to mumble without turning or raising its head. Dr. Armitage made no written reco
 but asserts confidently that nothing in English was uttered. At first the syllables defied all
 correlation with any speech of earth, but toward the last there came some disjointed fragments
 evidently taken from the Necronomicon, that monstrous blasphemy in quest of which the
-thing had perished. These fragments, as Armitage recalls them, ran something like    "N'gai,
-n'gha'ghaa, bugg-shoggog, y'hah; Yog-Sothoth, Yog-Sothoth. . . . "  
+thing had perished. These fragments, as Armitage recalls them, ran something like  "N'gai,
+n'gha'ghaa, bugg-shoggog, y'hah; Yog-Sothoth, Yog-Sothoth. . . . " 
 They trailed off into nothingness as the whippoorwills shrieked in rhythmical crescendoes of
 unholy anticipation.
 
@@ -677,8 +677,8 @@ gasps Luther tried to stammer out his tale to Mrs. Corey.
 suthin' ben thar! It smells like thunder, an' all the bushes an' little trees
 is pushed back from the rud like they'd a haouse ben moved along of it. An' that
 ain't the wust, nuther. They's prints in the rud, Mis' Corey--great
-raound prints as big as barrel-heads, all sunk daown deep like a elephant had ben along,   
-only they's a sight more nor four feet could make!   I looked at one or two afore I
+raound prints as big as barrel-heads, all sunk daown deep like a elephant had ben along,  
+only they's a sight more nor four feet could make!  I looked at one or two afore I
 run, an' I see every one was covered with lines spreadin' aout from one place, like
 as if big palm-leaf fans--twict or three times as big as any they is--hed of ben paounded
 daown into the rud. An' the smell was awful, like what it is araound Wizard Whateley's
@@ -693,7 +693,7 @@ had been up on the hill toward Whateley's, and had dashed back in terror after o
 at the place, and at the pasturage where Mr. Bishop's cows had been left out all night.
 
 "Yes, Mis' Corey"*, came Sally's tremulous voice over
-the party wire,  *"Cha'ncey he just come back a-postin', and couldn't
+the party wire, *"Cha'ncey he just come back a-postin', and couldn't
 haff talk fer bein' scairt! He says Ol' Whateley's haouse is all blowed up,
 with the timbers scattered raound like they'd ben dynamite inside; only the bottom floor
 ain't through, but is all covered with a kind o' tar-like stuff that smells awful
@@ -862,7 +862,7 @@ Dr. Armitage knew, from the repeated failures of his colleagues, that the riddle
 was a deep and complex one; and that no simple mode of solution could merit even a trial. All
 through late August he fortified himself with the massed lore of cryptography; drawing upon
 the fullest resources of his own library, and wading night after night amidst the arcana of
-Trithemius' Poligraphia, Giambattista Porta's De Furtivis Literarum Notis,  
+Trithemius' Poligraphia, Giambattista Porta's De Furtivis Literarum Notis, 
 De Vigenère's Traité des Chiffres, Falconer's Cryptomenysis
 Patefacta, Davys' and Thicknesse's eighteenth-century treatises, and such fairly
 modern authorities as Blair, von Marten, and Klüber's Kryptographik. He interspersed
@@ -885,7 +885,7 @@ that Armitage deciphered, an entry dated November 26, 1916, proved highly startl
 It was written, he remembered, by a child of three and a half who looked like a lad of twelve
 or thirteen.
 
-*"Today learned the Aklo for the Sabaoth"* it ran,  *"which
+*"Today learned the Aklo for the Sabaoth"* it ran, *"which
 did not like, it being answerable from the hill and not from the air. That upstairs more ahead
 of me than I had thought it would be, and is not like to have much earth brain. Shot Elam Hutchins'
 collie Jack when he went to bite me, and Elam says he would kill me if he dast. I guess he won't.
@@ -938,11 +938,11 @@ for the extirpation of the entire human race and all animal and vegetable life f
 by some terrible elder race of beings from another dimension. He would shout that the world
 was in danger, since the Elder Things wished to strip it and drag it away from the solar system
 and cosmos of matter into some other plane or phase of entity from which it had once fallen,
-vigintillions of aeons ago. At other times he would call for the dreaded Necronomicon  
+vigintillions of aeons ago. At other times he would call for the dreaded Necronomicon 
 and the Daemonolatreia of Remigius, in which he seemed hopeful of finding some formula
 to check the peril he conjured up.
 
-"Stop them, stop them! " he would shout.  "Those Whateleys
+"Stop them, stop them! " he would shout. "Those Whateleys
 meant to let them in, and the worst of all is left! Tell Rice and Morgan we must do something--it's
 a blind business, but I know how to make the powder. . . . It hasn't been
 fed since the second of August, when Wilbur came here to his death, and at that rate. . . . "
@@ -1053,7 +1053,7 @@ began sobbing out words, and the Arkham men started violently when those words d
 form.
 
 *"Oh, my Gawd, my Gawd"*, the voice choked out. *"It's
-a-goin' agin, an' this time by day!   It's aout--it's aout
+a-goin' agin, an' this time by day!  It's aout--it's aout
 an' a-movin' this very minute, an' only the Lord knows when it'll be
 on us all!"*
 
@@ -1232,7 +1232,7 @@ ropes pushed clost together . . . great bulgin' eyes all over it . . .
 ten or twenty maouths or trunks a-stickin' aout all along the sides, big as stovepipes,
 an' all a-tossin' an' openin' an' shuttin' . . .
 all grey, with kinder blue or purple rings . . . an' Gawd in heaven--that
-haff face on top! . . .   "*
+haff face on top! . . .  "*
 
 This final memory, whatever it was, proved too much for poor Curtis; and he
 collapsed completely before he could say more. Fred Farr and Will Hutchins carried him to the
@@ -1249,7 +1249,7 @@ it. One figure, he said, seemed to be raising its hands above its head at rhythm
 and as Sawyer mentioned the circumstance the crowd seemed to hear a faint, half-musical sound
 from the distance, as if a loud chant were accompanying the gestures. The weird silhouette on
 that remote peak must have been a spectacle of infinite grotesqueness and impressiveness, but
-no observer was in a mood for aesthetic appreciation.  "I guess he's sayin'
+no observer was in a mood for aesthetic appreciation. "I guess he's sayin'
 the spell, " whispered Wheeler as he snatched back the telescope. The whippoorwills were
 piping wildly, and in a singularly curious irregular rhythm quite unlike that of the visible
 ritual.
@@ -1277,14 +1277,14 @@ for the organs of man can yield no such acoustic perversions. Rather would one h
 came from the pit itself, had not their source been so unmistakably the altar-stone on the peak.
 It is almost erroneous to call them sounds at all, since so much of their ghastly, infra-bass
 timbre spoke to dim seats of consciousness and terror far subtler than the ear; yet one must
-do so, since their form was indisputably though vaguely that of half-articulate words.  
+do so, since their form was indisputably though vaguely that of half-articulate words. 
 They were loud--loud as the rumblings and the thunder above which they echoed--yet
 did they come from no visible being. And because imagination might suggest a conjectural source
 in the world of non-visible beings, the huddled crowd at the mountain's base huddled still
 closer, and winced as if in expectation of a blow.
 
 *"Ygnaiih . . . ygnaiih . . . thflthkh'ngha . . .
-Yog-Sothoth . . . "   rang the hideous croaking out of space.    "Y'bthnk . . .
+Yog-Sothoth . . . "  rang the hideous croaking out of space.  "Y'bthnk . . .
 h'ehye--n'grkdl'lh. . . . "*
 
 The speaking impulse seemed to falter here, as if some frightful psychic struggle
@@ -1319,7 +1319,7 @@ and seemed shaken by memories and reflections even more terrible than those whic
 the group of natives to a state of cowed quivering. In reply to a jumble of questions they only
 shook their heads and reaffirmed one vital fact.
 
-"The thing has gone forever, " Armitage said.  "It has been
+"The thing has gone forever, " Armitage said. "It has been
 split up into what it was originally made of, and can never exist again. It was an impossibility
 in a normal world. Only the least fraction was really matter in any sense we know. It was like
 its father--and most of it has gone back to him in some vague realm or dimension outside

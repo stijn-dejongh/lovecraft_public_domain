@@ -256,6 +256,6 @@ are all ashes. For it is of old rumour that the soul of the devil-bought hastes 
 charnel clay, but fats and instructs the very worm that gnaws; till out of corruption
 horrid life springs, and the dull scavengers of earth wax crafty to vex it and swell monstrous
 to plague it. Great holes secretly are digged where earth's pores ought to suffice, and
-things have learnt to walk that ought to crawl. "  
+things have learnt to walk that ought to crawl. " 
 
 

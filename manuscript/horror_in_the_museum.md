@@ -25,7 +25,7 @@ fantasy could spawn, moulded with devilish skill, and coloured in a horribly lif
 Some were the figures of well-known myth--gorgons, chimaeras, dragons,
 cyclops, and all their shuddersome congeners. Others were drawn from darker and more furtively
 whispered cycles of subterranean legend--black, formless Tsathoggua, many-tentacled Cthulhu,
-proboscidian Chaugnar Faugn, and other rumoured blasphemies from forbidden books like the  
+proboscidian Chaugnar Faugn, and other rumoured blasphemies from forbidden books like the 
 Necronomicon, the Book of Eibon, or the Unaussprechlichen Kulten of von Junzt.
 But the worst were wholly original with Rogers, and represented shapes which no tale of antiquity
 had ever dared to suggest. Several were hideous parodies on forms of organic life we know, while
@@ -269,7 +269,7 @@ showman paused and rose, crossing the room to the piece of burlap at which he ha
 often. Bending down, he took hold of one corner as he spoke again.
 
 _"You've laughed enough at my work--now it's time for you
-to get some facts. Orabona tells me you heard a dog screaming around here this afternoon.  
+to get some facts. Orabona tells me you heard a dog screaming around here this afternoon. 
 Do you know what that meant?"_
 
 Jones started. For all his curiosity he would have been glad to get out without
@@ -398,7 +398,7 @@ The expression on the showman's face was hard to read. It was obvious
 that he was thinking quickly, and that of sundry conflicting emotions, malign triumph was getting
 the upper hand. His voice held a choking quality as he replied.
 
-_"Fair enough!  If you do stick it out, I'll take your advice.
+_"Fair enough! If you do stick it out, I'll take your advice.
 But stick you must. We'll go out for dinner and come back. I'll lock you in the display
 room and go home. In the morning I'll come down ahead of Orabona--he comes half an
 hour before the rest--and see how you are. But don't try it unless you are very 
@@ -715,7 +715,7 @@ on one side as if listening intently for something. All at once a smile of devil
 overspread his face, and he began speaking intelligibly again--this time in a hoarse whisper
 contrasting oddly with his former stentorian howling.
 
-_"Listen, fool! Listen hard!  It has heard me, and is coming. Can't
+_"Listen, fool! Listen hard! It has heard me, and is coming. Can't
 you hear It splashing out of Its tank down there at the end of the runway? I dug it deep, because
 there was nothing too good for It. It is amphibious, you know--you saw the gills in the
 picture. It came to the earth from lead-grey Yuggoth, where the cities are under the warm deep
@@ -767,7 +767,7 @@ The stench was horrible. And now the assault on that door from the inside was a 
 pounding like the strokes of a battering-ram. There was an ominous cracking--a splintering--a
 welling foetor--a falling plank-- a black paw ending in a crab-like claw. . . .
 
-_"Help! Help! God help me! . . . Aaaaaaa! . . ."_  
+_"Help! Help! God help me! . . . Aaaaaaa! . . ."_ 
 
 With intense effort Jones is today able to recall a sudden bursting of his
 fear-paralysis into the liberation of frenzied automatic flight. What he evidently did must

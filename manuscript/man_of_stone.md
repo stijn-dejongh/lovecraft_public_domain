@@ -223,14 +223,14 @@ hillside cave. But here is the text itself:
 > for they know I am a Van Kauran on my mother's side, and anybody this side of the Hudson
 > can tell what the Van Kaurans have handed down. We come from Nicholas Van Kauran, the wizard,
 > who was hanged in Wijtgaart in 1587, and everybody knows he had made the bargain with the Black
-> Man.  
+> Man. 
 > 
 > The soldiers never got his Book of Eibon when they burned his
 > house, and his grandson, William Van Kauran, brought it over when he came to Rensselaerwyck
 > and later crossed the river to Esopus. Ask anybody in Kingston or Hurley about what the William
 > Van Kauran line could do to people that got in their way. Also, ask them if my Uncle Hendrik
 > didn't manage to keep hold of the Book of Eibon when they ran him out of town and
-> he went up the river to this place with his family.  
+> he went up the river to this place with his family. 
 > 
 > I am writing this--and am going to keep writing this--because
 > I want people to know the truth after I am gone. Also, I am afraid I shall really go mad if
@@ -241,7 +241,7 @@ hillside cave. But here is the text itself:
 > boarders. The fellow seemed to be interested in what I had to say, and made a deal to stop here
 > for $13.00 a week with meals. I gave him the back room beside the kitchen for his lumps of stone
 > and his chiselling, and arranged with Nate Williams to tend to his rock blasting and haul his
-> big pieces with a drag and yoke of oxen.  
+> big pieces with a drag and yoke of oxen. 
 > 
 > That was three months ago. Now I know why that cursed son of hell took
 > so quick to the place. It wasn't my talk at all, but the looks of my wife Rose, that is
@@ -249,7 +249,7 @@ hillside cave. But here is the text itself:
 > sheep's eyes at the fellows in town. But we always managed to get along fine enough till
 > this dirty rat shewed up, even if she did balk at helping me with the Rites on Roodmas and Hallowmass.
 > I can see now that Wheeler is working on her feelings and getting her so fond of him that she
-> hardly looks at me, and I suppose he'll try to elope with her sooner or later.  
+> hardly looks at me, and I suppose he'll try to elope with her sooner or later. 
 > 
 > But he works slow like all sly, polished dogs, and I've got plenty
 > of time to think up what to do about it. They don't either of them know I suspect anything,
@@ -268,14 +268,14 @@ hillside cave. But here is the text itself:
 > blood and I must be careful about the neighbours. The Green Decay looks promising, but that
 > would be a bit unpleasant for me as well as for them. I don't like certain sights and smells.
 
-> **Dec. 10** -- Eureka  !  I've got the very thing at last!
+> **Dec. 10** -- Eureka ! I've got the very thing at last!
 > Revenge is sweet--and this is the perfect climax! Wheeler, the sculptor--this is too
 > good! Yes, indeed, that damned sneak is going to produce a statue that will sell quicker than
 > any of the things he's been carving these past weeks! A realist, eh? Well--the new
 > statuary won't lack any realism! I found the formula in a manuscript insert opposite page
 > 679 of the Book. From the handwriting I judge it was put there by my great-grandfather
 > Bareut Picterse Van Kauran--the one who disappeared from New Paltz in 1839. Iä!
-> Shub-Niggurath!  The Goat with a Thousand Young!  
+> Shub-Niggurath! The Goat with a Thousand Young! 
 > 
 > To be plain, I've found a way to turn those wretched rats into stone
 > statues. It's absurdly simple, and really depends more on plain chemistry than on the Outer
@@ -338,14 +338,14 @@ hillside cave. But here is the text itself:
 > in front of the cave. Rose whimpered like a puppy when I told her a wolf had got Rex, and Wheeler
 > gurgled a lot of sympathy.
 
-> **March 1** -- Iä R'lyeh!  Praise the Lord Tsathoggua!
+> **March 1** -- Iä R'lyeh! Praise the Lord Tsathoggua!
 > I've got the son of hell at last! Told him I'd found a new ledge of friable limestone
 > down this way, and he trotted after me like the yellow cur he is! I had the wine-flavoured stuff
 > in a bottle on my hip, and he was glad of a swig when we got here. Gulped it down without a
 > wink--and dropped in his tracks before you could count three. But he knows I've had
 > my vengeance, for I made a face at him that he couldn't miss. I saw the look of understanding
-> come into his face as he keeled over. In two minutes he was solid stone.  
->   
+> come into his face as he keeled over. In two minutes he was solid stone. 
+>  
 > I dragged him into the cave and put Rex's figure outside again.
 > That bristling dog shape will help to scare people off. It's getting time for the spring
 > hunters, and besides, there's a damned "lunger' named Jackson in a cabin over
@@ -406,14 +406,14 @@ a note in a firmer, evidently feminine handwriting, indicative of great emotiona
 > paralysed me, but I can still get about. The thirst was terrible, but I ate as little as possible
 > of the salty food and was able to get a little water by setting some old pans and dishes that
 > were up here under places where the roof leaked. 
->   
+>  
 > There were two great rains. I thought he was trying to poison me, though
 > I didn't know what the poison was like. What he has written about himself and me is a lie.
 > We were never happy together and I think I married him only under one of those spells that he
 > was able to lay on people. I guess he hypnotised both my father and me, for he was always hated
 > and feared and suspected of dark dealings with the devil. My father once called him The Devil's
 > Kin, and he was right.
->   
+>  
 > No one will ever know what I went through as his wife. It was not simply
 > common cruelty--though God knows he was cruel enough, and beat me often with a leather whip.
 > It was more--more than anyone in this age can ever understand. He was a monstrous creature,
@@ -423,13 +423,13 @@ a note in a firmer, evidently feminine handwriting, indicative of great emotiona
 > murderer even then, for I know what he sacrificed one night on Thunder Hill. He was surely the
 > Devil's Kin. I tried four times to run away, but he always caught and beat me. Also, he
 > had a sort of hold over my mind, and even over my father's mind.
->   
+>  
 > About Arthur Wheeler I have nothing to be ashamed of. We did come to
 > love each other, but only in an honourable way. He gave me the first kind treatment I had ever
 > had since leaving my father's, and meant to help me get out of the clutches of that fiend.
 > He had several talks with my father, and was going to help me get out west. After my divorce
 > we would have been married.
->   
+>  
 > Ever since that brute locked me in the attic I have planned to get out
 > and finish him. I always kept the poison overnight in case I could escape and find him asleep
 > and give it to him somehow. At first he waked easily when I worked on the lock of the door and
@@ -441,7 +441,7 @@ a note in a firmer, evidently feminine handwriting, indicative of great emotiona
 > the lamp burning--asleep at the table, where he had been writing in this book. In the corner
 > was the long rawhide whip he had so often beaten me with. I used it to tie him to the chair
 > so he could not move a muscle. I lashed his neck so that I could pour anything down his throat
-> without his resisting.  
+> without his resisting. 
 > 
 > He waked up just as I was finishing and I guess he saw right off that
 > he was done for. He shouted frightful things and tried to chant mystical formulas, but I choked

@@ -490,7 +490,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > young and recently uninhabitable for any life-forms or normal protoplasmic structure. Question
 > arises when, where, and how development took place." 
 
- . . .  
+ . . . 
 
 > "Later. Examining certain skeletal fragments of large land and marine
 > saurians and primitive mammals, find singular local wounds or injuries to bony structure not
@@ -511,7 +511,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > Dogs growing uneasy as we work, and seem to hate this soapstone. Must see if it has any peculiar
 > odour. Will report again when Mills gets back with light and we start on underground area." 
 
-  . . .  
+ . . . 
 
 > "10:15 P.M. Important discovery. Orrendorf and Watkins, working underground
 > at 9:45 with light, found monstrous barrel-shaped fossil of wholly unknown nature; probably
@@ -531,7 +531,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > trouble with dogs. They can't endure the new specimen, and would probably tear it to pieces
 > if we didn't keep it at a distance from them." 
 
- . . .  
+ . . . 
 
 > "11:30 P.M. Attention, Dyer, Pabodie, Douglas. Matter of highest--I
 > might say transcendent--importance. Arkham must relay to Kingsport Head Station
@@ -543,7 +543,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > to distance. They cannot stand the things. Give close attention to description and repeat back
 > for accuracy. Papers must get this right. 
 > 
->  "Objects are eight feet long all over. Six-foot five-ridged barrel torso
+> "Objects are eight feet long all over. Six-foot five-ridged barrel torso
 > 3.5 feet central diameter, 1 foot end diameters. Dark grey, flexible, and infinitely tough.
 > Seven-foot membraneous wings of same colour, found folded, spread out of furrows between ridges.
 > Wing framework tubular or glandular, of lighter grey, with orifices at wing tips. Spread wings
@@ -553,7 +553,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > 3 inches diameter branch after 6 inches into five sub-stalks, each of which branches after 8
 > inches into five small, tapering tentacles or tendrils, giving each stalk a total of 25 tentacles. 
 
->  "At top of torso blunt bulbous neck of lighter grey with gill-like suggestions
+> "At top of torso blunt bulbous neck of lighter grey with gill-like suggestions
 > holds yellowish five-pointed starfish-shaped apparent head covered with three-inch wiry cilia
 > of various prismatic colours. Head thick and puffy, about 2 feet point to point, with three-inch
 > flexible yellowish tubes projecting from each point. Slit in exact centre of top probably breathing
@@ -565,7 +565,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > of starfish-head found folded tightly down; tubes and points clinging to bulbous neck and torso.
 > Flexibility surprising despite vast toughness. 
 
->  "At bottom of torso rough but dissimilarly functioning counterparts of
+> "At bottom of torso rough but dissimilarly functioning counterparts of
 > head arrangements exist. Bulbous light-grey pseudo-neck, without gill suggestions, holds greenish
 > five-pointed starfish-arrangement. Tough, muscular arms 4 feet long and tapering from 7 inches
 > diameter at base to about 2.5 at point. To each point is attached small end of a greenish five-veined
@@ -578,7 +578,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > all these projections tightly folded over pseudo-neck and end of torso, corresponding to projections
 > at other end. 
 
->  "Cannot yet assign positively to animal or vegetable kingdom, but odds
+> "Cannot yet assign positively to animal or vegetable kingdom, but odds
 > now favour animal. Probably represents incredibly advanced evolution of radiata without loss
 > of certain primitive features. Echinoderm resemblances unmistakable despite local contradictory
 > evidences. Wing structure puzzles in view of probable marine habitat, but may have use in water
@@ -586,7 +586,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > structure rather than animal's fore-and-aft structure. Fabulously early date of evolution,
 > preceding even simplest Archaean protozoa hitherto known, baffles all conjecture as to origin. 
 
->  "Complete specimens have such uncanny resemblance to certain creatures
+> "Complete specimens have such uncanny resemblance to certain creatures
 > of primal myth that suggestion of ancient existence outside antarctic becomes inevitable. Dyer
 > and Pabodie have read Necronomicon and seen Clark Ashton Smith's nightmare paintings
 > based on text, and will understand when I speak of Elder Things supposed to have created all
@@ -594,7 +594,7 @@ sent them, and as our base operator McTighe translated them from his pencil shor
 > treatment of very ancient tropical radiata. Also like prehistoric folklore things Wilmarth has
 > spoken of--Cthulhu cult appendages, etc. 
 
->  "Vast field of study opened. Deposits probably of late Cretaceous or
+> "Vast field of study opened. Deposits probably of late Cretaceous or
 > early Eocene period, judging from associated specimens. Massive stalagmites deposited above
 > them. Hard work hewing out, but toughness prevented damage. State of preservation miraculous,
 > evidently owing to limestone action. No more found so far, but will resume search later. Job

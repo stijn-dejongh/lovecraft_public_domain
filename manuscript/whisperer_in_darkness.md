@@ -117,7 +117,7 @@ terms had a local and transient use. Perhaps the bulk of the Puritan settlers se
 bluntly as familiars of the devil, and made them a basis of awed theological speculation. Those
 with Celtic legendry in their heritage--mainly the Scotch-Irish element of New Hampshire,
 and their kindred who had settled in Vermont on Governor Wentworth's colonial grants--linked
-them vaguely with the malign fairies and  _"little people"_ of the bogs and raths,
+them vaguely with the malign fairies and _"little people"_ of the bogs and raths,
 and protected themselves with scraps of incantation handed down through many generations. But
 the Indians had the most fantastic theories of all. While different tribal legends differed,
 there was a marked consensus of belief in certain vital particulars; it being unanimously agreed
@@ -228,13 +228,13 @@ wrote it. Here is the text--a text which reached me in the cramped, archaic-look
 of one who had obviously not mingled much with the world during his sedate, scholarly life.
 
 {aside}
-R.F.D. #2,  
-Townshend, Windham Co.,  
-Vermont  
+R.F.D. #2, 
+Townshend, Windham Co., 
+Vermont 
 May 5, 1928.
 
-Albert N. Wilmarth, Esq.,  
-118 Saltonstall St.,  
+Albert N. Wilmarth, Esq., 
+118 Saltonstall St., 
 Arkham, Mass.,
 
 My dear Sir:--
@@ -242,7 +242,7 @@ My dear Sir:--
 I have read with great interest the Brattleboro Reformer's reprint (Apr. 23, '28)
 of your letter on the recent stories of strange bodies seen floating in our flooded streams
 last fall, and on the curious folklore they so well agree with. It is easy to see why an outlander
-would take the position you take, and even why  _"Pendrifter"_ agrees with you. That
+would take the position you take, and even why _"Pendrifter"_ agrees with you. That
 is the attitude generally taken by educated persons both in and out of Vermont, and was my own
 attitude as a young man (I am now 57) before my studies, both general and in Davenport's
 book, led me to do some exploring in parts of the hills hereabouts not usually visited.
@@ -264,7 +264,7 @@ I would be wholly on your side.
 
 You can see that I am having a hard time getting to the point, probably because
 I really dread getting to the point; but the upshot of the matter is that I have certain
-evidence that monstrous things do indeed live in the woods on the high hills which nobody visits.  
+evidence that monstrous things do indeed live in the woods on the high hills which nobody visits. 
 I have not seen any of the things floating in the rivers, as reported, but I have seen things
 like them under circumstances I dread to repeat. I have seen footprints, and of late have
 seen them nearer my own home (I live in the old Akeley place south of Townshend Village, on
@@ -276,7 +276,7 @@ a dictaphone attachment and wax blank--and I shall try to arrange to have you he
 record I got. I have run it on the machine for some of the old people up here, and one of the
 voices had nearly scared them paralysed by reason of its likeness to a certain voice (that buzzing
 voice in the woods which Davenport mentions) that their grandmothers have told about and mimicked
-for them. I know what most people think of a man who tells about  _"hearing voices"_ --but
+for them. I know what most people think of a man who tells about _"hearing voices"_ --but
 before you draw conclusions just listen to this record and ask some of the older backwoods people
 what they think of it. If you can account for it normally, very well; but there must be something
 behind it. Ex nihilo nihil fit, you know.
@@ -294,7 +294,7 @@ to the matter. He later killed himself, but I have reason to think there are oth
 The things come from another planet, being able to live in interstellar space and fly through it on clumsy, powerful wings which have a way of
 resisting the ether but which are too poor at steering to be of much use in helping them about on earth. I will
 tell you about this later if you do not dismiss me at once as a madman. They come here to get
-metals from mines that go deep under the hills, and I think I know where they come from.  
+metals from mines that go deep under the hills, and I think I know where they come from. 
 They will not hurt us if we let them alone, but no one can say what will happen if we get too
 curious about them. Of course a good army of men could wipe out their mining colony. That is
 what they are afraid of. But if that happened, more would come from outside --any
@@ -304,7 +304,7 @@ have not needed to. They would rather leave things as they are to save bother.
 I think they mean to get rid of me because of what I have discovered. There
 is a great black stone with unknown hieroglyphics half worn away which I found in the woods
 on Round Hill, east of here; and after I took it home everything became different. If they think
-I suspect too much they will either kill me or take me off the earth to where they come from.  
+I suspect too much they will either kill me or take me off the earth to where they come from. 
 They like to take away men of learning once in a while, to keep informed on the state of things
 in the human world.
 
@@ -333,7 +333,7 @@ yet, and they are clumsy in getting about. As I have said, their wings are not m
 short flights on earth. I am on the very brink of deciphering that stone--in a very terrible
 way--and with your knowledge of folklore you may be able to supply missing links enough
 to help me. I suppose you know all about the fearful myths antedating the coming of man to the
-earth--the Yog-Sothoth and Cthulhu cycles--which are hinted at in the Necronomicon.  
+earth--the Yog-Sothoth and Cthulhu cycles--which are hinted at in the Necronomicon. 
 I had access to a copy of that once, and hear that you have one in your college library under
 lock and key.
 
@@ -351,7 +351,7 @@ Hoping that I am not bothering you unduly, and that you will decide to get
 in touch with me rather than throw this letter into the waste basket as a madman's raving,
 I am
 
-Yrs. very truly,  
+Yrs. very truly, 
 HENRY W. AKELEY
 
 P.S. I am making some extra prints of certain photographs taken by me, which I think will help
@@ -469,7 +469,7 @@ himself. I found myself faced by names and terms that I had heard elsewhere in t
 of connexions--_Yuggoth, Great Cthulhu, Tsathoggua, Yog-Sothoth, R'lyeh, Nyarlathotep,
 Azathoth, Hastur, Yian, Leng, the Lake of Hali, Bethmoora, the Yellow Sign, L'mur-Kathulos,
 Bran, and the Magnum Innominandum_--and was drawn back through nameless aeons and inconceivable
-dimensions to worlds of elder, outer entity at which the crazed author of the Necronomicon  
+dimensions to worlds of elder, outer entity at which the crazed author of the Necronomicon 
 had only guessed in the vaguest way. I was told of the pits of primal life, and of the streams
 that had trickled down therefrom; and finally, of the tiny rivulet from one of those streams
 which had become entangled with the destinies of our own earth.
@@ -541,7 +541,7 @@ though, that he never again heard voices at that particular spot.
 Unlike most of the overheard forest voices, the substance of the record was
 quasi-ritualistic, and included one palpably human voice which Akeley had never been able to
 place. It was not Brown's, but seemed to be that of a man of greater cultivation. The
-second voice, however, was the real crux of the thing--for this was the accursed buzzing  
+second voice, however, was the real crux of the thing--for this was the accursed buzzing 
 which had no likeness to humanity despite the human words which it uttered in good English grammar
 and a scholarly accent.
 
@@ -597,7 +597,7 @@ scratching of the sapphire point, and I was glad that the first faint, fragmenta
 in a human voice--a mellow, educated voice which seemed vaguely Bostonian in accent, and
 which was certainly not that of any native of the Vermont hills. As I listened to the tantalisingly
 feeble rendering, I seemed to find the speech identical with Akeley's carefully prepared
-transcript. On it chanted, in that mellow Bostonian voice . . .  _"Iä! Shub-Niggurath! The Goat with a Thousand Young! . . . "_
+transcript. On it chanted, in that mellow Bostonian voice . . . _"Iä! Shub-Niggurath! The Goat with a Thousand Young! . . . "_
 
 And then I heard the other voice. To this hour I shudder retrospectively
 when I think of how it struck me, prepared though I was by Akeley's accounts. Those to
@@ -752,8 +752,8 @@ him to seek help, and hinted that I might take action myself if he did not. I sp
 Vermont in person in spite of his wishes, and of helping him explain the situation to the proper
 authorities. In return, however, I received only a telegram from Bellows Falls which read thus:
 
-> APPRECIATE YOUR POSITION BUT CAN DO NOTHING. TAKE NO ACTION YOURSELF FOR IT COULD ONLY  
-> HARM BOTH. WAIT FOR EXPLANATION.  
+> APPRECIATE YOUR POSITION BUT CAN DO NOTHING. TAKE NO ACTION YOURSELF FOR IT COULD ONLY 
+> HARM BOTH. WAIT FOR EXPLANATION. 
 > HENRY AKELY
 
 But the affair was steadily deepening. Upon my replying to the telegram I received
@@ -820,7 +820,7 @@ for more dogs. I guess the men at the kennels think I am crazy. Will drop anothe
 Suppose I'll be ready for moving in a week or two, though it nearly kills me to think
 of it.
 
-Hastily--    
+Hastily--  
 AKELEY
 
 {/aside}
@@ -894,7 +894,7 @@ It was dead, of course. One of the dogs had it, and I found it near the kennel t
 I tried to save it in the woodshed to convince people of the whole thing, but it all evaporated
 in a few hours. Nothing left. You know, all those things in the rivers were seen only on the
 first morning after the flood. And here's the worst. I tried to photograph it for you,
-but when I developed the film there wasn't anything visible except the woodshed.  
+but when I developed the film there wasn't anything visible except the woodshed. 
 What can the thing have been made of? I saw it and felt it, and they all leave footprints. It
 was surely made of matter--but what kind of matter? The shape can't be described.
 It was a great crab with a lot of pyramided fleshy rings or knots of thick, ropy stuff covered
@@ -978,7 +978,7 @@ entire thing implied such a diametrical reversal of Akeley's previous attitude! 
 is the substance of the text, carefully transcribed from a memory in which I take some pride.
 
 {aside}
-Townshend, Vermont,  
+Townshend, Vermont, 
 Thursday, Sept. 6, 1928.
 
 My dear Wilmarth:--
@@ -1024,7 +1024,7 @@ are expanding our knowledge and motions, and making it more and more impossible 
 Ones' necessary outposts to exist secretly on this planet. The alien beings desire
 to know mankind more fully, and to have a few of mankind's philosophic and scientific
 leaders know more about them. With such an exchange of knowledge all perils will pass, and a
-satisfactory modus vivendi be established. The very idea of any attempt to enslave  
+satisfactory modus vivendi be established. The very idea of any attempt to enslave 
 or degrade mankind is ridiculous.
 
 As a beginning of this improved rapport, the Outer Ones have naturally chosen
@@ -1063,7 +1063,7 @@ as still use speech.
 
 Their main immediate abode is a still undiscovered and almost lightless
 planet at the very edge of our solar system--beyond Neptune, and the ninth in distance
-from the sun. It is, as we have inferred, the object mystically hinted at as  __"Yuggoth"__
+from the sun. It is, as we have inferred, the object mystically hinted at as __"Yuggoth"__
 in certain ancient and forbidden writings; and it will soon be the scene of a strange focussing
 of thought upon our world in an effort to facilitate mental rapport. I would not be surprised
 if astronomers became sufficiently sensitive to these thought-currents to discover Yuggoth when
@@ -1107,12 +1107,12 @@ yesterday--it seems to work very well.
 Awaiting word, and hoping to see you shortly with the phonograph record and
 all my letters--and the kodak prints--
 
-I am Yours in anticipation,  
+I am Yours in anticipation, 
 HENRY W. AKELEY.
 
-To Albert N. Wilmarth, Esq.,  
-Miskatonic University,  
-Arkham, Mass.  
+To Albert N. Wilmarth, Esq., 
+Miskatonic University, 
+Arkham, Mass. 
 {/aside}
 
 The complexity of my emotions upon reading, re-reading, and pondering over
@@ -1508,7 +1508,7 @@ R'lyeh when it was above the waters. They've been inside the earth, too--there
 are openings which human beings know nothing of--some of them in these very Vermont hills--and
 great worlds of unknown life down there; blue-litten K'n-yan, red-litten Yoth, and black,
 lightless N'kai. It's from N'kai that frightful Tsathoggua came--you
-know, the amorphous, toad-like god-creature mentioned in the Pnakotic Manuscripts and the   
+know, the amorphous, toad-like god-creature mentioned in the Pnakotic Manuscripts and the  
 Necronomicon and the Commoriom myth-cycle preserved by the Atlantean high-priest Klarkash-Ton."_
 
 _"But we will talk of all this later on. It must be four or five o'clock
@@ -1882,7 +1882,7 @@ Before long I saw that it would be impossible to distinguish any connected
 discourse. Isolated words--including the names of Akeley and myself--now and then
 floated up, especially when uttered by the mechanical speech-producer; but their true significance
 was lost for want of continuous context. Today I refuse to form any definite deductions from
-them, and even their frightful effect on me was one of suggestion rather than of revelation.  
+them, and even their frightful effect on me was one of suggestion rather than of revelation. 
 A terrible and abnormal conclave, I felt certain, was assembled below me; but for what shocking
 deliberations I could not tell. It was curious how this unquestioned sense of the malign and
 the blasphemous pervaded me despite Akeley's assurances of the Outsiders' friendliness.
@@ -1914,7 +1914,7 @@ that I first picked up a few recognisable phrases.
 
 (NOYES)
 
-> . . . (an unpronounceable word or name, possibly N'gah-Kthun  ) . . . harmless . . . peace . . . couple of weeks . . . theatrical . . . told you
+> . . . (an unpronounceable word or name, possibly N'gah-Kthun ) . . . harmless . . . peace . . . couple of weeks . . . theatrical . . . told you
 > that before. . . . "
 
 (FIRST BUZZING VOICE)
@@ -2049,7 +2049,7 @@ not form any conjecture. I hope--devoutly hope--that they were the waxen product
 of a master artist, despite what my inmost fears tell me. Great God! That whisperer in darkness
 with its morbid odour and vibrations! Sorcerer, emissary, changeling, outsider . . .
 that hideous repressed buzzing . . . and all the time in that fresh, shiny cylinder
-on the shelf . . . poor devil . . .  _"prodigious surgical, biological, chemical, and mechanical skill"_. . .
+on the shelf . . . poor devil . . . _"prodigious surgical, biological, chemical, and mechanical skill"_. . .
 
 For the things in the chair, perfect to the last, subtle detail of microscopic
-resemblance--or identity--were the face and hands of Henry Wentworth Akeley.  
+resemblance--or identity--were the face and hands of Henry Wentworth Akeley. 

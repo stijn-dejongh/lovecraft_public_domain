@@ -2863,7 +2863,7 @@ Forget not this warning, lest horrors unthinkable suck you into the gulf of shri
 madness. Remember the Other Gods; they are great and mindless and terrible, and lurk in the
 outer voids. They are good gods to shun."_
 
-_" Hei! Aa-shanta 'nygh!  You are off! Send back earth's
+_" Hei! Aa-shanta 'nygh! You are off! Send back earth's
 gods to their haunts on unknown Kadath, and pray to all space that you may never meet me in
 my thousand other forms. Farewell, Randolph Carter, and beware; for I am Nyarlathotep, the
 Crawling Chaos!"_

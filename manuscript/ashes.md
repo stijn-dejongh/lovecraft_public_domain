@@ -339,6 +339,6 @@ her voice sank to a hoarse, nervous whisper. "Where-where is the Professor?"
 
 Bruce silently led her into the workshop. She shivered as the coffin of glass
 came within her range of vision. Still silently, he crossed directly to the casket, and, taking
-up a handful of the soft, white ashes, let them sift slowly through his fingers!  
+up a handful of the soft, white ashes, let them sift slowly through his fingers! 
 
 

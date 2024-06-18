@@ -83,7 +83,7 @@ What he did do was to become an almost fanatical devotee of subterranean magical
 lore, for which Miskatonic's library was and is famous. Always a dweller on the surface
 of phantasy and strangeness, he now delved deep into the actual runes and riddles left by a
 fabulous past for the guidance or puzzlement of posterity. He read things like the frightful
-Book of Eibon, the Unaussprechlichen Kulten of von Junzt, and the forbidden  
+Book of Eibon, the Unaussprechlichen Kulten of von Junzt, and the forbidden 
 Necronomicon of the mad Arab Abdul Alhazred, though he did not tell his parents he had seen
 them. Edward was twenty when my son and only child was born, and seemed pleased when I named
 the newcomer Edward Derby Upton, after him.
@@ -388,7 +388,7 @@ Again and again he would pause, as if to gather courage for some final and terri
 
 _"Dan, Dan, don't you remember him--the wild eyes and the unkempt
 beard that never turned white? He glared at me once, and I never forgot it. Now she glares
-that way. And I know why!  He found it in the Necronomicon --the formula. I
+that way. And I know why! He found it in the Necronomicon --the formula. I
 don't dare tell you the page yet, but when I do you can read and understand. Then you
 will know what has engulfed me. On, on, on, on--body to body to body--he means never
 to die. The life-glow--he knows how to break the link . . . it can flicker
@@ -652,7 +652,7 @@ the feeble words.
 _". . . again, again . . . she's
 trying . . . I might have known . . . nothing can stop that force;
 not distance, nor magic, nor death . . . it comes and comes, mostly in the night . . .
-I can't leave . . . it's horrible . . . oh, God, Dan,  
+I can't leave . . . it's horrible . . . oh, God, Dan, 
 if you only knew as I do just how horrible it is. . . ."_
 
 When he had slumped down into a stupor I propped him with pillows and let normal
@@ -730,7 +730,7 @@ and go to bed when my ear caught a very faint suspicion of sound at the other en
 trying under great difficulties to talk? As I listened I thought I heard a sort of half-liquid
 bubbling noise-- _"glub . . . glub . . . glub"_ --which
 had an odd suggestion of inarticulate, unintelligible word and syllable divisions. I called,
-_"Who is it?"_ But the only answer was  _"glub-glub . . . glub-glub."_
+_"Who is it?"_ But the only answer was _"glub-glub . . . glub-glub."_
 I could only assume that the noise was mechanical; but fancying that it might be a case of a
 broken instrument able to receive but not to send, I added, "I can't hear you. Better
 hang up and try Information. " Immediately I heard the receiver go on the hook at the other
@@ -790,7 +790,7 @@ The caller had on one of Edward's overcoats--its bottom almost touching
 the ground, and its sleeves rolled back yet still covering the hands. On the head was a slouch
 hat pulled low, while a black silk muffler concealed the face. As I stepped unsteadily forward,
 the figure made a semi-liquid sound like that I had heard over the telephone-- " glub . . .
-glub . . .  "--and thrust at me a large, closely written paper impaled
+glub . . . "--and thrust at me a large, closely written paper impaled
 on the end of a long pencil. Still reeling from the morbid and unaccountable foetor, I seized
 this paper and tried to read it in the light from the doorway.
 
@@ -840,7 +840,7 @@ I'm damnably sorry to drag all this on you. I'll be at peace before long--this
 thing won't hold together much more. Hope you can read this. And kill that thing--kill
 it._
 
-_Yours--Ed._  
+_Yours--Ed._ 
 {/aside}
 
 It was only afterward that I read the last half of this paper, for I had fainted

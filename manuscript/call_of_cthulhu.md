@@ -77,16 +77,16 @@ Behind the figure was a vague suggestion of a Cyclopean architectural background
 
 The writing accompanying this oddity was, aside from a stack of press cuttings,
 in Professor Angell's most recent hand; and made no pretence to literary style. What seemed
-to be the main document was headed  "CTHULHU CULT " in characters painstakingly printed
+to be the main document was headed "CTHULHU CULT " in characters painstakingly printed
 to avoid the erroneous reading of a word so unheard-of. The manuscript was divided into two
-sections, the first of which was headed  "1925--Dream and Dream Work of H. A. Wilcox,
-7 Thomas St., Providence, R.I.", and the second,  "Narrative of Inspector John R.
+sections, the first of which was headed "1925--Dream and Dream Work of H. A. Wilcox,
+7 Thomas St., Providence, R.I.", and the second, "Narrative of Inspector John R.
 Legrasse, 121 Bienville St., New Orleans, La., at 1908 A. A. S. Mtg.--Notes on Same, &
 Prof. Webb's Acct. " The other manuscript papers were all brief notes, some of them
 accounts of the queer dreams of different persons, some of them citations from theosophical
-books and magazines (notably W. Scott-Elliot's Atlantis and the Lost Lemuria  ),
+books and magazines (notably W. Scott-Elliot's Atlantis and the Lost Lemuria ),
 and the rest comments on long-surviving secret societies and hidden cults, with references to
-passages in such mythological and anthropological source-books as Frazer's Golden Bough  
+passages in such mythological and anthropological source-books as Frazer's Golden Bough 
 and Miss Murray's Witch-Cult in Western Europe. The cuttings largely alluded to
 outré mental illnesses and outbreaks of group folly or mania in the spring of 1925.
 
@@ -98,8 +98,8 @@ son of an excellent family slightly known to him, who had latterly been studying
 the Rhode Island School of Design and living alone at the Fleur-de-Lys Building near that institution.
 Wilcox was a precocious youth of known genius but great eccentricity, and had from childhood
 excited attention through the strange stories and odd dreams he was in the habit of relating.
-He called himself  "psychically hypersensitive", but the staid folk of the ancient
-commercial city dismissed him as merely  "queer ". Never mingling much with his kind,
+He called himself "psychically hypersensitive", but the staid folk of the ancient
+commercial city dismissed him as merely "queer ". Never mingling much with his kind,
 he had dropped gradually from social visibility, and was now known only to a small group of
 aesthetes from other towns. Even the Providence Art Club, anxious to preserve its conservatism,
 had found him quite hopeless.
@@ -111,7 +111,7 @@ alienated sympathy; and my uncle shewed some sharpness in replying, for the cons
 of the tablet implied kinship with anything but archaeology. Young Wilcox's rejoinder,
 which impressed my uncle enough to make him recall and record it verbatim, was of a fantastically
 poetic cast which must have typified his whole conversation, and which I have since found highly
-characteristic of him. He said,  "It is new, indeed, for I made it last night in a dream
+characteristic of him. He said, "It is new, indeed, for I made it last night in a dream
 of strange cities; and dreams are older than brooding Tyre, or the contemplative Sphinx, or
 garden-girdled Babylon. "
 
@@ -123,7 +123,7 @@ cities of titan blocks and sky-flung monoliths, all dripping with green ooze and
 latent horror. Hieroglyphics had covered the walls and pillars, and from some undetermined point
 below had come a voice that was not a voice; a chaotic sensation which only fancy could transmute
 into sound, but which he attempted to render by the almost unpronounceable jumble of letters,
-"  Cthulhu fhtagn   ".
+" Cthulhu fhtagn  ".
 
 This verbal jumble was the key to the recollection which excited and disturbed
 Professor Angell. He questioned the sculptor with scientific minuteness; and studied with almost
@@ -140,7 +140,7 @@ interview the manuscript records daily calls of the young man, during which he r
 fragments of nocturnal imagery whose burden was always some terrible Cyclopean vista of dark
 and dripping stone, with a subterrene voice or intelligence shouting monotonously in enigmatical
 sense-impacts uninscribable save as gibberish. The two sounds most frequently repeated are those
-rendered by the letters" Cthulhu "and  "  R'lyeh   ".
+rendered by the letters" Cthulhu "and " R'lyeh  ".
 
 On March 23d, the manuscript continued, Wilcox failed to appear; and inquiries
 at his quarters revealed that he had been stricken with an obscure sort of fever and taken to
@@ -150,7 +150,7 @@ and delirium. My uncle at once telephoned the family, and from that time forward
 watch of the case; calling often at the Thayer Street office of Dr. Tobey, whom he learned to
 be in charge. The youth's febrile mind, apparently, was dwelling on strange things; and
 the doctor shuddered now and then as he spoke of them. They included not only a repetition of
-what he had formerly dreamed, but touched wildly on a gigantic thing  "miles high "
+what he had formerly dreamed, but touched wildly on a gigantic thing "miles high "
 which walked or lumbered about. He at no time fully described this object, but occasional frantic
 words, as repeated by Dr. Tobey, convinced the professor that it must be identical with the
 nameless monstrosity he had sought to depict in his dream-sculpture. Reference to this object,
@@ -177,7 +177,7 @@ the dates of any notable visions for some time past. The reception of his reques
 been varied; but he must, at the very least, have received more responses than any ordinary
 man could have handled without a secretary. This original correspondence was not preserved,
 but his notes formed a thorough and really significant digest. Average people in society and
-business--New England's traditional  "salt of the earth "--gave an
+business--New England's traditional "salt of the earth "--gave an
 almost completely negative result, though scattered cases of uneasy but formless nocturnal impressions
 appear here and there, always between March 23d and April 2nd--the period of young Wilcox's
 delirium. Scientific men were little more affected, though four cases of vague description suggest
@@ -210,13 +210,13 @@ for the number of extracts was tremendous and the sources scattered throughout t
 was a nocturnal suicide in London, where a lone sleeper had leaped from a window after a shocking
 cry. Here likewise a rambling letter to the editor of a paper in South America, where a fanatic
 deduces a dire future from visions he has seen. A despatch from California describes a theosophist
-colony as donning white robes en masse for some  "glorious fulfilment " which never
+colony as donning white robes en masse for some "glorious fulfilment " which never
 arrives, whilst items from India speak guardedly of serious native unrest toward the end of
 March. Voodoo orgies multiply in Hayti, and African outposts report ominous mutterings. American
 officers in the Philippines find certain tribes bothersome about this time, and New York policemen
 are mobbed by hysterical Levantines on the night of March 22-23. The west of Ireland,
 too, is full of wild rumour and legendry, and a fantastic painter named Ardois-Bonnot hangs
-a blasphemous  "Dream Landscape " in the Paris spring salon of 1926. And so numerous
+a blasphemous "Dream Landscape " in the Paris spring salon of 1926. And so numerous
 are the recorded troubles in insane asylums, that only a miracle can have stopped the medical
 fraternity from noting strange parallelisms and drawing mystified conclusions. A weird bunch
 of cuttings, all told; and I can at this date scarcely envisage the callous rationalism with
@@ -228,7 +228,7 @@ mentioned by the professor.
 The older matters which had made the sculptor's dream and bas-relief so significant to
 my uncle formed the subject of the second half of his long manuscript. Once before, it appears,
 Professor Angell had seen the hellish outlines of the nameless monstrosity, puzzled over the
-unknown hieroglyphics, and heard the ominous syllables which can be rendered only as  "  Cthulhu   ";
+unknown hieroglyphics, and heard the ominous syllables which can be rendered only as " Cthulhu  ";
 and all this in so stirring and horrible a connexion that it is small wonder he pursued young
 Wilcox with queries and demands for data.
 
@@ -303,7 +303,7 @@ how. But just now of prime significance was the fetish which this cult had cheri
 which they danced when the aurora leaped high over the ice cliffs. It was, the professor stated,
 a very crude bas-relief of stone, comprising a hideous picture and some cryptic writing. And
 so far as he could tell, it was a rough parallel in all essential features of the bestial thing
-now lying before the meeting.  
+now lying before the meeting. 
 This data, received with suspense and astonishment by the assembled members,
 proved doubly exciting to Inspector Legrasse; and he began at once to ply his informant with
 questions. Having noted and copied an oral ritual among the swamp cult-worshippers his men had
@@ -321,7 +321,7 @@ Legrasse had one point in advance of Professor Webb, for several among his
 mongrel prisoners had repeated to him what older celebrants had told them the words meant. This
 text, as given, ran something like this:
 
-> "In his house at R'lyeh dead Cthulhu waits dreaming."    
+> "In his house at R'lyeh dead Cthulhu waits dreaming."  
 
 And now, in response to a general and urgent demand, Inspector Legrasse related
 as fully as possible his experience with the swamp worshippers; telling a story to which I could
@@ -434,7 +434,7 @@ came out of the dark to visit the faithful few. But these were not the Great Old
 had ever seen the Old Ones. The carven idol was great Cthulhu, but none might say whether or
 not the others were precisely like him. No one could read the old writing now, but things were
 told by word of mouth. The chanted ritual was not the secret--that was never spoken aloud,
-only whispered. The chant meant only this:  "In his house at R'lyeh dead Cthulhu
+only whispered. The chant meant only this: "In his house at R'lyeh dead Cthulhu
 waits dreaming. "
 
 Only two of the prisoners were found sane enough to be hanged, and the rest
@@ -493,7 +493,7 @@ virtually unknown beyond its members. No book had ever really hinted of it, thou
 Chinamen said that there were double meanings in the Necronomicon of the mad Arab Abdul
 Alhazred which the initiated might read as they chose, especially the much-discussed couplet:
 
-> That is not dead which can eternal lie, And with strange aeons even death may die.    
+> That is not dead which can eternal lie, And with strange aeons even death may die.  
 
 Legrasse, deeply impressed and not a little bewildered, had inquired in vain
 concerning the historic affiliations of the cult. Castro, apparently, had told the truth when
@@ -550,7 +550,7 @@ have received the weird impressions.
 He talked of his dreams in a strangely poetic fashion; making me see with terrible
 vividness the damp Cyclopean city of slimy green stone--whose geometry, he oddly
 said, was all wrong --and hear with frightened expectancy the ceaseless, half-mental
-calling from underground:  "  Cthulhu fhtagn  ",  "  Cthulhu fhtagn   ".
+calling from underground: " Cthulhu fhtagn ", " Cthulhu fhtagn  ".
 These words had formed part of that dread ritual which told of dead Cthulhu's dream-vigil
 in his stone vault at R'lyeh, and I felt deeply moved despite my rational beliefs. Wilcox,
 I was sure, had heard of the cult in some casual way, and had soon forgotten it amidst the mass
@@ -583,7 +583,7 @@ uncle after encountering the sculptor's data have come to sinister ears? I think
 Angell died because he knew too much, or because he was likely to learn too much. Whether I
 shall go as he did remains to be seen, for I have learned much now.
 
-## III. The Madness from the Sea.      
+## III. The Madness from the Sea.   
 
 If heaven ever wishes to grant me a boon, it will be a total effacing of the results of a mere
 chance which fixed my eye on a certain stray piece of shelf-paper. It was nothing on which I
@@ -606,13 +606,13 @@ detail; and was disappointed to find it of only moderate length. What it suggest
 was of portentous significance to my flagging quest; and I carefully tore it out for immediate
 action. It read as follows:
 
-> MYSTERY DERELICT FOUND AT SEA  
+> MYSTERY DERELICT FOUND AT SEA 
 > 
-> Vigilant Arrives With Helpless Armed New Zealand Yacht in Tow.  
-> One Survivor and Dead Man Found Aboard. Tale of  
-> Desperate Battle and Deaths at Sea.  
-> Rescued Seaman Refuses  
-> Particulars of Strange Experience.  
+> Vigilant Arrives With Helpless Armed New Zealand Yacht in Tow. 
+> One Survivor and Dead Man Found Aboard. Tale of 
+> Desperate Battle and Deaths at Sea. 
+> Rescued Seaman Refuses 
+> Particulars of Strange Experience. 
 > Odd Idol Found in His Possession. 
 > Inquiry to Follow.
 
@@ -715,7 +715,7 @@ Shaken with such a mental revolution as I had never before known, I now resolved
 to visit Mate Johansen in Oslo. Sailing for London, I reëmbarked at once for the Norwegian
 capital; and one autumn day landed at the trim wharves in the shadow of the Egeberg. Johansen's
 address, I discovered, lay in the Old Town of King Harold Haardrada, which kept alive the name
-of Oslo during all the centuries that the greater city masqueraded as  "Christiana ".
+of Oslo during all the centuries that the greater city masqueraded as "Christiana ".
 I made the brief trip by taxicab, and knocked with palpitant heart at the door of a neat and
 ancient building with plastered front. A sad-faced woman in black answered my summons, and I
 was stung with disappointment when she told me in halting English that Gustaf Johansen was no
@@ -730,8 +730,8 @@ at once helped him to his feet, but before the ambulance could reach him he was 
 found no adequate cause for the end, and laid it to heart trouble and a weakened constitution.
 
 I now felt gnawing at my vitals that dark terror which will never leave me
-till I, too, am at rest;  "accidentally " or otherwise. Persuading the widow that
-my connexion with her husband's  "technical matters " was sufficient to entitle
+till I, too, am at rest; "accidentally " or otherwise. Persuading the widow that
+my connexion with her husband's "technical matters " was sufficient to entitle
 me to his manuscript, I bore the document away and began to read it on the London boat. It was
 a simple, rambling thing--a naive sailor's effort at a post-facto diary--and
 strove to recall day by day that last awful voyage. I cannot attempt to transcribe it verbatim
@@ -766,7 +766,7 @@ of the sensitive and called imperiously to the faithful to come on a pilgrimage 
 and restoration. All this Johansen did not suspect, but God knows he soon saw enough!
 
 I suppose that only a single mountain-top, the hideous monolith-crowned citadel
-whereon great Cthulhu was buried, actually emerged from the waters. When I think of the extent  
+whereon great Cthulhu was buried, actually emerged from the waters. When I think of the extent 
 of all that may be brooding down there I almost wish to kill myself forthwith. Johansen and
 his men were awed by the cosmic majesty of this dripping Babylon of elder daemons, and must
 have guessed without guidance that it was nothing of this or of any sane planet. Awe at the
@@ -887,15 +887,15 @@ test of my own sanity, wherein is pieced together that which I hope may never be
 again. I have looked upon all that the universe has to hold of horror, and even the skies of
 spring and the flowers of summer must ever afterward be poison to me. But I do not think my
 life will be long. As my uncle went, as poor Johansen went, so I shall go. I know too much,
-and the cult still lives.  
+and the cult still lives. 
 Cthulhu still lives, too, I suppose, again in that chasm of stone which has
-shielded him since the sun was young. His accursed city is sunken once more, for the Vigilant  
+shielded him since the sun was young. His accursed city is sunken once more, for the Vigilant 
 sailed over the spot after the April storm; but his ministers on earth still bellow and prance
 and slay around idol-capped monoliths in lonely places. He must have been trapped by the sinking
 whilst within his black abyss, or else the world would by now be screaming with fright and frenzy.
 Who knows the end? What has risen may sink, and what has sunk may rise. Loathsomeness waits
 and dreams in the deep, and decay spreads over the tottering cities of men. A time will come--but
 I must not and cannot think! Let me pray that, if I do not survive this manuscript, my executors
-may put caution before audacity and see that it meets no other eye.  
+may put caution before audacity and see that it meets no other eye. 
 
 

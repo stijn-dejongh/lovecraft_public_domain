@@ -1,17 +1,17 @@
 % "The Terrible Old Man" 
-%  H. P. Lovecraft
+% H. P. Lovecraft
 
-        
+    
 
-  
+ 
 
 It was the design of Angelo Ricci and Joe Czanek and Manuel Silva to call on the Terrible Old
 Man. This old man dwells all alone in a very ancient house on Water Street near the sea, and
 is reputed to be both exceedingly rich and exceedingly feeble; which forms a situation very
 attractive to men of the profession of Messrs. Ricci, Czanek, and Silva, for that profession
-was nothing less dignified than robbery.  
+was nothing less dignified than robbery. 
 
-  The inhabitants of Kingsport say and think many things about the Terrible Old
+ The inhabitants of Kingsport say and think many things about the Terrible Old
 Man which generally keep him safe from the attention of gentlemen like Mr. Ricci and his colleagues,
 despite the almost certain fact that he hides a fortune of indefinite magnitude somewhere about
 his musty and venerable abode. He is, in truth, a very strange person, believed to have been
@@ -37,16 +37,16 @@ their way for the lonely, unpopular old fellow, whom everybody shunned, and at w
 dogs barked singularly. But business is business, and to a robber whose soul is in his profession,
 there is a lure and a challenge about a very old and very feeble man who has no account
 at the bank, and who pays for his few necessities at the village store with Spanish gold and
-silver minted two centuries ago.  
+silver minted two centuries ago. 
 
-  Messrs. Ricci, Czanek, and Silva selected the night of April 11th for their
+ Messrs. Ricci, Czanek, and Silva selected the night of April 11th for their
 call. Mr. Ricci and Mr. Silva were to interview the poor old gentleman, whilst Mr. Czanek waited
 for them and their presumable metallic burden with a covered motor-car in Ship Street, by the
 gate in the tall rear wall of their host's grounds. Desire to avoid needless explanations
 in case of unexpected police intrusions prompted these plans for a quiet and unostentatious
-departure.  
+departure. 
 
-  As prearranged, the three adventurers started out separately in order to prevent
+ As prearranged, the three adventurers started out separately in order to prevent
 any evil-minded suspicions afterward. Messrs. Ricci and Silva met in Water Street by the old
 man's front gate, and although they did not like the way the moon shone down upon the
 painted stones through the budding branches of the gnarled trees, they had more important things
@@ -56,9 +56,9 @@ notably stubborn and perverse. Still, he was very old and very feeble, and there
 Messrs. Ricci and Silva were experienced in the art of making unwilling persons voluble, and
 the screams of a weak and exceptionally venerable man can be easily muffled. So they moved up
 to the one lighted window and heard the Terrible Old Man talking childishly to his bottles with
-pendulums. Then they donned masks and knocked politely at the weather-stained oaken door.  
+pendulums. Then they donned masks and knocked politely at the weather-stained oaken door. 
 
-  Waiting seemed very long to Mr. Czanek as he fidgeted restlessly in the covered
+ Waiting seemed very long to Mr. Czanek as he fidgeted restlessly in the covered
 motor-car by the Terrible Old Man's back gate in Ship Street. He was more than ordinarily
 tender-hearted, and he did not like the hideous screams he had heard in the ancient house just
 after the hour appointed for the deed. Had he not told his colleagues to be as gentle as possible
@@ -72,9 +72,9 @@ he strained his eyes to see what his colleagues had brought out of that sinister
 loomed so close behind. But when he looked, he did not see what he had expected; for his colleagues
 were not there at all, but only the Terrible Old Man leaning quietly on his knotted cane and
 smiling hideously. Mr. Czanek had never before noticed the colour of that man's eyes;
-now he saw that they were yellow.  
+now he saw that they were yellow. 
 
-  Little things make considerable excitement in little towns, which is the reason
+ Little things make considerable excitement in little towns, which is the reason
 that Kingsport people talked all that spring and summer about the three unidentifiable bodies,
 horribly slashed as with many cutlasses, and horribly mangled as by the tread of many cruel
 boot-heels, which the tide washed in. And some people even spoke of things as trivial as the
@@ -82,4 +82,4 @@ deserted motor-car found in Ship Street, or certain especially inhuman cries, pr
 stray animal or migratory bird, heard in the night by wakeful citizens. But in this idle village
 gossip the Terrible Old Man took no interest at all. He was by nature reserved, and when one
 is aged and feeble one's reserve is doubly strong. Besides, so ancient a sea-captain must
-have witnessed scores of things much more stirring in the far-off days of his unremembered youth.  
+have witnessed scores of things much more stirring in the far-off days of his unremembered youth. 

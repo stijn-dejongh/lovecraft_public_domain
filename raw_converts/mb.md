@@ -1,17 +1,17 @@
 % "The Moon-Bog" 
-%  H. P. Lovecraft
+% H. P. Lovecraft
 
-        
+    
 
-  
+ 
 
 Somewhere, to what remote and fearsome region I know not, Denys Barry has gone. I was with him
 the last night he lived among men, and heard his screams when the thing came to him; but all
 the peasants and police in County Meath could never find him, or the others, though they searched
 long and far. And now I shudder when I hear the frogs piping in swamps, or see the moon in lonely
-places.  
+places. 
 
-  I had known Denys Barry well in America, where he had grown rich, and had congratulated
+ I had known Denys Barry well in America, where he had grown rich, and had congratulated
 him when he bought back the old castle by the bog at sleepy Kilderry. It was from Kilderry that
 his father had come, and it was there that he wished to enjoy his wealth among ancestral scenes.
 Men of his blood had once ruled over Kilderry and built and dwelt in the castle, but those days
@@ -22,9 +22,9 @@ it had climbed so many centuries ago, and how the peasants blessed him for bring
 old days with his gold from over the sea. But in time there came troubles, and the peasants
 ceased to bless him, and fled away instead as from a doom. And then he sent a letter and asked
 me to visit him, for he was lonely in the castle with no one to speak to save the new servants
-and labourers he had brought from the north.  
+and labourers he had brought from the north. 
 
-  The bog was the cause of all these troubles, as Barry told me the night I came
+ The bog was the cause of all these troubles, as Barry told me the night I came
 to the castle. I had reached Kilderry in the summer sunset, as the gold of the sky lighted the
 green of the hills and groves and the blue of the bog, where on a far islet a strange olden
 ruin glistened spectrally. That sunset was very beautiful, but the peasants at Ballylough had
@@ -32,17 +32,17 @@ warned me against it and said that Kilderry had become accursed, so that I almos
 to see the high turrets of the castle gilded with fire. Barry's motor had met me at the
 Ballylough station, for Kilderry is off the railway. The villagers had shunned the car and the
 driver from the north, but had whispered to me with pale faces when they saw I was going to
-Kilderry. And that night, after our reunion, Barry told me why.  
+Kilderry. And that night, after our reunion, Barry told me why. 
 
-  The peasants had gone from Kilderry because Denys Barry was to drain the great
+ The peasants had gone from Kilderry because Denys Barry was to drain the great
 bog. For all his love of Ireland, America had not left him untouched, and he hated the beautiful
 wasted space where peat might be cut and land opened up. The legends and superstitions of Kilderry
 did not move him, and he laughed when the peasants first refused to help, and then cursed him
 and went away to Ballylough with their few belongings as they saw his determination. In their
 place he sent for labourers from the north, and when the servants left he replaced them likewise.
-But it was lonely among strangers, so Barry had asked me to come.  
+But it was lonely among strangers, so Barry had asked me to come. 
 
-  When I heard the fears which had driven the people from Kilderry I laughed
+ When I heard the fears which had driven the people from Kilderry I laughed
 as loudly as my friend had laughed, for these fears were of the vaguest, wildest, and most absurd
 character. They had to do with some preposterous legend of the bog, and of a grim guardian spirit
 that dwelt in the strange olden ruin on the far islet I had seen in the sunset. There were tales
@@ -51,22 +51,22 @@ in white hovering over the waters, and of an imagined city of stone deep down be
 surface. But foremost among the weird fancies, and alone in its absolute unanimity, was that
 of the curse awaiting him who should dare to touch or drain the vast reddish morass. There were
 secrets, said the peasants, which must not be uncovered; secrets that had lain hidden since
-the plague came to the children of Partholan in the fabulous years beyond history. In the   
-Book of Invaders   it is told that these sons of the Greeks were all buried at Tallaght, but
+the plague came to the children of Partholan in the fabulous years beyond history. In the  
+Book of Invaders  it is told that these sons of the Greeks were all buried at Tallaght, but
 old men in Kilderry said that one city was overlooked save by its patron moon-goddess; so that
 only the wooded hills buried it when the men of Nemed swept down from Scythia in their thirty
-ships.  
+ships. 
 
-  Such were the idle tales which had made the villagers leave Kilderry, and when
+ Such were the idle tales which had made the villagers leave Kilderry, and when
 I heard them I did not wonder that Denys Barry had refused to listen. He had, however, a great
 interest in antiquities; and proposed to explore the bog thoroughly when it was drained. The
 white ruins on the islet he had often visited, but though their age was plainly great, and their
 contour very little like that of most ruins in Ireland, they were too dilapidated to tell the
 days of their glory. Now the work of drainage was ready to begin, and the labourers from the
 north were soon to strip the forbidden bog of its green moss and red heather, and kill the tiny
-shell-paved streamlets and quiet blue pools fringed with rushes.  
+shell-paved streamlets and quiet blue pools fringed with rushes. 
 
-  After Barry had told me these things I was very drowsy, for the travels of
+ After Barry had told me these things I was very drowsy, for the travels of
 the day had been wearying and my host had talked late into the night. A manservant shewed me
 to my room, which was in a remote tower overlooking the village, and the plain at the edge of
 the bog, and the bog itself; so that I could see from my windows in the moonlight the silent
@@ -82,26 +82,26 @@ carvings and inscriptions, all spoke in certain tones the glory that was Greece.
 this dream to Barry we both laughed; but I laughed the louder, because he was perplexed about
 his labourers from the north. For the sixth time they had all overslept, waking very slowly
 and dazedly, and acting as if they had not rested, although they were known to have gone early
-to bed the night before.  
+to bed the night before. 
 
-  That morning and afternoon I wandered alone through the sun-gilded village
+ That morning and afternoon I wandered alone through the sun-gilded village
 and talked now and then with idle labourers, for Barry was busy with the final plans for beginning
 his work of drainage. The labourers were not as happy as they might have been, for most of them
 seemed uneasy over some dream which they had had, yet which they tried in vain to remember.
 I told them of my dream, but they were not interested till I spoke of the weird sounds I thought
 I had heard. Then they looked oddly at me, and said that they seemed to remember weird sounds,
-too.  
+too. 
 
-  In the evening Barry dined with me and announced that he would begin the drainage
+ In the evening Barry dined with me and announced that he would begin the drainage
 in two days. I was glad, for although I disliked to see the moss and the heather and the little
 streams and lakes depart, I had a growing wish to discern the ancient secrets the deep-matted
 peat might hide. And that night my dreams of piping flutes and marble peristyles came to a sudden
 and disquieting end; for upon the city in the valley I saw a pestilence descend, and then a
 frightful avalanche of wooded slopes that covered the dead bodies in the streets and left unburied
 only the temple of Artemis on the high peak, where the aged moon-priestess Cleis lay cold and
-silent with a crown of ivory on her silver head.  
+silent with a crown of ivory on her silver head. 
 
-  I have said that I awaked suddenly and in alarm. For some time I could not
+ I have said that I awaked suddenly and in alarm. For some time I could not
 tell whether I was waking or sleeping, for the sound of flutes still rang shrilly in my ears;
 but when I saw on the floor the icy moonbeams and the outlines of a latticed Gothic window I
 decided I must be awake and in the castle at Kilderry. Then I heard a clock from some remote
@@ -110,9 +110,9 @@ piping from afar; wild, weird airs that made me think of some dance of fauns on 
 It would not let me sleep, and in impatience I sprang up and paced the floor. Only by chance
 did I go to the north window and look out upon the silent village and the plain at the edge
 of the bog. I had no wish to gaze abroad, for I wanted to sleep; but the flutes tormented me,
-and I had to do or see something. How could I have suspected the thing I was to behold?  
+and I had to do or see something. How could I have suspected the thing I was to behold? 
 
-  There in the moonlight that flooded the spacious plain was a spectacle which
+ There in the moonlight that flooded the spacious plain was a spectacle which
 no mortal, having seen it, could ever forget. To the sound of reedy pipes that echoed over the
 bog there glided silently and eerily a mixed throng of swaying figures, reeling through such
 a revel as the Sicilians may have danced to Demeter in the old days under the harvest moon beside
@@ -122,9 +122,9 @@ fear that half of these tireless, mechanical dancers were the labourers whom I h
 whilst the other half were strange airy beings in white, half indeterminate in nature, but suggesting
 pale wistful naiads from the haunted fountains of the bog. I do not know how long I gazed at
 this sight from the lonely turret window before I dropped suddenly in a dreamless swoon, out
-of which the high sun of morning aroused me.  
+of which the high sun of morning aroused me. 
 
-  My first impulse on awaking was to communicate all my fears and observations
+ My first impulse on awaking was to communicate all my fears and observations
 to Denys Barry, but as I saw the sunlight glowing through the latticed east window I became
 sure that there was no reality in what I thought I had seen. I am given to strange phantasms,
 yet am never weak enough to believe in them; so on this occasion contented myself with questioning
@@ -139,9 +139,9 @@ unmeasured depth of age-old peat. That these secrets should be brought to light 
 and I began to wish for an excuse to leave the castle and the village. I went so far as to talk
 casually to Barry on the subject, but did not dare continue after he gave his resounding laugh.
 So I was silent when the sun set fulgently over the far hills, and Kilderry blazed all red and
-gold in a flame that seemed a portent.  
+gold in a flame that seemed a portent. 
 
-  Whether the events of that night were of reality or illusion I shall never
+ Whether the events of that night were of reality or illusion I shall never
 ascertain. Certainly they transcend anything we dream of in Nature and the universe; yet in
 no normal fashion can I explain those disappearances which were known to all men after it was
 over. I retired early and full of dread, and for a long time could not sleep in the uncanny
@@ -150,9 +150,9 @@ in the wane, and would not rise till the small hours. I thought as I lay there o
 and of what would befall that bog when the day came, and found myself almost frantic with an
 impulse to rush out into the night, take Barry's car, and drive madly to Ballylough out
 of the menaced lands. But before my fears could crystallise into action I had fallen asleep,
-and gazed in dreams upon the city in the valley, cold and dead under a shroud of hideous shadow.  
+and gazed in dreams upon the city in the valley, cold and dead under a shroud of hideous shadow. 
 
-  Probably it was the shrill piping that awaked me, yet that piping was not what
+ Probably it was the shrill piping that awaked me, yet that piping was not what
 I noticed first when I opened my eyes. I was lying with my back to the east window overlooking
 the bog, where the waning moon would rise, and therefore expected to see light cast on the opposite
 wall before me; but I had not looked for such a sight as now appeared. Light indeed glowed on
@@ -165,9 +165,9 @@ in panic fear, and clumsily drew on my clothing with some dazed idea of escape. 
 my revolver and hat, but before it was over I had lost them both without firing the one or donning
 the other. After a time the fascination of the red radiance overcame my fright, and I crept
 to the east window and looked out whilst the maddening, incessant piping whined and reverberated
-through the castle and over all the village.  
+through the castle and over all the village. 
 
-  Over the bog was a deluge of flaring light, scarlet and sinister, and pouring
+ Over the bog was a deluge of flaring light, scarlet and sinister, and pouring
 from the strange olden ruin on the far islet. The aspect of that ruin I cannot describe--I
 must have been mad, for it seemed to rise majestic and undecayed, splendid and column-cinctured,
 the flame-reflecting marble of its entablature piercing the sky like the apex of a temple on
@@ -179,9 +179,9 @@ a terror oddly mixed with ecstasy I crossed the circular room to the north windo
 I could see the village and the plain at the edge of the bog. There my eyes dilated again with
 a wild wonder as great as if I had not just turned from a scene beyond the pale of Nature, for
 on the ghastly red-litten plain was moving a procession of beings in such a manner as none ever
-saw before save in nightmares.  
+saw before save in nightmares. 
 
-  Half gliding, half floating in the air, the white-clad bog-wraiths were slowly
+ Half gliding, half floating in the air, the white-clad bog-wraiths were slowly
 retreating toward the still waters and the island ruin in fantastic formations suggesting some
 ancient and solemn ceremonial dance. Their waving translucent arms, guided by the detestable
 piping of those unseen flutes, beckoned in uncanny rhythm to a throng of lurching labourers
@@ -198,9 +198,9 @@ the line of followers, never checking their speed, splashed awkwardly after them
 amidst a tiny vortex of unwholesome bubbles which I could barely see in the scarlet light. And
 as the last pathetic straggler, the fat cook, sank heavily out of sight in that sullen pool,
 the flutes and the drums grew silent, and the blinding red rays from the ruins snapped instantaneously
-out, leaving the village of doom lone and desolate in the wan beams of a new-risen moon.  
+out, leaving the village of doom lone and desolate in the wan beams of a new-risen moon. 
 
-  My condition was now one of indescribable chaos. Not knowing whether I was
+ My condition was now one of indescribable chaos. Not knowing whether I was
 mad or sane, sleeping or waking, I was saved only by a merciful numbness. I believe I did ridiculous
 things such as offering prayers to Artemis, Latona, Demeter, Persephone, and Plouton. All that
 I recalled of a classic youth came to my lips as the horrors of the situation roused my deepest
@@ -210,26 +210,26 @@ new terrors convulsed me, and I fell to the floor; not fainting, but physically 
 I felt the icy blast from the east window where the moon had risen, and began to hear the shrieks
 in the castle far below me. Soon those shrieks had attained a magnitude and quality which cannot
 be written of, and which make me faint as I think of them. All I can say is that they came from
-something I had known as a friend.  
+something I had known as a friend. 
 
-  At some time during this shocking period the cold wind and the screaming must
+ At some time during this shocking period the cold wind and the screaming must
 have roused me, for my next impression is of racing madly through inky rooms and corridors and
 out across the courtyard into the hideous night. They found me at dawn wandering mindless near
 Ballylough, but what unhinged me utterly was not any of the horrors I had seen or heard before.
 What I muttered about as I came slowly out of the shadows was a pair of fantastic incidents
 which occurred in my flight; incidents of no significance, yet which haunt me unceasingly when
-I am alone in certain marshy places or in the moonlight.  
+I am alone in certain marshy places or in the moonlight. 
 
-  As I fled from that accursed castle along the bog's edge I heard a new
+ As I fled from that accursed castle along the bog's edge I heard a new
 sound; common, yet unlike any I had heard before at Kilderry. The stagnant waters, lately quite
 devoid of animal life, now teemed with a horde of slimy enormous frogs which piped shrilly and
 incessantly in tones strangely out of keeping with their size. They glistened bloated and green
 in the moonbeams, and seemed to gaze up at the fount of light. I followed the gaze of one very
-fat and ugly frog, and saw the second of the things which drove my senses away.  
+fat and ugly frog, and saw the second of the things which drove my senses away. 
 
-  Stretching directly from the strange olden ruin on the far islet to the waning
+ Stretching directly from the strange olden ruin on the far islet to the waning
 moon, my eyes seemed to trace a beam of faint quivering radiance having no reflection in the
 waters of the bog. And upward along that pallid path my fevered fancy pictured a thin shadow
 slowly writhing; a vague contorted shadow struggling as if drawn by unseen daemons. Crazed as
 I was, I saw in that awful shadow a monstrous resemblance--a nauseous, unbelievable caricature--a
-blasphemous effigy of him who had been Denys Barry.  
+blasphemous effigy of him who had been Denys Barry. 

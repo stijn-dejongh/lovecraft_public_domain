@@ -1,17 +1,17 @@
 % "The Night Ocean" 
-%  R. H. Barlow with H. P. Lovecraft
+% R. H. Barlow with H. P. Lovecraft
 
-        
+    
 
-  
+ 
 
 I went to Ellston Beach not only for the pleasures of sun and ocean, but to rest a weary mind.
 Since I knew no person in the little town, which thrives on summer vacationists and presents
 only blank windows during most of the year, there seemed no likelihood that I might be disturbed.
 This pleased me, for I did not wish to see anything but the expanse of pounding surf and the
-beach lying before my temporary home.  
+beach lying before my temporary home. 
 
-  My long work of the summer was completed when I left the city, and the large
+ My long work of the summer was completed when I left the city, and the large
 mural design produced by it had been entered in the contest. It had taken me the bulk of the
 year to finish the painting, and when the last brush was cleaned I was no longer reluctant to
 yield to the claims of health and find rest and seclusion for a time. Indeed, when I had been
@@ -22,9 +22,9 @@ turn by my own skill alone the dim-conceived idea into the careful draught of a 
 yet that which later befell me by the lonely shore may have grown solely from the mental constitution
 behind such concern and fear and mistrust. For I have always been a seeker, a dreamer, and a
 ponderer on seeking and dreaming; and who can say that such a nature does not open latent eyes
-sensitive to unsuspected worlds and orders of being?  
+sensitive to unsuspected worlds and orders of being? 
 
-  Now that I am trying to tell what I saw I am conscious of a thousand maddening
+ Now that I am trying to tell what I saw I am conscious of a thousand maddening
 limitations. Things seen by the inward sight, like those flashing visions which come as we drift
 into the blankness of sleep, are more vivid and meaningful to us in that form than when we have
 sought to weld them with reality. Set a pen to a dream, and the colour drains from it. The ink
@@ -38,9 +38,9 @@ Amid these may be attained something of the glory and contentment for which we y
 of sharp beauties suspected but not before revealed, which are to us as the Grail to holy spirits
 of the mediaeval world. To shape these things on the wheel of art, to seek to bring some faded
 trophy from that intangible realm of shadow and gossamer, requires equal skill and memory. For
-although dreams are in all of us, few hands may grasp their moth-wings without tearing them.  
+although dreams are in all of us, few hands may grasp their moth-wings without tearing them. 
 
-  Such skill this narrative does not have. If I might, I would reveal to you
+ Such skill this narrative does not have. If I might, I would reveal to you
 the hinted events which I perceived dimly, like one who peers into an unlit realm and glimpses
 forms whose motion is concealed. In my mural design, which then lay with a multitude of others
 in the building for which they were planned, I had striven equally to catch a trace of this
@@ -50,9 +50,9 @@ me perspective, I discovered that--in spite of those weaknesses which a creator 
 most clearly--I had indeed managed to retain in line and colour some fragments snatched
 from the endless world of imagining. The difficulties of the process, and the resulting strain
 on all my powers, had undermined my health and brought me to the beach during this period of
-waiting.  
+waiting. 
 
-  Since I wished to be wholly alone, I rented (to the delight of the incredulous
+ Since I wished to be wholly alone, I rented (to the delight of the incredulous
 owner) a small house some distance from the village of Ellston--which, because of the waning
 season, was alive with a moribund bustle of tourists, uniformly uninteresting to me. The house,
 dark from the sea-wind though it had not been painted, was not even a satellite of the village;
@@ -62,9 +62,9 @@ dirty windows stared upon a lonely realm of earth and sky and enormous sea. It w
 use too much imagining in a narrative whose facts, could they be augmented and fitted into a
 mosaic, would be strange enough in themselves; but I thought the little house was lonely when
 I saw it, and that like myself, it was conscious of its meaningless nature before the great
-sea.  
+sea. 
 
-  I took the place in late August, arriving a day before I was expected, and
+ I took the place in late August, arriving a day before I was expected, and
 encountering a van and two workingmen unloading the furniture provided by the owner. I did not
 know then how long I would stay, and when the truck that brought the goods had left I settled
 my small luggage and locked the door (feeling very proprietary about having a house after months
@@ -75,9 +75,9 @@ wall. The place had been built about ten years previously, but on account of its
 Ellston village was difficult to rent even during the active summer season. There being no fireplace,
 it stood empty and alone from October until far into spring. Though actually less than a mile
 below Ellston, it seemed more remote; since a bend in the coast caused one to see only grassy
-dunes in the direction of the village.  
+dunes in the direction of the village. 
 
-  The first day, half-gone when I was installed, I spent in the enjoyment of
+ The first day, half-gone when I was installed, I spent in the enjoyment of
 sun and restless water--things whose quiet majesty made the designing of murals seem distant
 and tiresome. But this was the natural reaction to a long concern with one set of habits and
 activities. I was through with my work and my vacation was begun. This fact, while elusive for
@@ -95,9 +95,9 @@ square house during that or succeeding afternoons, although the curving shore in
 beach even more inviting than that at the village, where the surf was dotted with random figures.
 I supposed that this was because of the distance and because there had never been other houses
 below the town. Why this unbuilt stretch existed, I could not imagine; since many dwellings
-straggled along the northward coast, facing the sea with aimless eyes.  
+straggled along the northward coast, facing the sea with aimless eyes. 
 
-  I swam until the afternoon had gone, and later, having rested, walked into
+ I swam until the afternoon had gone, and later, having rested, walked into
 the little town. Darkness hid the sea from me as I entered, and I found in the dingy lights
 of the streets tokens of a life which was not even conscious of the great, gloom-shrouded thing
 lying so close. There were painted women in tinsel adornments, and bored men who were no longer
@@ -109,26 +109,26 @@ the absence of the moon, this light made a solid bar athwart the walls of the un
 I felt an indescribable emotion born of the noise of the waters and the perception of my inconceivable
 smallness as I cast that tiny beam upon a realm immense in itself, yet only the black border
 of the earthly deep. That nighted deep, upon which ships were moving alone in the darkness where
-I could not see them, gave off the murmur of a distant, angry rabble.  
+I could not see them, gave off the murmur of a distant, angry rabble. 
 
-  When I reached my high residence I knew that I had passed no one during the
+ When I reached my high residence I knew that I had passed no one during the
 mile's walk from the village, and yet there somehow lingered an impression that I had been
 all the while accompanied by the spirit of the lonely sea. It was, I thought, personified in
 a shape which was not revealed to me, but which moved quietly about beyond my range of comprehension.
 It was like those actors who wait behind darkened scenery in readiness for the lines which will
 shortly call them before our eyes to move and speak in the sudden revelation of the footlights.
 At last I shook off this fancy and sought my key to enter the place, whose bare walls gave a
-sudden feeling of security.  
+sudden feeling of security. 
 
-  My cottage was entirely free of the village, as if it had wandered down the
+ My cottage was entirely free of the village, as if it had wandered down the
 coast and was unable to return; and there I heard nothing of the disturbing clamour when I returned
 each night after supper. I generally stayed but a short while upon the streets of Ellston, though
 sometimes I went into the place for the sake of the walk it provided. There were all the multitude
 of curio-shops and falsely regal theater-fronts that clutter vacation towns, but I never went
 into these; and the place seemed useful only for its restaurants. It was astonishing the number
-of useless things people found to do.  
+of useless things people found to do. 
 
-  There was a succession of sun-filled days at first. I rose early, and beheld
+ There was a succession of sun-filled days at first. I rose early, and beheld
 the grey sky agleam with promise of sunrise; a prophecy fulfilled as I stood witness. Those
 dawns were cold, and their colours faint in comparison to that uniform radiance of day which
 gives to every hour the quality of white noon. That great light, so apparent the first day,
@@ -142,9 +142,9 @@ akin to death, so is light to vitality. Through the heritage of a million years 
 were closer to the mother sea, and when the creatures of which we are born lay languid in the
 shallow, sun-pierced water, we still seek the primal things when we are tired, steeping ourselves
 within their lulling security like those early half-mammals which had not yet ventured upon
-the oozy land.  
+the oozy land. 
 
-  The monotony of the waves gave repose, and I had no other occupation than witnessing
+ The monotony of the waves gave repose, and I had no other occupation than witnessing
 a myriad ocean moods. There is a ceaseless change in the waters--colours and shades pass
 over them like the insubstantial expressions of a well-known face; and these are at once communicated
 to us by half-recognized senses. When the sea is restless, remembering old ships that have gone
@@ -154,9 +154,9 @@ air, as if something too vast to have shape were lurking in the universe to whic
 The morning ocean, glimmering with a reflected mist of blue-white cloud and expanding diamond
 foam, has the eyes of one who ponders on strange things, and her intricately woven webs, through
 which dart a myriad coloured fishes, hold the air of some great idle thing which will arise
-presently from the hoary immemorial chasms and stride upon the land.  
+presently from the hoary immemorial chasms and stride upon the land. 
 
-  I was content for many days, and glad that I had chosen the lonely house which
+ I was content for many days, and glad that I had chosen the lonely house which
 sat like a small beast upon those rounded cliffs of sand. Among the pleasantly aimless amusements
 fostered by such a life, I took to following the edge of the tide (where the waves left a damp
 irregular outline rimmed with evanescent foam) for long distances; and sometimes I found curious
@@ -170,9 +170,9 @@ along with a large metal bead whose minutely carven design was rather unusual. T
 a fishy thing against a patterned background of seaweed instead of the usual floral or geometrical
 designs, and was still clearly traceable though worn with years of tossing in the surf. Since
 I had never seen anything like it, I judged that it represented some fashion, now forgotten,
-of a previous year at Ellston, where similar fads were common.  
+of a previous year at Ellston, where similar fads were common. 
 
-  I had been there perhaps a week when the weather began a gradual change. Each
+ I had been there perhaps a week when the weather began a gradual change. Each
 stage of this progressive darkening was followed by another subtly intensified, so that in the
 end the entire atmosphere surrounding me had shifted from day to evening. This was more obvious
 to me in a series of mental impressions than in what I actually witnessed, for the small house
@@ -180,9 +180,9 @@ was lonely under the grey skies, and there was sometimes a beating wind that cam
 ocean bearing moisture. The sun was displaced by long intervals of cloudiness--layers of
 grey mist beyond whose unknown depth the sun lay cut off. Though it might glare with the old
 intensity above that enormous veil, it could not penetrate. The beach was a prisoner in a hueless
-vault for hours at a time, as if something of the night were welling into other hours.  
+vault for hours at a time, as if something of the night were welling into other hours. 
 
-  Although the wind was invigorating and the ocean whipped into little churning
+ Although the wind was invigorating and the ocean whipped into little churning
 spirals of activity by the vagrant flapping, I found the water growing chill, so that I could
 not stay in it as long as I had done previously, and thus I fell into the habit of long walks,
 which--when I was unable to swim--provided the exercise that I was so careful to obtain.
@@ -204,14 +204,14 @@ made me long accustomed to the ancient silence and the ancient voice of nature. 
 to which I could have put no sure name, did not affect me long, yet I think now that all the
 while a gradual consciousness of the ocean's immense loneliness crept upon me, a loneliness
 that was made subtly horrible by intimations--which were never more than such--of some
-animation or sentience preventing me from being wholly alone.  
+animation or sentience preventing me from being wholly alone. 
 
-  The noisy, yellow streets of the town, with their curiously unreal activity,
+ The noisy, yellow streets of the town, with their curiously unreal activity,
 were very far away, and when I went there for my evening meal (mistrusting a diet entirely of
 my own ambiguous cooking) I took increasing and quite unreasonable care that I should return
-to the cottage before the late darkness, although I was often abroad until ten or so.  
+to the cottage before the late darkness, although I was often abroad until ten or so. 
 
-  You will say that such action is unreasonable; that if I had feared the darkness
+ You will say that such action is unreasonable; that if I had feared the darkness
 in some childish way, I would have entirely avoided it. You will ask me why I did not leave
 the place since its loneliness was depressing me. To all this I have no reply, save that whatever
 unrest I felt, whatever of remote disturbance there was to me in brief aspects of the darkening
@@ -220,9 +220,9 @@ an enormous garment so close to me, was something which had an origin half in my
 which showed itself only at fleeting moments, and which had no very long effect upon me. In
 the recurrent days of diamond light, with sportive waves flinging blue peaks at the basking
 shore, the memory of dark moods seemed rather incredible, yet only an hour or two afterward
-I might again experience those moods, and descend to a dim region of despair.  
+I might again experience those moods, and descend to a dim region of despair. 
 
-  Perhaps these inward emotions were only a reflection of the sea's own
+ Perhaps these inward emotions were only a reflection of the sea's own
 mood; for although half of what we see is coloured by the interpretation placed upon it by our
 minds, many of our feelings are shaped quite distinctly by external, physical things. The sea
 can bind us to her many moods, whispering to us by the subtle token of a shadow or a gleam upon
@@ -231,9 +231,9 @@ old things, and these memories, though we may not grasp them, are imparted to us
 share her gaiety or remorse. Since I was doing no work, seeing no person that I knew, I was
 perhaps susceptible to shades of her cryptic meaning which would have been overlooked by another.
 The ocean ruled my life during the whole of that late summer; demanding it as recompense for
-the healing she had brought me.  
+the healing she had brought me. 
 
-  There were drownings at the beach that year, and while I heard of these only
+ There were drownings at the beach that year, and while I heard of these only
 casually (such is our indifference to a death which does not concern us, and to which we are
 not witness), I knew that their details were unsavoury. The people who died--some of them
 swimmers of a skill beyond the average--were sometimes not found until many days had elapsed,
@@ -247,14 +247,14 @@ moves among the waves and comes on lone people from a lightless, motionless plac
 which men know and do not like. They must quickly find a reason for such a death, even if there
 are no sharks. Since sharks formed only a suspected cause, and one never to my knowledge confirmed,
 the swimmers who continued during the rest of the season were on guard against treacherous tides
-rather than against any possible sea-animal.  
+rather than against any possible sea-animal. 
 
-  Autumn, indeed, was not a great distance off, and some people used this as
+ Autumn, indeed, was not a great distance off, and some people used this as
 an excuse for leaving the sea, where men were snared by death, and going to the security of
 inland fields, where one cannot even hear the ocean. So August ended, and I had been at the
-beach many days.  
+beach many days. 
 
-  There had been a threat of a storm since the fourth of the new month, and on
+ There had been a threat of a storm since the fourth of the new month, and on
 the sixth, when I set out for a walk in the damp wind, there was a mass of formless cloud, colourless
 and oppressive, above the ruffled leaden sea. The motion of the wind, directed toward no especial
 goal but stirring uneasily, provided a sensation of coming animation--a hint of life in
@@ -290,15 +290,15 @@ held the stateliness and mystery of old monastery towers at twilight, but their 
 that of the cliffs in the old fairy-tale. Suddenly reminded of this lost image, I half expected
 to see, in the fine-spun dirty foam and among the waves which were now as if they had been poured
 of flawed black glass, the horrid figure of that ape-faced creature, wearing a mitre old with
-verdigris, advancing from its kingdom in some lost gulf to which those waves were sky.  
+verdigris, advancing from its kingdom in some lost gulf to which those waves were sky. 
 
-  I did not see any such creature from the realm of imagining, but as the chill
+ I did not see any such creature from the realm of imagining, but as the chill
 wind veered, slitting the heavens like a rustling knife, there lay in the gloom of merging cloud
 and water only a grey object, like a piece of driftwood, tossing obscurely on the foam. This
 was a considerable distance out, and since it vanished shortly, may not have been wood, but
-a porpoise coming to the troubled surface.  
+a porpoise coming to the troubled surface. 
 
-  I soon found that I had stayed too long contemplating the rising storm and
+ I soon found that I had stayed too long contemplating the rising storm and
 linking my early fancies with its grandeur, for an icy rain began spotting down, bringing a
 more uniform gloom upon a scene already too dark for the hour. Hurrying along the grey sand,
 I felt the impact of cold drops upon my back, and before many moments my clothing was soaked
@@ -319,9 +319,9 @@ Sea and sky had altered not at all, and the scene was that which had accompanied
 there was now painted upon it the hunching roof that seemed to bend from the assailing rain.
 I hurried up the insecure steps, and let myself into a dry room, where, unconsciously surprised
 that I was free of the nagging wind, I stood for a moment with water rilling from every inch
-of me.  
+of me. 
 
-  There are two windows in the front of that house, one on each side, and these
+ There are two windows in the front of that house, one on each side, and these
 face nearly straight upon the ocean; which I now saw half obscured by the combined veils of
 the rain and of the imminent night. From these windows I looked as I dressed myself in a motley
 array of dry garments seized from convenient hangers and from a chair too laden to sit upon.
@@ -331,9 +331,9 @@ or what the real time was, I could not tell, though a moment's search produced m
 left behind and thus avoiding the uniform wetness of my clothing. I half guessed the hour from
 the dimly seen hands, which were only slightly less indecipherable than the surrounding figures.
 In another moment my sight penetrated the gloom (greater in the house than beyond the bleared
-window) and saw that it was 6:45.  
+window) and saw that it was 6:45. 
 
-  There had been no one upon the beach as I came in, and naturally I expected
+ There had been no one upon the beach as I came in, and naturally I expected
 to see no further swimmers that night. Yet when I looked again from the window there appeared
 surely to be figures blotting the grime of the wet evening. I counted three moving about in
 some incomprehensible manner, and close to the house another--which may not have been a
@@ -354,36 +354,36 @@ emotion of fear; a consuming fright that welled up from the shadows of my consci
 later, when I had stepped to the window, there seemed to be nothing outside but the portentous
 night. Vaguely puzzled, and even more vaguely frightened--like one who has seen no alarming
 thing, but is apprehensive of what may be found in the dark street he is soon compelled to cross--I
-decided that I had very possibly seen no one, and that the murky air had deceived me.  
+decided that I had very possibly seen no one, and that the murky air had deceived me. 
 
-  The aura of isolation about the place increased that night, though just out
+ The aura of isolation about the place increased that night, though just out
 of sight on the northward beach a hundred houses rose in the rainy darkness, their light bleared
 and yellow above streets of polished glass, like goblin-eyes reflected in an oily forest pool.
 Yet because I could not see them, or even reach them in bad weather--since I had no car
 nor any way to leave the crouching house except by walking in the figure-haunted darkness--I
 realized quite suddenly that I was, to all intents, alone with the dreary sea that rose and
 subsided unseen, unkenned, in the mist. And the voice of the sea had become a hoarse groan,
-like that of something wounded which shifts about before trying to rise.  
+like that of something wounded which shifts about before trying to rise. 
 
-  Fighting away the prevalent gloom with a soiled lamp--for the darkness
+ Fighting away the prevalent gloom with a soiled lamp--for the darkness
 crept in at my windows and sat peering obscurely at me from the corners like a patient animal--I
 prepared my food, since I had no intention of going to the village. The hour seemed incredibly
 advanced, though it was not yet nine o'clock when I went to bed. Darkness had come early
 and furtively, and throughout the remainder of my stay lingered evasively over each scene and
 action which I beheld. Something had settled out of the night--something forever undefined,
 but stirring a latent sense within me, so that I was like a beast expecting the momentary rustle
-of an enemy.  
+of an enemy. 
 
-  There were hours of wind, and sheets of the downpour flapped endlessly on the
+ There were hours of wind, and sheets of the downpour flapped endlessly on the
 meagre walls barring it from me. Lulls came in which I heard the mumbling sea, and I could guess
 that large formless waves jostled one another in the pallid whine of the winds, and flung on
 the beach a spray bitter with salt. Yet in the very monotony of the restless elements I found
 a lethargic note, a sound that beguiled me, after a time, into slumber grey and colourless as
 the night. The sea continued its mad monologue, and the wind her nagging, but these were shut
 out by the walls of unconsciousness, and for a time the night ocean was banished from a sleeping
-mind.  
+mind. 
 
-  Morning brought an enfeebled sun--a sun like that which men will see when
+ Morning brought an enfeebled sun--a sun like that which men will see when
 the earth is old, if there are any men left: a sun more weary than the shrouded, moribund sky.
 Faint echo of its old image, Phoebus strove to pierce the ragged, ambiguous clouds as I awoke,
 at moments sending a wash of pale gold rippling across the northwestern interior of my house,
@@ -396,9 +396,9 @@ into the world, but had swollen and subsided into one long afternoon. Gaining he
 sun exerted all his force in dispelling the old mist, streaked now like a dirty window, and
 cast it from his realm. The shallow blue day advanced as those grimy wisps retreated, and the
 loneliness which had encircled me welled back into a watchful place of retreat, whence it went
-no farther, but crouched and waited.  
+no farther, but crouched and waited. 
 
-  The ancient brightness was now once more upon the sun, and the old glitter
+ The ancient brightness was now once more upon the sun, and the old glitter
 on the waves, whose playful blue shapes had flocked upon that coast ere man was born, and would
 rejoice unseen when he was forgotten in the sepulchre of time. Influenced by these thin assurances,
 like one who believes the smile of friendship on an enemy's features, I opened my door,
@@ -438,9 +438,9 @@ rays, and all things nurtured by it must have cherished its bright message on su
 when it is absent in the far reaches of eternity, earth will be lost and black against an illimitable
 void. That morning, in which I shared the fire of life, and whose brief moment of pleasure is
 secure against the ravenous years, was astir with the beckoning of strange things whose elusive
-names can never be written.  
+names can never be written. 
 
-  As I made my way toward the village, wondering how it might look after a long-needed
+ As I made my way toward the village, wondering how it might look after a long-needed
 scrubbing by the industrious rain, I saw, tangled in a glimmer of sunlit moisture that was poured
 over it like a yellow vintage, a small object like a hand, some twenty feet ahead of me, and
 touched by the repetitious foam. The shock and disgust born in my startled mind when I saw that
@@ -450,24 +450,24 @@ and I thought I saw mushy fingers wed in decay. I turned the thing over with my 
 to touch so foul an object, and it adhered stickily to the leather shoe, as if clutching with
 the grasp of corruption. The thing, whose shape was nearly lost, held too much resemblance to
 what I feared it might be; and I pushed it into the willing grasp of a seething wave, which
-took it from sight with an alacrity not often shown by those ravelled edges of the sea.  
+took it from sight with an alacrity not often shown by those ravelled edges of the sea. 
 
-  Perhaps I should have reported my find, yet its nature was too ambiguous to
-make action natural. Since it had been partly   eaten   by some ocean-dwelling monstrousness,
+ Perhaps I should have reported my find, yet its nature was too ambiguous to
+make action natural. Since it had been partly  eaten  by some ocean-dwelling monstrousness,
 I did not think it identifiable enough to form evidence of an unknown but possible tragedy.
 The numerous drownings, of course, came into my mind--as well as other things lacking in
 wholesomeness, some of which remained only as possibilities. Whatever the storm-dislodged fragment
 may have been, and whether it were fish or some animal akin to man, I have never spoken of it
 until now. After all, there was no proof that it had not merely been distorted by rottenness
-into that shape.  
+into that shape. 
 
-  I approached the town, sickened by the presence of such an object amidst the
+ I approached the town, sickened by the presence of such an object amidst the
 apparent beauty of the clean beach, though it was horribly typical of the indifference of death
 in a nature which mingles rottenness with beauty, and perhaps loves the former more. In Ellston
 I heard of no recent drowning or other mishap of the sea, and found no reference to such in
-the columns of the local paper--the only one I read during my stay.  
+the columns of the local paper--the only one I read during my stay. 
 
-  It is difficult to describe the mental state in which succeeding days found
+ It is difficult to describe the mental state in which succeeding days found
 me. Always susceptible to morbid emotions whose dark anguish might be induced by things outside
 myself, or might spring from the abysses of my own spirit, I was ridden by a feeling which was
 not of fear or despair, or anything akin to these, but was rather a perception of the brief
@@ -483,9 +483,9 @@ something definitely ended) to an indolence like that of a man who no longer car
 I was engulfed by a piteous lethargic fear of some ineluctable doom which would be, I felt,
 the completed hate of the peering stars and of the black enormous waves that hoped to clasp
 my bones within them--the vengeance of all the indifferent, horrendous majesty of the night
-ocean.  
+ocean. 
 
-  Something of the darkness and restlessness of the sea had penetrated my heart,
+ Something of the darkness and restlessness of the sea had penetrated my heart,
 so that I lived in an unreasoning, unperceiving torment, a torment none the less acute because
 of the subtlety of its origin and the strange, unmotivated quality of its vampiric existence.
 Before my eyes lay the phantasmagoria of the purpling clouds, the strange silver bauble, the
@@ -493,9 +493,9 @@ recurrent stagnant foam, the loneliness of that bleak-eyed house, and the mocker
 town. I no longer went to the village, for it seemed only a travesty of life. Like my own soul,
 it stood upon a dark, enveloping sea--a sea grown slowly hateful to me. And among these
 images, corrupt and festering, dwelt that of an object whose human contours left ever smaller
-the doubt of what it once had been.  
+the doubt of what it once had been. 
 
-  These scribbled words can never tell of the hideous loneliness (something I
+ These scribbled words can never tell of the hideous loneliness (something I
 did not even wish assuaged, so deeply was it embedded in my heart) which had insinuated itself
 within me, mumbling of terrible and unknown things stealthily circling nearer. It was not a
 madness: rather it was a too clear and naked perception of the darkness beyond this frail existence,
@@ -505,9 +505,9 @@ as I might with all the remaining power of my spirit, I could neither win an inc
 from the inimical universe, nor hold for even a moment the life entrusted to me. Fearing death
 as I did life, burdened with a nameless dread yet unwilling to leave the scenes evoking it,
 I awaited whatever consummating horror was shifting itself in the immense region beyond the
-walls of consciousness.  
+walls of consciousness. 
 
-  Thus autumn found me, and what I had gained from the sea was lost back into
+ Thus autumn found me, and what I had gained from the sea was lost back into
 it. Autumn on the beaches--a drear time betokened by no scarlet leaf nor any other accustomed
 sign. A frightening sea which changes not, though man changes. There was only a chilling of
 the waters, in which I no longer cared to enter--a further darkening of the pall-like sky,
@@ -519,9 +519,9 @@ the darkness of the scene were a reflection of my own broodings, or whether the 
 me were caused by what lay without, I could not have told. Upon the beach and me alike had fallen
 a shadow, like that of a bird which flies silently overhead--a bird whose watching eyes
 we do not suspect till the image on the ground repeats the image in the sky, and we look suddenly
-upward to find that something has been circling above us hitherto unseen.  
+upward to find that something has been circling above us hitherto unseen. 
 
-  The day was in late September, and the town had closed the resorts where mad
+ The day was in late September, and the town had closed the resorts where mad
 frivolity ruled empty, fear-haunted lives, and where raddled puppets performed their summer
 antics. The puppets were cast aside, smeared with the painted smiles and frowns they had last
 assumed, and there were not a hundred people left in the town. Again the gaudy, stucco-fronted
@@ -537,9 +537,9 @@ be plagued, because of the damnable suggestions (and only suggestions) they cont
 the time with an intuitive distress of spirit--a recognition too deep for me to explain.
 Throughout those daylight hours I was expectant of the night; impatient, perhaps, so that the
 sunlight passed like a half-glimpsed reflection in rippled water--a day of whose events
-I recall nothing.  
+I recall nothing. 
 
-  It was long since that portentous storm had cast a shadow over the beach, and
+ It was long since that portentous storm had cast a shadow over the beach, and
 I had determined, after hesitations caused by nothing tangible, to leave Ellston, since the
 year was chilling and there was no return to my earlier contentment. When a telegram came for
 me (lying two days in the Western Union office before I was located, so little was my name known)
@@ -548,9 +548,9 @@ set a date for leaving. This news, which earlier in the year would have affected
 I now received with a curious apathy. It seemed as unrelated to the unreality about me, as little
 pertinent to me, as if it were directed to another person whom I did not know, and whose message
 had come to me through some accident. None the less, it was that which forced me to complete
-my plans and leave the cottage by the shore.  
+my plans and leave the cottage by the shore. 
 
-  There were only four nights of my stay remaining when there occurred the last
+ There were only four nights of my stay remaining when there occurred the last
 of those events whose meaning lies more in the darkly sinister impression surrounding them than
 in anything obviously threatening. Night had settled over Ellston and the coast, and a pile
 of soiled dishes attested both to my recent meal and to my lack of industry. Darkness came as
@@ -559,18 +559,18 @@ the sky, washing in a floating moon, monstrously elevated. The flat sea borderin
 sand, the utter absence of tree or figure or life of any sort, and the regard of that high moon
 made the vastness of my surroundings abruptly clear. There were only a few stars pricking through,
 as if to accentuate by their smallness the majesty of the lunar orb and of the restless, shifting
-tide.  
+tide. 
 
-  I had stayed indoors, fearing somehow to go out before the sea on such a night
+ I had stayed indoors, fearing somehow to go out before the sea on such a night
 of shapeless portent, but I heard it mumbling secrets of an incredible lore. Borne to me on
 a wind out of nowhere was the breath of some strange and palpitant life--the embodiment
 of all I had felt and of all I had suspected--stirring now in the chasms of the sky or beneath
 the mute waves. In what place this mystery turned from an ancient, horrible slumber I could
 not tell, but like one who stands by a figure lost in sleep, knowing that it will awake in a
 moment, I crouched by the windows, holding a nearly burnt-out cigarette, and faced the rising
-moon.  
+moon. 
 
-  Gradually there passed into that never-stirring landscape a brilliance intensified
+ Gradually there passed into that never-stirring landscape a brilliance intensified
 by the overhead glimmerings, and I seemed more and more under some compulsion to watch whatever
 might follow. The shadows were draining from the beach, and I felt that they took with were
 all which might have been a harbour for my thoughts when the hinted thing should come. Where
@@ -586,9 +586,9 @@ I had set the lamp upon a box in the western corner of the room, but the moon wa
 and her bluish rays invaded places where the lamplight was faint. The ancient glow of the round
 silent orb lay upon the beach as it had lain for aeons, and I waited in a torment of expectancy
 made doubly acute by the delay in fulfillment, and the uncertainty of what strange completion
-was to come.  
+was to come. 
 
-  Outside the crouching hut a white illumination suggested vague spectral forms
+ Outside the crouching hut a white illumination suggested vague spectral forms
 whose unreal, phantasmal motions seemed to taunt my blindness, just as unheard voices mocked
 my eager listening. For countless moments I was still, as if Time and the tolling of her great
 bell were hushed into nothingness. And yet there was nothing which I might fear: the moon-chiselled
@@ -604,35 +604,35 @@ a sick light hued like a corpse's flesh. Glancing at it now and again, for the d
 distraction it gave, I saw that many bubbles unaccountably rose and vanished in the kerosene-filled
 base. Curiously enough, there was no heat from the wick. And suddenly I became aware that the
 night as a whole was neither warm nor cold, but strangely neutral--as if all physical forces
-were suspended, and all the laws of a calm existence disrupted.  
+were suspended, and all the laws of a calm existence disrupted. 
 
-  Then, with an unheard splash which sent from the silver water to the shore
+ Then, with an unheard splash which sent from the silver water to the shore
 a line of ripples echoed in fear by my heart, a swimming thing emerged beyond the breakers.
 The figure may have been that of a dog, a human being, or something more strange. It could not
 have known that I watched--perhaps it did not care--but like a distorted fish it swam
 across the mirrored stars and dived beneath the surface. After a moment it came up again, and
 this time, since it was closer, I saw that it was carrying something across its shoulder. I
 knew, then, that it could be no animal, and that it was a man or something like a man, which
-came toward the land from a dark ocean. But it swam with a horrible ease.  
+came toward the land from a dark ocean. But it swam with a horrible ease. 
 
-  As I watched, dread-filled and passive, with the fixed stare of one who awaits
+ As I watched, dread-filled and passive, with the fixed stare of one who awaits
 death in another yet knows he cannot avert it, the swimmer approached the shore--though
 too far down the southward beach for me to discern its outlines or features. Obscurely loping,
 with sparks of moonlit foam scattered by its quick gait, it emerged and was lost among the inland
-dunes.  
+dunes. 
 
-  Now I was possessed by a sudden recurrence of fear, which had died away in
+ Now I was possessed by a sudden recurrence of fear, which had died away in
 the previous moments. There was a tingling coldness all over me--though the room, whose
 window I dared not open now, was stuffy. I thought it would be very horrible if something were
-to enter a window which was not closed.  
+to enter a window which was not closed. 
 
-  Now that I could no longer see the figure, I felt that it lingered somewhere
+ Now that I could no longer see the figure, I felt that it lingered somewhere
 in the close shadows, or peered hideously at me from whatever window I did not watch. And so
 I turned my gaze, eagerly and frantically, to each successive pane; dreading that I might indeed
 behold an intrusive regarding face, yet unable to keep myself from the terrifying inspection.
-But though I watched for hours, there was no longer anything upon the beach.  
+But though I watched for hours, there was no longer anything upon the beach. 
 
-  So the night passed, and with it began the ebbing of that strangeness--a
+ So the night passed, and with it began the ebbing of that strangeness--a
 strangeness which had surged up like an evil brew within a pot, had mounted to the very rim
 in a breathless moment, had paused uncertainly there, and had subsided, taking with it whatever
 unknown message it had borne. Like the stars that promise the revelation of terrible and glorious
@@ -643,9 +643,9 @@ a glimpse of the furtive thing; a glimpse made obscure by the veils of ignorance
 conceive what might have shown itself had I been too close to that swimmer who went shoreward
 instead of into the ocean. I do not know what might have come if the brew had passed the rim
 of the pot and poured outward in a swift cascade of revelation. The night ocean withheld whatever
-it had nurtured. I shall know nothing more.  
+it had nurtured. I shall know nothing more. 
 
-  Even yet I do not know why the ocean holds such a fascination for me. But then,
+ Even yet I do not know why the ocean holds such a fascination for me. But then,
 perhaps none of us can solve those things--they exist in defiance of all explanation. There
 are men, and wise men, who do not like the sea and its lapping surf on yellow shores; and they
 think us strange who love the mystery of the ancient and unending deep. Yet for me there is
@@ -654,9 +654,9 @@ foam beneath the moon's waxen corpse; it hovers over the silent and eternal wave
 beat on naked shores; it is there when all is lifeless save for unknown shapes that glide through
 sombre depths. And when I behold the awesome billows surging in endless strength, there comes
 upon me an ecstasy akin to fear; so that I must abase myself before this mightiness, that I
-may not hate the clotted waters and their overwhelming beauty.  
+may not hate the clotted waters and their overwhelming beauty. 
 
-  Vast and lonely is the ocean, and even as all things came from it, so shall
+ Vast and lonely is the ocean, and even as all things came from it, so shall
 they return thereto. In the shrouded depths of time none shall reign upon the earth, nor shall
 any motion be, save in the eternal waters. And these shall beat on dark shores in thunderous
 foam, though none shall remain in that dying world to watch the cold light of the enfeebled
@@ -665,4 +665,4 @@ rest only a stagnant foam, gathering about the shells and bones of perished shap
 within the waters. Silent, flabby things will toss and roll along empty shores, their sluggish
 life extinct. Then all shall be dark, for at last even the white moon on the distant waves shall
 wink out. Nothing shall be left, neither above nor below the sombre waters. And until that last
-millennium, as after it, the sea will thunder and toss throughout the dismal night.  
+millennium, as after it, the sea will thunder and toss throughout the dismal night. 

@@ -160,7 +160,7 @@ after dark from the distant railway station, was seized by some frightful carniv
 and torn to ribbons. His screams had reached the house, and I had hastened to the terrible scene
 in time to hear a whir of wings and see a vague black cloudy thing silhouetted against the rising
 moon. My friend was dying when I spoke to him, and he could not answer coherently. All he could
-do was to whisper,  "The amulet--that damned thing--. " Then he collapsed,
+do was to whisper, "The amulet--that damned thing--. " Then he collapsed,
 an inert mass of mangled flesh.
 
 I buried him the next midnight in one of our neglected gardens, and mumbled
@@ -225,6 +225,6 @@ on centuries of corpses . . . dripping death astride a Bacchanale of bats from
 night-black ruins of buried temples of Belial. . . . Now, as the baying of that
 dead, fleshless monstrosity grows louder and louder, and the stealthy whirring and flapping
 of those accursed web-wings circles closer and closer, I shall seek with my revolver the oblivion
-which is my only refuge from the unnamed and unnamable.  
+which is my only refuge from the unnamed and unnamable. 
 
 

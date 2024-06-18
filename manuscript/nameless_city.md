@@ -149,15 +149,15 @@ the Oxus; later chanting over and over again a phrase from one of Lord Dunsany's
 unreverberate blackness of the abyss ". Once when the descent grew amazingly steep I recited
 something in sing-song from Thomas Moore until I feared to recite more:
 
-> "A reservoir of darkness, black  
-> As witches' cauldrons are, when fill'd  
-> With moon-drugs in th' eclipse distill'd.  
-> Leaning to look if foot might pass  
-> Down thro' that chasm, I saw, beneath,  
-> As far as vision could explore,  
-> The jetty sides as smooth as glass,  
-> Looking as if just varnish'd o'er  
-> With that dark pitch the Sea of Death  
+> "A reservoir of darkness, black 
+> As witches' cauldrons are, when fill'd 
+> With moon-drugs in th' eclipse distill'd. 
+> Leaning to look if foot might pass 
+> Down thro' that chasm, I saw, beneath, 
+> As far as vision could explore, 
+> The jetty sides as smooth as glass, 
+> Looking as if just varnish'd o'er 
+> With that dark pitch the Sea of Death 
 > Throws out upon its slimy shore. "
 
 Time had quite ceased to exist when my feet again felt a level floor, and I
@@ -358,6 +358,6 @@ city.
 And as the wind died away I was plunged into the ghoul-peopled blackness of
 earth's bowels; for behind the last of the creatures the great brazen door clanged shut
 with a deafening peal of metallic music whose reverberations swelled out to the distant world
-to hail the rising sun as Memnon hails it from the banks of the Nile.  
+to hail the rising sun as Memnon hails it from the banks of the Nile. 
 
 

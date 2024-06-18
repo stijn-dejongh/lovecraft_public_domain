@@ -141,7 +141,7 @@ the transmission of photographic copies to every living expert in the given fiel
 
 It is true that a few scholars, unusually versed in the literature of occultism
 and magic, found vague resemblances between some of the hieroglyphs and certain primal symbols
-described or cited in two or three very ancient, obscure, and esoteric texts such as the  
+described or cited in two or three very ancient, obscure, and esoteric texts such as the 
 Book of Eibon, reputed to descend from forgotten Hyperborea; the Pnakotic fragments, alleged
 to be pre-human; and the monstrous and forbidden Necronomicon of the mad Arab Abdul Alhazred.
 None of these resemblances, however, was beyond dispute; and because of the prevailing low estimation
@@ -793,4 +793,4 @@ to petrification was very difficult to determine.
 At 3:30 p.m. the brain-case was opened--and ten minutes later our stunned
 group took an oath of secrecy which only such guarded documents as this manuscript will ever
 modify. Even the two reporters were glad to confirm the silence. For the opening had revealed
-a pulsing, living brain.  
+a pulsing, living brain. 

@@ -85,7 +85,7 @@ flat. As it looked up to hiss at me I saw that the beady little black eyes were 
 but I could not bear to study them long. They fastened themselves on me with a horrible persistence,
 so that I closed the panel gaspingly and left the creature to wriggle about unseen in its matted
 straw and spectral twilight. I must have reeled a bit, for I saw that the doctor was gently
-holding my arm as he guided me away. I was stuttering over and over again:  *"B-but for God's sake, what is it?"*
+holding my arm as he guided me away. I was stuttering over and over again: *"B-but for God's sake, what is it?"*
 
 Dr. McNeill told me the story in his private office as I sprawled opposite
 him in an easy-chair. The gold and crimson of late afternoon changed to the violet of early
@@ -540,7 +540,7 @@ could only suggest tremulously and stupidly:
 *"So Walker had only fainted that first time--the screams roused him,
 and the axe did the rest?"*
 
-*"Yes."* Dr. McNeill's voice was low.  *"But he met his death
+*"Yes."* Dr. McNeill's voice was low. *"But he met his death
 from snakes just the same. It was his fear working in two ways--it made him faint, and it
 made him fill his wife with the wild stories that caused her to strike out when she thought
 she saw the snake-devil."*
@@ -561,6 +561,6 @@ I interrupted with a start.
 McNeill spoke gravely.
 
 *"That is what was born to her three-quarters of a year afterward.
-There were three more of them--two were even worse--but this is the only one that lived."*  
+There were three more of them--two were even worse--but this is the only one that lived."* 
 
 

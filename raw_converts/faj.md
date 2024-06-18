@@ -1,11 +1,11 @@
 % "Facts concerning the Late Arthur Jermyn and His Family" 
-%  H. P. Lovecraft
+% H. P. Lovecraft
 
-        
+    
 
-  
+ 
 
-  I.    
+ I.  
 
 Life is a hideous thing, and from the background behind what we know of it peer daemoniacal
 hints of truth which make it sometimes a thousandfold more hideous. Science, already oppressive
@@ -14,11 +14,11 @@ separate species we be--for its reserve of unguessed horrors could never be born
 brains if loosed upon the world. If we knew what we are, we should do as Sir Arthur Jermyn did;
 and Arthur Jermyn soaked himself in oil and set fire to his clothing one night. No one placed
 the charred fragments in an urn or set a memorial to him who had been; for certain papers and
-a certain boxed   object   were found, which made men wish to forget. Some who knew him do
-not admit that he ever existed.  
+a certain boxed  object  were found, which made men wish to forget. Some who knew him do
+not admit that he ever existed. 
 
-  Arthur Jermyn went out on the moor and burned himself after seeing the boxed
-  object   which had come from Africa. It was this   object,   and not his peculiar personal
+ Arthur Jermyn went out on the moor and burned himself after seeing the boxed
+ object  which had come from Africa. It was this  object,  and not his peculiar personal
 appearance, which made him end his life. Many would have disliked to live if possessed of the
 peculiar features of Arthur Jermyn, but he had been a poet and scholar and had not minded. Learning
 was in his blood, for his great-grandfather, Sir Robert Jermyn, Bt., had been an anthropologist
@@ -26,12 +26,12 @@ of note, whilst his great-great-great-grandfather, Sir Wade Jermyn, was one of t
 explorers of the Congo region, and had written eruditely of its tribes, animals, and supposed
 antiquities. Indeed, old Sir Wade had possessed an intellectual zeal amounting almost to a mania;
 his bizarre conjectures on a prehistoric white Congolese civilisation earning him much ridicule
-when his book,   Observations on the Several Parts of Africa,   was published. In 1765 this
-fearless explorer had been placed in a madhouse at Huntingdon.  
+when his book,  Observations on the Several Parts of Africa,  was published. In 1765 this
+fearless explorer had been placed in a madhouse at Huntingdon. 
 
-  Madness was in all the Jermyns, and people were glad there were not many of
+ Madness was in all the Jermyns, and people were glad there were not many of
 them. The line put forth no branches, and Arthur was the last of it. If he had not been, one
-cannot say what he would have done when the   object   came. The Jermyns never seemed to
+cannot say what he would have done when the  object  came. The Jermyns never seemed to
 look quite right--something was amiss, though Arthur was the worst, and the old family
 portraits in Jermyn House shewed fine faces enough before Sir Wade's time. Certainly,
 the madness began with Sir Wade, whose wild stories of Africa were at once the delight and terror
@@ -45,9 +45,9 @@ her disposition had been violent and singular. During her brief stay at Jermyn H
 a remote wing, and was waited on by her husband alone. Sir Wade was, indeed, most peculiar in
 his solicitude for his family; for when he returned to Africa he would permit no one to care
 for his young son save a loathsome black woman from Guinea. Upon coming back, after the death
-of Lady Jermyn, he himself assumed complete care of the boy.  
+of Lady Jermyn, he himself assumed complete care of the boy. 
 
-  But it was the talk of Sir Wade, especially when in his cups, which chiefly
+ But it was the talk of Sir Wade, especially when in his cups, which chiefly
 led his friends to deem him mad. In a rational age like the eighteenth century it was unwise
 for a man of learning to talk about wild sights and strange scenes under a Congo moon; of the
 gigantic walls and pillars of a forgotten city, crumbling and vine-grown, and of damp, silent,
@@ -64,9 +64,9 @@ madhouse. He had shewn little regret when shut into the barred room at Huntingdo
 moved curiously. Ever since his son had commenced to grow out of infancy he had liked his home
 less and less, till at last he had seemed to dread it. The Knight's Head had been his
 headquarters, and when he was confined he expressed some vague gratitude as if for protection.
-Three years later he died.  
+Three years later he died. 
 
-  Wade Jermyn's son Philip was a highly peculiar person. Despite a strong
+ Wade Jermyn's son Philip was a highly peculiar person. Despite a strong
 physical resemblance to his father, his appearance and conduct were in many particulars so coarse
 that he was universally shunned. Though he did not inherit the madness which was feared by some,
 he was densely stupid and given to brief periods of uncontrollable violence. In frame he was
@@ -75,9 +75,9 @@ to his title he married the daughter of his gamekeeper, a person said to be of g
 but before his son was born joined the navy as a common sailor, completing the general disgust
 which his habits and mesalliance had begun. After the close of the American war he was heard
 of as a sailor on a merchantman in the African trade, having a kind of reputation for feats
-of strength and climbing, but finally disappearing one night as his ship lay off the Congo coast.  
+of strength and climbing, but finally disappearing one night as his ship lay off the Congo coast. 
 
-  In the son of Sir Philip Jermyn the now accepted family peculiarity took a
+ In the son of Sir Philip Jermyn the now accepted family peculiarity took a
 strange and fatal turn. Tall and fairly handsome, with a sort of weird Eastern grace despite
 certain slight oddities of proportion, Robert Jermyn began life as a scholar and investigator.
 It was he who first studied scientifically the vast collection of relics which his mad grandfather
@@ -89,9 +89,9 @@ relief in work, and made two long expeditions in the interior of Africa. In 1849
 son, Nevil, a singularly repellent person who seemed to combine the surliness of Philip Jermyn
 with the hauteur of the Brightholmes, ran away with a vulgar dancer, but was pardoned upon his
 return in the following year. He came back to Jermyn House a widower with an infant son, Alfred,
-who was one day to be the father of Arthur Jermyn.  
+who was one day to be the father of Arthur Jermyn. 
 
-  Friends said that it was this series of griefs which unhinged the mind of Sir
+ Friends said that it was this series of griefs which unhinged the mind of Sir
 Robert Jermyn, yet it was probably merely a bit of African folklore which caused the disaster.
 The elderly scholar had been collecting legends of the Onga tribes near the field of his grandfather's
 and his own explorations, hoping in some way to account for Sir Wade's wild tales of a
@@ -107,9 +107,9 @@ to all three of his children; the two who were never seen, and the son who had r
 Jermyn died in the successful defence of his own two-year-old son, who had apparently been included
 in the old man's madly murderous scheme. Sir Robert himself, after repeated attempts at
 suicide and a stubborn refusal to utter any articulate sound, died of apoplexy in the second
-year of his confinement.  
+year of his confinement. 
 
-  Sir Alfred Jermyn was a baronet before his fourth birthday, but his tastes
+ Sir Alfred Jermyn was a baronet before his fourth birthday, but his tastes
 never matched his title. At twenty he had joined a band of music-hall performers, and at thirty-six
 had deserted his wife and child to travel with an itinerant American circus. His end was very
 revolting. Among the animals in the exhibition with which he travelled was a huge bull gorilla
@@ -119,14 +119,14 @@ the two would eye each other for long periods through the intervening bars. Even
 asked and obtained permission to train the animal, astonishing audiences and fellow-performers
 alike with his success. One morning in Chicago, as the gorilla and Alfred Jermyn were rehearsing
 an exceedingly clever boxing match, the former delivered a blow of more than usual force, hurting
-both the body and dignity of the amateur trainer. Of what followed, members of  "The Greatest
+both the body and dignity of the amateur trainer. Of what followed, members of "The Greatest
 Show on Earth " do not like to speak. They did not expect to hear Sir Alfred Jermyn emit
 a shrill, inhuman scream, or to see him seize his clumsy antagonist with both hands, dash it
 to the floor of the cage, and bite fiendishly at its hairy throat. The gorilla was off its guard,
 but not for long, and before anything could be done by the regular trainer the body which had
-belonged to a baronet was past recognition.  
+belonged to a baronet was past recognition. 
 
-    II.    
+  II.  
 
 Arthur Jermyn was the son of Sir Alfred Jermyn and a music-hall singer of unknown
 origin. When the husband and father deserted his family, the mother took the child to Jermyn
@@ -142,9 +142,9 @@ The poetic delicacy of Arthur Jermyn was the more remarkable because of his unco
 appearance. Most of the Jermyns had possessed a subtly odd and repellent cast, but Arthur's
 case was very striking. It is hard to say just what he resembled, but his expression, his facial
 angle, and the length of his arms gave a thrill of repulsion to those who met him for the first
-time.  
+time. 
 
-  It was the mind and character of Arthur Jermyn which atoned for his aspect.
+ It was the mind and character of Arthur Jermyn which atoned for his aspect.
 Gifted and learned, he took highest honours at Oxford and seemed likely to redeem the intellectual
 fame of his family. Though of poetic rather than scientific temperament, he planned to continue
 the work of his forefathers in African ethnology and antiquities, utilising the truly wonderful
@@ -154,27 +154,27 @@ tale about the silent jungle city mentioned in the latter's wilder notes and par
 For the nebulous utterances concerning a nameless, unsuspected race of jungle hybrids he had
 a peculiar feeling of mingled terror and attraction; speculating on the possible basis of such
 a fancy, and seeking to obtain light among the more recent data gleaned by his great-grandfather
-and Samuel Seaton amongst the Ongas.  
+and Samuel Seaton amongst the Ongas. 
 
-  In 1911, after the death of his mother, Sir Arthur Jermyn determined to pursue
+ In 1911, after the death of his mother, Sir Arthur Jermyn determined to pursue
 his investigations to the utmost extent. Selling a portion of his estate to obtain the requisite
 money, he outfitted an expedition and sailed for the Congo. Arranging with the Belgian authorities
 for a party of guides, he spent a year in the Onga and Kaliri country, finding data beyond the
 highest of his expectations. Among the Kaliris was an aged chief called Mwanu, who possessed
 not only a highly retentive memory, but a singular degree of intelligence and interest in old
 legends. This ancient confirmed every tale which Jermyn had heard, adding his own account of
-the stone city and the white apes as it had been told to him.  
+the stone city and the white apes as it had been told to him. 
 
-  According to Mwanu, the grey city and the hybrid creatures were no more, having
+ According to Mwanu, the grey city and the hybrid creatures were no more, having
 been annihilated by the warlike N'bangus many years ago. This tribe, after destroying
 most of the edifices and killing the live beings, had carried off the stuffed goddess which
 had been the object of their quest; the white ape-goddess which the strange beings worshipped,
 and which was held by Congo tradition to be the form of one who had reigned as a princess among
 those beings. Just what the white ape-like creatures could have been, Mwanu had no idea, but
 he thought they were the builders of the ruined city. Jermyn could form no conjecture, but by
-close questioning obtained a very picturesque legend of the stuffed goddess.  
+close questioning obtained a very picturesque legend of the stuffed goddess. 
 
-  The ape-princess, it was said, became the consort of a great white god who
+ The ape-princess, it was said, became the consort of a great white god who
 had come out of the West. For a long time they had reigned over the city together, but when
 they had a son all three went away. Later the god and the princess had returned, and upon the
 death of the princess her divine husband had mummified the body and enshrined it in a vast house
@@ -184,9 +184,9 @@ became a symbol of supremacy for whatever tribe might possess it. It was for thi
 the N'bangus carried it off. A second story told of the god's return and death at
 the feet of his enshrined wife. A third told of the return of the son, grown to manhood--or
 apehood or godhood, as the case might be--yet unconscious of his identity. Surely the imaginative
-blacks had made the most of whatever events might lie behind the extravagant legendry.  
+blacks had made the most of whatever events might lie behind the extravagant legendry. 
 
-  Of the reality of the jungle city described by old Sir Wade, Arthur Jermyn
+ Of the reality of the jungle city described by old Sir Wade, Arthur Jermyn
 had no further doubt; and was hardly astonished when early in 1912 he came upon what was left
 of it. Its size must have been exaggerated, yet the stones lying about proved that it was no
 mere negro village. Unfortunately no carvings could be found, and the small size of the expedition
@@ -201,9 +201,9 @@ they had carried off. When Jermyn sailed for England, therefore, it was with the
 that he would within a few months receive a priceless ethnological relic confirming the wildest
 of his great-great-great-grandfather's narratives--that is, the wildest which he
 had ever heard. Countrymen near Jermyn House had perhaps heard wilder tales handed down from
-ancestors who had listened to Sir Wade around the tables of the Knight's Head.  
+ancestors who had listened to Sir Wade around the tables of the Knight's Head. 
 
-  Arthur Jermyn waited very patiently for the expected box from M. Verhaeren,
+ Arthur Jermyn waited very patiently for the expected box from M. Verhaeren,
 meanwhile studying with increased diligence the manuscripts left by his mad ancestor. He began
 to feel closely akin to Sir Wade, and to seek relics of the latter's personal life in
 England as well as of his African exploits. Oral accounts of the mysterious and secluded wife
@@ -215,9 +215,9 @@ knowledge of the Dark Continent had caused her to flout Sir Wade's talk of the i
 a thing which such a man would not be likely to forgive. She had died in Africa, perhaps dragged
 thither by a husband determined to prove what he had told. But as Jermyn indulged in these reflections
 he could not but smile at their futility, a century and a half after the death of both of his
-strange progenitors.  
+strange progenitors. 
 
-  In June, 1913, a letter arrived from M. Verhaeren, telling of the finding of
+ In June, 1913, a letter arrived from M. Verhaeren, telling of the finding of
 the stuffed goddess. It was, the Belgian averred, a most extraordinary object; an object quite
 beyond the power of a layman to classify. Whether it was human or simian only a scientist could
 determine, and the process of determination would be greatly hampered by its imperfect condition.
@@ -228,9 +228,9 @@ keepsake, taken by the N'bangus and hung upon the goddess as a charm. In comment
 the contour of the mummy's face, M. Verhaeren suggested a whimsical comparison; or rather,
 expressed a humorous wonder just how it would strike his correspondent, but was too much interested
 scientifically to waste many words in levity. The stuffed goddess, he wrote, would arrive duly
-packed about a month after receipt of the letter.  
+packed about a month after receipt of the letter. 
 
-  The boxed object was delivered at Jermyn House on the afternoon of August 3,
+ The boxed object was delivered at Jermyn House on the afternoon of August 3,
 1913, being conveyed immediately to the large chamber which housed the collection of African
 specimens as arranged by Sir Robert and Arthur. What ensued can best be gathered from the tales
 of servants and from things and papers later examined. Of the various tales that of aged Soames,
@@ -249,9 +249,9 @@ leading from the cellar into the courtyard; and a stable-boy saw Arthur Jermyn, 
 head to foot with oil and redolent of that fluid, steal furtively out and vanish on the black
 moor surrounding the house. Then, in an exaltation of supreme horror, everyone saw the end.
 A spark appeared on the moor, a flame arose, and a pillar of human fire reached to the heavens.
-The house of Jermyn no longer existed.  
+The house of Jermyn no longer existed. 
 
-  The reason why Arthur Jermyn's charred fragments were not collected and
+ The reason why Arthur Jermyn's charred fragments were not collected and
 buried lies in what was found afterward, principally the thing in the box. The stuffed goddess
 was a nauseous sight, withered and eaten away, but it was clearly a mummified white ape of some
 unknown species, less hairy than any recorded variety, and infinitely nearer mankind--quite
@@ -263,4 +263,4 @@ Jermyn arms, and the jocose suggestion of M. Verhaeren about a certain resemblan
 with the shrivelled face applied with vivid, ghastly, and unnatural horror to none other than
 the sensitive Arthur Jermyn, great-great-great-grandson of Sir Wade Jermyn and an unknown wife.
 Members of the Royal Anthropological Institute burned the thing and threw the locket into a
-well, and some of them do not admit that Arthur Jermyn ever existed.  
+well, and some of them do not admit that Arthur Jermyn ever existed. 

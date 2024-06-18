@@ -251,10 +251,10 @@ things which most sane people have never even heard of, or have heard of only in
 whispers; the banned and dreaded repositories of equivocal secrets and immemorial formulae which
 have trickled down the stream of time from the days of man's youth, and the dim, fabulous
 days before man was. He had himself read many of them--a Latin version of the abhorred
- Necronomicon,  the sinister  Liber Ivonis,  the infamous  Cultes des Goules 
-of Comte d'Erlette, the  Unaussprechlichen Kulten  of von Junzt, and old Ludvig Prinn's
-hellish  De Vermis Mysteriis.  But there were others he had known merely by reputation
-or not at all--the Pnakotic Manuscripts, the  Book of Dzyan,  and a crumbling volume
+ Necronomicon, the sinister Liber Ivonis, the infamous Cultes des Goules 
+of Comte d'Erlette, the Unaussprechlichen Kulten of von Junzt, and old Ludvig Prinn's
+hellish De Vermis Mysteriis. But there were others he had known merely by reputation
+or not at all--the Pnakotic Manuscripts, the Book of Dzyan, and a crumbling volume
 in wholly unidentifiable characters yet with certain symbols and diagrams shudderingly recognisable
 to the occult student. Clearly, the lingering local rumours had not lied. This place had once
 been the seat of an evil older than mankind and wider than the known universe. 
@@ -321,8 +321,8 @@ it. Hand and handkerchief soon revealed the truth, and Blake gasped with a baffl
 of emotions. It was a human skeleton, and it must have been there for a very long time. The
 clothing was in shreds, but some buttons and fragments of cloth bespoke a man's grey suit.
 There were other bits of evidence--shoes, metal clasps, huge buttons for round cuffs, a
-stickpin of bygone pattern, a reporter's badge with the name of the old  Providence
-Telegram,  and a crumbling leather pocketbook. Blake examined the latter with care, finding
+stickpin of bygone pattern, a reporter's badge with the name of the old Providence
+Telegram, and a crumbling leather pocketbook. Blake examined the latter with care, finding
 within it several bills of antiquated issue, a celluloid advertising calendar for 1893, some
 cards with the name _"Edwin M. Lillibridge"_, and a paper covered with pencilled memoranda. 
 
@@ -368,7 +368,7 @@ dim westward window. Its disjointed text included such phrases as the following:
 
 > _"Ask Lanigan for photograph of place taken 1851."_
 
-. . .  
+. . . 
 
 Restoring the paper to the pocketbook and placing the latter in his coat, Blake
 turned to look down at the skeleton in the dust. The implications of the notes were clear, and
@@ -377,7 +377,7 @@ in quest of a newspaper sensation which no one else had been bold enough to atte
 no one else had known of his plan--who could tell? But he had never returned to his paper.
 Had some bravely suppressed fear risen to overcome him and bring on sudden heart-failure? Blake
 stooped over the gleaming bones and noted their peculiar state. Some of them were badly scattered,
-and a few seemed oddly  dissolved  at the ends. Others were strangely yellowed, with vague
+and a few seemed oddly dissolved at the ends. Others were strangely yellowed, with vague
 suggestions of charring. This charring extended to some of the fragments of clothing. The skull
 was in a very peculiar state--stained yellow, and with a charred aperture in the top as
 if some powerful acid had eaten through the solid bone. What had happened to the skeleton during
@@ -403,7 +403,7 @@ too, and since he had no illuminant with him he knew he would have to be leaving
  It was then, in the gathering twilight, that he thought he saw a faint trace
 of luminosity in the crazily angled stone. He had tried to look away from it, but some obscure
 compulsion drew his eyes back. Was there a subtle phosphorescence of radio-activity about the
-thing? What was it that the dead man's notes had said concerning a  Shining Trapezohedron? 
+thing? What was it that the dead man's notes had said concerning a Shining Trapezohedron? 
 What, anyway, was this abandoned lair of cosmic evil? What had been done here, and what might
 still be lurking in the bird-shunned shadows? It seemed now as if an elusive touch of foetor
 had arisen somewhere close by, though its source was not apparent. Blake seized the cover of
@@ -470,7 +470,7 @@ he displays the dangerous extent of his fascination, and admits a morbid longing
 even his dreams--to visit the accursed tower and gaze again into the cosmic secrets of
 the glowing stone. 
 
- Then something in the  Journal  on the morning of July 17 threw the diarist
+ Then something in the Journal on the morning of July 17 threw the diarist
 into a veritable fever of horror. It was only a variant of the other half-humorous items about
 the Federal Hill restlessness, but to Blake it was somehow very terrible indeed. In the night
 a thunderstorm had put the city's lighting-system out of commission for a full hour, and
@@ -490,7 +490,7 @@ the rain with lighted candles and lamps somehow shielded with folded paper and u
 guard of light to save the city from the nightmare that stalks in darkness. Once, those nearest
 the church declared, the outer door had rattled hideously. 
 
- But even this was not the worst. That evening in the  Bulletin  Blake
+ But even this was not the worst. That evening in the Bulletin Blake
 read of what the reporters had found. Aroused at last to the whimsical news value of the scare,
 a pair of them had defied the frantic crowds of Italians and crawled into the church through
 the cellar window after trying the doors in vain. They found the dust of the vestibule and of
@@ -701,26 +701,26 @@ all that can be made of them.
 > _Trouble with memory. I see things I never knew before. Other worlds_
 > _and other galaxies . . . Dark . . . The lightning seems dark and_
 > _the darkness seems light. . . ._ 
-  
+ 
 > _It cannot be the real hill and church that I see in the pitch-darkness._
 > _Must be retinal impression left by flashes. Heaven grant the Italians are out with their candles_
 > _if the lightning stops!_ 
-  
+ 
 > _What am I afraid of? Is it not an avatar of Nyarlathotep, who in antique_
 > _and shadowy Khem even took the form of man? I remember Yuggoth, and more distant Shaggai, and_
 > _the ultimate void of the black planets. . . ._ 
-  
+ 
 > _The long, winging flight through the void . . . cannot_
 > _cross the universe of light . . . re-created by the thoughts caught in the Shining_
 > _Trapezohedron . . . send it through the horrible abysses of radiance. . . ._ 
-  
+ 
 > _My name is Blake--Robert Harrison Blake of 620 East Knapp Street, Milwaukee, Wisconsin. . . . I am on this planet. . . ._ 
-  
+ 
 > _Azathoth have mercy!--the lightning no longer flashes--horrible--I_
 > _can see everything with a monstrous sense that is not sight--light is dark and dark is_
 > _light . . . those people on the hill . . . guard . . ._
 > _candles and charms . . . their priests. . . ._ 
-  
+ 
 > _Sense of distance gone--far is near and near is far. No light--no_
 > _glass--see that steeple--that tower--window--can hear--Roderick Usher--am_
 > _mad or going mad--the thing is stirring and fumbling in the tower--I am it and it_
@@ -733,4 +733,4 @@ all that can be made of them.
 > _ygg. . . ._ 
 
 > _I see it--coming here--hell-wind--titan blur--black_
-> _wings--Yog-Sothoth save me--the three-lobed burning eye. . . ._  
+> _wings--Yog-Sothoth save me--the three-lobed burning eye. . . ._ 

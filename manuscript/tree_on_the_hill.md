@@ -47,7 +47,7 @@ one to compare with it--and I never have to this day, for which I am eternally t
 More than anything it resembled an oak. It had a huge, twisted trunk, fully
 a yard in diameter, and the large limbs began spreading outward scarcely seven feet from the
 ground. The leaves were round, and curiously alike in size and design. It might have been a
-tree painted on a canvas, but I will swear that it was real. I shall always know that it  
+tree painted on a canvas, but I will swear that it was real. I shall always know that it 
 was real, despite what Theunis said later.
 
 I recall that I glanced at the sun and judged the time to be about ten o'clock
@@ -113,7 +113,7 @@ through me. I recognized the spot--the ridge where I had first seen the blasted 
 must have walked miles--unconscious! The tree was not in sight, and I was glad. . . .
 Even the knees of my trousers were torn, as if I had crawled part of the way. . . .
 
-I glanced at the sun. Late afternoon!  Where had I been? I snatched out
+I glanced at the sun. Late afternoon! Where had I been? I snatched out
 my watch. It had stopped at 10:34. . . .
 
 ## II.

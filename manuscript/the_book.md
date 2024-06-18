@@ -1,5 +1,5 @@
 ## The Book (1933)
-        
+    
 My memories are very confused. There is even much doubt as to where they begin; for at times
 I feel appalling vistas of years stretching behind me, while at other times it seems as if the
 present moment were an isolated point in a grey, formless infinity. I am not even certain how
@@ -81,5 +81,5 @@ flat over the five phosphorescent circles on the floor. In that night's wanderin
 was no more of strangeness than in many a former night's wandering; but there was more
 of terror because I knew I was closer to those outside gulfs and worlds than I had ever been
 before. Thereafter I was more cautious with my incantations, for I had no wish to be cut off
-from my body and from the earth in unknown abysses whence I could never return.  
+from my body and from the earth in unknown abysses whence I could never return. 
 

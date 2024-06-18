@@ -1882,7 +1882,7 @@ and fifty million years ago in those dark, baffling days of the amnesia? Had my 
 been the vehicle of a frightful alien consciousness from palaeogean gulfs of time? Had I, as
 the captive mind of those shambling horrors, indeed known that accursed city of stone in its
 primordial heyday, and wriggled down those familiar corridors in the loathsome shape of my captor?
-Were those tormenting dreams of more than twenty years the offspring of stark, monstrous  
+Were those tormenting dreams of more than twenty years the offspring of stark, monstrous 
 memories? Had I once veritably talked with minds from reachless corners of time and space,
 learned the universe's secrets past and to come, and written the annals of my own world
 for the metal cases of those titan archives? And were those others--those shocking Elder

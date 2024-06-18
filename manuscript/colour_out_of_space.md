@@ -28,7 +28,7 @@ ocean, and all the mystery of primal earth.
 When I went into the hills and vales to survey for the new reservoir they told
 me the place was evil. They told me this in Arkham, and because that is a very old town full
 of witch legends I thought the evil must be something which grandams had whispered to children
-through centuries. The name  "blasted heath" seemed to me very odd and theatrical,
+through centuries. The name "blasted heath" seemed to me very odd and theatrical,
 and I wondered how it had come into the folklore of a Puritan people. Then I saw that dark westward
 tangle of glens and slopes for myself, and ceased to wonder at anything besides its own elder
 mystery. It was morning when I saw it, but shadow lurked always there. The trees grew too thickly,
@@ -277,10 +277,10 @@ swayed also when there was no wind; but even the gossips would not credit this. 
 restlessness was in the air. The entire Gardner family developed the habit of stealthy listening,
 though not for any sound which they could consciously name. The listening was, indeed, rather
 a product of moments when consciousness seemed half to slip away. Unfortunately such moments
-increased week by week, till it became common speech that  "something was wrong with all
+increased week by week, till it became common speech that "something was wrong with all
 Nahum's folks ". When the early saxifrage came out it had another strange colour;
 not quite like that of the skunk-cabbage, but plainly related and equally unknown to anyone
-who saw it. Nahum took some blossoms to Arkham and shewed them to the editor of the Gazette,  
+who saw it. Nahum took some blossoms to Arkham and shewed them to the editor of the Gazette, 
 but that dignitary did no more than write a humorous article about them, in which the dark fears
 of rustics were held up to polite ridicule. It was a mistake of Nahum's to tell a stolid
 city man about the way the great, overgrown mourning-cloak butterflies behaved in connexion
@@ -374,7 +374,7 @@ world between lines of nameless guards to a certain and familiar doom.
 
 Thaddeus went mad in September after a visit to the well. He had gone with
 a pail and had come back empty-handed, shrieking and waving his arms, and sometimes lapsing
-into an inane titter or a whisper about  "the moving colours down there ". Two in
+into an inane titter or a whisper about "the moving colours down there ". Two in
 one family was pretty bad, but Nahum was very brave about it. He let the boy run about for a
 week until he began stumbling and hurting himself, and then he shut him in an attic room across
 the hall from his mother's. The way they screamed at each other from behind their locked
@@ -458,9 +458,9 @@ then Ammi saw what had happened. The stoutest cord had broken at last, and the h
 mind was proof against more sorrow.
 
 Questioning tactfully, Ammi could get no clear data at all about the missing
-Zenas.  "In the well--he lives in the well-- " was all that the clouded
+Zenas. "In the well--he lives in the well-- " was all that the clouded
 father would say. Then there flashed across the visitor's mind a sudden thought of the
-mad wife, and he changed his line of inquiry.  "Nabby? Why, here she is! " was the
+mad wife, and he changed his line of inquiry. "Nabby? Why, here she is! " was the
 surprised response of poor Nahum, and Ammi soon saw that he must search for himself. Leaving
 the harmless babbler on the couch, he took the keys from their nail beside the door and climbed
 the creaking stairs to the attic. It was very close and noisome up there, and no sound could
@@ -520,7 +520,7 @@ alive after a fashion. Whether it had crawled or whether it had been dragged by 
 force, Ammi could not say; but the death had been at it. Everything had happened in the last
 half-hour, but collapse, greying, and disintegration were already far advanced. There was a
 horrible brittleness, and dry fragments were scaling off. Ammi could not touch it, but looked
-horrifiedly into the distorted parody that had been a face.  "What was it, Nahum--what
+horrifiedly into the distorted parody that had been a face. "What was it, Nahum--what
 was it? " he whispered, and the cleft, bulging lips were just able to crackle out a final
 answer.
 
@@ -706,10 +706,10 @@ the span of frantic greys had broke their sapling and run off with the democrat-
 The shock served to loosen several tongues, and embarrassed whispers were exchanged.
 *"It spreads on everything organic that's been around here, "* muttered the medical
 examiner. No one replied, but the man who had been in the well gave a hint that his long pole
-must have stirred up something intangible.  *"It was awful, "* he added. *"There
+must have stirred up something intangible. *"It was awful, "* he added. *"There
 was no bottom at all. Just ooze and bubbles and the feeling of something lurking under there."*
 Ammi's horse still pawed and screamed deafeningly in the road outside, and nearly drowned
-its owner's faint quaver as he mumbled his formless reflections.  *"It come from that
+its owner's faint quaver as he mumbled his formless reflections. *"It come from that
 stone . . . it growed down thar . . . it got everything livin' . . . it fed itself on 'em, mind and body . . . Thad an'
 Mernie, Zenas an' Nabby . . . Nahum was the last . . . they all drunk the water . . . it got strong on 'em . . . it come from beyond, whar things
 ain't like they be here . . . now it's goin' home. . . . "*
@@ -789,7 +789,7 @@ dead horse, which they towed away and buried, and the buggy which they shortly r
 everything that had ever been living had gone. Five eldritch acres of dusty grey desert remained,
 nor has anything ever grown there since. To this day it sprawls open to the sky like a great
 spot eaten by acid in the woods and fields, and the few who have ever dared glimpse it in spite
-of the rural tales have named it  "the blasted heath".
+of the rural tales have named it "the blasted heath".
 
 The rural tales are queer. They might be even queerer if city men and college
 chemists could be interested enough to analyse the water from that disused well, or the grey
@@ -840,6 +840,6 @@ He saw so much of the thing--and its influence was so insidious. Why has he neve
 able to move away? How clearly he recalled those dying words of Nahum's-- *"can't git away . . . draws ye . . . ye know summ'at's comin', but '
 tain't no use. . . . "* Ammi is such a good old man--when the reservoir gang gets to work I must write the chief engineer to keep a sharp watch on
 him. I would hate to think of him as the grey, twisted, brittle monstrosity which persists more and
-more in troubling my sleep.  
+more in troubling my sleep. 
 
 

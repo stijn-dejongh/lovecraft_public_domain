@@ -6,11 +6,11 @@
 Composed by Abdul Alhazred, a mad poet of Sanaá, in Yemen, who is said to
 have flourished during the period of the Ommiade caliphs, circa 700 A.D. He visited the ruins of
 Babylon and the subterranean secrets of Memphis and spent ten years alone in the great southern
-desert of Arabia--the Roba el Khaliyeh or  "Empty Space" of the ancients--and
-"Dahna " or  "Crimson " desert of the modern Arabs, which is held to be inhabited
+desert of Arabia--the Roba el Khaliyeh or "Empty Space" of the ancients--and
+"Dahna " or "Crimson " desert of the modern Arabs, which is held to be inhabited
 by protective evil spirits and monsters of death. Of this desert many strange and unbelievable
 marvels are told by those who pretend to have penetrated it. In his last years Alhazred dwelt in
-Damascus, where the Necronomicon   (  Al Azif  ) was written, and of his final death or
+Damascus, where the Necronomicon  ( Al Azif ) was written, and of his final death or
 disappearance (738 A.D.) many terrible and conflicting things are told. He is said by Ebn
 Khallikan (12th cent. biographer) to have been seized by an invisible monster in broad daylight and
 devoured horribly before a large number of fright-frozen witnesses. Of his madness many things are
@@ -46,12 +46,12 @@ consequences. It was from rumours of this book (of which relatively few of the g
 know) that R.W. Chambers is said to have derived the idea of his early novel The King in
 Yellow.
 
-## Chronology      
+## Chronology   
 
 Al Azif written circa 730 A.D. at Damascus by Abdul Alhazred Tr. to Greek 950 A.D. as
 Necronomicon by Theodorus Philetas Burnt by Patriarch Michael 1050 (i.e., Greek text).
 Arabic text now lost. Olaus translates Gr. to Latin 1228 1232 Latin ed. (and Gr.) suppr. by
-Pope Gregory IX 14... Black-letter printed edition (Germany)  15... Gr. text printed in
-Italy 16... Spanish reprint of Latin text  
+Pope Gregory IX 14... Black-letter printed edition (Germany) 15... Gr. text printed in
+Italy 16... Spanish reprint of Latin text 
 
 

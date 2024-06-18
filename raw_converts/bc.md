@@ -1,5 +1,5 @@
 % "The Beast in the Cave" 
-%  H. P. Lovecraft
+% H. P. Lovecraft
 
 The horrible conclusion which had been gradually obtruding itself upon my confused and reluctant
 mind was now an awful certainty. I was lost, completely, hopelessly lost in the vast and labyrinthine
@@ -10,21 +10,21 @@ world outside, my reason could no longer entertain the slightest unbelief. Hope 
 Yet, indoctrinated as I was by a life of philosophical study, I derived no small measure of
 satisfaction from my unimpassioned demeanour; for although I had frequently read of the wild
 frenzies into which were thrown the victims of similar situations, I experienced none of these,
-but stood quiet as soon as I clearly realised the loss of my bearings.  
+but stood quiet as soon as I clearly realised the loss of my bearings. 
 
-  Nor did the thought that I had probably wandered beyond the utmost limits of
+ Nor did the thought that I had probably wandered beyond the utmost limits of
 an ordinary search cause me to abandon my composure even for a moment. If I must die, I reflected,
 then was this terrible yet majestic cavern as welcome a sepulchre as that which any churchyard
-might afford; a conception which carried with it more of tranquility than of despair.  
+might afford; a conception which carried with it more of tranquility than of despair. 
 
-  Starving would prove my ultimate fate; of this I was certain. Some, I knew,
+ Starving would prove my ultimate fate; of this I was certain. Some, I knew,
 had gone mad under circumstances such as these, but I felt that this end would not be mine.
 My disaster was the result of no fault save my own, since unbeknown to the guide I had separated
 myself from the regular party of sightseers; and, wandering for over an hour in forbidden avenues
 of the cave, had found myself unable to retrace the devious windings which I had pursued since
-forsaking my companions.  
+forsaking my companions. 
 
-  Already my torch had begun to expire; soon I would be enveloped by the total
+ Already my torch had begun to expire; soon I would be enveloped by the total
 and almost palpable blackness of the bowels of the earth. As I stood in the waning, unsteady
 light, I idly wondered over the exact circumstances of my coming end. I remembered the accounts
 which I had heard of the colony of consumptives, who, taking their residence in this gigantic
@@ -34,9 +34,9 @@ and ghastly form. I had seen the sad remains of their ill-made cottages as I pas
 with the party, and had wondered what unnatural influence a long sojourn in this immense and
 silent cavern would exert upon one as healthy and as vigorous as I. Now, I grimly told myself,
 my opportunity for settling this point had arrived, provided that want of food should not bring
-me too speedy a departure from this life.  
+me too speedy a departure from this life. 
 
-  As the last fitful rays of my torch faded into obscurity, I resolved to leave
+ As the last fitful rays of my torch faded into obscurity, I resolved to leave
 no stone unturned, no possible means of escape neglected; so summoning all the powers possessed
 by my lungs, I set up a series of loud shoutings, in the vain hope of attracting the attention
 of the guide by my clamour. Yet, as I called, I believed in my heart that my cries were to no
@@ -50,13 +50,13 @@ joyful queries arose in my brain, I was on the point of renewing my cries, in or
 discovery might come the sooner, when in an instant my delight was turned to horror as I listened;
 for my ever acute ear, now sharpened in even greater degree by the complete silence of the cave,
 bore to my benumbed understanding the unexpected and dreadful knowledge that these footfalls
-were   not like those of any mortal man.   In the unearthly stillness of this subterranean
+were  not like those of any mortal man.  In the unearthly stillness of this subterranean
 region, the tread of the booted guide would have sounded like a series of sharp and incisive
 blows. These impacts were soft, and stealthy, as of the padded paws of some feline. Besides,
-  at times,   when I listened carefully, I seemed to trace the falls of   four   instead
-of   two   feet.  
+ at times,  when I listened carefully, I seemed to trace the falls of  four  instead
+of  two  feet. 
 
-  I was now convinced that I had by my cries aroused and attracted some wild
+ I was now convinced that I had by my cries aroused and attracted some wild
 beast, perhaps a mountain lion which had accidentally strayed within the cave. Perhaps, I considered,
 the Almighty had chosen for me a swifter and more merciful death than that of hunger. Yet the
 instinct of self-preservation, never wholly dormant, was stirred in my breast, and though escape
@@ -67,15 +67,15 @@ I became very quiet, in the hope that the unknown beast would, in the absence of
 lose its direction as had I, and thus pass me by. But this hope was not destined for realisation,
 for the strange footfalls steadily advanced, the animal evidently having obtained my scent,
 which in an atmosphere so absolutely free from all distracting influences as is that of the
-cave, could doubtless be followed at great distance.  
+cave, could doubtless be followed at great distance. 
 
-  Seeing therefore that I must be armed for defence against an uncanny and unseen
+ Seeing therefore that I must be armed for defence against an uncanny and unseen
 attack in the dark, I grouped about me the largest of the fragments of rock which were strown
 upon all parts of the floor of the cavern in the vicinity, and, grasping one in each hand for
 immediate use, awaited with resignation the inevitable result. Meanwhile the hideous pattering
 of the paws drew near. Certainly, the conduct of the creature was exceedingly strange. Most
-of the time, the tread seemed to be that of a quadruped, walking with a singular   lack of
-unison   betwixt hind and fore feet, yet at brief and infrequent intervals I fancied that
+of the time, the tread seemed to be that of a quadruped, walking with a singular  lack of
+unison  betwixt hind and fore feet, yet at brief and infrequent intervals I fancied that
 but two feet were engaged in the process of locomotion. I wondered what species of animal was
 to confront me; it must, I thought, be some unfortunate beast who had paid for its curiosity
 to investigate one of the entrances of the fearful grotto with a lifelong confinement in its
@@ -85,34 +85,34 @@ which communicates in some occult manner with the waters of the cave. I occupied
 vigil with grotesque conjectures of what alterations cave life might have wrought in the physical
 structure of the beast, remembering the awful appearances ascribed by local tradition to the
 consumptives who had died after long residence in the cavern. Then I remembered with a start
-that, even should I succeed in killing my antagonist, I should   never behold its form,  
+that, even should I succeed in killing my antagonist, I should  never behold its form, 
 as my torch had long since been extinct, and I was entirely unprovided with matches. The tension
 on my brain now became frightful. My disordered fancy conjured up hideous and fearsome shapes
-from the sinister darkness that surrounded me, and that actually seemed to   press   upon
+from the sinister darkness that surrounded me, and that actually seemed to  press  upon
 my body. Nearer, nearer, the dreadful footfalls approached. It seemed that I must give vent
 to a piercing scream, yet had I been sufficiently irresolute to attempt such a thing, my voice
 could scarce have responded. I was petrified, rooted to the spot. I doubted if my right arm
 would allow me to hurl its missile at the oncoming thing when the crucial moment should arrive.
-Now the steady   pat, pat,   of the steps was close at hand; now,   very   close. I could
+Now the steady  pat, pat,  of the steps was close at hand; now,  very  close. I could
 hear the laboured breathing of the animal, and terror-struck as I was, I realised that it must
 have come from a considerable distance, and was correspondingly fatigued. Suddenly the spell
 broke. My right hand, guided by my ever trustworthy sense of hearing, threw with full force
 the sharp-angled bit of limestone which it contained, toward that point in the darkness from
 which emanated the breathing and pattering, and, wonderful to relate, it nearly reached its
-goal, for I heard the thing jump, landing at a distance away, where it seemed to pause.  
+goal, for I heard the thing jump, landing at a distance away, where it seemed to pause. 
 
-  Having readjusted my aim, I discharged my second missile, this time most effectively,
+ Having readjusted my aim, I discharged my second missile, this time most effectively,
 for with a flood of joy I listened as the creature fell in what sounded like a complete collapse,
 and evidently remained prone and unmoving. Almost overpowered by the great relief which rushed
 over me, I reeled back against the wall. The breathing continued, in heavy, gasping inhalations
 and expirations, whence I realised that I had no more than wounded the creature. And now all
-desire to examine the   thing   ceased. At last something allied to groundless, superstitious,
+desire to examine the  thing  ceased. At last something allied to groundless, superstitious,
 fear had entered my brain, and I did not approach the body, nor did I continue to cast stones
 at it in order to complete the extinction of its life. Instead, I ran at full speed in what
 was, as nearly as I could estimate in my frenzied condition, the direction from which I had
 come. Suddenly I heard a sound, or rather, a regular succession of sounds. In another instant
 they had resolved themselves into a series of sharp, metallic clicks. This time there was no
-doubt.   It was the guide.   And then I shouted, yelled, screamed, even shrieked with joy
+doubt.  It was the guide.  And then I shouted, yelled, screamed, even shrieked with joy
 as I beheld in the vaulted arches above the faint and glimmering effulgence which I knew to
 be the reflected light of an approaching torch. I ran to meet the flare, and before I could
 completely understand what had occurred, was lying upon the ground at the feet of the guide,
@@ -121,9 +121,9 @@ manner, pouring out my terrible story, and at the same time overwhelming my audi
 of gratitude. At length I awoke to something like my normal consciousness. The guide had noted
 my absence upon the arrival of the party at the entrance of the cave, and had, from his own
 intuitive sense of direction, proceeded to make a thorough canvass of the by-passages just ahead
-of where he had last spoken to me, locating my whereabouts after a quest of about four hours.  
+of where he had last spoken to me, locating my whereabouts after a quest of about four hours. 
 
-  By the time he had related this to me, I, emboldened by his torch and his company,
+ By the time he had related this to me, I, emboldened by his torch and his company,
 began to reflect upon the strange beast which I had wounded but a short distance back in the
 darkness, and suggested that we ascertain, by the rushlight's aid, what manner of creature
 was my victim. Accordingly I retraced my steps, this time with a courage born of companionship,
@@ -140,11 +140,11 @@ of the limbs was very singular, explaining, however, the alternation in their us
 before noted, whereby the beast used sometimes all four, and on other occasions but two for
 its progress. From the tips of the fingers or toes long nail-like claws extended. The hands
 or feet were not prehensile, a fact that I ascribed to that long residence in the cave which,
-as I before mentioned, seemed evident from the all-pervading and almost unearthly   whiteness  
-so characteristic of the whole anatomy. No tail seemed to be present.  
+as I before mentioned, seemed evident from the all-pervading and almost unearthly  whiteness 
+so characteristic of the whole anatomy. No tail seemed to be present. 
 
-  The respiration had now grown very feeble, and the guide had drawn his pistol
-with the evident intent of despatching the creature, when a sudden   sound   emitted by the
+ The respiration had now grown very feeble, and the guide had drawn his pistol
+with the evident intent of despatching the creature, when a sudden  sound  emitted by the
 latter caused the weapon to fall unused. The sound was of a nature difficult to describe. It
 was not like the normal note of any known species of simian, and I wondered if this unnatural
 quality were not the result of a long-continued and complete silence, broken by the sensations
@@ -157,19 +157,19 @@ moment I was so struck with horror at the eyes thus revealed that I noted nothin
 were black, those eyes, deep, jetty black, in hideous contrast to the snow-white hair and flesh.
 Like those of other cave denizens, they were deeply sunken in their orbits, and were entirely
 destitute of iris. As I looked more closely, I saw that they were set in a face less prognathous
-than that of the average ape, and infinitely more hairy. The nose was quite distinct.  
+than that of the average ape, and infinitely more hairy. The nose was quite distinct. 
 
-  As we gazed upon the uncanny sight presented to our vision, the thick lips
-opened, and several   sounds   issued from them, after which the   thing   relaxed in
-death.  
+ As we gazed upon the uncanny sight presented to our vision, the thick lips
+opened, and several  sounds  issued from them, after which the  thing  relaxed in
+death. 
 
-  The guide clutched my coat-sleeve and trembled so violently that the light
-shook fitfully, casting weird, moving shadows on the walls about us.  
+ The guide clutched my coat-sleeve and trembled so violently that the light
+shook fitfully, casting weird, moving shadows on the walls about us. 
 
-  I made no motion, but stood rigidly still, my horrified eyes fixed upon the
-floor ahead.  
+ I made no motion, but stood rigidly still, my horrified eyes fixed upon the
+floor ahead. 
 
-  Then fear left, and wonder, awe, compassion, and reverence succeeded in its
-place, for the   sounds   uttered by the stricken figure that lay stretched out on the limestone
+ Then fear left, and wonder, awe, compassion, and reverence succeeded in its
+place, for the  sounds  uttered by the stricken figure that lay stretched out on the limestone
 had told us the awesome truth. The creature I had killed, the strange beast of the unfathomed
-cave was, or had at one time been, a MAN!!!  
+cave was, or had at one time been, a MAN!!! 

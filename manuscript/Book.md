@@ -29,7 +29,6 @@ the_mound.md
 shadow-out-of-time.md
 mountains_of_madness.md
 the_history_of_necronomicon.md
-
 dream_lands.md
 unknown_kadath.md
 Appendix.md

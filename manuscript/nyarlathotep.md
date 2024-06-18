@@ -44,7 +44,7 @@ destruction from ultimate space; whirling, churning; struggling around the dimmi
 sun. Then the sparks played amazingly around the heads of the spectators, and hair stood up
 on end whilst shadows more grotesque than I can tell came out and squatted on the heads. And
 when I, who was colder and more scientific than the rest, mumbled a trembling protest about
-"imposture " and  "static electricity", Nyarlathotep drave us all out,
+"imposture " and "static electricity", Nyarlathotep drave us all out,
 down the dizzy stairs into the damp, hot, deserted midnight streets. I screamed aloud that I
 was not afraid; that I never could be afraid; and others screamed with me for solace.
 We sware to one another that the city was exactly the same, and still alive; and when
@@ -79,6 +79,6 @@ and reach up to dizzy vacua above the spheres of light and darkness. And through
 graveyard of the universe the muffled, maddening beating of drums, and thin, monotonous whine
 of blasphemous flutes from inconceivable, unlighted chambers beyond Time; the detestable pounding
 and piping whereunto dance slowly, awkwardly, and absurdly the gigantic, tenebrous ultimate
-gods--the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep.  
+gods--the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep. 
 
 

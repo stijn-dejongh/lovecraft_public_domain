@@ -242,7 +242,7 @@ voice and in his dying breath screamed forth those words which have ever afterwa
 days and my nights. "Fool," he shrieked, "can you not guess my secret? Have
 you no brain whereby you may recognise the will which has through six long centuries fulfilled
 the dreadful curse upon your house? Have I not told you of the great elixir of eternal life?
-Know you not how the secret of Alchemy was solved? I tell you, it is I! I!   I! that have lived
+Know you not how the secret of Alchemy was solved? I tell you, it is I! I!  I! that have lived
 for six hundred years to maintain my revenge, FOR I AM CHARLES LE SORCIER!" 
 
 
