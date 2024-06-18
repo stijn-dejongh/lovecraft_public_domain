@@ -40,7 +40,7 @@ sketches made was one by Mr. Goofy Hooey, which later gained fame in the annual 
  "Abstraction of an Eradicated Pudding ". 
 
  In the third round the fight grew really rough; several ears and other
-appurtenances being wholly or partially detached from the frontier battler by the Shokan Shocker.
+appurtenances being who-lly or partially detached from the frontier battler by the Shokan Shocker.
 Somewhat irritated, Two-Gun countered with some exceptionally sharp blows; severing many fragments
 from his aggressor, who continued to fight with all his remaining members. [At this stage the
 audience gave signs of much nervous excitement--instances of trampling and goring being

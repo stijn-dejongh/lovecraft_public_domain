@@ -359,5 +359,3 @@ And as the wind died away I was plunged into the ghoul-peopled blackness of
 earth's bowels; for behind the last of the creatures the great brazen door clanged shut
 with a deafening peal of metallic music whose reverberations swelled out to the distant world
 to hail the rising sun as Memnon hails it from the banks of the Nile. 
-
-

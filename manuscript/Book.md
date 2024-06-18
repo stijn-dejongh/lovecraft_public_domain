@@ -29,6 +29,7 @@ the_mound.md
 shadow-out-of-time.md
 mountains_of_madness.md
 the_history_of_necronomicon.md
+case_of_dexter_ward.md
 dream_lands.md
 polaris.md
 the_doom_that_came_to_sarnath.md
@@ -44,6 +45,11 @@ silver_key.md
 unknown_kadath.md
 the_gates_of_the_silver_key.md
 beyond_walls_of_sleep.md
+statement_of_randolph_carter.md
+the_descendant.md
+transition_of_juan_romero.md
+crawling_chaos.md
 lovecraft_extended_mythos.md
 ashes.md
+challenge_from_beyond.md
 Appendix.md

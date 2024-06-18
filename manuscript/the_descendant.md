@@ -1,9 +1,4 @@
-% "The Descendant" 
-% H. P. Lovecraft
-
-    
-
- 
+# The Descendant
 
 In London there is a man who screams when the church bells ring. He lives all alone with his
 streaked cat in Gray's Inn, and people call him harmlessly mad. His room is filled with
@@ -16,18 +11,18 @@ forehead. Friends and companions he shuns, for he wishes to answer no questions.
 knew him as scholar and aesthete say it is very pitiful to see him now. He dropped them all
 years ago, and no one feels sure whether he left the country or merely sank from sight in some
 hidden byway. It is a decade now since he moved into Gray's Inn, and of where he had been
-he would say nothing till the night young Williams bought the  Necronomicon.  
+he would say nothing till the night young Williams bought the Necronomicon.
 
- Williams was a dreamer, and only twenty-three, and when he moved into the ancient
+Williams was a dreamer, and only twenty-three, and when he moved into the ancient
 house he felt a strangeness and a breath of cosmic wind about the grey wizened man in the next
 room. He forced his friendship where old friends dared not force theirs, and marvelled at the
 fright that sat upon this gaunt, haggard watcher and listener. For that the man always watched
 and listened no one could doubt. He watched and listened with his mind more than with his eyes
 and ears, and strove every moment to drown something in his ceaseless poring over gay, insipid
 novels. And when the church bells rang he would stop his ears and scream, and the grey cat that
-dwelt with him would howl in unison till the last peal died reverberantly away. 
+dwelt with him would howl in unison till the last peal died reverberantly away.
 
- But try as Williams would, he could not make his neighbour speak of anything
+But try as Williams would, he could not make his neighbour speak of anything
 profound or hidden. The old man would not live up to his aspect and manner, but would feign
 a smile and a light tone and prattle feverishly and frantically of cheerful trifles; his voice
 every moment rising and thickening till at last it would split in a piping and incoherent falsetto.
@@ -37,10 +32,10 @@ that he was none other than Lord Northam, of whose ancient hereditary castle on 
 coast so many odd things were told; but when Williams tried to talk of the castle, and of its
 reputed Roman origin, he refused to admit that there was anything unusual about it. He even
 tittered shrilly when the subject of the supposed under crypts, hewn out of the solid crag that
-frowns on the North Sea, was brought up. 
+frowns on the North Sea, was brought up.
 
- So matters went till that night when Williams brought home the infamous  
-Necronomicon  of the mad Arab Abdul Alhazred. He had known of the dreaded volume since his
+So matters went till that night when Williams brought home the infamous
+Necronomicon of the mad Arab Abdul Alhazred. He had known of the dreaded volume since his
 sixteenth year, when his dawning love of the bizarre had led him to ask queer questions of a
 bent old bookseller in Chandos Street; and he had always wondered why men paled when they spoke
 of it. The old bookseller had told him that only five copies were known to have survived the
@@ -50,9 +45,9 @@ But now, at last, he had not only found an accessible copy but had made it his o
 low figure. It was at a Jew's shop in the squalid precincts of Clare Market, where he
 had often bought strange things before, and he almost fancied the gnarled old Levite smiled
 amidst tangles of beard as the great discovery was made. The bulky leather cover with the brass
-clasp had been so prominently visible, and the price was so absurdly slight. 
+clasp had been so prominently visible, and the price was so absurdly slight.
 
- The one glimpse he had had of the title was enough to send him into transports,
+The one glimpse he had had of the title was enough to send him into transports,
 and some of the diagrams set in the vague Latin text excited the tensest and most disquieting
 recollections in his brain. He felt it was highly necessary to get the ponderous thing home
 and begin deciphering it, and bore it out of the shop with such precipitate haste that the old
@@ -63,11 +58,11 @@ was simpering inanities to his streaked cat, and started violently when the youn
 Then he saw the volume and shuddered wildly, and fainted altogether when Williams uttered the
 title. It was when he regained his senses that he told his story; told his fantastic figment
 of madness in frantic whispers, lest his friend be not quick to burn the accursed book and give
-wide scattering to its ashes. 
+wide scattering to its ashes.
 
-  * * *  
+--- 
 
- There must, Lord Northam whispered, have been something wrong at the start;
+There must, Lord Northam whispered, have been something wrong at the start;
 but it would never have come to a head if he had not explored too far. He was the nineteenth
 Baron of a line whose beginnings went uncomfortably far back into the past--unbelievably
 far, if vague tradition could be heeded, for there were family tales of a descent from pre-Saxon
@@ -87,9 +82,9 @@ Wall. As a child Lord Northam had had peculiar dreams when sleeping in the older
 castle, and had acquired a constant habit of looking back through his memory for half-amorphous
 scenes and patterns and impressions which formed no part of his waking experience. He became
 a dreamer who found life tame and unsatisfying; a searcher for strange realms and relationships
-once familiar, yet lying nowhere in the visible regions of earth. 
+once familiar, yet lying nowhere in the visible regions of earth.
 
- Filled with a feeling that our tangible world is only an atom in a fabric vast
+Filled with a feeling that our tangible world is only an atom in a fabric vast
 and ominous, and that unknown demesnes press on and permeate the sphere of the known at every
 point, Northam in youth and young manhood drained in turn the founts of formal religion and
 occult mystery. Nowhere, however, could he find ease and content; and as he grew older the staleness

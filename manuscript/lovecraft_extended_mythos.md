@@ -31,6 +31,7 @@ of horror.
 
 ## List of stories in the Extended Lovecraft Mythos
 
-| Title | Published | Description                                                                                                                   |
-|:------|:---------:|:------------------------------------------------------------------------------------------------------------------------------|
-| Ashes |   1923    | (_co-authored by C.M. Eddy Jr._) A macabre tale of a scientist's experiment gone wrong, resulting in horrifying consequences. |
+| Title                     | Published | Description                                                                                                                                                                                                                                                       |
+|:--------------------------|:---------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ashes                     |   1923    | (_co-authored by C.M. Eddy Jr._) A macabre tale of a scientist's experiment gone wrong, resulting in horrifying consequences.                                                                                                                                     |
+| The Challenge from Beyond |   1935    | a collaborative story written by C.L. Moore, A. Merritt, H.P. Lovecraft, Robert E. Howard, and Frank Belknap Long. The science fiction half of the story involves a man who finds an ancient crystal that transports his mind into the body of an alien creature. | 

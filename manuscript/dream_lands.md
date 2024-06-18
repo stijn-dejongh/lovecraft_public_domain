@@ -55,14 +55,12 @@ While the above stories are the primary works associated with the Dream Cycle, a
 These stories, while not always directly connected, share a thematic and stylistic kinship, creating a cohesive body of work centered around the
 mysteries and wonders of the Dreamlands.
 
-| Title                            | Published | Description                                                                                                                                                                                |
-|:---------------------------------|:---------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Beyond the Wall of Sleep         |   1919    | A man experiences vivid, otherworldly dreams and encounters a cosmic being through a mentally ill patient.                                                                                 |
-| The Statement of Randolph Carter |   1919    | Randolph Carter recounts a harrowing experience in which he and a friend delve into forbidden knowledge and encounter the unknown.                                                         |
-| The Nameless City                |   1921    | An explorer discovers an ancient, abandoned city in the Arabian desert, leading to a terrifying revelation.                                                                                |
-| The Descendant                   |   1926    | A fragmentary tale about a man who seeks protection from ancient horrors through the knowledge of occultism and ancestral connections to the Dreamlands.                                   |
-| The Transition of Juan Romero    |   1919    | A miner experiences a mysterious and terrifying event that hints at otherworldly realms.                                                                                                   |
-| The Crawling Chaos               |   1921    | A prose poem that describes an apocalyptic vision experienced by the narrator, often                                                                       associated with the Dreamlands. |
-| The Descendant                   |   1926    | A fragmentary tale about a man who seeks protection from ancient horrors through the knowledge  of occultism and ancestral connections to the Dreamlands.                                  |
-| The Survivor                     |   1954    | (with August Derleth) A tale involving an ancient manuscript and a house connected to otherworldly horrors.                                                                                |                                                                                
+| Title                            | Published | Description                                                                                                                                               |
+|:---------------------------------|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Beyond the Wall of Sleep         |   1919    | A man experiences vivid, otherworldly dreams and encounters a cosmic being through a mentally ill patient.                                                |
+| The Statement of Randolph Carter |   1919    | Randolph Carter recounts a harrowing experience in which he and a friend delve into forbidden knowledge and encounter the unknown.                        |
+| The Nameless City                |   1921    | An explorer discovers an ancient, abandoned city in the Arabian desert, leading to a terrifying revelation.                                               |
+| The Descendant                   |   1926    | A fragmentary tale about a man who seeks protection from ancient horrors through the knowledge of occultism and ancestral connections to the Dreamlands.  |
+| The Transition of Juan Romero    |   1919    | A miner experiences a mysterious and terrifying event that hints at otherworldly realms.                                                                  |
+| The Crawling Chaos               |   1921    | (with Winifred V. Jackson) A prose poem that describes an apocalyptic vision experienced by the narrator, often associated with the Dreamlands.           | 
 

@@ -1,18 +1,13 @@
-% The Case of Charles Dexter Ward 
-% H. P. Lovecraft
+# The Case of Charles Dexter Ward
 
-    
+> "The essential Saltes of Animals may be so prepared and preserved, that an
+> ingenious Man may have the whole Ark of Noah in his own Studie, and raise the fine Shape of an
+> Animal out of its Ashes at his Pleasure; and by the lyke Method from the essential Saltes of humane
+> Dust, a Philosopher may, without any criminal Necromancy, call up the Shape of any dead Ancestour
+> from the Dust whereinto his Bodie has been incinerated."
+> BORELLUS
 
- 
-
-   "The essential Saltes of Animals may be so prepared and preserved, that an
-ingenious Man may have the whole Ark of Noah in his own Studie, and raise the fine Shape of an
-Animal out of its Ashes at his Pleasure; and by the lyke Method from the essential Saltes of humane
-Dust, a Philosopher may, without any criminal Necromancy, call up the Shape of any dead Ancestour
-from the Dust whereinto his Bodie has been incinerated. " 
-  BORELLUS   
-
-  I. A Result and a Prologue  1.  
+## I. A Result and a Prologue
 
 From a private hospital for the insane near Providence, Rhode Island, there recently disappeared an
 exceedingly singular person. He bore the name of Charles Dexter Ward, and was placed under
@@ -20,9 +15,9 @@ restraint most reluctantly by the grieving father who had watched his aberration
 eccentricity to a dark mania involving both a possibility of murderous tendencies and a profound
 and peculiar change in the apparent contents of his mind. Doctors confess themselves quite baffled
 by his case, since it presented oddities of a general physiological as well as psychological
-character. 
+character.
 
- In the first place, the patient seemed oddly older than his twenty-six years would
+In the first place, the patient seemed oddly older than his twenty-six years would
 warrant. Mental disturbance, it is true, will age one rapidly; but the face of this young man had
 taken on a subtle cast which only the very aged normally acquire. In the second place, his organic
 processes shewed a certain queerness of proportion which nothing in medical experience can
@@ -33,9 +28,9 @@ either normal or pathological. The skin had a morbid chill and dryness, and the 
 of the tissue seemed exaggeratedly coarse and loosely knit. Even a large olive birthmark on the
 right hip had disappeared, whilst there had formed on the chest a very peculiar mole or blackish
 spot of which no trace existed before. In general, all physicians agree that in Ward the processes
-of metabolism had become retarded to a degree beyond precedent. 
+of metabolism had become retarded to a degree beyond precedent.
 
- Psychologically, too, Charles Ward was unique. His madness held no affinity to any
+Psychologically, too, Charles Ward was unique. His madness held no affinity to any
 sort recorded in even the latest and most exhaustive of treatises, and was conjoined to a mental
 force which would have made him a genius or a leader had it not been twisted into strange and
 grotesque forms. Dr. Willett, who was Ward's family physician, affirms that the
@@ -48,9 +43,9 @@ seem; and only on the evidence of others, and on the strength of many abnormal g
 information as distinguished from his intelligence, was he finally placed in confinement. To the
 very moment of his vanishment he was an omnivorous reader and as great a conversationalist as his
 poor voice permitted; and shrewd observers, failing to foresee his escape, freely predicted that he
-would not be long in gaining his discharge from custody. 
+would not be long in gaining his discharge from custody.
 
- Only Dr. Willett, who brought Charles Ward into the world and had watched his
+Only Dr. Willett, who brought Charles Ward into the world and had watched his
 growth of body and mind ever since, seemed frightened at the thought of his future freedom. He had
 had a terrible experience and had made a terrible discovery which he dared not reveal to his
 sceptical colleagues. Willett, indeed, presents a minor mystery all his own in his connexion with
@@ -70,9 +65,9 @@ but he seemed more saddened than surprised. By the time Dr. Waite called in pers
 been talking with him, and both disavowed any knowledge or complicity in the escape. Only from
 certain closely confidential friends of Willett and the senior Ward have any clues been gained, and
 even these are too wildly fantastic for general credence. The one fact which remains is that up to
-the present time no trace of the missing madman has been unearthed. 
+the present time no trace of the missing madman has been unearthed.
 
- Charles Ward was an antiquarian from infancy, no doubt gaining his taste from the
+Charles Ward was an antiquarian from infancy, no doubt gaining his taste from the
 venerable town around him, and from the relics of the past which filled every corner of his
 parents' old mansion in Prospect Street on the crest of the hill. With the years his devotion
 to ancient things increased; so that history, genealogy, and the study of colonial architecture,
@@ -92,10 +87,10 @@ such knowledge of his own life and of the ordinary practical and cultural backgr
 twentieth century as ought to have been his by virtue of his birth in 1902 and his education in the
 schools of our own time. Alienists are now wondering how, in view of his vitally impaired range of
 data, the escaped patient manages to cope with the complicated world of today; the dominant opinion
-being that he is "lying low' in some humble and unexacting position till his stock of
-modern information can be brought up to the normal. 
+being that he is 'lying low' in some humble and unexacting position till his stock of
+modern information can be brought up to the normal.
 
- The beginning of Ward's madness is a matter of dispute among alienists. Dr.
+The beginning of Ward's madness is a matter of dispute among alienists. Dr.
 Lyman, the eminent Boston authority, places it in 1919 or 1920, during the boy's last year at
 the Moses Brown School, when he suddenly turned from the study of the past to the study of the
 occult, and refused to qualify for college on the ground that he had individual researches of much
@@ -106,9 +101,9 @@ to have found behind the panelling of a very old house in Olney Court, on Stampe
 which Curwen was known to have built and occupied. It is, broadly speaking, undeniable that the
 winter of 1919-20 saw a great change in Ward; whereby he abruptly stopped his general
 antiquarian pursuits and embarked on a desperate delving into occult subjects both at home and
-abroad, varied only by this strangely persistent search for his forefather's grave. 
+abroad, varied only by this strangely persistent search for his forefather's grave.
 
- From this opinion, however, Dr. Willett substantially dissents; basing his verdict
+From this opinion, however, Dr. Willett substantially dissents; basing his verdict
 on his close and continuous knowledge of the patient, and on certain frightful investigations and
 discoveries which he made toward the last. Those investigations and discoveries have left their
 mark upon him; so that his voice trembles when he tells them, and his hand trembles when he tries
@@ -122,13 +117,13 @@ statement that he had discovered or rediscovered something whose effect on human
 to be marvellous and profound. The true madness, he is certain, came with a later change; after the
 Curwen portrait and the ancient papers had been unearthed; after a trip to strange foreign places
 had been made, and some terrible invocations chanted under strange and secret circumstances; after
-certain  answers  to these invocations had been plainly indicated, and a frantic letter penned
+certain answers to these invocations had been plainly indicated, and a frantic letter penned
 under agonising and inexplicable conditions; after the wave of vampirism and the ominous Pawtuxet
 gossip; and after the patient's memory commenced to exclude contemporary images whilst his
 voice failed and his physical aspect underwent the subtle modification so many subsequently
-noticed. 
+noticed.
 
- It was only about this time, Willett points out with much acuteness, that the
+It was only about this time, Willett points out with much acuteness, that the
 nightmare qualities became indubitably linked with Ward; and the doctor feels shudderingly sure
 that enough solid evidence exists to sustain the youth's claim regarding his crucial
 discovery. In the first place, two workmen of high intelligence saw Joseph Curwen's ancient
@@ -139,14 +134,12 @@ them in surroundings which can scarcely be believed and can never perhaps be pro
 were the mysteries and coincidences of the Orne and Hutchinson letters, and the problem of the
 Curwen penmanship and of what the detectives brought to light about Dr. Allen; these things, and
 the terrible message in mediaeval minuscules found in Willett's pocket when he gained
-consciousness after his shocking experience. 
+consciousness after his shocking experience.
 
- And most conclusive of all, there are the two hideous  results  which the
+And most conclusive of all, there are the two hideous results which the
 doctor obtained from a certain pair of formulae during his final investigations; results which
 virtually proved the authenticity of the papers and of their monstrous implications at the same
-time that those papers were borne forever from human knowledge. 
-
-  2.  
+time that those papers were borne forever from human knowledge.
 
 One must look back at Charles Ward's earlier life as at something belonging
 as much to the past as the antiquities he loved so keenly. In the autumn of 1918, and with a
@@ -159,9 +152,9 @@ genealogical data at the City Hall, the State House, the Public Library, the Ath
 Historical Society, the John Carter Brown and John Hay Libraries of Brown University, and the newly
 opened Shepley Library in Benefit Street. One may picture him yet as he was in those days; tall,
 slim, and blond, with studious eyes and a slight stoop, dressed somewhat carelessly, and giving a
-dominant impression of harmless awkwardness rather than attractiveness. 
+dominant impression of harmless awkwardness rather than attractiveness.
 
- His walks were always adventures in antiquity, during which he managed to
+His walks were always adventures in antiquity, during which he managed to
 recapture from the myriad relics of a glamorous old city a vivid and connected picture of the
 centuries before. His home was a great Georgian mansion atop the well-nigh precipitous hill that
 rises just east of the river; and from the rear windows of its rambling wings he could look dizzily
@@ -171,9 +164,9 @@ double-bayed brick facade his nurse had first wheeled him in his carriage; past 
 farmhouse of two hundred years before that the town had long ago overtaken, and on toward the
 stately colleges along the shady, sumptuous street, whose old square brick mansions and smaller
 wooden houses with narrow, heavy-columned Doric porches dreamed solid and exclusive amidst their
-generous yards and gardens. 
+generous yards and gardens.
 
- He had been wheeled, too, along sleepy Congdon Street, one tier lower down on the
+He had been wheeled, too, along sleepy Congdon Street, one tier lower down on the
 steep hill, and with all its eastern homes on high terraces. The small wooden houses averaged a
 greater age here, for it was up this hill that the growing town had climbed; and in these rides he
 had imbibed something of the colour of a quaint colonial village. The nurse used to stop and sit on
@@ -182,9 +175,9 @@ was of the great westward sea of hazy roofs and domes and steeples and far hills
 winter afternoon from that great railed embankment, all violet and mystic against a fevered,
 apocalyptic sunset of reds and golds and purples and curious greens. The vast marble dome of the
 State House stood out in massive silhouette, its crowning statue haloed fantastically by a break in
-one of the tinted stratus clouds that barred the flaming sky. 
+one of the tinted stratus clouds that barred the flaming sky.
 
- When he was larger his famous walks began; first with his impatiently dragged
+When he was larger his famous walks began; first with his impatiently dragged
 nurse, and then alone in dreamy meditation. Farther and farther down that almost perpendicular hill
 he would venture, each time reaching older and quainter levels of the ancient city. He would
 hesitate gingerly down vertical Jenckes Street with its bank walls and colonial gables to the shady
@@ -196,10 +189,10 @@ south past the long lines of the pre-Revolutionary homes with their great centra
 classic portals. On the eastern side they were set high over basements with railed double flights
 of stone steps, and the young Charles could picture them as they were when the street was new, and
 red heels and periwigs set off the painted pediments whose signs of wear were now becoming so
-visible. 
+visible.
 
- Westward the hill dropped almost as steeply as above, down to the old "Town
-Street " that the founders had laid out at the river's edge in 1636. Here ran
+Westward the hill dropped almost as steeply as above, down to the old _"Town
+Street"_ that the founders had laid out at the river's edge in 1636. Here ran
 innumerable little lanes with leaning, huddled houses of immense antiquity; and fascinated though
 he was, it was long before he dared to thread their archaic verticality for fear they would turn
 out a dream or a gateway to unknown terrors. He found it much less formidable to continue along
@@ -208,17 +201,17 @@ Colony House and the mouldering bulk of the Golden Ball Inn where Washington sto
 Street--the successive Gaol Lane and King Street of other periods--he would look upward
 to the east and see the arched flight of steps to which the highway had to resort in climbing the
 slope, and downward to the west, glimpsing the old brick colonial schoolhouse that smiles across
-the road at the ancient Sign of Shakespear's Head where the  Providence Gazette and
-Country-Journal  was printed before the Revolution. Then came the exquisite First Baptist Church
+the road at the ancient Sign of Shakespear's Head where the Providence Gazette and
+Country-Journal was printed before the Revolution. Then came the exquisite First Baptist Church
 of 1775, luxurious with its matchless Gibbs steeple, and the Georgian roofs and cupolas hovering
 by. Here and to the southward the neighbourhood became better, flowering at last into a marvellous
 group of early mansions; but still the little ancient lanes led off down the precipice to the west,
 spectral in their many-gabled archaism and dipping to a riot of iridescent decay where the wicked
 old waterfront recalls its proud East India days amidst polyglot vice and squalor, rotting wharves,
 and blear-eyed ship-chandleries, with such surviving alley names as Packet, Bullion, Gold, Silver,
-Coin, Doubloon, Sovereign, Guilder, Dollar, Dime, and Cent. 
+Coin, Doubloon, Sovereign, Guilder, Dollar, Dime, and Cent.
 
- Sometimes, as he grew taller and more adventurous, young Ward would venture down
+Sometimes, as he grew taller and more adventurous, young Ward would venture down
 into this maelstrom of tottering houses, broken transoms, tumbling steps, twisted balustrades,
 swarthy faces, and nameless odours; winding from South Main to South Water, searching out the docks
 where the bay and sound steamers still touched, and returning northward at this lower level past
@@ -232,9 +225,9 @@ dreaming wharves where Providence Indiamen used to ride at anchor. After a long 
 almost dizzy with a poet's love for the sight, and then he would scale the slope homeward in
 the dusk past the old white church and up the narrow precipitous ways where yellow gleams would
 begin to peep out in small-paned windows and through fanlights set high over double flights of
-steps with curious wrought-iron railings. 
+steps with curious wrought-iron railings.
 
- At other times, and in later years, he would seek for vivid contrasts; spending
+At other times, and in later years, he would seek for vivid contrasts; spending
 half a walk in the crumbling colonial regions northwest of his home, where the hill drops to the
 lower eminence of Stampers' Hill with its ghetto and negro quarter clustering round the place
 where the Boston stage coach used to start before the Revolution, and the other half in the
@@ -243,41 +236,41 @@ holds unchanged the fine estates and bits of walled garden and steep green lane 
 fragrant memories linger. These rambles, together with the diligent studies which accompanied them,
 certainly account for a large amount of the antiquarian lore which at last crowded the modern world
 from Charles Ward's mind; and illustrate the mental soil upon which fell, in that fateful
-winter of 1919-20, the seeds that came to such strange and terrible fruition. 
+winter of 1919-20, the seeds that came to such strange and terrible fruition.
 
- Dr. Willett is certain that, up to this ill-omened winter of first change, Charles
+Dr. Willett is certain that, up to this ill-omened winter of first change, Charles
 Ward's antiquarianism was free from every trace of the morbid. Graveyards held for him no
 particular attraction beyond their quaintness and historic value, and of anything like violence or
 savage instinct he was utterly devoid. Then, by insidious degrees, there appeared to develop a
 curious sequel to one of his genealogical triumphs of the year before; when he had discovered among
 his maternal ancestors a certain very long-lived man named Joseph Curwen, who had come from Salem
 in March of 1692, and about whom a whispered series of highly peculiar and disquieting stories
-clustered. 
+clustered.
 
- Ward's great-great-grandfather Welcome Potter had in 1785 married a certain
- "Ann Tillinghast, daughter of Mrs. Eliza, daughter to Capt. James Tillinghast", of
+Ward's great-great-grandfather Welcome Potter had in 1785 married a certain
+_"Ann Tillinghast, daughter of Mrs. Eliza, daughter to Capt. James Tillinghast"_, of
 whose paternity the family had preserved no trace. Late in 1918, whilst examining a volume of
 original town records in manuscript, the young genealogist encountered an entry describing a legal
 change of name, by which in 1772 a Mrs. Eliza Curwen, widow of Joseph Curwen, resumed, along with
-her seven-year-old daughter Ann, her maiden name of Tillinghast; on the ground "that her
+her seven-year-old daughter Ann, her maiden name of Tillinghast; on the ground _"that her
 Husband's name was become a publick Reproach by Reason of what was knowne after his Decease;
 the which confirming an antient common Rumour, tho' not to be credited by a loyall Wife till
-so proven as to be wholely past Doubting'. This entry came to light upon the accidental
+so proven as to be wholely past Doubting"_. This entry came to light upon the accidental
 separation of two leaves which had been carefully pasted together and treated as one by a laboured
-revision of the page numbers. 
+revision of the page numbers.
 
- It was at once clear to Charles Ward that he had indeed discovered a hitherto
+It was at once clear to Charles Ward that he had indeed discovered a hitherto
 unknown great-great-great-grandfather. The discovery doubly excited him because he had already
 heard vague reports and seen scattered allusions relating to this person; about whom there remained
 so few publicly available records, aside from those becoming public only in modern times, that it
 almost seemed as if a conspiracy had existed to blot him from memory. What did appear, moreover,
 was of such a singular and provocative nature that one could not fail to imagine curiously what it
 was that the colonial recorders were so anxious to conceal and forget; or to suspect that the
-deletion had reasons all too valid. 
+deletion had reasons all too valid.
 
- Before this, Ward had been content to let his romancing about old Joseph Curwen
+Before this, Ward had been content to let his romancing about old Joseph Curwen
 remain in the idle stage; but having discovered his own relationship to this apparently
- "hushed-up " character, he proceeded to hunt out as systematically as possible whatever
+_"hushed-up"_ character, he proceeded to hunt out as systematically as possible whatever
 he might find concerning him. In this excited quest he eventually succeeded beyond his highest
 expectations; for old letters, diaries, and sheaves of unpublished memoirs in cobwebbed Providence
 garrets and elsewhere yielded many illuminating passages which their writers had not thought it
@@ -286,9 +279,9 @@ where some Rhode Island colonial correspondence was stored in the Museum at Frau
 The really crucial thing, though, and what in Dr. Willett's opinion formed the definite
 source of Ward's undoing, was the matter found in August 1919 behind the panelling of the
 crumbling house in Olney Court. It was that, beyond a doubt, which opened up those black vistas
-whose end was deeper than the pit. 
+whose end was deeper than the pit.
 
-  II. An Antecedent and a Horror  1.  
+## II. An Antecedent and a Horror
 
 Joseph Curwen, as revealed by the rambling legends embodied in what Ward heard and unearthed, was a
 very astonishing, enigmatic, and obscurely horrible individual. He had fled from Salem to
@@ -298,9 +291,9 @@ and queer chemical or alchemical experiments. He was a colourless-looking man of
 was soon found qualified to become a freeman of Providence; thereafter buying a home lot just north
 of Gregory Dexter's at about the foot of Olney Street. His house was built on Stampers'
 Hill west of the Town Street, in what later became Olney Court; and in 1761 he replaced this with a
-larger one, on the same site, which is still standing. 
+larger one, on the same site, which is still standing.
 
- Now the first odd thing about Joseph Curwen was that he did not seem to grow much
+Now the first odd thing about Joseph Curwen was that he did not seem to grow much
 older than he had been on his arrival. He engaged in shipping enterprises, purchased wharfage near
 Mile-End Cove, helped rebuild the Great Bridge in 1713, and in 1723 was one of the founders of the
 Congregational Church on the hill; but always did he retain the nondescript aspect of a man not
@@ -322,9 +315,9 @@ potions in response to their requests, it was observed that his ministrations to
 proved of benefit. At length, when over fifty years had passed since the stranger's advent,
 and without producing more than five years' apparent change in his face and physique, the
 people began to whisper more darkly; and to meet more than half way that desire for isolation which
-he had always shewn. 
+he had always shewn.
 
- Private letters and diaries of the period reveal, too, a multitude of other
+Private letters and diaries of the period reveal, too, a multitude of other
 reasons why Joseph Curwen was marvelled at, feared, and finally shunned like a plague. His passion
 for graveyards, in which he was glimpsed at all hours and under all conditions, was notorious;
 though no one had witnessed any deed on his part which could actually be termed ghoulish. On the
@@ -336,7 +329,7 @@ of negro blood. In the lean-to of this house was the laboratory where most of th
 experiments were conducted. Curious porters and teamers who delivered bottles, bags, or boxes at
 the small rear door would exchange accounts of the fantastic flasks, crucibles, alembics, and
 furnaces they saw in the low shelved room; and prophesied in whispers that the close-mouthed
- "chymist "--by which they meant  alchemist --would not be long in finding
+_"chymist"_--by which they meant alchemist --would not be long in finding
 the Philosopher's Stone. The nearest neighbours to this farm--the Fenners, a quarter of
 a mile away--had still queerer things to tell of certain sounds which they insisted came from
 the Curwen place in the night. There were cries, they said, and sustained howlings; and they did
@@ -344,20 +337,20 @@ not like the large number of livestock which thronged the pastures, for no such 
 to keep a lone old man and a very few servants in meat, milk, and wool. The identity of the stock
 seemed to change from week to week as new droves were purchased from the Kingstown farmers. Then,
 too, there was something very obnoxious about a certain great stone outbuilding with only high
-narrow slits for windows. 
+narrow slits for windows.
 
- Great Bridge idlers likewise had much to say of Curwen's town house in Olney
+Great Bridge idlers likewise had much to say of Curwen's town house in Olney
 Court; not so much the fine new one built in 1761, when the man must have been nearly a century
 old, but the first low gambrel-roofed one with the windowless attic and shingled sides, whose
 timbers he took the peculiar precaution of burning after its demolition. Here there was less
 mystery, it is true; but the hours at which lights were seen, the secretiveness of the two swarthy
 foreigners who comprised the only menservants, the hideous indistinct mumbling of the incredibly
 aged French housekeeper, the large amounts of food seen to enter a door within which only four
-persons lived, and the  quality  of certain voices often heard in muffled conversation at
+persons lived, and the quality of certain voices often heard in muffled conversation at
 highly unseasonable times, all combined with what was known of the Pawtuxet farm to give the place
-a bad name. 
+a bad name.
 
- In choicer circles, too, the Curwen home was by no means undiscussed; for as the
+In choicer circles, too, the Curwen home was by no means undiscussed; for as the
 newcomer had gradually worked into the church and trading life of the town, he had naturally made
 acquaintances of the better sort, whose company and conversation he was well fitted by education to
 enjoy. His birth was known to be good, since the Curwens or Corwins of Salem needed no introduction
@@ -365,9 +358,9 @@ in New England. It developed that Joseph Curwen had travelled much in very early
 time in England and making at least two voyages to the Orient; and his speech, when he deigned to
 use it, was that of a learned and cultivated Englishman. But for some reason or other Curwen did
 not care for society. Whilst never actually rebuffing a visitor, he always reared such a wall of
-reserve that few could think of anything to say to him which would not sound inane. 
+reserve that few could think of anything to say to him which would not sound inane.
 
- There seemed to lurk in his bearing some cryptic, sardonic arrogance, as if he had
+There seemed to lurk in his bearing some cryptic, sardonic arrogance, as if he had
 come to find all human beings dull through having moved among stranger and more potent entities.
 When Dr. Checkley the famous wit came from Boston in 1738 to be rector of King's Church, he
 did not neglect calling on one of whom he soon heard so much; but left in a very short while
@@ -376,9 +369,9 @@ his father, when they discussed Curwen one winter evening, that he would give mu
 the mysterious old man had said to the sprightly cleric, but that all diarists agree concerning Dr.
 Checkley's reluctance to repeat anything he had heard. The good man had been hideously
 shocked, and could never recall Joseph Curwen without a visible loss of the gay urbanity for which
-he was famed. 
+he was famed.
 
- More definite, however, was the reason why another man of taste and breeding
+More definite, however, was the reason why another man of taste and breeding
 avoided the haughty hermit. In 1746 Mr. John Merritt, an elderly English gentleman of literary and
 scientific leanings, came from Newport to the town which was so rapidly overtaking it in standing,
 and built a fine country seat on the Neck in what is now the heart of the best residence section.
@@ -390,28 +383,28 @@ admiration for his host's ample shelves, which besides the Greek, Latin, and Eng
 were equipped with a remarkable battery of philosophical, mathematical, and scientific works
 including Paracelsus, Agricola, Van Helmont, Sylvius, Glauber, Boyle, Boerhaave, Becher, and Stahl,
 led Curwen to suggest a visit to the farmhouse and laboratory whither he had never invited anyone
-before; and the two drove out at once in Mr. Merritt's coach. 
+before; and the two drove out at once in Mr. Merritt's coach.
 
- Mr. Merritt always confessed to seeing nothing really horrible at the farmhouse,
+Mr. Merritt always confessed to seeing nothing really horrible at the farmhouse,
 but maintained that the titles of the books in the special library of thaumaturgical, alchemical,
 and theological subjects which Curwen kept in a front room were alone sufficient to inspire him
 with a lasting loathing. Perhaps, however, the facial expression of the owner in exhibiting them
 contributed much of the prejudice. The bizarre collection, besides a host of standard works which
 Mr. Merritt was not too alarmed to envy, embraced nearly all the cabbalists, daemonologists, and
 magicians known to man; and was a treasure-house of lore in the doubtful realms of alchemy and
-astrology. Hermes Trismegistus in Mesnard's edition, the  Turba Philosophorum, 
-Geber's  Liber Investigationis,  and Artephius'  Key of Wisdom  all were
-there; with the cabbalistic  Zohar,  Peter Jammy's set of Albertus Magnus, Raymond
-Lully's  Ars Magna et Ultima  in Zetzner's edition, Roger Bacon's
- Thesaurus Chemicus,  Fludd's  Clavis Alchimiae,  and Trithemius'  De
-Lapide Philosophico  crowding them close. Mediaeval Jews and Arabs were represented in
+astrology. Hermes Trismegistus in Mesnard's edition, the Turba Philosophorum,
+Geber's Liber Investigationis, and Artephius' Key of Wisdom all were
+there; with the cabbalistic Zohar, Peter Jammy's set of Albertus Magnus, Raymond
+Lully's Ars Magna et Ultima in Zetzner's edition, Roger Bacon's
+Thesaurus Chemicus, Fludd's Clavis Alchimiae, and Trithemius' De
+Lapide Philosophico crowding them close. Mediaeval Jews and Arabs were represented in
 profusion, and Mr. Merritt turned pale when, upon taking down a fine volume conspicuously labelled
-as the  Qanoon-e-Islam,  he found it was in truth the forbidden  Necronomicon  of the mad
+as the Qanoon-e-Islam, he found it was in truth the forbidden Necronomicon of the mad
 Arab Abdul Alhazred, of which he had heard such monstrous things whispered some years previously
 after the exposure of nameless rites at the strange little fishing village of Kingsport, in the
-Province of the Massachusetts-Bay. 
+Province of the Massachusetts-Bay.
 
- But oddly enough, the worthy gentleman owned himself most impalpably disquieted by
+But oddly enough, the worthy gentleman owned himself most impalpably disquieted by
 a mere minor detail. On the huge mahogany table there lay face downward a badly worn copy of
 Borellus, bearing many cryptical marginalia and interlineations in Curwen's hand. The book
 was open at about its middle, and one paragraph displayed such thick and tremulous pen-strokes
@@ -420,15 +413,15 @@ Whether it was the nature of the passage underscored, or the feverish heaviness 
 which formed the underscoring, he could not tell; but something in that combination affected him
 very badly and very peculiarly. He recalled it to the end of his days, writing it down from memory
 in his diary and once trying to recite it to his close friend Dr. Checkley till he saw how greatly
-it disturbed the urbane rector. It read: 
+it disturbed the urbane rector. It read:
 
-   "The essential Saltes of Animals may be so prepared and
-preserved, that an ingenious Man may have the whole Ark of Noah in his own Studie, and raise the
-fine Shape of an Animal out of its Ashes at his Pleasure; and by the lyke Method from the essential
-Saltes of humane Dust, a Philosopher may, without any criminal Necromancy, call up the Shape of any
-dead Ancestour from the Dust whereinto his Bodie has been incinerated. " 
+> "The essential Saltes of Animals may be so prepared and
+> preserved, that an ingenious Man may have the whole Ark of Noah in his own Studie, and raise the
+> fine Shape of an Animal out of its Ashes at his Pleasure; and by the lyke Method from the essential
+> Saltes of humane Dust, a Philosopher may, without any criminal Necromancy, call up the Shape of any
+> dead Ancestour from the Dust whereinto his Bodie has been incinerated."
 
- It was near the docks along the southerly part of the Town Street, however, that
+It was near the docks along the southerly part of the Town Street, however, that
 the worst things were muttered about Joseph Curwen. Sailors are superstitious folk; and the
 seasoned salts who manned the infinite rum, slave, and molasses sloops, the rakish privateers, and
 the great brigs of the Browns, Crawfords, and Tillinghasts, all made strange furtive signs of
@@ -444,9 +437,9 @@ errands had concerned the farm on the Pawtuxet Road, and that few of the sailors
 to return from that place, was not forgotten; so that in time it became exceedingly difficult for
 Curwen to keep his oddly assorted hands. Almost invariably several would desert soon after hearing
 the gossip of the Providence wharves, and their replacement in the West Indies became an
-increasingly great problem to the merchant. 
+increasingly great problem to the merchant.
 
- In 1760 Joseph Curwen was virtually an outcast, suspected of vague horrors and
+In 1760 Joseph Curwen was virtually an outcast, suspected of vague horrors and
 daemoniac alliances which seemed all the more menacing because they could not be named, understood,
 or even proved to exist. The last straw may have come from the affair of the missing soldiers in
 1758, for in March and April of that year two Royal regiments on their way to New France were
@@ -454,9 +447,9 @@ quartered in Providence, and depleted by an inexplicable process far beyond the 
 desertion. Rumour dwelt on the frequency with which Curwen was wont to be seen talking with the
 red-coated strangers; and as several of them began to be missed, people thought of the odd
 conditions among his own seamen. What would have happened if the regiments had not been ordered on,
-no one can tell. 
+no one can tell.
 
- Meanwhile the merchant's worldly affairs were prospering. He had a virtual
+Meanwhile the merchant's worldly affairs were prospering. He had a virtual
 monopoly of the town's trade in saltpetre, black pepper, and cinnamon, and easily led any
 other one shipping establishment save the Browns in his importation of brassware, indigo, cotton,
 woollens, salt, rigging, iron, paper, and English goods of every kind. Such shopkeepers as James
@@ -464,23 +457,21 @@ Green, at the Sign of the Elephant in Cheapside, the Russells, at the Sign of th
 across the Bridge, or Clark and Nightingale at the Frying-Pan and Fish near the New Coffee-House,
 depended almost wholly upon him for their stock; and his arrangements with the local distillers,
 the Narragansett dairymen and horse-breeders, and the Newport candle-makers, made him one of the
-prime exporters of the Colony. 
+prime exporters of the Colony.
 
- Ostracised though he was, he did not lack for civic spirit of a sort. When the
+Ostracised though he was, he did not lack for civic spirit of a sort. When the
 Colony House burned down, he subscribed handsomely to the lotteries by which the new brick
 one--still standing at the head of its parade in the old main street--was built in 1761.
 In that same year, too, he helped rebuild the Great Bridge after the October gale. He replaced many
 of the books of the public library consumed in the Colony House fire, and bought heavily in the
 lottery that gave the muddy Market Parade and deep-rutted Town Street their pavement of great round
-stones with a brick footwalk or "causey " in the middle. About this time, also, he built
+stones with a brick footwalk or _"causey"_ in the middle. About this time, also, he built
 the plain but excellent new house whose doorway is still such a triumph of carving. When the
 Whitefield adherents broke off from Dr. Cotton's hill church in 1743 and founded Deacon
 Snow's church across the Bridge, Curwen had gone with them; though his zeal and attendance
 soon abated. Now, however, he cultivated piety once more; as if to dispel the shadow which had
 thrown him into isolation and would soon begin to wreck his business fortunes if not sharply
-checked. 
-
-  2.  
+checked.
 
 The sight of this strange, pallid man, hardly middle-aged in aspect yet certainly
 not less than a full century old, seeking at last to emerge from a cloud of fright and detestation
@@ -497,9 +488,9 @@ large number of Guinea blacks he imported until 1766, and the disturbingly small
 could produce bona fide bills of sale either to slave-dealers at the Great Bridge or to the
 planters of the Narragansett Country. Certainly, the cunning and ingenuity of this abhorred
 character were uncannily profound, once the necessity for their exercise had become impressed upon
-him. 
+him.
 
- But of course the effect of all this belated mending was necessarily slight.
+But of course the effect of all this belated mending was necessarily slight.
 Curwen continued to be avoided and distrusted, as indeed the one fact of his continued air of youth
 at a great age would have been enough to warrant; and he could see that in the end his fortunes
 would be likely to suffer. His elaborate studies and experiments, whatever they may have been,
@@ -515,9 +506,9 @@ information very pertinent to their welfare. In many cases, diarists have record
 Curwen shewed almost the power of a wizard in unearthing family secrets for questionable use.
 During the final five years of his life it seemed as though only direct talks with the long-dead
 could possibly have furnished some of the data which he had so glibly at his tongue's
-end. 
+end.
 
- About this time the crafty scholar hit upon a last desperate expedient to regain
+About this time the crafty scholar hit upon a last desperate expedient to regain
 his footing in the community. Hitherto a complete hermit, he now determined to contract an
 advantageous marriage; securing as a bride some lady whose unquestioned position would make all
 ostracism of his home impossible. It may be that he also had deeper reasons for wishing an
@@ -531,9 +522,9 @@ length his survey narrowed down to the household of one of his best and oldest s
 widower of high birth and unblemished standing named Dutee Tillinghast, whose only daughter Eliza
 seemed dowered with every conceivable advantage save prospects as an heiress. Capt. Tillinghast was
 completely under the domination of Curwen; and consented, after a terrible interview in his
-cupolaed house on Power's Lane hill, to sanction the blasphemous alliance. 
+cupolaed house on Power's Lane hill, to sanction the blasphemous alliance.
 
- Eliza Tillinghast was at that time eighteen years of age, and had been reared as
+Eliza Tillinghast was at that time eighteen years of age, and had been reared as
 gently as the reduced circumstances of her father permitted. She had attended Stephen
 Jackson's school opposite the Court-House Parade; and had been diligently instructed by her
 mother, before the latter's death of smallpox in 1757, in all the arts and refinements of
@@ -541,20 +532,20 @@ domestic life. A sampler of hers, worked in 1753 at the age of nine, may still b
 rooms of the Rhode Island Historical Society. After her mother's death she had kept the
 house, aided only by one old black woman. Her arguments with her father concerning the proposed
 Curwen marriage must have been painful indeed; but of these we have no record. Certain it is that
-her engagement to young Ezra Weeden, second mate of the Crawford packet  Enterprise,  was
+her engagement to young Ezra Weeden, second mate of the Crawford packet Enterprise, was
 dutifully broken off, and that her union with Joseph Curwen took place on the seventh of March,
 1763, in the Baptist church, in the presence of one of the most distinguished assemblages which the
-town could boast; the ceremony being performed by the younger Samuel Winsor. The  Gazette 
+town could boast; the ceremony being performed by the younger Samuel Winsor. The Gazette
 mentioned the event very briefly, and in most surviving copies the item in question seems to be cut
 or torn out. Ward found a single intact copy after much search in the archives of a private
-collector of note, observing with amusement the meaningless urbanity of the language: 
+collector of note, observing with amusement the meaningless urbanity of the language:
 
-   "Monday evening last, Mr. Joseph Curwen, of this Town, Merchant,
-was married to Miss Eliza Tillinghast, Daughter of Capt. Dutee Tillinghast, a young Lady who has
-real Merit, added to a beautiful Person, to grace the connubial State and perpetuate its
-Felicity. " 
+> "Monday evening last, Mr. Joseph Curwen, of this Town, Merchant,
+> was married to Miss Eliza Tillinghast, Daughter of Capt. Dutee Tillinghast, a young Lady who has
+> real Merit, added to a beautiful Person, to grace the connubial State and perpetuate its
+> Felicity."
 
- The collection of Durfee-Arnold letters, discovered by Charles Ward shortly before
+The collection of Durfee-Arnold letters, discovered by Charles Ward shortly before
 his first reputed madness in the private collection of Melville F. Peters, Esq., of George St., and
 covering this and a somewhat antecedent period, throws vivid light on the outrage done to public
 sentiment by this ill-assorted match. The social influence of the Tillinghasts, however, was not to
@@ -569,9 +560,9 @@ at any other time in his long years of residence. Only one person remained in op
 this being the youthful ship's officer whose engagement to Eliza Tillinghast had been so
 abruptly broken. Ezra Weeden had frankly vowed vengeance; and though of a quiet and ordinarily mild
 disposition, was now gaining a hate-bred, dogged purpose which boded no good to the usurping
-husband. 
+husband.
 
- On the seventh of May, 1765, Curwen's only child Ann was born; and was
+On the seventh of May, 1765, Curwen's only child Ann was born; and was
 christened by the Rev. John Graves of King's Church, of which both husband and wife had
 become communicants shortly after their marriage, in order to compromise between their respective
 Congregational and Baptist affiliations. The record of this birth, as well as that of the marriage
@@ -582,9 +573,9 @@ interest which culminated in his madness. The birth entry, indeed, was found ver
 correspondence with the heirs of the loyalist Dr. Graves, who had taken with him a duplicate set of
 records when he left his pastorate at the outbreak of the Revolution. Ward had tried this source
 because he knew that his great-great-grandmother Ann Tillinghast Potter had been an
-Episcopalian. 
+Episcopalian.
 
- Shortly after the birth of his daughter, an event he seemed to welcome with a
+Shortly after the birth of his daughter, an event he seemed to welcome with a
 fervour greatly out of keeping with his usual coldness, Curwen resolved to sit for a portrait. This
 he had painted by a very gifted Scotsman named Cosmo Alexander, then a resident of Newport, and
 since famous as the early teacher of Gilbert Stuart. The likeness was said to have been executed on
@@ -594,13 +585,13 @@ signs of unusual abstraction, and spent as much time as he possibly could at his
 Pawtuxet Road. He seemed, it was stated, in a condition of suppressed excitement or suspense; as if
 expecting some phenomenal thing or on the brink of some strange discovery. Chemistry or alchemy
 would appear to have played a great part, for he took from his house to the farm the greater number
-of his volumes on that subject. 
+of his volumes on that subject.
 
- His affectation of civic interest did not diminish, and he lost no opportunities
+His affectation of civic interest did not diminish, and he lost no opportunities
 for helping such leaders as Stephen Hopkins, Joseph Brown, and Benjamin West in their efforts to
 raise the cultural tone of the town, which was then much below the level of Newport in its
 patronage of the liberal arts. He had helped Daniel Jenckes found his bookshop in 1763, and was
-thereafter his best customer; extending aid likewise to the struggling  Gazette  that appeared
+thereafter his best customer; extending aid likewise to the struggling Gazette that appeared
 each Wednesday at the Sign of Shakespear's Head. In politics he ardently supported Governor
 Hopkins against the Ward party whose prime strength was in Newport, and his really eloquent speech
 at Hacker's Hall in 1765 against the setting off of North Providence as a separate town with
@@ -611,9 +602,7 @@ blackest gulfs of Tartarus. The revengeful youth began a systematic study of the
 whenever he was in port; spending hours at night by the wharves with a dory in readiness when he
 saw lights in the Curwen warehouses, and following the small boat which would sometimes steal
 quietly off and down the bay. He also kept as close a watch as possible on the Pawtuxet farm, and
-was once severely bitten by the dogs the old Indian couple loosed upon him. 
-
-  3.  
+was once severely bitten by the dogs the old Indian couple loosed upon him.
 
 In 1766 came the final change in Joseph Curwen. It was very sudden, and gained
 wide notice amongst the curious townsfolk; for the air of suspense and expectancy dropped like an
@@ -622,9 +611,9 @@ have difficulty in restraining himself from public harangues on what he had foun
 made; but apparently the need of secrecy was greater than the longing to share his rejoicing, for
 no explanation was ever offered by him. It was after this transition, which appears to have come
 early in July, that the sinister scholar began to astonish people by his possession of information
-which only their long-dead ancestors would seem to be able to impart. 
+which only their long-dead ancestors would seem to be able to impart.
 
- But Curwen's feverish secret activities by no means ceased with this change.
+But Curwen's feverish secret activities by no means ceased with this change.
 On the contrary, they tended rather to increase; so that more and more of his shipping business was
 handled by the captains whom he now bound to him by ties of fear as potent as those of bankruptcy
 had been. He altogether abandoned the slave trade, alleging that its profits were constantly
@@ -634,9 +623,9 @@ relation to graveyards that thoughtful people wondered just how thorough the old
 change of habits really was. Ezra Weeden, though his periods of espionage were necessarily brief
 and intermittent on account of his sea voyaging, had a vindictive persistence which the bulk of the
 practical townsfolk and farmers lacked; and subjected Curwen's affairs to a scrutiny such as
-they had never had before. 
+they had never had before.
 
- Many of the odd manoeuvres of the strange merchant's vessels had been taken
+Many of the odd manoeuvres of the strange merchant's vessels had been taken
 for granted on account of the unrest of the times, when every colonist seemed determined to resist
 the provisions of the Sugar Act which hampered a prominent traffick. Smuggling and evasion were the
 rule in Narragansett Bay, and nocturnal landings of illicit cargoes were continuous commonplaces.
@@ -655,9 +644,9 @@ ships of considerable size and widely varied appearance. Curwen's sailors would 
 this cargo at the usual point on the shore, and transport it overland to the farm; locking it in
 the same cryptical stone building which had formerly received the negroes. The cargo consisted
 almost wholly of boxes and cases, of which a large proportion were oblong and heavy and
-disturbingly suggestive of coffins. 
+disturbingly suggestive of coffins.
 
- Weeden always watched the farm with unremitting assiduity; visiting it each night
+Weeden always watched the farm with unremitting assiduity; visiting it each night
 for long periods, and seldom letting a week go by without a sight except when the ground bore a
 footprint-revealing snow. Even then he would often walk as close as possible in the travelled road
 or on the ice of the neighbouring river to see what tracks others might have left. Finding his own
@@ -671,9 +660,9 @@ his notebooks. All that can be told of their discoveries is what Eleazar Smith j
 none too coherent diary, and what other diarists and letter-writers have timidly repeated from the
 statements which they finally made--and according to which the farm was only the outer shell
 of some vast and revolting menace, of a scope and depth too profound and intangible for more than
-shadowy comprehension. 
+shadowy comprehension.
 
- It is gathered that Weeden and Smith became early convinced that a great series of
+It is gathered that Weeden and Smith became early convinced that a great series of
 tunnels and catacombs, inhabited by a very sizeable staff of persons besides the old Indian and his
 wife, underlay the farm. The house was an old peaked relic of the middle seventeenth century with
 enormous stack chimney and diamond-paned lattice windows, the laboratory being in a lean-to toward
@@ -690,9 +679,9 @@ captives, and the guards of those captives. There were voices of a sort that nei
 Smith had ever heard before despite their wide knowledge of foreign parts, and many that they did
 seem to place as belonging to this or that nationality. The nature of the conversations seemed
 always a kind of catechism, as if Curwen were extorting some sort of information from terrified or
-rebellious prisoners. 
+rebellious prisoners.
 
- Weeden had many verbatim reports of overheard scraps in his notebook, for English,
+Weeden had many verbatim reports of overheard scraps in his notebook, for English,
 French, and Spanish, which he knew, were frequently used; but of these nothing has survived. He
 did, however, say that besides a few ghoulish dialogues in which the past affairs of Providence
 families were concerned, most of the questions and answers he could understand were historical or
@@ -703,22 +692,22 @@ asked the prisoner--if prisoner it were--whether the order to slay was given bec
 the Sign of the Goat found on the altar in the ancient Roman crypt beneath the Cathedral, or
 whether the Dark Man of the Haute Vienne Coven had spoken the Three Words. Failing to obtain
 replies, the inquisitor had seemingly resorted to extreme means; for there was a terrific shriek
-followed by silence and muttering and a bumping sound. 
+followed by silence and muttering and a bumping sound.
 
- None of these colloquies were ever ocularly witnessed, since the windows were
+None of these colloquies were ever ocularly witnessed, since the windows were
 always heavily draped. Once, though, during a discourse in an unknown tongue, a shadow was seen on
 the curtain which startled Weeden exceedingly; reminding him of one of the puppets in a show he had
 seen in the autumn of 1764 in Hacker's Hall, when a man from Germantown, Pennsylvania, had
-given a clever mechanical spectacle advertised as a "View of the Famous City of Jerusalem, in
+given a clever mechanical spectacle advertised as a _"View of the Famous City of Jerusalem, in
 which are represented Jerusalem, the Temple of Solomon, his Royal Throne, the noted Towers, and
 Hills, likewise the Sufferings of Our Saviour from the Garden of Gethsemane to the Cross on the
-Hill of Golgotha; an artful piece of Statuary, Worthy to be seen by the Curious. " It was on
+Hill of Golgotha; an artful piece of Statuary, Worthy to be seen by the Curious."_ It was on
 this occasion that the listener, who had crept close to the window of the front room whence the
 speaking proceeded, gave a start which roused the old Indian pair and caused them to loose the dogs
 on him. After that no more conversations were ever heard in the house, and Weeden and Smith
-concluded that Curwen had transferred his field of action to regions below. 
+concluded that Curwen had transferred his field of action to regions below.
 
- That such regions in truth existed, seemed amply clear from many things. Faint
+That such regions in truth existed, seemed amply clear from many things. Faint
 cries and groans unmistakably came up now and then from what appeared to be the solid earth in
 places far from any structure; whilst hidden in the bushes along the river-bank in the rear, where
 the high ground sloped steeply down to the valley of the Pawtuxet, there was found an arched oaken
@@ -730,28 +719,28 @@ the two watchers kept a sharp eye on the steep river-bank to see if any subterre
 washed to light, and were rewarded by the sight of a profusion of both human and animal bones in
 places where deep gullies had been worn in the banks. Naturally there might be many explanations of
 such things in the rear of a stock farm, and in a locality where old Indian burying-grounds were
-common, but Weeden and Smith drew their own inferences. 
+common, but Weeden and Smith drew their own inferences.
 
- It was in January 1770, whilst Weeden and Smith were still debating vainly on
+It was in January 1770, whilst Weeden and Smith were still debating vainly on
 what, if anything, to think or do about the whole bewildering business, that the incident of the
- Fortaleza  occurred. Exasperated by the burning of the revenue sloop  Liberty  at
+Fortaleza occurred. Exasperated by the burning of the revenue sloop Liberty at
 Newport during the previous summer, the customs fleet under Admiral Wallace had adopted an
 increased vigilance concerning strange vessels; and on this occasion His
-Majesty's armed schooner  Cygnet,  under Capt. Charles Leslie, captured
-after a short pursuit one early morning the snow  Fortaleza  of Barcelona,
+Majesty's armed schooner Cygnet, under Capt. Charles Leslie, captured
+after a short pursuit one early morning the snow Fortaleza of Barcelona,
 Spain, under Capt. Manuel Arruda, bound according to its log from Grand Cairo,
 Egypt, to Providence. When searched for contraband material, this ship revealed
 the astonishing fact that its cargo consisted exclusively of Egyptian mummies,
-consigned to "Sailor A. B. C.", who would come to remove his goods in a lighter
+consigned to _"Sailor A. B. C."_, who would come to remove his goods in a lighter
 just off Namquit Point and whose identity Capt. Arruda felt himself in honour
 bound not to reveal. The Vice-Admiralty Court at Newport, at a loss what to do
 in view of the non-contraband nature of the cargo on the one hand and of the
 unlawful secrecy of the entry on the other hand, compromised on Collector
 Robinson's recommendation by freeing the ship but forbidding it a port in Rhode Island
 waters. There were later rumours of its having been seen in Boston Harbour, though it never openly
-entered the Port of Boston. 
+entered the Port of Boston.
 
- This extraordinary incident did not fail of wide remark in Providence, and there
+This extraordinary incident did not fail of wide remark in Providence, and there
 were not many who doubted the existence of some connexion between the cargo of mummies and the
 sinister Joseph Curwen. His exotic studies and his curious chemical importations being common
 knowledge, and his fondness for graveyards being common suspicion; it did not take much imagination
@@ -760,9 +749,9 @@ else in the town. As if conscious of this natural belief, Curwen took care to sp
 several occasions of the chemical value of the balsams found in mummies; thinking perhaps that he
 might make the affair seem less unnatural, yet stopping just short of admitting his participation.
 Weeden and Smith, of course, felt no doubt whatsoever of the significance of the thing; and
-indulged in the wildest theories concerning Curwen and his monstrous labours. 
+indulged in the wildest theories concerning Curwen and his monstrous labours.
 
- The following spring, like that of the year before, had heavy rains; and the
+The following spring, like that of the year before, had heavy rains; and the
 watchers kept careful track of the river-bank behind the Curwen farm. Large sections were washed
 away, and a certain number of bones discovered; but no glimpse was afforded of any actual
 subterranean chambers or burrows. Something was rumoured, however, at the village of Pawtuxet about
@@ -780,14 +769,12 @@ was, however, no trace of a passage into the steep bank; for the miniature avala
 behind a solid wall of mixed earth and shrubbery from aloft. Smith went to the extent of some
 experimental digging, but was deterred by lack of success--or perhaps by fear of possible
 success. It is interesting to speculate on what the persistent and revengeful Weeden would have
-done had he been ashore at the time. 
-
-  4.  
+done had he been ashore at the time.
 
 By the autumn of 1770 Weeden decided that the time was ripe to tell others of his
 discoveries; for he had a large number of facts to link together, and a second eye-witness to
 refute the possible charge that jealousy and vindictiveness had spurred his fancy. As his first
-confidant he selected Capt. James Mathewson of the  Enterprise,  who on the one hand knew him
+confidant he selected Capt. James Mathewson of the Enterprise, who on the one hand knew him
 well enough not to doubt his veracity, and on the other hand was sufficiently influential in the
 town to be heard in turn with respect. The colloquy took place in an upper room of Sabin's
 Tavern near the docks, with Smith present to corroborate virtually every statement; and it could be
@@ -800,23 +787,23 @@ their views and following whatever advice they might have to offer. Secrecy woul
 essential in any case, for this was no matter that the town constables or militia could cope with;
 and above all else the excitable crowd must be kept in ignorance, lest there be enacted in these
 already troublous times a repetition of that frightful Salem panic of less than a century before
-which had first brought Curwen hither. 
+which had first brought Curwen hither.
 
- The right persons to tell, he believed, would be Dr. Benjamin West, whose pamphlet
+The right persons to tell, he believed, would be Dr. Benjamin West, whose pamphlet
 on the late transit of Venus proved him a scholar and keen thinker; Rev. James Manning, President
 of the College which had just moved up from Warren and was temporarily housed in the new King
 Street schoolhouse awaiting the completion of its building on the hill above Presbyterian-Lane;
 ex-Governor Stephen Hopkins, who had been a member of the Philosophical Society at Newport, and was
-a man of very broad perceptions; John Carter, publisher of the  Gazette;  all four of the
+a man of very broad perceptions; John Carter, publisher of the Gazette; all four of the
 Brown brothers, John, Joseph, Nicholas, and Moses, who formed the recognised local magnates, and of
 whom Joseph was an amateur scientist of parts; old Dr. Jabez Bowen, whose erudition was
 considerable, and who had much first-hand knowledge of Curwen's odd purchases; and Capt.
 Abraham Whipple, a privateersman of phenomenal boldness and energy who could be counted on to lead
 in any active measures needed. These men, if favourable, might eventually be brought together for
 collective deliberation; and with them would rest the responsibility of deciding whether or not to
-inform the Governor of the Colony, Joseph Wanton of Newport, before taking action. 
+inform the Governor of the Colony, Joseph Wanton of Newport, before taking action.
 
- The mission of Capt. Mathewson prospered beyond his highest expectations; for
+The mission of Capt. Mathewson prospered beyond his highest expectations; for
 whilst he found one or two of the chosen confidants somewhat sceptical of the possible ghastly side
 of Weeden's tale, there was not one who did not think it necessary to take some sort of
 secret and coördinated action. Curwen, it was clear, formed a vague potential menace to the
@@ -836,9 +823,9 @@ privateersmen and given one decisive chance to explain himself. If he proved a m
 himself with shrieks and imaginary conversations in different voices, he would be properly
 confined. If something graver appeared, and if the underground horrors indeed turned out to be
 real, he and all with him must die. It could be done quietly, and even the widow and her father
-need not be told how it came about. 
+need not be told how it came about.
 
- While these serious steps were under discussion there occurred in the town an
+While these serious steps were under discussion there occurred in the town an
 incident so terrible and inexplicable that for a time little else was mentioned for miles around.
 In the middle of a moonlight January night with heavy snow underfoot there resounded over the river
 and up the hill a shocking series of cries which brought sleepy heads to every window; and people
@@ -853,9 +840,9 @@ so much the younger as the older folk who whispered, for only in the patriarchs 
 with horror-bulging eyes strike any chord of memory. They, shaking as they did so, exchanged
 furtive murmurs of wonder and fear; for in those stiff, hideous features lay a resemblance so
 marvellous as to be almost an identity--and that identity was with a man who had died full
-fifty years before. 
+fifty years before.
 
- Ezra Weeden was present at the finding; and remembering the baying of the night
+Ezra Weeden was present at the finding; and remembering the baying of the night
 before, set out along Weybosset Street and across Muddy Dock Bridge whence the sound had come. He
 had a curious expectancy, and was not surprised when, reaching the edge of the settled district
 where the street merged into the Pawtuxet Road, he came upon some very curious tracks in the snow.
@@ -871,26 +858,27 @@ texture impossible to account for. Impressed by what the old men whispered of th
 likeness to the long-dead blacksmith Daniel Green, whose great-grandson Aaron Hoppin was a
 supercargo in Curwen's employ, Weeden asked casual questions till he found where Green was
 buried. That night a party of ten visited the old North Burying Ground opposite Herrenden's
-Lane and opened a grave. They found it vacant, precisely as they had expected. 
+Lane and opened a grave. They found it vacant, precisely as they had expected.
 
- Meanwhile arrangements had been made with the post riders to intercept Joseph
+Meanwhile arrangements had been made with the post riders to intercept Joseph
 Curwen's mail, and shortly before the incident of the naked body there was found a letter
 from one Jedediah Orne of Salem which made the coöperating citizens think deeply. Parts of it,
 copied and preserved in the private archives of the Smith family where Charles Ward found it, ran
-as follows: 
+as follows:
 
-   "I delight that you continue in y<font
-size=-2> e   Gett'g at Olde Matters in your Way, and doe not think better was
+{aside}
+"I delight that you continue in y<font
+size=-2> e Gett'g at Olde Matters in your Way, and doe not think better was
 done at Mr. Hutchinson's in Salem-Village. Certainely, there was Noth'g butt y<font
-size=-2> e   liveliest Awfulness in that which H. rais'd upp from What he
+size=-2> e liveliest Awfulness in that which H. rais'd upp from What he
 cou'd gather onlie a part of. What you sente, did not Worke, whether because of Any Thing
-miss'g, or because y  e   Wordes were not Righte from my
-Speak'g or y  r   Copy'g. I alone am at a Loss. I have not
-y  e   Chymicall art to followe Borellus, and owne my Self confounded
-by y  e   VII. Booke of y  e   Necronomicon
+miss'g, or because y e Wordes were not Righte from my
+Speak'g or y r Copy'g. I alone am at a Loss. I have not
+y e Chymicall art to followe Borellus, and owne my Self confounded
+by y e VII. Booke of y e Necronomicon
 that you recommende. But I wou'd have you Observe what was tolde to us aboute tak'g
 Care whom to calle up, for you are Sensible what Mr. Mather writ in y<font
-size=-2> e   Magnalia of ----, and can judge how truely that Horrendous
+size=-2> e Magnalia of ----, and can judge how truely that Horrendous
 thing is reported. I say to you againe, doe not call up Any that you can not put downe; by the
 Which I meane, Any that can in Turne call up somewhat against you, whereby your Powerfullest
 Devices may not be of use. Ask of the Lesser, lest the Greater shall not wish to Answer, and shall
@@ -898,16 +886,18 @@ commande more than you. I was frighted when I read of your know'g what Ben Zaria
 in his ebony Boxe, for I was conscious who must have tolde you. And againe I ask that you shalle
 write me as Jedediah and not Simon. In this Community a Man may not live too long, and you knowe my
 Plan by which I came back as my Son. I am desirous you will Acquaint me with what y<font
-size=-2> e   Blacke Man learnt from Sylvanus Cocidius in y<font
-size=-2> e   Vault, under y  e   Roman Wall, and will be
-oblig'd for y  e   Lend'g of y<font
-size=-2> e   MS. you speak of. " 
+size=-2> e Blacke Man learnt from Sylvanus Cocidius in y<font
+size=-2> e Vault, under y e Roman Wall, and will be
+oblig'd for y e Lend'g of y<font
+size=-2> e MS. you speak of. "
+{/aside}
 
- Another and unsigned letter from Philadelphia provoked equal thought, especially
-for the following passage: 
+Another and unsigned letter from Philadelphia provoked equal thought, especially
+for the following passage:
 
-   "I will observe what you say respecting the sending of Accounts
-only by y  r   Vessels, but can not always be certain when to expect
+{aside}
+"I will observe what you say respecting the sending of Accounts
+only by y r Vessels, but can not always be certain when to expect
 them. In the Matter spoke of, I require onlie one more thing; but wish to be sure I apprehend you
 exactly. You inform me, that no Part must be missing if the finest Effects are to be had, but you
 can not but know how hard it is to be sure. It seems a great Hazard and Burthen to take away the
@@ -915,10 +905,11 @@ whole Box, and in Town (i.e. St. Peter's, St. Paul's, St. Mary's, or Christ
 Church) it can scarce be done at all. But I know what Imperfections were in the one I rais'd
 up October last, and how many live Specimens you were forc'd to imploy before you hit upon
 the right Mode in the year 1766; so will be guided by you in all Matters. I am impatient for
-y  r   Brig, and inquire daily at Mr. Biddle's
-Wharf. " 
+y r Brig, and inquire daily at Mr. Biddle's
+Wharf. "
+{/aside}
 
- A third suspicious letter was in an unknown tongue and even an unknown alphabet.
+A third suspicious letter was in an unknown tongue and even an unknown alphabet.
 In the Smith diary found by Charles Ward a single oft-repeated combination of characters is
 clumsily copied; and authorities at Brown University have pronounced the alphabet Amharic or
 Abyssinian, although they do not recognise the word. None of these epistles was ever delivered to
@@ -928,9 +919,9 @@ curious letters received by Dr. Shippen regarding the presence of an unwholesome
 Philadelphia. But more decisive steps were in the air, and it is in the secret assemblages of sworn
 and tested sailors and faithful old privateersmen in the Brown warehouses by night that we must
 look for the main fruits of Weeden's disclosures. Slowly and surely a plan of campaign was
-under development which would leave no trace of Joseph Curwen's noxious mysteries. 
+under development which would leave no trace of Joseph Curwen's noxious mysteries.
 
- Curwen, despite all precautions, apparently felt that something was in the wind;
+Curwen, despite all precautions, apparently felt that something was in the wind;
 for he was now remarked to wear an unusually worried look. His coach was seen at all hours in the
 town and on the Pawtuxet Road, and he dropped little by little the air of forced geniality with
 which he had latterly sought to combat the town's prejudice. The nearest neighbours to his
@@ -945,9 +936,7 @@ merchant, and farmer was openly or clandestinely raised. Whether the ruse was wh
 neighbours who had seen so many queer things is not certain; but at any rate the Fenners were
 willing to connect any evil with a man of such queer ways. To them Mr. Brown had entrusted the duty
 of watching the Curwen farmhouse, and of regularly reporting every incident which took place
-there. 
-
-  5.  
+there.
 
 The probability that Curwen was on guard and attempting unusual things, as
 suggested by the odd shaft of light, precipitated at last the action so carefully devised by the
@@ -962,9 +951,9 @@ Capt. Whipple, who was to lead the actual raiding party. These chiefs conferred 
 chamber, after which Capt. Whipple emerged to the great room and gave the gathered seamen their
 last oaths and instructions. Eleazar Smith was with the leaders as they sat in the rear apartment
 awaiting the arrival of Ezra Weeden, whose duty was to keep track of Curwen and report the
-departure of his coach for the farm. 
+departure of his coach for the farm.
 
- About 10:30 a heavy rumble was heard on the Great Bridge, followed by the sound of
+About 10:30 a heavy rumble was heard on the Great Bridge, followed by the sound of
 a coach in the street outside; and at that hour there was no need of waiting for Weeden in order to
 know that the doomed man had set out for his last night of unhallowed wizardry. A moment later, as
 the receding coach clattered faintly over the Muddy Dock Bridge, Weeden appeared; and the raiders
@@ -981,9 +970,9 @@ dark and shapely, and salt breezes swept up gently from the cove north of the Br
 climbing above the great hill across the water, whose crest of trees was broken by the roof-line of
 the unfinished College edifice. At the foot of that hill, and along the narrow mounting lanes of
 its side, the old town dreamed; Old Providence, for whose safety and sanity so monstrous and
-colossal a blasphemy was about to be wiped out. 
+colossal a blasphemy was about to be wiped out.
 
- An hour and a quarter later the raiders arrived, as previously agreed, at the
+An hour and a quarter later the raiders arrived, as previously agreed, at the
 Fenner farmhouse; where they heard a final report on their intended victim. He had reached his farm
 over half an hour before, and the strange light had soon afterward shot once into the sky, but
 there were no lights in any visible windows. This was always the case of late. Even as this news
@@ -997,9 +986,9 @@ high, steep bank, and the third to close in on the house and adjacent buildings 
 division one third was to be led by Capt. Mathewson to the cryptical stone edifice with high narrow
 windows, another third to follow Capt. Whipple himself to the main farmhouse, and the remaining
 third to preserve a circle around the whole group of buildings until summoned by a final emergency
-signal. 
+signal.
 
- The river party would break down the hillside door at the sound of a single
+The river party would break down the hillside door at the sound of a single
 whistle-blast, then waiting and capturing anything which might issue from the regions within. At
 the sound of two whistle-blasts it would advance through the aperture to oppose the enemy or join
 the rest of the raiding contingent. The party at the stone building would accept these respective
@@ -1020,9 +1009,9 @@ readiness. The leader would then deliver the loud single blast, and the various 
 would commence their simultaneous attack on three points. Shortly before 1 a.m. the three divisions
 left the Fenner farmhouse; one to guard the landing, another to seek the river valley and the
 hillside door, and the third to subdivide and attend to the actual buildings of the Curwen
-farm. 
+farm.
 
- Eleazar Smith, who accompanied the shore-guarding party, records in his diary an
+Eleazar Smith, who accompanied the shore-guarding party, records in his diary an
 uneventful march and a long wait on the bluff by the bay; broken once by what seemed to be the
 distant sound of the signal whistle and again by a peculiar muffled blend of roaring and crying and
 a powder blast which seemed to come from the same direction. Later on one man thought he caught
@@ -1040,9 +1029,9 @@ for to even the commonest of mortal instincts there are terrible boundaries. And
 messenger the party at the shore caught a nameless awe which almost sealed their own lips. Very few
 are the rumours which ever came from any of them, and Eleazar Smith's diary is the only
 written record which has survived from that whole expedition which set forth from the Sign of the
-Golden Lion under the stars. 
+Golden Lion under the stars.
 
- Charles Ward, however, discovered another vague sidelight in some Fenner
+Charles Ward, however, discovered another vague sidelight in some Fenner
 correspondence which he found in New London, where he knew another branch of the family had lived.
 It seems that the Fenners, from whose house the doomed farm was distantly visible, had watched the
 departing columns of raiders; and had heard very clearly the angry barking of the Curwen dogs,
@@ -1050,7 +1039,7 @@ followed by the first shrill blast which precipitated the attack. This blast had
 repetition of the great shaft of light from the stone building, and in another moment, after a
 quick sounding of the second signal ordering a general invasion, there had come a subdued prattle
 of musketry followed by a horrible roaring cry which the correspondent Luke Fenner had represented
-in his epistle by the characters  "Waaaahrrrrr--R'waaahrrr ".  This cry,
+in his epistle by the characters _"Waaaahrrrrr--R'waaahrrr"_. This cry,
 however, had possessed a quality which no mere writing could convey, and the correspondent mentions
 that his mother fainted completely at the sound. It was later repeated less loudly, and further but
 more muffled evidences of gunfire ensued; together with a loud explosion of powder from the
@@ -1060,21 +1049,21 @@ smell of sulphur was noted; and Luke Fenner's father declared that he heard the 
 emergency whistle signal, though the others failed to detect it. Muffled musketry sounded again,
 followed by a deep scream less piercing but even more horrible than those which had preceded it; a
 kind of throaty, nastily plastic cough or gurgle whose quality as a scream must have come more from
-its continuity and psychological import than from its actual acoustic value. 
+its continuity and psychological import than from its actual acoustic value.
 
- Then the flaming thing burst into sight at a point where the Curwen farm ought to
+Then the flaming thing burst into sight at a point where the Curwen farm ought to
 lie, and the human cries of desperate and frightened men were heard. Muskets flashed and cracked,
 and the flaming thing fell to the ground. A second flaming thing appeared, and a shriek of human
 origin was plainly distinguished. Fenner wrote that he could even gather a few words belched in
-frenzy: "Almighty, protect thy lamb! " Then there were more shots, and the second
+frenzy: _"Almighty, protect thy lamb!"_ Then there were more shots, and the second
 flaming thing fell. After that came silence for about three-quarters of an hour; at the end of
-which time little Arthur Fenner, Luke's brother, exclaimed that he saw "a red
+which time little Arthur Fenner, Luke's brother, exclaimed that he saw 'a red
 fog' going up to the stars from the accursed farm in the distance. No one but the child can
 testify to this, but Luke admits the significant coincidence implied by the panic of almost
 convulsive fright which at the same moment arched the backs and stiffened the fur of the three cats
-then within the room. 
+then within the room.
 
- Five minutes later a chill wind blew up, and the air became suffused with such an
+Five minutes later a chill wind blew up, and the air became suffused with such an
 intolerable stench that only the strong freshness of the sea could have prevented its being noticed
 by the shore party or by any wakeful souls in Pawtuxet village. This stench was nothing which any
 of the Fenners had ever encountered before, and produced a kind of clutching, amorphous fear beyond
@@ -1083,12 +1072,12 @@ will ever be able to forget. It thundered out of the sky like a doom, and window
 echoes died away. It was deep and musical; powerful as a bass organ, but evil as the forbidden
 books of the Arabs. What it said no man can tell, for it spoke in an unknown tongue, but this is
 the writing Luke Fenner set down to portray the daemoniac intonations:
- "DEESMEES-JESHET-BONE DOSEFE DUVEMA-ENITEMOSS ". Not till the year
+_"DEESMEES-JESHET-BONE DOSEFE DUVEMA-ENITEMOSS"_. Not till the year
 1919 did any soul link this crude transcript with anything else in mortal knowledge, but Charles
 Ward paled as he recognised what Mirandola had denounced in shudders as the ultimate horror among
-black magic's incantations. 
+black magic's incantations.
 
- An unmistakably human shout or deep chorused scream seemed to answer this malign
+An unmistakably human shout or deep chorused scream seemed to answer this malign
 wonder from the Curwen farm, after which the unknown stench grew complex with an added odour
 equally intolerable. A wailing distinctly different from the scream now burst out, and was
 protracted ululantly in rising and falling paroxysms. At times it became almost articulate, though
@@ -1097,9 +1086,9 @@ of diabolic and hysterical laughter. Then a yell of utter, ultimate fright and s
 wrenched from scores of human throats--a yell which came strong and clear despite the depth
 from which it must have burst; after which darkness and silence ruled all things. Spirals of acrid
 smoke ascended to blot out the stars, though no flames appeared and no buildings were observed to
-be gone or injured on the following day. 
+be gone or injured on the following day.
 
- Toward dawn two frightened messengers with monstrous and unplaceable odours
+Toward dawn two frightened messengers with monstrous and unplaceable odours
 saturating their clothing knocked at the Fenner door and requested a keg of rum, for which they
 paid very well indeed. One of them told the family that the affair of Joseph Curwen was over, and
 that the events of the night were not to be mentioned again. Arrogant as the order seemed, the
@@ -1112,9 +1101,7 @@ that village said that there was known to his grandfather a queer rumour concern
 distorted body found in the fields a week after the death of Joseph Curwen was announced. What kept
 the talk alive was the notion that this body, so far as could be seen in its burnt and twisted
 condition, was neither thoroughly human nor wholly allied to any animal which Pawtuxet folk had
-ever seen or read about. 
-
-  6.  
+ever seen or read about.
 
 Not one man who participated in that terrible raid could ever be induced to say a
 word concerning it, and every fragment of the vague data which survives comes from those outside
@@ -1132,10 +1119,10 @@ for with more subtle introspectiveness and mental complexity they would have far
 President Manning was the most disturbed; but even he outgrew the darkest shadow, and smothered
 memories in prayers. Every man of those leaders had a stirring part to play in later years, and it
 is perhaps fortunate that this is so. Little more than a twelvemonth afterward Capt. Whipple led
-the mob who burnt the revenue ship  Gaspee,  and in this bold act we may trace one step in the
-blotting out of unwholesome images. 
+the mob who burnt the revenue ship Gaspee, and in this bold act we may trace one step in the
+blotting out of unwholesome images.
 
- There was delivered to the widow of Joseph Curwen a sealed leaden coffin of
+There was delivered to the widow of Joseph Curwen a sealed leaden coffin of
 curious design, obviously found ready on the spot when needed, in which she was told her
 husband's body lay. He had, it was explained, been killed in a customs battle about which it
 was not politic to give details. More than this no tongue ever uttered of Joseph Curwen's
@@ -1146,55 +1133,55 @@ possession of Smith's descendants; and we are left to decide whether Weeden gave
 companion after the end, as a mute clue to the abnormality which had occurred, or whether, as is
 more probable, Smith had it before, and added the underscoring himself from what he had managed to
 extract from his friend by shrewd guessing and adroit cross-questioning. The underlined passage is
-merely this: 
+merely this:
 
-    "I say to you againe, doe not call up Any that you can not
-put downe; by the Which I meane, Any that can in Turne call up somewhat against you, whereby your
-Powerfullest Devices may not be of use. Ask of the Lesser, lest the Greater shall not wish to
-Answer, and shall commande more than you. "  
+> "I say to you againe, doe not call up Any that you can not
+> put downe; by the Which I meane, Any that can in Turne call up somewhat against you, whereby your
+> Powerfullest Devices may not be of use. Ask of the Lesser, lest the Greater shall not wish to
+> Answer, and shall commande more than you."
 
 In the light of this passage, and reflecting on what last unmentionable allies a beaten man might
 try to summon in his direst extremity, Charles Ward may well have wondered whether any citizen of
-Providence killed Joseph Curwen. 
+Providence killed Joseph Curwen.
 
- The deliberate effacement of every memory of the dead man from Providence life and
+The deliberate effacement of every memory of the dead man from Providence life and
 annals was vastly aided by the influence of the raiding leaders. They had not at first meant to be
 so thorough, and had allowed the widow and her father and child to remain in ignorance of the true
 conditions; but Capt. Tillinghast was an astute man, and soon uncovered enough rumours to whet his
 horror and cause him to demand that his daughter and granddaughter change their name, burn the
 library and all remaining papers, and chisel the inscription from the slate slab above Joseph
 Curwen's grave. He knew Capt. Whipple well, and probably extracted more hints from that bluff
-mariner than anyone else ever gained respecting the end of the accused sorcerer. 
+mariner than anyone else ever gained respecting the end of the accused sorcerer.
 
- From that time on the obliteration of Curwen's memory became increasingly
+From that time on the obliteration of Curwen's memory became increasingly
 rigid, extending at last by common consent even to the town records and files of the
- Gazette.  It can be compared in spirit only to the hush that lay on Oscar Wilde's name
+Gazette. It can be compared in spirit only to the hush that lay on Oscar Wilde's name
 for a decade after his disgrace, and in extent only to the fate of that sinful King of Runazar in
 Lord Dunsany's tale, whom the Gods decided must not only cease to be, but must cease ever to
-have been. 
+have been.
 
- Mrs. Tillinghast, as the widow became known after 1772, sold the house in Olney
+Mrs. Tillinghast, as the widow became known after 1772, sold the house in Olney
 Court and resided with her father in Power's Lane till her death in 1817. The farm at
 Pawtuxet, shunned by every living soul, remained to moulder through the years; and seemed to decay
 with unaccountable rapidity. By 1780 only the stone and brickwork were standing, and by 1800 even
 these had fallen to shapeless heaps. None ventured to pierce the tangled shrubbery on the
 river-bank behind which the hillside door may have lain, nor did any try to frame a definite image
-of the scenes amidst which Joseph Curwen departed from the horrors he had wrought. 
+of the scenes amidst which Joseph Curwen departed from the horrors he had wrought.
 
- Only robust old Capt. Whipple was heard by alert listeners to mutter once in a
-while to himself, "Pox on that ------, but he had no business to laugh while
+Only robust old Capt. Whipple was heard by alert listeners to mutter once in a
+while to himself, _"Pox on that ------, but he had no business to laugh while
 he screamed. 'Twas as though the damn'd ------ had some'at up his
-sleeve. For half a crown I'd burn his ------ house. " 
+sleeve. For half a crown I'd burn his ------ house."_
 
-  III. A Search and an Evocation  1.  
+## III. A Search and an Evocation
 
 Charles Ward, as we have seen, first learned in 1918 of his descent from Joseph Curwen. That he at
 once took an intense interest in everything pertaining to the bygone mystery is not to be wondered
 at; for every vague rumour that he had heard of Curwen now became something vital to himself, in
 whom flowed Curwen's blood. No spirited and imaginative genealogist could have done otherwise
-than begin forthwith an avid and systematic collection of Curwen data. 
+than begin forthwith an avid and systematic collection of Curwen data.
 
- In his first delvings there was not the slightest attempt at secrecy; so that even
+In his first delvings there was not the slightest attempt at secrecy; so that even
 Dr. Lyman hesitates to date the youth's madness from any period before the close of 1919. He
 talked freely with his family--though his mother was not particularly pleased to own an
 ancestor like Curwen--and with the officials of the various museums and libraries he visited.
@@ -1202,9 +1189,9 @@ In applying to private families for records thought to be in their possession he
 concealment of his object, and shared the somewhat amused scepticism with which the accounts of the
 old diarists and letter-writers were regarded. He often expressed a keen wonder as to what really
 had taken place a century and a half before at that Pawtuxet farmhouse whose site he vainly tried
-to find, and what Joseph Curwen really had been. 
+to find, and what Joseph Curwen really had been.
 
- When he came across the Smith diary and archives and encountered the letter from
+When he came across the Smith diary and archives and encountered the letter from
 Jedediah Orne he decided to visit Salem and look up Curwen's early activities and connexions
 there, which he did during the Easter vacation of 1919. At the Essex Institute, which was well
 known to him from former sojourns in the glamorous old town of crumbling Puritan gables and
@@ -1216,9 +1203,9 @@ manners of a native Englishman and settled in Salem proper. At that time he had 
 his family, but spent most of his hours with the curious books he had brought from Europe, and the
 strange chemicals which came for him on ships from England, France, and Holland. Certain trips of
 his into the country were the objects of much local inquisitiveness, and were whisperingly
-associated with vague rumours of fires on the hills at night. 
+associated with vague rumours of fires on the hills at night.
 
- Curwen's only close friends had been one Edward Hutchinson of Salem-Village
+Curwen's only close friends had been one Edward Hutchinson of Salem-Village
 and one Simon Orne of Salem. With these men he was often seen in conference about the Common, and
 visits among them were by no means infrequent. Hutchinson had a house well out toward the woods,
 and it was not altogether liked by sensitive people because of the sounds heard there at night. He
@@ -1231,26 +1218,26 @@ visibly old began to excite attention. He thereafter disappeared, though thirty 
 precise counterpart and self-styled son turned up to claim his property. The claim was allowed on
 the strength of documents in Simon Orne's known hand, and Jedediah Orne continued to dwell in
 Salem till 1771, when certain letters from Providence citizens to the Rev. Thomas Barnard and
-others brought about his quiet removal to parts unknown. 
+others brought about his quiet removal to parts unknown.
 
- Certain documents by and about all of these strange characters were available at
+Certain documents by and about all of these strange characters were available at
 the Essex Institute, the Court House, and the Registry of Deeds, and included both harmless
 commonplaces such as land titles and bills of sale, and furtive fragments of a more provocative
 nature. There were four or five unmistakable allusions to them on the witchcraft trial records; as
 when one Hepzibah Lawson swore on July 10, 1692, at the Court of Oyer and Terminer under Judge
-Hathorne, that "fortie Witches and the Blacke Man were wont to meete in the Woodes behind Mr.
-Hutchinson's house', and one Amity How declared at a session of August 8th before Judge
-Gedney that "Mr. G. B. (Rev. George Burroughs) on that Nighte putt y<font
-size=-2> e   Divell his Marke upon Bridget S., Jonathan A.,  Simon O., 
-Deliverance W.,  Joseph C.,  Susan P., Mehitable C., and Deborah B.' Then there was a
+Hathorne, that _"fortie Witches and the Blacke Man were wont to meete in the Woodes behind Mr.
+Hutchinson's house"_, and one Amity How declared at a session of August 8th before Judge
+Gedney that _"Mr. G. B. (Rev. George Burroughs) on that Nighte putt y<font
+size=-2> e Divell his Marke upon Bridget S., Jonathan A., Simon O.,
+Deliverance W., Joseph C., Susan P., Mehitable C., and Deborah B."_ Then there was a
 catalogue of Hutchinson's uncanny library as found after his disappearance, and an unfinished
 manuscript in his handwriting, couched in a cipher none could read. Ward had a photostatic copy of
 this manuscript made, and began to work casually on the cipher as soon as it was delivered to him.
 After the following August his labours on the cipher became intense and feverish, and there is
 reason to believe from his speech and conduct that he hit upon the key before October or November.
-He never stated, though, whether or not he had succeeded. 
+He never stated, though, whether or not he had succeeded.
 
- But of the greatest immediate interest was the Orne material. It took Ward only a
+But of the greatest immediate interest was the Orne material. It took Ward only a
 short time to prove from identity of penmanship a thing he had already considered established from
 the text of the letter to Curwen; namely, that Simon Orne and his supposed son were one and the
 same person. As Orne had said to his correspondent, it was hardly safe to live too long in Salem,
@@ -1260,81 +1247,83 @@ correspondence, but the citizens who took action in 1771 found and preserved a f
 papers which excited their wonder. There were cryptic formulae and diagrams in his and other hands
 which Ward now either copied with care or had photographed, and one extremely mysterious letter in
 a chirography that the searcher recognised from items in the Registry of Deeds as positively Joseph
-Curwen's. 
+Curwen's.
 
- This Curwen letter, though undated as to the year, was evidently not the one in
+This Curwen letter, though undated as to the year, was evidently not the one in
 answer to which Orne had written the confiscated missive; and from internal evidence Ward placed it
 not much later than 1750. It may not be amiss to give the text in full, as a sample of the style of
-one whose history was so dark and terrible. The recipient is addressed as "Simon", but
-a line (whether drawn by Curwen or Orne Ward could not tell) is run through the word. 
+one whose history was so dark and terrible. The recipient is addressed as _"Simon"_, but
+a line (whether drawn by Curwen or Orne Ward could not tell) is run through the word.
 
-  Prouidence, I. May (Ut. vulgo) 
-Brother:-- 
+{aside}
+Prouidence, I. May (Ut. vulgo)
+Brother:--
 My honour'd Antient ffriende, due Respects and earnest Wishes to Him whom we serve for y<font
-size=-2> r   eternall Power. I am just come upon That which you ought to knowe,
+size=-2> r eternall Power. I am just come upon That which you ought to knowe,
 concern'g the Matter of the Laste Extremitie and what to doe regard'g yt. I am not
 dispos'd to followe you in go'g Away on acct. of my Yeares, for Prouidence hath not
-y  e   Sharpeness of y  e   Bay in
+y e Sharpeness of y e Bay in
 hunt'g oute uncommon Things and bringinge to Tryall. I am ty'd up in Shippes and
 Goodes, and cou'd not doe as you did, besides the Whiche my ffarme at Patuxet hath under it
-What you Knowe, that wou'd not waite for my com'g Backe as an Other. 
+What you Knowe, that wou'd not waite for my com'g Backe as an Other.
 
- But I am not unreadie for harde ffortunes, as I haue tolde you, and haue longe
-work'd upon y  e   Way of get'g Backe after y<font
-size=-2> e   Laste. I laste Night strucke on y  e  
-Wordes that bringe up YOGGE-SOTHOTHE, and sawe for y  e   firste Time
+But I am not unreadie for harde ffortunes, as I haue tolde you, and haue longe
+work'd upon y e Way of get'g Backe after y<font
+size=-2> e Laste. I laste Night strucke on y e
+Wordes that bringe up YOGGE-SOTHOTHE, and sawe for y e firste Time
 that fface spoke of by Ibn Schacabao in ye ----. And IT said, that y<font
-size=-2> e   III Psalme in y  e   Liber-Damnatus holdes
-y  e   Clauicle. With Sunne in V House, Saturne in Trine, drawe y<font
-size=-2> e   Pentagram of Fire, and saye y  e   ninth
+size=-2> e III Psalme in y e Liber-Damnatus holdes
+y e Clauicle. With Sunne in V House, Saturne in Trine, drawe y<font
+size=-2> e Pentagram of Fire, and saye y e ninth
 Uerse thrice. This Uerse repeate eache Roodemas and Hallow's Eue; and y<font
-size=-2> e   Thing will breede in y  e   Outside
-Spheres. 
+size=-2> e Thing will breede in y e Outside
+Spheres.
 
-  And of y  e   Seede of Olde shal One be borne who
-shal looke Backe, tho' know'g not what he seekes.  
+And of y e Seede of Olde shal One be borne who
+shal looke Backe, tho' know'g not what he seekes.
 
- Yett will this availe Nothing if there be no Heir, and if the Saltes, or the Way
+Yett will this availe Nothing if there be no Heir, and if the Saltes, or the Way
 to make the Saltes, bee not Readie for his Hande; and here I will owne, I have not taken needed
 Stepps nor founde Much. Ye Process is plaguy harde to come neare; and it uses up such a Store of
 Specimens, I am harde putte to it to get Enough, notwithstand'g the Sailors I have from
-y  e   Indies. Ye People aboute are become curious, but I can stande
+y e Indies. Ye People aboute are become curious, but I can stande
 them off. Ye Gentry are worse than the Populace, be'g more Circumstantiall in their Accts.
 and more believ'd in what they tell. That Parson and Mr. Merritt have talk'd some, I am
 fearfull, but no Thing soe far is Dangerous. Ye Chymical substances are easie of get'g, there
 be'g II. goode Chymists in Towne, Dr. Bowen and Sam: Carew. I am foll'g oute what
 Borellus saith, and haue Helpe in Abdool Al-Hazred his VII. Booke. Whatever I gette, you shal haue.
-And in y  e   meane while, do not neglect to make use of y<font
-size=-2> e   Wordes I haue here giuen. I haue them Righte, but if you Desire to see
-HIM, imploy the Writings on y  e   Piece of ---- that I am
-putt'g in this Packet. Saye y  e   Uerses every Roodmas and
-Hallow's Eue; and if y  r   Line runn out not,  one shall bee
+And in y e meane while, do not neglect to make use of y<font
+size=-2> e Wordes I haue here giuen. I haue them Righte, but if you Desire to see
+HIM, imploy the Writings on y e Piece of ---- that I am
+putt'g in this Packet. Saye y e Uerses every Roodmas and
+Hallow's Eue; and if y r Line runn out not, one shall bee
 in yeares to come that shal looke backe and use what Saltes or Stuff for Saltes you shal leaue
-him.  Job XIV. XIV. 
+him. Job XIV. XIV.
 
- I rejoice you are again at Salem, and hope I may see you not longe hence. I have a
+I rejoice you are again at Salem, and hope I may see you not longe hence. I have a
 goode Stallion, and am think'g of get'g a Coach, there be'g one (Mr.
-Merritt's) in Prouidence already, tho' y  e   Roades are
+Merritt's) in Prouidence already, tho' y e Roades are
 bad. If you are dispos'd to Travel, doe not pass me bye. From Boston take y<font
-size=-2> e   Post Rd. thro' Dedham, Wrentham, and Attleborough, goode Taverns
+size=-2> e Post Rd. thro' Dedham, Wrentham, and Attleborough, goode Taverns
 be'g at all these Townes. Stop at Mr. Bolcom's in Wrentham, where y<font
-size=-2> e   Beddes are finer than Mr. Hatch's, but eate at y<font
-size=-2> e   other House for their Cooke is better. Turne into Prou. by Patucket
-ffalls, and y  e   Rd. past Mr. Sayles's Tavern. My House opp.
-Mr. Epenetus Olney's Tavern off y  e   Towne Street, Ist on
-y  e   N. side of Olney's Court. Distance from Boston Stone abt.
-XLIV Miles. 
+size=-2> e Beddes are finer than Mr. Hatch's, but eate at y<font
+size=-2> e other House for their Cooke is better. Turne into Prou. by Patucket
+ffalls, and y e Rd. past Mr. Sayles's Tavern. My House opp.
+Mr. Epenetus Olney's Tavern off y e Towne Street, Ist on
+y e N. side of Olney's Court. Distance from Boston Stone abt.
+XLIV Miles.
 
- Sir, I am y  r   olde and true ffriend and Servt. in
- Almousin-Metraton.  
+Sir, I am y r olde and true ffriend and Servt. in
+Almousin-Metraton.
 
- Josephus C. 
+Josephus C.
 
-To Mr. Simon Orne, 
+To Mr. Simon Orne,
 
-William's-Lane, in Salem. 
+William's-Lane, in Salem.
+{/aside}
 
- This letter, oddly enough, was what first gave Ward the exact location of
+This letter, oddly enough, was what first gave Ward the exact location of
 Curwen's Providence home; for none of the records encountered up to that time had been at all
 specific. The discovery was doubly striking because it indicated as the newer Curwen house built in
 1761 on the site of the old, a dilapidated building still standing in Olney Court and well known to
@@ -1345,10 +1334,8 @@ distant Salem, such sudden proof of the significance of this familiar rookery in
 history, was a highly impressive thing to Ward; and he resolved to explore the place immediately
 upon his return. The more mystical phases of the letter, which he took to be some extravagant kind
 of symbolism, frankly baffled him; though he noted with a thrill of curiosity that the Biblical
-passage referred to--Job 14, 14--was the familiar verse, "If a man die, shall he
-live again? All the days of my appointed time will I wait, till my change come. " 
-
-  2.  
+passage referred to--Job 14, 14--was the familiar verse, _"If a man die, shall he
+live again? All the days of my appointed time will I wait, till my change come."_
 
 Young Ward came home in a state of pleasant excitement, and spent the following
 Saturday in a long and exhaustive study of the house in Olney Court. The place, now crumbling with
@@ -1356,9 +1343,9 @@ age, had never been a mansion; but was a modest two-and-a-half story wooden town
 familiar Providence colonial type, with plain peaked roof, large central chimney, and artistically
 carved doorway with rayed fanlight, triangular pediment, and trim Doric pilasters. It had suffered
 but little alteration externally, and Ward felt he was gazing on something very close to the
-sinister matters of his quest. 
+sinister matters of his quest.
 
- The present negro inhabitants were known to him, and he was very courteously shewn
+The present negro inhabitants were known to him, and he was very courteously shewn
 about the interior by old Asa and his stout wife Hannah. Here there was more change than the
 outside indicated, and Ward saw with regret that fully half of the fine scroll-and-urn overmantels
 and shell-carved cupboard linings were gone, whilst much of the fine wainscotting and bolection
@@ -1366,9 +1353,9 @@ moulding was marked, hacked, and gouged, or covered up altogether with cheap wal
 general, the survey did not yield as much as Ward had somehow expected; but it was at least
 exciting to stand within the ancestral walls which had housed such a man of horror as Joseph
 Curwen. He saw with a thrill that a monogram had been very carefully effaced from the ancient brass
-knocker. 
+knocker.
 
- From then until after the close of school Ward spent his time on the photostatic
+From then until after the close of school Ward spent his time on the photostatic
 copy of the Hutchinson cipher and the accumulation of local Curwen data. The former still proved
 unyielding; but of the latter he obtained so much, and so many clues to similar data elsewhere,
 that he was ready by July to make a trip to New London and New York to consult old letters whose
@@ -1378,9 +1365,9 @@ letters in which he learned of the portrait painted on a panel of the Curwen lib
 of the portrait interested him particularly, since he would have given much to know just what
 Joseph Curwen looked like; and he decided to make a second search of the house in Olney Court to
 see if there might not be some trace of the ancient features beneath peeling coats of later paint
-or layers of mouldy wall-paper. 
+or layers of mouldy wall-paper.
 
- Early in August that search took place, and Ward went carefully over the walls of
+Early in August that search took place, and Ward went carefully over the walls of
 every room sizeable enough to have been by any possibility the library of the evil builder. He paid
 especial attention to the large panels of such overmantels as still remained; and was keenly
 excited after about an hour, when on a broad area above the fireplace in a spacious ground-floor
@@ -1393,9 +1380,9 @@ scene of his discovery to enlist expert help. In three days he returned with an 
 experience, Mr. Walter C. Dwight, whose studio is near the foot of College Hill; and that
 accomplished restorer of paintings set to work at once with proper methods and chemical substances.
 Old Asa and his wife were duly excited over their strange visitors, and were properly reimbursed
-for this invasion of their domestic hearth. 
+for this invasion of their domestic hearth.
 
- As day by day the work of restoration progressed, Charles Ward looked on with
+As day by day the work of restoration progressed, Charles Ward looked on with
 growing interest at the lines and shades gradually unveiled after their long oblivion. Dwight had
 begun at the bottom; hence since the picture was a three-quarter-length one, the face did not come
 out for some time. It was meanwhile seen that the subject was a spare, well-shaped man with
@@ -1408,9 +1395,9 @@ visage, and to recognise with a touch of awe the dramatic trick which heredity h
 took the final bath of oil and the final stroke of the delicate scraper to bring out fully the
 expression which centuries had hidden; and to confront the bewildered Charles Dexter Ward, dweller
 in the past, with his own living features in the countenance of his horrible
-great-great-great-grandfather. 
+great-great-great-grandfather.
 
- Ward brought his parents to see the marvel he had uncovered, and his father at
+Ward brought his parents to see the marvel he had uncovered, and his father at
 once determined to purchase the picture despite its execution on stationary panelling. The
 resemblance to the boy, despite an appearance of rather greater age, was marvellous; and it could
 be seen that through some trick of atavism the physical contours of Joseph Curwen had found precise
@@ -1425,9 +1412,9 @@ impressed him mightily with its likeness to his son, and he believed the boy des
 present. In this opinion, it is needless to say, Charles most heartily concurred; and a few days
 later Mr. Ward located the owner of the house--a small rodent-featured person with a guttural
 accent--and obtained the whole mantel and overmantel bearing the picture at a curtly fixed
-priced which cut short the impending torrent of unctuous haggling. 
+priced which cut short the impending torrent of unctuous haggling.
 
- It now remained to take off the panelling and remove it to the Ward home, where
+It now remained to take off the panelling and remove it to the Ward home, where
 provisions were made for its thorough restoration and installation with an electric mock-fireplace
 in Charles's third-floor study or library. To Charles was left the task of superintending
 this removal, and on the twenty-eighth of August he accompanied two expert workmen from the Crooker
@@ -1440,24 +1427,21 @@ within; finding beneath the deep coatings of dust and soot some loose yellowed p
 thick copybook, and a few mouldering textile shreds which may have formed the ribbon binding the
 rest together. Blowing away the bulk of the dirt and cinders, he took up the book and looked at the
 bold inscription on its cover. It was in a hand which he had learned to recognise at the Essex
-Institute, and proclaimed the volume as the  "Journall and Notes of Jos: Curwen, Gent., of
-Providence-Plantations, Late of Salem. "  
+Institute, and proclaimed the volume as the _"Journall and Notes of Jos: Curwen, Gent., of
+Providence-Plantations, Late of Salem."_
 
- Excited beyond measure by his discovery, Ward shewed the book to the two curious
+Excited beyond measure by his discovery, Ward shewed the book to the two curious
 workmen beside him. Their testimony is absolute as to the nature and genuineness of the finding,
 and Dr. Willett relies on them to help establish his theory that the youth was not mad when he
 began his major eccentricities. All the other papers were likewise in Curwen's handwriting,
-and one of them seemed especially portentous because of its inscription:  "To Him Who Shal
-Come After, & How He May Gett Beyonde Time & y  e  
-Spheres. "  Another was in a cipher; the same, Ward hoped, as the Hutchinson cipher which
+and one of them seemed especially portentous because of its inscription: _"To Him Who Shal
+Come After, & How He May Gett Beyonde Time & y e Spheres."_ Another was in a cipher; the same, Ward hoped, as the Hutchinson cipher which
 had hitherto baffled him. A third, and here the searcher rejoiced, seemed to be a key to the
-cipher; whilst the fourth and fifth were addressed respectively to "Edw: Hutchinson,
-Armiger " and "Jedediah Orne, Esq.", "or Their Heir or Heirs, or Those
-Represent'g Them'. The sixth and last was inscribed:  "Joseph Curwen his Life
-and Travells Bet'n y  e   yeares 1678 and 1687: Of Whither He
-Voyag'd, Where He Stay'd, Whom He Sawe, and What He Learnt. "  
-
-  3.  
+cipher; whilst the fourth and fifth were addressed respectively to _"Edw: Hutchinson,
+Armiger"_ and _"Jedediah Orne, Esq."_, _"or Their Heir or Heirs, or Those
+Represent'g Them"_. The sixth and last was inscribed: _"Joseph Curwen his Life
+and Travells Bet'n y e yeares 1678 and 1687: Of Whither He
+Voyag'd, Where He Stay'd, Whom He Sawe, and What He Learnt."_
 
 We have now reached the point from which the more academic school of alienists
 date Charles Ward's madness. Upon his discovery the youth had looked immediately at a few of
@@ -1467,13 +1451,13 @@ with peculiar care, and to labour under a perturbation for which even the antiqu
 genealogical significance of the find could hardly account. Upon returning home he broke the news
 with an almost embarrassed air, as if he wished to convey an idea of its supreme importance without
 having to exhibit the evidence itself. He did not even shew the titles to his parents, but simply
-told them that he had found some documents in Joseph Curwen's handwriting, "mostly in
-cipher", which would have to be studied very carefully before yielding up their true meaning.
+told them that he had found some documents in Joseph Curwen's handwriting, _"mostly in
+cipher"_, which would have to be studied very carefully before yielding up their true meaning.
 It is unlikely that he would have shewn what he did to the workmen, had it not been for their
 unconcealed curiosity. As it was he doubtless wished to avoid any display of peculiar reticence
-which would increase their discussion of the matter. 
+which would increase their discussion of the matter.
 
- That night Charles Ward sat up in his room reading the new-found book and papers,
+That night Charles Ward sat up in his room reading the new-found book and papers,
 and when day came he did not desist. His meals, on his urgent request when his mother called to see
 what was amiss, were sent up to him; and in the afternoon he appeared only briefly when the men
 came to install the Curwen picture and mantelpiece in his study. The next night he slept in
@@ -1487,14 +1471,14 @@ north wall as if a chimney existed, and boxing in the sides with panelling to ma
 room's. The front panel holding the picture was sawn and hinged to allow cupboard space
 behind it. After the workmen went he moved his work into the study and sat down before it with his
 eyes half on the cipher and half on the portrait which stared back at him like a year-adding and
-century-recalling mirror. 
+century-recalling mirror.
 
- His parents, subsequently recalling his conduct at this period, give interesting
+His parents, subsequently recalling his conduct at this period, give interesting
 details anent the policy of concealment which he practiced. Before servants he seldom hid any paper
 which he might be studying, since he rightly assumed that Curwen's intricate and archaic
 chirography would be too much for them. With his parents, however, he was more circumspect; and
 unless the manuscript in question were a cipher, or a mere mass of cryptic symbols and unknown
-ideographs (as that entitled  "To Him Who Shal Come After  etc. " seemed to be),
+ideographs (as that entitled _"To Him Who Shal Come After etc."_ seemed to be),
 he would cover it with some convenient paper until his caller had departed. At night he kept the
 papers under lock and key in an antique cabinet of his, where he also placed them whenever he left
 the room. He soon resumed fairly regular hours and habits, except that his long walks and other
@@ -1502,9 +1486,9 @@ outside interests seemed to cease. The opening of school, where he now began his
 seemed a great bore to him; and he frequently asserted his determination never to bother with
 college. He had, he said, important special investigations to make, which would provide him with
 more avenues toward knowledge and the humanities than any university which the world could
-boast. 
+boast.
 
- Naturally, only one who had always been more or less studious, eccentric, and
+Naturally, only one who had always been more or less studious, eccentric, and
 solitary could have pursued this course for many days without attracting notice. Ward, however, was
 constitutionally a scholar and a hermit; hence his parents were less surprised than regretful at
 the close confinement and secrecy he adopted. At the same time, both his father and mother thought
@@ -1512,18 +1496,18 @@ it odd that he would shew them no scrap of his treasure-trove, nor give any conn
 such data as he had deciphered. This reticence he explained away as due to a wish to wait until he
 might announce some connected revelation, but as the weeks passed without further disclosures there
 began to grow up between the youth and his family a kind of constraint; intensified in his
-mother's case by her manifest disapproval of all Curwen delvings. 
+mother's case by her manifest disapproval of all Curwen delvings.
 
- During October Ward began visiting the libraries again, but no longer for the
+During October Ward began visiting the libraries again, but no longer for the
 antiquarian matter of his former days. Witchcraft and magic, occultism and daemonology, were what
 he sought now; and when Providence sources proved unfruitful he would take the train for Boston and
 tap the wealth of the great library in Copley Square, the Widener Library at Harvard, or the Zion
 Research Library in Brookline, where certain rare works on Biblical subjects are available. He
 bought extensively, and fitted up a whole additional set of shelves in his study for newly acquired
 works on uncanny subjects; while during the Christmas holidays he made a round of out-of-town trips
-including one to Salem to consult certain records at the Essex Institute. 
+including one to Salem to consult certain records at the Essex Institute.
 
- About the middle of January, 1920, there entered Ward's bearing an element
+About the middle of January, 1920, there entered Ward's bearing an element
 of triumph which he did not explain, and he was no more found at work upon the Hutchinson cipher.
 Instead, he inaugurated a dual policy of chemical research and record-scanning; fitting up for the
 one a laboratory in the unused attic of the house, and for the latter haunting all the sources of
@@ -1531,34 +1515,32 @@ vital statistics in Providence. Local dealers in drugs and scientific supplies, 
 gave astonishingly queer and meaningless catalogues of the substances and instruments he purchased;
 but clerks at the State House, the City Hall, and the various libraries agree as to the definite
 object of his second interest. He was searching intensely and feverishly for the grave of Joseph
-Curwen, from whose slate slab an older generation had so wisely blotted the name. 
+Curwen, from whose slate slab an older generation had so wisely blotted the name.
 
- Little by little there grew upon the Ward family the conviction that something was
+Little by little there grew upon the Ward family the conviction that something was
 wrong. Charles had had freaks and changes of minor interests before, but this growing secrecy and
 absorption in strange pursuits was unlike even him. His school work was the merest pretence; and
 although he failed in no test, it could be seen that the old application had all vanished. He had
 other concernments now; and when not in his new laboratory with a score of obsolete alchemical
 books, could be found either poring over old burial records down town or glued to his volumes of
 occult lore in his study, where the startlingly--one almost fancied increasingly--similar
-features of Joseph Curwen stared blandly at him from the great overmantel on the north wall. 
+features of Joseph Curwen stared blandly at him from the great overmantel on the north wall.
 
- Late in March Ward added to his archive-searching a ghoulish series of rambles
+Late in March Ward added to his archive-searching a ghoulish series of rambles
 about the various ancient cemeteries of the city. The cause appeared later, when it was learned
 from City Hall clerks that he had probably found an important clue. His quest had suddenly shifted
 from the grave of Joseph Curwen to that of one Naphthali Field; and this shift was explained when,
 upon going over the files that he had been over, the investigators actually found a fragmentary
 record of Curwen's burial which had escaped the general obliteration, and which stated that
-the curious leaden coffin had been interred "10 ft. S. and 5 ft. W. of Naphthali
-Field's grave in y  e  -- ". The lack of a specified
+the curious leaden coffin had been interred _"10 ft. S. and 5 ft. W. of Naphthali
+Field's grave in y e --"_. The lack of a specified
 burying-ground in the surviving entry greatly complicated the search, and Naphthali Field's
 grave seemed as elusive as that of Curwen; but here no systematic effacement had existed, and one
 might reasonably be expected to stumble on the stone itself even if its record had perished. Hence
 the rambles--from which St. John's (the former King's) Churchyard and the ancient
 Congregational burying-ground in the midst of Swan Point Cemetery were excluded, since other
 statistics had shewn that the only Naphthali Field (obiit 1729) whose grave could have been meant
-had been a Baptist. 
-
-  4.  
+had been a Baptist.
 
 It was toward May when Dr. Willett, at the request of the senior Ward, and
 fortified with all the Curwen data which the family had gleaned from Charles in his non-secretive
@@ -1577,9 +1559,9 @@ background out of which they evolved, and to this task of correlation Ward was n
 himself. He was seeking to acquire as fast as possible those neglected arts of old which a true
 interpreter of the Curwen data must possess, and hoped in time to make a full announcement and
 presentation of the utmost interest to mankind and to the world of thought. Not even Einstein, he
-declared, could more profoundly revolutionise the current conception of things. 
+declared, could more profoundly revolutionise the current conception of things.
 
- As to his graveyard search, whose object he freely admitted, but the details of
+As to his graveyard search, whose object he freely admitted, but the details of
 whose progress he did not relate, he said he had reason to think that Joseph Curwen's
 mutilated headstone bore certain mystic symbols--carved from directions in his will and
 ignorantly spared by those who had effaced the name--which were absolutely essential to the
@@ -1587,45 +1569,45 @@ final solution of his cryptic system. Curwen, he believed, had wished to guard h
 care; and had consequently distributed the data in an exceedingly curious fashion. When Dr. Willett
 asked to see the mystic documents, Ward displayed much reluctance and tried to put him off with
 such things as photostatic copies of the Hutchinson cipher and Orne formulae and diagrams; but
-finally shewed him the exteriors of some of the real Curwen finds--the  "Journall and
-Notes",  the cipher (title in cipher also), and the formula-filled message  "To
-Him Who Shal Come After " --and let him glance inside such as were in obscure
-characters. 
+finally shewed him the exteriors of some of the real Curwen finds--the _"Journall and
+Notes"_, the cipher (title in cipher also), and the formula-filled message _"To
+Him Who Shal Come After"_ --and let him glance inside such as were in obscure
+characters.
 
- He also opened the diary at a page carefully selected for its innocuousness and
+He also opened the diary at a page carefully selected for its innocuousness and
 gave Willett a glimpse of Curwen's connected handwriting in English. The doctor noted very
 closely the crabbed and complicated letters, and the general aura of the seventeenth century which
 clung round both penmanship and style despite the writer's survival into the eighteenth
 century, and became quickly certain that the document was genuine. The text itself was relatively
-trivial, and Willett recalled only a fragment: 
+trivial, and Willett recalled only a fragment:
 
-  "Wedn. 16 Octr. 1754. My Sloope the  Wakeful  this Day putt in from London
-with XX newe Men pick'd up in y  e   Indies, Spaniards from
-Martineco and 2 Dutch Men from Surinam. Y  e   Dutch Men are like to
-Desert from have'g hearde Somewhat ill of these Ventures, but I will see to y<font
-size=-2> e   Inducing of them to Staye. ffor Mr. Knight Dexter of y<font
-size=-2> e   Boy and Book 120 Pieces Camblets, 100 Pieces Assrtd. Cambleteens, 20
-Pieces blue Duffles, 100 Pieces Shalloons, 50 Pieces Calamancoes, 300 Pieces each, Shendsoy and
-Humhums. ffor Mr. Green at y  e   Elephant 50 Gallon Cyttles, 20
-Warm'g Pannes, 15 Bake Cyttles, 10 pr. Smoke'g Tonges. ffor Mr. Perrigo 1 Sett of
-Awles, ffor Mr. Nightingale 50 Reames prime Foolscap. Say'd y<font
-size=-2> e   SABAOTH thrice last Nighte but None appear'd. I must heare more
-from Mr. H. in Transylvania, tho' it is Harde reach'g him and exceeding strange he can
-not give me the Use of what he hath so well us'd these hundred yeares. Simon hath not Writ
-these V. Weekes, but I expecte soon hear'g from him. " 
+> "Wedn. 16 Octr. 1754. My Sloope the Wakeful this Day putt in from London
+> with XX newe Men pick'd up in y e Indies, Spaniards from
+> Martineco and 2 Dutch Men from Surinam. Y e Dutch Men are like to
+> Desert from have'g hearde Somewhat ill of these Ventures, but I will see to y<font
+> size=-2> e Inducing of them to Staye. ffor Mr. Knight Dexter of y<font
+> size=-2> e Boy and Book 120 Pieces Camblets, 100 Pieces Assrtd. Cambleteens, 20
+> Pieces blue Duffles, 100 Pieces Shalloons, 50 Pieces Calamancoes, 300 Pieces each, Shendsoy and
+> Humhums. ffor Mr. Green at y e Elephant 50 Gallon Cyttles, 20
+> Warm'g Pannes, 15 Bake Cyttles, 10 pr. Smoke'g Tonges. ffor Mr. Perrigo 1 Sett of
+> Awles, ffor Mr. Nightingale 50 Reames prime Foolscap. Say'd y<font
+> size=-2> e SABAOTH thrice last Nighte but None appear'd. I must heare more
+> from Mr. H. in Transylvania, tho' it is Harde reach'g him and exceeding strange he can
+> not give me the Use of what he hath so well us'd these hundred yeares. Simon hath not Writ
+> these V. Weekes, but I expecte soon hear'g from him."
 
- When upon reaching this point Dr. Willett turned the leaf he was quickly checked
+When upon reaching this point Dr. Willett turned the leaf he was quickly checked
 by Ward, who almost snatched the book from his grasp. All that the doctor had a chance to see on
 the newly opened page was a brief pair of sentences; but these, strangely enough, lingered
-tenaciously in his memory. They ran: "Ye Verse from Liber-Damnatus be'g spoke V
-Roodmasses and IV Hallows-Eves, I am Hopeful y  e   Thing is
-breed'g Outside y  e   Spheres. It will drawe One who is to
+tenaciously in his memory. They ran: _"Ye Verse from Liber-Damnatus be'g spoke V
+Roodmasses and IV Hallows-Eves, I am Hopeful y e Thing is
+breed'g Outside y e Spheres. It will drawe One who is to
 Come, if I can make sure he shal bee, and he shall think on Past thinges and look back thro'
-all y  e   yeares, against y  e   which I
-must have ready y  e   Saltes or That to make 'em
-with. " 
+all y e yeares, against y e which I
+must have ready y e Saltes or That to make 'em
+with."_
 
- Willett saw no more, but somehow this small glimpse gave a new and vague terror to
+Willett saw no more, but somehow this small glimpse gave a new and vague terror to
 the painted features of Joseph Curwen which stared blandly down from the overmantel. Ever after
 that he entertained the odd fancy--which his medical skill of course assured him was only a
 fancy--that the eyes of the portrait had a sort of wish, if not an actual tendency, to follow
@@ -1633,9 +1615,9 @@ young Charles Ward as he moved about the room. He stopped before leaving to stud
 closely, marvelling at its resemblance to Charles and memorising every minute detail of the
 cryptical, colourless face, even down to a slight scar or pit in the smooth brow above the right
 eye. Cosmo Alexander, he decided, was a painter worthy of the Scotland that produced Raeburn, and a
-teacher worthy of his illustrious pupil Gilbert Stuart. 
+teacher worthy of his illustrious pupil Gilbert Stuart.
 
- Assured by the doctor that Charles's mental health was in no danger, but
+Assured by the doctor that Charles's mental health was in no danger, but
 that on the other hand he was engaged in researches which might prove of real importance, the Wards
 were more lenient than they might otherwise have been when during the following June the youth made
 positive his refusal to attend college. He had, he declared, studies of much more vital importance
@@ -1649,9 +1631,9 @@ close to his work and only occasionally making trips to other cities to consult 
 Once he went south to talk with a strange old mulatto who dwelt in a swamp and about whom a
 newspaper had printed a curious article. Again he sought a small village in the Adirondacks whence
 reports of certain odd ceremonial practices had come. But still his parents forbade him the trip to
-the Old World which he desired. 
+the Old World which he desired.
 
- Coming of age in April, 1923, and having previously inherited a small competence
+Coming of age in April, 1923, and having previously inherited a small competence
 from his maternal grandfather, Ward determined at last to take the European trip hitherto denied
 him. Of his proposed itinerary he would say nothing save that the needs of his studies would carry
 him to many places, but he promised to write his parents fully and faithfully. When they saw he
@@ -1665,9 +1647,9 @@ little to write. Study and experiment consumed all his time, and he mentioned a 
 had established in one of his rooms. That he said nothing of antiquarian rambles in the glamorous
 old city with its luring skyline of ancient domes and steeples and its tangles of roads and alleys
 whose mystic convolutions and sudden vistas alternately beckon and surprise, was taken by his
-parents as a good index of the degree to which his new interests had engrossed his mind. 
+parents as a good index of the degree to which his new interests had engrossed his mind.
 
- In June, 1924, a brief note told of his departure for Paris, to which he had
+In June, 1924, a brief note told of his departure for Paris, to which he had
 before made one or two flying trips for material in the Bibliothèque Nationale. For three months
 thereafter he sent only postal cards, giving an address in the Rue St. Jacques and referring to a
 special search among rare manuscripts in the library of an unnamed private collector. He avoided
@@ -1677,9 +1659,9 @@ that ancient town for the purpose of conferring with a certain very aged man sup
 last living possessor of some very curious mediaeval information. He gave an address in the
 Neustadt, and announced no move till the following January; when he dropped several cards from
 Vienna telling of his passage through that city on the way toward a more easterly region whither
-one of his correspondents and fellow-delvers into the occult had invited him. 
+one of his correspondents and fellow-delvers into the occult had invited him.
 
- The next card was from Klausenburg in Transylvania, and told of Ward's
+The next card was from Klausenburg in Transylvania, and told of Ward's
 progress toward his destination. He was going to visit a Baron Ferenczy, whose estate lay in the
 mountains east of Rakus; and was to be addressed at Rakus in the care of that nobleman. Another
 card from Rakus a week later, saying that his host's carriage had met him and that he was
@@ -1692,10 +1674,10 @@ was on a crag in the dark wooded mountains, and the region was so shunned by the
 normal people could not help feeling ill at ease. Moreover, the Baron was not a person likely to
 appeal to correct and conservative New England gentlefolk. His aspect and manners had
 idiosyncrasies, and his age was so great as to be disquieting. It would be better, Charles said, if
-his parents would wait for his return to Providence; which could scarcely be far distant. 
+his parents would wait for his return to Providence; which could scarcely be far distant.
 
- That return did not, however, take place until May, 1926, when after a few
-heralding cards the young wanderer quietly slipped into New York on the  Homeric  and
+That return did not, however, take place until May, 1926, when after a few
+heralding cards the young wanderer quietly slipped into New York on the Homeric and
 traversed the long miles to Providence by motor-coach, eagerly drinking in the green rolling hills,
 the fragrant, blossoming orchards, and the white steepled towns of vernal Connecticut; his first
 taste of ancient New England in nearly four years. When the coach crossed the Pawcatuck and entered
@@ -1707,9 +1689,9 @@ the pleasant, remembered houses and domes and steeples of the old town; and his 
 as the vehicle rolled down to the terminal behind the Biltmore, bringing into view the great dome
 and soft, roof-pierced greenery of the ancient hill across the river, and the tall colonial spire
 of the First Baptist Church limned pink in the magic evening light against the fresh springtime
-verdure of its precipitous background. 
+verdure of its precipitous background.
 
- Old Providence! It was this place and the mysterious forces of its long,
+Old Providence! It was this place and the mysterious forces of its long,
 continuous history which had brought him into being, and which had drawn him back toward marvels
 and secrets whose boundaries no prophet might fix. Here lay the arcana, wondrous or dreadful as the
 case might be, for which all his years of travel and application had been preparing him. A taxicab
@@ -1719,9 +1701,7 @@ gleaming dome and sunset-flushed Ionic columns of the Christian Science Church b
 Then eight squares past the fine old estates his childish eyes had known, and the quaint brick
 sidewalks so often trodden by his youthful feet. And at last the little white overtaken farmhouse
 on the right, on the left the classic Adam porch and stately bayed facade of the great brick house
-where he was born. It was twilight, and Charles Dexter Ward had come home. 
-
-  5.  
+where he was born. It was twilight, and Charles Dexter Ward had come home.
 
 A school of alienists slightly less academic than Dr. Lyman's assign to
 Ward's European trip the beginning of his true madness. Admitting that he was sane when he
@@ -1732,15 +1712,15 @@ things, to be sure, but by no means implying mental aberration on the part of th
 himself, though visibly aged and hardened, was still normal in his general reactions; and in
 several talks with Willett displayed a balance which no madman--even an incipient
 one--could feign continuously for long. What elicited the notion of insanity at this period
-were the  sounds  heard at all hours from Ward's attic laboratory, in which he kept
+were the sounds heard at all hours from Ward's attic laboratory, in which he kept
 himself most of the time. There were chantings and repetitions, and thunderous declamations in
 uncanny rhythms; and although these sounds were always in Ward's own voice, there was
 something in the quality of that voice, and in the accents of the formulae it pronounced, which
 could not but chill the blood of every hearer. It was noticed that Nig, the venerable and beloved
 black cat of the household, bristled and arched his back perceptibly when certain of the tones were
-heard. 
+heard.
 
- The odours occasionally wafted from the laboratory were likewise exceedingly
+The odours occasionally wafted from the laboratory were likewise exceedingly
 strange. Sometimes they were very noxious, but more often they were aromatic, with a haunting,
 elusive quality which seemed to have the power of inducing fantastic images. People who smelled
 them had a tendency to glimpse momentary mirages of enormous vistas, with strange hills or endless
@@ -1758,9 +1738,9 @@ Frequently he noted peculiar things about; little wax images of grotesque design
 tables, and the half-erased remnants of circles, triangles, and pentagrams in chalk or charcoal on
 the cleared central space of the large room. And always in the night those rhythms and incantations
 thundered, till it became very difficult to keep servants or suppress furtive talk of
-Charles's madness. 
+Charles's madness.
 
- In January, 1927, a peculiar incident occurred. One night about midnight, as
+In January, 1927, a peculiar incident occurred. One night about midnight, as
 Charles was chanting a ritual whose weird cadence echoed unpleasantly through the house below,
 there came a sudden gust of chill wind from the bay, and a faint, obscure trembling of the earth
 which everyone in the neighbourhood noted. At the same time the cat exhibited phenomenal traces of
@@ -1773,9 +1753,9 @@ been struck, and that the storm would soon be over. They paused, and looking thr
 that he was indeed right; for the lightning flashed farther and farther off, whilst the trees
 ceased to bend in the strange frigid gust from the water. The thunder sank to a sort of dull
 mumbling chuckle and finally died away. Stars came out, and the stamp of triumph on Charles
-Ward's face crystallised into a very singular expression. 
+Ward's face crystallised into a very singular expression.
 
- For two months or more after this incident Ward was less confined than usual to
+For two months or more after this incident Ward was less confined than usual to
 his laboratory. He exhibited a curious interest in the weather, and made odd inquiries about the
 date of the spring thawing of the ground. One night late in March he left the house after midnight,
 and did not return till almost morning; when his mother, being wakeful, heard a rumbling motor draw
@@ -1783,9 +1763,9 @@ up to the carriage entrance. Muffled oaths could be distinguished, and Mrs. Ward
 to the window, saw four dark figures removing a long, heavy box from a truck at Charles's
 direction and carrying it within by the side door. She heard laboured breathing and ponderous
 footfalls on the stairs, and finally a dull thumping in the attic; after which the footfalls
-descended again, and the four men reappeared outside and drove off in their truck. 
+descended again, and the four men reappeared outside and drove off in their truck.
 
- The next day Charles resumed his strict attic seclusion, drawing down the dark
+The next day Charles resumed his strict attic seclusion, drawing down the dark
 shades of his laboratory windows and appearing to be working on some metal substance. He would open
 the door to no one, and steadfastly refused all proffered food. About noon a wrenching sound
 followed by a terrible cry and a fall were heard, but when Mrs. Ward rapped at the door her son at
@@ -1798,38 +1778,38 @@ indeed, proved the beginning of a new policy of secrecy; for never afterward was
 permitted to visit either the mysterious garret workroom or the adjacent storeroom which he cleaned
 out, furnished roughly, and added to his inviolably private domain as a sleeping apartment. Here he
 lived, with books brought up from his library beneath, till the time he purchased the Pawtuxet
-bungalow and moved to it all his scientific effects. 
+bungalow and moved to it all his scientific effects.
 
- In the evening Charles secured the paper before the rest of the family and damaged
+In the evening Charles secured the paper before the rest of the family and damaged
 part of it through an apparent accident. Later on Dr. Willett, having fixed the date from
-statements by various members of the household, looked up an intact copy at the  Journal 
-office and found that in the destroyed section the following small item had occurred: 
+statements by various members of the household, looked up an intact copy at the Journal
+office and found that in the destroyed section the following small item had occurred:
 
-  Nocturnal Diggers Surprised in North Burial Ground  
+Nocturnal Diggers Surprised in North Burial Ground
 
 Robert Hart, night watchman at the North Burial Ground, this morning discovered a party of several
 men with a motor truck in the oldest part of the cemetery, but apparently frightened them off
-before they had accomplished whatever their object may have been. 
+before they had accomplished whatever their object may have been.
 
- The discovery took place at about four o'clock, when Hart's attention
+The discovery took place at about four o'clock, when Hart's attention
 was attracted by the sound of a motor outside his shelter. Investigating, he saw a large truck on
 the main drive several rods away; but could not reach it before the sound of his feet on the gravel
 had revealed his approach. The men hastily placed a large box in the truck and drove away toward
 the street before they could be overtaken; and since no known grave was disturbed, Hart believes
-that this box was an object which they wished to bury. 
+that this box was an object which they wished to bury.
 
- The diggers must have been at work for a long while before detection, for Hart
+The diggers must have been at work for a long while before detection, for Hart
 found an enormous hole dug at a considerable distance back from the roadway in the lot of Amasa
 Field, where most of the old stones have long ago disappeared. The hole, a place as large and deep
 as a grave, was empty; and did not coincide with any interment mentioned in the cemetery
-records. 
+records.
 
- Sergt. Riley of the Second Station viewed the spot and gave the opinion that the
+Sergt. Riley of the Second Station viewed the spot and gave the opinion that the
 hole was dug by bootleggers rather gruesomely and ingeniously seeking a safe cache for liquor in a
 place not likely to be disturbed. In reply to questions Hart said he thought the escaping truck had
-headed up Rochambeau Avenue, though he could not be sure. 
+headed up Rochambeau Avenue, though he could not be sure.
 
- During the next few days Ward was seldom seen by his family. Having added sleeping
+During the next few days Ward was seldom seen by his family. Having added sleeping
 quarters to his attic realm, he kept closely to himself there, ordering food brought to the door
 and not taking it in until after the servant had gone away. The droning of monotonous formulae and
 the chanting of bizarre rhythms recurred at intervals, while at other times occasional listeners
@@ -1839,9 +1819,7 @@ door; and the air of tension observable in the young recluse whenever he did ven
 was such as to excite the keenest speculation. Once he made a hasty trip to the Athenaeum for a
 book he required, and again he hired a messenger to fetch him a highly obscure volume from Boston.
 Suspense was written portentously over the whole situation, and both the family and Dr. Willett
-confessed themselves wholly at a loss what to do or think about it. 
-
-  6.  
+confessed themselves wholly at a loss what to do or think about it.
 
 Then on the fifteenth of April a strange development occurred. While nothing
 appeared to grow different in kind, there was certainly a very terrible difference in degree; and
@@ -1852,24 +1830,24 @@ singularly loud voice, at the same time burning some substance so pungent that i
 over the entire house. The formula was so plainly audible in the hall outside the locked door that
 Mrs. Ward could not help memorising it as she waited and listened anxiously, and later on she was
 able to write it down at Dr. Willett's request. It ran as follows, and experts have told Dr.
-Willett that its very close analogue can be found in the mystic writings of "Eliphas
-Levi", that cryptic soul who crept through a crack in the forbidden door and glimpsed the
-frightful vistas of the void beyond: 
+Willett that its very close analogue can be found in the mystic writings of _"Eliphas
+Levi"_, that cryptic soul who crept through a crack in the forbidden door and glimpsed the
+frightful vistas of the void beyond:
 
-   "Per Adonai Eloim, Adonai Jehova, 
-Adonai Sabaoth, Metraton On Agla Mathon, 
-verbum pythonicum, mysterium salamandrae, 
-conventus sylvorum, antra gnomorum, 
-daemonia Coeli Gad, Almousin, Gibor, Jehosua, 
-Evam, Zariatnatmik, veni, veni, veni. "  
+> "Per Adonai Eloim, Adonai Jehova,
+> Adonai Sabaoth, Metraton On Agla Mathon,
+> verbum pythonicum, mysterium salamandrae,
+> conventus sylvorum, antra gnomorum,
+> daemonia Coeli Gad, Almousin, Gibor, Jehosua,
+> Evam, Zariatnatmik, veni, veni, veni."
 
- This had been going on for two hours without change or intermission when over all
+This had been going on for two hours without change or intermission when over all
 the neighbourhood a pandaemoniac howling of dogs set in. The extent of this howling can be judged
 from the space it received in the papers the next day, but to those in the Ward household it was
 overshadowed by the odour which instantly followed it; a hideous, all-pervasive odour which none of
 them had ever smelt before or have ever smelt since. In the midst of this mephitic flood there came
 a very perceptible flash like that of lightning, which would have been blinding and impressive but
-for the daylight around; and then was heard  the voice  that no listener can ever forget
+for the daylight around; and then was heard the voice that no listener can ever forget
 because of its thunderous remoteness, its incredible depth, and its eldritch dissimilarity to
 Charles Ward's voice. It shook the house, and was clearly heard by at least two neighbours
 above the howling of the dogs. Mrs. Ward, who had been listening in despair outside her son's
@@ -1878,24 +1856,23 @@ evil fame in dark books, and of the manner in which it had thundered, according 
 letters, above the doomed Pawtuxet farmhouse on the night of Joseph Curwen's annihilation.
 There was no mistaking that nightmare phrase, for Charles had described it too vividly in the old
 days when he had talked frankly of his Curwen investigations. And yet it was only this fragment of
-an archaic and forgotten language: "DIES MIES JESCHET BOENE DOESEF DOUVEMA
-ENITEMAUS ". 
+an archaic and forgotten language: _"DIES MIES JESCHET BOENE DOESEF DOUVEMA ENITEMAUS"_.
 
- Close upon this thundering there came a momentary darkening of the daylight,
+Close upon this thundering there came a momentary darkening of the daylight,
 though sunset was still an hour distant, and then a puff of added odour different from the first
 but equally unknown and intolerable. Charles was chanting again now and his mother could hear
-syllables that sounded like "Yi-nash-Yog-Sothoth-he-lgeb-fi-throdog "--ending in a
- "Yah! " whose maniacal force mounted in an ear-splitting crescendo. A second later all
+syllables that sounded like _"Yi-nash-Yog-Sothoth-he-lgeb-fi-throdog"_--ending in a
+_"Yah!"_ whose maniacal force mounted in an ear-splitting crescendo. A second later all
 previous memories were effaced by the wailing scream which burst out with frantic explosiveness and
 gradually changed form to a paroxysm of diabolic and hysterical laughter. Mrs. Ward, with the
 mingled fear and blind courage of maternity, advanced and knocked affrightedly at the concealing
 panels, but obtained no sign of recognition. She knocked again, but paused nervelessly as a second
-shriek arose, this one unmistakably in the familiar voice of her son,  and sounding concurrently
-with the still bursting cachinnations of that other voice.  Presently she fainted, although she
+shriek arose, this one unmistakably in the familiar voice of her son, and sounding concurrently
+with the still bursting cachinnations of that other voice. Presently she fainted, although she
 is still unable to recall the precise and immediate cause. Memory sometimes makes merciful
-deletions. 
+deletions.
 
- Mr. Ward returned from the business section at about quarter past six; and not
+Mr. Ward returned from the business section at about quarter past six; and not
 finding his wife downstairs, was told by the frightened servants that she was probably watching at
 Charles's door, from which the sounds had been far stranger than ever before. Mounting the
 stairs at once, he saw Mrs. Ward stretched at full length on the floor of the corridor outside the
@@ -1905,9 +1882,9 @@ immediate response on her part, and was watching the bewildered opening of her e
 shot through him and threatened to reduce him to the very state from which she was emerging. For
 the seemingly silent laboratory was not as silent as it had appeared to be, but held the murmurs of
 a tense, muffled conversation in tones too low for comprehension, yet of a quality profoundly
-disturbing to the soul. 
+disturbing to the soul.
 
- It was not, of course, new for Charles to mutter formulae; but this muttering was
+It was not, of course, new for Charles to mutter formulae; but this muttering was
 definitely different. It was so palpably a dialogue, or imitation of a dialogue, with the regular
 alteration of inflections suggesting question and answer, statement and response. One voice was
 undisguisedly that of Charles, but the other had a depth and hollowness which the youth's
@@ -1922,18 +1899,18 @@ evidently been heard by others than he, and there had come from behind the locke
 distinguishable words which that masked and terrible colloquy had yielded. They were merely an
 excited caution in Charles's own voice, but somehow their implications held a nameless fright
 for the father who overheard them. The phrase was just this:
-  "Sshh!--write! "  
+_"Sshh!--write!"_
 
- Mr. and Mrs. Ward conferred at some length after dinner, and the former resolved
+Mr. and Mrs. Ward conferred at some length after dinner, and the former resolved
 to have a firm and serious talk with Charles that very night. No matter how important the object,
 such conduct could no longer be permitted; for these latest developments transcended every limit of
 sanity and formed a menace to the order and nervous well-being of the entire household. The youth
 must indeed have taken complete leave of his senses, since only downright madness could have
 prompted the wild screams and imaginary conversations in assumed voices which the present day had
 brought forth. All this must be stopped, or Mrs. Ward would be made ill and the keeping of servants
-become an impossibility. 
+become an impossibility.
 
- Mr. Ward rose at the close of the meal and started upstairs for Charles's
+Mr. Ward rose at the close of the meal and started upstairs for Charles's
 laboratory. On the third floor, however, he paused at the sounds which he heard proceeding from the
 now disused library of his son. Books were apparently being flung about and papers wildly rustled,
 and upon stepping to the door Mr. Ward beheld the youth within, excitedly assembling a vast armful
@@ -1952,9 +1929,9 @@ impression was one of undeniable sanity and poise despite a mysterious tension o
 gravity. The interview was really quite inconclusive, and as Charles picked up his armful and left
 the room Mr. Ward hardly knew what to make of the entire business. It was as mysterious as the
 death of poor old Nig, whose stiffening form had been found an hour before in the basement, with
-staring eyes and fear-distorted mouth. 
+staring eyes and fear-distorted mouth.
 
- Driven by some vague detective instinct, the bewildered parent now glanced
+Driven by some vague detective instinct, the bewildered parent now glanced
 curiously at the vacant shelves to see what his son had taken up to the attic. The youth's
 library was plainly and rigidly classified, so that one might tell at a glance the books or at
 least the kind of books which had been withdrawn. On this occasion Mr. Ward was astonished to find
@@ -1965,17 +1942,17 @@ a very curious shift from Charles Ward's recent run of reading, and the father p
 growing vortex of perplexity and an engulfing sense of strangeness. The strangeness was a very
 poignant sensation, and almost clawed at his chest as he strove to see just what was wrong around
 him. Something was indeed wrong, and tangibly as well as spiritually so. Ever since he had been in
-this room he had known that something was amiss, and at last it dawned upon him what it was. 
+this room he had known that something was amiss, and at last it dawned upon him what it was.
 
- On the north wall rose still the ancient carved overmantel from the house in Olney
+On the north wall rose still the ancient carved overmantel from the house in Olney
 Court, but to the cracked and precariously restored oils of the large Curwen portrait disaster had
 come. Time and unequal heating had done their work at last, and at some time since the room's
 last cleaning the worst had happened. Peeling clear of the wood, curling tighter and tighter, and
 finally crumbling into small bits with what must have been malignly silent suddenness, the portrait
 of Joseph Curwen had resigned forever its staring surveillance of the youth it so strangely
-resembled, and now lay scattered on the floor as a thin coating of fine bluish-grey dust. 
+resembled, and now lay scattered on the floor as a thin coating of fine bluish-grey dust.
 
-  IV. A Mutation and a Madness  1.  
+## IV. A Mutation and a Madness
 
 In the week following that memorable Good Friday Charles Ward was seen more often than usual, and
 was continually carrying books between his library and the attic laboratory. His actions were quiet
@@ -1986,9 +1963,9 @@ youth in the library where the picture stared no more. The interview was, as alw
 but Willett is still ready to swear that the youth was sane and himself at the time. He held out
 promises of an early revelation, and spoke of the need of securing a laboratory elsewhere. At the
 loss of the portrait he grieved singularly little considering his first enthusiasm over it, but
-seemed to find something of positive humour in its sudden crumbling. 
+seemed to find something of positive humour in its sudden crumbling.
 
- About the second week Charles began to be absent from the house for long periods,
+About the second week Charles began to be absent from the house for long periods,
 and one day when good old black Hannah came to help with the spring cleaning she mentioned his
 frequent visits to the old house in Olney Court, where he would come with a large valise and
 perform curious delvings in the cellar. He was always very liberal to her and to old Asa, but
@@ -1997,20 +1974,20 @@ up from birth. Another report of his doings came from Pawtuxet, where some frien
 saw him at a distance a surprising number of times. He seemed to haunt the resort and canoe-house
 of Rhodes-on-the-Pawtuxet, and subsequent inquiries by Dr. Willett at that place brought out the
 fact that his purpose was always to secure access to the rather hedged-in river-bank, along which
-he would walk toward the north, usually not reappearing for a very long while. 
+he would walk toward the north, usually not reappearing for a very long while.
 
- Late in May came a momentary revival of ritualistic sounds in the attic laboratory
+Late in May came a momentary revival of ritualistic sounds in the attic laboratory
 which brought a stern reproof from Mr. Ward and a somewhat distracted promise of amendment from
 Charles. It occurred one morning, and seemed to form a resumption of the imaginary conversation
 noted on that turbulent Good Friday. The youth was arguing or remonstrating hotly with himself, for
 there suddenly burst forth a perfectly distinguishable series of clashing shouts in differentiated
 tones like alternate demands and denials which caused Mrs. Ward to run upstairs and listen at the
-door. She could hear no more than a fragment whose only plain words were "must have it red
-for three months", and upon her knocking all sounds ceased at once. When Charles was later
+door. She could hear no more than a fragment whose only plain words were _"must have it red
+for three months"_, and upon her knocking all sounds ceased at once. When Charles was later
 questioned by his father he said that there were certain conflicts of spheres of consciousness
-which only great skill could avoid, but which he would try to transfer to other realms. 
+which only great skill could avoid, but which he would try to transfer to other realms.
 
- About the middle of June a queer nocturnal incident occurred. In the early evening
+About the middle of June a queer nocturnal incident occurred. In the early evening
 there had been some noise and thumping in the laboratory upstairs, and Mr. Ward was on the point of
 investigating when it suddenly quieted down. That midnight, after the family had retired, the
 butler was nightlocking the front door when according to his statement Charles appeared somewhat
@@ -2024,58 +2001,55 @@ statement highly. To fancy Charles in a savage state that night was quite ridicu
 as she had remained awake she had heard faint sounds from the laboratory above; sounds as if of
 sobbing and pacing, and of a sighing which told only of despair's profoundest depths. Mrs.
 Ward had grown used to listening for sounds in the night, for the mystery of her son was fast
-driving all else from her mind. 
+driving all else from her mind.
 
- The next evening, much as on another evening nearly three months before, Charles
+The next evening, much as on another evening nearly three months before, Charles
 Ward seized the newspaper very early and accidentally lost the main section. The matter was not
 recalled till later, when Dr. Willett began checking up loose ends and searching out missing links
-here and there. In the  Journal  office he found the section which Charles had lost, and
-marked two items as of possible significance. They were as follows: 
+here and there. In the Journal office he found the section which Charles had lost, and
+marked two items as of possible significance. They were as follows:
 
-  More Cemetery Delving  
+More Cemetery Delving
 
 It was this morning discovered by Robert Hart, night watchman at the North Burial Ground, that
 ghouls were again at work in the ancient portion of the cemetery. The grave of Ezra Weeden, who was
 born in 1740 and died in 1824, according to his uprooted and savagely splintered slate headstone,
 was found excavated and rifled, the work being evidently done with a spade stolen from an adjacent
-tool-shed. 
+tool-shed.
 
- Whatever the contents may have been after more than a century of burial, all was
+Whatever the contents may have been after more than a century of burial, all was
 gone except a few slivers of decayed wood. There were no wheel tracks, but the police have measured
 a single set of footprints which they found in the vicinity, and which indicate the boots of a man
-of refinement. 
+of refinement.
 
-
- Hart is inclined to link this incident with the digging discovered last March,
+Hart is inclined to link this incident with the digging discovered last March,
 when a party in a motor truck were frightened away after making a deep excavation; but Sergt. Riley
 of the Second Station discounts this theory and points to vital differences in the two cases. In
 March the digging had been in a spot where no grave was known; but this time a well-marked and
 cared-for grave had been rifled with every evidence of deliberate purpose, and with a conscious
 malignity expressed in the splintering of the slab which had been intact up to the day
-before. 
+before.
 
- Members of the Weeden family, notified of the happening, expressed their
+Members of the Weeden family, notified of the happening, expressed their
 astonishment and regret; and were wholly unable to think of any enemy who would care to violate the
 grave of their ancestor. Hazard Weeden of 598 Angell Street recalls a family legend according to
 which Ezra Weeden was involved in some very peculiar circumstances, not dishonourable to himself,
 shortly before the Revolution; but of any modern feud or mystery he is frankly ignorant. Inspector
 Cunningham has been assigned to the case, and hopes to uncover some valuable clues in the near
-future. 
+future.
 
-  Dogs Noisy in Pawtuxet  
+Dogs Noisy in Pawtuxet
 
- Residents of Pawtuxet were aroused about 3 a.m. today by a phenomenal baying of
+Residents of Pawtuxet were aroused about 3 a.m. today by a phenomenal baying of
 dogs which seemed to centre near the river just north of Rhodes-on-the-Pawtuxet. The volume and
 quality of the howling were unusually odd, according to most who heard it; and Fred Lemdin, night
 watchman at Rhodes, declares it was mixed with something very like the shrieks of a man in mortal
 terror and agony. A sharp and very brief thunderstorm, which seemed to strike somewhere near the
 bank of the river, put an end to the disturbance. Strange and unpleasant odours, probably from the
 oil tanks along the bay, are popularly linked with this incident; and may have had their share in
-exciting the dogs. 
+exciting the dogs.
 
- 
-
- The aspect of Charles now became very haggard and hunted, and all agreed in
+The aspect of Charles now became very haggard and hunted, and all agreed in
 retrospect that he may have wished at this period to make some statement or confession from which
 sheer terror withheld him. The morbid listening of his mother in the night brought out the fact
 that he made frequent sallies abroad under cover of darkness, and most of the more academic
@@ -2086,20 +2060,20 @@ every age and type and seemed to cluster around two distinct localities; the res
 the North End, near the Ward home, and the suburban districts across the Cranston line near
 Pawtuxet. Both late wayfarers and sleepers with open windows were attacked, and those who lived to
 tell the tale spoke unanimously of a lean, lithe, leaping monster with burning eyes which fastened
-its teeth in the throat or upper arm and feasted ravenously. 
+its teeth in the throat or upper arm and feasted ravenously.
 
- Dr. Willett, who refuses to date the madness of Charles Ward as far back as even
+Dr. Willett, who refuses to date the madness of Charles Ward as far back as even
 this, is cautious in attempting to explain these horrors. He has, he declares, certain theories of
-his own; and limits his positive statements to a peculiar kind of negation. "I will
-not, " he says, "state who or what I believe perpetrated these attacks and murders, but
+his own; and limits his positive statements to a peculiar kind of negation. _"I will
+not",_ he says, _"state who or what I believe perpetrated these attacks and murders, but
 I will declare that Charles Ward was innocent of them. I have reason to be sure he was ignorant of
 the taste of blood, as indeed his continued anaemic decline and increasing pallor prove better than
 any verbal argument. Ward meddled with terrible things, but he has paid for it, and he was never a
 monster or a villain. As for now--I don't like to think. A change came, and I'm
 content to believe that the old Charles Ward died with it. His soul did, anyhow, for that mad flesh
-that vanished from Waite's hospital had another. " 
+that vanished from Waite's hospital had another."_
 
- Willett speaks with authority, for he was often at the Ward home attending Mrs.
+Willett speaks with authority, for he was often at the Ward home attending Mrs.
 Ward, whose nerves had begun to snap under the strain. Her nocturnal listening had bred some morbid
 hallucinations which she confided to the doctor with hesitancy, and which he ridiculed in talking
 to her, although they made him ponder deeply when alone. These delusions always concerned the faint
@@ -2107,9 +2081,7 @@ sounds which she fancied she heard in the attic laboratory and bedroom, and emph
 occurrence of muffled sighs and sobbings at the most impossible times. Early in July Willett
 ordered Mrs. Ward to Atlantic City for an indefinite recuperative sojourn, and cautioned both Mr.
 Ward and the haggard and elusive Charles to write her only cheering letters. It is probably to this
-enforced and reluctant escape that she owes her life and continued sanity. 
-
-  2.  
+enforced and reluctant escape that she owes her life and continued sanity.
 
 Not long after his mother's departure Charles Ward began negotiating for the
 Pawtuxet bungalow. It was a squalid little wooden edifice with a concrete garage, perched high on
@@ -2120,9 +2092,9 @@ possession under cover of darkness, transporting in a great closed van the entir
 attic laboratory, including the books both weird and modern which he had borrowed from his study.
 He had this van loaded in the black small hours, and his father recalls only a drowsy realisation
 of stifled oaths and stamping feet on the night the goods were taken away. After that Charles moved
-back to his own old quarters on the third floor, and never haunted the attic again. 
+back to his own old quarters on the third floor, and never haunted the attic again.
 
- To the Pawtuxet bungalow Charles transferred all the secrecy with which he had
+To the Pawtuxet bungalow Charles transferred all the secrecy with which he had
 surrounded his attic realm, save that he now appeared to have two sharers of his mysteries; a
 villainous-looking Portuguese half-caste from the South Main St. waterfront who acted as a servant,
 and a thin, scholarly stranger with dark glasses and a stubbly full beard of dyed aspect whose
@@ -2137,9 +2109,9 @@ supposed to come from some very deep cellar below the place. Most distinctly the
 household was bitterly disliked by the honest bourgeoisie of the vicinity, and it is not remarkable
 that dark hints were advanced connecting the hated establishment with the current epidemic of
 vampiristic attacks and murders; especially since the radius of that plague seemed now confined
-wholly to Pawtuxet and the adjacent streets of Edgewood. 
+wholly to Pawtuxet and the adjacent streets of Edgewood.
 
- Ward spent most of his time at the bungalow, but slept occasionally at home and
+Ward spent most of his time at the bungalow, but slept occasionally at home and
 was still reckoned a dweller beneath his father's roof. Twice he was absent from the city on
 week-long trips, whose destinations have not yet been discovered. He grew steadily paler and more
 emaciated even than before, and lacked some of his former assurance when repeating to Dr. Willett
@@ -2147,13 +2119,13 @@ his old, old story of vital research and future revelations. Willett often wayla
 father's house, for the elder Ward was deeply worried and perplexed, and wished his son to
 get as much sound oversight as could be managed in the case of so secretive and independent an
 adult. The doctor still insists that the youth was sane even as late as this, and adduces many a
-conversation to prove his point. 
+conversation to prove his point.
 
- About September the vampirism declined, but in the following January Ward almost
+About September the vampirism declined, but in the following January Ward almost
 became involved in serious trouble. For some time the nocturnal arrival and departure of motor
 trucks at the Pawtuxet bungalow had been commented upon, and at this juncture an unforeseen hitch
 exposed the nature of at least one item of their contents. In a lonely spot near Hope Valley had
-occurred one of the frequent sordid waylayings of trucks by "hi-jackers " in quest of
+occurred one of the frequent sordid waylayings of trucks by _"hi-jackers"_ in quest of
 liquor shipments, but this time the robbers had been destined to receive the greater shock. For the
 long cases they seized proved upon opening to contain some exceedingly gruesome things; so
 gruesome, in fact, that the matter could not be kept quiet amongst the denizens of the underworld.
@@ -2163,15 +2135,15 @@ prosecution on any additional charge, at last consented to guide a party of troo
 and there was found in that hasty cache a very hideous and shameful thing. It would not be well for
 the national--or even the international--sense of decorum if the public were ever to know
 what was uncovered by that awestruck party. There was no mistaking it, even by these far from
-studious officers; and telegrams to Washington ensued with feverish rapidity. 
+studious officers; and telegrams to Washington ensued with feverish rapidity.
 
- The cases were addressed to Charles Ward at his Pawtuxet bungalow, and State and
+The cases were addressed to Charles Ward at his Pawtuxet bungalow, and State and
 Federal officials at once paid him a very forceful and serious call. They found him pallid and
 worried with his two odd companions, and received from him what seemed to be a valid explanation
 and evidence of innocence. He had needed certain anatomical specimens as part of a programme of
 research whose depth and genuineness anyone who had known him in the last decade could prove, and
 had ordered the required kind and number from agencies which he had thought as reasonably
-legitimate as such things can be. Of the  identity  of the specimens he had known absolutely
+legitimate as such things can be. Of the identity of the specimens he had known absolutely
 nothing, and was properly shocked when the inspectors hinted at the monstrous effect on public
 sentiment and national dignity which a knowledge of the matter would produce. In this statement he
 was firmly sustained by his bearded colleague Dr. Allen, whose oddly hollow voice carried even more
@@ -2179,28 +2151,29 @@ conviction than his own nervous tones; so that in the end the officials took no 
 carefully set down the New York name and address which Ward gave them as a basis for a search which
 came to nothing. It is only fair to add that the specimens were quickly and quietly restored to
 their proper places, and that the general public will never know of their blasphemous
-disturbance. 
+disturbance.
 
- On February 9, 1928, Dr. Willett received a letter from Charles Ward which he
+On February 9, 1928, Dr. Willett received a letter from Charles Ward which he
 considers of extraordinary importance, and about which he has frequently quarrelled with Dr. Lyman.
-Lyman believes that this note contains positive proof of a well-developed case of  dementia
-praecox,  but Willett on the other hand regards it as the last perfectly sane utterance of the
+Lyman believes that this note contains positive proof of a well-developed case of dementia
+praecox, but Willett on the other hand regards it as the last perfectly sane utterance of the
 hapless youth. He calls especial attention to the normal character of the penmanship; which though
 shewing traces of shattered nerves, is nevertheless distinctly Ward's own. The text in full
-is as follows: 
+is as follows:
 
-   "100 Prospect St.   
-Providence, R.I.,  
-February 8, 1928. 
+{aside}
+100 Prospect St.  
+Providence, R.I.,
+February 8, 1928.
 
- "Dear Dr. Willett:-- 
+Dear Dr. Willett:--
 
-  "I feel that at last the time has come for me to make the disclosures which
+I feel that at last the time has come for me to make the disclosures which
 I have so long promised you, and for which you have pressed me so often. The patience you have
 shewn in waiting, and the confidence you have shewn in my mind and integrity, are things I shall
-never cease to appreciate. 
+never cease to appreciate.
 
-  "And now that I am ready to speak, I must own with humiliation that no
+And now that I am ready to speak, I must own with humiliation that no
 triumph such as I dreamed of can ever be mine. Instead of triumph I have found terror, and my talk
 with you will not be a boast of victory but a plea for help and advice in saving both myself and
 the world from a horror beyond all human conception or calculation. You recall what those Fenner
@@ -2208,34 +2181,34 @@ letters said of the old raiding party at Pawtuxet. That must all be done again, 
 us depends more than can be put into words--all civilisation, all natural law, perhaps even
 the fate of the solar system and the universe. I have brought to light a monstrous abnormality, but
 I did it for the sake of knowledge. Now for the sake of all life and Nature you must help me thrust
-it back into the dark again. 
+it back into the dark again.
 
-  "I have left that Pawtuxet place forever, and we must extirpate everything
+I have left that Pawtuxet place forever, and we must extirpate everything
 existing there, alive or dead. I shall not go there again, and you must not believe it if you ever
 hear that I am there. I will tell you why I say this when I see you. I have come home for good, and
 wish you would call on me at the very first moment that you can spare five or six hours
 continuously to hear what I have to say. It will take that long--and believe me when I tell
 you that you never had a more genuine professional duty than this. My life and reason are the very
-least things which hang in the balance. 
+least things which hang in the balance.
 
-  "I dare not tell my father, for he could not grasp the whole thing. But I
+I dare not tell my father, for he could not grasp the whole thing. But I
 have told him of my danger, and he has four men from a detective agency watching the house. I
 don't know how much good they can do, for they have against them forces which even you could
 scarcely envisage or acknowledge. So come quickly if you wish to see me alive and hear how you may
-help to save the cosmos from stark hell. 
+help to save the cosmos from stark hell.
 
-  "Any time will do--I shall not be out of the house. Don't
+Any time will do--I shall not be out of the house. Don't
 telephone ahead, for there is no telling who or what may try to intercept you. And let us pray to
-whatever gods there be that nothing may prevent this meeting. 
+whatever gods there be that nothing may prevent this meeting.
 
-  "In utmost gravity and desperation, 
+In utmost gravity and desperation,
 
-  "Charles Dexter Ward. "  
+Charles Dexter Ward.
 
- "P.S. Shoot Dr. Allen on sight  and dissolve his body in acid.  Don't burn
-it. " 
+P.S. Shoot Dr. Allen on sight and dissolve his body in acid. Don't burn it.
+{/aside}
 
- Dr. Willett received this note about 10:30 a.m., and immediately arranged to spare
+Dr. Willett received this note about 10:30 a.m., and immediately arranged to spare
 the whole late afternoon and evening for the momentous talk, letting it extend on into the night as
 long as might be necessary. He planned to arrive about four o'clock, and through all the
 intervening hours was so engulfed in every sort of wild speculation that most of his tasks were
@@ -2244,17 +2217,17 @@ seen too much of Charles Ward's oddities to dismiss it as sheer raving. That som
 subtle, ancient, and horrible was hovering about he felt quite sure, and the reference to Dr. Allen
 could almost be comprehended in view of what Pawtuxet gossip said of Ward's enigmatical
 colleague. Willett had never seen the man, but had heard much of his aspect and bearing, and could
-not but wonder what sort of eyes those much-discussed dark glasses might conceal. 
+not but wonder what sort of eyes those much-discussed dark glasses might conceal.
 
- Promptly at four Dr. Willett presented himself at the Ward residence, but found to
+Promptly at four Dr. Willett presented himself at the Ward residence, but found to
 his annoyance that Charles had not adhered to his determination to remain indoors. The guards were
 there, but said that the young man seemed to have lost part of his timidity. He had that morning
 done much apparently frightened arguing and protesting over the telephone, one of the detectives
-said, replying to some unknown voice with phrases such as "I am very tired and must rest a
-while", "I can't receive anyone for some time, you'll have to excuse
-me", "Please postpone decisive action till we can arrange some sort of
-compromise", or "I am very sorry, but I must take a complete vacation from everything;
-I'll talk with you later ". Then, apparently gaining boldness through meditation, he had
+said, replying to some unknown voice with phrases such as _"I am very tired and must rest a
+while"_, _"I can't receive anyone for some time, you'll have to excuse
+me"_, _"Please postpone decisive action till we can arrange some sort of
+compromise"_, or _"I am very sorry, but I must take a complete vacation from everything;
+I'll talk with you later"_. Then, apparently gaining boldness through meditation, he had
 slipped out so quietly that no one had seen him depart or knew that he had gone until he returned
 about one o'clock and entered the house without a word. He had gone upstairs, where a bit of
 his fear must have surged back; for he was heard to cry out in a highly terrified fashion upon
@@ -2265,9 +2238,9 @@ he had evidently done some rearranging of his shelves, for a great clattering an
 creaking ensued; after which he had reappeared and left at once. Willett inquired whether or not
 any message had been left, but was told that there was none. The butler seemed queerly disturbed
 about something in Charles's appearance and manner, and asked solicitously if there was much
-hope for a cure of his disordered nerves. 
+hope for a cure of his disordered nerves.
 
- For almost two hours Dr. Willett waited vainly in Charles Ward's library,
+For almost two hours Dr. Willett waited vainly in Charles Ward's library,
 watching the dusty shelves with their wide gaps where books had been removed, and smiling grimly at
 the panelled overmantel on the north wall, whence a year before the suave features of old Joseph
 Curwen had looked mildly down. After a time the shadows began to gather, and the sunset cheer gave
@@ -2279,9 +2252,7 @@ son's condition, and urged his caller to do all he could to restore the boy to n
 Willett was glad to escape from that library, for something frightful and unholy seemed to haunt
 it; as if the vanished picture had left behind a legacy of evil. He had never liked that picture;
 and even now, strong-nerved though he was, there lurked a quality in its vacant panel which made
-him feel an urgent need to get out into the pure air as soon as possible. 
-
-  3.  
+him feel an urgent need to get out into the pure air as soon as possible.
 
 The next morning Willett received a message from the senior Ward, saying that
 Charles was still absent. Mr. Ward mentioned that Dr. Allen had telephoned him to say that Charles
@@ -2290,9 +2261,9 @@ because Allen himself was suddenly called away for an indefinite period, leaving
 need of Charles's constant oversight. Charles sent his best wishes, and regretted any bother
 his abrupt change of plans might have caused. In listening to this message Mr. Ward heard Dr.
 Allen's voice for the first time, and it seemed to excite some vague and elusive memory which
-could not be actually placed, but which was disturbing to the point of fearfulness. 
+could not be actually placed, but which was disturbing to the point of fearfulness.
 
- Faced by these baffling and contradictory reports, Dr. Willett was frankly at a
+Faced by these baffling and contradictory reports, Dr. Willett was frankly at a
 loss what to do. The frantic earnestness of Charles's note was not to be denied, yet what
 could one think of its writer's immediate violation of his own expressed policy? Young Ward
 had written that his delvings had become blasphemous and menacing, that they and his bearded
@@ -2305,9 +2276,9 @@ its lack of fulfilment would seem to imply. Its terror was too profound and real
 conjunction with what the doctor already knew evoked too vivid hints of monstrosities from beyond
 time and space to permit of any cynical explanation. There were nameless horrors abroad; and no
 matter how little one might be able to get at them, one ought to stand prepared for any sort of
-action at any time. 
+action at any time.
 
- For over a week Dr. Willett pondered on the dilemma which seemed thrust upon him,
+For over a week Dr. Willett pondered on the dilemma which seemed thrust upon him,
 and became more and more inclined to pay Charles a call at the Pawtuxet bungalow. No friend of the
 youth had ever ventured to storm this forbidden retreat, and even his father knew of its interior
 only from such descriptions as he chose to give; but Willett felt that some direct conversation
@@ -2315,34 +2286,34 @@ with his patient was necessary. Mr. Ward had been receiving brief and non-commit
 from his son, and said that Mrs. Ward in her Atlantic City retirement had had no better word. So at
 length the doctor resolved to act; and despite a curious sensation inspired by old legends of
 Joseph Curwen, and by more recent revelations and warnings from Charles Ward, set boldly out for
-the bungalow on the bluff above the river. 
+the bungalow on the bluff above the river.
 
- Willett had visited the spot before through sheer curiosity, though of course
+Willett had visited the spot before through sheer curiosity, though of course
 never entering the house or proclaiming his presence; hence knew exactly the route to take. Driving
 out Broad Street one early afternoon toward the end of February in his small motor, he thought
 oddly of the grim party which had taken that selfsame road a hundred and fifty-seven years before
-on a terrible errand which none might ever comprehend. 
+on a terrible errand which none might ever comprehend.
 
- The ride through the city's decaying fringe was short, and trim Edgewood and
+The ride through the city's decaying fringe was short, and trim Edgewood and
 sleepy Pawtuxet presently spread out ahead. Willett turned to the right down Lockwood Street and
 drove his car as far along that rural road as he could, then alighted and walked north to where the
 bluff towered above the lovely bends of the river and the sweep of misty downlands beyond. Houses
 were still few here, and there was no mistaking the isolated bungalow with its concrete garage on a
 high point of land at his left. Stepping briskly up the neglected gravel walk he rapped at the door
 with a firm hand, and spoke without a tremor to the evil Portuguese mulatto who opened it to the
-width of a crack. 
+width of a crack.
 
- He must, he said, see Charles Ward at once on vitally important business. No
+He must, he said, see Charles Ward at once on vitally important business. No
 excuse would be accepted, and a repulse would mean only a full report of the matter to the elder
 Ward. The mulatto still hesitated, and pushed against the door when Willett attempted to open it;
 but the doctor merely raised his voice and renewed his demands. Then there came from the dark
 interior a husky whisper which somehow chilled the hearer through and through though he did not
-know why he feared it. "Let him in, Tony, " it said, "we may as well talk now as
-ever. " But disturbing as was the whisper, the greater fear was that which immediately
+know why he feared it. _"Let him in, Tony"_, it said, _"we may as well talk now as
+ever."_ But disturbing as was the whisper, the greater fear was that which immediately
 followed. The floor creaked and the speaker hove in sight--and the owner of those strange and
-resonant tones was seen to be no other than Charles Dexter Ward. 
+resonant tones was seen to be no other than Charles Dexter Ward.
 
- The minuteness with which Dr. Willett recalled and recorded his conversation of
+The minuteness with which Dr. Willett recalled and recorded his conversation of
 that afternoon is due to the importance he assigns to this particular period. For at last he
 concedes a vital change in Charles Dexter Ward's mentality, and believes that the youth now
 spoke from a brain hopelessly alien to the brain whose growth he had watched for six and twenty
@@ -2352,32 +2323,32 @@ notes are not in Ward's normal style; not even in the style of that last frantic
 Willett. Instead, they are strange and archaic, as if the snapping of the writer's mind had
 released a flood of tendencies and impressions picked up unconsciously through boyhood
 antiquarianism. There is an obvious effort to be modern, but the spirit and occasionally the
-language are those of the past. 
+language are those of the past.
 
- The past, too, was evident in Ward's every tone and gesture as he received
+The past, too, was evident in Ward's every tone and gesture as he received
 the doctor in that shadowy bungalow. He bowed, motioned Willett to a seat, and began to speak
-abruptly in that strange whisper which he sought to explain at the very outset. 
+abruptly in that strange whisper which he sought to explain at the very outset.
 
-  "I am grown phthisical, " he began, "from this cursed river air.
+_"I am grown phthisical"_, he began, _"from this cursed river air.
 You must excuse my speech. I suppose you are come from my father to see what ails me, and I hope
-you will say nothing to alarm him. " 
+you will say nothing to alarm him."_
 
- Willett was studying these scraping tones with extreme care, but studying even
+Willett was studying these scraping tones with extreme care, but studying even
 more closely the face of the speaker. Something, he felt, was wrong; and he thought of what the
 family had told him about the fright of that Yorkshire butler one night. He wished it were not so
 dark, but did not request that any blind be opened. Instead, he merely asked Ward why he had so
-belied the frantic note of little more than a week before. 
+belied the frantic note of little more than a week before.
 
-  "I was coming to that, " the host replied. "You must know, I am
+_"I was coming to that"_, the host replied. _"You must know, I am
 in a very bad state of nerves, and do and say queer things I cannot account for. As I have told you
 often, I am on the edge of great matters; and the bigness of them has a way of making me
 light-headed. Any man might well be frighted of what I have found, but I am not to be put off for
 long. I was a dunce to have that guard and stick at home; for having gone this far, my place is
 here. I am not well spoke of by my prying neighbours, and perhaps I was led by weakness to believe
 myself what they say of me. There is no evil to any in what I do, so long as I do it rightly. Have
-the goodness to wait six months, and I'll shew you what will pay your patience well. 
+the goodness to wait six months, and I'll shew you what will pay your patience well."_
 
-  "You may as well know I have a way of learning old matters from things surer
+_"You may as well know I have a way of learning old matters from things surer
 than books, and I'll leave you to judge the importance of what I can give to history,
 philosophy, and the arts by reason of the doors I have access to. My ancestor had all this when
 those witless peeping Toms came and murdered him. I now have it again, or am coming very
@@ -2386,9 +2357,9 @@ fears of my own. Pray forget all I writ you, Sir, and have no fear of this place
 Allen is a man of fine parts, and I owe him an apology for anything ill I have said of him. I wish
 I had no need to spare him, but there were things he had to do elsewhere. His zeal is equal to mine
 in all those matters, and I suppose that when I feared the work I feared him too as my greatest
-helper in it. " 
+helper in it."_
 
- Ward paused, and the doctor hardly knew what to say or think. He felt almost
+Ward paused, and the doctor hardly knew what to say or think. He felt almost
 foolish in the face of this calm repudiation of the letter; and yet there clung to him the fact
 that while the present discourse was strange and alien and indubitably mad, the note itself had
 been tragic in its naturalness and likeness to the Charles Ward he knew. Willett now tried to turn
@@ -2401,33 +2372,33 @@ contemporary and the individual. The youth's intimate knowledge of elder things 
 and unholy, and he tried his best to hide it. When Willett would mention some favourite object of
 his boyhood archaistic studies he often shed by pure accident such a light as no normal mortal
 could conceivably be expected to possess, and the doctor shuddered as the glib allusion glided
-by. 
+by.
 
- It was not wholesome to know so much about the way the fat sheriff's wig
+It was not wholesome to know so much about the way the fat sheriff's wig
 fell off as he leaned over at the play in Mr. Douglass' Histrionick Academy in King Street on
 the eleventh of February, 1762, which fell on a Thursday; or about how the actors cut the text of
-Steele's  Conscious Lovers  so badly that one was almost glad the Baptist-ridden
+Steele's Conscious Lovers so badly that one was almost glad the Baptist-ridden
 legislature closed the theatre a fortnight later. That Thomas Sabin's Boston coach was
- "damn'd uncomfortable " old letters may well have told; but what healthy
+_"damn'd uncomfortable"_ old letters may well have told; but what healthy
 antiquarian could recall how the creaking of Epenetus Olney's new signboard (the gaudy crown
 he set up after he took to calling his tavern the Crown Coffee House) was exactly like the first
-few notes of the new jazz piece all the radios in Pawtuxet were playing? 
+few notes of the new jazz piece all the radios in Pawtuxet were playing?
 
- Ward, however, would not be quizzed long in this vein. Modern and personal topics
+Ward, however, would not be quizzed long in this vein. Modern and personal topics
 he waved aside quite summarily, whilst regarding antique affairs he soon shewed the plainest
 boredom. What he wished clearly enough was only to satisfy his visitor enough to make him depart
 without the intention of returning. To this end he offered to shew Willett the entire house, and at
 once proceeded to lead the doctor through every room from cellar to attic. Willett looked sharply,
 but noted that the visible books were far too few and trivial ever to have filled the wide gaps on
-Ward's shelves at home, and that the meagre so-called "laboratory " was the
+Ward's shelves at home, and that the meagre so-called _"laboratory"_ was the
 flimsiest sort of a blind. Clearly there were a library and a laboratory elsewhere; but just where,
 it was impossible to say. Essentially defeated in his quest for something he could not name,
 Willett returned to town before evening and told the senior Ward everything which had occurred.
 They agreed that the youth must be definitely out of his mind, but decided that nothing drastic
 need be done just then. Above all, Mrs. Ward must be kept in as complete an ignorance as her
-son's own strange typed notes would permit. 
+son's own strange typed notes would permit.
 
- Mr. Ward now determined to call in person upon his son, making it wholly a
+Mr. Ward now determined to call in person upon his son, making it wholly a
 surprise visit. Dr. Willett took him in his car one evening, guiding him to within sight of the
 bungalow and waiting patiently for his return. The session was a long one, and the father emerged
 in a very saddened and perplexed state. His reception had developed much like Willett's, save
@@ -2436,9 +2407,9 @@ into the hall and sent the Portuguese away with an imperative demand; and in the
 altered son there was no trace of filial affection. The lights had been dim, yet even so the youth
 had complained that they dazzled him outrageously. He had not spoken out loud at all, averring that
 his throat was in very poor condition; but in his hoarse whisper there was a quality so vaguely
-disturbing that Mr. Ward could not banish it from his mind. 
+disturbing that Mr. Ward could not banish it from his mind.
 
- Now definitely leagued together to do all they could toward the youth's
+Now definitely leagued together to do all they could toward the youth's
 mental salvation, Mr. Ward and Dr. Willett set about collecting every scrap of data which the case
 might afford. Pawtuxet gossip was the first item they studied, and this was relatively easy to
 glean since both had friends in that region. Dr. Willett obtained the most rumours because people
@@ -2448,9 +2419,9 @@ dissociate his household from the vampirism of the previous summer, while the no
 goings of the motor trucks provided their share of dark speculation. Local tradesmen spoke of the
 queerness of the orders brought them by the evil-looking mulatto, and in particular of the
 inordinate amounts of meat and fresh blood secured from the two butcher shops in the immediate
-neighbourhood. For a household of only three, these quantities were quite absurd. 
+neighbourhood. For a household of only three, these quantities were quite absurd.
 
- Then there was the matter of the sounds beneath the earth. Reports of these things
+Then there was the matter of the sounds beneath the earth. Reports of these things
 were harder to pin down, but all the vague hints tallied in certain basic essentials. Noises of a
 ritual nature positively existed, and at times when the bungalow was dark. They might, of course,
 have come from the known cellar; but rumour insisted that there were deeper and more spreading
@@ -2463,17 +2434,15 @@ various inhabitants, it was soon plain that the Brava Portuguese was loathed, th
 spectacled Dr. Allen feared, and the pallid young scholar disliked to a profound extent. During the
 last week or two Ward had obviously changed much, abandoning his attempts at affability and
 speaking only in hoarse but oddly repellent whispers on the few occasions that he ventured
-forth. 
+forth.
 
- Such were the shreds and fragments gathered here and there; and over these Mr.
+Such were the shreds and fragments gathered here and there; and over these Mr.
 Ward and Dr. Willett held many long and serious conferences. They strove to exercise deduction,
 induction, and constructive imagination to their utmost extent; and to correlate every known fact
 of Charles's later life, including the frantic letter which the doctor now shewed the father,
 with the meagre documentary evidence available concerning old Joseph Curwen. They would have given
 much for a glimpse of the papers Charles had found, for very clearly the key to the youth's
-madness lay in what he had learned of the ancient wizard and his doings. 
-
-  4.  
+madness lay in what he had learned of the ancient wizard and his doings.
 
 And yet, after all, it was from no step of Mr. Ward's or Dr. Willett's
 that the next move in this singular case proceeded. The father and the physician, rebuffed and
@@ -2486,9 +2455,9 @@ forgery, and were reassurred less than they ought to have been when the youth ho
 that his hand had lately been so much affected by a nervous shock as to make normal writing
 impossible. He could, he said, form no written characters at all except with great difficulty; and
 could prove it by the fact that he had been forced to type all his recent letters, even those to
-his father and mother, who would bear out the assertion. 
+his father and mother, who would bear out the assertion.
 
- What made the investigators pause in confusion was not this circumstance alone,
+What made the investigators pause in confusion was not this circumstance alone,
 for that was nothing unprecedented or fundamentally suspicious; nor even the Pawtuxet gossip, of
 which one or two of them had caught echoes. It was the muddled discourse of the young man which
 nonplussed them, implying as it did a virtually total loss of memory concerning important monetary
@@ -2500,9 +2469,9 @@ antiquarian, but even the most hopeless antiquarians do not make daily use of ob
 and gestures. Altogether, this combination of hoarseness, palsied hands, bad memory, and altered
 speech and bearing must represent some disturbance or malady of genuine gravity, which no doubt
 formed the basis of the prevailing odd rumours; and after their departure the party of officials
-decided that a talk with the senior Ward was imperative. 
+decided that a talk with the senior Ward was imperative.
 
- So on the sixth of March, 1928, there was a long and serious conference in Mr.
+So on the sixth of March, 1928, there was a long and serious conference in Mr.
 Ward's office, after which the utterly bewildered father summoned Dr. Willett in a kind of
 helpless resignation. Willett looked over the strained and awkward signatures of the cheques, and
 compared them in his mind with the penmanship of that last frantic note. Certainly, the change was
@@ -2522,9 +2491,9 @@ wished most heartily that they could see his more intimate volumes and documents
 they knew they could do, if at all, only after a scene at the bungalow itself. Willett now reviewed
 the whole case with febrile energy; it being at this time that he obtained the statements of the
 workmen who had seen Charles find the Curwen documents, and that he collated the incidents of the
-destroyed newspaper items, looking up the latter at the  Journal  office. 
+destroyed newspaper items, looking up the latter at the Journal office.
 
- On Thursday, the eighth of March, Drs. Willett, Peck, Lyman, and Waite,
+On Thursday, the eighth of March, Drs. Willett, Peck, Lyman, and Waite,
 accompanied by Mr. Ward, paid the youth their momentous call; making no concealment of their object
 and questioning the now acknowledged patient with extreme minuteness. Charles, though he was
 inordinately long in answering the summons and was still redolent of strange and noxious laboratory
@@ -2558,73 +2527,73 @@ the most perturbed of the various examiners, for he had attended Ward all his li
 appreciate with terrible keenness the extent of his physical disorganisation. Even the familiar
 olive mark on his hip was gone, while on his chest was a great black mole or cicatrice which had
 never been there before, and which made Willett wonder whether the youth had ever submitted to any
-of the "witch markings " reputed to be inflicted at certain unwholesome nocturnal
+of the _"witch markings"_ reputed to be inflicted at certain unwholesome nocturnal
 meetings in wild and lonely places. The doctor could not keep his mind off a certain transcribed
 witch-trial record from Salem which Charles had shewn him in the old non-secretive days, and which
-read: "Mr. G. B. on that Nighte putt y  e   Divell his Marke upon
+read: _"Mr. G. B. on that Nighte putt y e Divell his Marke upon
 Bridget S., Jonathan A., Simon O., Deliverance W., Joseph C., Susan P., Mehitable C., and Deborah
-B. " Ward's face, too, troubled him horribly, till at length he suddenly discovered why
+B."_ Ward's face, too, troubled him horribly, till at length he suddenly discovered why
 he was horrified. For above the young man's right eye was something which he had never
 previously noticed--a small scar or pit precisely like that in the crumbled painting of old
 Joseph Curwen, and perhaps attesting some hideous ritualistic inoculation to which both had
-submitted at a certain stage of their occult careers. 
+submitted at a certain stage of their occult careers.
 
- While Ward himself was puzzling all the doctors at the hospital a very strict
+While Ward himself was puzzling all the doctors at the hospital a very strict
 watch was kept on all mail addressed either to him or to Dr. Allen, which Mr. Ward had ordered
 delivered at the family home. Willett had predicted that very little would be found, since any
 communications of a vital nature would probably have been exchanged by messenger; but in the latter
 part of March there did come a letter from Prague for Dr. Allen which gave both the doctor and the
 father deep thought. It was in a very crabbed and archaic hand; and though clearly not the effort
 of a foreigner, shewed almost as singular a departure from modern English as the speech of young
-Ward himself. It read: 
+Ward himself. It read:
 
-  Kleinstrasse 11,   
-Altstadt, Prague,  
-11th Feby. 1928. 
+{aside}
+Kleinstrasse 11,  
+Altstadt, Prague,
+11th Feby. 1928.
 
-Brother in Almousin-Metraton:-- 
+Brother in Almousin-Metraton:--
 
- I this day receiv'd y  r   mention of what came
+I this day receiv'd y r mention of what came
 up from the Salts I sent you. It was wrong, and meanes clearly that y<font
-size=-2> e   Headstones had been chang'd when Barnabas gott me the Specimen.
+size=-2> e Headstones had been chang'd when Barnabas gott me the Specimen.
 It is often so, as you must be sensible of from the Thing you gott from y<font
-size=-2> e   Kings Chapell ground in 1769 and what H. gott from Olde Bury'g
+size=-2> e Kings Chapell ground in 1769 and what H. gott from Olde Bury'g
 Point in 1690, that was like to ende him. I gott such a Thing in Aegypt 75 yeares gone, from the
-which came that Scar y  e   Boy saw on me here in 1924. As I told you
+which came that Scar y e Boy saw on me here in 1924. As I told you
 longe ago, do not calle up That which you can not put downe; either from dead Saltes or out of
-y  e   Spheres beyond. Have y  e   Wordes
-for laying at all times readie, and stopp not to be sure when there is any Doubte of  Whom 
+y e Spheres beyond. Have y e Wordes
+for laying at all times readie, and stopp not to be sure when there is any Doubte of Whom
 you have. Stones are all chang'd now in Nine groundes out of 10. You are never sure till you
 question. I this day heard from H., who has had Trouble with the Soldiers. He is like to be sorry
 Transylvania is pass'd from Hungary to Roumania, and wou'd change his Seat if the
 Castel weren't so fulle of What we Knowe. But of this he hath doubtless writ you. In my next
-Send'g there will be Somewhat from a Hill tomb from y  e   East
+Send'g there will be Somewhat from a Hill tomb from y e East
 that will delight you greatly. Meanwhile forget not I am desirous of B. F. if you can possibly get
 him for me. You know G. in Philada. better than I. Have him up firste if you will, but doe not use
-him soe hard he will be Difficult, for I must speake to him in y  e  
-End. 
+him soe hard he will be Difficult, for I must speake to him in y e
+End.
 
- Yogg-Sothoth Neblod Zin 
-Simon O. 
+Yogg-Sothoth Neblod Zin
+Simon O.
 
-To Mr. J. C. in 
+To Mr. J. C. in Providence.
+{/aside}
 
-Providence. 
-
- Mr. Ward and Dr. Willett paused in utter chaos before this apparent bit of
+Mr. Ward and Dr. Willett paused in utter chaos before this apparent bit of
 unrelieved insanity. Only by degrees did they absorb what it seemed to imply. So the absent Dr.
 Allen, and not Charles Ward, had come to be the leading spirit at Pawtuxet? That must explain the
 wild reference and denunciation in the youth's last frantic letter. And what of this
-addressing of the bearded and spectacled stranger as "Mr. J. C. "? There was no escaping
-the inference, but there are limits to possible monstrosity. Who was "Simon O. "; the
+addressing of the bearded and spectacled stranger as _"Mr. J. C."_? There was no escaping
+the inference, but there are limits to possible monstrosity. Who was _"Simon O."_; the
 old man Ward had visited in Prague four years previously? Perhaps, but in the centuries behind
 there had been another Simon O.--Simon Orne, alias Jedediah, of Salem, who vanished in 1771,
- and whose peculiar handwriting Dr. Willett now unmistakably recognised from the photostatic
-copies of the Orne formulae which Charles had once shewn him.  What horrors and mysteries, what
+and whose peculiar handwriting Dr. Willett now unmistakably recognised from the photostatic
+copies of the Orne formulae which Charles had once shewn him. What horrors and mysteries, what
 contradictions and contraventions of Nature, had come back after a century and a half to harass Old
-Providence with her clustered spires and domes? 
+Providence with her clustered spires and domes?
 
- The father and the old physician, virtually at a loss what to do or think, went to
+The father and the old physician, virtually at a loss what to do or think, went to
 see Charles at the hospital and questioned him as delicately as they could about Dr. Allen, about
 the Prague visit, and about what he had learned of Simon or Jedediah Orne of Salem. To all these
 inquiries the youth was politely non-committal, merely barking in his hoarse whisper that he had
@@ -2632,9 +2601,9 @@ found Dr. Allen to have a remarkable spiritual rapport with certain souls from t
 any correspondent the bearded man might have in Prague would probably be similarly gifted. When
 they left, Mr. Ward and Dr. Willett realised to their chagrin that they had really been the ones
 under catechism; and that without imparting anything vital himself, the confined youth had adroitly
-pumped them of everything the Prague letter had contained. 
+pumped them of everything the Prague letter had contained.
 
- Drs. Peck, Waite, and Lyman were not inclined to attach much importance to the
+Drs. Peck, Waite, and Lyman were not inclined to attach much importance to the
 strange correspondence of young Ward's companion; for they knew the tendency of kindred
 eccentrics and monomaniacs to band together, and believed that Charles or Allen had merely
 unearthed an expatriated counterpart--perhaps one who had seen Orne's handwriting and
@@ -2649,54 +2618,53 @@ expected in a mania of this sort, and refused to grant it any importance either 
 unfavourable. Recognising this prosaic attitude in his colleagues, Willett advised Mr. Ward to keep
 to himself the letter which arrived for Dr. Allen on the second of April from Rakus, Transylvania,
 in a handwriting so intensely and fundamentally like that of the Hutchinson cipher that both father
-and physician paused in awe before breaking the seal. This read as follows: 
+and physician paused in awe before breaking the seal. This read as follows:
 
-
-  Castle Ferenczy  
-7 March 1928. 
+Castle Ferenczy
+7 March 1928.
 
 Dear C.:--Hadd a Squad of 20 Militia up to talk about what the Country Folk say. Must digg
 deeper and have less Hearde. These Roumanians plague me damnably, being officious and particular
 where you cou'd buy a Magyar off with a Drinke and ffood. Last monthe M. got me y<font
-size=-2> e   Sarcophagus of y  e   Five Sphinxes from
-y  e   Acropolis where He whome I call'd up say'd it
-wou'd be, and I have hadde 3 Talkes with  What was therein inhum'd.  It will go to
+size=-2> e Sarcophagus of y e Five Sphinxes from
+y e Acropolis where He whome I call'd up say'd it
+wou'd be, and I have hadde 3 Talkes with What was therein inhum'd. It will go to
 S. O. in Prague directly, and thence to you. It is stubborn but you know y<font
-size=-2> e   Way with Such. You shew Wisdom in having lesse about than Before; for
+size=-2> e Way with Such. You shew Wisdom in having lesse about than Before; for
 there was no Neede to keep the Guards in Shape and eat'g off their Heads, and it made Much to
-be founde in Case of Trouble, as you too welle knowe.  You  can now move and worke elsewhere
+be founde in Case of Trouble, as you too welle knowe. You can now move and worke elsewhere
 with no Kill'g Trouble if needful, tho' I hope no Thing will soon force you to so
-Bothersome a Course. I rejoice that you traffick not so much with  Those Outside;  for there
+Bothersome a Course. I rejoice that you traffick not so much with Those Outside; for there
 was ever a Mortall Peril in it, and you are sensible what it did when you ask'd Protection of
-One not dispos'd to give it. You excel me in gett'g y  e  
-fformulae so  another  may saye them with Success, but Borellus fancy'd it wou'd
-be so if just y  e   right Wordes were hadd. Does y<font
-size=-2> e   Boy use 'em often? I regret that he growes squeamish, as I
+One not dispos'd to give it. You excel me in gett'g y e
+fformulae so another may saye them with Success, but Borellus fancy'd it wou'd
+be so if just y e right Wordes were hadd. Does y<font
+size=-2> e Boy use 'em often? I regret that he growes squeamish, as I
 fear'd he wou'd when I hadde him here nigh 15 Monthes, but am sensible you knowe how to
-deal with him. You can't saye him down with y  e   fformula, for
-that will Worke only upon such as y  e   other fformula hath
+deal with him. You can't saye him down with y e fformula, for
+that will Worke only upon such as y e other fformula hath
 call'd up from Saltes; but you still have strong Handes and Knife and Pistol, and Graves are
 not harde to digg, nor Acids loth to burne. O. sayes you have promis'd him B. F. I must have
 him after. B. goes to you soone, and may he give you what you wishe of that Darke Thing belowe
-Memphis. Imploy care in what you calle up, and beware of y  e   Boy. It
-will be ripe in a yeare's time to have up y  e   Legions from
+Memphis. Imploy care in what you calle up, and beware of y e Boy. It
+will be ripe in a yeare's time to have up y e Legions from
 Underneath, and then there are no Boundes to what shal be oures. Have Confidence in what I saye,
-for you knowe O. and I have hadd these 150 yeares more than you to consulte these Matters in. 
+for you knowe O. and I have hadd these 150 yeares more than you to consulte these Matters in.
 
- Nephren-Ka nai Hadoth 
-Edw: H. 
+Nephren-Ka nai Hadoth
+Edw: H.
 
-For J. Curwen, Esq. 
-Providence. 
+For J. Curwen, Esq.
+Providence.
 
- But if Willett and Mr. Ward refrained from shewing this letter to the alienists,
+But if Willett and Mr. Ward refrained from shewing this letter to the alienists,
 they did not refrain from acting upon it themselves. No amount of learned sophistry could
 controvert the fact that the strangely bearded and spectacled Dr. Allen, of whom Charles's
 frantic letter had spoken as such a monstrous menace, was in close and sinister correspondence with
 two inexplicable creatures whom Ward had visited in his travels and who plainly claimed to be
 survivals or avatars of Curwen's old Salem colleagues; that he was regarding himself as the
 reincarnation of Joseph Curwen, and that he entertained--or was at least advised to
-entertain--murderous designs against a "boy " who could scarcely be other than
+entertain--murderous designs against a _"boy"_ who could scarcely be other than
 Charles Ward. There was organised horror afoot; and no matter who had started it, the missing Allen
 was by this time at the bottom of it. Therefore, thanking heaven that Charles was now safe in the
 hospital, Mr. Ward lost no time in engaging detectives to learn all they could of the cryptic
@@ -2709,9 +2677,9 @@ felt a marked relief when they left it at last; for there seemed to hover about 
 aura of evil. Perhaps it was what they had heard of the infamous old wizard whose picture had once
 stared from the panelled overmantel, and perhaps it was something different and irrelevant; but in
 any case they all half sensed an intangible miasma which centred in that carven vestige of an older
-dwelling and which at times almost rose to the intensity of a material emanation. 
+dwelling and which at times almost rose to the intensity of a material emanation.
 
-  V. A Nightmare and a Cataclysm  1.  
+## V. A Nightmare and a Cataclysm
 
 And now swiftly followed that hideous experience which has left its indelible mark of fear on the
 soul of Marinus Bicknell Willett, and has added a decade to the visible age of one whose youth was
@@ -2726,38 +2694,38 @@ well--were doing or trying to do seemed fairly clear from their letters and from
 light both old and new which had filtered in upon the case. They were robbing the tombs of all the
 ages, including those of the world's wisest and greatest men, in the hope of recovering from
 the bygone ashes some vestige of the consciousness and lore which had once animated and informed
-them. 
+them.
 
- A hideous traffick was going on among these nightmare ghouls, whereby illustrious
+A hideous traffick was going on among these nightmare ghouls, whereby illustrious
 bones were bartered with the calm calculativeness of schoolboys swapping books; and from what was
 extorted from this centuried dust there was anticipated a power and a wisdom beyond anything which
 the cosmos had ever seen concentrated in one man or group. They had found unholy ways to keep their
 brains alive, either in the same body or different bodies; and had evidently achieved a way of
 tapping the consciousness of the dead whom they gathered together. There had, it seems, been some
 truth in chimerical old Borellus when he wrote of preparing from even the most antique remains
-certain "Essential Saltes " from which the shade of a long-dead living thing might be
+certain _"Essential Saltes"_ from which the shade of a long-dead living thing might be
 raised up. There was a formula for evoking such a shade, and another for putting it down; and it
 had now been so perfected that it could be taught successfully. One must be careful about
-evocations, for the markers of old graves are not always accurate. 
+evocations, for the markers of old graves are not always accurate.
 
- Willett and Mr. Ward shivered as they passed from conclusion to conclusion.
+Willett and Mr. Ward shivered as they passed from conclusion to conclusion.
 Things--presences or voices of some sort--could be drawn down from unknown places as well
 as from the grave, and in this process also one must be careful. Joseph Curwen had indubitably
 evoked many forbidden things, and as for Charles--what might one think of him? What forces
- "outside the spheres " had reached him from Joseph Curwen's day and turned his
+_"outside the spheres"_ had reached him from Joseph Curwen's day and turned his
 mind on forgotten things? He had been led to find certain directions, and he had used them. He had
 talked with the man of horror in Prague and stayed long with the creature in the mountains of
 Transylvania. And he must have found the grave of Joseph Curwen at last. That newspaper item and
 what his mother had heard in the night were too significant to overlook. Then he had summoned
 something, and it must have come. That mighty voice aloft on Good Friday, and those
- different  tones in the locked attic laboratory. What were they like, with their depth and
+different tones in the locked attic laboratory. What were they like, with their depth and
 hollowness? Was there not here some awful foreshadowing of the dreaded stranger Dr. Allen with his
-spectral bass? Yes,  that  was what Mr. Ward had felt with vague horror in his single talk
-with the man--if man it were--over the telephone! 
+spectral bass? Yes, that was what Mr. Ward had felt with vague horror in his single talk
+with the man--if man it were--over the telephone!
 
- What hellish consciousness or voice, what morbid shade or presence, had come to
+What hellish consciousness or voice, what morbid shade or presence, had come to
 answer Charles Ward's secret rites behind that locked door? Those voices heard in
-argument-- "must have it red for three months "--Good God! Was not that just
+argument-- _"must have it red for three months"_ --Good God! Was not that just
 before the vampirism broke out? The rifling of Ezra Weeden's ancient grave, and the cries
 later at Pawtuxet--whose mind had planned the vengeance and rediscovered the shunned seat of
 elder blasphemies? And then the bungalow and the bearded stranger, and the gossip, and the fear.
@@ -2770,9 +2738,9 @@ beyond dispute, some effort must be made to find it. Willett and Mr. Ward, consc
 sceptical attitude of the alienists, resolved during their final conference to undertake a joint
 secret exploration of unparalleled thoroughness; and agreed to meet at the bungalow on the
 following morning with valises and with certain tools and accessories suited to architectural
-search and underground exploration. 
+search and underground exploration.
 
- The morning of April 6th dawned clear, and both explorers were at the bungalow by
+The morning of April 6th dawned clear, and both explorers were at the bungalow by
 ten o'clock. Mr. Ward had the key, and an entry and cursory survey were made. From the
 disordered condition of Dr. Allen's room it was obvious that the detectives had been there
 before, and the later searchers hoped that they had found some clue which might prove of value. Of
@@ -2783,9 +2751,9 @@ innocuous an aspect that the thought of a yawning aperture was scarcely to be en
 reflected that since the original cellar was dug without knowledge of any catacombs beneath, the
 beginning of the passage would represent the strictly modern delving of young Ward and his
 associates, where they had probed for the ancient vaults whose rumour could have reached them by no
-wholesome means. 
+wholesome means.
 
- The doctor tried to put himself in Charles's place to see how a delver would
+The doctor tried to put himself in Charles's place to see how a delver would
 be likely to start, but could not gain much inspiration from this method. Then he decided on
 elimination as a policy, and went carefully over the whole subterranean surface both vertical and
 horizontal, trying to account for every inch separately. He was soon substantially narrowed down,
@@ -2795,9 +2763,9 @@ found that the top did indeed turn and slide horizontally on a corner pivot. Ben
 concrete surface with an iron manhole, to which Mr. Ward at once rushed with excited zeal. The
 cover was not hard to lift, and the father had quite removed it when Willett noticed the queerness
 of his aspect. He was swaying and nodding dizzily, and in the gust of noxious air which swept up
-from the black pit beneath the doctor soon recognised ample cause. 
+from the black pit beneath the doctor soon recognised ample cause.
 
- In a moment Dr. Willett had his fainting companion on the floor above and was
+In a moment Dr. Willett had his fainting companion on the floor above and was
 reviving him with cold water. Mr. Ward responded feebly, but it could be seen that the mephitic
 blast from the crypt had in some way gravely sickened him. Wishing to take no chances, Willett
 hastened out to Broad Street for a taxicab and had soon dispatched the sufferer home despite his
@@ -2806,9 +2774,7 @@ of sterile gauze, and descended once more to peer into the new-found depths. The
 slightly abated, and Willett was able to send a beam of light down the Stygian hole. For about ten
 feet, he saw, it was a sheer cylindrical drop with concrete walls and an iron ladder; after which
 the hole appeared to strike a flight of old stone steps which must originally have emerged to earth
-somewhat southwest of the present building. 
-
-  2.  
+somewhat southwest of the present building.
 
 Willett freely admits that for a moment the memory of the old Curwen legends kept
 him from climbing down alone into that malodorous gulf. He could not help thinking of what Luke
@@ -2819,9 +2785,9 @@ This was ancient masonry, his torch told him; and upon the dripping walls he saw
 moss of centuries. Down, down, ran the steps; not spirally, but in three abrupt turns; and with
 such narrowness that two men could have passed only with difficulty. He had counted about thirty
 when a sound reached him very faintly; and after that he did not feel disposed to count any
-more. 
+more.
 
- It was a godless sound; one of those low-keyed, insidious outrages of Nature which
+It was a godless sound; one of those low-keyed, insidious outrages of Nature which
 are not meant to be. To call it a dull wail, a doom-dragged whine, or a hopeless howl of chorused
 anguish and stricken flesh without mind would be to miss its most quintessential loathsomeness and
 soul-sickening overtones. Was it for this that Ward had seemed to listen on that day he was
@@ -2832,9 +2798,9 @@ hall in which he stood was perhaps fourteen feet high to the middle of the vault
 twelve feet broad. Its pavement was of large chipped flagstones, and its walls and roof were of
 dressed masonry. Its length he could not imagine, for it stretched ahead indefinitely into the
 blackness. Of the archways, some had doors of the old six-panelled colonial type, whilst others had
-none. 
+none.
 
- Overcoming the dread induced by the smell and the howling, Willett began to
+Overcoming the dread induced by the smell and the howling, Willett began to
 explore these archways one by one; finding beyond them rooms with groined stone ceilings, each of
 medium size and apparently of bizarre uses. Most of them had fireplaces, the upper courses of whose
 chimneys would have formed an interesting study in engineering. Never before or since had he seen
@@ -2845,9 +2811,9 @@ the earliest and most obsolete phases of Joseph Curwen's experimentation. Finall
 a room of obvious modernity, or at least of recent occupancy. There were oil heaters, bookshelves
 and tables, chairs and cabinets, and a desk piled high with papers of varying antiquity and
 contemporaneousness. Candlesticks and oil lamps stood about in several places; and finding a
-match-safe handy, Willett lighted such as were ready for use. 
+match-safe handy, Willett lighted such as were ready for use.
 
- In the fuller gleam it appeared that this apartment was nothing less than the
+In the fuller gleam it appeared that this apartment was nothing less than the
 latest study or library of Charles Ward. Of the books the doctor had seen many before, and a good
 part of the furniture had plainly come from the Prospect Street mansion. Here and there was a piece
 well known to Willett, and the sense of familiarity became so great that he half forgot the
@@ -2859,9 +2825,9 @@ would be; for file on file was stuffed with papers in curious hands and bearing 
 that months or even years might be needed for a thorough deciphering and editing. Once he found
 large packets of letters with Prague and Rakus postmarks, and in writing clearly recognisable as
 Orne's and Hutchinson's; all of which he took with him as part of the bundle to be
-removed in his valise. 
+removed in his valise.
 
- At last, in a locked mahogany cabinet once gracing the Ward home, Willett found
+At last, in a locked mahogany cabinet once gracing the Ward home, Willett found
 the batch of old Curwen papers; recognising them from the reluctant glimpse Charles had granted him
 so many years ago. The youth had evidently kept them together very much as they had been when first
 he found them, since all the titles recalled by the workmen were present except the papers
@@ -2876,47 +2842,41 @@ with the ancient script of Joseph Curwen, though of undeniably modern dating. Pl
 the latter-day programme had been a sedulous imitation of the old wizard's writing, which
 Charles seemed to have carried to a marvellous state of perfection. Of any third hand which might
 have been Allen's there was not a trace. If he had indeed come to be the leader, he must have
-forced young Ward to act as his amanuensis. 
+forced young Ward to act as his amanuensis.
 
- In this new material one mystic formula, or rather pair of formulae, recurred so
+In this new material one mystic formula, or rather pair of formulae, recurred so
 often that Willett had it by heart before he had half finished his quest. It consisted of two
-parallel columns, the left-hand one surmounted by the archaic symbol called "Dragon's
-Head " and used in almanacks to indicate the ascending node, and the right-hand one headed by
-a corresponding sign of "Dragon's Tail " or descending node. The appearance of the
+parallel columns, the left-hand one surmounted by the archaic symbol called _"Dragon's
+Head"_ and used in almanacks to indicate the ascending node, and the right-hand one headed by
+a corresponding sign of _"Dragon's Tail"_ or descending node. The appearance of the
 whole was something like this, and almost unconsciously the doctor realised that the second half
 was no more than the first written syllabically backward with the exception of the final
-monosyllables and of the odd name  Yog-Sothoth,  which he had come to recognise under various
+monosyllables and of the odd name Yog-Sothoth, which he had come to recognise under various
 spellings from other things he had seen in connexion with this horrible matter. The formulae were
-as follows-- exactly  so, as Willett is abundantly able to testify--and the first
+as follows-- exactly so, as Willett is abundantly able to testify--and the first
 one struck an odd note of uncomfortable latent memory in his brain, which he recognised later when
-reviewing the events of that horrible Good Friday of the previous year. 
+reviewing the events of that horrible Good Friday of the previous year.
 
-   
-   
-        
-     Y'AI 'NG'NGAH, 
-      YOG-SOTHOTH  
-     H'EE--L'GEB 
-     F'AI THRODOG 
-      UAAAH    
-      
-        
-     OGTHROD AI'F 
-     GEB'L--EE'H 
-      YOG-SOTHOTH  
-     'NGAH'NG AI'Y  
-      ZHRO    
-   
-   
+> Y'AI 'NG'NGAH,
+> YOG-SOTHOTH
+> H'EE--L'GEB
+> F'AI THRODOG
+> UAAAH
+
+> OGTHROD AI'F
+> GEB'L--EE'H
+> YOG-SOTHOTH
+> 'NGAH'NG AI'Y
+> ZHRO
 
 So haunting were these formulae, and so frequently did he come upon them, that before the doctor
 knew it he was repeating them under his breath. Eventually, however, he felt he had secured all the
 papers he could digest to advantage for the present; hence resolved to examine no more till he
 could bring the sceptical alienists en masse for an ampler and more systematic raid. He had still
 to find the hidden laboratory, so leaving his valise in the lighted room he emerged again into the
-black noisome corridor whose vaulting echoed ceaselessly with that dull and hideous whine. 
+black noisome corridor whose vaulting echoed ceaselessly with that dull and hideous whine.
 
- The next few rooms he tried were all abandoned, or filled only with crumbling
+The next few rooms he tried were all abandoned, or filled only with crumbling
 boxes and ominous-looking leaden coffins; but impressed him deeply with the magnitude of Joseph
 Curwen's original operations. He thought of the slaves and seamen who had disappeared, of the
 graves which had been violated in every part of the world, and of what that final raiding party
@@ -2926,9 +2886,9 @@ outbuildings--perhaps the famous stone edifice with the high slit-like windows--
 the steps he had descended had led from the steep-roofed farmhouse. Suddenly the walls seemed to
 fall away ahead, and the stench and the wailing grew stronger. Willett saw that he had come upon a
 vast open space, so great that his torchlight would not carry across it; and as he advanced he
-encountered occasional stout pillars supporting the arches of the roof. 
+encountered occasional stout pillars supporting the arches of the roof.
 
- After a time he reached a circle of pillars grouped like the monoliths of
+After a time he reached a circle of pillars grouped like the monoliths of
 Stonehenge, with a large carved altar on a base of three steps in the centre; and so curious were
 the carvings on that altar that he approached to study them with his electric light. But when he
 saw what they were he shrank away shuddering, and did not stop to investigate the dark stains which
@@ -2937,9 +2897,7 @@ found the distant wall and traced it as it swept round in a gigantic circle perf
 occasional black doorways and indented by a myriad of shallow cells with iron gratings and wrist
 and ankle bonds on chains fastened to the stone of the concave rear masonry. These cells were
 empty, but still the horrible odour and the dismal moaning continued, more insistent now than ever,
-and seemingly varied at times by a sort of slippery thumping. 
-
-  3.  
+and seemingly varied at times by a sort of slippery thumping.
 
 From that frightful smell and that uncanny noise Willett's attention could
 no longer be diverted. Both were plainer and more hideous in the great pillared hall than anywhere
@@ -2956,9 +2914,9 @@ it with his hands, and found that with extreme difficulty he could budge it. At 
 moaning beneath ascended to a louder key, and only with vast trepidation did he persevere in the
 lifting of the heavy stone. A stench unnamable now rose up from below, and the doctor's head
 reeled dizzily as he laid back the slab and turned his torch upon the exposed square yard of gaping
-blackness. 
+blackness.
 
- If he had expected a flight of steps to some wide gulf of ultimate abomination,
+If he had expected a flight of steps to some wide gulf of ultimate abomination,
 Willett was destined to be disappointed; for amidst that foetor and cracked whining he discerned
 only the brick-faced top of a cylindrical well perhaps a yard and a half in diameter and devoid of
 any ladder or other means of descent. As the light shone down, the wailing changed suddenly to a
@@ -2976,9 +2934,9 @@ through all the long month since the doctors had taken him away, and clearly onl
 number prisoned in the kindred wells whose pierced stone covers so thickly studded in the floor of
 the great vaulted cavern. Whatever the things were, they could not lie down in their cramped
 spaces; but must have crouched and whined and waited and feebly leaped all those hideous weeks
-since their master had abandoned them unheeded. 
+since their master had abandoned them unheeded.
 
- But Marinus Bicknell Willett was sorry that he looked again; for surgeon and
+But Marinus Bicknell Willett was sorry that he looked again; for surgeon and
 veteran of the dissecting-room though he was, he has not been the same since. It is hard to explain
 just how a single sight of a tangible object with measureable dimensions could so shake and change
 a man; and we may only say that there is about certain outlines and entities a power of symbolism
@@ -2998,42 +2956,41 @@ droning wail into which the burst of yelping had subsided. He was drenched with 
 without means of producing a light; stricken and unnerved in the abysmal blackness and horror, and
 crushed with a memory he never could efface. Beneath him dozens of those things still lived, and
 from one of the shafts the cover was removed. He knew that what he had seen could never climb up
-the slippery walls, yet shuddered at the thought that some obscure foot-hold might exist. 
+the slippery walls, yet shuddered at the thought that some obscure foot-hold might exist.
 
- What the thing was, he would never tell. It was like some of the carvings on the
+What the thing was, he would never tell. It was like some of the carvings on the
 hellish altar, but it was alive. Nature had never made it in this form, for it was too palpably
- unfinished.  The deficiencies were of the most surprising sort, and the abnormalities of
+unfinished. The deficiencies were of the most surprising sort, and the abnormalities of
 proportion could not be described. Willett consents only to say that this type of thing must have
-represented entities which Ward called up from  imperfect salts,  and which he kept for
+represented entities which Ward called up from imperfect salts, and which he kept for
 servile or ritualistic purposes. If it had not had a certain significance, its image would not have
 been carved on that damnable stone. It was not the worst thing depicted on that stone--but
 Willett never opened the other pits. At the time, the first connected idea in his mind was an idle
 paragraph from some of the old Curwen data he had digested long before; a phrase used by Simon or
-Jedediah Orne in that portentous confiscated letter to the bygone sorcerer: "Certainely,
-there was Noth'g butt y  e   liveliest Awfulness in that which H.
-rais'd upp from What he cou'd gather onlie a part of. " 
+Jedediah Orne in that portentous confiscated letter to the bygone sorcerer: _"Certainely,
+there was Noth'g butt y e liveliest Awfulness in that which H.
+rais'd upp from What he cou'd gather onlie a part of."_
 
- Then, horribly supplementing rather than displacing this image, there came a
+Then, horribly supplementing rather than displacing this image, there came a
 recollection of those ancient lingering rumours anent the burned, twisted thing found in the fields
 a week after the Curwen raid. Charles Ward had once told the doctor what old Slocum said of that
 object; that it was neither thoroughly human, nor wholly allied to any animal which Pawtuxet folk
-had ever seen or read about. 
+had ever seen or read about.
 
- These words hummed in the doctor's mind as he rocked to and fro, squatting
+These words hummed in the doctor's mind as he rocked to and fro, squatting
 on the nitrous stone floor. He tried to drive them out, and repeated the Lord's Prayer to
-himself; eventually trailing off into a mnemonic hodge-podge like the modernistic  Waste Land 
+himself; eventually trailing off into a mnemonic hodge-podge like the modernistic Waste Land
 of Mr. T. S. Eliot and finally reverting to the oft-repeated dual formula he had lately found in
-Ward's underground library:  "Y'ai 'ng'ngah,
-Yog-Sothoth",  and so on till the final underlined  "Zhro ".  It seemed to
-soothe him, and he staggered to his feet after a time; lamenting bitterly his fright-lost torch and
+Ward's underground library: _"Y'ai 'ng'ngah, Yog-Sothoth"_, and so on till the final underlined _"Zhro"_.
+It seemed to soothe him, and he staggered to his feet after a time; lamenting bitterly his fright-lost torch and
 looking wildly about for any gleam of light in the clutching inkiness of the chilly air. Think he
 would not; but he strained his eyes in every direction for some faint glint or reflection of the
 bright illumination he had left in the library. After a while he thought he detected a suspicion of
 a glow infinitely far away, and toward this he crawled in agonised caution on hands and knees
 amidst the stench and howling, always feeling ahead lest he collide with the numerous great pillars
-or stumble into the abominable pit he had uncovered. 
+or stumble into the abominable pit he had uncovered.
 
- Once his shaking fingers touched something which he knew must be the steps leading
+Once his shaking fingers touched something which he knew must be the steps leading
 to the hellish altar, and from this spot he recoiled in loathing. At another time he encountered
 the pierced slab he had removed, and here his caution became almost pitiful. But he did not come
 upon the dread aperture after all, nor did anything issue from that aperture to detain him. What
@@ -3049,9 +3006,7 @@ hope of rescue and survival would lie in whatever relief party Mr. Ward might se
 him for a sufficient period. Presently, however, he emerged from the open space into the narrower
 corridor and definitely located the glow as coming from a door on his right. In a moment he had
 reached it and was standing once more in young Ward's secret library, trembling with relief,
-and watching the sputterings of that last lamp which had brought him to safety. 
-
-  4.  
+and watching the sputterings of that last lamp which had brought him to safety.
 
 In another moment he was hastily filling the burned-out lamps from an oil supply
 he had previously noticed, and when the room was bright again he looked about to see if he might
@@ -3064,9 +3019,9 @@ laboratory he might uncover beyond the terrible open space with its unclean alta
 covered wells. To traverse that space again would require his utmost fortitude, but he knew it must
 be done. Fortunately neither the frightful altar nor the opened shaft was near the vast
 cell-indented wall which bounded the cavern area, and whose black mysterious archways would form
-the next goals of a logical search. 
+the next goals of a logical search.
 
- So Willett went back to that great pillared hall of stench and anguished howling;
+So Willett went back to that great pillared hall of stench and anguished howling;
 turning down his lamp to avoid any distant glimpse of the hellish altar, or of the uncovered pit
 with the pierced stone slab beside it. Most of the black doorways led merely to small chambers,
 some vacant and some evidently used as storerooms; and in several of the latter he saw some very
@@ -3083,9 +3038,9 @@ proceeded to investigate; and after entering three rooms of medium size and of n
 contents, he came at last to a large oblong apartment whose business-like tanks and tables,
 furnaces and modern instruments, occasional books and endless shelves of jars and bottles
 proclaimed it indeed the long-sought laboratory of Charles Ward--and no doubt of old Joseph
-Curwen before him. 
+Curwen before him.
 
- After lighting the three lamps which he found filled and ready, Dr. Willett
+After lighting the three lamps which he found filled and ready, Dr. Willett
 examined the place and all its appurtenances with the keenest interest; noting from the relative
 quantities of various reagents on the shelves that young Ward's dominant concern must have
 been with some branch of organic chemistry. On the whole, little could be learned from the
@@ -3102,9 +3057,9 @@ was much clothing also stored in these rooms, and several new and tightly nailed
 not stop to investigate. Most interesting of all, perhaps, were some odd bits which he judged to be
 fragments of old Joseph Curwen's laboratory appliances. These had suffered damage at the
 hands of the raiders, but were still partly recognisable as the chemical paraphernalia of the
-Georgian period. 
+Georgian period.
 
- The third archway led to a very sizeable chamber entirely lined with shelves and
+The third archway led to a very sizeable chamber entirely lined with shelves and
 having in the centre a table bearing two lamps. These lamps Willett lighted, and in their brilliant
 glow studied the endless shelving which surrounded him. Some of the upper levels were wholly
 vacant, but most of the space was filled with small odd-looking leaden jars of two general types;
@@ -3112,8 +3067,8 @@ one tall and without handles like a Grecian lekythos or oil-jug, and the other w
 and proportioned like a Phaleron jug. All had metal stoppers, and were covered with
 peculiar-looking symbols moulded in low relief. In a moment the doctor noticed that these jugs were
 classified with great rigidity; all the lekythoi being on one side of the room with a large wooden
-sign reading "Custodes " above them, and all the Phalerons on the other, correspondingly
-labelled with a sign reading "Materia ". Each of the jars or jugs, except some on the
+sign reading _"Custodes"_ above them, and all the Phalerons on the other, correspondingly
+labelled with a sign reading _"Materia"_. Each of the jars or jugs, except some on the
 upper shelves that turned out to be vacant, bore a cardboard tag with a number apparently referring
 to a catalogue; and Willett resolved to look for the latter presently. For the moment, however, he
 was more interested in the nature of the array as a whole; and experimentally opened several of the
@@ -3125,43 +3080,43 @@ occurred in the lekythoi and what occurred in the Phalerons. A bluish-grey powde
 side of a pinkish-white one, and any one in a Phaleron might have its exact counterpart in a
 lekythos. The most individual feature about the powders was their non-adhesiveness. Willett would
 pour one into his hand, and upon returning it to its jug would find that no residue whatever
-remained on its palm. 
+remained on its palm.
 
- The meaning of the two signs puzzled him, and he wondered why this battery of
+The meaning of the two signs puzzled him, and he wondered why this battery of
 chemicals was separated so radically from those in glass jars on the shelves of the laboratory
-proper. "Custodes", "Materia "; that was the Latin for "Guards "
-and "Materials", respectively--and then there came a flash of memory as to where
-he had seen that word "Guards " before in connexion with this dreadful mystery. It was,
+proper. _"Custodes"_, _"Materia"_; that was the Latin for _"Guards"_
+and _"Materials"_, respectively--and then there came a flash of memory as to where
+he had seen that word _"Guards"_ before in connexion with this dreadful mystery. It was,
 of course, in the recent letter to Dr. Allen purporting to be from old Edward Hutchinson; and the
-phrase had read: "There was no Neede to keep the Guards in Shape and eat'g off their
-Heads, and it made Much to be founde in Case of Trouble, as you too welle knowe. " What did
-this signify? But wait--was there not still  another  reference to "guards "
+phrase had read: _"There was no Neede to keep the Guards in Shape and eat'g off their
+Heads, and it made Much to be founde in Case of Trouble, as you too welle knowe."_ What did
+this signify? But wait--was there not still another reference to _"guards"_
 in this matter which he had failed wholly to recall when reading the Hutchinson letter? Back in the
 old non-secretive days Ward had told him of the Eleazar Smith diary recording the spying of Smith
 and Weeden on the Curwen farm, and in that dreadful chronicle there had been a mention of
 conversations overheard before the old wizard betook himself wholly beneath the earth. There had
 been, Smith and Weeden insisted, terrible colloquies wherein figured Curwen, certain captives of
-his,  and the guards of those captives.  Those guards, according to Hutchinson or his avatar,
-had "eaten their heads off', so that now Dr. Allen did not keep them  in shape. 
-And if not  in shape,  how save as the "salts " to which it appears this wizard
-band was engaged in reducing as many human bodies or skeletons as they could? 
+his, and the guards of those captives. Those guards, according to Hutchinson or his avatar,
+had 'eaten their heads off', so that now Dr. Allen did not keep them in shape.
+And if not in shape, how save as the _"salts"_ to which it appears this wizard
+band was engaged in reducing as many human bodies or skeletons as they could?
 
- So  that  was what these lekythoi contained; the monstrous fruit of
+So that was what these lekythoi contained; the monstrous fruit of
 unhallowed rites and deeds, presumably won or cowed to such submission as to help, when called up
 by some hellish incantation, in the defence of their blasphemous master or the questioning of those
 who were not so willing? Willett shuddered at the thought of what he had been pouring in and out of
 his hands, and for a moment felt an impulse to flee in panic from that cavern of hideous shelves
 with their silent and perhaps watching sentinels. Then he thought of the
- "Materia "--in the myriad Phaleron jugs on the other side of the room. Salts
-too--and if not the salts of "guards", then the salts of what? God! Could it be
+_"Materia"_--in the myriad Phaleron jugs on the other side of the room. Salts
+too--and if not the salts of _"guards"_, then the salts of what? God! Could it be
 possible that here lay the mortal relics of half the titan thinkers of all the ages; snatched by
 supreme ghouls from crypts where the world thought them safe, and subject to the beck and call of
 madmen who sought to drain their knowledge for some still wilder end whose ultimate effect would
-concern, as poor Charles had hinted in his frantic note, "all civilisation, all natural law,
-perhaps even the fate of the solar system and the universe'? And Marinus Bicknell Willett had
-sifted their dust through his hands! 
+concern, as poor Charles had hinted in his frantic note, _"all civilisation, all natural law,
+perhaps even the fate of the solar system and the universe"_? And Marinus Bicknell Willett had
+sifted their dust through his hands!
 
- Then he noticed a small door at the farther end of the room, and calmed himself
+Then he noticed a small door at the farther end of the room, and calmed himself
 enough to approach it and examine the crude sign chiselled above. It was only a symbol, but it
 filled him with vague spiritual dread; for a morbid, dreaming friend of his had once drawn it on
 paper and told him a few of the things it means in the dark abyss of sleep. It was the sign of
@@ -3175,9 +3130,9 @@ summons? He was wiser than old Joseph Curwen, for he had not resisted. Willett, 
 to penetrate every wonder and nightmare this nether realm might contain, seized the small lamp and
 crossed the threshold. A wave of nameless fright rolled out to meet him, but he yielded to no whim
 and deferred to no intuition. There was nothing alive here to harm him, and he would not be stayed
-in his piercing of the eldritch cloud which engulfed his patient. 
+in his piercing of the eldritch cloud which engulfed his patient.
 
- The room beyond the door was of medium size, and had no furniture save a table, a
+The room beyond the door was of medium size, and had no furniture save a table, a
 single chair, and two groups of curious machines with clamps and wheels, which Willett recognised
 after a moment as mediaeval instruments of torture. On one side of the door stood a rack of savage
 whips, above which were some shelves bearing empty rows of shallow pedestalled cups of lead shaped
@@ -3186,17 +3141,17 @@ pencil, and two of the stoppered lekythoi from the shelves outside set down at i
 if temporarily or in haste. Willett lighted the lamp and looked carefully at the pad, to see what
 notes young Ward might have been jotting down when interrupted; but found nothing more intelligible
 than the following disjointed fragments in that crabbed Curwen chirography, which shed no light on
-the case as a whole: 
+the case as a whole:
 
-  "B. dy'd not. Escap'd into walls and founde Place below. 
- "Saw olde V. saye y  e   Sabaoth and learnt y<font
-size=-2> e   Way. 
- "Rais'd  Yog-Sothoth  thrice and was y  e   nexte Day
-deliver'd. 
- "F. soughte to wipe out all know'g howe to raise Those from
-Outside. " 
+> B. dy'd not. Escap'd into walls and founde Place below.
+> Saw olde V. saye y e Sabaoth and learnt y<font
+> size=-2> e Way.
+> Rais'd Yog-Sothoth thrice and was y e nexte Day
+> deliver'd.
+> F. soughte to wipe out all know'g howe to raise Those from
+> Outside.
 
- As the strong Argand blaze lit up the entire chamber the doctor saw that the wall
+As the strong Argand blaze lit up the entire chamber the doctor saw that the wall
 opposite the door, between the two groups of torturing appliances in the corners, was covered with
 pegs from which hung a set of shapeless-looking robes of a rather dismal yellowish-white. But far
 more interesting were the two vacant walls, both of which were thickly covered with mystic symbols
@@ -3211,72 +3166,70 @@ Within its shallow area, and saved from scattering only by the absence of wind i
 cavern, lay a small amount of a dry, dull-greenish efflorescent powder which must have belonged in
 the jug; and Willett almost reeled at the implications that came sweeping over him as he correlated
 little by little the several elements and antecedents of the scene. The whips and the instruments
-of torture, the dust or salts from the jug of "Materia", the two lekythoi from the
- "Custodes " shelf, the robes, the formulae on the walls, the notes on the pad, the hints
+of torture, the dust or salts from the jug of _"Materia"_, the two lekythoi from the
+_"Custodes"_ shelf, the robes, the formulae on the walls, the notes on the pad, the hints
 from letters and legends, and the thousand glimpses, doubts, and suppositions which had come to
 torment the friends and parents of Charles Ward--all these engulfed the doctor in a tidal wave
 of horror as he looked at that dry greenish powder outspread in the pedestalled leaden kylix on the
-floor. 
+floor.
 
- With an effort, however, Willett pulled himself together and began studying the
+With an effort, however, Willett pulled himself together and began studying the
 formulae chiselled on the walls. From the stained and incrusted letters it was obvious that they
 were carved in Joseph Curwen's time, and their text was such as to be vaguely familiar to one
 who had read much Curwen material or delved extensively into the history of magic. One the doctor
 clearly recognised as what Mrs. Ward heard her son chanting on that ominous Good Friday a year
 before, and what an authority had told him was a very terrible invocation addressed to secret gods
 outside the normal spheres. It was not spelled here exactly as Mrs. Ward had set it down from
-memory, nor yet as the authority had shewn it to him in the forbidden pages of "Eliphas
-Levi "; but its identity was unmistakable, and such words as  Sabaoth, Metraton,
-Almousin,  and  Zariatnatmik  sent a shudder of fright through the searcher who had seen
-and felt so much of cosmic abomination just around the corner. 
+memory, nor yet as the authority had shewn it to him in the forbidden pages of _"Eliphas
+Levi"_; but its identity was unmistakable, and such words as Sabaoth, Metraton,
+Almousin, and Zariatnatmik sent a shudder of fright through the searcher who had seen
+and felt so much of cosmic abomination just around the corner.
 
- This was on the left-hand wall as one entered the room. The right-hand wall was no
+This was on the left-hand wall as one entered the room. The right-hand wall was no
 less thickly inscribed, and Willett felt a start of recognition as he came upon the pair of
 formulae so frequently occurring in the recent notes in the library. They were, roughly speaking,
-the same; with the ancient symbols of "Dragon's Head " and "Dragon's
-Tail " heading them as in Ward's scribblings. But the spelling differed quite widely
+the same; with the ancient symbols of _"Dragon's Head"_ and _"Dragon's
+Tail"_ heading them as in Ward's scribblings. But the spelling differed quite widely
 from that of the modern versions, as if old Curwen had had a different way of recording sound, or
 as if later study had evolved more powerful and perfected variants of the invocations in question.
 The doctor tried to reconcile the chiselled version with the one which still ran persistently in
-his head, and found it hard to do. Where the script he had memorised began  "Y'ai
-'ng'ngah, Yog-Sothoth",  this epigraph started out as  "Aye, engengah,
-Yogge-Sothotha ";  which to his mind would seriously interfere with the syllabification of
-the second word. 
+his head, and found it hard to do. Where the script he had memorised began _"Y'ai
+'ng'ngah, Yog-Sothoth"_, this epigraph started out as _"Aye, engengah,
+Yogge-Sothotha"_; which to his mind would seriously interfere with the syllabification of
+the second word.
 
- Ground as the later text was into his consciousness, the discrepancy disturbed
+Ground as the later text was into his consciousness, the discrepancy disturbed
 him; and he found himself chanting the first of the formulae aloud in an effort to square the sound
 he conceived with the letters he found carved. Weird and menacing in that abyss of antique
 blasphemy rang his voice; its accents keyed to a droning sing-song either through the spell of the
 past and the unknown, or through the hellish example of that dull, godless wail from the pits whose
 inhuman cadences rose and fell rhythmically in the distance through the stench and the
-darkness. 
+darkness.
 
-   "Y'AI 'NG'NGAH, 
- YOG-SOTHOTH  
-H'EE--L'GEB 
-F'AI THRODOG 
- UAAAH! "     
+> "Y'AI 'NG'NGAH,
+> YOG-SOTHOTH
+> H'EE--L'GEB
+> F'AI THRODOG
+> UAAAH! "
 
-  But what was this cold wind which had sprung into life at the very outset of the
+But what was this cold wind which had sprung into life at the very outset of the
 chant? The lamps were sputtering woefully, and the gloom grew so dense that the letters on the wall
 nearly faded from sight. There was smoke, too, and an acrid odour which quite drowned out the
 stench from the far-away wells; an odour like that he had smelt before, yet infinitely stronger and
 more pungent. He turned from the inscriptions to face the room with its bizarre contents, and saw
 that the kylix on the floor, in which the ominous efflorescent powder had lain, was giving forth a
 cloud of thick, greenish-black vapour of surprising volume and opacity. That powder--Great
-God! it had come from the shelf of  "Materia "--what was it doing now, and what had
+God! it had come from the shelf of _"Materia"_--what was it doing now, and what had
 started it? The formula he had been chanting--the first of the pair--Dragon's Head,
-  ascending node  --Blessed Saviour, could it be. . . .  
+ascending node --Blessed Saviour, could it be. . . .
 
-  The doctor reeled, and through his head raced wildly disjointed scraps from all he
-had seen, heard, and read of the frightful case of Joseph Curwen and Charles Dexter Ward.  "I
+The doctor reeled, and through his head raced wildly disjointed scraps from all he
+had seen, heard, and read of the frightful case of Joseph Curwen and Charles Dexter Ward. _"I
 say to you againe, doe not call up Any that you can not put downe. . . . Have y<font
-size=-2>  e     Wordes for laying at all times readie, and stopp not to be sure when
-there is any Doubte of   Whom   you have. . . . Three Talkes with   What was
-therein inhum'd.   . . . "   Mercy of Heaven, what is that shape
-behind the parting smoke?    
-
-    5.    
+size=-2> e Wordes for laying at all times readie, and stopp not to be sure when
+there is any Doubte of Whom you have. . . . Three Talkes with What was
+therein inhum'd. . . ."_  Mercy of Heaven, what is that shape
+behind the parting smoke?
 
 Marinus Bicknell Willett has no hope that any part of his tale will be believed
 except by certain sympathetic friends, hence he has made no attempt to tell it beyond his most
@@ -3289,11 +3242,11 @@ he not telephone the doctor in vain that evening, and again the next day, and ha
 the bungalow itself on that following noon, finding his friend unconscious but unharmed on one of
 the beds upstairs? Willett had been breathing stertorously, and opened his eyes slowly when Mr.
 Ward gave him some brandy fetched from the car. Then he shuddered and screamed, crying out,
-   "That beard . . . those eyes. . . . God, who are
-you? "   A very strange thing to say to a trim, blue-eyed, clean-shaven gentleman whom he
-had known from the latter's boyhood.  
+_"That beard . . . those eyes. . . . God, who are you?"_
+A very strange thing to say to a trim, blue-eyed, clean-shaven gentleman whom he
+had known from the latter's boyhood.
 
-  In the bright noon sunlight the bungalow was unchanged since the previous morning.
+In the bright noon sunlight the bungalow was unchanged since the previous morning.
 Willett's clothing bore no disarrangement beyond certain smudges and worn places at the
 knees, and only a faint acrid odour reminded Mr. Ward of what he had smelt on his son that day he
 was taken to the hospital. The doctor's flashlight was missing, but his valise was safely
@@ -3306,22 +3259,22 @@ Nothing yawned this time to sicken the mystified father who had followed the doc
 only the smooth concrete underneath the planks--no noisome well, no world of subterrene
 horrors, no secret library, no Curwen papers, no nightmare pits of stench and howling, no
 laboratory or shelves or chiselled formulae, no. . . . Dr. Willett turned pale, and
-clutched at the younger man.  "Yesterday, " he asked softly,  "did you see it
-here . . . and smell it? " And when Mr. Ward, himself transfixed with dread and
+clutched at the younger man. _"Yesterday"_, he asked softly, _"did you see it
+here . . . and smell it?"_ And when Mr. Ward, himself transfixed with dread and
 wonder, found strength to nod an affirmative, the physician gave a sound half a sigh and half a
-gasp, and nodded in turn.  "Then I will tell you, " he said.  
+gasp, and nodded in turn. _"Then I will tell you"_, he said.
 
-  So for an hour, in the sunniest room they could find upstairs, the physician
+So for an hour, in the sunniest room they could find upstairs, the physician
 whispered his frightful tale to the wondering father. There was nothing to relate beyond the
 looming up of that form when the greenish-black vapour from the kylix parted, and Willett was too
 tired to ask himself what had really occurred. There were futile, bewildered head-shakings from
-both men, and once Mr. Ward ventured a hushed suggestion,  "Do you suppose it would be of any
-use to dig? " The doctor was silent, for it seemed hardly fitting for any human brain to
+both men, and once Mr. Ward ventured a hushed suggestion, _"Do you suppose it would be of any
+use to dig?"_ The doctor was silent, for it seemed hardly fitting for any human brain to
 answer when powers of unknown spheres had so vitally encroached on this side of the Great Abyss.
-Again Mr. Ward asked,  "But where did it go? It brought you here, you know, and it sealed up
-the hole somehow. " And Willett again let silence answer for him.  
+Again Mr. Ward asked, _"But where did it go? It brought you here, you know, and it sealed up
+the hole somehow."_ And Willett again let silence answer for him.
 
-  But after all, this was not the final phase of the matter. Reaching for his
+But after all, this was not the final phase of the matter. Reaching for his
 handkerchief before rising to leave, Dr. Willett's fingers closed upon a piece of paper in
 his pocket which had not been there before, and which was companioned by the candles and matches he
 had seized in the vanished vault. It was a common sheet, torn obviously from the cheap pad in that
@@ -3333,48 +3286,46 @@ but the laboured strokes of mediaeval darkness, scarcely legible to the laymen w
 over it, yet having combinations of symbols which seemed vaguely familiar. The briefly scrawled
 message was this, and its mystery lent purpose to the shaken pair, who forthwith walked steadily
 out to the Ward car and gave orders to be driven first to a quiet dining place and then to the John
-Hay Library on the hill.  
+Hay Library on the hill.
 
-          
-
-  At the library it was easy to find good manuals of palaeography, and over these
+At the library it was easy to find good manuals of palaeography, and over these
 the two men puzzled till the lights of evening shone out from the great chandelier. In the end they
 found what was needed. The letters were indeed no fantastic invention, but the normal script of a
 very dark period. They were the pointed Saxon minuscules of the eighth or ninth century A.D., and
 brought with them memories of an uncouth time when under a fresh Christian veneer ancient faiths
 and ancient rites stirred stealthily, and the pale moon of Britain looked sometimes on strange
 deeds in the Roman ruins of Caerleon and Hexham, and by the towers along Hadrian's crumbling
-wall. The words were in such Latin as a barbarous age might remember--   "Corvinus
+wall. The words were in such Latin as a barbarous age might remember--  _"Corvinus
 necandus est. Cadaver aq(ua) forti dissolvendum, nec aliq(ui)d retinendum. Tace ut
-potes. "  --which may roughly be translated,  "Curwen must be killed. The body
+potes."_ --which may roughly be translated, _"Curwen must be killed. The body
 must be dissolved in aqua fortis, nor must anything be retained. Keep silence as best you are
-able. "  
+able."_
 
-  Willett and Mr. Ward were mute and baffled. They had met the unknown, and found
+Willett and Mr. Ward were mute and baffled. They had met the unknown, and found
 that they lacked emotions to respond to it as they vaguely believed they ought. With Willett,
 especially, the capacity for receiving fresh impressions of awe was well-nigh exhausted; and both
 men sat still and helpless till the closing of the library forced them to leave. Then they drove
 listlessly to the Ward mansion in Prospect Street, and talked to no purpose into the night. The
 doctor rested toward morning, but did not go home. And he was still there Sunday noon when a
-telephone message came from the detectives who had been assigned to look up Dr. Allen.  
+telephone message came from the detectives who had been assigned to look up Dr. Allen.
 
-  Mr. Ward, who was pacing nervously about in a dressing-gown, answered the call in
+Mr. Ward, who was pacing nervously about in a dressing-gown, answered the call in
 person; and told the men to come up early the next day when he heard their report was almost ready.
 Both Willett and he were glad that this phase of the matter was taking form, for whatever the
-origin of the strange minuscule message, it seemed certain that the  "Curwen " who must
+origin of the strange minuscule message, it seemed certain that the _"Curwen"_ who must
 be destroyed could be no other than the bearded and spectacled stranger. Charles had feared this
 man, and had said in the frantic note that he must be killed and dissolved in acid. Allen,
 moreover, had been receiving letters from the strange wizards in Europe under the name of Curwen,
 and palpably regarded himself as an avatar of the bygone necromancer. And now from a fresh and
-unknown source had come a message saying that  "Curwen " must be killed and dissolved in
+unknown source had come a message saying that _"Curwen"_ must be killed and dissolved in
 acid. The linkage was too unmistakable to be factitious; and besides, was not Allen planning to
 murder young Ward upon the advice of the creature called Hutchinson? Of course, the letter they had
 seen had never reached the bearded stranger; but from its text they could see that Allen had
-already formed plans for dealing with the youth if he grew too "squeamish'. Without
+already formed plans for dealing with the youth if he grew too 'squeamish'. Without
 doubt, Allen must be apprehended; and even if the most drastic directions were not carried out, he
-must be placed where he could inflict no harm upon Charles Ward.  
+must be placed where he could inflict no harm upon Charles Ward.
 
-  That afternoon, hoping against hope to extract some gleam of information anent the
+That afternoon, hoping against hope to extract some gleam of information anent the
 inmost mysteries from the only available one capable of giving it, the father and the doctor went
 down the bay and called on young Charles at the hospital. Simply and gravely Willett told him all
 he had found, and noticed how pale he turned as each description made certain the truth of the
@@ -3385,14 +3336,14 @@ things were starving. He taxed the youth with shocking inhumanity, and shivered 
 sardonic laugh came in reply. For Charles, having dropped as useless his pretence that the crypt
 did not exist, seemed to see some ghastly jest in this affair; and chuckled hoarsely at something
 which amused him. Then he whispered, in accents doubly terrible because of the cracked voice he
-used,  "Damn 'em, they   do   eat, but they   don't need to!   That's
+used, _"Damn 'em, they do eat, but they don't need to!  That's
 the rare part! A month, you say, without food? Lud, Sir, you be modest! D'ye know, that was
 the joke on poor old Whipple with his virtuous bluster! Kill everything off, would he? Why, damme,
 he was half-deaf with the noise from Outside and never saw or heard aught from the wells! He never
-dreamed they were there at all! Devil take ye,   those cursed things have been howling down there
-ever since Curwen was done for a hundred and fifty-seven years gone! "    
+dreamed they were there at all! Devil take ye, those cursed things have been howling down there
+ever since Curwen was done for a hundred and fifty-seven years gone!"_
 
-  But no more than this could Willett get from the youth. Horrified, yet almost
+But no more than this could Willett get from the youth. Horrified, yet almost
 convinced against his will, he went on with his tale in the hope that some incident might startle
 his auditor out of the mad composure he maintained. Looking at the youth's face, the doctor
 could not but feel a kind of terror at the changes which recent months had wrought. Truly, the boy
@@ -3400,23 +3351,23 @@ had drawn down nameless horrors from the skies. When the room with the formulae 
 dust was mentioned, Charles shewed his first sign of animation. A quizzical look overspread his
 face as he heard what Willett had read on the pad, and he ventured the mild statement that those
 notes were old ones, of no possible significance to anyone not deeply initiated in the history of
-magic.  "But, " he added,  "had you but known the words to bring up that which I had
+magic. _"But"_, he added, _"had you but known the words to bring up that which I had
 out in the cup, you had not been here to tell me this. 'Twas Number 118, and I conceive you
 would have shook had you looked it up in my list in t'other room. 'Twas never raised by
-me, but I meant to have it up that day you came to invite me hither. "  
+me, but I meant to have it up that day you came to invite me hither."_
 
-  Then Willett told of the formula he had spoken and of the greenish-black smoke
+Then Willett told of the formula he had spoken and of the greenish-black smoke
 which had arisen; and as he did so he saw true fear dawn for the first time on Charles Ward's
-face.  "It   came,   and you be here alive? " As Ward croaked the words his voice
+face. _"It came, and you be here alive?"_ As Ward croaked the words his voice
 seemed almost to burst free of its trammels and sink to cavernous abysses of uncanny resonance.
 Willett, gifted with a flash of inspiration, believed he saw the situation, and wove into his reply
-a caution from a letter he remembered.  "No. 118, you say? But don't forget that
-  stones are all changed now in nine grounds out of ten. You are never sure till you
-question! "   And then, without warning, he drew forth the minuscule message and flashed it
+a caution from a letter he remembered. _"No. 118, you say? But don't forget that
+stones are all changed now in nine grounds out of ten. You are never sure till you
+question!"_  And then, without warning, he drew forth the minuscule message and flashed it
 before the patient's eyes. He could have wished no stronger result, for Charles Ward fainted
-forthwith.  
+forthwith.
 
-  All this conversation, of course, had been conducted with the greatest secrecy
+All this conversation, of course, had been conducted with the greatest secrecy
 lest the resident alienists accuse the father and the physician of encouraging a madman in his
 delusions. Unaided, too, Dr. Willett and Mr. Ward picked up the stricken youth and placed him on
 the couch. In reviving, the patient mumbled many times of some word which he must get to Orne and
@@ -3429,9 +3380,9 @@ Allen, to which the youth only replied that this individual was very safely take
 could do no one any harm even if he wished. This was said with an almost evil chuckle very painful
 to hear. They did not worry about any communications Charles might indite to that monstrous pair in
 Europe, since they knew that the hospital authorities seized all outgoing mail for censorship and
-would pass no wild or outré-looking missive.  
+would pass no wild or outré-looking missive.
 
-  There is, however, a curious sequel to the matter of Orne and Hutchinson, if such
+There is, however, a curious sequel to the matter of Orne and Hutchinson, if such
 indeed the exiled wizards were. Moved by some vague presentiment amidst the horrors of that period,
 Willett arranged with an international press-cutting bureau for accounts of notable current crimes
 and accidents in Prague and in eastern Transylvania; and after six months believed that he had
@@ -3445,9 +3396,7 @@ Bucharest for serious questioning had not this incident cut off a career already
 antedate all common memory. Willett maintains that the hand which wrote those minuscules was able
 to wield stronger weapons as well; and that while Curwen was left to him to dispose of, the writer
 felt able to find and deal with Orne and Hutchinson itself. Of what their fate may have been the
-doctor strives sedulously not to think.  
-
-    6.    
+doctor strives sedulously not to think.
 
 The following morning Dr. Willett hastened to the Ward home to be present when the
 detectives arrived. Allen's destruction or imprisonment--or Curwen's, if one might
@@ -3455,9 +3404,9 @@ regard the tacit claim to reincarnation as valid--he felt must be accomplished a
 and he communicated this conviction to Mr. Ward as they sat waiting for the men to come. They were
 downstairs this time, for the upper parts of the house were beginning to be shunned because of a
 peculiar nauseousness which hung indefinitely about; a nauseousness which the older servants
-connected with some curse left by the vanished Curwen portrait.  
+connected with some curse left by the vanished Curwen portrait.
 
-  At nine o'clock the three detectives presented themselves and immediately
+At nine o'clock the three detectives presented themselves and immediately
 delivered all that they had to say. They had not, regrettably enough, located the Brava Tony Gomes
 as they had wished, nor had they found the least trace of Dr. Allen's source or present
 whereabouts; but they had managed to unearth a considerable number of local impressions and facts
@@ -3479,13 +3428,13 @@ some slight scar above his dark spectacled right eye. As for the detectives' sea
 Allen's room, it yielded nothing definite save the beard and glasses, and several pencilled
 notes in a crabbed writing which Willett at once saw was identical with that shared by the old
 Curwen manuscripts and by the voluminous recent notes of young Ward found in the vanished catacombs
-of horror.  
+of horror.
 
-  Dr. Willett and Mr. Ward caught something of a profound, subtle, and insidious
+Dr. Willett and Mr. Ward caught something of a profound, subtle, and insidious
 cosmic fear from this data as it was gradually unfolded, and almost trembled in following up the
 vague, mad thought which had simultaneously reached their minds. The false beard and
-glasses--the crabbed Curwen penmanship--the old portrait and its tiny scar--  and
-the altered youth in the hospital with such a scar  --that deep, hollow voice on the
+glasses--the crabbed Curwen penmanship--the old portrait and its tiny scar-- and
+the altered youth in the hospital with such a scar --that deep, hollow voice on the
 telephone--was it not of this that Mr. Ward was reminded when his son barked forth those
 pitiable tones to which he now claimed to be reduced? Who had ever seen Charles and Allen together?
 Yes, the officials had once, but who later on? Was it not when Allen left that Charles suddenly
@@ -3497,32 +3446,32 @@ Charles copy Joseph Curwen's handwriting, even when alone and off guard? And the
 frightful work of those people--the lost crypt of horrors that had aged the doctor overnight;
 the starved monsters in the noisome pits; the awful formula which had yielded such nameless
 results; the message in minuscules found in Willett's pocket; the papers and the letters and
-all the talk of graves and  "salts " and discoveries--whither did everything lead?
+all the talk of graves and _"salts"_ and discoveries--whither did everything lead?
 In the end Mr. Ward did the most sensible thing. Steeling himself against any realisation of why he
 did it, he gave the detectives an article to be shewn to such Pawtuxet shopkeepers as had seen the
 portentous Dr. Allen. That article was a photograph of his luckless son, on which he now carefully
 drew in ink the pair of heavy glasses and the black pointed beard which the men had brought from
-Allen's room.  
+Allen's room.
 
-  For two hours he waited with the doctor in the oppressive house where fear and
+For two hours he waited with the doctor in the oppressive house where fear and
 miasma were slowly gathering as the empty panel in the upstairs library leered and leered and
-leered. Then the men returned. Yes.   The altered photograph was a very passable likeness of Dr.
-Allen.   Mr. Ward turned pale, and Willett wiped a suddenly dampened brow with his handkerchief.
+leered. Then the men returned. Yes. The altered photograph was a very passable likeness of Dr.
+Allen. Mr. Ward turned pale, and Willett wiped a suddenly dampened brow with his handkerchief.
 Allen--Ward--Curwen--it was becoming too hideous for coherent thought. What had the
 boy called out of the void, and what had it done to him? What, really, had happened from first to
-last? Who was this Allen who sought to kill Charles as too "squeamish', and why had his
+last? Who was this Allen who sought to kill Charles as too 'squeamish', and why had his
 destined victim said in the postscript to that frantic letter that he must be so completely
 obliterated in acid? Why, too, had the minuscule message, of whose origin no one dared think, said
-that  "Curwen " must be likewise obliterated? What was the   change,   and when had
+that _"Curwen"_ must be likewise obliterated? What was the change, and when had
 the final stage occurred? That day when his frantic note was received--he had been nervous all
 the morning, then there was an alteration. He had slipped out unseen and swaggered boldly in past
 the men hired to guard him. That was the time, when he was out. But no--had he not cried out
 in terror as he entered his study--this very room? What had he found there? Or
-wait--  what had found him?   That simulacrum which brushed boldly in without having been
+wait-- what had found him? That simulacrum which brushed boldly in without having been
 seen to go--was that an alien shadow and a horror forcing itself upon a trembling figure which
-had never gone out at all? Had not the butler spoken of queer noises?  
+had never gone out at all? Had not the butler spoken of queer noises?
 
-  Willett rang for the man and asked him some low-toned questions. It had, surely
+Willett rang for the man and asked him some low-toned questions. It had, surely
 enough, been a bad business. There had been noises--a cry, a gasp, a choking, and a sort of
 clattering or creaking or thumping, or all of these. And Mr. Charles was not the same when he
 stalked out without a word. The butler shivered as he spoke, and sniffed at the heavy air that blew
@@ -3531,9 +3480,9 @@ business-like detectives failed to imbibe a full measure of it. Even they were r
 case had held vague elements in the background which pleased them not at all. Dr. Willett was
 thinking deeply and rapidly, and his thoughts were terrible ones. Now and then he would almost
 break into muttering as he ran over in his head a new, appalling, and increasingly conclusive chain
-of nightmare happenings.  
+of nightmare happenings.
 
-  Then Mr. Ward made a sign that the conference was over, and everyone save him and
+Then Mr. Ward made a sign that the conference was over, and everyone save him and
 the doctor left the room. It was noon now, but shadows as of coming night seemed to engulf the
 phantom-haunted mansion. Willett began talking very seriously to his host, and urged that he leave
 a great deal of the future investigation to him. There would be, he predicted, certain obnoxious
@@ -3541,9 +3490,9 @@ elements which a friend could bear better than a relative. As family physician h
 hand, and the first thing he required was a period alone and undisturbed in the abandoned library
 upstairs, where the ancient overmantel had gathered about itself an aura of noisome horror more
 intense than when Joseph Curwen's features themselves glanced slyly down from the painted
-panel.  
+panel.
 
-  Mr. Ward, dazed by the flood of grotesque morbidities and unthinkably maddening
+Mr. Ward, dazed by the flood of grotesque morbidities and unthinkably maddening
 suggestions that poured in upon him from every side, could only acquiesce; and half an hour later
 the doctor was locked in the shunned room with the panelling from Olney Court. The father,
 listening outside, heard fumbling sounds of moving and rummaging as the moments passed; and finally
@@ -3555,9 +3504,9 @@ had little practical use. Longing yet not daring to ask questions, Mr. Ward gave
 orders and a man brought some stout pine logs, shuddering as he entered the tainted air of the
 library to place them in the grate. Willett meanwhile had gone up to the dismantled laboratory and
 brought down a few odds and ends not included in the moving of the July before. They were in a
-covered basket, and Mr. Ward never saw what they were.  
+covered basket, and Mr. Ward never saw what they were.
 
-  Then the doctor locked himself in the library once more, and by the clouds of
+Then the doctor locked himself in the library once more, and by the clouds of
 smoke which rolled down past the windows from the chimney it was known that he had lighted the
 fire. Later, after a great rustling of newspapers, that odd wrench and creaking were heard again;
 followed by a thumping which none of the eavesdroppers liked. Thereafter two suppressed cries of
@@ -3574,20 +3523,19 @@ mix with a queer new smell of disinfectants. The ancient overmantel still linger
 robbed of malignity now, and rose as calm and stately in its white panelling as if it had never
 borne the picture of Joseph Curwen. Night was coming on, yet this time its shadows held no latent
 fright, but only a gentle melancholy. Of what he had done the doctor would never speak. To Mr. Ward
-he said,  "I can answer no questions, but I will say that there are different kinds of magic.
-I have made a great purgation, and those in this house will sleep the better for it. "  
+he said, _"I can answer no questions, but I will say that there are different kinds of magic.
+I have made a great purgation, and those in this house will sleep the better for it."_
 
-    7.    
-
-That Dr. Willett's  "purgation " had been an ordeal almost as
+That Dr. Willett's _"purgation"_ had been an ordeal almost as
 nerve-racking in its way as his hideous wandering in the vanished crypt is shewn by the fact that
 the elderly physician gave out completely as soon as he reached home that evening. For three days
 he rested constantly in his room, though servants later muttered something about having heard him
 after midnight on Wednesday, when the outer door softly opened and closed with phenomenal softness.
 Servants' imaginations, fortunately, are limited, else comment might have been excited by an
-item in Thursday's   Evening Bulletin   which ran as follows:  
+item in Thursday's Evening Bulletin which ran as follows:
 
-    North End Ghouls  Active Again    
+{aside}
+**North End Ghouls Active Again**
 
 After a lull of ten months since the dastardly vandalism in the Weeden lot at the North Burial
 Ground, a nocturnal prowler was glimpsed early this morning in the same cemetery by Robert Hart,
@@ -3596,42 +3544,44 @@ observed the glow of a lantern or pocket torch not far to the northwest, and upo
 detected the figure of a man with a trowel very plainly silhouetted against a nearby electric
 light. At once starting in pursuit, he saw the figure dart hurriedly toward the main entrance,
 gaining the street and losing himself among the shadows before approach or capture was
-possible.  
+possible.
 
-  Like the first of the ghouls active during the past year, this intruder had done
+Like the first of the ghouls active during the past year, this intruder had done
 no real damage before detection. A vacant part of the Ward lot shewed signs of a little superficial
 digging, but nothing even nearly the size of a grave had been attempted, and no previous grave had
-been disturbed.  
+been disturbed.
 
-  Hart, who cannot describe the prowler except as a small man probably having a full
+Hart, who cannot describe the prowler except as a small man probably having a full
 beard, inclines to the view that all three of the digging incidents have a common source; but
 police from the Second Station think otherwise on account of the savage nature of the second
-incident, where an ancient coffin was removed and its headstone violently shattered.  
+incident, where an ancient coffin was removed and its headstone violently shattered.
 
-  The first of the incidents, in which it is thought an attempt to bury something
+The first of the incidents, in which it is thought an attempt to bury something
 was frustrated, occurred a year ago last March, and has been attributed to bootleggers seeking a
 cache. It is possible, says Sergt. Riley, that this third affair is of similar nature. Officers at
 the Second Station are taking especial pains to capture the gang of miscreants responsible for
-these repeated outrages.  
+these repeated outrages.
+{/aside}
 
-  All day Thursday Dr. Willett rested as if recuperating from something past or
+All day Thursday Dr. Willett rested as if recuperating from something past or
 nerving himself for something to come. In the evening he wrote a note to Mr. Ward, which was
 delivered the next morning and which caused the half-dazed parent to ponder long and deeply. Mr.
 Ward had not been able to go down to business since the shock of Monday with its baffling reports
-and its sinister  "purgation", but he found something calming about the doctor's
+and its sinister _"purgation"_, but he found something calming about the doctor's
 letter in spite of the despair it seemed to promise and the fresh mysteries it seemed to
-evoke.  
+evoke.
 
-     "10 Barnes St.,      
-Providence, R.I.,    
-April 12, 1928.  
+{aside}
+10 Barnes St.,   
+Providence, R.I.,  
+April 12, 1928.
 
- "Dear Theodore:--I feel that I must say a word to you before doing what I am going to do
+Dear Theodore:--I feel that I must say a word to you before doing what I am going to do
 tomorrow. It will conclude the terrible business we have been going through (for I feel that no
 spade is ever likely to reach that monstrous place we know of), but I'm afraid it won't
-set your mind at rest unless I expressly assure you how very conclusive it is.  
+set your mind at rest unless I expressly assure you how very conclusive it is.
 
-   "You have known me ever since you were a small boy, so I think you will not
+You have known me ever since you were a small boy, so I think you will not
 distrust me when I hint that some matters are best left undecided and unexplored. It is better that
 you attempt no further speculation as to Charles's case, and almost imperative that you tell
 his mother nothing more than she already suspects. When I call on you tomorrow Charles will have
@@ -3639,26 +3589,26 @@ escaped. That is all which need remain in anyone's mind. He was mad, and he esca
 tell his mother gently and gradually about the mad part when you stop sending the typed notes in
 his name. I'd advise you to join her in Atlantic City and take a rest yourself. God knows you
 need one after this shock, as I do myself. I am going South for a while to calm down and brace
-up.  
+up.
 
-   "So don't ask me any questions when I call. It may be that something
+So don't ask me any questions when I call. It may be that something
 will go wrong, but I'll tell you if it does. I don't think it will. There will be
 nothing more to worry about, for Charles will be very, very safe. He is now--safer than you
 dream. You need hold no fears about Allen, and who or what he is. He forms as much a part of the
 past as Joseph Curwen's picture, and when I ring your doorbell you may feel certain that
 there is no such person. And what wrote that minuscule message will never trouble you or
-yours.  
+yours.
 
-   "But you must steel yourself to melancholy, and prepare your wife to do the
+But you must steel yourself to melancholy, and prepare your wife to do the
 same. I must tell you frankly that Charles's escape will not mean his restoration to you. He
 has been afflicted with a peculiar disease, as you must realise from the subtle physical as well as
 mental changes in him, and you must not hope to see him again. Have only this
 consolation--that he was never a fiend or even truly a madman, but only an eager, studious,
 and curious boy whose love of mystery and of the past was his undoing. He stumbled on things no
 mortal ought ever to know, and reached back through the years as no one ever should reach; and
-something came out of those years to engulf him.  
+something came out of those years to engulf him.
 
-   "And now comes the matter in which I must ask you to trust me most of all.
+And now comes the matter in which I must ask you to trust me most of all.
 For there will be, indeed, no uncertainty about Charles's fate. In about a year, say, you can
 if you wish devise a suitable account of the end; for the boy will be no more. You can put up a
 stone in your lot at the North Burial Ground exactly ten feet west of your father's and
@@ -3667,19 +3617,20 @@ it will mark any abnormality or changeling. The ashes in that grave will be thos
 unaltered bone and sinew--of the real Charles Dexter Ward whose mind you watched from
 infancy--the real Charles with the olive-mark on his hip and without the black witch-mark on
 his chest or the pit on his forehead. The Charles who never did actual evil, and who will have paid
-with his life for his "squeamishness'.  
+with his life for his 'squeamishness'.
 
-   "That is all. Charles will have escaped, and a year from now you can put up
+That is all. Charles will have escaped, and a year from now you can put up
 his stone. Do not question me tomorrow. And believe that the honour of your ancient family remains
-untainted now, as it has been at all times in the past.  
+untainted now, as it has been at all times in the past.
 
-   "With profoundest sympathy, and exhortations to fortitude, calmness, and
-resignation, I am ever  
+With profoundest sympathy, and exhortations to fortitude, calmness, and
+resignation, I am ever
 
-  Sincerely your friend,    
-Marinus B. Willett "    
+Sincerely your friend,  
+Marinus B. Willett
+{/aside}
 
-  So on the morning of Friday, April 13, 1928, Marinus Bicknell Willett visited the
+So on the morning of Friday, April 13, 1928, Marinus Bicknell Willett visited the
 room of Charles Dexter Ward at Dr. Waite's private hospital on Conanicut Island. The youth,
 though making no attempt to evade his caller, was in a sullen mood; and seemed disinclined to open
 the conversation which Willett obviously desired. The doctor's discovery of the crypt and his
@@ -3688,69 +3639,68 @@ hesitated perceptibly after the interchange of a few strained formalities. Then 
 constraint crept in, as Ward seemed to read behind the doctor's mask-like face a terrible
 purpose which had never been there before. The patient quailed, conscious that since the last visit
 there had been a change whereby the solicitous family physician had given place to the ruthless and
-implacable avenger.  
+implacable avenger.
 
-  Ward actually turned pale, and the doctor was the first to speak.
- "More, " he said,  "has been found out, and I must warn you fairly that a reckoning
-is due. "  
+Ward actually turned pale, and the doctor was the first to speak.
+_"More"_, he said, _"has been found out, and I must warn you fairly that a reckoning
+is due."_
 
-   "Digging again, and coming upon more poor starving pets? " was the
-ironic reply. It was evident that the youth meant to shew bravado to the last.  
+_"Digging again, and coming upon more poor starving pets?"_ was the
+ironic reply. It was evident that the youth meant to shew bravado to the last.
 
-   "No, " Willett slowly rejoined,  "this time I did not have to dig.
+_"No"_, Willett slowly rejoined, _"this time I did not have to dig.
 We have had men looking up Dr. Allen, and they found the false beard and spectacles in the
-bungalow. "  
+bungalow."_
 
-   "Excellent, " commented the disquieted host in an effort to be wittily
-insulting,  "and I trust they proved more becoming than the beard and glasses you now have
-on! "  
+_"Excellent"_, commented the disquieted host in an effort to be wittily
+insulting, _"and I trust they proved more becoming than the beard and glasses you now have
+on!"_
 
-   "They would become you very well, " came the even and studied response,
-   "as indeed they seem to have done. "    
+_"They would become you very well"_, came the even and studied response, _"as indeed they seem to have done."_
 
-  As Willett said this, it almost seemed as though a cloud passed over the sun;
-though there was no change in the shadows on the floor. Then Ward ventured:  
+As Willett said this, it almost seemed as though a cloud passed over the sun;
+though there was no change in the shadows on the floor. Then Ward ventured:
 
-   "And is this what asks so hotly for a reckoning? Suppose a man does find it
-now and then useful to be twofold? "  
+_"And is this what asks so hotly for a reckoning? Suppose a man does find it
+now and then useful to be twofold?"_
 
-   "No, " said Willett gravely,  "again you are wrong. It is no
-business of mine if any man seeks duality;   provided he has any right to exist at all, and
-provided he does not destroy what called him out of space. "    
+_"No"_, said Willett gravely, _"again you are wrong. It is no
+business of mine if any man seeks duality; provided he has any right to exist at all, and
+provided he does not destroy what called him out of space."_
 
-  Ward now started violently.  "Well, Sir, what   have   ye found, and what
-d'ye want with me? "  
+Ward now started violently. _"Well, Sir, what have ye found, and what
+d'ye want with me?"_
 
-  The doctor let a little time elapse before replying, as if choosing his words for
-an effective answer.  
+The doctor let a little time elapse before replying, as if choosing his words for
+an effective answer.
 
-   "I have found, " he finally intoned,  "something in a cupboard
+_"I have found"_, he finally intoned, _"something in a cupboard
 behind an ancient overmantel where a picture once was, and I have burned it and buried the ashes
-where the grave of Charles Dexter Ward ought to be. "  
+where the grave of Charles Dexter Ward ought to be."_
 
-  The madman choked and sprang from the chair in which he had been sitting:  
+The madman choked and sprang from the chair in which he had been sitting:
 
-   "Damn ye, who did ye tell--and who'll believe it was he after
-these full two months, with me alive? What d'ye mean to do? "  
+_"Damn ye, who did ye tell--and who'll believe it was he after
+these full two months, with me alive? What d'ye mean to do?"_
 
-  Willett, though a small man, actually took on a kind of judicial majesty as he
-calmed the patient with a gesture.  
+Willett, though a small man, actually took on a kind of judicial majesty as he
+calmed the patient with a gesture.
 
-   "I have told no one. This is no common case--it is a madness out of
+_"I have told no one. This is no common case--it is a madness out of
 time and a horror from beyond the spheres which no police or lawyers or courts or alienists could
 ever fathom or grapple with. Thank God some chance has left inside me the spark of imagination,
-that I might not go astray in thinking out this thing.   You cannot deceive me, Joseph Curwen, for
-I know that your accursed magic is true!    
+that I might not go astray in thinking out this thing. You cannot deceive me, Joseph Curwen, for
+I know that your accursed magic is true!_
 
-   "I know how you wove the spell that brooded outside the years and fastened
+_"I know how you wove the spell that brooded outside the years and fastened
 on your double and descendant; I know how you drew him into the past and got him to raise you up
 from your detestable grave; I know how he kept you hidden in his laboratory while you studied
 modern things and roved abroad as a vampire by night, and how you later shewed yourself in beard
 and glasses that no one might wonder at your godless likeness to him; I know what you resolved to
-do when he balked at your monstrous rifling of the world's tombs,   and at what you planned
-afterward,   and I know how you did it.  
+do when he balked at your monstrous rifling of the world's tombs, and at what you planned
+afterward, and I know how you did it._
 
-   "You left off your beard and glasses and fooled the guards around the house.
+_"You left off your beard and glasses and fooled the guards around the house.
 They thought it was he who went in, and they thought it was he who came out when you had strangled
 and hidden him. But you hadn't reckoned on the different contents of two minds. You were a
 fool, Curwen, to fancy that a mere visual identity would be enough. Why didn't you think of
@@ -3758,46 +3708,43 @@ the speech and the voice and the handwriting? It hasn't worked, you see, after a
 better than I who or what wrote that message in minuscules, but I will warn you it was not written
 in vain. There are abominations and blasphemies which must be stamped out, and I believe that the
 writer of those words will attend to Orne and Hutchinson. One of those creatures wrote you once,
-"do not call up any that you can not put down'. You were undone once before, perhaps in
+'do not call up any that you can not put down'. You were undone once before, perhaps in
 that very way, and it may be that your own evil magic will undo you all again. Curwen, a man
 can't tamper with Nature beyond certain limits, and every horror you have woven will rise up
-to wipe you out. "  
+to wipe you out."_
 
-  But here the doctor was cut short by a convulsive cry from the creature before
+But here the doctor was cut short by a convulsive cry from the creature before
 him. Hopelessly at bay, weaponless, and knowing that any show of physical violence would bring a
 score of attendants to the doctor's rescue, Joseph Curwen had recourse to his one ancient
 ally, and began a series of cabbalistic motions with his forefingers as his deep, hollow voice, now
-unconcealed by feigned hoarseness, bellowed out the opening words of a terrible formula.  
+unconcealed by feigned hoarseness, bellowed out the opening words of a terrible formula.
 
-   "PER ADONAI ELOIM, ADONAI JEHOVA, ADONAI SABAOTH,
-METRATON. . . . "  
+> "PER ADONAI ELOIM, ADONAI JEHOVA, ADONAI SABAOTH, METRATON. . . . "
 
-  But Willett was too quick for him. Even as the dogs in the yard outside began to
+But Willett was too quick for him. Even as the dogs in the yard outside began to
 howl, and even as a chill wind sprang suddenly up from the bay, the doctor commenced the solemn and
 measured intonation of that which he had meant all along to recite. An eye for an eye--magic
 for magic--let the outcome shew how well the lesson of the abyss had been learned! So in a
-clear voice Marinus Bicknell Willett began the   second   of that pair of formulae whose first
+clear voice Marinus Bicknell Willett began the second of that pair of formulae whose first
 had raised the writer of those minuscules--the cryptic invocation whose heading was the
-Dragon's Tail, sign of the   descending node  --  
+Dragon's Tail, sign of the descending node --
 
-     "OGTHROD AI'F  
-GEB'L--EE'H  
-  YOG-SOTHOTH    
-"NGAH'NG AI'Y  
-  ZHRO! "      
+> OGTHROD AI'F
+> GEB'L--EE'H
+> YOG-SOTHOTH  
+> NGAH'NG AI'Y
+> ZHRO!
 
-  At the very first word from Willett's mouth the previously commenced formula
+At the very first word from Willett's mouth the previously commenced formula
 of the patient stopped short. Unable to speak, the monster made wild motions with his arms until
-they too were arrested. When the awful name of   Yog-Sothoth   was uttered, the hideous change
-began. It was not merely a   dissolution,   but rather a   transformation   or
-  recapitulation;   and Willett shut his eyes lest he faint before the rest of the incantation
-could be pronounced.  
+they too were arrested. When the awful name of Yog-Sothoth was uttered, the hideous change
+began. It was not merely a dissolution, but rather a transformation or
+recapitulation; and Willett shut his eyes lest he faint before the rest of the incantation
+could be pronounced.
 
-  But he did not faint, and that man of unholy centuries and forbidden secrets never
+But he did not faint, and that man of unholy centuries and forbidden secrets never
 troubled the world again. The madness out of time had subsided, and the case of Charles Dexter Ward
 was closed. Opening his eyes before staggering out of that room of horror, Dr. Willett saw that
 what he had kept in memory had not been kept amiss. There had, as he had predicted, been no need
 for acids. For like his accursed picture a year before, Joseph Curwen now lay scattered on the
-floor as a thin coating of fine bluish-grey dust.  
-
-  
+floor as a thin coating of fine bluish-grey dust. 
