@@ -39,7 +39,7 @@ Lovecraft's universe.
 | The Doom That Came to Sarnath       |   1919    | The rise and fall of the ancient city of Sarnath, destroyed by the wrath of the forgotten gods of Ib.                                                  |
 | The White Ship                      |   1919    | A story of a lighthouse keeper who embarks on a journey through fantastical lands aboard a mysterious white ship.                                      |
 | The Cats of Ulthar                  |   1920    | A short tale about a village where no man may kill a cat, after a supernatural event involving the town's felines and a dark revenge.                  |
-| Celephaïs                           |   1920    | The story of Kuranes, a man who escapes his mundane life by dreaming of the city of Celephaïs, where he ultimately finds eternal peace.                |
+| Celephaîs                           |   1920    | The story of Kuranes, a man who escapes his mundane life by dreaming of the city of Celephaîs, where he ultimately finds eternal peace.                |
 | Ex Oblivione                        | 1920-1921 | A brief story about a man who seeks the ultimate escape from reality through a mysterious gate in his dreams.                                          |
 | The Quest of Iranon                 |   1921    | The tale of Iranon, a wandering singer searching for his lost home of Aira.                                                                            |
 | The Other Gods                      |   1921    | The story of Barzai the Wise, who attempts to ascend a mountain to see the gods of Earth but encounters the Other Gods instead.                        |

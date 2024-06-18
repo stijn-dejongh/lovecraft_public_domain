@@ -30,6 +30,11 @@ shadow-out-of-time.md
 mountains_of_madness.md
 the_history_of_necronomicon.md
 dream_lands.md
+polaris.md
+the_doom_that_came_to_sarnath.md
+the_white_ship.md
+cats_of_ulthar.md
+celephais.md
 unknown_kadath.md
 lovecraft_extended_mythos.md
 ashes.md

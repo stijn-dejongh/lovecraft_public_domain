@@ -1,9 +1,4 @@
-% "Celephais" 
-% H. P. Lovecraft
-
-    
-
- 
+# Celephaîs
 
 In a dream Kuranes saw the city in the valley, and the sea-coast beyond, and the snowy peak
 overlooking the sea, and the gaily painted galleys that sail out of the harbour toward the distant
@@ -19,9 +14,9 @@ try to describe them on paper. Kuranes was not modern, and did not think like ot
 Whilst they strove to strip from life its embroidered robes of myth, and to shew in naked ugliness
 the foul thing that is reality, Kuranes sought for beauty alone. When truth and experience failed
 to reveal it, he sought it in fancy and illusion, and found it on his very doorstep, amid the
-nebulous memories of childhood tales and dreams. 
+nebulous memories of childhood tales and dreams.
 
- There are not many persons who know what wonders are opened to them in the
+There are not many persons who know what wonders are opened to them in the
 stories and visions of their youth; for when as children we listen and dream, we think but half-formed
 thoughts, and when as men we try to remember, we are dulled and prosaic with the poison of life.
 But some of us awake in the night with strange phantasms of enchanted hills and gardens, of
@@ -29,9 +24,9 @@ fountains that sing in the sun, of golden cliffs overhanging murmuring seas, of 
 stretch down to sleeping cities of bronze and stone, and of shadowy companies of heroes that
 ride caparisoned white horses along the edges of thick forests; and then we know that we have
 looked back through the ivory gates into that world of wonder which was ours before we were
-wise and unhappy. 
+wise and unhappy.
 
- Kuranes came very suddenly upon his old world of childhood. He had been dreaming
+Kuranes came very suddenly upon his old world of childhood. He had been dreaming
 of the house where he was born; the great stone house covered with ivy, where thirteen generations
 of his ancestors had lived, and where he had hoped to die. It was moonlight, and he had stolen
 out into the fragrant summer night, through the gardens, down the terraces, past the great oaks
@@ -50,27 +45,27 @@ past dark, shapeless, undreamed dreams, faintly glowing spheres that may have be
 dreams, and laughing winged things that seemed to mock the dreamers of all the worlds. Then
 a rift seemed to open in the darkness before him, and he saw the city of the valley, glistening
 radiantly far, far below, with a background of sea and sky, and a snow-capped mountain near
-the shore. 
+the shore.
 
- Kuranes had awaked the very moment he beheld the city, yet he knew from his
-brief glance that it was none other than Celepha&iuml;s, in the Valley of Ooth-Nargai beyond
+Kuranes had awaked the very moment he beheld the city, yet he knew from his
+brief glance that it was none other than Celephaîs, in the Valley of Ooth-Nargai beyond
 the Tanarian Hills, where his spirit had dwelt all the eternity of an hour one summer afternoon
 very long ago, when he had slipt away from his nurse and let the warm sea-breeze lull him to
 sleep as he watched the clouds from the cliff near the village. He had protested then, when
 they had found him, waked him, and carried him home, for just as he was aroused he had been
 about to sail in a golden galley for those alluring regions where the sea meets the sky. And
 now he was equally resentful of awaking, for he had found his fabulous city after forty weary
-years. 
+years.
 
- But three nights afterward Kuranes came again to Celepha&iuml;s. As before,
+But three nights afterward Kuranes came again to Celephaîs. As before,
 he dreamed first of the village that was asleep or dead, and of the abyss down which one must
 float silently; then the rift appeared again, and he beheld the glittering minarets of the city,
 and saw the graceful galleys riding at anchor in the blue harbour, and watched the gingko trees
 of Mount Aran swaying in the sea-breeze. But this time he was not snatched away, and like a
 winged being settled gradually over a grassy hillside till finally his feet rested gently on
-the turf. He had indeed come back to the Valley of Ooth-Nargai and the splendid city of Celepha&iuml;s. 
+the turf. He had indeed come back to the Valley of Ooth-Nargai and the splendid city of Celephaîs.
 
- Down the hill amid scented grasses and brilliant flowers walked Kuranes, over
+Down the hill amid scented grasses and brilliant flowers walked Kuranes, over
 the bubbling Naraxa on the small wooden bridge where he had carved his name so many years ago,
 and through the whispering grove to the great stone bridge by the city gate. All was as of old,
 nor were the marble walls discoloured, nor the polished bronze statues upon them tarnished.
@@ -84,9 +79,9 @@ the traders and sailors, and strange men from the regions where the sea meets th
 he stayed long, gazing out over the bright harbour where the ripples sparkled beneath an unknown
 sun, and where rode lightly the galleys from far places over the water. And he gazed also upon
 Mount Aran rising regally from the shore, its lower slopes green with swaying trees and its
-white summit touching the sky. 
+white summit touching the sky.
 
- More than ever Kuranes wished to sail in a galley to the far places of which
+More than ever Kuranes wished to sail in a galley to the far places of which
 he had heard so many strange tales, and he sought again the captain who had agreed to carry
 him so long ago. He found the man, Athib, sitting on the same chest of spices he had sat upon
 before, and Athib seemed not to realise that any time had passed. Then the two rowed to a galley
@@ -99,9 +94,9 @@ indolently in the sunshine which seemed never to lessen or disappear. At length 
 that their journey was near its end, and that they would soon enter the harbour of Serannian,
 the pink marble city of the clouds, which is built on that ethereal coast where the west wind
 flows into the sky; but as the highest of the city's carven towers came into sight there
-was a sound somewhere in space, and Kuranes awaked in his London garret. 
+was a sound somewhere in space, and Kuranes awaked in his London garret.
 
- For many months after that Kuranes sought the marvellous city of Celepha&iuml;s
+For many months after that Kuranes sought the marvellous city of Celephaîs
 and its sky-bound galleys in vain; and though his dreams carried him to many gorgeous and unheard-of
 places, no one whom he met could tell him how to find Ooth-Nargai, beyond the Tanarian Hills.
 One night he went flying over dark mountains where there were faint, lone campfires at great
@@ -112,7 +107,7 @@ to have risen by human hands, and of such a length that neither end of it could 
 that wall in the grey dawn he came to a land of quaint gardens and cherry trees, and when the
 sun rose he beheld such beauty of red and white flowers, green foliage and lawns, white paths,
 diamond brooks, blue lakelets, carven bridges, and red-roofed pagodas, that he for a moment
-forgot Celepha&iuml;s in sheer delight. But he remembered it again when he walked down a white
+forgot Celephaîs in sheer delight. But he remembered it again when he walked down a white
 path toward a red-roofed pagoda, and would have questioned the people of that land about it,
 had he not found that there were no people there, but only birds and bees and butterflies. On
 another night Kuranes walked up a damp stone spiral stairway endlessly, and came to a tower
@@ -121,9 +116,9 @@ spread away from the river-bank he thought he beheld some feature or arrangement
 known before. He would have descended and asked the way to Ooth-Nargai had not a fearsome aurora
 sputtered up from some remote place beyond the horizon, shewing the ruin and antiquity of the
 city, and the stagnation of the reedy river, and the death lying upon that land, as it had lain
-since King Kynaratholis came home from his conquests to find the vengeance of the gods. 
+since King Kynaratholis came home from his conquests to find the vengeance of the gods.
 
- So Kuranes sought fruitlessly for the marvellous city of Celepha&iuml;s and
+So Kuranes sought fruitlessly for the marvellous city of Celephaîs and
 its galleys that sail to Serannian in the sky, meanwhile seeing many wonders and once barely
 escaping from the high-priest not to be described, which wears a yellow silken mask over its
 face and dwells all alone in a prehistoric stone monastery on the cold desert plateau of Leng.
@@ -133,13 +128,13 @@ of space where form does not exist, but where glowing gases study the secrets of
 And a violet-coloured gas told him that this part of space was outside what he had called infinity.
 The gas had not heard of planets and organisms before, but identified Kuranes merely as one
 from the infinity where matter, energy, and gravitation exist. Kuranes was now very anxious
-to return to minaret-studded Celepha&iuml;s, and increased his doses of drugs; but eventually
+to return to minaret-studded Celephaîs, and increased his doses of drugs; but eventually
 he had no more money left, and could buy no drugs. Then one summer day he was turned out of
 his garret, and wandered aimlessly through the streets, drifting over a bridge to a place where
 the houses grew thinner and thinner. And it was there that fulfilment came, and he met the cortege
-of knights come from Celepha&iuml;s to bear him thither forever. 
+of knights come from Celephaîs to bear him thither forever.
 
- Handsome knights they were, astride roan horses and clad in shining armour
+Handsome knights they were, astride roan horses and clad in shining armour
 with tabards of cloth-of-gold curiously emblazoned. So numerous were they, that Kuranes almost
 mistook them for an army, but their leader told him they were sent in his honour; since it was
 he who had created Ooth-Nargai in his dreams, on which account he was now to be appointed its
@@ -160,12 +155,12 @@ The abyss was now a seething chaos of roseate and cerulean splendour, and invisi
 exultantly as the knightly entourage plunged over the edge and floated gracefully down past
 glittering clouds and silvery coruscations. Endlessly down the horsemen floated, their chargers
 pawing the aether as if galloping over golden sands; and then the luminous vapours spread apart
-to reveal a greater brightness, the brightness of the city Celepha&iuml;s, and the sea-coast
+to reveal a greater brightness, the brightness of the city Celephaîs, and the sea-coast
 beyond, and the snowy peak overlooking the sea, and the gaily painted galleys that sail out
-of the harbour toward distant regions where the sea meets the sky. 
+of the harbour toward distant regions where the sea meets the sky.
 
- And Kuranes reigned thereafter over Ooth-Nargai and all the neighbouring regions
-of dream, and held his court alternately in Celepha&iuml;s and in the cloud-fashioned Serannian.
+And Kuranes reigned thereafter over Ooth-Nargai and all the neighbouring regions
+of dream, and held his court alternately in Celephaîs and in the cloud-fashioned Serannian.
 He reigns there still, and will reign happily forever, though below the cliffs at Innsmouth
 the channel tides played mockingly with the body of a tramp who had stumbled through the half-deserted
 village at dawn; played mockingly, and cast it upon the rocks by ivy-covered Trevor Towers,

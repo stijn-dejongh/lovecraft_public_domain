@@ -1,9 +1,4 @@
-% "Polaris" 
-% H. P. Lovecraft
-
-    
-
- 
+# Polaris
 
 Into the north window of my chamber glows the Pole Star with uncanny light. All through the
 long hellish hours of blackness it shines there. And in the autumn of the year, when the winds
@@ -15,12 +10,12 @@ Just before dawn Arcturus winks ruddily from above the cemetery on the low hillo
 Berenices shimmers weirdly afar off in the mysterious east; but still the Pole Star leers down
 from the same place in the black vault, winking hideously like an insane watching eye which
 strives to convey some strange message, yet recalls nothing save that it once had a message
-to convey. Sometimes, when it is cloudy, I can sleep. 
+to convey. Sometimes, when it is cloudy, I can sleep.
 
- Well do I remember the night of the great Aurora, when over the swamp played
-the shocking coruscations of the daemon-light. After the beams came clouds, and then I slept. 
+Well do I remember the night of the great Aurora, when over the swamp played
+the shocking coruscations of the daemon-light. After the beams came clouds, and then I slept.
 
- And it was under a horned waning moon that I saw the city for the first time.
+And it was under a horned waning moon that I saw the city for the first time.
 Still and somnolent did it lie, on a strange plateau in a hollow betwixt strange peaks. Of ghastly
 marble were its walls and its towers, its columns, domes, and pavements. In the marble streets
 were marble pillars, the upper parts of which were carven into the images of grave bearded men.
@@ -30,24 +25,24 @@ which blinked low in the sky but never set, had crawled a quarter of the way aro
 I saw light and motion in the houses and the streets. Forms strangely robed, but at once noble
 and familiar, walked abroad, and under the horned waning moon men talked wisdom in a tongue
 which I understood, though it was unlike any language I had ever known. And when the red Aldebaran
-had crawled more than half way around the horizon, there were again darkness and silence. 
+had crawled more than half way around the horizon, there were again darkness and silence.
 
- When I awaked, I was not as I had been. Upon my memory was graven the vision
+When I awaked, I was not as I had been. Upon my memory was graven the vision
 of the city, and within my soul had arisen another and vaguer recollection, of whose nature
 I was not then certain. Thereafter, on the cloudy nights when I could sleep, I saw the city
 often; sometimes under that horned waning moon, and sometimes under the hot yellow rays of a
 sun which did not set, but which wheeled low around the horizon. And on the clear nights the
-Pole Star leered as never before. 
+Pole Star leered as never before.
 
- Gradually I came to wonder what might be my place in that city on the strange
+Gradually I came to wonder what might be my place in that city on the strange
 plateau betwixt strange peaks. At first content to view the scene as an all-observant uncorporeal
 presence, I now desired to define my relation to it, and to speak my mind amongst the grave
-men who conversed each day in the public squares. I said to myself, "This is no dream,
+men who conversed each day in the public squares. I said to myself, _"This is no dream,
 for by what means can I prove the greater reality of that other life in the house of stone and
 brick south of the sinister swamp and the cemetery on the low hillock, where the Pole Star peers
-into my north window each night? " 
+into my north window each night?"_
 
- One night as I listened to the discourse in the large square containing many
+One night as I listened to the discourse in the large square containing many
 statues, I felt a change; and perceived that I had at last a bodily form. Nor was I a stranger
 in the streets of Olathoë, which lies on the plateau of Sarkis, betwixt the peaks Noton
 and Kadiphonek. It was my friend Alos who spoke, and his speech was one that pleased my soul,
@@ -57,9 +52,9 @@ appeared out of the unknown west to ravage the confines of our kingdom, and fina
 our towns. Having taken the fortified places at the foot of the mountains, their way now lay
 open to the plateau, unless every citizen could resist with the strength of ten men. For the
 squat creatures were mighty in the arts of war, and knew not the scruples of honour which held
-back our tall, grey-eyed men of Lomar from ruthless conquest. 
+back our tall, grey-eyed men of Lomar from ruthless conquest.
 
- Alos, my friend, was commander of all the forces on the plateau, and in him
+Alos, my friend, was commander of all the forces on the plateau, and in him
 lay the last hope of our country. On this occasion he spoke of the perils to be faced, and exhorted
 the men of Olathoë, bravest of the Lomarians, to sustain the traditions of their ancestors,
 who when forced to move southward from Zobna before the advance of the great ice-sheet (even
@@ -72,38 +67,36 @@ friend, desiring not to doom me to inaction, rewarded me with that duty which wa
 nothing in importance. To the watch-tower of Thapnen he sent me, there to serve as the eyes
 of our army. Should the Inutos attempt to gain the citadel by the narrow pass behind the peak
 Noton, and thereby surprise the garrison, I was to give the signal of fire which would warn
-the waiting soldiers and save the town from immediate disaster. 
+the waiting soldiers and save the town from immediate disaster.
 
- Alone I mounted the tower, for every man of stout body was needed in the passes
+Alone I mounted the tower, for every man of stout body was needed in the passes
 below. My brain was sore dazed with excitement and fatigue, for I had not slept in many days;
 yet was my purpose firm, for I loved my native land of Lomar, and the marble city of Olathoë
-that lies betwixt the peaks of Noton and Kadiphonek. 
+that lies betwixt the peaks of Noton and Kadiphonek.
 
- But as I stood in the tower's topmost chamber, I beheld the horned waning
+But as I stood in the tower's topmost chamber, I beheld the horned waning
 moon, red and sinister, quivering through the vapours that hovered over the distant valley of
 Banof. And through an opening in the roof glittered the pale Pole Star, fluttering as if alive,
 and leering like a fiend and tempter. Methought its spirit whispered evil counsel, soothing
-me to traitorous somnolence with a damnable rhythmical promise which it repeated over and over: 
+me to traitorous somnolence with a damnable rhythmical promise which it repeated over and over:
 
-      
- "Slumber, watcher, till the spheres 
-Six and twenty thousand years 
-Have revolv'd, and I return 
-To the spot where now I burn. 
-Other stars anon shall rise 
-To the axis of the skies; 
-Stars that soothe and stars that bless 
-With a sweet forgetfulness: 
-Only when my round is o'er 
-Shall the past disturb thy door. "
-      
+> _"Slumber, watcher, till the spheres_
+> _Six and twenty thousand years_
+> _Have revolv'd, and I return_
+> _To the spot where now I burn._
+> _Other stars anon shall rise_
+> _To the axis of the skies;_
+> _Stars that soothe and stars that bless_
+> _With a sweet forgetfulness:_
+> _Only when my round is o'er_
+> _Shall the past disturb thy door."_
 
 Vainly did I struggle with my drowsiness, seeking to connect these strange words with some lore
 of the skies which I had learnt from the Pnakotic manuscripts. My head, heavy and reeling, drooped
 to my breast, and when next I looked up it was in a dream; with the Pole Star grinning at me
-through a window from over the horrible swaying trees of a dream-swamp. And I am still dreaming. 
+through a window from over the horrible swaying trees of a dream-swamp. And I am still dreaming.
 
- In my shame and despair I sometimes scream frantically, begging the dream-creatures
+In my shame and despair I sometimes scream frantically, begging the dream-creatures
 around me to waken me ere the Inutos steal up the pass behind the peak Noton and take the citadel
 by surprise; but these creatures are daemons, for they laugh at me and tell me I am not dreaming.
 They mock me whilst I sleep, and whilst the squat yellow foe may be creeping silently upon us.
@@ -112,9 +105,9 @@ Alos, my friend and commander. But still these shadows of my dream deride me. Th
 is no land of Lomar, save in my nocturnal imaginings; that in those realms where the Pole Star
 shines high and red Aldebaran crawls low around the horizon, there has been naught save ice
 and snow for thousands of years, and never a man save squat yellow creatures, blighted by the
-cold, whom they call "Esquimaux ". 
+cold, whom they call __"Esquimaux"__.
 
- And as I writhe in my guilty agony, frantic to save the city whose peril every
+And as I writhe in my guilty agony, frantic to save the city whose peril every
 moment grows, and vainly striving to shake off this unnatural dream of a house of stone and
 brick south of a sinister swamp and a cemetery on a low hillock; the Pole Star, evil and monstrous,
 leers down from the black vault, winking hideously like an insane watching eye which strives

@@ -79,7 +79,7 @@ burrows, but some inhabit the trunks of the great trees; and although they live 
 it is muttered that they have also a slight taste for meat, either physical or spiritual, for
 certainly many dreamers have entered that wood who have not come out. Carter, however, had no
 fear; for he was an old dreamer and had learnt their fluttering language and made many a treaty
-with them; having found through their help the splendid city of Celepha&iuml;s in Ooth-Nargai
+with them; having found through their help the splendid city of Celephaîs in Ooth-Nargai
 beyond the Tanarian Hills, where reigns half the year the great King Kuranes, a man he had known
 by another name in life. Kuranes was the one soul who had been to the star-gulfs and returned
 free from madness.
@@ -811,12 +811,12 @@ Here, too, was the added marvel of recognition; for although he had planned
 to search all dreamland over for those whose likeness to this face might mark them as the gods'
 children, he now knew that he need not do so. Certainly, the great face carven on that mountain
 was of no strange sort, but the kin of such as he had seen often in the taverns of the seaport
-Celepha&iuml;s which lies in Ooth-Nargai beyond the Tanarian Hills and is ruled over by that
+Celephaîs which lies in Ooth-Nargai beyond the Tanarian Hills and is ruled over by that
 King Kuranes whom Carter once knew in waking life. Every year sailors with such a face came
 in dark ships from the north to trade their onyx for the carved jade and spun gold and little
-red singing birds of Celepha&iuml;s, and it was clear that these could be no others than the
+red singing birds of Celephaîs, and it was clear that these could be no others than the
 half-gods he sought. Where they dwelt, there must the cold waste lie close, and within it unknown
-Kadath and its onyx castle for the Great Ones. So to Celepha&iuml;s he must go, far distant
+Kadath and its onyx castle for the Great Ones. So to Celephaîs he must go, far distant
 from the isle of Oriab, and in such parts as would take him back to Dylath-Leen and up the Skai
 to the bridge by Nir, and again into the enchanted wood of the zoogs, whence the way would bend
 northward through the garden lands by Oukranos to the gilded spires of Thran, where he might
@@ -953,7 +953,7 @@ sat the ghoul which was once the artist Richard Upton Pickman. It was naked and 
 had acquired so much of the ghoulish physiognomy that its human origin was already obscure.
 But it still remembered a little English, and was able to converse with Carter in grunts and
 monosyllables, helped out now and then by the glibbering of ghouls. When it learned that Carter
-wished to get to the enchanted wood and from there to the city Celepha&iuml;s in Ooth-Nargai
+wished to get to the enchanted wood and from there to the city Celephaîs in Ooth-Nargai
 beyond the Tanarian Hills, it seemed rather doubtful; for these ghouls of the waking world do
 no business in the graveyards of upper dreamland (leaving that to the web-footed wamps that
 are spawned in dead cities), and many things intervene betwixt their gulf and the enchanted
@@ -977,7 +977,7 @@ cavern of flame and the seven hundred steps to the Gate of Deeper Slumber and th
 wood. This, however, did not suit the seeker; for he knew nothing of the way from Leng to Ooth-Nargai,
 and was likewise reluctant to awake lest he forget all he had so far gained in this dream. It
 were disastrous to his quest to forget the august and celestial faces of those seamen from the
-north who traded onyx in Celepha&iuml;s, and who, being the sons of gods, must point the way
+north who traded onyx in Celephaîs, and who, being the sons of gods, must point the way
 to the cold waste and Kadath where the Great Ones dwell.
 
 After much persuasion the ghoul consented to guide his guest inside the great
@@ -1156,7 +1156,7 @@ of the mud of nether earth, thereupon reassuming the clothes he had so carefully
 
 It was now night in that redoubtable wood of monstrous trees, but because of
 the phosphorescence one might travel as well as by day; wherefore Carter set out upon the well-known
-route toward Celepha&iuml;s, in Ooth-Nargai beyond the Tanarian Hills. And as he went he thought
+route toward Celephaîs, in Ooth-Nargai beyond the Tanarian Hills. And as he went he thought
 of the zebra he had left tethered to an ash tree on Ngranek in far-away Oriab so many aeons
 ago, and wondered if any lava-gatherer had fed and released it. And he wondered, too, if he
 would ever return to Baharna and pay for the zebra that was slain by night in those ancient
@@ -1228,7 +1228,7 @@ the cold waste, but did not know where it was. As for the marvellous sunset city
 even heard of that, but would gladly relay to Carter anything he might later learn.
 
 He gave the seeker some passwords of great value among the cats of dreamland,
-and commended him especially to the old chief of the cats in Celepha&iuml;s, whither he was
+and commended him especially to the old chief of the cats in Celephaîs, whither he was
 bound. That old cat, already slightly known to Carter, was a dignified Maltese; and would prove
 highly influential in any transaction. It was dawn when they came to the proper edge of the
 wood, and Carter bade his friends a reluctant farewell. The young sub-lieutenant he had met
@@ -1293,19 +1293,19 @@ amidst curved and undulant ways winding deep and narrow between the heavenward t
 shone through grated and balconied windows, and the sound of lutes and pipes stole timid from
 inner courts where marble fountains bubbled. Carter knew his way, and edged down through darker
 streets to the river, where at an old sea-tavern he found the captains and seamen he had known
-in myriad other dreams. There he bought his passage to Celepha&iuml;s on a great green galleon,
+in myriad other dreams. There he bought his passage to Celephaîs on a great green galleon,
 and there he stopped for the night after speaking gravely to the venerable cat of that inn,
 who blinked dozing before an enormous hearth and dreamed of old wars and forgotten gods.
 
-In the morning Carter boarded the galleon bound for Celepha&iuml;s, and sat
+In the morning Carter boarded the galleon bound for Celephaîs, and sat
 in the prow as the ropes were cast off and the long sail down to the Cerenerian Sea began. For
 many leagues the banks were much as they were above Thran, with now and then a curious temple
 rising on the farther hills toward the right, and a drowsy village on the shore, with steep
 red roofs and nets spread in the sun. Mindful of his search, Carter questioned all the mariners
-closely about those whom they had met in the taverns of Celepha&iuml;s, asking the names and
+closely about those whom they had met in the taverns of Celephaîs, asking the names and
 ways of the strange men with long, narrow eyes, long-lobed ears, thin noses, and pointed chins
 who came in dark ships from the north and traded onyx for the carved jade and spun gold and
-little red singing birds of Celepha&iuml;s. Of these men the sailors knew not much, save that
+little red singing birds of Celephaîs. Of these men the sailors knew not much, save that
 they talked but seldom and spread a kind of awe about them.
 
 Their land, very far away, was called Inganok, and not many people cared to
@@ -1352,7 +1352,7 @@ golden light of day lent them a wonder and beauty beyond any that men had given 
 Two nights and two days the galleon sailed over the Cerenerian Sea, sighting
 no land and speaking but one other vessel. Then near sunset of the second day there loomed up
 ahead the snowy peak of Aran with its gingko-trees swaying on the lower slopes, and Carter knew
-that they were come to the land of Ooth-Nargai and the marvellous city of Celepha&iuml;s. Swiftly
+that they were come to the land of Ooth-Nargai and the marvellous city of Celephaîs. Swiftly
 there came into sight the glittering minarets of that fabulous town, and the untarnished marble
 walls with their bronze statues, and the great stone bridge where Naraxa joins the sea. Then
 rose the green gentle hills behind the town, with their groves and gardens of asphodels and
@@ -1386,7 +1386,7 @@ be the fabled waste wherein unknown Kadath stands he did not know; but it seemed
 those presences and sentinels, if indeed they truly existed, were stationed for naught.
 
 On the following day Carter walked up the Street of the Pillars to the turquoise
-temple and talked with the high-priest. Though Nath-Horthath is chiefly worshipped in Celepha&iuml;s,
+temple and talked with the high-priest. Though Nath-Horthath is chiefly worshipped in Celephaîs,
 all the Great Ones are mentioned in diurnal prayers; and the priest was reasonably versed in
 their moods. Like Atal in distant Ulthar, he strongly advised against any attempt to see them;
 declaring that they are testy and capricious, and subject to strange protection from the mindless
@@ -1398,12 +1398,12 @@ none ever found it in the future. Such rumours as were told about that onyx cast
 Ones were not by any means reassuring.
 
 Having thanked the orchid-crowned high-priest, Carter left the temple and sought
-the bazaar of the sheep-butchers, where the old chief of Celepha&iuml;s' cats dwelt sleek
+the bazaar of the sheep-butchers, where the old chief of Celephaîs' cats dwelt sleek
 and contented. That grey and dignified being was sunning himself on the onyx pavement, and extended
 a languid paw as his caller approached. But when Carter repeated the passwords and introductions
 furnished him by the old cat general of Ulthar, the furry patriarch became very cordial and communicative;
 and told much of the secret lore known to cats on the seaward slopes of Ooth-Nargai. Best of
-all, he repeated several things told him furtively by the timid waterfront cats of Celepha&iuml;s
+all, he repeated several things told him furtively by the timid waterfront cats of Celephaîs
 about the men of Inganok, on whose dark ships no cat will go.
 
 It seems that these men have an aura not of earth about them, though that is
@@ -1417,7 +1417,7 @@ go on the dark ships that seek the basalt quays of Inganok.
 
 The old chief of the cats also told him where to find his friend King Kuranes,
 who in Carter's latter dreams had reigned alternately in the rose-crystal Palace of the
-Seventy Delights at Celepha&iuml;s and in the turreted cloud-castle of sky-floating Serannian.
+Seventy Delights at Celephaîs and in the turreted cloud-castle of sky-floating Serannian.
 It seems that he could no more find content in those places, but had formed a mighty longing
 for the English cliffs and downlands of his boyhood; where in little dreaming villages England's
 old songs hover at evening behind lattice windows, and where grey church towers peep lovely
@@ -1473,13 +1473,13 @@ the marvellous sunset city, it were better not to seek that city.
 
 Kuranes furthermore doubted whether his guest would profit aught by coming
 to the city even were he to gain it. He himself had dreamed and yearned long years for lovely
-Celepha&iuml;s and the land of Ooth-Nargai, and for the freedom and colour and high experience
+Celephaîs and the land of Ooth-Nargai, and for the freedom and colour and high experience
 of life devoid of its chains, conventions, and stupidities. But now that he was come into that
 city and that land, and was the king thereof, he found the freedom and the vividness all too
 soon worn out, and monotonous for want of linkage with anything firm in his feelings and memories.
 He was a king in Ooth-Nargai, but found no meaning therein, and drooped always for the old familiar
 things of England that had shaped his youth. All his kingdom would he give for the sound of
-Cornish church bells over the downs, and all the thousand minarets of Celepha&iuml;s for the
+Cornish church bells over the downs, and all the thousand minarets of Celephaîs for the
 steep homely roofs of the village near his home. So he told his guest that the unknown sunset
 city might not hold quite the content he sought, and that perhaps it had better remain a glorious
 and half-remembered dream. For he had visited Carter often in the old waking days, and knew
@@ -1491,7 +1491,7 @@ of quaint Kingsport, the hoary gambrel roofs of ancient and witch-haunted Arkham
 miles of meads and valleys where stone walls rambled and white farmhouse gables peeped out from
 bowers of verdure. These things he told Randolph Carter, but still the seeker held to his purpose.
 And in the end they parted each with his own conviction, and Carter went back through the bronze
-gate into Celepha&iuml;s and down the Street of the Pillars to the old sea-wall, where he talked
+gate into Celephaîs and down the Street of the Pillars to the old sea-wall, where he talked
 more with the mariners of far parts and waited for the dark ship from cold and twilight Inganok,
 whose strange-faced sailors and onyx-traders had in them the blood of the Great Ones.
 
@@ -1509,12 +1509,12 @@ that one might guess their wonders from the faces of those who listened, even th
 came to common ears only as strange cadence and obscure melody.
 
 For a week the strange seamen lingered in the taverns and traded in the bazaars
-of Celepha&iuml;s, and before they sailed Carter had taken passage on their dark ship, telling
+of Celephaîs, and before they sailed Carter had taken passage on their dark ship, telling
 them that he was an old onyx-miner and wishful to work in their quarries. That ship was very
 lovely and cunningly wrought, being of teakwood with ebony fittings and traceries of gold, and
 the cabin in which the traveller lodged had hangings of silk and velvet. One morning at the
 turn of the tide the sails were raised and the anchor lifted, and as Carter stood on the high
-stern he saw the sunrise-blazing walls and bronze statues and golden minarets of ageless Celepha&iuml;s
+stern he saw the sunrise-blazing walls and bronze statues and golden minarets of ageless Celephaîs
 sink into the distance, and the snowy peak of Mount Aran grow smaller and smaller. By noon there
 was nothing in sight save the gentle blue of the Cerenerian Sea, with one painted galley afar
 off bound for that cloud-hung realm of Serannian where the sea meets the sky.
@@ -1534,7 +1534,7 @@ about that desert, and it was thought expedient not to admit its existence.
 
 On later days they talked of the quarries in which Carter said he was going
 to work. There were many of them, for all the city of Inganok was builded of onyx, whilst great
-polished blocks of it were traded in Rinar, Ogrothan, and Celepha&iuml;s, and at home with the
+polished blocks of it were traded in Rinar, Ogrothan, and Celephaîs, and at home with the
 merchants of Thraa, Ilarnek, and Kadatheron, for the beautiful wares of those fabulous ports.
 And far to the north, almost in that cold desert whose existence the men of Inganok did not
 care to admit, there was an unused quarry greater than all the rest; from which had been hewn
@@ -1588,7 +1588,7 @@ were squat, slant-eyed folk said by rumour to have drifted somehow across or aro
 peaks from valleys beyond Leng. The wharves reached wide outside the city wall and bore upon
 them all manner of merchandise from the galleys anchored there, while at one end were great
 piles of onyx both carved and uncarved awaiting shipment to the far markets of Rinar, Ogrothan,
-and Celepha&iuml;s.
+and Celephaîs.
 
 It was not yet evening when the dark ship anchored beside a jutting quay of
 stone, and all the sailors and traders filed ashore and through the arched gate into the city.
