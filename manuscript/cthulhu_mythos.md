@@ -4,47 +4,51 @@
 
 # The Cthulhu Mythos
 
-{width: 40%, align: middle}
-![](cthulhu-drawing.png)
+{width: 60%, align: middle}
+![](cthulhu_mythos.png)
 
 {pagebreak}
 
-From _“Dagon”_ to _“The Call of Cthulhu”_ to _“The Haunter of the Dark”_, each story connects to the ancient cosmic entities known as the Great Old
-Ones, buried in a deep sleep beneath the earth and incomprehensible to mankind. For the few mortals who dare to glimpse this unknowable world, the
-result is a complete disconnection from what was once considered reality. Lovecraft’s stories are grim, fantastical, dark, horrifying—and yet
-endlessly fascinating.
+H.P. Lovecraft's _"Cthulhu Mythos"_ is a cornerstone of modern horror literature, weaving a complex tapestry of cosmic terror that has captivated
+readers for generations. Central to the Mythos is the pantheon of ancient, powerful deities known as the Great Old Ones, with Cthulhu being the most
+iconic among them. These entities are depicted as vast, malevolent forces that exist beyond the comprehension of humanity, often lying dormant but
+capable of causing untold destruction and madness when awakened. The Mythos is characterized by its themes of existential dread, the insignificance
+of humanity in the face of an indifferent cosmos, and the fragility of sanity when confronted with the true nature of the universe.
 
-Lovecraft created a universe of cosmic horror fiction that features a pantheon of ancient, powerful, and malevolent entities. The central
-figure, Cthulhu, is a massive, tentacled Great Old One who lies dormant beneath the ocean in the sunken city of R'lyeh. Lovecraft's mythos includes
-other deities and creatures, such as _Nyarlathotep_, _Yog-Sothoth_, and _Azathoth_, as well as a variety of human and non-human cultists who
-worship these beings. The stories are known for their themes of forbidden knowledge, the insignificance of humanity in the face of vast,
-incomprehensible forces, and the fragility of sanity.
+The stories within the Cthulhu Mythos span a wide range of settings and characters, from the decaying New England towns rife with dark secrets to
+the remote corners of the Earth where ancient horrors lurk. Key tales like "The Call of Cthulhu," "The Dunwich Horror," and "At the Mountains of
+Madness" illustrate Lovecraft's unique blend of science fiction, horror, and mythology. The Mythos also includes a vast array of forbidden texts,
+such as the infamous Necronomicon, which serve as grim repositories of eldritch knowledge. Lovecraft's influence extends beyond his own writings,
+inspiring a myriad of authors who have expanded upon his universe, creating a shared mythos that continues to evolve. Through these interconnected
+narratives, Lovecraft's Cthulhu Mythos explores the limits of human understanding and the chilling reality that some mysteries are better left
+undiscovered.
 
 ## List of stories in the Cthulhu Mythos
 
-| Title                                       | Published |
-|:--------------------------------------------|:---------:|
-| Dagon                                       |   1919    | 
-| Nyarlathotep                                |   1920    | 
-| The Nameless City                           |   1921    | 
-| Azathoth                                    |   1922    | 
-| The Hound                                   |   1922    | 
-| The Festival                                |   1923    | 
-| The Call of Cthulhu                         |   1928    | 
-| The Colour out of Space                     |   1927    | 
-| History of the Necronomicon                 |   1927    | 
-| The Curse of Yig                            |   1928    | 
-| The Dunwich Horror                          |   1928    | 
-| The Whisperer in Darkness                   |   1930    | 
-| The Mound                                   |   1940    |
-| At the Mountains of Madness                 |   1931    |
-| The Shadow over Innsmouth                   |   1936    | 
-| The Dreams in the Witch House               |   1933    | 
-| The Man of Stone - with Hazel Heald         |   1932    | 
-| The Horror in the Museum - with Hazel Heald |   1933    | 
-| The Thing on the Doorstep                   |   1937    |
-| Out of the Aeons - with Hazel Heald         |   1935    |
-| The Tree on the Hill - with Duane W. Rimel  |   1934    |
-| The Shadow out of Time                      |   1936    |
-| The Haunter of the Dark                     |   1936    |
+| Title                                       | Published | Description                                                                                       |
+|:--------------------------------------------|:---------:|:--------------------------------------------------------------------------------------------------|
+| Dagon                                       |   1919    | A war veteran encounters a monstrous sea deity after drifting to an uncharted island.             |
+| Nyarlathotep                                |   1920    | The enigmatic Nyarlathotep roams the Earth, spreading madness and chaos.                          |
+| The Nameless City                           |   1921    | An explorer discovers a forgotten, ancient city in the Arabian desert with a horrifying secret.   |
+| Azathoth                                    |   1922    | A brief, poetic depiction of the mindless, chaos entity Azathoth at the center of the universe.   |
+| The Hound                                   |   1922    | Grave robbers unleash a vengeful, supernatural hound after stealing a cursed artifact.            |
+| The Festival                                |   1923    | A man attends a grotesque, ancient festival in a decaying New England town.                       |
+| The Call of Cthulhu                         |   1928    | A man uncovers evidence of the terrifying, dormant sea god Cthulhu and its cult.                  |
+| The Colour out of Space                     |   1927    | A meteorite crashes on a farm, releasing a color that drains life and sanity.                     |
+| History of the Necronomicon                 |   1927    | A fictional history of the infamous, cursed book of forbidden knowledge.                          |
+| The Curse of Yig                            |   1928    | A pioneer encounters the snake god Yig and faces a dreadful curse.                                |
+| The Dunwich Horror                          |   1928    | A rural community is terrorized by an otherworldly being summoned by a degenerate family.         |
+| The Whisperer in Darkness                   |   1930    | A scholar investigates reports of extraterrestrial creatures in rural Vermont.                    |
+| The Mound                                   |   1940    | Explorers uncover a subterranean civilization linked to a cursed Native American mound.           |
+| At the Mountains of Madness                 |   1931    | Antarctic explorers discover an ancient, alien city and its horrifying secrets.                   |
+| The Shadow over Innsmouth                   |   1936    | A man learns of his disturbing heritage linked to the aquatic Deep Ones in a decaying town.       |
+| The Dreams in the Witch House               |   1933    | A student rents a room in a witch-haunted house, leading to nightmarish experiences.              |
+| The Man of Stone - with Hazel Heald         |   1932    | Two men discover petrified human figures and uncover a supernatural cause.                        |
+| The Horror in the Museum - with Hazel Heald |   1933    | A curator's sinister exhibits in a wax museum come to terrifying life.                            |
+| The Thing on the Doorstep                   |   1937    | A man confronts his best friend's disturbing possession by a sorceress.                           |
+| Out of the Aeons - with Hazel Heald         |   1935    | An ancient mummy in a museum holds a dark and otherworldly secret.                                |
+| The Tree on the Hill - with Duane W. Rimel  |   1934    | Two friends explore a hill with a mysterious, otherworldly tree linked to cosmic horror.          |
+| The Shadow out of Time                      |   1936    | A professor experiences a strange amnesia and uncovers his mind's journey through time and space. |
+| The Haunter of the Dark                     |   1936    | An artist becomes obsessed with an abandoned church and the dark entity within.                   |
+
 

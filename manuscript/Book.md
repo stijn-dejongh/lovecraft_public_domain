@@ -23,4 +23,6 @@ out-of-the-aeons.md
 tree_on_the_hill.md
 shadow-out-of-time.md
 haunter-of-the-dark.md
+dream_lands.md
+unknown_kadath.md
 Appendix.md
