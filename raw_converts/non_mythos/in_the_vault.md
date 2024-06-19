@@ -1,9 +1,6 @@
 % "In the Vault" 
 % H. P. Lovecraft
 
-    
-
- 
 
   Dedicated to C. W. Smith, from whose suggestion the central situation is
 taken.  

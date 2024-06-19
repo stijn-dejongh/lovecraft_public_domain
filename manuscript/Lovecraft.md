@@ -24,3 +24,26 @@ of equality and inclusivity. These aspects of Lovecraft's worldview can be jarri
 of societal norms and the ongoing struggle against bigotry. Despite this, the editors of "The Lovecraft Mythos" have chosen to preserve the original
 texts in their entirety, recognizing their historical significance and the importance of presenting Lovecraft's work unaltered. This decision allows
 readers to engage with his stories authentically, while also acknowledging the dated and problematic elements within his body of work.
+
+# The Loveable Lovecraft Mythos
+
+As H.P. Lovecraft was a prolific writer, the sheer volume of his works can be overwhelming for readers new to his universe. 
+To help navigate the depth of his mythos, we have organized his stories into distinct categories based on their thematic content and connections.
+This book is divided into the following sections:
+
+* **The Cthulhu Mythos**
+    * **Primary Cthulhu Mythos Stories:** These are the core stories that form the foundation of Lovecraft's Cthulhu Mythos, featuring iconic
+      entities and cosmic horror themes.
+    * **Stories Related to the Cthulhu Mythos:** These tales, while not always directly connected to the primary mythos, share thematic and
+      stylistic elements that enrich Lovecraft's universe.
+* **The Dreamlands Cycle**
+    * **Primary Dreamlands Stories:** These are the central stories set in the fantastical and dreamlike realms of the Dreamlands, exploring
+      themes of wonder, beauty, and cosmic adventure.
+    * **Stories Related to the Dreamlands Cycle:** These stories touch upon the themes and elements of the Dreamlands, offering additional
+      insights and expanding the dreamlike quality of Lovecraft's narrative.
+* **The Extended Mythos:** Stories that are not part of the aforementioned categories but are related to the overarching cosmic horror and eldritch
+  themes of Lovecraft's work. These tales further enrich the mythos with their exploration of forbidden knowledge, ancient curses, and otherworldly
+  horrors.
+* **Stand alone work:** _Not included in this book._ Stories that do not share a thematic or content-wise connection to the main Lovecraft Mythos. 
+  These works highlight Lovecraft's versatility and skill in creating psychological and macabre horror outside his established mythologies.
+
