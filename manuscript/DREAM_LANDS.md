@@ -60,7 +60,7 @@ mysteries and wonders of the Dreamlands.
 | Beyond the Wall of Sleep         |   1919    | A man experiences vivid, otherworldly dreams and encounters a cosmic being through a mentally ill patient.                                               |
 | The Statement of Randolph Carter |   1919    | Randolph Carter recounts a harrowing experience in which he and a friend delve into forbidden knowledge and encounter the unknown.                       |
 | The Nameless City                |   1921    | An explorer discovers an ancient, abandoned city in the Arabian desert, leading to a terrifying revelation.                                              |
-| The Descendant                   |   1926    | A fragmentary tale about a man who seeks protection from ancient horrors through the knowledge of occultism and ancestral connections to the Dreamlands. |
 | The Transition of Juan Romero    |   1919    | A miner experiences a mysterious and terrifying event that hints at otherworldly realms.                                                                 |
 | The Crawling Chaos               |   1921    | (with Winifred V. Jackson) A prose poem that describes an apocalyptic vision experienced by the narrator, often associated with the Dreamlands.          | 
 | The Green Meadow                 |   1927    | (with Winifred V. Jackson) A pastoral tale of two dreamers who encounter a strange and wondrous meadow in their shared dreams.                           |
+| The Descendant                   |   1926    | A fragmentary tale about a man who seeks protection from ancient horrors through the knowledge of occultism and ancestral connections to the Dreamlands. |
