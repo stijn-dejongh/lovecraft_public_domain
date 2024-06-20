@@ -1,42 +1,37 @@
-% "The Electric Executioner" 
-% H. P. Lovecraft with Adolphe de Castro
-
-    
-
- 
+# The Electric Executioner
 
 For one who has never faced the danger of legal execution, I have a rather queer horror of the
 electric chair as a subject. Indeed, I think the topic gives me more of a shudder than it gives
 many a man who has been on trial for his life. The reason is that I associate the thing with
 an incident of forty years ago--a very strange incident which brought me close to the edge
-of the unknown's black abyss. 
+of the unknown's black abyss.
 
- In 1889 I was an auditor and investigator connected with the Tlaxcala Mining
+In 1889 I was an auditor and investigator connected with the Tlaxcala Mining
 Company of San Francisco, which operated several small silver and copper properties in the San
 Mateo Mountains in Mexico. There had been some trouble at Mine No. 3, which had a surly, furtive
 assistant superintendent named Arthur Feldon; and on August 6th the firm received a telegram
 saying that Feldon had decamped, taking with him all the stock records, securities, and private
-papers, and leaving the whole clerical and financial situation in dire confusion. 
+papers, and leaving the whole clerical and financial situation in dire confusion.
 
- This development was a severe blow to the company, and late in the afternoon
+This development was a severe blow to the company, and late in the afternoon
 President McComb called me into his office to give orders for the recovery of the papers at
 any cost. There were, he knew, grave drawbacks. I had never seen Feldon, and there were only
 very indifferent photographs to go by. Moreover, my own wedding was set for Thursday of the
 following week--only nine days ahead--so that I was naturally not eager to be hurried
 off to Mexico on a man-hunt of indefinite length. The need, however, was so great that McComb
 felt justified in asking me to go at once; and I for my part decided that the effect on my status
-with the company would make ready acquiescence eminently worth while. 
+with the company would make ready acquiescence eminently worth while.
 
- I was to start that night, using the president's private car as far as
+I was to start that night, using the president's private car as far as
 Mexico City, after which I would have to take a narrow-gauge railway to the mines. Jackson,
 the superintendent of No. 3, would give me all details and any possible clues upon my arrival;
 and then the search would begin in earnest--through the mountains, down to the coast, or
 among the byways of Mexico City, as the case might be. I set out with a grim determination to
 get the matter done--and successfully done--as swiftly as possible; and tempered my
 discontent with pictures of an early return with papers and culprit, and of a wedding which
-would be almost a triumphal ceremony. 
+would be almost a triumphal ceremony.
 
- Having notified my family, fiancée, and principal friends, and made
+Having notified my family, fiancée, and principal friends, and made
 hasty preparations for the trip, I met President McComb at eight p.m. at the Southern Pacific
 depot, received from him some written instructions and a check-book, and left in his car attached
 to the 8:15 eastbound transcontinental train. The journey that followed seemed destined for
@@ -44,9 +39,9 @@ uneventfulness, and after a good night's sleep I revelled in the ease of the pri
 so thoughtfully assigned me; reading my instructions with care, and formulating plans for the
 capture of Feldon and the recovery of the documents. I knew the Tlaxcala country quite well--probably
 much better than the missing man--hence had a certain amount of advantage in my search unless
-he had already used the railway. 
+he had already used the railway.
 
- According to the instructions, Feldon had been a subject of worry to Superintendent
+According to the instructions, Feldon had been a subject of worry to Superintendent
 Jackson for some time; acting secretively, and working unaccountably in the company's laboratory
 at odd hours. That he was implicated with a Mexican boss and several peons in some thefts of
 ore was strongly suspected; but though the natives had been discharged, there was not enough
@@ -57,17 +52,17 @@ company. The obvious surveillance of his colleagues, Jackson wrote, appeared to 
 increasingly; and now he had gone with everything of importance in the office. Of his possible
 whereabouts no guess could be made; though Jackson's final telegram suggested the wild
 slopes of the Sierra de Malinche, that tall, myth-surrounded peak with the corpse-shaped silhouette,
-from whose neighbourhood the thieving natives were said to have come. 
+from whose neighbourhood the thieving natives were said to have come.
 
- At El Paso, which we reached at two a.m. of the night following our start,
+At El Paso, which we reached at two a.m. of the night following our start,
 my private car was detached from the transcontinental train and joined to an engine specially
 ordered by telegraph to take it southward to Mexico City. I continued to drowse till dawn, and
 all the next day grew bored on the flat, desert Chihuahua landscape. The crew had told me we
 were due in Mexico City at noon Friday, but I soon saw that countless delays were wasting precious
 hours. There were waits on sidings all along the single-tracked route, and now and then a hot-box
-or other difficulty would further complicate the schedule. 
+or other difficulty would further complicate the schedule.
 
- At Torreón we were six hours late, and it was almost eight o'clock
+At Torreón we were six hours late, and it was almost eight o'clock
 on Friday evening--fully twelve hours behind schedule--when the conductor consented
 to do some speeding in an effort to make up time. My nerves were on edge, and I could do nothing
 but pace the car in desperation. In the end I found that the speeding had been purchased at
@@ -76,18 +71,18 @@ itself; so that after a maddening wait the crew decided that all the bearings wo
 be overhauled after a quarter-speed limp ahead to the next station with shops--the factory
 town of Querétaro. This was the last straw, and I almost stamped like a child. Actually
 I sometimes caught myself pushing at my chair-arm as if trying to urge the train forward at
-a less snail-like pace. 
+a less snail-like pace.
 
- It was almost ten in the evening when we drew into Querétaro, and I
+It was almost ten in the evening when we drew into Querétaro, and I
 spent a fretful hour on the station platform while my car was sidetracked and tinkered at by
 a dozen native mechanics. At last they told me the job was too much for them, since the forward
 truck needed new parts which could not be obtained nearer than Mexico City. Everything indeed
 seemed against me, and I gritted my teeth when I thought of Feldon getting farther and farther
 away--perhaps to the easy cover of Vera Cruz with its shipping or Mexico City with its varied
 rail facilities--while fresh delays kept me tied and helpless. Of course Jackson had notified
-the police in all the cities around, but I knew with sorrow what their efficiency amounted to. 
+the police in all the cities around, but I knew with sorrow what their efficiency amounted to.
 
- The best I could do, I soon found out, was to take the regular night express
+The best I could do, I soon found out, was to take the regular night express
 for Mexico City, which ran from Aguas Calientes and made a five-minute stop at Querétaro.
 It would be along at one a.m. if on time, and was due in Mexico City at five o'clock Saturday
 morning. When I purchased my ticket I found that the train would be made up of European compartment
@@ -101,18 +96,18 @@ state I welcomed the solitude--as well as the comfortably upholstered seat with 
 and head-cushion, running the whole width of the vehicle. I bought a first-class ticket, obtained
 my valise from the sidetracked private car, telegraphed both President McComb and Jackson of
 what had happened, and settled down in the station to wait for the night express as patiently
-as my strained nerves would let me. 
+as my strained nerves would let me.
 
- For a wonder, the train was only half an hour late; though even so, the solitary
+For a wonder, the train was only half an hour late; though even so, the solitary
 station vigil had about finished my endurance. The conductor, shewing me into a compartment,
 told me he expected to make up the delay and reach the capital on time; and I stretched myself
 comfortably on the forward-facing seat in the expectation of a quiet three-and-a-half-hour run.
 The light from the overhead oil lamp was soothingly dim, and I wondered whether I could snatch
 some much-needed sleep in spite of my anxiety and nerve-tension. It seemed, as the train jolted
 into motion, that I was alone; and I was heartily glad of it. My thoughts leaped ahead to my
-quest, and I nodded with the accelerating rhythm of the speeding string of carriages. 
+quest, and I nodded with the accelerating rhythm of the speeding string of carriages.
 
- Then suddenly I perceived that I was not alone after all. In the corner diagonally
+Then suddenly I perceived that I was not alone after all. In the corner diagonally
 opposite me, slumped down so that his face was invisible, sat a roughly clad man of unusual
 size, whom the feeble light had failed to reveal before. Beside him on the seat was a huge valise,
 battered and bulging, and tightly gripped even in his sleep by one of his incongruously slender
@@ -124,9 +119,9 @@ my presence when he had hoped to have the compartment alone all the way; just as
 disappointed to find strange company in the half-lighted carriage. The best we could do, however,
 was to accept the situation gracefully; so I began apologising to the man for my intrusion.
 He seemed to be a fellow-American, and we could both feel more at ease after a few civilities.
-Then we could leave each other in peace for the balance of the journey. 
+Then we could leave each other in peace for the balance of the journey.
 
- To my surprise, the stranger did not respond to my courtesies with so much
+To my surprise, the stranger did not respond to my courtesies with so much
 as a word. Instead, he kept staring at me fiercely and almost appraisingly, and brushed aside
 my embarrassed proffer of a cigar with a nervous lateral movement of his disengaged hand. His
 other hand still tensely clutched the great, worn valise, and his whole person seemed to radiate
@@ -135,9 +130,9 @@ was nothing to see in the dense blackness outside. Oddly, he appeared to be look
 as intently as if there really were something to look at. I decided to leave him to his own
 curious devices and meditations without further annoyance; so settled back in my seat, drew
 the brim of my soft hat over my face, and closed my eyes in an effort to snatch the sleep I
-had half counted on. 
+had half counted on.
 
- I could not have dozed very long or very fully when my eyes fell open as if
+I could not have dozed very long or very fully when my eyes fell open as if
 in response to some external force. Closing them again with some determination, I renewed my
 quest of a nap, yet wholly without avail. An intangible influence seemed bent on keeping me
 awake; so raising my head, I looked about the dimly lighted compartment to see if anything were
@@ -145,16 +140,16 @@ amiss. All appeared normal, but I noticed that the stranger in the opposite corn
 at me very intently--intently, though without any of the geniality or friendliness which
 would have implied a change from his former surly attitude. I did not attempt conversation this
 time, but leaned back in my previous sleepy posture; half closing my eyes as if I had dozed
-off once more, yet continuing to watch him curiously from beneath my down-turned hat brim. 
+off once more, yet continuing to watch him curiously from beneath my down-turned hat brim.
 
- As the train rattled onward through the night I saw a subtle and gradual metamorphosis
+As the train rattled onward through the night I saw a subtle and gradual metamorphosis
 come over the expression of the staring man. Evidently satisfied that I was asleep, he allowed
 his face to reflect a curious jumble of emotions, the nature of which seemed anything but reassuring.
 Hatred, fear, triumph, and fanaticism flickered compositely over the lines of his lips and the
 angles of his eyes, while his gaze became a glare of really alarming greed and ferocity. Suddenly
-it dawned upon me that this man was mad, and dangerously so. 
+it dawned upon me that this man was mad, and dangerously so.
 
- I will not pretend that I was anything but deeply and thoroughly frightened
+I will not pretend that I was anything but deeply and thoroughly frightened
 when I saw how things stood. Perspiration started out all over me, and I had hard work to maintain
 my attitude of relaxation and slumber. Life had many attractions for me just then, and the thought
 of dealing with a homicidal maniac--possibly armed and certainly powerful to a marvellous
@@ -164,9 +159,9 @@ always been rather frail, and was then almost worn out with anxiety, sleeplessne
 tension. It was undeniably a bad moment for me, and I felt pretty close to a horrible death
 as I recognised the fury of madness in the stranger's eyes. Events from the past came up
 into my consciousness as if for a farewell--just as a drowning man's whole life is
-said to resurrect itself before him at the last moment. 
+said to resurrect itself before him at the last moment.
 
- Of course I had my revolver in my coat pocket, but any motion of mine to reach
+Of course I had my revolver in my coat pocket, but any motion of mine to reach
 and draw it would be instantly obvious. Moreover, if I did secure it, there was no telling what
 effect it would have on the maniac. Even if I shot him once or twice he might have enough remaining
 strength to get the gun from me and deal with me in his own way; or if he were armed himself
@@ -175,9 +170,9 @@ a pistol, but an insane man's complete indifference to consequences gives him a 
 and menace quite superhuman for the time being. Even in those pre-Freudian days I had a common-sense
 realisation of the dangerous power of a person without normal inhibitions. That the stranger
 in the corner was indeed about to start some murderous action, his burning eyes and twitching
-facial muscles did not permit me to doubt for a moment. 
+facial muscles did not permit me to doubt for a moment.
 
- Suddenly I heard his breath begin to come in excited gasps, and saw his chest
+Suddenly I heard his breath begin to come in excited gasps, and saw his chest
 heaving with mounting excitement. The time for a showdown was close, and I tried desperately
 to think of the best thing to do. Without interrupting my pretence of sleep, I began to slide
 my right hand gradually and inconspicuously toward the pocket containing my pistol; watching
@@ -189,35 +184,35 @@ hand while with the other he forestalled me in reaching the revolver. Taking it 
 and placing it in his own, he released me contemptuously, well knowing how fully his physique
 placed me at his mercy. Then he stood up at his full height--his head almost touching the
 roof of the carriage--and stared down at me with eyes whose fury had quickly turned to a
-look of pitying scorn and ghoulish calculation. 
+look of pitying scorn and ghoulish calculation.
 
- I did not move, and after a moment the man resumed his seat opposite me; smiling
+I did not move, and after a moment the man resumed his seat opposite me; smiling
 a ghastly smile as he opened his great bulging valise and extracted an article of peculiar appearance--a
 rather large cage of semi-flexible wire, woven somewhat like a baseball catcher's mask,
 but shaped more like the helmet of a diving-suit. Its top was connected with a cord whose other
 end remained in the valise. This device he fondled with obvious affection, cradling it in his
 lap as he looked at me afresh and licked his bearded lips with an almost feline motion of the
 tongue. Then, for the first time, he spoke--in a deep, mellow voice of softness and cultivation
-startlingly at variance with his rough corduroy clothes and unkempt aspect. 
+startlingly at variance with his rough corduroy clothes and unkempt aspect.
 
-  "You are fortunate, sir. I shall use you first of all. You shall go into
+_"You are fortunate, sir. I shall use you first of all. You shall go into
 history as the first fruits of a remarkable invention. Vast sociological consequences--I
 shall let my light shine, as it were. I'm radiating all the time, but nobody knows it.
-Now you shall know. Intelligent guinea-pig. Cats and burros--it worked even with a burro. . . . " 
+Now you shall know. Intelligent guinea-pig. Cats and burros--it worked even with a burro. . . ."_
 
- He paused, while his bearded features underwent a convulsive motion closely
+He paused, while his bearded features underwent a convulsive motion closely
 synchronised with a vigorous gyratory shaking of the whole head. It was as though he were shaking
 clear of some nebulous obstructing medium, for the gesture was followed by a clarification or
 subtilisation of expression which hid the more obvious madness in a look of suave composure
 through which the craftiness gleamed only dimly. I glimpsed the difference at once, and put
-in a word to see if I could lead his mind into harmless channels. 
+in a word to see if I could lead his mind into harmless channels.
 
-  "You seem to have a marvellously fine instrument, if I'm any judge.
-Won't you tell me how you came to invent it? " 
+_"You seem to have a marvellously fine instrument, if I'm any judge.
+Won't you tell me how you came to invent it?"_
 
- He nodded. 
+He nodded.
 
-  "Mere logical reflection, dear sir. I consulted the needs of the age and
+_"Mere logical reflection, dear sir. I consulted the needs of the age and
 acted upon them. Others might have done the same had their minds been as powerful--that
 is, as capable of sustained concentration--as mine. I had the sense of conviction--the
 available will power--that is all. I realised, as no one else has yet realised, how imperative
@@ -228,63 +223,63 @@ all the apparatus they have in mind is as primitive as Stephenson's "Rocket'
 or Davenport's first electric engine. I knew of a better way, and told them so, but they
 paid no attention to me. God, the fools! As if I didn't know all there is to know about
 men and death and electricity--student, man, and boy--technologist and engineer--soldier
-of fortune. . . . " 
+of fortune. . . ."_
 
- He leaned back and narrowed his eyes. 
+He leaned back and narrowed his eyes.
 
-  "I was in Maximilian's army twenty years and more ago. They were
+_"I was in Maximilian's army twenty years and more ago. They were
 going to make me a nobleman. Then those damned greasers killed him and I had to go home. But
-I came back--back and forth, back and forth. I live in Rochester, N.Y. . . . " 
+I came back--back and forth, back and forth. I live in Rochester, N.Y. . . ."_
 
- His eyes grew deeply crafty, and he leaned forward, touching me on the knee
-with the fingers of a paradoxically delicate hand. 
+His eyes grew deeply crafty, and he leaned forward, touching me on the knee
+with the fingers of a paradoxically delicate hand.
 
-  "I came back, I say, and I went deeper than any of them. I hate greasers,
+_"I came back, I say, and I went deeper than any of them. I hate greasers,
 but I like Mexicans! A puzzle? Listen to me, young fellow--you don't think Mexico is
 really Spanish, do you? God, if you knew the tribes I know! In the mountains--in the mountains--Anahuac--Tenochtitlan--the
-old ones. . . . " 
+old ones. . . ."_
 
- His voice changed to a chanting and not unmelodious howl. 
+His voice changed to a chanting and not unmelodious howl.
 
-  "Iä! Huitzilopotchli! . . . Nahuatlacatl! Seven, seven, seven . . .
+_"Iä! Huitzilopotchli! . . . Nahuatlacatl! Seven, seven, seven . . .
 Xochimilca, Chalca, Tepaneca, Acolhua, Tlahuica, Tlascalteca, Azteca! . . . Iä! Iä!
-I have been to the Seven Caves of Chicomoztoc, but no one shall ever know! I tell you  because
-you will never repeat it.  
+I have been to the Seven Caves of Chicomoztoc, but no one shall ever know! I tell you because
+you will never repeat it."_
 
- He subsided, and resumed a conversational tone. 
+He subsided, and resumed a conversational tone.
 
-  "It would surprise you to know what things are told in the mountains.
+_"It would surprise you to know what things are told in the mountains.
 Huitzilopotchli is coming back . . . of that there can be no doubt. Any peon
 south of Mexico City can tell you that. But I meant to do nothing about it. I went home, as
 I tell you, again and again, and was going to benefit society with my electric executioner when
 that cursed Albany legislature adopted the other way. A joke, sir, a joke! Grandfather's
-chair--sit by the fireside--Hawthorne-- " 
+chair--sit by the fireside--Hawthorne--"_
 
- The man was chuckling with a morbid parody of good nature. 
+The man was chuckling with a morbid parody of good nature.
 
-  "Why, sir, I'd like to be the first man to sit in their damned chair
+_"Why, sir, I'd like to be the first man to sit in their damned chair
 and feel their little two-bit battery current! It wouldn't make a frog's legs dance!
 And they expect to kill murderers with it--reward of merit--everything! But then, young
 man, I saw the uselessness--the pointless illogicality, as it were--of killing just
 a few. Everybody is a murderer--they murder ideas--steal inventions--stole mine
-by watching, and watching, and watching-- " 
+by watching, and watching, and watching--"_
 
- The man choked and paused, and I spoke soothingly. 
+The man choked and paused, and I spoke soothingly.
 
-  "I'm sure your invention was much the better, and probably they'll
-come to use it in the end. " 
+_"I'm sure your invention was much the better, and probably they'll
+come to use it in the end."_
 
- Evidently my tact was not great enough, for his response shewed fresh irritation. 
+Evidently my tact was not great enough, for his response shewed fresh irritation.
 
-  ""Sure,' are you? Nice, mild, conservative assurance! Cursed
-lot you care-- but you'll soon know!  Why, damn you, all the good there ever will
+_"Sure, are you? Nice, mild, conservative assurance! Cursed
+lot you care-- but you'll soon know! Why, damn you, all the good there ever will
 be in that electric chair will have been stolen from me. The ghost of Nezahualpilli told me
-that on the sacred mountain. They watched, and watched, and watched-- " 
+that on the sacred mountain. They watched, and watched, and watched--"_
 
- He choked again, then gave another of those gestures in which he seemed to
-shake both his head and his facial expression. That seemed temporarily to steady him. 
+He choked again, then gave another of those gestures in which he seemed to
+shake both his head and his facial expression. That seemed temporarily to steady him.
 
-  "What my invention needs is testing. That is it--here. The wire hood
+_"What my invention needs is testing. That is it--here. The wire hood
 or head-net is flexible, and slips on easily. Neckpiece binds but doesn't choke. Electrodes
 touch forehead and base of cerebellum--all that's necessary. Stop the head, and what
 else can go? The fools up at Albany, with their carved oak easy-chair, think they've got
@@ -295,71 +290,71 @@ that. Why didn't they see what I've done with the storage-battery? Not a hearing
 knows--I alone have the secret--that's why I and Quetzalcoatl and Huitzilopotchli
 will rule the world alone--I and they, if I choose to let them. . . . But
 I must have experimental subjects--subjects-- do you know whom I've chosen for
-the first? "  
+the first?"_
 
- I tried jocoseness, quickly merging into friendly seriousness, as a sedative.
-Quick thought and apt words might save me yet. 
+I tried jocoseness, quickly merging into friendly seriousness, as a sedative.
+Quick thought and apt words might save me yet.
 
-  "Well, there are lots of fine subjects among the politicians of San Francisco,
+_"Well, there are lots of fine subjects among the politicians of San Francisco,
 where I come from! They need your treatment, and I'd like to help you introduce it! But
 really, I think I can help you in all truth. I have some influence in Sacramento, and if you'll
 go back to the States with me after I'm through with my business in Mexico, I'll see
-that you get a hearing. " 
+that you get a hearing."_
 
- He answered soberly and civilly. 
+He answered soberly and civilly.
 
-  "No--I can't go back. I swore not to when those criminals at
+_"No--I can't go back. I swore not to when those criminals at
 Albany turned down my invention and set spies to watch me and steal from me. But I must have
 American subjects. Those greasers are under a curse, and would be too easy; and the full-blood
 Indians--the real children of the feathered serpent--are sacred and inviolate except
 for proper sacrificial victims . . . and even those must be slain according to
 ceremony. I must have Americans without going back--and the first man I choose will be signally
-honoured. Do you know who he is? " 
+honoured. Do you know who he is?"_
 
- I temporised desperately. 
+I temporised desperately.
 
-  "Oh, if that's all the trouble, I'll find you a dozen first-rate
+_"Oh, if that's all the trouble, I'll find you a dozen first-rate
 Yankee specimens as soon as we get to Mexico City! I know where there are lots of small mining
-men who wouldn't be missed for days-- " 
+men who wouldn't be missed for days--"_
 
- But he cut me short with a new and sudden air of authority which had a touch
-of real dignity in it. 
+But he cut me short with a new and sudden air of authority which had a touch
+of real dignity in it.
 
-  "That'll do--we've trifled long enough. Get up and stand
+_"That'll do--we've trifled long enough. Get up and stand
 erect like a man. You're the subject I've chosen, and you'll thank me for the
 honour in the other world, just as the sacrificial victim thanks the priest for transferring
 him to eternal glory. A new principle--no other man alive has dreamed of such a battery,
 and it might never again be hit on if the world experimented a thousand years. Do you know that
 atoms aren't what they seem? Fools! A century after this some dolt would be guessing if
-I were to let the world live! " 
+I were to let the world live!"_
 
- As I arose at his command, he drew additional feet of cord from the valise
+As I arose at his command, he drew additional feet of cord from the valise
 and stood erect beside me; the wire helmet outstretched toward me in both hands, and a look
 of real exaltation on his tanned and bearded face. For an instant he seemed like a radiant Hellenic
-mystagogue or hierophant. 
+mystagogue or hierophant.
 
-  "Here, O Youth--a libation! Wine of the cosmos--nectar of the
+_"Here, O Youth--a libation! Wine of the cosmos--nectar of the
 starry spaces--Linos--Iacchus--Ialmenos--Zagreus--Dionysos--Atys--Hylas--sprung
 from Apollo and slain by the hounds of Argos--seed of Psamathe--child of the sun--Evoë!
-Evoë! " 
+Evoë!"_
 
- He was chanting again, and this time his mind seemed far back amongst the classic
+He was chanting again, and this time his mind seemed far back amongst the classic
 memories of his college days. In my erect posture I noticed the nearness of the signal cord
 overhead, and wondered whether I could reach it through some gesture of ostensible response
-to his ceremonial mood. It was worth trying, so with an antiphonal cry of "Evoë! "
+to his ceremonial mood. It was worth trying, so with an antiphonal cry of _"Evoë!"_
 I put my arms forward and upward toward him in a ritualistic fashion, hoping to give the cord
 a tug before he could notice the act. But it was useless. He saw my purpose, and moved one hand
 toward the right-hand coat pocket where my revolver lay. No words were needed, and we stood
-for a moment like carven figures. Then he quietly said, "Make haste! " 
+for a moment like carven figures. Then he quietly said, _"Make haste!"_
 
- Again my mind rushed frantically about seeking avenues of escape. The doors,
+Again my mind rushed frantically about seeking avenues of escape. The doors,
 I knew, were not locked on Mexican trains; but my companion could easily forestall me if I tried
 to unlatch one and jump out. Besides, our speed was so great that success in that direction
 would probably be as fatal as failure. The only thing to do was to play for time. Of the three-and-a-half-hour
 trip a good slice was already worn away, and once we got to Mexico City the guards and police
-in the station would provide instant safety. 
+in the station would provide instant safety.
 
- There would, I thought, be two distinct times for diplomatic stalling. If I
+There would, I thought, be two distinct times for diplomatic stalling. If I
 could get him to postpone the slipping on of the hood, that much time would be gained. Of course
 I had no belief that the thing was really deadly; but I knew enough of madmen to understand
 what would happen when it failed to work. To his disappointment would be added a mad sense of
@@ -371,11 +366,11 @@ how far his credulity went, and whether I could prepare in advance a prophecy of
 would make the failure itself stamp me as a seer or initiate, or perhaps a god. I had enough
 of a smattering of Mexican mythology to make it worth trying; though I would try other delaying
 influences first and let the prophecy come as a sudden revelation. Would he spare me in the
-end if I could make him think me a prophet or divinity? Could I "get by " as Quetzalcoatl
+end if I could make him think me a prophet or divinity? Could I _"get by"_ as Quetzalcoatl
 or Huitzilopotchli? Anything to drag matters out till five o'clock, when we were due in
-Mexico City. 
+Mexico City.
 
- But my opening "stall " was the veteran will-making ruse. As the maniac
+But my opening _"stall"_ was the veteran will-making ruse. As the maniac
 repeated his command for haste, I told him of my family and intended marriage, and asked for
 the privilege of leaving a message and disposing of my money and effects. If, I said, he would
 lend me some paper and agree to mail what I should write, I could die more peacefully and willingly.
@@ -384,33 +379,33 @@ he handed me solemnly as I resumed my seat. I produced a pencil, artfully breaki
 at the outset and causing some delay while he searched for one of his own. When he gave me this,
 he took my broken pencil and proceeded to sharpen it with a large, horn-handled knife which
 had been in his belt under his coat. Evidently a second pencil-breaking would not profit me
-greatly. 
+greatly.
 
- What I wrote, I can hardly recall at this date. It was largely gibberish, and
+What I wrote, I can hardly recall at this date. It was largely gibberish, and
 composed of random scraps of memorised literature when I could think of nothing else to set
 down. I made my handwriting as illegible as I could without destroying its nature as writing;
 for I knew he would be likely to look at the result before commencing his experiment, and realised
 how he would react to the sight of obvious nonsense. The ordeal was a terrible one, and I chafed
 each second at the slowness of the train. In the past I had often whistled a brisk gallop to
-the sprightly "tac " of wheels on rails, but now the tempo seemed slowed down to that
-of a funeral march--my funeral march, I grimly reflected. 
+the sprightly _"tac"_ of wheels on rails, but now the tempo seemed slowed down to that
+of a funeral march--my funeral march, I grimly reflected.
 
- My ruse worked till I had covered over four pages, six by nine; when at last
+My ruse worked till I had covered over four pages, six by nine; when at last
 the madman drew out his watch and told me I could have but five minutes more. What should I
 do next? I was hastily going through the form of concluding the will when a new idea struck
 me. Ending with a flourish and handing him the finished sheets, which he thrust carelessly into
 his left-hand coat pocket, I reminded him of my influential Sacramento friends who would be
-so much interested in his invention. 
+so much interested in his invention.
 
-  "Oughtn't I to give you a letter of introduction to them? " I
-said "Oughtn't I to make a signed sketch and description of your executioner so that
+_"Oughtn't I to give you a letter of introduction to them?"_ I
+said _"Oughtn't I to make a signed sketch and description of your executioner so that
 they'll grant you a cordial hearing? They can make you famous, you know--and there's
 no question at all but that they'll adopt your method for the state of California if they
-hear of it through someone like me, whom they know and trust. " 
+hear of it through someone like me, whom they know and trust."_
 
- I was taking this tack on the chance that his thoughts as a disappointed inventor
+I was taking this tack on the chance that his thoughts as a disappointed inventor
 would let him forget the Aztec-religious side of his mania for a while. When he veered to the
-latter again, I reflected, I would spring the "revelation " and "prophecy ".
+latter again, I reflected, I would spring the _"revelation"_ and _"prophecy"_.
 The scheme worked, for his eyes glowed an eager assent, though he brusquely told me to be quick.
 He further emptied the valise, lifting out a queer-looking congeries of glass cells and coils
 to which the wire from the helmet was attached, and delivering a fire of running comment too
@@ -420,68 +415,68 @@ after all. Would I get a slight shock when he applied the device? The man surely
 he were a genuine electrician. Description of his own invention was clearly a congenial task
 for him, and I saw he was not as impatient as before. The hopeful grey of dawn glimmered red
 through the windows before he wound up, and I felt at last that my chance of escape had really
-become tangible. 
+become tangible.
 
- But he, too, saw the dawn, and began glaring wildly again. He knew the train
+But he, too, saw the dawn, and began glaring wildly again. He knew the train
 was due in Mexico City at five, and would certainly force quick action unless I could override
 all his judgment with engrossing ideas. As he rose with a determined air, setting the battery
 on the seat beside the open valise, I reminded him that I had not made the needed sketch; and
 asked him to hold the headpiece so that I could draw it near the battery. He complied and resumed
 his seat, with many admonitions to me to hurry. After another moment I paused for some information,
 asking him how the victim was placed for execution, and how his presumable struggles were
-overcome. 
+overcome.
 
-  "Why, " he replied, "the criminal is securely strapped to a post.
+_"Why"_, he replied, _"the criminal is securely strapped to a post.
 It does not matter how much he tosses his head, for the helmet fits tightly and draws even closer
 when the current comes on. We turn the switch gradually--you see it here, a carefully arranged
-affair with a rheostat. " 
+affair with a rheostat."_
 
- A new idea for delay occurred to me as the tilled fields and increasingly frequent
-houses in the dawnlight outside told of our approach to the capital at last. 
+A new idea for delay occurred to me as the tilled fields and increasingly frequent
+houses in the dawnlight outside told of our approach to the capital at last.
 
-  "But, " I said, "I must draw the helmet in place on a human head
+_"But"_, I said, _"I must draw the helmet in place on a human head
 as well as beside the battery. Can't you slip it on yourself a moment so that I can sketch
 you with it? The papers as well as the officials will want all this, and they are strong on
-completeness. " 
+completeness."_
 
- I had, by chance, made a better shot than I had planned; for at my mention
-of the press the madman's eyes lit up afresh. 
+I had, by chance, made a better shot than I had planned; for at my mention
+of the press the madman's eyes lit up afresh.
 
-  "The papers? Yes--damn them, you can make even the papers give me
+_"The papers? Yes--damn them, you can make even the papers give me
 a hearing! They all laughed at me and wouldn't print a word. Here, you, hurry up! We've
-not a second to lose! " 
+not a second to lose!"_
 
- He had slipped the headpiece on and was watching my flying pencil avidly. The
-wire mesh gave him a grotesque, comic look as he sat there with nervously twitching hands. 
+He had slipped the headpiece on and was watching my flying pencil avidly. The
+wire mesh gave him a grotesque, comic look as he sat there with nervously twitching hands.
 
-  "Now, curse 'em, they'll print pictures! I'll revise your
+_"Now, curse 'em, they'll print pictures! I'll revise your
 sketch if you make any blunders--must be accurate at any cost. Police will find you afterward--they'll
 tell how it works. Associated Press item--back up your letter--immortal fame. . . .
-Hurry, I say--hurry, confound you! " 
+Hurry, I say--hurry, confound you!"_
 
- The train was lurching over the poorer roadbed near the city and we swayed
+The train was lurching over the poorer roadbed near the city and we swayed
 disconcertingly now and then. With this excuse I managed to break the pencil again, but of course
 the maniac at once handed me my own which he had sharpened. My first batch of ruses was about
 used up, and I felt that I should have to submit to the headpiece in a moment. We were still
 a good quarter-hour from the terminal, and it was about time for me to divert my companion to
-his religious side and spring the divine prophecy. 
+his religious side and spring the divine prophecy.
 
- Mustering up my scraps of Nahuan-Aztec mythology, I suddenly threw down pencil
-and paper and commenced to chant. 
+Mustering up my scraps of Nahuan-Aztec mythology, I suddenly threw down pencil
+and paper and commenced to chant.
 
-  "Iä! Iä! Tloquenahuaque, Thou Who Art All In Thyself! Thou too, Ipalnemoan,
+_"Iä! Iä! Tloquenahuaque, Thou Who Art All In Thyself! Thou too, Ipalnemoan,
 By Whom We Live! I hear, I hear! I see, I see! Serpent-bearing Eagle, hail! A message! A message!
-Huitzilopotchli, in my soul echoes thy thunder! " 
+Huitzilopotchli, in my soul echoes thy thunder!"_
 
- At my intonations the maniac stared incredulously through his odd mask, his
+At my intonations the maniac stared incredulously through his odd mask, his
 handsome face shewn in a surprise and perplexity which quickly changed to alarm. His mind seemed
 to go blank a moment, and then to recrystallise in another pattern. Raising his hands aloft,
-he chanted as if in a dream. 
+he chanted as if in a dream.
 
-  "Mictlanteuctli, Great Lord, a sign! A sign from within thy black cave!
-Iä! Tonatiuh-Metztli! Cthulhutl! Command, and I serve! " 
+_"Mictlanteuctli, Great Lord, a sign! A sign from within thy black cave!
+Iä! Tonatiuh-Metztli! Cthulhutl! Command, and I serve!"_
 
- Now in all this responsive gibberish there was one word which struck an odd
+Now in all this responsive gibberish there was one word which struck an odd
 chord in my memory. Odd, because it never occurs in any printed account of Mexican mythology,
 yet had been overheard by me more than once as an awestruck whisper amongst the peons in my
 own firm's Tlaxcala mines. It seemed to be part of an exceedingly secret and ancient ritual;
@@ -490,53 +485,52 @@ were as unknown as itself to academic scholarship. This maniac must have spent c
 time with the hill peons and Indians, just as he had said; for surely such unrecorded lore could
 have come from no mere book-learning. Realising the importance he must attach to this doubly
 esoteric jargon, I determined to strike at his most vulnerable spot and give him the gibberish
-responses the natives used. 
+responses the natives used.
 
-  "Ya-R'lyeh! Ya-R'lyeh! " I shouted. "Cthulhutl fhtaghn!
-Niguratl-Yig! Yog-Sototl-- " 
+_"Ya-R'lyeh! Ya-R'lyeh!"_ I shouted. _"Cthulhutl fhtaghn! Niguratl-Yig! Yog-Sototl--"_
 
- But I never had a chance to finish. Galvanised into a religious epilepsy by
+But I never had a chance to finish. Galvanised into a religious epilepsy by
 the exact response which his subconscious mind had probably not really expected, the madman
 scrambled down to a kneeling posture on the floor, bowing his wire-helmeted head again and again,
 and turning it to the right and left as he did so. With each turn his obeisances became more
-profound, and I could hear his foaming lips repeating the syllable "kill, kill, kill, "
+profound, and I could hear his foaming lips repeating the syllable _"kill, kill, kill"_,
 in a rapidly swelling monotone. It occurred to me that I had overreached myself, and that my
 response had unloosed a mounting mania which would rouse him to the slaying-point before the
-train reached the station. 
+train reached the station.
 
- As the arc of the madman's turnings gradually increased, the slack in
+As the arc of the madman's turnings gradually increased, the slack in
 the cord from his headpiece to the battery had naturally been taken up more and more. Now, in
 an all-forgetting delirium of ecstasy, he began to magnify his turns to complete circles, so
 that the cord wound round his neck and began to tug at its moorings to the battery on the seat.
 I wondered what he would do when the inevitable would happen, and the battery would be dragged
-to presumable destruction on the floor. 
+to presumable destruction on the floor.
 
- Then came the sudden cataclysm. The battery, yanked over the seat's edge
+Then came the sudden cataclysm. The battery, yanked over the seat's edge
 by the maniac's last gesture of orgiastic frenzy, did indeed fall; but it did not seem
 to have wholly broken. Instead, as my eye caught the spectacle in one too-fleeting instant,
 the actual impact was borne by the rheostat, so that the switch was jerked over instantly to
-full current. And the marvellous thing is that there  was  a current. The invention was
-no mere dream of insanity. 
+full current. And the marvellous thing is that there was a current. The invention was
+no mere dream of insanity.
 
- I saw a blinding blue auroral coruscation, heard an ululating shriek more hideous
+I saw a blinding blue auroral coruscation, heard an ululating shriek more hideous
 than any of the previous cries of that mad, horrible journey, and smelled the nauseous odour
 of burning flesh. That was all my overwrought consciousness could bear, and I sank instantly
-into oblivion. 
+into oblivion.
 
- When the train guard at Mexico City revived me, I found a crowd on the station
+When the train guard at Mexico City revived me, I found a crowd on the station
 platform around my compartment door. At my involuntary cry the pressing faces became curious
 and dubious, and I was glad when the guard shut out all but the trim doctor who had pushed his
 way through to me. My cry was a very natural thing, but it had been prompted by something more
 than the shocking sight on the carriage floor which I had expected to see. Or should say, by
-something  less,  because in truth there was not anything on the floor at all. 
+something less, because in truth there was not anything on the floor at all.
 
- Nor, said the guard, had there been when he opened the door and found me unconscious
+Nor, said the guard, had there been when he opened the door and found me unconscious
 within. My ticket was the only one sold for that compartment, and I was the only person found
 within it. Just myself and my valise, nothing more. I had been alone all the way from Querétaro.
 Guard, doctor, and spectators alike tapped their foreheads significantly at my frantic and insistent
-questions. 
+questions.
 
- Had it all been a dream, or was I indeed mad? I recalled my anxiety and overwrought
+Had it all been a dream, or was I indeed mad? I recalled my anxiety and overwrought
 nerves, and shuddered. Thanking the guard and doctor, and shaking free of the curious crowd,
 I staggered into a cab and was taken to the Fonda Nacional, where, after telegraphing Jackson
 at the mine, I slept till afternoon in an effort to get a fresh grip on myself. I had myself
@@ -544,15 +538,15 @@ called at one o'clock, in time to catch the narrow-gauge for the mining country,
 I got up I found a telegram under the door. It was from Jackson, and said that Feldon had been
 found dead in the mountains that morning, the news reaching the mine about ten o'clock.
 The papers were all safe, and the San Francisco office had been duly notified. So the whole
-trip, with its nervous haste and harrowing mental ordeal, had been for nothing! 
+trip, with its nervous haste and harrowing mental ordeal, had been for nothing!
 
- Knowing that McComb would expect a personal report despite the course of events,
+Knowing that McComb would expect a personal report despite the course of events,
 I sent another wire ahead and took the narrow-gauge after all. Four hours later I was rattled
 and jolted into the station of Mine No. 3, where Jackson was waiting to give a cordial greeting.
-He was so full of the affair at the mine that he did not notice my still shaken and seedy appearance. 
+He was so full of the affair at the mine that he did not notice my still shaken and seedy appearance.
 
- The superintendent's story was brief, and he told me it as he led me toward
-the shack up the hillside above the  arrastre,  where Feldon's body lay. Feldon, he
+The superintendent's story was brief, and he told me it as he led me toward
+the shack up the hillside above the arrastre, where Feldon's body lay. Feldon, he
 said, had always been a queer, sullen character, ever since he was hired the year before; working
 at some secret mechanical device and complaining of constant espionage, and being disgustingly
 familiar with the native workmen. But he certainly knew the work, the country, and the people.
@@ -561,19 +555,19 @@ of their ancient, heathenish ceremonies. He hinted at odd secrets and strange po
 as he boasted of his mechanical skill. Of late he had disintegrated rapidly; growing morbidly
 suspicious of his colleagues, and undoubtedly joining his native friends in ore-thieving after
 his cash got low. He needed unholy amounts of money for something or other--was always having
-boxes come from laboratories and machine shops in Mexico City or the States. 
+boxes come from laboratories and machine shops in Mexico City or the States.
 
- As for the final absconding with all the papers--it was only a crazy gesture
-of revenge for what he called "spying ". He was certainly stark mad, for he had gone
+As for the final absconding with all the papers--it was only a crazy gesture
+of revenge for what he called _"spying"_. He was certainly stark mad, for he had gone
 across country to a hidden cave on the wild slope of the haunted Sierra de Malinche, where no
 white men live, and had done some amazingly queer things. The cave, which would never have been
 found but for the final tragedy, was full of hideous old Aztec idols and altars; the latter
 covered with the charred bones of recent burnt-offerings of doubtful nature. The natives would
 tell nothing--indeed, they swore they knew nothing--but it was easy to see that the
 cave was an old rendezvous of theirs, and that Feldon had shared their practices to the fullest
-extent. 
+extent.
 
- The searchers had found the place only because of the chanting and the final
+The searchers had found the place only because of the chanting and the final
 cry. It had been close to five that morning, and after an all-night encampment the party had
 begun to pack up for its empty-handed return to the mines. Then somebody had heard faint rhythms
 in the distance, and knew that one of the noxious old native rituals was being howled from some
@@ -583,22 +577,22 @@ some English words were mixed with them. Real white man's English, and no grease
 Guided by the sound, they had hastened up the weed-entangled mountainside toward it, when after
 a spell of quiet the shriek had burst upon them. It was a terrible thing--a worse thing
 than any of them had ever heard before. There seemed to be some smoke, too, and a morbid acrid
-smell. 
+smell.
 
- Then they stumbled on the cave, its entrance screened by scrub mesquites, but
+Then they stumbled on the cave, its entrance screened by scrub mesquites, but
 now emitting clouds of foetid smoke. It was lighted within, the horrible altars and grotesque
 images revealed flickeringly by candles which must have been changed less than a half-hour before;
 and on the gravelly floor lay the horror that made all the crowd reel backward. It was Feldon,
 head burned to a crisp by some odd device he had slipped over it--a kind of wire cage connected
 with a rather shaken-up battery which had evidently fallen to the floor from a nearby altar-pot.
-When the men saw it they exchanged glances, thinking of the "electric executioner "
+When the men saw it they exchanged glances, thinking of the _"electric executioner"_
 Feldon had always boasted of inventing--the thing which everyone had rejected, but had tried
 to steal and copy. The papers were safe in Feldon's open portmanteau which stood close
 by, and an hour later the column of searchers started back for No. 3 with a grisly burden on
-an improvised stretcher. 
+an improvised stretcher.
 
- That was all, but it was enough to make me turn pale and falter as Jackson
-led me up past the  arrastre  to the shed where he said the body lay. For I was not without
+That was all, but it was enough to make me turn pale and falter as Jackson
+led me up past the arrastre to the shed where he said the body lay. For I was not without
 imagination, and knew only too well into what hellish nightmare this tragedy somehow supernaturally
 dovetailed. I knew what I should see inside that gaping door around which the curious miners
 clustered, and did not flinch when my eyes took in the giant form, the rough corduroy clothes,
@@ -614,24 +608,24 @@ by asking about the revolver the coroner afterward took from that sagging right-
 I never had the courage to ask about that--because my own revolver was missing after the
 night on the train. My pocket pencil, too, shewed signs of a crude and hasty sharpening unlike
 the precise pointing I had given it Friday afternoon on the machine in President McComb's
-private car. 
+private car.
 
- So in the end I went home still puzzled--mercifully puzzled, perhaps. The
+So in the end I went home still puzzled--mercifully puzzled, perhaps. The
 private car was repaired when I got back to Querétaro, but my greatest relief was crossing
 the Rio Grande into El Paso and the States. By the next Friday I was in San Francisco again,
-and the postponed wedding came off the following week. 
+and the postponed wedding came off the following week.
 
- As to what really happened that night--as I've said, I simply don't
+As to what really happened that night--as I've said, I simply don't
 dare to speculate. That chap Feldon was insane to start with, and on top of his insanity he
 had piled a lot of prehistoric Aztec witch-lore that nobody has any right to know. He was really
 an inventive genius, and that battery must have been the genuine stuff. I heard later how he
 had been brushed aside in former years by press, public, and potentates alike. Too much disappointment
 isn't good for men of a certain kind. Anyhow, some unholy combination of influences was
-at work. He had really, by the way, been a soldier of Maximilian's. 
+at work. He had really, by the way, been a soldier of Maximilian's.
 
- When I tell my story most people call me a plain liar. Others lay it to abnormal
-psychology--and heaven knows I  was  overwrought--while still others talk of "astral
-projection " of some sort. My zeal to catch Feldon certainly sent my thoughts ahead toward
+When I tell my story most people call me a plain liar. Others lay it to abnormal
+psychology--and heaven knows I was overwrought--while still others talk of _"astral
+projection"_ of some sort. My zeal to catch Feldon certainly sent my thoughts ahead toward
 him, and with all his Indian magic he'd be about the first one to recognise and meet them.
 Was he in the railway carriage or was I in the cave on the corpse-shaped haunted mountain? What
 would have happened to me, had I not delayed him as I did? I'll confess I don't know,

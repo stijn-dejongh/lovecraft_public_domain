@@ -56,4 +56,5 @@ the_descendant.md
 EXTENDED_MYTHOS.md
 ashes.md
 challenge_from_beyond.md
+electric_executioner.md
 Appendix.md
