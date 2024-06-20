@@ -59,4 +59,5 @@ challenge_from_beyond.md
 electric_executioner.md
 hoard_wizard_beast.md
 herbert_west_reanimator.md
+in_walls_of_eryx.md
 Appendix.md
