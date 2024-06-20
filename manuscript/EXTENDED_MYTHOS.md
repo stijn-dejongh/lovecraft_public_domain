@@ -39,3 +39,4 @@ of horror.
 | The Hoard of the Wizard-Beast |   1933    | (_with R.H. Barlow_) A story of a treasure hunter who seeks a fabled hoard guarded by a monstrous creature in a remote jungle.                                                                                                                                    |
 | Herbert West--Reanimator      | 1922-1926 | A serialized story about a medical student who experiments with reanimating the dead, leading to disastrous results.                                                                                                                                              |
 | In the Walls of Eryx          |   1936    | (_with Kenneth Sterling_) A science fiction story about a prospector, who explores the Venus’ jungles in search of valuable crystals.                                                                                                                             |
+

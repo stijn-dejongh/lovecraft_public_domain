@@ -57,4 +57,6 @@ EXTENDED_MYTHOS.md
 ashes.md
 challenge_from_beyond.md
 electric_executioner.md
+hoard_wizard_beast.md
+herbert_west_reanimator.md
 Appendix.md
