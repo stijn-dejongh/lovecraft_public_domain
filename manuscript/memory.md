@@ -1,9 +1,4 @@
-% "Memory" 
-% H. P. Lovecraft
-
-    
-
- 
+# Memory
 
 In the valley of Nis the accursed waning moon shines thinly, tearing a path for its light with
 feeble horns through the lethal foliage of a great upas-tree. And within the depths of the valley,
@@ -11,23 +6,23 @@ where the light reaches not, move forms not meet to be beheld. Rank is the herba
 where evil vines and creeping plants crawl amidst the stones of ruined palaces, twining tightly
 about broken columns and strange monoliths, and heaving up marble pavements laid by forgotten
 hands. And in trees that grow gigantic in crumbling courtyards leap little apes, while in and
-out of deep treasure-vaults writhe poison serpents and scaly things without a name. 
+out of deep treasure-vaults writhe poison serpents and scaly things without a name.
 
- Vast are the stones which sleep beneath coverlets of dank moss, and mighty
+Vast are the stones which sleep beneath coverlets of dank moss, and mighty
 were the walls from which they fell. For all time did their builders erect them, and in sooth
-they yet serve nobly, for beneath them the grey toad makes his habitation. 
+they yet serve nobly, for beneath them the grey toad makes his habitation.
 
- At the very bottom of the valley lies the river Than, whose waters are slimy
+At the very bottom of the valley lies the river Than, whose waters are slimy
 and filled with weeds. From hidden springs it rises, and to subterranean grottoes it flows,
-so that the Daemon of the Valley knows not why its waters are red, nor whither they are bound. 
+so that the Daemon of the Valley knows not why its waters are red, nor whither they are bound.
 
- The Genie that haunts the moonbeams spake to the Daemon of the Valley, saying,
- "I am old, and forget much. Tell me the deeds and aspect and name of them who built these
-things of stone. " And the Daemon replied, "I am Memory, and am wise in lore of the
+The Genie that haunts the moonbeams spake to the Daemon of the Valley, saying,
+_"I am old, and forget much. Tell me the deeds and aspect and name of them who built these
+things of stone."_ And the Daemon replied, _"I am Memory, and am wise in lore of the
 past, but I too am old. These beings were like the waters of the river Than, not to be understood.
 Their deeds I recall not, for they were but of the moment. Their aspect I recall dimly, for
 it was like to that of the little apes in the trees. Their name I recall clearly, for it rhymed
-with that of the river. These beings of yesterday were called Man. " 
+with that of the river. These beings of yesterday were called Man."_
 
- So the Genie flew back to the thin horned moon, and the Daemon looked intently
+So the Genie flew back to the thin horned moon, and the Daemon looked intently
 at a little ape in a tree that grew in a crumbling courtyard. 

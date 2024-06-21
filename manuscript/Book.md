@@ -61,4 +61,9 @@ hoard_wizard_beast.md
 herbert_west_reanimator.md
 in_walls_of_eryx.md
 medusas_coil.md
+memory.md
+moon_bog.md
+music_erich_zann.md
+night_ocean.md
+pickmans_model.md
 Appendix.md
