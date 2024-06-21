@@ -1,23 +1,7 @@
-% "The Tomb" 
-% H. P. Lovecraft
+# The Tomb
 
-    
-
- 
-
- 
- 
- 
-   
-    
-      "Sedibus ut saltem placidis in morte quiescam. " 
-       -- Virgil.  
-      
-    
-   
- 
- 
- 
+> _"Sedibus ut saltem placidis in morte quiescam."_[^1]
+> -- Virgil.
 
 In relating the circumstances which have led to my confinement within this refuge for the demented,
 I am aware that my present position will create a natural doubt of the authenticity of my narrative.
@@ -27,9 +11,9 @@ sensitive few, which lie outside its common experience. Men of broader intellect
 is no sharp distinction betwixt the real and the unreal; that all things appear as they do only
 by virtue of the delicate individual physical and mental media through which we are made conscious
 of them; but the prosaic materialism of the majority condemns as madness the flashes of super-sight
-which penetrate the common veil of obvious empiricism. 
+which penetrate the common veil of obvious empiricism.
 
- My name is Jervas Dudley, and from earliest childhood I have been a dreamer
+My name is Jervas Dudley, and from earliest childhood I have been a dreamer
 and a visionary. Wealthy beyond the necessity of a commercial life, and temperamentally unfitted
 for the formal studies and social recreations of my acquaintances, I have dwelt ever in realms
 apart from the visible world; spending my youth and adolescence in ancient and little-known
@@ -37,9 +21,9 @@ books, and in roaming the fields and groves of the region near my ancestral home
 that what I read in these books or saw in these fields and groves was exactly what other boys
 read and saw there; but of this I must say little, since detailed speech would but confirm those
 cruel slanders upon my intellect which I sometimes overhear from the whispers of the stealthy
-attendants around me. It is sufficient for me to relate events without analysing causes. 
+attendants around me. It is sufficient for me to relate events without analysing causes.
 
- I have said that I dwelt apart from the visible world, but I have not said
+I have said that I dwelt apart from the visible world, but I have not said
 that I dwelt alone. This no human creature may do; for lacking the fellowship of the living,
 he inevitably draws upon the companionship of things that are not, or are no longer, living.
 Close by my home there lies a singular wooded hollow, in whose twilight deeps I spent most of
@@ -49,25 +33,25 @@ Well did I come to know the presiding dryads of those trees, and often have I wa
 wild dances in the struggling beams of a waning moon--but of these things I must not now
 speak. I will tell only of the lone tomb in the darkest of the hillside thickets; the deserted
 tomb of the Hydes, an old and exalted family whose last direct descendant had been laid within
-its black recesses many decades before my birth. 
+its black recesses many decades before my birth.
 
- The vault to which I refer is of ancient granite, weathered and discoloured
+The vault to which I refer is of ancient granite, weathered and discoloured
 by the mists and dampness of generations. Excavated back into the hillside, the structure is
 visible only at the entrance. The door, a ponderous and forbidding slab of stone, hangs upon
-rusted iron hinges, and is fastened  ajar  in a queerly sinister way by means of heavy
+rusted iron hinges, and is fastened ajar in a queerly sinister way by means of heavy
 iron chains and padlocks, according to a gruesome fashion of half a century ago. The abode of
 the race whose scions are here inurned had once crowned the declivity which holds the tomb,
 but had long since fallen victim to the flames which sprang up from a disastrous stroke of lightning.
 Of the midnight storm which destroyed this gloomy mansion, the older inhabitants of the region
-sometimes speak in hushed and uneasy voices; alluding to what they call "divine wrath "
+sometimes speak in hushed and uneasy voices; alluding to what they call _"divine wrath"_
 in a manner that in later years vaguely increased the always strong fascination which I felt
 for the forest-darkened sepulchre. One man only had perished in the fire. When the last of the
 Hydes was buried in this place of shade and stillness, the sad urnful of ashes had come from
 a distant land; to which the family had repaired when the mansion burned down. No one remains
 to lay flowers before the granite portal, and few care to brave the depressing shadows which
-seem to linger strangely about the water-worn stones. 
+seem to linger strangely about the water-worn stones.
 
- I shall never forget the afternoon when first I stumbled upon the half-hidden
+I shall never forget the afternoon when first I stumbled upon the half-hidden
 house of death. It was in mid-summer, when the alchemy of Nature transmutes the sylvan landscape
 to one vivid and almost homogeneous mass of green; when the senses are well-nigh intoxicated
 with the surging seas of moist verdure and the subtly indefinable odours of the soil and the
@@ -90,13 +74,13 @@ the beckoning gloom in spite of the ponderous chains which barred my passage. In
 light of day I alternately rattled the rusty impediments with a view to throwing wide the stone
 door, and essayed to squeeze my slight form through the space already provided; but neither
 plan met with success. At first curious, I was now frantic; and when in the thickening twilight
-I returned to my home, I had sworn to the hundred gods of the grove that  at any cost 
+I returned to my home, I had sworn to the hundred gods of the grove that at any cost
 I would some day force an entrance to the black, chilly depths that seemed calling out to me.
 The physician with the iron-grey beard who comes each day to my room once told a visitor that
 this decision marked the beginning of a pitiful monomania; but I will leave final judgment to
-my readers when they shall have learnt all. 
+my readers when they shall have learnt all.
 
- The months following my discovery were spent in futile attempts to force the
+The months following my discovery were spent in futile attempts to force the
 complicated padlock of the slightly open vault, and in carefully guarded inquiries regarding
 the nature and history of the structure. With the traditionally receptive ears of the small
 boy, I learned much; though an habitual secretiveness caused me to tell no one of my information
@@ -109,18 +93,18 @@ years in the ancient hall gave to me a new and potent interest in the tomb, befo
 I would sit for hours at a time each day. Once I thrust a candle within the nearly closed entrance,
 but could see nothing save a flight of damp stone steps leading downward. The odour of the place
 repelled yet bewitched me. I felt I had known it before, in a past remote beyond all recollection;
-beyond even my tenancy of the body I now possess. 
+beyond even my tenancy of the body I now possess.
 
- The year after I first beheld the tomb, I stumbled upon a worm-eaten translation
-of Plutarch's  Lives  in the book-filled attic of my home. Reading the life of Theseus,
+The year after I first beheld the tomb, I stumbled upon a worm-eaten translation
+of Plutarch's Lives in the book-filled attic of my home. Reading the life of Theseus,
 I was much impressed by that passage telling of the great stone beneath which the boyish hero
 was to find his tokens of destiny whenever he should become old enough to lift its enormous
 weight. This legend had the effect of dispelling my keenest impatience to enter the vault, for
 it made me feel that the time was not yet ripe. Later, I told myself, I should grow to a strength
 and ingenuity which might enable me to unfasten the heavily chained door with ease; but until
-then I would do better by conforming to what seemed the will of Fate. 
+then I would do better by conforming to what seemed the will of Fate.
 
- Accordingly my watches by the dank portal became less persistent, and much
+Accordingly my watches by the dank portal became less persistent, and much
 of my time was spent in other though equally strange pursuits. I would sometimes rise very quietly
 in the night, stealing out to walk in those churchyards and places of burial from which I had
 been kept by my parents. What I did there I may not say, for I am not now sure of the reality
@@ -132,36 +116,36 @@ whose slate headstone, bearing a graven skull and crossbones, was slowly crumbli
 In a moment of childish imagination I vowed not only that the undertaker, Goodman Simpson, had
 stolen the silver-buckled shoes, silken hose, and satin small-clothes of the deceased before
 burial; but that the Squire himself, not fully inanimate, had turned twice in his mound-covered
-coffin on the day after interment. 
+coffin on the day after interment.
 
- But the idea of entering the tomb never left my thoughts; being indeed stimulated
+But the idea of entering the tomb never left my thoughts; being indeed stimulated
 by the unexpected genealogical discovery that my own maternal ancestry possessed at least a
 slight link with the supposedly extinct family of the Hydes. Last of my paternal race, I was
 likewise the last of this older and more mysterious line. I began to feel that the tomb was
- mine,  and to look forward with hot eagerness to the time when I might pass within that
-stone door and down those slimy stone steps in the dark. I now formed the habit of  listening 
+mine, and to look forward with hot eagerness to the time when I might pass within that
+stone door and down those slimy stone steps in the dark. I now formed the habit of listening
 very intently at the slightly open portal, choosing my favourite hours of midnight stillness
 for the odd vigil. By the time I came of age, I had made a small clearing in the thicket before
 the mould-stained facade of the hillside, allowing the surrounding vegetation to encircle and
 overhang the space like the walls and roof of a sylvan bower. This bower was my temple, the
 fastened door my shrine, and here I would lie outstretched on the mossy ground, thinking strange
-thoughts and dreaming strange dreams. 
+thoughts and dreaming strange dreams.
 
- The night of the first revelation was a sultry one. I must have fallen asleep
-from fatigue, for it was with a distinct sense of awakening that I heard the  voices. 
-Of those tones and accents I hesitate to speak; of their  quality  I will not speak; but
+The night of the first revelation was a sultry one. I must have fallen asleep
+from fatigue, for it was with a distinct sense of awakening that I heard the voices.
+Of those tones and accents I hesitate to speak; of their quality I will not speak; but
 I may say that they presented certain uncanny differences in vocabulary, pronunciation, and
 mode of utterance. Every shade of New England dialect, from the uncouth syllables of the Puritan
 colonists to the precise rhetoric of fifty years ago, seemed represented in that shadowy colloquy,
 though it was only later that I noticed the fact. At the time, indeed, my attention was distracted
 from this matter by another phenomenon; a phenomenon so fleeting that I could not take oath
-upon its reality. I barely fancied that as I awoke, a  light  had been hurriedly extinguished
+upon its reality. I barely fancied that as I awoke, a light had been hurriedly extinguished
 within the sunken sepulchre. I do not think I was either astounded or panic-stricken, but I
-know that I was greatly and permanently  changed  that night. Upon returning home I went
+know that I was greatly and permanently changed that night. Upon returning home I went
 with much directness to a rotting chest in the attic, wherein I found the key which next day
-unlocked with ease the barrier I had so long stormed in vain. 
+unlocked with ease the barrier I had so long stormed in vain.
 
- It was in the soft glow of late afternoon that I first entered the vault on
+It was in the soft glow of late afternoon that I first entered the vault on
 the abandoned slope. A spell was upon me, and my heart leaped with an exultation I can but ill
 describe. As I closed the door behind me and descended the dripping steps by the light of my
 lone candle, I seemed to know the way; and though the candle sputtered with the stifling reek
@@ -172,15 +156,15 @@ certain curious heaps of whitish dust. Upon one plate I read the name of Sir Geo
 who had come from Sussex in 1640 and died here a few years later. In a conspicuous alcove was
 one fairly well-preserved and untenanted casket, adorned with a single name which brought to
 me both a smile and a shudder. An odd impulse caused me to climb upon the broad slab, extinguish
-my candle, and lie down within the vacant box. 
+my candle, and lie down within the vacant box.
 
- In the grey light of dawn I staggered from the vault and locked the chain of
+In the grey light of dawn I staggered from the vault and locked the chain of
 the door behind me. I was no longer a young man, though but twenty-one winters had chilled my
 bodily frame. Early-rising villagers who observed my homeward progress looked at me strangely,
 and marvelled at the signs of ribald revelry which they saw in one whose life was known to be
-sober and solitary. I did not appear before my parents till after a long and refreshing sleep. 
+sober and solitary. I did not appear before my parents till after a long and refreshing sleep.
 
- Henceforward I haunted the tomb each night; seeing, hearing, and doing things
+Henceforward I haunted the tomb each night; seeing, hearing, and doing things
 I must never reveal. My speech, always susceptible to environmental influences, was the first
 thing to succumb to the change; and my suddenly acquired archaism of diction was soon remarked
 upon. Later a queer boldness and recklessness came into my demeanour, till I unconsciously grew
@@ -191,73 +175,73 @@ pored in youth; and covered the flyleaves of my books with facile impromptu epig
 up suggestions of Gay, Prior, and the sprightliest of the Augustan wits and rimesters. One morning
 at breakfast I came close to disaster by declaiming in palpably liquorish accents an effusion
 of eighteenth-century Bacchanalian mirth; a bit of Georgian playfulness never recorded in a
-book, which ran something like this:  
+book, which ran something like this:
 
-     
-Come hither, my lads, with your tankards of ale, 
-And drink to the present before it shall fail; 
-Pile each on your platter a mountain of beef, 
-For 'tis eating and drinking that bring us relief: 
- So fill up your glass, 
- For life will soon pass; 
-When you're dead ye'll ne'er drink to your king or your lass!  
 
-Anacreon had a red nose, so they say; 
-But what's a red nose if ye're happy and gay? 
-Gad split me! I'd rather be red whilst I'm here, 
-Than white as a lily--and dead half a year! 
- So Betty, my miss, 
- Come give me a kiss; 
-In hell there's no innkeeper's daughter like this!  
+> Come hither, my lads, with your tankards of ale,
+> And drink to the present before it shall fail;
+> Pile each on your platter a mountain of beef,
+> For 'tis eating and drinking that bring us relief:
+> So fill up your glass,
+> For life will soon pass;
+> When you're dead ye'll ne'er drink to your king or your lass!
+>
+> Anacreon had a red nose, so they say;
+> But what's a red nose if ye're happy and gay?
+> Gad split me! I'd rather be red whilst I'm here,
+> Than white as a lily--and dead half a year!
+> So Betty, my miss,
+> Come give me a kiss;
+> In hell there's no innkeeper's daughter like this!
+>
+> Young Harry, propp'd up just as straight as he's able,
+> Will soon lose his wig and slip under the table;
+> But fill up your goblets and pass 'em around--
+> Better under the table than under the ground!
+> So revel and chaff
+> As ye thirstily quaff:
+> Under six feet of dirt 'tis less easy to laugh!
+>
+> The fiend strike me blue! I'm scarce able to walk,
+> And damn me if I can stand upright or talk!
+> Here, landlord, bid Betty to summon a chair;
+> I'll try home for a while, for my wife is not there!
+> So lend me a hand;
+> I'm not able to stand,
+> But I'm gay whilst I linger on top of the land!
 
-Young Harry, propp'd up just as straight as he's able, 
-Will soon lose his wig and slip under the table; 
-But fill up your goblets and pass 'em around-- 
-Better under the table than under the ground! 
- So revel and chaff 
- As ye thirstily quaff: 
-Under six feet of dirt 'tis less easy to laugh!  
 
-The fiend strike me blue! I'm scarce able to walk, 
-And damn me if I can stand upright or talk! 
-Here, landlord, bid Betty to summon a chair; 
-I'll try home for a while, for my wife is not there! 
- So lend me a hand; 
- I'm not able to stand, 
-But I'm gay whilst I linger on top of the land!
-      
-
- About this time I conceived my present fear of fire and thunderstorms. Previously
+About this time I conceived my present fear of fire and thunderstorms. Previously
 indifferent to such things, I had now an unspeakable horror of them; and would retire to the
 innermost recesses of the house whenever the heavens threatened an electrical display. A favourite
 haunt of mine during the day was the ruined cellar of the mansion that had burned down, and
 in fancy I would picture the structure as it had been in its prime. On one occasion I startled
 a villager by leading him confidently to a shallow sub-cellar, of whose existence I seemed to
-know in spite of the fact that it had been unseen and forgotten for many generations. 
+know in spite of the fact that it had been unseen and forgotten for many generations.
 
- At last came that which I had long feared. My parents, alarmed at the altered
+At last came that which I had long feared. My parents, alarmed at the altered
 manner and appearance of their only son, commenced to exert over my movements a kindly espionage
 which threatened to result in disaster. I had told no one of my visits to the tomb, having guarded
 my secret purpose with religious zeal since childhood; but now I was forced to exercise care
 in threading the mazes of the wooded hollow, that I might throw off a possible pursuer. My key
 to the vault I kept suspended from a cord about my neck, its presence known only to me. I never
-carried out of the sepulchre any of the things I came upon whilst within its walls. 
+carried out of the sepulchre any of the things I came upon whilst within its walls.
 
- One morning as I emerged from the damp tomb and fastened the chain of the portal
+One morning as I emerged from the damp tomb and fastened the chain of the portal
 with none too steady hand, I beheld in an adjacent thicket the dreaded face of a watcher. Surely
 the end was near; for my bower was discovered, and the objective of my nocturnal journeys revealed.
 The man did not accost me, so I hastened home in an effort to overhear what he might report
 to my careworn father. Were my sojourns beyond the chained door about to be proclaimed to the
 world? Imagine my delighted astonishment on hearing the spy inform my parent in a cautious whisper
- that I had spent the night in the bower outside the tomb;  my sleep-filmed eyes fixed
+that I had spent the night in the bower outside the tomb; my sleep-filmed eyes fixed
 upon the crevice where the padlocked portal stood ajar! By what miracle had the watcher been
 thus deluded? I was now convinced that a supernatural agency protected me. Made bold by this
 heaven-sent circumstance, I began to resume perfect openness in going to the vault; confident
 that no one could witness my entrance. For a week I tasted to the full the joys of that charnel
-conviviality which I must not describe, when the  thing  happened, and I was borne away
-to this accursed abode of sorrow and monotony. 
+conviviality which I must not describe, when the thing happened, and I was borne away
+to this accursed abode of sorrow and monotony.
 
- I should not have ventured out that night; for the taint of thunder was in
+I should not have ventured out that night; for the taint of thunder was in
 the clouds, and a hellish phosphorescence rose from the rank swamp at the bottom of the hollow.
 The call of the dead, too, was different. Instead of the hillside tomb, it was the charred cellar
 on the crest of the slope whose presiding daemon beckoned to me with unseen fingers. As I emerged
@@ -276,14 +260,14 @@ the boisterous company. Red tongues of flame and searing gusts of heat engulfed 
 the roysterers, struck with terror at the descent of a calamity which seemed to transcend the
 bounds of unguided Nature, fled shrieking into the night. I alone remained, riveted to my seat
 by a grovelling fear which I had never felt before. And then a second horror took possession
-of my soul. Burnt alive to ashes, my body dispersed by the four winds,  I might never lie
-in the tomb of the Hydes!  Was not my coffin prepared for me? Had I not a right to rest till
+of my soul. Burnt alive to ashes, my body dispersed by the four winds, I might never lie
+in the tomb of the Hydes! Was not my coffin prepared for me? Had I not a right to rest till
 eternity amongst the descendants of Sir Geoffrey Hyde? Aye! I would claim my heritage of death,
 even though my soul go seeking through the ages for another corporeal tenement to represent
-it on that vacant slab in the alcove of the vault.  Jervas Hyde  should never share the
-sad fate of Palinurus! 
+it on that vacant slab in the alcove of the vault. Jervas Hyde should never share the
+sad fate of Palinurus!
 
- As the phantom of the burning house faded, I found myself screaming and struggling
+As the phantom of the burning house faded, I found myself screaming and struggling
 madly in the arms of two men, one of whom was the spy who had followed me to the tomb. Rain
 was pouring down in torrents, and upon the southern horizon were flashes of the lightning that
 had so lately passed over our heads. My father, his face lined with sorrow, stood by as I shouted
@@ -295,10 +279,10 @@ and now objectless writhing, I watched the spectators as they viewed the treasur
 was permitted to share in their discoveries. The box, whose fastenings were broken by the stroke
 which had unearthed it, contained many papers and objects of value; but I had eyes for one thing
 alone. It was the porcelain miniature of a young man in a smartly curled bag-wig, and bore the
-initials "J. H. " The face was such that as I gazed, I might well have been studying
-my mirror. 
+initials _"J. H."_ The face was such that as I gazed, I might well have been studying
+my mirror.
 
- On the following day I was brought to this room with the barred windows, but
+On the following day I was brought to this room with the barred windows, but
 I have been kept informed of certain things through an aged and simple-minded servitor, for
 whom I bore a fondness in infancy, and who like me loves the churchyard. What I have dared relate
 of my experiences within the vault has brought me only pitying smiles. My father, who visits
@@ -310,11 +294,13 @@ Against these assertions I have no tangible proof to offer, since my key to the 
 lost in the struggle on that night of horrors. The strange things of the past which I learnt
 during those nocturnal meetings with the dead he dismisses as the fruits of my lifelong and
 omnivorous browsing amongst the ancient volumes of the family library. Had it not been for my
-old servant Hiram, I should have by this time become quite convinced of my madness. 
+old servant Hiram, I should have by this time become quite convinced of my madness.
 
- But Hiram, loyal to the last, has held faith in me, and has done that which
+But Hiram, loyal to the last, has held faith in me, and has done that which
 impels me to make public at least a part of my story. A week ago he burst open the lock which
 chains the door of the tomb perpetually ajar, and descended with a lantern into the murky depths.
 On a slab in an alcove he found an old but empty coffin whose tarnished plate bears the single
-word  "Jervas ".  In that coffin and in that vault they have promised me I shall
-be buried. 
+word _"Jervas"_. In that coffin and in that vault they have promised me I shall
+be buried.
+
+[^1]: _"That at least in death I may rest in peaceful quarters"_, or: _"That in death I may at least rest in peaceful quarters"_

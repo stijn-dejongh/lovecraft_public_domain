@@ -66,4 +66,10 @@ moon_bog.md
 music_erich_zann.md
 night_ocean.md
 pickmans_model.md
+very_old_folk.md
+the_street.md
+the_temple.md
+picture_in_the_house.md
+terrible_old_man.md
+the_tomb.md
 Appendix.md

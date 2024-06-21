@@ -1,21 +1,15 @@
-% "The Very Old Folk" 
-% H. P. Lovecraft
+# The Very Old Folk
 
-    
+**Thursday November 3, 1927**
 
- 
+Dear Melmoth:-
 
-    <font
-size=-1>Thursday [November 3, 1927]     
-
-Dear Melmoth:- 
-
- . . . So you are busy delving into the shady past of that
+. . . So you are busy delving into the shady past of that
 insufferable young Asiatic Varius Avitus Bassianus? Ugh! There are few persons I loathe more than
-that cursed little Syrian rat! 
+that cursed little Syrian rat!
 
- I have myself been carried back to Roman times by my recent perusal of James
-Rhoades'  &AElig;neid,  a translation never before read by me, and more faithful to P.
+I have myself been carried back to Roman times by my recent perusal of James
+Rhoades' &AElig;neid, a translation never before read by me, and more faithful to P.
 Maro than any other versified version I have ever seen--including that of my late uncle Dr.
 Clark, which did not attain publication. This Virgilian diversion, together with the spectral
 thoughts incident to All Hallows' Eve with its Witch-Sabbaths on the hills, produced in me
@@ -23,9 +17,9 @@ last Monday night a Roman dream of such supernal clearness and vividness, and su
 adumbrations of hidden horror, that I verily believe I shall some day employ it in fiction. Roman
 dreams were no uncommon features of my youth--I used to follow the Divine Julius all over
 Gallia as a Tribunus Militum o'nights--but I had so long ceased to experience them, that
-the present one impressed me with extraordinary force. 
+the present one impressed me with extraordinary force.
 
- It was a flaming sunset or late afternoon in the tiny provincial town of Pompelo,
+It was a flaming sunset or late afternoon in the tiny provincial town of Pompelo,
 at the foot of the Pyrenees in Hispania Citerior. The year must have been in the late republic, for
 the province was still ruled by a senatorial proconsul instead of a pr&aelig;torian legate of
 Augustus, and the day was the first before the Kalends of November. The hills rose scarlet and gold
@@ -35,16 +29,16 @@ to the east. Groups of citizens--broad-browed Roman colonists and coarse-haired 
 natives, together with obvious hybrids of the two strains, alike clad in cheap woollen
 togas--and sprinklings of helmeted legionaries and coarse-mantled, black-bearded tribesmen of
 the circumambient Vascones--all thronged the few paved streets and forum; moved by some vague
-and ill-defined uneasiness. 
+and ill-defined uneasiness.
 
- I myself had just alighted from a litter, which the Illyrian bearers seemed to
+I myself had just alighted from a litter, which the Illyrian bearers seemed to
 have brought in some haste from Calagurris, across the Iberus to the southward. It appeared that I
 was a provincial qu&aelig;stor named L. C&aelig;lius Rufus, and that I had been summoned by the
 proconsul, P. Scribonius Libo, who had come from Tarraco some days before. The soldiers were the
 fifth cohort of the XIIth legion, under the military tribune Sex. Asellius; and the legatus of the
-whole region, Cn. Balbutius, had also come from Calagurris, where the permanent station was. 
+whole region, Cn. Balbutius, had also come from Calagurris, where the permanent station was.
 
- The cause of the conference was a horror that brooded on the hills. All the
+The cause of the conference was a horror that brooded on the hills. All the
 townsfolk were frightened, and had begged the presence of a cohort from Calagurris. It was the
 Terrible Season of the autumn, and the wild people in the mountains were preparing for the
 frightful ceremonies which only rumour told of in the towns. They were the very old folk who dwelt
@@ -56,16 +50,16 @@ into the villages. Always the same--the night before the Kalends of Maius and th
 the Kalends of November. Townsfolk would disappear just before these nights, and would never be
 heard of again. And there were whispers that the native shepherds and farmers were not ill-disposed
 toward the very old folk--that more than one thatched hut was vacant before midnight on the two
-hideous Sabbaths. 
+hideous Sabbaths.
 
- This year the horror was very great, for the people knew that the wrath of the
+This year the horror was very great, for the people knew that the wrath of the
 very old folk was upon Pompelo. Three months previously five of the little squint-eyed traders had
 come down from the hills, and in a market brawl three of them had been killed. The remaining two
 had gone back wordlessly to their mountains--and this autumn not a single villager had
 disappeared. There was menace in this immunity. It was not like the very old folk to spare their
-victims at the Sabbath. It was too good to be normal, and the villagers were afraid. 
+victims at the Sabbath. It was too good to be normal, and the villagers were afraid.
 
- For many nights there had been a hollow drumming on the hills, and at last the
+For many nights there had been a hollow drumming on the hills, and at last the
 &aelig;dile Tib. Ann&aelig;us Stilpo (half native in blood) had sent to Balbutius at Calagurris for
 a cohort to stamp out the Sabbath on the terrible night. Balbutius had carelessly refused, on the
 ground that the villagers' fears were empty, and that the loathsome rites of hill folk were of no
@@ -81,16 +75,16 @@ eve of November's Kalends and stamping out whatever nameless orgies he might fin
 such prisoners as he might take to Tarraco for the next propr&aelig;tor's court. Balbutius,
 however, had protested, so that more correspondence had ensued. I had written so much to the
 proconsul that he had become gravely interested, and had resolved to make a personal inquiry into
-the horror. 
+the horror.
 
- He had at length proceeded to Pompelo with his lictors and attendants; there
+He had at length proceeded to Pompelo with his lictors and attendants; there
 hearing enough rumours to be greatly impressed and disturbed, and standing firmly by his order for
 the Sabbath's extirpation. Desirous of conferring with one who had studied the subject, he ordered
 me to accompany Asellius' cohort--and Balbutius had also come along to press his adverse
 advice, for he honestly believed that drastic military action would stir up a dangerous sentiment
-of unrest amongst the Vascones both tribal and settled. 
+of unrest amongst the Vascones both tribal and settled.
 
- So here we all were in the mystic sunset of the autumn hills--old Scribonius
+So here we all were in the mystic sunset of the autumn hills--old Scribonius
 Libo in his toga pr&aelig;texta, the golden light glancing on his shiny bald head and wrinkled hawk
 face, Balbutius with his gleaming helmet and breastplate, blue-shaven lips compressed in
 conscientiously dogged opposition, young Asellius with his polished greaves and superior sneer, and
@@ -100,15 +94,15 @@ everywhere horror brooded. The town and country folk scarcely dared speak aloud,
 Libo's entourage, who had been there nearly a week, seemed to have caught something of the nameless
 dread. Old Scribonius himself looked very grave, and the sharp voices of us later comers seemed to
 hold something of curious inappropriateness, as in a place of death or the temple of some mystic
-god. 
+god.
 
- We entered the pr&aelig;torium and held grave converse. Balbutius pressed his
+We entered the pr&aelig;torium and held grave converse. Balbutius pressed his
 objections, and was sustained by Asellius, who appeared to hold all the natives in extreme contempt
 while at the same time deeming it inadvisable to excite them. Both soldiers maintained that we
 could better afford to antagonise the minority of colonists and civilised natives by inaction, than
-to antagonise a probable majority of tribesmen and cottagers by stamping out the dread rites. 
+to antagonise a probable majority of tribesmen and cottagers by stamping out the dread rites.
 
- I, on the other hand, renewed my demand for action, and offered to accompany the
+I, on the other hand, renewed my demand for action, and offered to accompany the
 cohort on any expedition it might undertake. I pointed out that the barbarous Vascones were at best
 turbulent and uncertain, so that skirmishes with them were inevitable sooner or later whichever
 course we might take; that they had not in the past proved dangerous adversaries to our legions,
@@ -139,9 +133,9 @@ both principle and policy demanded stern action; and I could not doubt but that 
 bearing in mind the dignity and obligations of the Roman People, would adhere to his plan of
 despatching the cohort, me accompanying, despite such objections as Balbutius and
 Asellius--speaking indeed more like provincials than Romans--might see fit to offer and
-multiply. 
+multiply.
 
- The slanting sun was now very low, and the whole hushed town seemed draped in an
+The slanting sun was now very low, and the whole hushed town seemed draped in an
 unreal and malign glamour. Then P. Scribonius the proconsul signified his approval of my words, and
 stationed me with the cohort in the provisional capacity of a centurio primipilus; Balbutius and
 Asellius assenting, the former with better grace than the latter. As twilight fell on the wild
@@ -152,7 +146,7 @@ Balbutius, insisted on accompanying the cohort; but great difficulty was suffere
 native guide to point out the paths up the mountain. Finally a young man named Vercellius, the son
 of pure Roman parents, agreed to take us at least past the foothills. We began to march in the new
 dusk, with the thin silver sickle of a young moon trembling over the woods on our left. That which
-disquieted us most was  the fact that the Sabbath was to be held at all.  Reports of the
+disquieted us most was the fact that the Sabbath was to be held at all. Reports of the
 coming cohort must have reached the hills, and even the lack of a final decision could not make the
 rumour less alarming--yet there were the sinister drums as of yore, as if the celebrants had
 some peculiar reason to be indifferent whether or not the forces of the Roman People marched
@@ -165,8 +159,8 @@ not likely to be abroad on such a night of terror. Once in a while it seemed as 
 a skulking form in the woods nearby, and after a half-hour's climb the steepness and narrowness of
 the way made the advance of so great a body of men--over 300, all told--exceedingly
 cumbrous and difficult. Then with utter and horrifying suddenness we heard a frightful sound from
-below. It was from the tethered horses--they had  screamed,  not neighed, but
- screamed...  and there was no light down there, nor the sound of any human thing, to shew why
+below. It was from the tethered horses--they had screamed, not neighed, but
+screamed... and there was no light down there, nor the sound of any human thing, to shew why
 they had done so. At the same moment bonfires blazed out on all the peaks ahead, so that terror
 seemed to lurk equally well before and behind us. Looking for the youth Vercellius, our guide, we
 found only a crumpled heap weltering in a pool of blood. In his hand was a short sword snatched
@@ -189,14 +183,13 @@ to louder pitch, whilst an ice-cold wind of shocking sentience and deliberatenes
 those forbidden heights and coiled about each man separately, till all the cohort was struggling
 and screaming in the dark, as if acting out the fate of Laocoön and his sons. Only old
 Scribonius Libo seemed resigned. He uttered words amidst the screaming, and they echo still in my
-ears.  "Malitia vetus--malitia vetus est . . . venit . . .
-tandem venit . . . "  
+ears. _"Malitia vetus--malitia vetus est . . . venit . . . tandem venit . . ."_
 
- And then I waked. It was the most vivid dream in years, drawing upon wells of the
+And then I waked. It was the most vivid dream in years, drawing upon wells of the
 subconscious long untouched and forgotten. Of the fate of that cohort no record exists, but the
 town at least was saved--for encyclop&aelig;dias tell of the survival of Pompelo to this day,
-under the modern Spanish name of Pompelona. . . . 
+under the modern Spanish name of Pompelona. . . .
 
-     Yrs for Gothick
-Supremacy-  C &middot; IVLIVS &middot; VERVS &middot;
-MAXIMINVS.     
+Yrs for Gothick Supremacy - C &middot; IVLIVS &middot; VERVS &middot;
+
+MAXIMINVS.
