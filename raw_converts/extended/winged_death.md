@@ -1,9 +1,6 @@
 % "Winged Death" 
 % H. P. Lovecraft with Hazel Heald
 
-    
-
- 
 
  I.  
 
