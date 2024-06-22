@@ -76,4 +76,7 @@ hoard_wizard_beast.md
 night_ocean.md
 ashes.md
 in_walls_of_eryx.md
+what_moon_brings.md
+winged_death.md
+till_a_the_seas.md
 Appendix.md
