@@ -1,9 +1,4 @@
-% "Poetry and the Gods" 
-% H. P. Lovecraft and Anna Helen Crofts
-
-    
-
- 
+# Poetry and the Gods
 
 A damp, gloomy evening in April it was, just after the close of the Great War, when Marcia found
 herself alone with strange thoughts and wishes; unheard-of yearnings which floated out of the
@@ -22,82 +17,74 @@ the mood which was engulfing her more deeply each moment, she took a magazine fr
 and searched for some healing bit of poetry. Poetry had always relieved her troubled mind better
 than anything else, though many things in the poetry she had seen detracted from the influence.
 Over parts of even the sublimest verses hung a chill vapour of sterile ugliness and restraint,
-like dust on a window-pane through which one views a magnificent sunset. 
+like dust on a window-pane through which one views a magnificent sunset.
 
- Listlessly turning the magazine's pages, as if searching for an elusive
+Listlessly turning the magazine's pages, as if searching for an elusive
 treasure, she suddenly came upon something which dispelled her languor. An observer could have
 read her thoughts and told that she had discovered some image or dream which brought her nearer
-to her unattained goal than any image or dream she had seen before. It was only a bit of  
-vers libre,  that pitiful compromise of the poet who overleaps prose yet falls short of the
+to her unattained goal than any image or dream she had seen before. It was only a bit of
+vers libre, that pitiful compromise of the poet who overleaps prose yet falls short of the
 divine melody of numbers; but it had in it all the unstudied music of a bard who lives and feels,
 and who gropes ecstatically for unveiled beauty. Devoid of regularity, it yet had the wild harmony
 of winged, spontaneous words; a harmony missing from the formal, convention-bound verse she
 had known. As she read on, her surroundings gradually faded, and soon there lay about her only
 the mists of dream; the purple, star-strown mists beyond Time, where only gods and dreamers
-walk. 
+walk.
 
-  "Moon over Japan,  
-White butterfly moon! 
-Where the heavy-lidded Buddhas dream 
-To the sound of the cuckoo's call. . . . 
-The white wings of moon-butterflies 
-Flicker down the streets of the city, 
-Blushing into silence the useless wicks of round lanterns in the hands of girls. 
-
- 
-
-Moon over the tropics, 
-A white-curved bud 
-Opening its petals slowly in the warmth of heaven. . . . 
-The air is full of odours 
-And languorous warm sounds. . . .  
-A flute drones its insect music to the night 
-Below the curving moon-petal of the heavens. 
-
- 
-
-Moon over China, 
-Weary moon on the river of the sky, 
-The stir of light in the willows is like the flashing of a thousand silver minnows 
-Through dark shoals; 
-The tiles on graves and rotting temples flash like ripples, 
-The sky is flecked with clouds like the scales of a dragon. " 
+> "Moon over Japan,
+> White butterfly moon!
+> Where the heavy-lidded Buddhas dream
+> To the sound of the cuckoo's call. . . .
+> The white wings of moon-butterflies
+> Flicker down the streets of the city,
+> Blushing into silence the useless wicks of round lanterns in the hands of girls.
+>
+> Moon over the tropics,
+> A white-curved bud
+> Opening its petals slowly in the warmth of heaven. . . .
+> The air is full of odours
+> And languorous warm sounds. . . .
+> A flute drones its insect music to the night
+> Below the curving moon-petal of the heavens.
+>
+> Moon over China,
+> Weary moon on the river of the sky,
+> The stir of light in the willows is like the flashing of a thousand silver minnows
+> Through dark shoals;
+> The tiles on graves and rotting temples flash like ripples,
+> The sky is flecked with clouds like the scales of a dragon."
 
 Amid the mists of dream the reader cried to the rhythmical stars, of her delight at the coming
 of a new age of song, a rebirth of Pan. Half closing her eyes, she repeated words whose melody
 lay hid like crystals at the bottom of a stream before the dawn; hidden but to gleam effulgently
-at the birth of day. 
+at the birth of day.
 
-  "Moon over Japan, 
-White butterfly moon! 
+> "Moon over Japan,
+> White butterfly moon!
+>
+> Moon over the tropics,
+> A white-curved bud
+> Opening its petals slowly in the warmth of heaven.
+> The air is full of odours
+> And languorous warm sounds . . . languorous warm sounds.
+>
+> Moon over China,
+> Weary moon on the river of the sky . . . weary moon!"
 
- 
+ * * * * 
 
-Moon over the tropics, 
-A white-curved bud 
-Opening its petals slowly in the warmth of heaven. 
-The air is full of odours 
-And languorous warm sounds . . . languorous warm sounds. 
-
- 
-
-Moon over China, 
-Weary moon on the river of the sky . . . weary moon! " 
-
- * * * *  
-
- Out of the mists gleamed godlike the form of a youth in winged helmet and sandals,
+Out of the mists gleamed godlike the form of a youth in winged helmet and sandals,
 caduceus-bearing, and of a beauty like to nothing on earth. Before the face of the sleeper he
 thrice waved the rod which Apollo had given him in trade for the nine-corded shell of melody,
-and upon her brow he placed a wreath of myrtle and roses. Then, adoring, Hermes spoke: 
+and upon her brow he placed a wreath of myrtle and roses. Then, adoring, Hermes spoke:
 
-  "O Nymph more fair than the golden-haired sisters of Cyane or the sky-inhabiting
+_"O Nymph more fair than the golden-haired sisters of Cyane or the sky-inhabiting
 Atlantides, beloved of Aphrodite and blessed of Pallas, thou hast indeed discovered the secret
 of the Gods, which lieth in beauty and song. O Prophetess more lovely than the Sybil of Cumae
 when Apollo first knew her, though hast truly spoken of the new age, for even now on Maenalus,
 Pan sighs and stretches in his sleep, wishful to awake and behold about him the little rose-crowned
 Fauns and the antique Satyrs. In thy yearning hast thou divined what no mortal else, saving
-only a few whom the world rejects, remembereth;  that the Gods were never dead,  but only
+only a few whom the world rejects, remembereth; that the Gods were never dead, but only
 sleeping the sleep and dreaming the dreams of Gods in lotos-filled Hesperian gardens beyond
 the golden sunset. And now draweth nigh the time of their awaking, when coldness and ugliness
 shall perish, and Zeus sit once more on Olympus. Already the sea about Paphos trembleth into
@@ -113,9 +100,9 @@ man; and under the sway of bearded Saturnus shall mortals, once more sacrificing
 in beauty and delight. This night shalt thou know the favour of the Gods, and behold on Parnassus
 those dreams which the Gods have through ages sent to earth to shew that they are not dead.
 For poets are the dreams of the Gods, and in each age someone hath sung unknowing the message
-and the promise from the lotos-gardens beyond the sunset. " 
+and the promise from the lotos-gardens beyond the sunset."_
 
- Then in his arms Hermes bore the dreaming maiden through the skies. Gentle
+Then in his arms Hermes bore the dreaming maiden through the skies. Gentle
 breezes from the tower of Aiolos wafted them high above warm, scented seas, till suddenly they
 came upon Zeus holding court on the double-headed Parnassus; his golden throne flanked by Apollo
 and the Muses on the right hand, and by ivy-wreathed Dionysus and pleasure-flushed Bacchae on
@@ -127,9 +114,9 @@ but the countenances of Gods. These the dreamer recognised from images of them w
 beheld, and she knew that they were none else than the divine Maeonides, the Avernian Dante,
 the more than mortal Shakespeare, the chaos-exploring Milton, the cosmic Goethe, and the Musaean
 Keats. These were those messengers whom the Gods had sent to tell men that Pan had passed not
-away, but only slept; for it is in poetry that Gods speak to men. Then spake the Thunderer: 
+away, but only slept; for it is in poetry that Gods speak to men. Then spake the Thunderer:
 
-  "O Daughter--for, being one of my endless line, thou art indeed
+_"O Daughter--for, being one of my endless line, thou art indeed
 my daughter--behold upon ivory thrones of honour the august messengers that Gods have sent
 down, that in the words and writings of men there may be still some trace of divine beauty.
 Other bards have men justly crowned with enduring laurels, but these hath Apollo crowned, and
@@ -154,79 +141,73 @@ as one by one they sing to thee here. Each note shalt thou hear again in the poe
 to come; the poetry which shall bring peace and pleasure to thy soul, though search for it through
 bleak years thou must. Attend with diligence, for each chord that vibrates away into hiding
 shall appear again to thee after thou hast returned to earth, as Alpheus, sinking his waters
-into the soul of Hellas, appears as the crystal Arethusa in remote Sicilia. " 
+into the soul of Hellas, appears as the crystal Arethusa in remote Sicilia."_
 
- Then arose Homeros, the ancient among bards, who took his lyre and chaunted
+Then arose Homeros, the ancient among bards, who took his lyre and chaunted
 his hymn to Aphrodite. No word of Greek did Marcia know, yet did the message not fall vainly
 upon her ears; for in the cryptic rhythm was that which spake to all mortals and Gods, and needed
-no interpreter. 
+no interpreter.
 
- So too the songs of Dante and Goethe, whose unknown words clave the ether with
+So too the songs of Dante and Goethe, whose unknown words clave the ether with
 melodies easy to read and to adore. But at last remembered accents resounded before the listener.
-It was the Swan of Avon, once a God among men, and still a God among Gods: 
+It was the Swan of Avon, once a God among men, and still a God among Gods:
 
-      
- "Write, write, that from the bloody course of war, 
-My dearest master, your dear son, may hie; 
-Bless him at home in peace, whilst I from far, 
-His name with zealous fervour sanctify. "
-      
+> "Write, write, that from the bloody course of war,
+> My dearest master, your dear son, may hie;
+> Bless him at home in peace, whilst I from far,
+> His name with zealous fervour sanctify."
 
-Accents still more familiar arose as Milton, blind no more, declaimed immortal harmony: 
+Accents still more familiar arose as Milton, blind no more, declaimed immortal harmony:
 
-      
- "Or let thy lamp at midnight hour 
-Be seen in some high lonely tower, 
-Where I might oft outwatch the Bear 
-With thrice-great Hermes, or unsphere 
-The spirit of Plato, to unfold 
-What worlds or what vast regions hold 
-Th' immortal mind, that hath forsook 
-Her mansion in this fleshly nook. 
+> "Or let thy lamp at midnight hour
+> Be seen in some high lonely tower,
+> Where I might oft outwatch the Bear
+> With thrice-great Hermes, or unsphere
+> The spirit of Plato, to unfold
+> What worlds or what vast regions hold
+> Th' immortal mind, that hath forsook
+> Her mansion in this fleshly nook.
 
-  * * * *  
+ * * * * 
 
-Sometime let gorgeous Tragedy 
-In sceptred pall come sweeping by, 
-Presenting Thebes, or Pelops' line, 
-Or the tale of Troy divine. "
-      
+> Sometime let gorgeous Tragedy
+> In sceptred pall come sweeping by,
+> Presenting Thebes, or Pelops' line,
+> Or the tale of Troy divine."
 
 Last of all came the young voice of Keats, closest of all the messengers to
-the beauteous faun-folk: 
+the beauteous faun-folk:
 
-      
- "Heard melodies are sweet, but those unheard 
-Are sweeter; therefore, ye soft pipes, play on. . . . 
+_"Heard melodies are sweet, but those unheard
+Are sweeter; therefore, ye soft pipes, play on. . . ._
 
-  * * * *  
+ * * * * 
 
-When old age shall this generation waste, 
-Thou shalt remain, in midst of other woe 
-Than ours, a friend to man, to whom thou say'st, 
-"Beauty is truth--truth beauty'--that is all 
-Ye know on earth, and all ye need to know. "
-      
+_When old age shall this generation waste,
+Thou shalt remain, in midst of other woe
+Than ours, a friend to man, to whom thou say'st,
+"Beauty is truth--truth beauty'--that is all
+Ye know on earth, and all ye need to know."_
 
- As the singer ceased, there came a sound in the wind blowing from far Egypt,
+As the singer ceased, there came a sound in the wind blowing from far Egypt,
 where at night Aurora mourns by the Nile for her slain son Memnon. To the feet of the Thunderer
-flew the rosy-fingered Goddess, and kneeling, cried, "Master, it is time I unlocked the
-gates of the East. " And Phoebus, handing his lyre to Calliope, his bride among the Muses,
+flew the rosy-fingered Goddess, and kneeling, cried, _"Master, it is time I unlocked the
+gates of the East."_ And Phoebus, handing his lyre to Calliope, his bride among the Muses,
 prepared to depart for the jewelled and column-raised Palace of the Sun, where fretted the steeds
 already harnessed to the golden car of day. So Zeus descended from his carven throne and placed
-his hand upon the head of Marcia, saying: 
+his hand upon the head of Marcia, saying:
 
-  "Daughter, the dawn is nigh, and it is well that thou shouldst return
+_"Daughter, the dawn is nigh, and it is well that thou shouldst return
 before the awaking of mortals to thy home. Weep not at the bleakness of thy life, for the shadow
 of false faiths will soon be gone, and the Gods shall once more walk among men. Search thou
 unceasingly for our messenger, for in him wilt thou find peace and comfort. By his word shall
 thy steps be guided to happiness, and in his dreams of beauty shall thy spirit find all that
-it craveth. " As Zeus ceased, the young Hermes gently seized the maiden and bore her up
-toward the fading stars; up, and westward over unseen seas. 
+it craveth."_ As Zeus ceased, the young Hermes gently seized the maiden and bore her up
+toward the fading stars; up, and westward over unseen seas.
 
-  * * * *  
+ * * * * 
 
- Many years have passed since Marcia dreamt of the Gods and of their Parnassian
+Many years have passed since Marcia dreamt of the Gods and of their Parnassian
 conclave. Tonight she sits in the same spacious drawing-room, but she is not alone. Gone is
 the old spirit of unrest, for beside her is one whose name is luminous with celebrity; the young
 poet of poets at whose feet sits all the world. He is reading from a manuscript words which
@@ -236,8 +217,8 @@ to sleep in lotos-gardens beyond the lands of the Hesperides. In the subtle cade
 melodies of the bard the spirit of the maiden has found rest at last, for there echo the divinest
 notes of Thracian Orpheus; notes that moved the very rocks and trees by Hebrus' banks.
 The singer ceases, and with eagerness asks a verdict, yet what can Marcia say but that the strain
-is "fit for the Gods "? 
+is _"fit for the Gods"_?
 
- And as she speaks there comes again a vision of Parnassus and the far-off sound
-of a mighty voice saying, "By his word shall thy steps be guided to happiness, and in his
-dreams of beauty shall thy spirit find all that it craveth. " 
+And as she speaks there comes again a vision of Parnassus and the far-off sound
+of a mighty voice saying, _"By his word shall thy steps be guided to happiness, and in his
+dreams of beauty shall thy spirit find all that it craveth."_ 

@@ -46,6 +46,7 @@ of horror.
 | The Thing in the Moonlight    |   1941    | A man experiences a nightmarish vision in which he encounters a monstrous figure in a desolate landscape under the moonlight.                                                                                                  |
 | Pickman's Model               |   1927    | An artist discovers the horrifying truth behind his friend's disturbing artwork.                                                                                                                                               |
 | The Temple                    |   1925    | A German U-boat crew discovers a sunken city inhabited by ancient, malevolent beings.                                                                                                                                          |
+| Under the Pyramids            |   1924    | Harry Houdini is captured and thrown into an underground labyrinth beneath the Egyptian pyramids, encountering ancient gods and monstrous creatures.                                                                           |
 | Medusa's Coil                 |   1939    | (_with Zealia Bishop_) An artist becomes entangled with a sinister woman whose true, monstrous nature leads to horrific consequences.                                                                                          |
 | The Challenge from Beyond     |   1935    | (with _C.L. Moore_, _A. Merritt_, _Robert E. Howard_, and _Frank Belknap Long_) The science fiction half of the story involves a man who finds an ancient crystal that transports his mind into the body of an alien creature. |
 | The Electric Executioner      |   1930    | (_with Adolphe de Castro_) A tale of a scientist who creates a mechanical executioner that gains a life of its own, leading to tragic consequences.                                                                            |
@@ -57,4 +58,7 @@ of horror.
 | What the Moon Brings          |   1923    | A dreamlike narrative where the protagonist encounters bizarre and horrifying visions in a moonlit landscape.                                                                                                                  |
 | Winged Death                  |   1934    | A scientist discovers a way to control deadly tsetse flies, using them for nefarious purposes with horrific consequences.                                                                                                      |
 | Till A' the Seas              |   1935    | In a distant future where Earth has become an arid wasteland, the last surviving humans struggle to cope with the desolate environment and inevitable extinction.                                                              |
+
+
+
 
